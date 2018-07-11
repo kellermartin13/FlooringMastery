@@ -1,0 +1,21 @@
+24,Lord Mystery,The Demon and Toad,23.75,Mistgold Of Men,114.00,2787.01,44.00,317719.14,5016.00,77456.43,400191.57
+515,"Selik, God of Death",The Bastion of Gothmog of Udun,37.45,Nymphs' Luminous Rotmercury Of The Skies,128.00,266.00,189.00,34048.00,24192.00,21548.80,79788.80
+1404,"Zepul, Lady of Vengeance",The Beggar and Cask,21.00,Meteoric Dustzephyr Orichalcum,220.00,375.00,221.89,82500.00,48815.80,27576.32,158892.12
+2204,Bedlam Spiritraven,Haukri's Hold,25.30,Poison Adamant,225.00,298.00,406.38,67050.00,91435.50,39621.38,198106.88
+3514,Evilbrood,The Grey Plains,19.97,Forgotten Mithril,160.00,913.00,316.00,146080.00,50560.00,39328.00,235968.00
+5393,Deathbrood,The Tower of Sheshbazzu,3.30,Primordial Plague Mercury Of Legend,270.00,339.81,273.90,91748.70,73953.00,4971.05,170672.75
+6216,Spikespawn,The Broken Arrow,30.07,God-touched Greengem Platinum,294.00,1281.72,-36.00,376825.68,-10584.00,109872.50,476114.18
+9176,Wind Dire,Moor Village,57.42,Rocklava Mithril Of Revenants,216.00,1818.30,14.33,392752.80,3095.28,225633.41,621481.49
+11339,Shadow Gust,Unicorn's Ward,14.64,Devils' Falserot Silver,28.00,1668.51,182.71,46718.28,5115.88,7775.12,59609.28
+12278,Harmony Angelchild,Castle Village,37.51,Incubi's Glittering Tin Of The Future,184.00,3349.54,79.86,616315.36,14694.24,239783.65,870793.25
+12984,"Uriel, God of Fate",The Fortress of Gama,10.16,Mind Lead,257.00,2844.70,309.10,731087.90,79438.70,81052.66,891579.26
+13032,Evilfear The Horrorific,Gawold Castle,6.05,Imperial Fate Steel,223.00,2993.93,-44.92,667646.39,-10017.16,39457.75,697086.98
+13258,"Gono, Goddess of the Earth",Eved Castle,5.09,Green Dustlightning Mercury,287.00,3868.70,35.20,1110316.90,10102.40,56020.96,1176440.26
+13518,Claw Mist,Castle Village,41.26,Ghostly Soul Adamant,101.00,3222.96,229.53,325518.96,23182.53,142967.61,491669.10
+13547,Lightning Brand,The Pilgrim's Cup,46.12,White Platinum,205.00,-63.64,159.50,-13046.20,32697.50,9039.60,28690.90
+15123,Bedlam Spiritraven,Minas Gilloy,43.19,Primordial Mud Orichalcum,221.00,-387.90,85.11,-85725.90,18809.31,-28774.13,-95690.72
+17031,Spikerivet,Arcanist's Farthing,3.30,Foul Ice Bronze Of Life,124.00,-101.43,142.78,-12577.32,17704.72,153.82,5281.22
+19358,Evilcoil The Machine,Archfane District,36.16,Toxic Mistlead Of The Past,257.00,1557.54,164.64,400287.78,42312.48,159336.09,601936.35
+20231,Bedlam Spiritraven,Archtemple District,27.76,Unicorns' Evil Mithril,275.00,4802.49,377.52,1320684.75,103818.00,398860.77,1823363.52
+21435,Nettool The Grasping,Pawic Keep,0.62,Planar Rainfate Mithril,215.00,1304.42,320.52,280450.30,68911.80,3493.62,352855.72
+22279,Song Runetomb,Cawold Castle,29.15,Muck Orichalcum Of Ogres,156.00,4561.14,485.76,711537.84,75778.56,228321.76,1015638.16

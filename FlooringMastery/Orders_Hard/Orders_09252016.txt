@@ -1,0 +1,19 @@
+2491,"Prusu, God of Love",The Bastion of the Lich Tyrant,43.00,Forgotten Mithril,284.00,913.00,316.00,259292.00,89744.00,150085.48,499121.48
+2825,Bedlam Spiritraven,Boiaburh Keep,16.00,Negative Mercury,239.00,4054.87,361.00,969113.93,86279.00,168862.87,1224255.80
+7414,Song Runetomb,Tradun Castle,34.24,Unknown Fatelightning Steel Of The Glacier,326.00,2017.40,54.28,657672.40,17695.28,229625.01,904992.69
+7445,Deathbrood,The Broken Shield,37.23,Rot Silver Of The Past,284.00,3440.00,327.00,976960.00,92868.00,395836.36,1465664.36
+9545,Zeal Bladewitch,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,80.00,3773.99,269.83,301919.20,21586.40,48525.84,372031.44
+9812,Rouge Roguemist,Unicorn's Ward,14.64,Shadow Steel,202.00,4677.78,465.30,944911.56,93990.60,155835.32,1194737.48
+11964,Boltcrank The Trapper,The Tomb of Hellish Ruin,16.94,Angels' Adamant,128.00,1304.00,179.30,166912.00,22950.40,32276.61,222139.01
+13684,"Prusu, God of Love",Eved Castle,5.09,Legendary Mithril Of The Moon,184.00,2707.10,125.84,498106.40,23154.56,26063.05,547324.01
+14432,"Iran, Lord of Nightmares",The Beggar and Cask,25.41,Legendary Mithril Of The Moon,112.00,2707.10,125.84,303195.20,14094.08,79322.32,396611.60
+14537,"Baltha, Goddess of Knowledge",Grove Farthing,19.80,Unknown Fatelightning Steel Of The Glacier,222.00,2441.05,65.68,541913.10,14580.96,111298.81,667792.87
+16861,Emberspawn,The Fortress of Gama,10.16,Ensorceled Gold Of The Dawn,278.00,6913.92,402.92,1922069.76,112011.76,203408.15,2237489.67
+18408,Spikesnare,The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,176.00,-17.00,276.00,-2992.00,48576.00,20056.96,65640.96
+19632,Rune Rougehate,Gifeld Castle,6.22,Mithril Of The Tropics,86.00,4538.71,11.98,390329.06,1030.28,23481.56,414840.90
+19734,Wind Dire,Weke Tower,-0.07,Goddesses' Spectral Poison Steel,233.00,5023.18,296.81,1170400.94,69156.73,0.00,1239557.67
+20004,Icechill The Frigid,The Forsaken Sepulcher of Sorrows,53.67,Incubi's Iron Of The Dawn,335.00,1200.96,424.31,402321.60,142143.85,294011.34,838476.79
+20006,Chainnail,Weke Tower,-0.07,Foulopal Copper Of The Skies,153.00,1787.91,403.00,273550.23,61659.00,0.00,335209.23
+21772,Bronzespawn,The Grey Plains,21.97,Sprites' Transcendent Mud Lead Of The South,171.00,2081.80,321.86,355987.80,55038.06,90425.69,501451.55
+22668,Gale Jackalguard,Grove Farthing,19.80,Djinni's Evil Sandobsidian Steel Of The Future,325.00,4208.60,172.78,1367795.00,56153.50,284789.70,1708738.20
+22954,Grave Mistseeker,Boiaburh Keep,17.60,Thunderbirds' Transcendent Dreamiron,56.00,2275.25,237.70,127414.00,13311.20,25330.54,166055.74

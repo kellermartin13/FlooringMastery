@@ -1,0 +1,21 @@
+611,Sephiroth Drakecaster,Shainan's Hold,18.00,Legendary Mithril Of The Moon,267.00,2461.00,104.00,657087.00,27768.00,123273.90,808128.90
+1147,"Addon, Lord of Death",The Forsaken Tomb of Devastation,0.00,Phantasmal Lead,155.00,-457.00,245.47,-70835.00,38047.85,0.00,-32787.15
+1934,"Alik, Goddess of Trickery",Barad Cune,26.00,Violetdream Iron,326.00,1224.69,349.36,399248.94,113891.36,133416.48,646556.78
+3469,Burnfreeze The Cold,The Flying Witch,11.45,Litches' Fatal Mithril Of The Past,323.00,1207.25,335.50,389941.75,108366.50,54813.91,553122.16
+3839,Seraphim Tsunami,The Dungeon of Merciless Woe,38.62,Violetstone Tin Of Death,202.00,2245.23,156.10,453536.46,31532.20,189176.78,674245.44
+7418,Lightning Brand,The Forsaken Delve of Lord Greywulf,39.00,Rot Silver Of The Past,123.00,3440.00,327.00,423120.00,40221.00,180702.99,644043.99
+7802,Freezebrood,Minas Gilloy,39.26,Meteoric Mirrormuck Orichalcum Of The Forests,61.00,2158.20,185.77,131650.20,11331.97,55763.05,198745.22
+11844,Rouge Tombreaper,South Brightcrown Borough,42.25,Ghostly Magic Adamant,238.00,4836.38,230.90,1151058.44,54954.20,506525.31,1712537.95
+12202,Fate Ivycaster,Reheath Stronghold,8.00,Fairies' Supreme Mistsmoke Lead Of The Future,318.00,3349.50,324.73,1065141.00,103264.14,93472.41,1261877.55
+12208,Sunset Knightclaw,The Tomb of Hellish Ruin,16.94,Sprites' Transcendent Mud Lead Of The South,122.00,2081.80,321.86,253979.60,39266.92,49851.91,343098.43
+12866,Spikesnare,The Grey Plains,19.97,Phantasmal Smokezephyr Mercury Of Men,221.00,-464.37,75.90,-102625.77,16773.90,-17170.37,-103022.24
+14927,Snaretool The Constructed,The Cracked Chalice,2.52,Primordial Mud Orichalcum,172.00,-387.90,85.11,-66718.80,14638.92,-1562.40,-53642.28
+15672,Storm Seraphheart,Gifeld Castle,6.22,Incubi's Iron Of The Dawn,156.00,1200.96,424.31,187349.76,66192.36,15212.53,268754.65
+16876,Lightning Brand,The Citadel of Cheno,7.33,Fleshshock Mercury,197.00,4858.70,338.07,957163.90,66599.79,71663.46,1095427.15
+17483,Emberspawn,The Citadel of Alammius,3.85,Fog Lavaplatinum Of Life,234.00,1078.00,18.70,252252.00,4375.80,10265.11,266892.91
+18860,Springcoil,The Forsaken Delve of Lord Greywulf,42.90,Mana-touched Greenglitter Gold Of Giants,71.00,1291.38,514.25,91687.98,36511.75,55125.88,183325.61
+19191,"Selik, God of Death",The Forsaken Delve of Lord Greywulf,42.90,Incubi's Mirrorfog Iron Of The Ocean,244.00,5806.50,-26.08,1416786.00,-6363.52,606481.67,2016904.15
+19393,Cult Godseeker,North Grove Ward,7.99,Witchs' Forbidden Rockrainbow Bronze,172.00,655.60,425.92,112763.20,73258.24,14881.72,200903.16
+19489,Burnchill The Evil,Castle Village,49.93,Toxic Mistlead Of The Past,124.00,1557.54,164.64,193134.96,20415.36,106775.16,320325.48
+20765,Deathspike The Terrifying,The Forsaken Hive of Galima the Mighty,29.89,Unknowable Mindsilver,247.00,4313.65,402.60,1065471.55,99442.20,349474.12,1514387.87
+21492,"Maeglodor, God of Thieves",Pewold Keep,22.57,Hidden Shadowice Lead,310.00,2729.00,-62.23,845990.00,-19291.30,190140.70,1016839.40

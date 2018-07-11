@@ -1,0 +1,21 @@
+258,Grave Mistseeker,The Glano Forest,3.00,Planar Mudtin Of Trolls,207.00,2094.92,335.36,433648.44,69419.52,15092.04,518160.00
+436,Cult Godseeker,The Temple of Merciless Necromancy,42.10,Tritons' Time Stoneiron Of Legend,185.00,1760.00,168.90,325600.00,31246.50,149875.53,506722.03
+1624,Rose Anchor,The Hunter and Rose,36.73,Incubi's Iron Of The Dawn,225.00,1200.96,385.74,270216.00,86791.50,132092.78,489100.28
+2983,"Alik, Goddess of Trickery",The Hunter and Rose,40.40,Phantasmal Tin Of The Swamps,249.00,4074.00,-6.60,1014426.00,-1643.40,405113.04,1417895.64
+4216,Dagger Reaper,Citadel Ward,25.82,Violetstone Tin Of Death,282.00,2245.23,156.10,633154.86,44020.20,176065.52,853240.58
+5533,Gravebone The Unspeakable,Gena's Hold,2.20,Forgotten Mithril,200.00,913.00,316.00,182600.00,63200.00,4916.00,250716.00
+6834,Flora Amberslayer,Weke Tower,-0.05,Foul Ice Bronze Of Life,93.00,-92.21,129.80,-8575.53,12071.40,0.00,3495.87
+6878,"Avriel, God of Death",The Flying Witch,11.45,Djinni's Mind Fogiron,266.00,2301.02,74.02,612071.32,19689.32,69493.67,701254.31
+7251,Tarot Dawn,The Bastion of Barbos,23.42,Hell Mercury Of The East,227.00,4636.34,284.60,1052449.18,64604.20,256922.28,1373975.66
+7612,Harmony Angelchild,The Broken Shield,37.23,Unknown Fatelightning Steel Of The Glacier,216.00,2017.40,54.28,435758.40,11724.48,165568.67,613051.55
+10702,"Maeglodor, God of Thieves",The Citadel of Lord Greywulf,33.04,Shadowhell Mithril,103.00,439.23,286.41,45240.69,29500.23,24664.50,99405.42
+12623,"Suriel, Lord of Animals",The Wizard's House,43.58,Forgotten Mithril,41.00,1104.73,316.00,45293.93,12956.00,25629.97,83879.90
+13904,"Lionare, God of the Lost",The Cracked Chalice,2.52,Violetstone Tin Of Death,113.00,2469.75,171.71,279081.75,19403.23,8954.55,307439.53
+14779,"Iran, Lord of Nightmares",The Archer and Scroll,39.60,Swordbronze,168.00,1485.01,447.01,249481.68,75097.68,129831.74,454411.10
+17402,Fate Seeker,The Grey Plains,19.97,Negative Rockglitter Mercury Of Trolls,249.00,1632.29,619.42,406440.21,154235.58,112135.16,672810.95
+18125,Emberspawn,Archfane District,36.16,Poison Adamant,234.00,1266.52,64.44,296365.68,15078.96,112120.07,423564.71
+18661,Fate Seeker,South Brightcrown Borough,42.25,Meteoric Dustzephyr Orichalcum,314.00,375.00,268.49,117750.00,84305.86,84863.46,286919.32
+18991,Spikerivet,The Forsaken Delve of Lord Greywulf,42.90,Mistgold Of Men,153.00,4488.51,53.24,686742.03,8145.72,298801.73,993689.48
+20047,Flora Amberslayer,The Bloody Wand,15.97,Planar Rainfate Mithril,182.00,1185.84,320.52,215822.88,58334.64,43865.20,318022.72
+20309,"Alas, Lord of Plague",The Warrior and Flagon,53.24,Angels' Smoke Adamant Of The Mountains,289.00,3427.13,260.15,990440.57,75183.35,564780.68,1630404.60
+21159,Springsprocket,Peley Keep,26.33,Golems' Stonesapphire Gold Of The Glacier,196.00,4444.06,128.23,871035.76,25133.08,233003.90,1129172.74

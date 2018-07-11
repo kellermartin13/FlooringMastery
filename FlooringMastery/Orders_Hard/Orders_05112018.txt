@@ -1,0 +1,12 @@
+1921,"Azah, Goddess of Fate",The Forsaken Tomb of Devastation,0.00,Incubi's Mirrorfog Iron Of The Ocean,99.00,4798.76,-19.59,475077.24,-1939.41,0.00,473137.83
+3587,Chillfire The Chiller,The Bastion of the Lich Tyrant,43.00,Ensorceled Sandmetal Of Spirits,195.00,2956.98,87.00,576611.10,16965.00,255237.72,848813.82
+8111,Seraphim Tsunami,Lordsgate Farthing,41.14,Mistgold Of Men,346.00,3065.71,48.40,1060735.66,16746.40,441767.64,1519249.70
+9579,"Prusu, God of Love",Fellfen Keep,46.23,Emerald Orichalcum,281.00,-368.87,128.90,-103652.47,36220.90,-31018.52,-98450.09
+9666,Burnchill The Evil,Tower Farthing,27.12,Spirits' Living Wordhammer Tin Of The Trees,256.00,4777.30,26.40,1222988.80,6758.40,332031.74,1561778.94
+10331,Dawn Darkzealot,The Citadel of Lord Greywulf,33.04,Sphinxes' Mistsoul Bronze Of The Past,264.00,2169.81,202.07,572829.84,53346.48,206638.19,832814.51
+11308,Chainblade The Cadaverous,The Fortress of the Lich Queen,36.35,Green Dustlightning Mercury,181.00,3517.00,35.20,636577.00,6371.20,231461.35,874409.55
+12936,Bronzespawn,The Dread Hive of Illfang the Kobold Lord,1.46,Nymphs' Luminous Rotmercury Of The Skies,164.00,292.60,189.00,47986.40,30996.00,789.82,79772.22
+17469,"Lionare, God of the Lost",The Grey Plains,19.97,Grayplatinum,178.00,2506.27,306.97,446116.06,54640.66,100151.34,600908.06
+20471,Grave Mistseeker,The Black Barrow of Zago the Possessed,30.80,Greenlead,266.00,959.65,179.65,255266.90,47786.90,93946.68,397000.48
+20859,Harmony Angelchild,Waleah Castle,0.85,Sphinxes' Unknown Poisongold Of The Future,122.00,4301.28,23.86,524756.16,2910.92,5276.67,532943.75
+23260,Dawn Darkzealot,Pawic Keep,0.62,Incubi's Iron Of The Dawn,46.00,1200.96,424.31,55244.16,19518.26,747.62,75510.04

@@ -1,0 +1,20 @@
+97,Cathy "Wildfire" Neal,ND,1.25,Cedar Planks,87.00,2.00,5.00,174.00,435.00,6.09,615.09
+887,Heather "Tornado" Newman,ND,1.25,Pebbles,285.00,0.80,4.00,228.00,1140.00,13.68,1381.68
+1691,Ida Russell "the Rustler",IA,1.00,Solid Oak,257.00,5.00,5.00,1285.00,1285.00,25.70,2595.70
+1813,Kathy Murphy "the Thinker",OK,2.00,Cedar Planks,180.00,2.00,5.00,360.00,900.00,25.20,1285.20
+5336,Maureen "Cursed" Andrews,NV,0.25,Cedar Planks,52.00,2.00,5.50,104.00,286.00,0.00,390.00
+6573,Cathy "Loner Demon" Murray,CA,0.55,Pebbles,124.00,0.80,4.84,99.20,600.16,6.99,706.35
+7259,Maureen "Cursed" Andrews,AR,2.20,Solid Oak,217.00,5.50,5.50,1193.50,1193.50,47.74,2434.74
+10486,Michele Watson "the Loner",ID,0.00,Pebbles,190.00,0.88,4.84,167.20,919.60,0.00,1086.80
+11034,Michele Watson "the Loner",WY,0.31,Beechwood,179.00,3.00,5.50,537.00,984.50,0.00,1521.50
+11574,Vengeful Robertson,NV,0.31,Pebbles,199.00,0.88,4.84,175.12,963.16,0.00,1138.28
+11672,Susan "Damnation" Fleming,TX,0.67,Beechwood,237.00,3.00,5.50,711.00,1303.50,20.14,2034.64
+11815,Renee "Hellish Empress" Banks,MS,3.00,Dirt,229.00,0.50,1.00,114.50,229.00,10.30,353.80
+12005,Mattie Grant "the Gambler",KS,0.55,Reeds,282.00,0.75,2.20,211.50,620.40,8.32,840.22
+13586,Cathy "Loner Demon" Murray,ID,0.00,Pinecones,101.00,1.50,2.66,151.50,268.66,0.00,420.16
+14562,Surgeon Grant,MO,2.20,Pebbles,117.00,0.88,4.84,102.96,566.28,13.38,682.62
+16297,Mattie Grant "the Gambler",MS,3.00,Brick,241.00,5.32,6.66,1282.12,1605.06,86.62,2973.80
+16924,Cathy "Wildfire" Neal,NM,2.66,Brick,254.00,5.32,6.66,1351.28,1691.64,91.29,3134.21
+17227,Allison "Steel Gravedigger" Douglas,OK,2.42,Cedar Planks,211.00,2.20,6.66,464.20,1405.26,37.39,1906.85
+18047,Mabel "Vixen Cursed" King,UT,0.00,Dirt,109.00,0.50,1.00,54.50,109.00,0.00,163.50
+23481,Tina "Lady" Anderson,AL,1.00,Cedar Planks,133.00,2.20,6.66,292.60,885.78,11.78,1190.16

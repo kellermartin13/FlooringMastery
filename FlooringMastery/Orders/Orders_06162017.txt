@@ -1,0 +1,20 @@
+241,Stella "the Bully",MS,3.00,Beechwood,314.00,3.00,5.00,942.00,1570.00,75.36,2587.36
+383,Surgeon Grant,ND,1.25,Beechwood,216.00,3.00,5.00,648.00,1080.00,17.28,1745.28
+958,Surgeon Grant,NV,0.25,Pebbles,351.00,0.80,4.00,280.80,1404.00,0.00,1684.80
+1028,Theresa "Kid" Robinson,AL,1.00,Beechwood,89.00,3.00,5.00,267.00,445.00,7.12,719.12
+3620,Theresa "Kid" Robinson,AL,1.00,Leather,130.00,10.00,16.50,1300.00,2145.00,34.45,3479.45
+3977,Cathy "Loner Demon" Murray,UT,0.00,Dirt,114.00,0.50,1.00,57.00,114.00,0.00,171.00
+5393,Gloria "Devil" McCoy,ID,0.00,Reeds,272.00,0.75,2.20,204.00,598.40,0.00,802.40
+6969,Maureen "Cursed" Andrews,CA,0.55,Leather,122.00,10.00,18.15,1220.00,2214.30,34.34,3468.64
+7898,Mattie Grant "the Gambler",AL,1.00,Dirt,45.00,0.50,1.00,22.50,45.00,0.68,68.18
+10590,Vicki "Mesa" Rhodes,CA,0.55,Solid Oak,240.00,5.50,5.50,1320.00,1320.00,26.40,2666.40
+11921,Vengeful Robertson,MS,3.00,Dirt,143.00,0.50,1.00,71.50,143.00,6.44,220.94
+13899,Vengeful Robertson,TX,0.67,Leather,135.00,11.00,18.15,1485.00,2450.25,39.35,3974.60
+14087,Marie "Raven" Chapman,TX,0.67,Cedar Planks,225.00,2.20,6.05,495.00,1361.25,18.56,1874.81
+14329,Jacqueline "Riding Doc" Washington,AR,2.20,Cedar Planks,157.00,2.20,6.05,345.40,949.85,25.90,1321.15
+14512,Cathy "Loner Demon" Murray,AL,1.00,Cedar Planks,167.00,2.20,6.05,367.40,1010.35,13.78,1391.53
+14965,Marie "Raven" Chapman,OK,2.42,Reeds,64.00,0.75,2.20,48.00,140.80,3.78,192.58
+17041,Geraldine "Revenge" Warren,MO,2.20,Cedar Planks,99.00,2.20,6.05,217.80,598.95,16.34,833.09
+17380,Theresa "Scalphunter" Romero,CA,0.61,Packed Dirt,144.00,1.10,2.20,158.40,316.80,4.75,479.95
+17565,Minnie Lawson "the Apostle",NM,2.66,Leather,264.00,11.00,19.97,2904.00,5272.08,245.28,8421.36
+19444,Vanessa "Scalper" Rhodes,ID,0.00,Reeds,122.00,0.83,2.20,101.26,268.40,0.00,369.66

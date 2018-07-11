@@ -1,0 +1,11 @@
+404,Deborah "the Lady",UT,0.00,Leather,135.00,10.00,15.00,1350.00,2025.00,0.00,3375.00
+404,Victoria "the Dancer",OK,2.00,Solid Oak,222.00,5.00,5.00,1110.00,1110.00,44.40,2264.40
+2732,April "Thunderbird" Dunn,NV,0.25,Cedar Planks,285.00,2.00,5.50,570.00,1567.50,0.00,2137.50
+4598,Deborah "the Lady",NM,2.20,Pinecones,208.00,1.50,2.42,312.00,503.36,16.31,831.67
+6137,Minnie Lawson "the Apostle",MS,3.00,Packed Dirt,306.00,1.00,1.50,306.00,459.00,22.95,787.95
+7003,Mabel "Vixen Cursed" King,ID,0.00,Beechwood,94.00,3.00,5.00,282.00,470.00,0.00,752.00
+8395,"Bane" Jennings,OK,2.20,Pebbles,98.00,0.88,4.84,86.24,474.32,11.21,571.77
+11086,Jo "the Joker",IA,1.21,Dirt,99.00,0.50,1.00,49.50,99.00,1.48,149.98
+12050,Heather "Friendly Gambler" Barrett,UT,0.00,Pebbles,191.00,0.88,4.84,168.08,924.44,0.00,1092.52
+13721,Cathy "Loner Demon" Murray,MT,3.99,Pinecones,216.00,1.50,2.66,324.00,574.56,35.94,934.50
+14541,Beth "Fortunate Shooter" Powell,MS,3.00,Solid Oak,159.00,5.50,5.50,874.50,874.50,52.47,1801.47

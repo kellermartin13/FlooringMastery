@@ -1,0 +1,21 @@
+906,Debra "Scorpion" Lane,UT,0.00,Dirt,180.00,0.50,1.00,90.00,180.00,0.00,270.00
+931,Jo "the Joker",UT,0.00,Pinecones,148.00,1.50,2.00,222.00,296.00,0.00,518.00
+964,Stella "the Bully",AR,2.20,Pebbles,311.00,0.80,4.00,248.80,1244.00,29.86,1522.66
+1888,Theresa "Kid" Robinson,WY,0.25,Dirt,385.00,0.50,1.00,192.50,385.00,0.00,577.50
+3693,Michele Watson "the Loner",TX,0.50,Solid Oak,137.00,5.50,5.00,753.50,685.00,0.00,1438.50
+7847,Vengeful Robertson,AL,1.00,Leather,302.00,10.00,18.15,3020.00,5481.30,85.01,8586.31
+9275,Tammy Carlson "the Killer",NV,0.31,Cedar Planks,146.00,2.20,6.05,321.20,883.30,0.00,1204.50
+9416,Betty "Happy Thinker" Watson,CA,0.55,Reeds,223.00,0.75,2.20,167.25,490.60,6.58,664.43
+9588,Melissa "Lonesome Stalker" Riley,IA,1.21,Cedar Planks,71.00,2.20,6.05,156.20,429.55,5.86,591.61
+9728,"Doom" McCoy,MO,2.20,Pinecones,118.00,1.50,2.66,177.00,313.88,9.82,500.70
+10135,Evelyn "Evil Joker" Taylor,ND,1.25,Leather,87.00,10.00,18.15,870.00,1579.05,24.49,2473.54
+14163,"Sunrise" Miles,NV,0.31,Packed Dirt,242.00,1.10,2.00,266.20,484.00,0.00,750.20
+16413,Dorothy "the Hunter",OK,2.42,Dirt,132.00,0.50,1.00,66.00,132.00,3.96,201.96
+17021,Michele Watson "the Loner",ND,1.38,Pinecones,210.00,1.50,2.66,315.00,558.60,8.74,882.34
+17914,Surgeon Grant,WY,0.31,Leather,80.00,11.00,19.97,880.00,1597.60,0.00,2477.60
+18674,Diana "Mistress" Morgan,ID,0.00,Brick,177.00,5.32,6.66,941.64,1178.82,0.00,2120.46
+20247,Michele Watson "the Loner",NV,0.31,Packed Dirt,116.00,1.10,2.42,127.60,280.72,0.00,408.32
+20322,Stella "the Bully",MO,2.20,Solid Oak,138.00,5.50,6.66,759.00,919.08,33.56,1711.64
+21967,Geraldine "Revenge" Warren,ND,1.67,Reeds,203.00,0.83,2.20,168.49,446.60,12.30,627.39
+22810,Melissa "Lonesome Stalker" Riley,UT,0.00,Leather,279.00,11.00,19.97,3069.00,5571.63,0.00,8640.63
+22965,Kathy Murphy "the Thinker",IA,1.33,Packed Dirt,170.00,1.10,2.42,187.00,411.40,5.98,604.38

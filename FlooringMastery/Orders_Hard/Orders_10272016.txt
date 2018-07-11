@@ -1,0 +1,15 @@
+443,Bronzespawn,Gifeld Castle,5.65,Fog Lavaplatinum Of Life,171.00,1078.00,17.00,184338.00,2907.00,11234.70,198479.70
+563,"Ingwenel, God of War",The Dismal Marsh,5.00,Fog Lavaplatinum Of Life,249.00,1078.00,17.00,268422.00,4233.00,13632.75,286287.75
+1860,"Finarfin, God of Protection",Hartshill Ward,41.98,Poison Adamant,347.00,298.00,406.38,103406.00,141013.86,102656.34,347076.20
+2827,Tarot Dawn,The Nulukkhath Spires,9.63,Hell Mercury Of The East,227.00,4636.34,284.60,1052449.18,64604.20,111705.34,1228758.72
+4174,Dagger Reaper,The Secret Shrine of the Gargoyle Count,-2.00,Yellow Mistearth Copper,260.00,4575.58,-27.40,1189650.80,-7124.00,-23650.54,1158876.26
+4817,Spikespawn,Grove Farthing,18.00,Zephyr Adamant,132.00,4224.00,102.93,557568.00,13586.76,102807.86,673962.62
+7921,Emberspawn,Barad Kesa,4.32,Venom Timegold Of Dwarves,120.00,3036.00,269.00,364320.00,32280.00,15864.00,412464.00
+8046,Springcoil,The Dungeon of Dismal Terror,-3.50,Djinni's Mind Fogiron,39.00,2301.02,74.02,89739.78,2886.78,-3705.06,88921.50
+13396,"Lionare, God of the Lost",Arcanist's Farthing,3.00,Meteoric Dustzephyr Orichalcum,231.00,375.00,268.49,86625.00,62021.19,4459.39,153105.58
+16177,Springpulley The Binder,Peley Keep,26.33,Otherworldly Mirror Orichalcum,99.00,-298.87,526.35,-29588.13,52108.65,5855.34,28375.86
+17807,"Finarfin, God of Protection",The Cracked Chalice,2.52,Sphinxes' Mistsoul Bronze Of The Past,238.00,2169.81,222.28,516414.78,52902.64,17079.52,586396.94
+17964,Sunrise Godwarlock,Archfane District,36.16,Trolls' Mist Poisonplatinum Of The Twilight,234.00,567.79,434.39,132862.86,101647.26,84423.64,318933.76
+17992,Song Runetomb,Dysley Stronghold,45.98,God-touched Faterainbow Orichalcum Of Spectres,330.00,370.41,32.01,122235.30,10563.30,61087.36,193885.96
+18937,Spikespawn,Bifar's Deep,18.70,Mana-touched Greenglitter Gold Of Giants,222.00,1291.38,514.25,286686.36,114163.50,76161.47,477011.33
+19249,Rouge Tombreaper,The Secret Shrine of the Gargoyle Count,-2.00,Ghostly Soul Adamant,51.00,3222.96,229.53,164370.96,11706.03,-3521.54,172555.45

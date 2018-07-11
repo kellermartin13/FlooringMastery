@@ -1,0 +1,21 @@
+2701,Renee "Hellish Empress" Banks,ID,0.00,Pinecones,246.00,1.50,2.20,369.00,541.20,0.00,910.20
+3262,Victoria "the Dancer",AR,2.20,Leather,74.00,10.00,16.50,740.00,1221.00,39.22,2000.22
+4659,Maureen "Cursed" Andrews,WY,0.31,Packed Dirt,249.00,1.00,1.50,249.00,373.50,0.00,622.50
+6367,"Sunrise" Miles,AR,2.20,Dirt,264.00,0.50,1.00,132.00,264.00,7.92,403.92
+6536,Tina "Lady" Anderson,MO,2.20,Brick,200.00,4.84,6.66,968.00,1332.00,46.00,2346.00
+7994,Joanne "Damned" Miles,ID,0.00,Pinecones,126.00,1.50,2.66,189.00,335.16,0.00,524.16
+8427,Michele Watson "the Loner",CA,0.55,Beechwood,222.00,3.00,5.50,666.00,1221.00,18.87,1905.87
+9154,Dorothy "the Hunter",NM,2.20,Brick,269.00,4.84,6.66,1301.96,1791.54,61.87,3155.37
+9488,Mattie Grant "the Gambler",CA,0.55,Packed Dirt,234.00,1.00,1.50,234.00,351.00,5.85,590.85
+9635,"Sunrise" Miles,AR,2.20,Packed Dirt,139.00,1.00,1.50,139.00,208.50,6.95,354.45
+10079,Ida Russell "the Rustler",NM,2.20,Leather,277.00,10.00,18.15,2770.00,5027.55,155.95,7953.50
+11124,Stella "the Bully",CA,0.55,Beechwood,346.00,3.00,5.50,1038.00,1903.00,29.41,2970.41
+11767,Renee "Loco Tracker" Jordan,ID,0.00,Solid Oak,327.00,5.50,5.50,1798.50,1798.50,0.00,3597.00
+13120,Jacqueline "Riding Doc" Washington,NM,2.42,Packed Dirt,231.00,1.00,1.82,231.00,420.42,13.03,664.45
+14336,"Bane" Jennings,ND,1.38,Reeds,134.00,0.75,2.20,100.50,294.80,3.95,399.25
+14835,Susan "Damnation" Fleming,KS,0.55,Reeds,339.00,0.75,2.20,254.25,745.80,10.00,1010.05
+16266,Mabel "Vixen Cursed" King,MT,3.99,Dirt,172.00,0.50,1.00,86.00,172.00,10.32,268.32
+17510,Tina "Lady" Anderson,CA,0.61,Cedar Planks,180.00,2.20,6.66,396.00,1198.80,15.95,1610.75
+18007,Friendly Howell,ND,1.67,Pinecones,119.00,1.50,2.66,178.50,316.54,9.90,504.94
+20269,Vengeful Robertson,WY,0.31,Pinecones,154.00,1.50,2.66,231.00,409.64,0.00,640.64
+23071,"Scalphunter" Kennedy,TX,0.67,Cedar Planks,236.00,2.20,6.66,519.20,1571.76,20.91,2111.87

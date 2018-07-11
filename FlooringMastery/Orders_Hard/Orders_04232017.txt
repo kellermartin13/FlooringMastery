@@ -1,0 +1,12 @@
+320,Spikecrank,The Glano Forest,3.00,Unicorns' Evil Mithril,207.00,3969.00,312.00,821583.00,64584.00,26585.01,912752.01
+4571,Sephiroth Drakecaster,Minas Gilloy,39.26,Planar Obsidian Mercury Of Wizards,201.00,2574.00,117.00,517374.00,23517.00,210947.49,751838.49
+8013,Spiketerror The Skeletal,Minas Gilloy,39.26,Fairies' Supreme Mistsmoke Lead Of The Future,183.00,3349.50,324.73,612958.50,59425.59,262229.80,934613.89
+9353,"Sielach, God of Fate",Tower Farthing,27.12,Golems' Stonesapphire Gold Of The Glacier,47.00,3672.77,105.97,172620.19,4980.59,47952.21,225552.99
+10122,Lord Mystery,The Tomb of Hellish Ruin,16.94,Sphinxes' Mistsoul Bronze Of The Past,97.00,2169.81,202.07,210471.57,19600.79,39112.30,269184.66
+10619,"Sielach, God of Fate",The Shadow Downs,13.21,Sirens' Rockgold,194.00,-352.01,199.96,-68289.94,38792.24,-3834.70,-33332.40
+11723,Cult Godseeker,The Archer and Scroll,39.60,Phantasmal Tin Of The Swamps,161.00,4074.00,-6.60,655914.00,-1062.60,261940.56,916791.96
+13477,Shiverflame The Freezer,The Fortress of Asmamur,-4.48,Sphinxes' Mistsoul Bronze Of The Past,250.00,2169.81,202.07,542452.50,50517.50,-23718.80,569251.20
+13845,Valentine Lawslayer,Archfane District,32.87,Green Dustlightning Mercury,163.00,4255.57,35.20,693657.91,5737.60,230800.52,930196.03
+16575,Harmony Angelchild,The Citadel of Cheno,7.33,Mistgold Of Men,196.00,4080.46,53.24,799770.16,10435.04,56714.36,866919.56
+17354,Flameshiver,North Arcanist's Farthing,55.18,Hidden Shadowice Lead,141.00,2729.00,-62.23,384789.00,-8774.43,206808.01,582822.58
+22733,Bronzespike,The Fortress of the Lich Queen,36.35,Magic Adamant,193.00,2021.80,228.40,390207.40,44081.20,156343.90,590632.50

@@ -1,0 +1,20 @@
+284,Dorothy "the Hunter",ID,0.00,Packed Dirt,202.00,1.00,1.50,202.00,303.00,0.00,505.00
+1052,Darlene "Loner" Ford,MS,3.00,Leather,209.00,10.00,15.00,2090.00,3135.00,156.75,5381.75
+2431,Theresa "Kid" Robinson,UT,0.00,Packed Dirt,285.00,1.00,1.50,285.00,427.50,0.00,712.50
+7949,Betty "Happy Thinker" Watson,TX,0.50,Dirt,234.00,0.50,1.00,117.00,234.00,0.00,351.00
+8011,"Doom" McCoy,UT,0.00,Beechwood,324.00,3.00,5.50,972.00,1782.00,0.00,2754.00
+8644,Stella "the Bully",KS,0.50,Solid Oak,104.00,5.50,5.50,572.00,572.00,0.00,1144.00
+9643,Vengeful Robertson,MO,2.20,Beechwood,288.00,3.00,5.50,864.00,1584.00,48.96,2496.96
+10172,Jacqueline "Riding Doc" Washington,ND,1.25,Reeds,118.00,0.75,2.20,88.50,259.60,3.48,351.58
+12136,Jo "the Joker",UT,0.00,Reeds,282.00,0.75,2.20,211.50,620.40,0.00,831.90
+15652,Vanessa "Scalper" Rhodes,UT,0.00,Reeds,108.00,0.83,2.20,89.64,237.60,0.00,327.24
+16715,Darlene "Loner" Ford,WY,0.31,Packed Dirt,235.00,1.10,2.20,258.50,517.00,0.00,775.50
+16975,Heather "Tornado" Newman,CA,0.61,Packed Dirt,231.00,1.10,2.20,254.10,508.20,7.62,769.92
+18096,Debra "Scorpion" Lane,OK,2.42,Packed Dirt,263.00,1.10,2.20,289.30,578.60,17.36,885.26
+18587,Betty "Happy Thinker" Watson,AL,1.00,Beechwood,237.00,3.63,5.50,860.31,1303.50,21.64,2185.45
+19158,April "Thunderbird" Dunn,MO,2.20,Cedar Planks,339.00,2.20,6.66,745.80,2257.74,60.07,3063.61
+19560,Elizabeth "the Bully",IA,1.33,Leather,233.00,11.00,19.97,2563.00,4653.01,72.16,7288.17
+20516,Joanne "Damned" Miles,CA,0.67,Cedar Planks,165.00,2.20,6.66,363.00,1098.90,14.62,1476.52
+21551,Maureen "Cursed" Andrews,TX,0.67,Solid Oak,141.00,5.50,6.66,775.50,939.06,17.15,1731.71
+21770,Dorothy "the Hunter",NV,0.31,Reeds,91.00,0.83,2.20,75.53,200.20,0.00,275.73
+22830,Cathy "Loner Demon" Murray,ND,1.67,Brick,219.00,5.32,6.66,1165.08,1458.54,52.47,2676.09

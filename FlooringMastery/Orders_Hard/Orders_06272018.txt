@@ -1,0 +1,16 @@
+2618,Evilbrood,The Nulukkhath Spires,9.63,Mana-touched Greenglitter Gold Of Giants,180.00,1173.98,425.00,211316.40,76500.00,28781.64,316598.04
+2808,"Byzou, God of Animals",The Khazahol Crags,-1.97,Fog Lavaplatinum Of Life,270.00,1078.00,17.00,291060.00,4590.00,-5913.00,289737.00
+5278,"Iran, Lord of Nightmares",Boiaburh Keep,16.00,Ensorceled Sandmetal Of Spirits,165.00,2956.98,87.00,487901.70,14355.00,80361.07,582617.77
+5763,Evilbrood,Unicorn's Ward,13.31,Vampires' Hammer Emeraldmetal,212.00,379.45,25.84,80443.40,5478.08,11169.79,97091.27
+5860,Magus Felldrake,The Cuitamba Jungle,28.00,Forgotten Mithril,203.00,913.00,316.00,185339.00,64148.00,69856.36,319343.36
+6415,Seraphim Tsunami,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,268.00,2275.25,237.70,609767.00,63703.60,282857.65,956328.25
+6871,Lightning Brand,The Lost Crypts of Sorrows,35.87,Angels' Smoke Adamant Of The Mountains,254.00,2832.34,215.00,719414.36,54610.00,278648.77,1052673.13
+7208,Cult Godseeker,The Forsaken Delve of Lord Greywulf,39.00,Hidden Shadowice Lead,141.00,2729.00,-62.23,384789.00,-8774.43,146645.68,522660.25
+10429,Spiketerror The Skeletal,The Dismal Marsh,6.05,Magicians' Legendary Poison Metal,256.00,2472.35,229.81,632921.60,58831.36,41505.18,733258.14
+13685,Rouge Tombreaper,Eved Castle,5.09,Toxic Mistlead Of The Past,174.00,1557.54,136.06,271011.96,23674.44,14734.32,309420.72
+14737,Spikecrank,Archfane District,32.87,Phantasmal Tin Of The Swamps,148.00,4929.54,-7.26,729571.92,-1074.48,240404.16,968901.60
+15344,Wheelspawn,Cawold Castle,24.09,Djinni's Spectral Shadowlead Of Life,292.00,4076.49,325.62,1190335.08,95081.04,308499.87,1593915.99
+16671,Flora Amberslayer,Reyny Keep,11.00,Ensorceled Sandmetal Of Spirits,185.00,2956.98,95.70,547041.30,17704.50,62122.04,626867.84
+18580,Spikerivet,The Tomb of Hellish Ruin,16.94,Primal Adamant,203.00,5520.99,331.42,1120760.97,67278.26,201966.67,1390005.90
+18977,Flameshiver,The Drunken Thief,12.65,Mistgold Of Men,302.00,4488.51,53.24,1355530.02,16078.48,178309.10,1549917.60
+19958,"Nelalwe, Lady of Fire",Boiaburh Keep,17.60,Pearl Mirrorice Steel Of Changelings,210.00,328.53,46.07,68991.30,9674.70,14159.88,92825.88

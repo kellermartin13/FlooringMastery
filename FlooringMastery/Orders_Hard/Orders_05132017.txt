@@ -1,0 +1,18 @@
+486,Rose Anchor,The Dread Hive of Illfang the Kobold Lord,1.00,Fog Lavaplatinum Of Life,319.00,1078.00,17.00,343882.00,5423.00,3493.05,352798.05
+2205,Evilbrood,The Chuallanto Jungle,37.00,Djinni's Evil Sandobsidian Steel Of The Future,344.00,3826.00,157.07,1316144.00,54032.08,506965.15,1877141.23
+2333,Clash Lonedrake,The Bastion of Barbos,21.29,Negative Mercury,280.00,4054.87,361.00,1135363.60,101080.00,259653.16,1496096.76
+3084,"Lenwenye, Goddess of Travel",The Bastion of the Vampire Duke,19.28,Zephyr Iron,219.00,2759.00,404.26,604221.00,88532.94,131623.25,824377.19
+5956,Seraph Jester,The Cracked Chalice,2.29,Warlocks' Timerot Mithril,216.00,2917.07,112.00,630087.12,24192.00,13085.58,667364.70
+6890,Spikerivet,The Bastion of Barbos,23.42,Negative Rockglitter Mercury Of Trolls,141.00,1483.90,423.07,209229.90,59652.87,61843.04,330725.81
+9178,Springsprocket,Weke Tower,-0.05,Ensorceled Gold Of The Dawn,142.00,5713.98,402.92,811385.16,57214.64,0.00,868599.80
+9279,Fate Seeker,The Nulukkhath Spires,10.59,Ensorceled Gold Of The Dawn,226.00,5713.98,402.92,1291359.48,91059.92,152066.13,1534485.53
+11258,"Alas, Lord of Plague",Peley Keep,23.94,Tin Of The Tundra,364.00,2839.87,174.91,1033712.68,63667.24,263371.18,1360751.10
+12174,Bronzespike,The Wizard's House,43.58,Sprites' Transcendent Mud Lead Of The South,249.00,2081.80,321.86,518368.20,80143.14,263344.99,861856.33
+12544,Freezebrood,The Tomb of Gothmog of Udun,-3.30,Unknown Fatelightning Steel Of The Glacier,239.00,2441.05,59.71,583410.95,14270.69,-17930.45,579751.19
+12657,Burnchill The Evil,Lordsgate Farthing,45.25,Mistgold Of Men,122.00,3372.28,53.24,411418.16,6495.28,188061.05,605974.49
+14294,"Penur, Lord of the Sea",Pewold Keep,20.52,Primordial False Gold,212.00,5395.80,226.00,1143909.60,47912.00,250282.54,1442104.14
+16713,Flameshiver,The Forsaken Sepulcher of Sorrows,53.67,Ensorceled Gold Of The Dawn,165.00,6913.92,402.92,1140796.80,66481.80,651930.44,1859209.04
+16989,Wheelspawn,The Flying Witch,12.60,Djinni's Evil Sandobsidian Steel Of The Future,113.00,4208.60,172.78,475571.80,19524.14,64362.47,559458.41
+18264,Emberspawn,North Arcanist's Farthing,55.18,Negative Rockglitter Mercury Of Trolls,136.00,1632.29,619.42,221991.44,84241.12,168427.91,474660.47
+19232,Burnbrood The Freezer,Hafeld Keep,46.71,Violetdream Iron,193.00,1347.16,349.36,260001.88,67426.48,153891.33,481319.69
+22597,Lightning Brand,Grove Farthing,19.80,Djinni's Mind Fogiron,197.00,2531.12,119.21,498630.64,23484.37,104423.00,626538.01

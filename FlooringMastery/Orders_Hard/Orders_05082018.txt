@@ -1,0 +1,16 @@
+1544,"Ahah, Goddess of Knowledge",Lacot Stronghold,30.88,Unicorns' Fatal Magma Metal Of The Ocean,219.00,1792.04,357.00,392456.76,78183.00,145898.33,616538.09
+3068,Deathbrood,The Archer and Blade,9.00,Thunderbirds' Transcendent Dreamiron,109.00,2068.41,237.70,225456.69,25909.30,22622.94,273988.93
+4515,Nailpiston The Grasping,The Secret Shrine of the Gargoyle Count,-2.00,Foul Ice Bronze Of Life,196.00,-92.21,129.80,-18073.16,25440.80,-147.35,7220.29
+6834,Rouge Tombreaper,Archtemple District,27.76,Unholy Poison Copper Of The Mountains,57.00,580.91,-9.24,33111.87,-526.68,9123.85,41709.04
+7266,Wheelbolt The Machine,The Forsaken Delve of Lord Greywulf,39.00,Fleshshock Mercury,275.00,4417.00,279.40,1214675.00,76835.00,503688.90,1795198.90
+7378,Tiger Mistmidnight,The Forsaken Delve of Lord Greywulf,39.00,Meteoric Dustzephyr Orichalcum,266.00,375.00,244.08,99750.00,64925.28,64223.36,228898.64
+8233,Fate Ivycaster,Grori's Deep,49.95,Incubi's Iron Of The Dawn,389.00,1200.96,424.31,467173.44,165056.59,316115.02,948345.05
+10102,Bonescare,The Citadel of Lord Greywulf,33.04,Shadowy Adamant,81.00,618.93,478.58,50133.33,38764.98,29336.44,118234.75
+10781,"Gadriel, God of Resurrection",The Dread Hive of Illfang the Kobold Lord,1.33,Shadow Steel,149.00,4677.78,465.30,696989.22,69329.70,7663.19,773982.11
+12588,Chillfire The Chiller,South Brightcrown Borough,42.25,Mind Lead,130.00,2844.70,309.10,369811.00,40183.00,172197.48,582191.48
+14739,Lightning Brand,Haukri's Hold,27.83,Legendary Mithril Of The Moon,76.00,2707.10,125.84,205739.60,9563.84,60284.96,275588.40
+15086,Valentine Lawslayer,Gena's Hold,2.66,Violetdream Iron,323.00,1224.69,349.36,395574.87,112843.28,15252.54,523670.69
+15229,Beamtrap,The Tower of Aces the Accursed,13.31,Mithril Of The Tropics,189.00,4126.10,11.98,779832.90,2264.22,101672.63,883769.75
+17075,Emberspawn,The Temple of Merciless Necromancy,50.94,Foul Ice Bronze Of Life,296.00,-101.43,142.78,-30023.28,42262.88,6242.20,18481.80
+19876,Ironbrood,The Tomb of Hellish Ruin,16.94,Primordial False Gold,163.00,5395.80,248.60,879515.40,40521.80,156406.32,1076443.52
+22133,Gravebone The Unspeakable,The Tower of the Demon Warlord,20.97,Otherworldly Truesoul Orichalcum Of The East,347.00,1061.78,392.65,368437.66,136249.55,105984.31,610671.52

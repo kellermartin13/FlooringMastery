@@ -1,0 +1,17 @@
+184,Icechill The Frigid,The Glano Forest,3.00,Unknown Fatelightning Steel Of The Glacier,177.00,1834.00,54.28,324618.00,9607.56,10026.77,344252.33
+279,Rouge Tombreaper,Waleah Castle,0.77,Fairies' Supreme Mistsmoke Lead Of The Future,153.00,3045.00,324.73,465885.00,49683.69,5155.69,520724.38
+923,"Addon, Lord of Death",Reyny Keep,11.00,Primordial Mud Orichalcum,246.00,-387.90,77.37,-95423.40,19033.02,-8402.94,-84793.32
+2545,Claw Mist,Gili's Delve,-4.59,Heavenly Dreamsilver Of The Night,244.00,1826.98,112.00,445783.12,27328.00,-23655.56,449455.56
+7684,"Maglioneth, Lord of the Sun",Lordsgate Farthing,41.14,Unknowable Mindsilver,37.00,3565.00,366.00,131905.00,13542.00,59633.27,205080.27
+8699,"Eumyan, Goddess of Law",Kada's Deep,33.00,Foul Ice Bronze Of Life,210.00,-92.21,129.80,-19364.10,27258.00,2604.99,10498.89
+9837,"Suriel, Lord of Animals",The Pirate's Pipe,17.60,Shadow Steel,195.00,4677.78,465.30,912167.10,90733.50,180522.11,1183422.71
+11691,Evilbrood,Unicorn's Ward,14.64,Ghostly Magic Adamant,98.00,4836.38,230.90,473965.24,22628.20,74489.02,571082.46
+11962,Cinderflame,Gena's Hold,2.66,White Platinum,201.00,-52.59,159.50,-10570.59,32059.50,644.67,22133.58
+12221,Boltcrank The Trapper,The Dismal Marsh,6.05,Rot Silver Of The Past,156.00,3784.00,359.70,590304.00,56113.20,38785.03,685202.23
+13776,Deathspike The Terrifying,Waleah Castle,0.77,Green Dustlightning Mercury,238.00,4255.57,35.20,1012825.66,8377.60,10212.03,1031415.29
+16454,Shiverflame The Freezer,The Drunken Thief,12.65,Mistgold Of Men,258.00,4080.46,53.24,1052758.68,13735.92,138644.30,1205138.90
+17060,Snaretool The Constructed,The Temple of Merciless Necromancy,50.94,Shadowy Adamant,252.00,618.93,526.44,155970.36,132662.88,147202.95,435836.19
+17613,Freezebrood,The Cracked Chalice,2.52,Thunderbirds' Transcendent Dreamiron,129.00,2275.25,237.70,293507.25,30663.30,9725.12,333895.67
+17685,Lance Knightseraph,Reyny Keep,11.00,Angels' Smoke Adamant Of The Mountains,161.00,3427.13,260.15,551767.93,41884.15,65301.73,658953.81
+19706,"Alas, Lord of Plague",North Grove Ward,7.99,Witchs' Forbidden Rockrainbow Bronze,151.00,655.60,425.92,98995.60,64313.92,13064.76,176374.28
+22835,Rune Rougehate,Grove Farthing,19.80,Incubi's Glittering Tin Of The Future,243.00,3349.54,96.64,813938.22,23483.52,167484.35,1004906.09

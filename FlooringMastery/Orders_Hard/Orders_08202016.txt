@@ -1,0 +1,15 @@
+2507,Harmony Angelchild,The Citadel of Lord Greywulf,30.04,Hell Mercury Of The East,263.00,4636.34,284.60,1219357.42,74849.80,388262.17,1682469.39
+3434,Sunrise Godwarlock,The Flying Witch,11.45,Heavenly Dreamsilver Of The Night,218.00,1826.98,112.00,398281.64,24416.00,46496.74,469194.38
+3792,Boltcrank The Trapper,Barad Cune,26.00,Glittering Orichalcum,214.00,-131.00,360.23,-28034.00,77089.22,12754.36,61809.58
+6055,Wheelbolt The Machine,The Dark Caverns of Woe,3.29,Icy Shock Silver,153.00,1348.16,407.00,206268.48,62271.00,8056.18,276595.66
+6201,Cult Godseeker,The Cracked Chalice,2.29,Primordial Plague Mercury Of Legend,124.00,373.79,273.90,46349.96,33963.60,1606.27,81919.83
+6999,Scarechain The Unspeakable,The Flying Witch,11.45,Unicorns' Evil Mithril,238.00,4802.49,312.00,1142992.62,74256.00,133897.35,1351145.97
+7100,Spikecrank,Mahyrst Keep,25.14,Spectres' Shadowy Terrorglow Adamant Of Life,134.00,4694.80,205.50,629103.20,27537.00,164160.05,820800.25
+8026,Freezebrood,Barad Kesa,4.32,Unknowable Mindsilver,266.00,3565.00,366.00,948290.00,97356.00,41825.84,1087471.84
+11268,Evilfear The Horrorific,The Black Barrow of Bery,-0.07,Unspeakable Rotsoul Mithril Of Souls,212.00,248.00,401.53,52576.00,85124.36,0.00,137700.36
+11687,"Alas, Lord of Plague",The Barrow of Malefic Ages,17.91,Litches' Fatal Mithril Of The Past,354.00,1327.98,369.05,470104.92,130643.70,108134.75,708883.37
+14261,Bolttrap,Dysley Stronghold,45.98,Ghostly Soul Adamant,237.00,3222.96,229.53,763841.52,54398.61,376390.46,1194630.59
+15708,Cult Godseeker,The Greedy Wench,32.70,Sphinxes' Unknown Poisongold Of The Future,209.00,3910.25,23.86,817242.25,4986.74,271335.57,1093564.56
+16815,Shadow Gust,Eved Castle,5.09,Mistgold Of Men,96.00,4080.46,53.24,391724.16,5111.04,19841.76,416676.96
+17940,Bronzespike,North Arcanist's Farthing,55.18,Goddesses' Spectral Poison Steel,141.00,4566.53,296.81,643880.73,41850.21,377152.02,1062882.96
+21266,Magus Felldrake,The Warrior and Flagon,53.24,God-touched Faterainbow Orichalcum Of Spectres,183.00,370.41,35.21,67785.03,6443.43,39341.08,113569.54

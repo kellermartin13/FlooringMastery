@@ -1,0 +1,10 @@
+1578,Heather "Tornado" Newman,AR,2.20,Reeds,122.00,0.75,2.00,91.50,244.00,6.71,342.21
+1739,Lena Chapman "the Bully",IA,1.00,Leather,199.00,10.00,15.00,1990.00,2985.00,49.75,5024.75
+2299,Renee "Loco Tracker" Jordan,MS,3.00,Leather,299.00,10.00,16.50,2990.00,4933.50,237.70,8161.20
+5476,Elizabeth "the Bully",TX,0.50,Packed Dirt,98.00,1.00,1.50,98.00,147.00,0.00,245.00
+13680,Maureen "Cursed" Andrews,TX,0.67,Beechwood,143.00,3.63,5.50,519.09,786.50,13.06,1318.65
+14832,Debra "Scorpion" Lane,NV,0.31,Brick,208.00,5.32,6.66,1106.56,1385.28,0.00,2491.84
+15894,Victoria "the Dancer",MS,3.00,Pinecones,255.00,1.50,2.66,382.50,678.30,31.82,1092.62
+16096,Heather "Tornado" Newman,AL,1.00,Packed Dirt,106.00,1.10,2.20,116.60,233.20,3.50,353.30
+17906,April "Thunderbird" Dunn,KS,0.55,Packed Dirt,236.00,1.10,2.20,259.60,519.20,7.79,786.59
+22530,Melissa "Lonesome Stalker" Riley,IA,1.33,Reeds,196.00,0.91,2.42,178.36,474.32,6.53,659.21

@@ -1,0 +1,25 @@
+134,Deathbrood,The Citadel of Cheno,5.00,Green Dustlightning Mercury,193.00,3517.00,32.00,678781.00,6176.00,34247.85,719204.85
+566,Springpulley The Binder,The Dismal Marsh,5.00,Ghostly Magic Adamant,241.00,3997.01,230.90,963279.41,55646.90,50946.32,1069872.63
+738,Claw Mist,The Drunken Thief,9.50,Primordial Mud Orichalcum,213.00,-387.90,77.37,-82622.70,16479.81,-6614.29,-72757.18
+1699,Blazeflare The Cremator,The Dungeon of Merciless Woe,38.62,Green Dustlightning Mercury,248.00,3517.00,32.00,872216.00,7936.00,343259.28,1223411.28
+2026,Mecharig The Living Device,The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,80.00,3826.00,157.07,306080.00,12565.60,66915.58,385561.18
+2240,Snarepiston The Mechanical,Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,210.00,4343.00,26.40,912030.00,5544.00,229393.50,1146967.50
+3848,"Ahah, Goddess of Knowledge",The Dungeon of Merciless Woe,38.62,Zephyr Iron,202.00,2759.00,404.26,557318.00,81660.52,249201.62,888180.14
+4422,Lightning Brand,Minas Gilloy,39.26,Sphinxes' Mistsoul Bronze Of The Past,303.00,1793.23,183.70,543348.69,55661.10,233613.82,832623.61
+5162,Harmony Angelchild,Ring District,35.00,Ensorceled Sandmetal Of Spirits,169.00,2956.98,87.00,499729.62,14703.00,180051.42,694484.04
+5423,Evilember The Firey,The Bastion of Gothmog of Udun,45.32,Magic Adamant,202.00,1838.00,188.76,371276.00,38129.52,184232.48,593638.00
+5844,Bane Veil,The Vaults of the Shadow Emperor,30.00,Angels' Adamant,241.00,1304.00,179.30,314264.00,43211.30,107242.59,464717.89
+6149,"Gadriel, God of Resurrection",The Archer and Blade,9.00,Trolls' Mist Poisonplatinum Of The Twilight,155.00,516.17,394.90,80006.35,61209.50,12709.43,153925.28
+6778,Metalbrood,Noble's Village,27.50,Foul Ice Bronze Of Life,228.00,-92.21,129.80,-21023.88,29594.40,2399.75,10970.27
+7796,"Gadriel, God of Resurrection",The Tower of Aces the Accursed,13.31,Venom Timegold Of Dwarves,105.00,3036.00,269.00,318780.00,28245.00,45113.25,392138.25
+9734,Spikecrank,The Secret Catacombs of Ulfang the Black,42.90,Ghostly Magic Adamant,132.00,4836.38,230.90,638402.16,30478.80,287618.81,956499.77
+10405,"Gadriel, God of Resurrection",The Chuallanto Jungle,37.00,Shadowy Adamant,153.00,618.93,478.58,94696.29,73222.74,62130.04,230049.07
+11022,Slayer Claw,The Forsaken Sepulcher of Sorrows,48.79,Heavenly Dreamsilver Of The Night,318.00,2009.68,112.00,639078.24,35616.00,330600.18,1005294.42
+12321,Tarot Dawn,Castle Village,37.51,Transcendent Gold,71.00,-193.60,282.17,-13745.60,20034.07,2389.62,8678.09
+13991,Snarepiston The Mechanical,Grove Farthing,19.80,Shadowy Adamant,221.00,618.93,526.44,136783.53,116343.24,50625.35,303752.12
+15354,"Selik, God of Death",The Fortress of Asmamur,-4.93,Unspeakable Rotsoul Mithril Of Souls,202.00,248.00,401.53,50096.00,81109.06,-6560.25,124644.81
+16625,Magus Felldrake,Moor Village,76.43,Ghostly Magic Adamant,356.00,4836.38,230.90,1721751.28,82200.40,1371003.28,3174954.96
+18413,Zeal Bladewitch,The Fortress of the Lich Queen,36.35,Ensorceled Gold Of The Dawn,184.00,6913.92,443.21,1272161.28,81550.64,487336.29,1841048.21
+19298,Beamsprocket The Grasping,The Forsaken Delve of Lord Greywulf,42.90,Violetdream Iron,140.00,1347.16,349.36,188602.40,48910.40,102130.50,339643.30
+20930,Jericho Wolf,The Hunter and Rose,44.44,Fairies' Supreme Mistsmoke Lead Of The Future,373.00,3349.50,324.73,1249363.50,121124.29,603014.63,1973502.42
+21081,"Alik, Goddess of Trickery",South Brightcrown Borough,42.25,Tritons' Time Stoneiron Of Legend,237.00,2129.60,224.81,504715.20,53279.97,234357.97,792353.14

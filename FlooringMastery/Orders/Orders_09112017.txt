@@ -1,0 +1,25 @@
+2036,Beth "Fortunate Shooter" Powell,AR,2.20,Solid Oak,80.00,5.00,5.00,400.00,400.00,16.00,816.00
+2275,"Scalphunter" Kennedy,MT,3.00,Pebbles,173.00,0.80,4.40,138.40,761.20,26.99,926.59
+4112,Beth "Fortunate Shooter" Powell,ND,1.25,Pinecones,264.00,1.50,2.42,396.00,638.88,10.35,1045.23
+6611,"Sunrise" Miles,AL,1.00,Cedar Planks,133.00,2.20,6.05,292.60,804.65,10.97,1108.22
+6707,Florence "Leather Doc" Grant,NM,2.20,Solid Oak,208.00,5.50,5.50,1144.00,1144.00,45.76,2333.76
+7624,"Sunrise" Miles,NM,2.20,Leather,327.00,10.00,18.15,3270.00,5935.05,184.10,9389.15
+9224,Heather "Tornado" Newman,MS,3.00,Reeds,281.00,0.75,2.20,210.75,618.20,24.87,853.82
+9452,"Sunrise" Miles,CA,0.55,Reeds,248.00,0.75,2.20,186.00,545.60,7.32,738.92
+11009,Gladys "Locoweed" Keller,MS,3.00,Packed Dirt,97.00,1.00,1.50,97.00,145.50,7.28,249.78
+11053,Ida Russell "the Rustler",MO,2.20,Beechwood,126.00,3.00,5.50,378.00,693.00,21.42,1092.42
+12622,Vengeful Robertson,OK,2.42,Packed Dirt,303.00,1.00,1.65,303.00,499.95,16.06,819.01
+13360,Jacqueline "Riding Doc" Washington,KS,0.55,Brick,258.00,5.32,6.66,1372.56,1718.28,30.91,3121.75
+13946,Vicki "Mesa" Rhodes,MO,2.20,Leather,256.00,11.00,18.15,2816.00,4646.40,149.25,7611.65
+14328,"Bane" Jennings,AL,1.00,Brick,392.00,5.32,6.66,2085.44,2610.72,46.96,4743.12
+15196,Theresa "Scalphunter" Romero,MT,3.99,Leather,10.00,11.00,18.15,110.00,181.50,11.66,303.16
+16545,Renee "Loco Tracker" Jordan,TX,0.67,Pebbles,335.00,0.88,4.84,294.80,1621.40,19.16,1935.36
+16674,"Scalphunter" Kennedy,AR,2.20,Dirt,167.00,0.50,1.00,83.50,167.00,5.01,255.51
+17644,Betty "Happy Thinker" Watson,AL,1.00,Beechwood,242.00,3.63,5.50,878.46,1331.00,22.09,2231.55
+18762,Friendly Howell,TX,0.67,Pebbles,92.00,0.88,4.84,80.96,445.28,5.26,531.50
+20164,Gladys "Locoweed" Keller,UT,0.00,Cedar Planks,111.00,2.20,6.66,244.20,739.26,0.00,983.46
+20207,Vicki "Mesa" Rhodes,NM,2.93,Pebbles,97.00,0.88,4.84,85.36,469.48,16.65,571.49
+20792,Vengeful Montgomery,AL,1.00,Brick,61.00,5.32,6.66,324.52,406.26,7.31,738.09
+20885,Lorraine "Utah" Adams,WY,0.31,Leather,165.00,11.00,19.97,1815.00,3295.05,0.00,5110.05
+21168,Melissa "Lonesome Stalker" Riley,TX,0.67,Cedar Planks,150.00,2.20,6.66,330.00,999.00,13.29,1342.29
+22593,April "Thunderbird" Dunn,ND,1.67,Leather,191.00,11.00,19.97,2101.00,3814.27,118.31,6033.58

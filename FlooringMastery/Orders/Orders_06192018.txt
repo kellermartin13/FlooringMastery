@@ -1,0 +1,13 @@
+799,Gloria "Devil" McCoy,NV,0.25,Brick,170.00,4.00,5.00,680.00,850.00,0.00,1530.00
+1562,Theresa "Scalphunter" Romero,TX,0.50,Cedar Planks,253.00,2.00,5.00,506.00,1265.00,0.00,1771.00
+4314,Julia "Bandit" Chandler,MO,2.20,Pebbles,204.00,0.80,4.40,163.20,897.60,21.22,1082.02
+7285,Heather "Friendly Gambler" Barrett,MS,3.00,Pebbles,237.00,0.80,4.84,189.60,1147.08,40.10,1376.78
+9130,Mabel "Vixen Cursed" King,MS,3.00,Brick,350.00,4.84,6.66,1694.00,2331.00,120.75,4145.75
+9264,Renee "Loco Tracker" Jordan,IA,1.21,Cedar Planks,367.00,2.20,6.05,807.40,2220.35,30.28,3058.03
+9760,Vanessa "Scalper" Rhodes,AR,2.20,Dirt,248.00,0.50,1.00,124.00,248.00,7.44,379.44
+10828,Lorraine "Utah" Adams,MS,3.00,Pinecones,176.00,1.50,2.66,264.00,468.16,21.96,754.12
+15802,Marie "Raven" Chapman,CA,0.61,Beechwood,226.00,3.63,5.50,820.38,1243.00,20.63,2084.01
+16083,Lorraine "Utah" Adams,MT,3.99,Brick,167.00,5.32,6.66,888.44,1112.22,80.03,2080.69
+16747,Vicki "Mesa" Rhodes,NM,2.66,Cedar Planks,262.00,2.20,6.05,576.40,1585.10,64.84,2226.34
+16837,Betty "Happy Thinker" Watson,NM,2.66,Dirt,64.00,0.50,1.00,32.00,64.00,2.88,98.88
+17343,Jacqueline "Riding Doc" Washington,NM,2.66,Pinecones,240.00,1.50,2.66,360.00,638.40,29.95,1028.35

@@ -1,0 +1,12 @@
+769,Chainnail,The Shadow Downs,13.21,Mithril Of Legend,246.00,2068.00,52.07,508728.00,12809.22,67799.84,589337.06
+1204,Claw Mist,The Wizard's House,43.58,Sapphire Mindlead,140.00,1307.71,47.00,183079.40,6580.00,83450.14,273109.54
+1761,Springsprocket,The Pirate's Pipe,16.00,Incubi's Iron Of The Dawn,123.00,1200.96,385.74,147718.08,47446.02,31226.26,226390.36
+3785,Wheelspawn,Gifeld Castle,6.22,Hidden Shadowice Lead,221.00,2729.00,-56.57,603109.00,-12501.97,35436.42,626043.45
+5643,Scarefear The Blade,Unicorn's Ward,13.31,Ensorceled Sandmetal Of Spirits,244.00,2956.98,87.00,721503.12,21228.00,96555.05,839286.17
+8801,Wheelspawn,The Citadel of Tattena the Sinister,12.13,Djinni's Evil Sandobsidian Steel Of The Future,56.00,3826.00,157.07,214256.00,8795.92,26766.23,249818.15
+10862,Chillfire The Chiller,The Tower of Aces the Accursed,13.31,Mana-touched Greenglitter Gold Of Giants,226.00,1173.98,467.50,265319.48,105655.00,48226.68,419201.16
+11938,Emberspawn,Unicorn's Ward,14.64,God-touched Greengem Platinum,223.00,1281.72,-39.60,285823.56,-8830.80,41548.91,318541.67
+13979,Rose Anchor,Waleah Castle,0.77,Green Dustlightning Mercury,150.00,4255.57,35.20,638335.50,5280.00,6436.16,650051.66
+16917,Tiger Mistmidnight,The Temple of Merciless Necromancy,50.94,Primordial Mud Orichalcum,253.00,-469.36,85.11,-118748.08,21532.83,-49579.78,-146795.03
+19344,Evilember The Firey,The Pilgrim's Cup,46.12,Ensorceled Sandmetal Of Spirits,100.00,2956.98,95.70,295698.00,9570.00,140423.28,445691.28
+19949,Sephiroth Drakecaster,Boiaburh Keep,17.60,Planar Rainfate Mithril,137.00,1185.84,320.52,162460.08,43911.24,37146.84,243518.16

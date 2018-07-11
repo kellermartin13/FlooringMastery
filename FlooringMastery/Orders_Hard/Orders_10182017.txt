@@ -1,0 +1,14 @@
+3165,Springpulley The Binder,The Hunter and Rose,40.40,Violetdream Iron,274.00,1224.69,349.36,335565.06,95724.64,172515.88,603805.58
+4393,"Suriel, Lord of Animals",Minas Gilloy,39.26,Pearl Mirrorice Steel Of Changelings,234.00,271.51,34.61,63533.34,8098.74,27936.51,99568.59
+9204,Gravebone,The Bastion of the Vampire Duke,19.28,Foul Ice Bronze Of Life,119.00,-92.21,129.80,-10972.99,15446.20,849.91,5323.12
+9507,"Ariel, God of Luck",Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,184.00,3773.99,269.83,694414.16,49648.72,111609.43,855672.31
+11677,Flameflare The Evil,The Barrow of Malefic Ages,17.91,Angels' Smoke Adamant Of The Mountains,104.00,3115.57,236.50,324019.28,24596.00,62750.75,411366.03
+11810,Magus Felldrake,The Broken Arrow,30.07,Thunderbirds' Transcendent Dreamiron,143.00,2275.25,237.70,325360.75,33991.10,107805.56,467157.41
+13848,Metalbrood,Gili's Delve,-6.73,Plague Tin,196.00,4767.02,342.10,934335.92,67051.60,-70097.13,931290.39
+17467,Sunrise Godwarlock,North Arcanist's Farthing,55.18,Witchs' Forbidden Rockrainbow Bronze,268.00,655.60,425.92,175700.80,114146.56,159416.05,449263.41
+18874,Steelterror The Blade,The Bastion of Barbos,28.34,Incubi's Iron Of The Dawn,99.00,1200.96,424.31,118895.04,42006.69,45052.48,205954.21
+19813,Snaretool The Constructed,Noble's Village,33.28,Sirens' Rockgold,247.00,-352.01,199.96,-86946.47,49390.12,-12393.60,-49949.95
+21193,"Alik, Goddess of Trickery",The Warrior and Flagon,53.24,Sphinxes' Opalpearl Platinum Of Legend,238.00,5805.82,429.89,1381785.16,102313.82,786572.46,2270671.44
+21437,Scarechain The Unspeakable,The Bastion of Sthasu the Gruesome,14.93,Phantasmal Tin Of The Swamps,171.00,5964.74,-7.99,1019970.54,-1366.29,152790.64,1171394.89
+22421,Chainblade The Cadaverous,Gili's Delve,-6.73,Phantasmal Lead,57.00,-669.10,270.02,-38138.70,15391.14,1592.33,-21155.23
+23241,Cinderflame,Kewold Stronghold,10.74,Yellow Mistearth Copper,230.00,6090.10,-33.15,1400723.00,-7624.50,153240.84,1546339.34

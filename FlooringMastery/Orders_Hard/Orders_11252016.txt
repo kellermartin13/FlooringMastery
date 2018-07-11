@@ -1,0 +1,26 @@
+760,Storm Seraphheart,The Forsaken Tomb of Devastation,0.00,Foulopal Copper Of The Skies,153.00,1221.16,403.00,186837.48,61659.00,0.00,248496.48
+2846,Rouge Roguemist,Boiaburh Keep,16.00,Unholy Poison Copper Of The Mountains,109.00,528.10,-9.24,57562.90,-1007.16,9048.92,65604.66
+4117,"Nelalwe, Lady of Fire",The Pilgrim's Cup,41.93,Foulopal Copper Of The Skies,235.00,1221.16,403.00,286972.60,94705.00,160304.59,541982.19
+5531,Evilember The Firey,The Nulukkhath Spires,10.59,Otherworldly Mirror Orichalcum,357.00,-247.00,478.50,-88179.00,170824.50,9091.00,91736.50
+5662,Flameflare The Evil,The Dungeon of Merciless Woe,38.62,Otherworldly Mirror Orichalcum,270.00,-247.00,478.50,-66690.00,129195.00,24376.95,86881.95
+8515,Gravebone The Unspeakable,Haukri's Hold,25.30,Djinni's Spectral Shadowlead Of Life,228.00,3705.90,296.02,844945.20,67492.56,228109.44,1140547.20
+8586,"Ariel, God of Luck",The Khazahol Crags,-1.97,Incubi's Iron Of The Dawn,130.00,1200.96,424.31,156124.80,55160.30,-4225.70,207059.40
+9108,"Ahah, Goddess of Knowledge",The Bastion of the Vampire Duke,19.28,Djinni's Evil Sandobsidian Steel Of The Future,146.00,3826.00,157.07,558596.00,22932.22,110490.36,692018.58
+11628,Jericho Wolf,The Archer and Scroll,39.60,Icy Shock Silver,357.00,1482.98,407.00,529423.86,145299.00,269889.14,944612.00
+12277,Bronzespike,The Citadel of Alammius,3.50,Thunderbirds' Transcendent Dreamiron,282.00,2275.25,237.70,641620.50,67031.40,28346.08,736997.98
+12990,Lance Knightseraph,The Fortress of Gama,10.16,Forgotten Mithril,188.00,1104.73,316.00,207689.24,59408.00,26709.72,293806.96
+14709,Fate Ivycaster,Archscepter Borough,3.30,Ensorceled Sandmetal Of Spirits,97.00,2956.98,95.70,286827.06,9282.90,8883.30,304993.26
+15254,Rouge Roguemist,The Greedy Wench,32.70,Rainbowglitter Tin,139.00,5957.39,213.40,828077.21,29662.60,283054.14,1140793.95
+15834,Springsprocket,Noble's Village,30.25,Glittering Orichalcum,247.00,-158.51,360.23,-39151.97,88976.81,14947.45,64772.29
+16406,Lord Mystery,The Pilgrim's Cup,46.12,Swordbronze,184.00,1485.01,447.01,273241.84,82249.84,163526.17,519017.85
+16544,Burnfreeze The Cold,Moor Village,76.43,Ensorceled Gold Of The Dawn,79.00,6913.92,402.92,546199.68,31830.68,439303.07,1017333.43
+17126,"Melcha, Goddess of Thieves",Arcanist's Farthing,3.30,Stone Soulsteel Of The Skies,256.00,1798.28,14.53,460359.68,3719.68,13922.38,478001.74
+17533,Springpulley The Binder,The Grey Plains,19.97,Glowpearl Adamant Of Spirits,299.00,398.09,374.00,119028.91,111826.00,46170.98,277025.89
+18730,Song Runetomb,The Dark Caverns of Woe,3.29,Nymphs' Luminous Rotmercury Of The Skies,197.00,292.60,207.90,57642.20,40956.30,2957.96,101556.46
+20062,Rouge Roguemist,Boiaburh Keep,17.60,Foulopal Copper Of The Skies,345.00,1787.91,403.00,616828.95,139035.00,136055.51,891919.46
+20489,Rouge Tombreaper,The Broken Shield,40.95,Unspeakable Rotsoul Mithril Of Souls,202.00,272.80,485.85,55105.60,98141.70,62831.39,216078.69
+20564,Freezebrood,The Warrior and Flagon,53.24,Golems' Stonesapphire Gold Of The Glacier,69.00,4444.06,116.57,306640.14,8043.33,166782.24,481465.71
+20567,Bane Veil,Barad Cune,28.60,Phantasmal Lead,198.00,-608.27,270.02,-120437.46,53463.96,-19422.32,-86395.82
+21770,Burnfreeze The Cold,The Secret Shrine of the Gargoyle Count,-2.00,Sprites' Transcendent Mud Lead Of The South,222.00,2081.80,321.86,462159.60,71452.92,-10672.25,522940.27
+22477,Freezebrood,Gawold Castle,6.05,Primordial Plague Mercury Of Legend,90.00,497.52,301.29,44776.80,27116.10,4313.57,76206.47
+22857,Wheelbolt The Machine,The Greedy Wench,43.53,Fleshshock Mercury,283.00,5879.03,338.07,1663765.49,95673.81,774153.29,2533592.59

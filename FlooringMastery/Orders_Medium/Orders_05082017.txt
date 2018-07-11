@@ -1,0 +1,15 @@
+2555,Dorothy "the Hunter",CA,0.50,Reeds,182.00,0.75,2.00,136.50,364.00,0.00,500.50
+3149,Tina "Lady" Anderson,WY,0.28,Beechwood,110.00,3.00,5.00,330.00,550.00,0.00,880.00
+7667,Geraldine "Revenge" Warren,AL,1.00,Reeds,315.00,0.75,2.20,236.25,693.00,9.29,938.54
+8282,Black Beck,TX,0.50,Brick,275.00,4.84,6.66,1331.00,1831.50,0.00,3162.50
+8987,Tammy Carlson "the Killer",OK,2.20,Pinecones,298.00,1.50,2.66,447.00,792.68,24.79,1264.47
+9961,Theresa "Kid" Robinson,TX,0.55,Brick,239.00,4.84,6.66,1156.76,1591.74,27.48,2775.98
+9965,Helen Webb "the Dancer",NV,0.31,Dirt,222.00,0.50,1.00,111.00,222.00,0.00,333.00
+10605,Cathy "Loner Demon" Murray,MO,2.20,Reeds,285.00,0.75,2.20,213.75,627.00,16.82,857.57
+12394,Renee "Loco Tracker" Jordan,MO,2.20,Brick,251.00,4.84,6.66,1214.84,1671.66,57.73,2944.23
+13281,Vengeful Montgomery,NV,0.31,Packed Dirt,180.00,1.00,2.00,180.00,360.00,0.00,540.00
+13895,Vengeful Robertson,AR,2.20,Pinecones,201.00,1.50,2.66,301.50,534.66,16.72,852.88
+14253,Julia "Bandit" Chandler,MO,2.20,Leather,223.00,11.00,18.15,2453.00,4047.45,130.01,6630.46
+18456,"Scalphunter" Kennedy,NV,0.31,Pinecones,322.00,1.50,2.66,483.00,856.52,0.00,1339.52
+21802,Heather "Tornado" Newman,UT,0.00,Packed Dirt,162.00,1.10,2.42,178.20,392.04,0.00,570.24
+22138,Vengeful Montgomery,MS,3.00,Pebbles,225.00,0.88,4.84,198.00,1089.00,38.61,1325.61

@@ -1,0 +1,14 @@
+401,Flameshiver,The Tower of Sheshbazzu,3.00,Legendary Mithril Of The Moon,277.00,2461.00,104.00,681697.00,28808.00,21315.15,731820.15
+724,Rose Anchor,Boiaburh Keep,16.00,Muck Orichalcum Of Ogres,127.00,3115.32,274.19,395645.64,34822.13,68874.84,499342.61
+1007,Deathbrood,The Broken Shield,37.23,Rainbowglitter Tin,248.00,4475.87,176.36,1110015.76,43737.28,426888.62,1580641.66
+3169,Claw Mist,The Archer and Blade,9.00,Fog Lavaplatinum Of Life,78.00,1078.00,17.00,84084.00,1326.00,7686.90,93096.90
+11235,"Alik, Goddess of Trickery",Peley Keep,23.94,Green Dustlightning Mercury,229.00,3517.00,35.20,805393.00,8060.80,195228.91,1008682.71
+11342,Fate Seeker,Fellfen Keep,46.23,Devils' Falserot Silver,119.00,1668.51,182.71,198552.69,21742.49,101335.78,321630.96
+12091,Spiketerror The Skeletal,The Black Barrow of Bery,-0.07,Magicians' Legendary Poison Metal,208.00,2719.59,229.81,565674.72,47800.48,0.00,613475.20
+12813,Rose Anchor,The Desert of Flames,51.91,Swordbronze,158.00,1485.01,447.01,234631.58,70627.58,158734.76,463993.92
+13223,Fate Seeker,The Broken Shield,37.23,Mistgold Of Men,277.00,3709.51,53.24,1027534.27,14747.48,385644.25,1427926.00
+14651,Gravebone,Grove Farthing,19.80,Phantasmal Tin Of The Swamps,198.00,4929.54,-7.26,976048.92,-1437.48,194922.29,1169533.73
+14914,"Eumyan, Goddess of Law",The Dark Caverns of Woe,3.29,Violetdream Iron,324.00,1224.69,349.36,396799.56,113192.64,15299.77,525291.97
+15203,Jericho Wolf,The Shadow Downs,13.21,Legendary Mithril Of The Moon,91.00,2707.10,125.84,246346.10,11451.44,33513.68,291311.22
+22824,Bedlam Spiritraven,Boiaburh Keep,17.60,Icy Shock Silver,145.00,1631.28,595.89,236535.60,86404.05,58129.14,381068.79
+22944,Maverick Wind,The Pilgrim's Cup,46.12,Magic Adamant,190.00,2021.80,228.40,384142.00,43396.00,196667.48,624205.48

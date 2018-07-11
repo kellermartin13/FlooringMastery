@@ -1,0 +1,14 @@
+385,Metalghoul,Arcanist's Farthing,3.00,Poison Adamant,231.00,298.00,406.38,68838.00,93873.78,4881.35,167593.13
+2076,Gravebone The Unspeakable,Tower Farthing,22.41,Poison Adamant,192.00,298.00,406.38,57216.00,78024.96,29753.01,164993.97
+3722,Chillfire The Chiller,The Broken Arrow,30.07,Planar Mudtin Of Trolls,96.00,2304.41,335.36,221223.36,32194.56,76025.38,329443.30
+3828,Deathbrood,The Hunter and Rose,40.40,Yellow Mistearth Copper,193.00,4575.58,-27.40,883086.94,-5288.20,351119.50,1228918.24
+6951,"Penur, Lord of the Sea",Bergfison's Deep,39.60,Meteoric Dustzephyr Orichalcum,239.00,375.00,244.08,89625.00,58335.12,59184.05,207144.17
+9341,Rune Rougehate,Unicorn's Ward,14.64,Emerald Orichalcum,259.00,-368.87,128.90,-95537.33,33385.10,-9322.83,-71475.06
+9846,"Alas, Lord of Plague",Lamp Borough,4.95,Spirits' Living Wordhammer Tin Of The Trees,252.00,4777.30,26.40,1203879.60,6652.80,60526.62,1271059.02
+10656,Evilfear The Horrorific,The Dread Hive of Illfang the Kobold Lord,1.33,Magicians' Legendary Poison Metal,228.00,2472.35,229.81,563695.80,52396.68,6160.92,622253.40
+11551,Beamsprocket The Grasping,Unicorn's Ward,14.64,Phantasmal Tin Of The Swamps,158.00,4074.00,-6.60,643692.00,-1042.80,96397.38,739046.58
+12519,Shiverflame The Freezer,The Citadel of Alammius,3.50,Spectres' Shadowy Terrorglow Adamant Of Life,345.00,5164.28,226.05,1781676.60,77987.25,74386.55,1934050.40
+14312,Emberfire,Pewold Keep,20.52,Tritons' Time Stoneiron Of Legend,165.00,1760.00,204.37,290400.00,33721.05,68065.42,392186.47
+15840,Rouge Tombreaper,Noble's Village,30.25,Trolls' Rubymercury Of The Sunset,286.00,556.60,217.80,159187.60,62290.80,66443.52,287921.92
+21536,Seraph Jester,The Fortress of Asmamur,-4.93,Phantasmal Tin Of The Swamps,171.00,5964.74,-7.99,1019970.54,-1366.29,-50930.21,967674.04
+22320,Blazeflare The Cremator,Cawold Castle,29.15,Fairies' Supreme Mistsmoke Lead Of The Future,199.00,3349.50,324.73,666550.50,64621.27,212039.81,943211.58

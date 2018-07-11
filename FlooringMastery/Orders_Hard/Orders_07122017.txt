@@ -1,0 +1,15 @@
+315,"Azah, Goddess of Fate",Gena's Hold,2.00,Incubi's Iron Of The Dawn,64.00,1091.78,385.74,69873.92,24687.36,1891.23,96452.51
+1912,Jericho Wolf,Hartshill Ward,41.98,Planar Mudtin Of Trolls,142.00,2094.92,335.36,297478.64,47621.12,144941.90,490041.66
+3066,Rose Anchor,Hafeld Keep,29.00,Thunderbirds' Transcendent Dreamiron,102.00,2068.41,237.70,210977.82,24245.40,68214.73,303437.95
+4579,Slayer Claw,Citadel Ward,28.40,Negative Rockglitter Mercury Of Trolls,126.00,1483.90,423.07,186971.40,53306.82,67277.90,307556.12
+5454,Scarefear The Blade,Barad Kesa,4.32,Angels' Adamant,180.00,1304.00,179.30,234720.00,32274.00,10679.76,277673.76
+10127,Burnchill The Evil,The Nulukkhath Spires,10.59,Magicians' Legendary Poison Metal,282.00,2247.59,229.81,633820.38,64806.42,76848.95,775475.75
+11145,Seraph Jester,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,170.00,3222.96,229.53,547903.20,39020.10,211292.39,798215.69
+12046,Chainnail,The Greedy Wench,32.70,Fairies' Supreme Mistsmoke Lead Of The Future,249.00,3349.50,324.73,834025.50,80857.77,301911.48,1216794.75
+12085,"Avriel, God of Death",The Wizard's House,43.58,Toxic Mistlead Of The Past,217.00,1557.54,136.06,337986.18,29525.02,161704.93,529216.13
+12692,Emberfire,Reheath Stronghold,8.00,Swordbronze,254.00,1485.01,447.01,377192.54,113540.54,39258.65,529991.73
+16204,Chainnail,The Lost Sanctum of Woe,3.30,Sirens' Rockgold,234.00,-352.01,199.96,-82370.34,46790.64,-1067.39,-36647.09
+20710,Spikerivet,Barad Cune,28.60,Toxin Iceplatinum Of The Undead,384.00,-377.06,-59.29,-144791.04,-22767.36,-48591.94,-216150.34
+20867,Clash Lonedrake,The Hunter and Rose,44.44,Forgotten Mithril,249.00,1215.20,347.60,302584.80,86552.40,171220.37,560357.57
+23067,Terrorghoul The Unspeakable,The Beggar and Cask,25.41,Mithril Of The Tropics,222.00,4992.58,11.98,1108352.76,2659.56,277753.08,1388765.40
+23089,Rouge Tombreaper,Bergfison's Deep,57.98,Incubi's Glittering Tin Of The Future,190.00,3349.54,96.64,636412.60,18361.60,379769.04,1034543.24

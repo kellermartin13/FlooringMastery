@@ -1,0 +1,17 @@
+1468,Heather "Friendly Gambler" Barrett,IA,1.00,Pebbles,303.00,0.80,4.40,242.40,1333.20,15.76,1591.36
+1979,Vanessa "Scalper" Rhodes,ND,1.25,Pinecones,172.00,1.50,2.00,258.00,344.00,6.02,608.02
+3802,Geraldine "Revenge" Warren,MO,2.20,Packed Dirt,182.00,1.00,1.50,182.00,273.00,9.10,464.10
+4974,Wilma "Tornado" Brooks,NM,2.20,Cedar Planks,208.00,2.00,5.50,416.00,1144.00,31.20,1591.20
+5003,Vicki "Mesa" Rhodes,AL,1.00,Leather,213.00,10.00,18.15,2130.00,3865.95,59.96,6055.91
+8343,Florence "Leather Doc" Grant,MT,3.30,Leather,292.00,10.00,18.15,2920.00,5299.80,246.59,8466.39
+9920,Tina "Lady" Anderson,AR,2.20,Reeds,115.00,0.75,2.20,86.25,253.00,6.78,346.03
+10400,"Scalphunter" Kennedy,MO,2.20,Pebbles,337.00,0.88,4.84,296.56,1631.08,38.55,1966.19
+11527,April "Thunderbird" Dunn,TX,0.67,Dirt,280.00,0.50,1.00,140.00,280.00,4.20,424.20
+12930,Renee "Loco Tracker" Jordan,UT,0.00,Leather,78.00,11.00,18.15,858.00,1415.70,0.00,2273.70
+13076,Kathy Murphy "the Thinker",OK,2.42,Pebbles,85.00,0.88,4.84,74.80,411.40,9.72,495.92
+13963,Geraldine "Revenge" Warren,OK,2.42,Cedar Planks,31.00,2.20,6.05,68.20,187.55,5.12,260.87
+15133,Helen Webb "the Dancer",MS,3.00,Packed Dirt,69.00,1.10,2.20,75.90,151.80,6.83,234.53
+17781,Dorothy "the Hunter",UT,0.00,Beechwood,319.00,3.63,5.50,1157.97,1754.50,0.00,2912.47
+18643,Wilma "Tornado" Brooks,NM,2.93,Beechwood,272.00,3.63,5.50,987.36,1496.00,74.50,2557.86
+20918,Black Beck,OK,2.66,Solid Oak,221.00,5.50,6.66,1215.50,1471.86,80.62,2767.98
+21566,Joanne "Damned" Miles,KS,0.55,Reeds,253.00,0.83,2.20,209.99,556.60,7.67,774.26

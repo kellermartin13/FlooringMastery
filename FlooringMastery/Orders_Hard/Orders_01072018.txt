@@ -1,0 +1,13 @@
+427,Chainhorror,The Forsaken Tomb of Devastation,0.00,Tritons' Time Stoneiron Of Legend,201.00,1760.00,168.90,353760.00,33948.90,0.00,387708.90
+692,Magus Felldrake,The Tomb of Hellish Ruin,14.00,Nymphs' Luminous Rotmercury Of The Skies,196.00,266.00,189.00,52136.00,37044.00,12485.20,101665.20
+1068,"Gono, Goddess of the Earth",The Dungeon of Merciless Woe,38.62,Foulopal Copper Of The Skies,144.00,1221.16,403.00,175847.04,58032.00,91212.83,325091.87
+3533,Sunrise Godwarlock,The Forsaken Hive of Galima the Mighty,22.45,Negative Rockglitter Mercury Of Trolls,225.00,1349.00,423.07,303525.00,95190.75,87717.46,486433.21
+4675,"Gadriel, God of Resurrection",The Archer and Scroll,39.60,Sphinxes' Unknown Poisongold Of The Future,239.00,3554.77,23.86,849590.03,5702.54,342117.03,1197409.60
+5114,"Ariel, God of Luck",The Bastion of Gothmog of Udun,45.32,Hell Mercury Of The East,182.00,4636.34,284.60,843813.88,51797.20,403024.99,1298636.07
+7101,Fate Ivycaster,Kada's Deep,33.00,Djinni's Mind Fogiron,123.00,2301.02,74.02,283025.46,9104.46,96402.87,388532.79
+8626,Chillfire The Chiller,Mahyrst Keep,27.65,Shadowy Adamant,356.00,618.93,478.58,220339.08,170374.48,109399.80,500113.36
+10785,"Ariel, God of Luck",The Citadel of Lord Greywulf,33.04,Glowpearl Adamant Of Spirits,244.00,398.09,374.00,97133.96,91256.00,62168.69,250558.65
+12160,Rune Rougehate,The Wizard's House,43.58,Angels' Adamant,316.00,1304.00,179.30,412064.00,56658.80,206238.03,674960.83
+16823,Bronzespawn,Gena's Hold,2.66,Shadowhell Mithril,225.00,483.15,315.05,108708.75,70886.25,5387.85,184982.85
+22952,Bronzespawn,Citadel Ward,37.80,Icy Shock Silver,174.00,1631.28,595.89,283842.72,103684.86,147260.48,534788.06
+23032,Fate Seeker,Barad Kesa,5.23,Pearl Mirrorice Steel Of Changelings,286.00,328.53,55.75,93959.58,15944.50,5495.20,115399.28

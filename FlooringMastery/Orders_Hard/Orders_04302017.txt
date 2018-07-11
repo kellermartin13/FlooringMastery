@@ -1,0 +1,21 @@
+246,Fate Seeker,Pewold Keep,16.95,Toxic Mistlead Of The Past,108.00,1557.54,123.69,168214.32,13358.52,30867.38,212440.22
+303,"Lionare, God of the Lost",Pewold Keep,16.95,Evilsilver,145.00,1351.68,66.00,195993.60,9570.00,34945.81,240509.41
+982,"Gadriel, God of Resurrection",The Broken Shield,37.23,Primordial False Gold,333.00,4459.34,226.00,1484960.22,75258.00,577280.74,2137498.96
+2115,Rouge Roguemist,Tower Farthing,22.41,Incubi's Mirrorfog Iron Of The Ocean,42.00,4798.76,-19.59,201547.92,-822.78,44159.53,244884.67
+2390,"Addon, Lord of Death",The Nulukkhath Spires,9.63,Primal Adamant,186.00,4562.80,249.00,848680.80,46314.00,89499.48,984494.28
+3460,Shadow Tomblion,Lacot Stronghold,30.88,Forgotten Mithril,223.00,913.00,316.00,203599.00,70468.00,84960.77,359027.77
+3646,"Prusu, God of Love",The Forsaken Hive of Galima the Mighty,22.45,Planar Mudtin Of Trolls,159.00,2304.41,335.36,366401.19,53322.24,92339.15,512062.58
+4834,"Byzou, God of Animals",North Grove Ward,6.60,Venom Timegold Of Dwarves,79.00,3036.00,269.00,239844.00,21251.00,18276.65,279371.65
+7222,Cinderember,The Lost Crypts of Sorrows,35.87,Unicorns' Evil Mithril,93.00,4802.49,312.00,446631.57,29016.00,171233.13,646880.70
+8607,Terrorghoul The Unspeakable,Gili's Delve,-5.05,Shadowy Adamant,231.00,618.93,478.58,142972.83,110551.98,-12676.24,240848.57
+8839,Burnchill The Evil,The Bastion of the Vampire Duke,19.28,Primordial Plague Mercury Of Legend,265.00,452.29,301.29,119856.85,79841.85,37942.75,237641.45
+10017,"Eumyan, Goddess of Law",The Tomb of Hellish Ruin,16.94,Shadowy Adamant,272.00,618.93,478.58,168348.96,130173.76,50748.86,349271.58
+10288,Chainblade The Cadaverous,The Tomb of Hellish Ruin,16.94,Mithril Of Legend,239.00,2274.80,63.01,543677.20,15059.39,94985.22,653721.81
+10740,"Lenwenye, Goddess of Travel",Haukri's Hold,27.83,Succubi's Evil Mindzephyr Adamant Of The Desert,144.00,2189.18,250.07,315241.92,36010.08,98350.56,449602.56
+11780,Scarechain The Unspeakable,The Broken Arrow,30.07,Pearl Mirrorice Steel Of Changelings,300.00,271.51,38.07,81453.00,11421.00,27862.20,120736.20
+12439,Shadow Tomblion,The Citadel of Alammius,3.50,Spectres' Shadowy Terrorglow Adamant Of Life,295.00,5164.28,226.05,1523462.60,66684.75,63605.89,1653753.24
+13687,Metalghoul,The Fortress of Asmamur,-4.48,White Platinum,215.00,-63.64,159.50,-13682.60,34292.50,-824.40,19785.50
+13819,Boltcrank The Trapper,Gili's Delve,-6.73,Witchs' Forbidden Rockrainbow Bronze,178.00,655.60,387.20,116696.80,68921.60,-12993.29,172625.11
+14115,Metalbrood,Lamp Borough,4.95,Primordial Plague Mercury Of Legend,124.00,452.29,301.29,56083.96,37359.96,4672.20,98116.12
+19273,Mecharig The Living Device,Bifar's Deep,18.70,Unspeakable Rotsoul Mithril Of Souls,73.00,248.00,485.85,18104.00,35467.05,10178.50,63749.55
+20975,Springcoil,Archtemple District,27.76,Djinni's Evil Sandobsidian Steel Of The Future,335.00,4208.60,172.78,1409881.00,57881.30,410973.44,1878735.74

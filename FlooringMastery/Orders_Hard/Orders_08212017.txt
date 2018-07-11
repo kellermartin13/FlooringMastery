@@ -1,0 +1,16 @@
+488,Rouge Roguemist,The Fen of the Necromancer,41.00,Poison Adamant,163.00,298.00,406.38,48574.00,66239.94,47073.72,161887.66
+6054,"Azah, Goddess of Fate",The Broken Arrow,30.07,Fairies' Supreme Mistsmoke Lead Of The Future,331.00,3349.50,324.73,1108684.50,107485.63,364851.04,1581021.17
+7198,Flora Amberslayer,The Lost Crypts of Sorrows,35.87,Hell Mercury Of The East,301.00,4636.34,284.60,1395538.34,85664.60,533233.06,2014436.00
+8060,"Suriel, Lord of Animals",The Grey Plains,19.97,Venom Timegold Of Dwarves,247.00,3036.00,269.00,749892.00,66443.00,163267.00,979602.00
+9009,Maverick Wind,Gawold Castle,5.50,Violetstone Tin Of Death,65.00,2245.23,156.10,145939.95,10146.50,9365.19,165451.64
+9261,"Finarfin, God of Protection",Kada's Deep,33.00,Angels' Smoke Adamant Of The Mountains,229.00,2832.34,215.00,648605.86,49235.00,230287.48,928128.34
+12320,Tiger Mistmidnight,Castle Village,37.51,Spectres' Shadowy Terrorglow Adamant Of Life,263.00,5164.28,226.05,1358205.64,59451.15,538709.58,1956366.37
+12840,Storm Squallmourner,The Desert of Flames,51.91,Phantasmal Lead,228.00,-552.97,245.47,-126077.16,55967.16,-36457.20,-106567.20
+14580,Lord Mystery,The Citadel of Lord Greywulf,33.04,Legendary Mithril Of The Moon,192.00,2707.10,125.84,519763.20,24161.28,179495.08,723419.56
+16089,Fate Seeker,The Bastion of Gothmog of Udun,54.84,Thunderbirds' Transcendent Dreamiron,183.00,2275.25,237.70,416370.75,43499.10,252928.42,712798.27
+16474,Lord Mystery,The Forsaken Sepulcher of Sorrows,53.67,Forgotten Mithril,308.00,1104.73,347.60,340256.84,107060.80,241551.53,688869.17
+18331,Magus Felldrake,Grori's Deep,66.50,Negative Rockglitter Mercury Of Trolls,156.00,1632.29,619.42,254637.24,96629.52,231836.06,583102.82
+19574,"Alas, Lord of Plague",The Pirate's Pipe,17.60,Toxic Mistlead Of The Past,121.00,1557.54,164.64,188462.34,19921.44,37509.08,245892.86
+20519,"Avriel, God of Death",Barad Kesa,5.23,Sphinxes' Opalpearl Platinum Of Legend,320.00,5805.82,390.81,1857862.40,125059.20,99146.08,2082067.68
+21238,Lord Mystery,Peley Keep,26.33,Planar Rainfate Mithril,247.00,1304.42,320.52,322191.74,79168.44,104353.65,505713.83
+22182,Gravebone The Unspeakable,Lamp Borough,4.95,Starlight Pearldream Bronze,110.00,354.31,147.40,38974.10,16214.00,2759.40,57947.50

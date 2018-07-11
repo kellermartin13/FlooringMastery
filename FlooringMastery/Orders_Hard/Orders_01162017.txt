@@ -1,0 +1,14 @@
+512,Freezebrood,Arcanist's Farthing,3.00,Venom Jewelmetal Of The Desert,135.00,1388.00,224.00,187380.00,30240.00,6528.60,224148.60
+2690,Rouge Roguemist,The Citadel of Lord Greywulf,30.04,Fog Lavaplatinum Of Life,111.00,1078.00,17.00,119658.00,1887.00,36463.50,158008.50
+4741,Emberspawn,The Archer and Scroll,39.60,Planar Rainfate Mithril,340.00,1185.84,320.52,403185.60,108976.80,204864.96,717027.36
+7679,Deathspike The Terrifying,The Cuitamba Jungle,30.80,Fairies' Supreme Mistsmoke Lead Of The Future,368.00,3349.50,324.73,1232616.00,119500.64,419156.16,1771272.80
+9621,Blazeflare The Cremator,The Tomb of Gothmog of Udun,-3.00,Ghostly Magic Adamant,144.00,4836.38,230.90,696438.72,33249.60,-21890.65,707797.67
+10928,Burnbrood The Freezer,The Dungeon of Merciless Woe,38.62,God-touched Greengem Platinum,174.00,1281.72,-39.60,223019.28,-6890.40,84290.26,300419.14
+11234,Lord Mystery,The Forsaken Sepulcher of Sorrows,48.79,Green Dustlightning Mercury,135.00,3517.00,35.20,474795.00,4752.00,234978.03,714525.03
+11375,Gale Jackalguard,The Dungeon of Merciless Woe,38.62,Emerald Orichalcum,140.00,-368.87,128.90,-51641.80,18046.00,-13102.36,-46698.16
+12027,Wheelspawn,The Secret Catacombs of Ulfang the Black,42.90,Djinni's Spectral Shadowlead Of Life,212.00,3705.90,325.62,785650.80,69031.44,367513.36,1222195.60
+16132,Wheelbolt The Machine,Gili's Delve,-6.73,Meteoric Dustzephyr Orichalcum,303.00,375.00,268.49,113625.00,81352.47,-13648.42,181329.05
+17882,Scarechain The Unspeakable,The Nulukkhath Spires,11.65,Rocklava Mithril Of Revenants,65.00,2200.14,14.33,143009.10,931.45,17272.87,161213.42
+19477,Lance Knightseraph,Noble's Village,33.28,Mithril Of The Tropics,236.00,4538.71,11.98,1071135.56,2827.28,354407.74,1428370.58
+19597,Lance Knightseraph,Weke Tower,-0.07,Goddesses' Spectral Poison Steel,280.00,5023.18,296.81,1406490.40,83106.80,0.00,1489597.20
+19780,"Sielach, God of Fate",The Pirate's Pipe,17.60,Planar Mudtin Of Trolls,338.00,3067.17,405.79,1036703.46,137157.02,211294.89,1385155.37

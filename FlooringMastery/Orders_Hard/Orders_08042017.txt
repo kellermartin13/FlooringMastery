@@ -1,0 +1,13 @@
+557,Lord Mystery,Shainan's Hold,18.00,Fog Lavaplatinum Of Life,264.00,1078.00,17.00,284592.00,4488.00,52034.40,341114.40
+6822,Seraphim Tsunami,The Dread Hive of Illfang the Kobold Lord,1.33,Primal Adamant,336.00,4562.80,273.90,1533100.80,92030.40,16251.31,1641382.51
+7598,Seraph Jester,Tradun Castle,34.24,Zephyr Adamant,230.00,4224.00,102.93,971520.00,23673.90,338365.93,1333559.83
+7658,"Lenwenye, Goddess of Travel",The Tower of Aces the Accursed,13.31,Swordbronze,373.00,1350.01,447.01,503553.73,166734.73,87137.50,757425.96
+9129,Bedlam Spiritraven,The Archer and Scroll,39.60,Ensorceled Gold Of The Dawn,130.00,5713.98,402.92,742817.40,52379.60,318078.80,1113275.80
+12907,Burnchill The Evil,The Desert of Flames,51.91,Swordbronze,327.00,1485.01,447.01,485598.27,146172.27,328520.68,960291.22
+13270,Flora Amberslayer,Arcanist's Farthing,3.00,White Platinum,151.00,-63.64,159.50,-9609.64,24084.50,434.25,14909.11
+13645,Cult Godseeker,The Fortress of Asmamur,-4.48,Meteoric Dustzephyr Orichalcum,117.00,375.00,268.49,43875.00,31413.33,-3011.53,72276.80
+17704,"Penur, Lord of the Sea",North Arcanist's Farthing,55.18,Fog Lavaplatinum Of Life,196.00,1078.00,18.70,211288.00,3665.20,118224.26,333177.46
+17751,Flameshiver,Shainan's Hold,23.96,Witchs' Forbidden Rockrainbow Bronze,243.00,655.60,425.92,159310.80,103498.56,63074.25,325883.61
+18151,Tarot Dawn,Lamp Borough,4.95,Negative Rockglitter Mercury Of Trolls,157.00,1632.29,619.42,256269.53,97248.94,17675.92,371194.39
+20647,"Uriel, God of Fate",The Broken Shield,40.95,Sphinxes' Opalpearl Platinum Of Legend,291.00,5805.82,390.81,1689493.62,113725.71,739319.93,2542539.26
+21436,Metalghoul,Unicorn's Ward,14.64,Sphinxes' Opalpearl Platinum Of Legend,215.00,5805.82,429.89,1248251.30,92426.35,201101.65,1541779.30

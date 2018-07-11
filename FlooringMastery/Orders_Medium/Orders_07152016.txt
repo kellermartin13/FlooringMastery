@@ -1,0 +1,21 @@
+83,Gloria "Devil" McCoy,AL,1.00,Cedar Planks,241.00,2.00,5.00,482.00,1205.00,16.87,1703.87
+167,Helen Webb "the Dancer",ID,0.00,Dirt,221.00,0.50,1.00,110.50,221.00,0.00,331.50
+540,Heather "Tornado" Newman,OK,2.00,Pinecones,307.00,1.50,2.00,460.50,614.00,21.49,1095.99
+3169,Theresa "Scalphunter" Romero,MT,3.00,Leather,153.00,10.00,16.50,1530.00,2524.50,121.64,4176.14
+4370,Geraldine "Revenge" Warren,WY,0.31,Pebbles,367.00,0.80,4.40,293.60,1614.80,0.00,1908.40
+5988,Gloria "Devil" McCoy,MO,2.20,Leather,260.00,10.00,18.15,2600.00,4719.00,146.38,7465.38
+8992,April "Thunderbird" Dunn,TX,0.50,Beechwood,138.00,3.00,5.50,414.00,759.00,0.00,1173.00
+9673,Stella "the Bully",MS,3.00,Pinecones,384.00,1.50,2.66,576.00,1021.44,47.92,1645.36
+9784,Florence "Leather Doc" Grant,TX,0.55,Packed Dirt,129.00,1.00,1.50,129.00,193.50,3.22,325.72
+11376,Diana "Mistress" Morgan,KS,0.55,Packed Dirt,205.00,1.00,1.65,205.00,338.25,5.43,548.68
+11521,Betty "Happy Thinker" Watson,MT,3.63,Packed Dirt,359.00,1.00,1.65,359.00,592.35,38.05,989.40
+11553,Maureen "Cursed" Andrews,MO,2.20,Leather,260.00,10.00,18.15,2600.00,4719.00,146.38,7465.38
+12738,Helen Webb "the Dancer",AL,1.00,Leather,98.00,11.00,18.15,1078.00,1778.70,28.57,2885.27
+15379,Helen Webb "the Dancer",AL,1.00,Pebbles,140.00,0.88,4.84,123.20,677.60,8.01,808.81
+17109,Gladys "Locoweed" Keller,NV,0.31,Leather,179.00,11.00,19.97,1969.00,3574.63,0.00,5543.63
+17187,Vengeful Montgomery,NV,0.31,Reeds,258.00,0.83,2.20,214.14,567.60,0.00,781.74
+18444,Debra "Scorpion" Lane,MO,2.20,Solid Oak,353.00,5.50,6.66,1941.50,2350.98,85.85,4378.33
+18806,Florence "Leather Doc" Grant,CA,0.61,Beechwood,314.00,3.63,5.50,1139.82,1727.00,28.67,2895.49
+20362,Victoria "the Dancer",NM,2.93,Leather,245.00,11.00,19.97,2695.00,4892.65,227.63,7815.28
+21665,Vengeful Montgomery,AR,2.20,Pebbles,144.00,0.88,4.84,126.72,696.96,16.47,840.15
+22051,Allison "Steel Gravedigger" Douglas,NV,0.31,Packed Dirt,123.00,1.10,2.42,135.30,297.66,0.00,432.96

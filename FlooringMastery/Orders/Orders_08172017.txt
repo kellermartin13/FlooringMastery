@@ -1,0 +1,20 @@
+206,Vengeful Montgomery,KS,0.50,Brick,213.00,4.00,5.00,852.00,1065.00,0.00,1917.00
+564,Marie "Raven" Chapman,CA,0.50,Leather,312.00,10.00,15.00,3120.00,4680.00,0.00,7800.00
+657,Maureen "Cursed" Andrews,MT,3.00,Cedar Planks,131.00,2.00,5.00,262.00,655.00,27.51,944.51
+3707,Geraldine "Revenge" Warren,ND,1.25,Leather,237.00,10.00,16.50,2370.00,3910.50,62.80,6343.30
+4202,Dorothy "the Hunter",WY,0.31,Reeds,171.00,0.75,2.00,128.25,342.00,0.00,470.25
+4739,Lena Chapman "the Bully",MS,3.00,Pinecones,296.00,1.50,2.42,444.00,716.32,34.81,1195.13
+4958,Surgeon Grant,WY,0.31,Pinecones,146.00,1.50,2.42,219.00,353.32,0.00,572.32
+5748,Ida Russell "the Rustler",AL,1.00,Leather,260.00,10.00,18.15,2600.00,4719.00,73.19,7392.19
+8446,Mabel "Vixen Cursed" King,KS,0.50,Reeds,287.00,0.75,2.20,215.25,631.40,0.00,846.65
+8872,Jacqueline "Riding Doc" Washington,AR,2.20,Packed Dirt,233.00,1.00,1.50,233.00,349.50,11.65,594.15
+8946,Wilma "Tornado" Brooks,MS,3.00,Brick,267.00,4.84,6.66,1292.28,1778.22,92.12,3162.62
+11005,Dorothy "the Hunter",AR,2.20,Leather,287.00,10.00,18.15,2870.00,5209.05,161.58,8240.63
+11494,Vengeful Montgomery,NV,0.31,Dirt,115.00,0.50,1.00,57.50,115.00,0.00,172.50
+11503,Elizabeth "the Bully",ID,0.00,Pinecones,68.00,1.50,2.66,102.00,180.88,0.00,282.88
+11920,Amanda Hart "the Loner",NV,0.31,Brick,213.00,4.84,6.66,1030.92,1418.58,0.00,2449.50
+12803,Lena Chapman "the Bully",AL,1.00,Solid Oak,97.00,5.50,5.50,533.50,533.50,10.67,1077.67
+13740,Tammy Carlson "the Killer",KS,0.55,Leather,175.00,11.00,18.15,1925.00,3176.25,51.01,5152.26
+13799,"Bane" Jennings,NM,2.42,Brick,267.00,5.32,6.66,1420.44,1778.22,63.97,3262.63
+15920,Diana "Mistress" Morgan,AL,1.00,Pebbles,308.00,0.88,4.84,271.04,1490.72,17.62,1779.38
+21477,Melissa "Lonesome Stalker" Riley,AL,1.00,Cedar Planks,114.00,2.20,6.66,250.80,759.24,10.10,1020.14

@@ -1,0 +1,18 @@
+81,Sunrise Godwarlock,Gena's Hold,2.00,Unknown Fatelightning Steel Of The Glacier,171.00,1834.00,54.28,313614.00,9281.88,6457.92,329353.80
+1337,Bane Veil,The Barrow of Malefic Ages,17.91,White Platinum,216.00,-47.81,145.00,-10326.96,31320.00,3778.75,24771.79
+1349,"Alas, Lord of Plague",The Tomb of Hellish Ruin,14.00,Trolls' Mist Poisonplatinum Of The Twilight,148.00,516.17,394.90,76393.16,58445.20,18877.37,153715.73
+2073,"Finarfin, God of Protection",Haukri's Hold,25.30,Djinni's Evil Sandobsidian Steel Of The Future,185.00,3826.00,157.07,707810.00,29057.95,184216.99,921084.94
+2807,Snowflame The Evil,The Nulukkhath Spires,9.63,Mana-touched Greenglitter Gold Of Giants,261.00,1173.98,425.00,306408.78,110925.00,41733.38,459067.16
+4341,"Addon, Lord of Death",The Pilgrim's Cup,41.93,Otherworldly Mirror Orichalcum,150.00,-247.00,478.50,-37050.00,71775.00,14584.50,49309.50
+6893,Slayer Claw,Kada's Deep,33.00,Spectres' Shadowy Terrorglow Adamant Of Life,86.00,4694.80,205.50,403752.80,17673.00,139070.51,560496.31
+8028,Magus Felldrake,Grori's Deep,49.95,Shadowy Adamant,358.00,618.93,478.58,221576.94,171331.64,196454.29,589362.87
+8789,Seraphim Tsunami,The Citadel of Tattena the Sinister,12.13,Ghouls' Imperial Soulzephyr Mithril Of The Seas,120.00,4123.68,122.49,494841.60,14698.80,61144.85,570685.25
+12169,Evilcoil The Machine,The Forsaken Delve of Lord Greywulf,39.00,Incubi's Glittering Tin Of The Future,249.00,3349.54,79.86,834035.46,19885.14,333029.03,1186949.63
+12645,Chainhorror,The Desert of Flames,51.91,Primordial Plague Mercury Of Legend,269.00,452.29,301.29,121666.01,81047.01,105410.77,308123.79
+13928,Jericho Wolf,Tradun Castle,37.66,Witchs' Forbidden Rockrainbow Bronze,321.00,655.60,387.20,210447.60,124291.20,127200.74,461939.54
+14219,"Byzou, God of Animals",The Citadel of Lord Greywulf,33.04,Tritons' Time Stoneiron Of Legend,255.00,1760.00,204.37,448800.00,52114.35,165301.74,666216.09
+14683,"Avriel, God of Death",The Citadel of Lord Greywulf,33.04,Legendary Mithril Of The Moon,268.00,2707.10,125.84,725502.80,33725.12,250545.21,1009773.13
+16152,Evilfear The Horrorific,The Pilgrim's Cup,46.12,Sirens' Rockgold,51.00,-352.01,199.96,-17952.51,10197.96,-3567.09,-11321.64
+17136,"Iran, Lord of Nightmares",The Flying Witch,12.60,Unspeakable Rotsoul Mithril Of Souls,311.00,248.00,441.68,77128.00,137362.48,27883.76,242374.24
+22298,"Gadriel, God of Resurrection",Cawold Castle,29.15,Primordial Plague Mercury Of Legend,112.00,497.52,301.29,55722.24,33744.48,25945.35,115412.07
+22821,Clash Lonedrake,The Pilgrim's Cup,46.12,Djinni's Mind Fogiron,364.00,2531.12,119.21,921327.68,43392.44,443771.26,1408491.38

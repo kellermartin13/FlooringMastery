@@ -1,0 +1,13 @@
+130,Helen Webb "the Dancer",CA,0.50,Brick,173.00,4.00,5.00,692.00,865.00,0.00,1557.00
+991,Maureen "Cursed" Andrews,ID,0.00,Dirt,146.00,0.50,1.00,73.00,146.00,0.00,219.00
+2808,Mabel "Vixen Cursed" King,CA,0.55,Pinecones,200.00,1.50,2.20,300.00,440.00,7.40,747.40
+2811,Vengeful Montgomery,IA,1.00,Pebbles,290.00,0.80,4.40,232.00,1276.00,15.08,1523.08
+10862,Heather "Friendly Gambler" Barrett,OK,2.42,Packed Dirt,174.00,1.00,1.50,174.00,261.00,8.70,443.70
+11007,Beth "Fortunate Shooter" Powell,TX,0.67,Pebbles,381.00,0.88,4.84,335.28,1844.04,21.79,2201.11
+11445,Jacqueline "Riding Doc" Washington,TX,0.67,Brick,134.00,4.84,6.66,648.56,892.44,15.41,1556.41
+11786,Amanda Hart "the Loner",WY,0.31,Reeds,223.00,0.75,2.20,167.25,490.60,0.00,657.85
+13416,Elizabeth "the Bully",OK,2.42,Pebbles,126.00,0.88,4.84,110.88,609.84,14.41,735.13
+14402,Wilma "Tornado" Brooks,WY,0.31,Dirt,144.00,0.50,1.00,72.00,144.00,0.00,216.00
+14533,April "Thunderbird" Dunn,ID,0.00,Leather,221.00,11.00,18.15,2431.00,4011.15,0.00,6442.15
+19981,Marie "Raven" Chapman,CA,0.67,Dirt,84.00,0.50,1.00,42.00,84.00,1.26,127.26
+23060,Michele Watson "the Loner",MT,5.84,Beechwood,162.00,3.63,6.05,588.06,980.10,94.09,1662.25

@@ -1,0 +1,25 @@
+479,Susan "Damnation" Fleming,AR,2.20,Packed Dirt,277.00,1.00,1.50,277.00,415.50,13.85,706.35
+709,Mattie Grant "the Gambler",IA,1.00,Reeds,53.00,0.75,2.00,39.75,106.00,1.46,147.21
+2394,Evelyn "Evil Joker" Taylor,ND,1.25,Pinecones,197.00,1.50,2.20,295.50,433.40,7.29,736.19
+3045,Kathy Murphy "the Thinker",AL,1.00,Packed Dirt,146.00,1.00,1.50,146.00,219.00,3.65,368.65
+4682,Darlene "Loner" Ford,ID,0.00,Cedar Planks,187.00,2.00,5.50,374.00,1028.50,0.00,1402.50
+5044,Ida Russell "the Rustler",UT,0.00,Pebbles,53.00,0.80,4.40,42.40,233.20,0.00,275.60
+5459,Mabel "Vixen Cursed" King,WY,0.31,Packed Dirt,337.00,1.00,1.50,337.00,505.50,0.00,842.50
+7205,Cathy "Wildfire" Neal,MS,3.00,Dirt,233.00,0.50,1.00,116.50,233.00,10.48,359.98
+7399,Minnie Lawson "the Apostle",WY,0.31,Brick,309.00,4.84,6.66,1495.56,2057.94,0.00,3553.50
+7766,Minnie Lawson "the Apostle",WY,0.31,Brick,36.00,4.84,6.66,174.24,239.76,0.00,414.00
+8179,Jo "the Joker",MT,3.30,Brick,210.00,4.84,6.66,1016.40,1398.60,72.45,2487.45
+8225,Cathy "Wildfire" Neal,KS,0.50,Reeds,219.00,0.75,2.20,164.25,481.80,0.00,646.05
+8671,Michele Watson "the Loner",OK,2.20,Reeds,128.00,0.75,2.20,96.00,281.60,7.55,385.15
+10072,Vengeful Montgomery,MT,3.63,Pinecones,218.00,1.50,2.66,327.00,579.88,36.28,943.16
+11037,"Doom" McCoy,NM,2.20,Leather,260.00,10.00,18.15,2600.00,4719.00,146.38,7465.38
+11731,Dorothy "the Hunter",ID,0.00,Beechwood,84.00,3.00,5.50,252.00,462.00,0.00,714.00
+12888,Renee "Hellish Empress" Banks,OK,2.42,Solid Oak,223.00,5.50,5.50,1226.50,1226.50,49.06,2502.06
+14963,Tina "Lady" Anderson,NM,2.42,Brick,240.00,5.32,6.66,1276.80,1598.40,57.50,2932.70
+15108,Betty "Happy Thinker" Watson,KS,0.55,Solid Oak,204.00,5.50,5.50,1122.00,1122.00,22.44,2266.44
+15122,Surgeon Grant,MT,3.99,Leather,134.00,11.00,18.15,1474.00,2432.10,156.24,4062.34
+16371,Cathy "Loner Demon" Murray,MO,2.20,Solid Oak,287.00,5.50,6.05,1578.50,1736.35,66.30,3381.15
+19517,Heather "Friendly Gambler" Barrett,ND,1.67,Beechwood,288.00,3.63,6.05,1045.44,1742.40,55.76,2843.60
+21153,Lorraine "Utah" Adams,MO,2.20,Packed Dirt,290.00,1.10,2.42,319.00,701.80,20.42,1041.22
+21623,Surgeon Grant,AL,1.00,Dirt,232.00,0.55,1.00,127.60,232.00,3.60,363.20
+22847,Amanda Hart "the Loner",AR,2.20,Cedar Planks,100.00,2.20,6.66,220.00,666.00,17.72,903.72

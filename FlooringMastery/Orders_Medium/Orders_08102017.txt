@@ -1,0 +1,20 @@
+3665,Florence "Leather Doc" Grant,CA,0.55,Leather,61.00,10.00,16.50,610.00,1006.50,16.16,1632.66
+4475,Heather "Tornado" Newman,NV,0.25,Cedar Planks,253.00,2.00,5.50,506.00,1391.50,0.00,1897.50
+4743,Melissa "Lonesome Stalker" Riley,MS,3.00,Brick,260.00,4.40,5.50,1144.00,1430.00,77.22,2651.22
+4850,Theresa "Kid" Robinson,CA,0.55,Cedar Planks,221.00,2.00,5.50,442.00,1215.50,16.58,1674.08
+6239,Geraldine "Revenge" Warren,MS,3.00,Packed Dirt,277.00,1.00,1.50,277.00,415.50,20.78,713.28
+7947,Theresa "Kid" Robinson,WY,0.31,Pebbles,160.00,0.80,4.84,128.00,774.40,0.00,902.40
+8015,Evelyn "Evil Joker" Taylor,IA,1.21,Solid Oak,291.00,5.50,5.50,1600.50,1600.50,32.01,3233.01
+8971,April "Thunderbird" Dunn,NV,0.31,Beechwood,302.00,3.00,5.50,906.00,1661.00,0.00,2567.00
+9116,Friendly Howell,ID,0.00,Pinecones,190.00,1.50,2.66,285.00,505.40,0.00,790.40
+9172,Melissa "Lonesome Stalker" Riley,MO,2.20,Beechwood,124.00,3.00,5.50,372.00,682.00,21.08,1075.08
+12540,Betty "Happy Thinker" Watson,MO,2.20,Packed Dirt,195.00,1.00,1.65,195.00,321.75,10.34,527.09
+15757,Allison "Steel Gravedigger" Douglas,UT,0.00,Reeds,169.00,0.83,2.20,140.27,371.80,0.00,512.07
+17010,Tammy Carlson "the Killer",UT,0.00,Reeds,329.00,0.83,2.20,273.07,723.80,0.00,996.87
+17194,Joanne "Damned" Miles,NV,0.31,Solid Oak,262.00,5.50,6.05,1441.00,1585.10,0.00,3026.10
+17364,Cathy "Wildfire" Neal,KS,0.55,Beechwood,318.00,3.63,5.50,1154.34,1749.00,29.03,2932.37
+19750,Tina "Lady" Anderson,ND,1.67,Reeds,306.00,0.83,2.20,253.98,673.20,18.54,945.72
+21695,Vengeful Montgomery,AR,2.20,Packed Dirt,212.00,1.10,2.42,233.20,513.04,14.92,761.16
+22227,Cathy "Loner Demon" Murray,MO,2.20,Solid Oak,245.00,5.50,6.66,1347.50,1631.70,59.58,3038.78
+22484,Heather "Tornado" Newman,AL,1.00,Solid Oak,266.00,5.50,6.66,1463.00,1771.56,32.35,3266.91
+23234,Theresa "Kid" Robinson,NV,0.31,Solid Oak,206.00,5.50,6.66,1133.00,1371.96,0.00,2504.96

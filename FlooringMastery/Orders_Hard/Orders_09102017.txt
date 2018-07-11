@@ -1,0 +1,10 @@
+2704,Cinderember,The Khazahol Crags,-1.97,Phantasmal Smokezephyr Mercury Of Men,346.00,-317.16,69.00,-109737.36,23874.00,1717.27,-84146.09
+3537,Clash Lonedrake,Barad Cune,26.00,Starlight Pearldream Bronze,245.00,266.20,134.00,65219.00,32830.00,25492.74,123541.74
+7327,"Lionare, God of the Lost",Tradun Castle,34.24,Unknown Fatelightning Steel Of The Glacier,57.00,2017.40,54.28,114991.80,3093.96,40149.16,158234.92
+13385,Shadow Tomblion,The Citadel of Alammius,3.50,Negative Mercury,57.00,4054.87,436.81,231127.59,24898.17,10241.03,266266.79
+13816,Scarechain The Unspeakable,Khali's Delve,52.71,Shadowhell Mithril,188.00,483.15,286.41,90832.20,53845.08,76678.96,221356.24
+15243,Deathbrood,The Shadow Downs,13.21,Mithril Of The Tropics,129.00,4126.10,11.98,532266.90,1545.42,69395.60,603207.92
+16897,Lord Mystery,Lacot Stronghold,45.22,Forgotten Mithril,182.00,1104.73,347.60,201060.86,63263.20,118945.83,383269.89
+17077,Tarot Dawn,The Cracked Chalice,2.52,Zephyr Iron,209.00,3034.90,444.69,634294.10,92940.21,21817.03,749051.34
+17517,Seraphim Tsunami,Shainan's Hold,23.96,Grayplatinum,110.00,2506.27,306.97,275689.70,33766.70,74269.54,383725.94
+17653,Harmony Angelchild,Weke Tower,-0.07,Sphinxes' Mistsoul Bronze Of The Past,112.00,2169.81,222.28,243018.72,24895.36,0.00,267914.08

@@ -1,0 +1,19 @@
+582,Spikebrood The Disinterred,Barad Kesa,4.32,Nymphs' Luminous Rotmercury Of The Skies,280.00,266.00,189.00,74480.00,52920.00,5096.00,132496.00
+693,"Maglioneth, Lord of the Sun",The Forsaken Tomb of Devastation,0.00,Venom Jewelmetal Of The Desert,284.00,1388.00,224.00,394192.00,63616.00,0.00,457808.00
+1421,Metalghoul,The Beggar and Cask,21.00,Incubi's Iron Of The Dawn,82.00,1200.96,385.74,98478.72,31630.68,27322.97,157432.37
+1878,Dagger Reaper,Haukri's Hold,25.30,Planar Mudtin Of Trolls,73.00,2094.92,335.36,152929.16,24481.28,44352.61,221763.05
+4188,Fate Seeker,Grori's Deep,45.41,Grayplatinum,220.00,2278.43,279.06,501254.60,61393.20,253191.51,815839.31
+4359,Flora Amberslayer,Kewold Stronghold,8.87,Ensorceled Gold Of The Dawn,229.00,4293.00,366.29,983097.00,83880.41,96027.97,1163005.38
+7661,Graveterror,The Tower of Aramum,42.90,Unknown Fatelightning Steel Of The Glacier,235.00,2017.40,54.28,474089.00,12755.80,209343.26,696188.06
+11790,Gale Jackalguard,Archring Borough,17.93,Pearl Mirrorice Steel Of Changelings,154.00,271.51,38.07,41812.54,5862.78,8581.56,56256.88
+12635,Deathbrood,Reheath Stronghold,8.00,Tin Of The Tundra,204.00,3123.86,174.91,637267.44,35681.64,53835.93,726785.01
+13105,Storm Seraphheart,The Grey Plains,19.97,Mind Lead,245.00,2844.70,309.10,696951.50,75729.50,154536.20,927217.20
+13796,"Alik, Goddess of Trickery",Tradun Castle,37.66,Ghostly Soul Adamant,204.00,3222.96,229.53,657483.84,46824.12,267637.02,971944.98
+13885,Shadow Tomblion,The Dark Caverns of Woe,3.29,Violetstone Tin Of Death,214.00,2469.75,171.71,528526.50,36745.94,16958.17,582230.61
+15940,Sunrise Godwarlock,Gili's Delve,-6.73,Angels' Smoke Adamant Of The Mountains,46.00,3427.13,236.50,157647.98,10879.00,-11796.89,156730.09
+18139,Flameflare The Evil,Dysley Stronghold,45.98,Trolls' Mist Poisonplatinum Of The Twilight,213.00,567.79,434.39,120939.27,92525.07,98193.60,311657.94
+18614,Mecharig The Living Device,The Bastion of Barbos,28.34,Primordial Mud Orichalcum,45.00,-469.36,85.11,-21121.20,3829.95,-4841.55,-22132.80
+19584,Bronzespike,Noble's Village,33.28,Planar Mudtin Of Trolls,292.00,3067.17,405.79,895613.64,118490.68,334654.43,1348758.75
+20083,"Azah, Goddess of Fate",The Cracked Chalice,2.52,Rainbowglitter Tin,45.00,5957.39,213.40,268082.55,9603.00,8330.57,286016.12
+21945,Shadow Gust,The Tomb of Hellish Ruin,16.94,Toxic Mistlead Of The Past,205.00,1557.54,181.10,319295.70,37125.50,60591.60,417012.80
+22839,"Suriel, Lord of Animals",The Lost Crypts of Sorrows,35.87,Fleshshock Mercury,177.00,5879.03,338.07,1040588.31,59838.39,396153.61,1496580.31

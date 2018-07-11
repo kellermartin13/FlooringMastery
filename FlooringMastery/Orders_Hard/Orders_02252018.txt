@@ -1,0 +1,19 @@
+2021,Rose Anchor,Hartshill Ward,41.98,Angels' Adamant,159.00,1304.00,179.30,207336.00,28508.70,99054.77,334899.47
+2353,Burnfreeze The Cold,The Grey Plains,18.15,Fog Lavaplatinum Of Life,217.00,1078.00,17.00,233926.00,3689.00,42770.70,280385.70
+2943,Fate Seeker,The Hunter and Rose,40.40,Violetdream Iron,213.00,1224.69,349.36,260858.97,74413.68,134109.06,469381.71
+3676,Rune Rougehate,The Tower of Sabiesu the Awesome,4.40,Forgotten Mithril,176.00,913.00,316.00,160688.00,55616.00,8652.16,224956.16
+4339,Springpulley The Binder,Khali's Delve,52.71,Otherworldly Mirror Orichalcum,241.00,-247.00,478.50,-59527.00,115318.50,29569.50,85361.00
+5112,"Gono, Goddess of the Earth",Lordsgate Farthing,37.40,Sphinxes' Mistsoul Bronze Of The Past,116.00,1972.55,183.70,228815.80,21309.20,92546.25,342671.25
+9413,Evilcoil The Machine,The Pirate's Pipe,17.60,Golems' Stonesapphire Gold Of The Glacier,205.00,3672.77,105.97,752917.85,21723.85,139435.51,914077.21
+9968,Spikecrank,The Citadel of Lord Greywulf,33.04,Djinni's Spectral Shadowlead Of Life,146.00,3705.90,325.62,541061.40,47540.52,194238.63,782840.55
+12328,"Prusu, God of Love",The Citadel of Alammius,3.50,Vampires' Fang Emeraldsilver,164.00,2762.99,455.55,453130.36,74710.20,21113.62,548954.18
+12593,Magus Felldrake,The Glano Forest,3.00,Phantasmal Lead,193.00,-552.97,245.47,-106723.21,47375.71,-1780.42,-61127.92
+13219,Sunset Knightclaw,The Fortress of Asmamur,-4.48,Sphinxes' Mistsoul Bronze Of The Past,170.00,2169.81,202.07,368867.70,34351.90,-16128.78,387090.82
+17759,"Lionare, God of the Lost",The Grey Plains,19.97,Negative Rockglitter Mercury Of Trolls,76.00,1632.29,619.42,124054.04,47075.92,34225.99,205355.95
+18706,Burnchill The Evil,Haukri's Hold,27.83,Devils' Falserot Silver,174.00,2220.79,182.71,386417.46,31791.54,117098.52,535307.52
+20186,Rose Anchor,Boiaburh Keep,17.60,Djinni's Mind Fogiron,110.00,2531.12,98.52,278423.20,10837.20,52066.87,341327.27
+20507,Fate Ivycaster,Tradun Castle,41.43,Greenlead,159.00,959.65,179.65,152584.35,28564.35,74270.97,255419.67
+20728,Springpulley The Binder,North Arcanist's Farthing,55.18,Greenlead,150.00,959.65,179.65,143947.50,26947.50,93992.25,264887.25
+22546,Gravebone The Unspeakable,The Fen of the Necromancer,72.63,Devils' Falserot Silver,263.00,2220.79,182.71,584067.77,48052.73,461447.96,1093568.46
+22633,Metalghoul,The Desert of Flames,57.10,Djinni's Evil Sandobsidian Steel Of The Future,219.00,4208.60,172.78,921683.40,37838.82,546927.67,1506449.89
+22650,Shadow Tomblion,The Lost Crypts of Sorrows,35.87,Devils' Falserot Silver,103.00,2220.79,182.71,228741.37,18819.13,89121.78,336682.28

@@ -1,0 +1,15 @@
+2105,Betty "Happy Thinker" Watson,CA,0.50,Beechwood,181.00,3.00,5.00,543.00,905.00,0.00,1448.00
+6183,Betty "Happy Thinker" Watson,NV,0.25,Leather,310.00,10.00,18.15,3100.00,5626.50,0.00,8726.50
+8002,Victoria "the Dancer",UT,0.00,Pebbles,224.00,0.80,4.84,179.20,1084.16,0.00,1263.36
+9847,Black Beck,ID,0.00,Reeds,65.00,0.75,2.20,48.75,143.00,0.00,191.75
+9867,Amanda Hart "the Loner",MT,3.63,Pinecones,243.00,1.50,2.66,364.50,646.38,40.44,1051.32
+10317,Jo "the Joker",MS,3.00,Reeds,345.00,0.75,2.20,258.75,759.00,30.53,1048.28
+12086,Helen Webb "the Dancer",OK,2.42,Pebbles,247.00,0.88,4.84,217.36,1195.48,28.26,1441.10
+12846,Vanessa "Scalper" Rhodes,OK,2.42,Brick,108.00,4.84,6.66,522.72,719.28,24.84,1266.84
+14219,Wilma "Tornado" Brooks,NM,2.42,Pebbles,361.00,0.88,4.84,317.68,1747.24,41.30,2106.22
+14904,Vicki "Mesa" Rhodes,WY,0.31,Pebbles,78.00,0.88,4.84,68.64,377.52,0.00,446.16
+18032,Minnie Lawson "the Apostle",AR,2.20,Brick,101.00,5.32,6.66,537.32,672.66,24.20,1234.18
+18281,Helen Webb "the Dancer",KS,0.55,Cedar Planks,311.00,2.20,6.66,684.20,2071.26,27.55,2783.01
+19547,Cynthia "the Vixen",ND,1.67,Leather,138.00,11.00,19.97,1518.00,2755.86,85.48,4359.34
+19989,Vengeful Robertson,OK,2.66,Pinecones,304.00,1.50,2.66,456.00,808.64,37.94,1302.58
+21701,Maureen "Cursed" Andrews,WY,0.31,Pebbles,329.00,0.88,4.84,289.52,1592.36,0.00,1881.88

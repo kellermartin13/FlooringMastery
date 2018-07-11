@@ -1,0 +1,22 @@
+1554,Lance Knightseraph,The Lazy Sage,15.00,Venom Jewelmetal Of The Desert,188.00,1388.00,224.00,260944.00,42112.00,45458.40,348514.40
+1973,Bonescare,The Tomb of Hellish Ruin,14.00,Stone Soulsteel Of The Skies,159.00,1634.80,12.01,259933.20,1909.59,36657.99,298500.78
+3602,"Alas, Lord of Plague",The Dismal Marsh,5.00,Ensorceled Sandmetal Of Spirits,291.00,2956.98,87.00,860481.18,25317.00,44289.91,930088.09
+3973,Chainnail,The Pilgrim's Cup,41.93,Plague Tin,131.00,4333.65,342.10,567708.15,44815.10,257259.76,869783.01
+5242,Lance Knightseraph,The Chuallanto Jungle,37.00,Rot Silver Of The Past,215.00,3440.00,327.00,739600.00,70305.00,299664.85,1109569.85
+6032,Spikebrood The Disinterred,The Pirate's Pipe,17.60,Warlocks' Timerot Mithril,208.00,2917.07,112.00,606750.56,23296.00,113408.38,743454.94
+7273,Snowflame The Evil,The Forsaken Delve of Lord Greywulf,39.00,Foulopal Copper Of The Skies,345.00,1477.61,403.00,509775.45,139035.00,253036.08,901846.53
+8539,"Melcha, Goddess of Thieves",The Barrow of Terrible Horror,-1.21,Unknowable Mindsilver,153.00,3565.00,366.00,545445.00,55998.00,-6014.43,595428.57
+8599,"Penur, Lord of the Sea",The Wizard's House,43.58,Glowpearl Adamant Of Spirits,146.00,398.09,374.00,58121.14,54604.00,49599.06,162324.20
+9280,Cult Godseeker,The Fen of the Necromancer,54.57,Goddesses' Spectral Poison Steel,106.00,3773.99,269.83,400042.94,28601.98,235754.71,664399.63
+10637,Bedlam Spiritraven,Haukri's Hold,27.83,Shadow Steel,317.00,4677.78,465.30,1482856.26,147500.10,456499.78,2086856.14
+14972,Deathspike The Terrifying,The Tower of Aces the Accursed,13.31,Primordial Mud Orichalcum,148.00,-387.90,85.11,-57409.20,12596.28,-5825.68,-50638.60
+15242,Spikecrank,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,225.00,3769.54,401.45,848146.50,90326.25,122001.46,1060474.21
+16128,Springpulley The Binder,The Citadel of Cheno,7.33,Sirens' Rockgold,218.00,-352.01,199.96,-76738.18,43591.28,-2320.28,-35467.18
+16318,Snowflame The Evil,The Pilgrim's Cup,46.12,Timeiron,206.00,1596.00,251.16,328776.00,51738.96,175036.88,555551.84
+18484,Cinderflame,The Tower of Aces the Accursed,13.31,Sirens' Rockgold,274.00,-352.01,199.96,-96450.74,54789.04,-5416.02,-47077.72
+18889,Metalghoul,Hafeld Keep,46.71,Starlight Pearldream Bronze,245.00,322.10,147.40,78914.50,36113.00,54062.92,169090.42
+19861,Dawn Darkzealot,The Forsaken Sepulcher of Sorrows,53.67,Rainbowglitter Tin,242.00,5957.39,213.40,1441688.38,51642.80,806398.84,2299730.02
+20048,Seraphim Tsunami,Tower Farthing,27.12,Primordial False Gold,239.00,5395.80,248.60,1289596.20,59415.40,364233.13,1713244.73
+20878,Evilember The Firey,The Secret Catacombs of Ulfang the Black,42.90,Sapphire Mindlead,212.00,1307.71,51.70,277234.52,10960.40,123923.82,412118.74
+22642,Emberfire,The Lost Sanctum of Woe,3.30,Djinni's Mind Fogiron,311.00,2531.12,119.21,787178.32,37074.31,24727.58,848980.21
+23166,Wheelspawn,The Secret Shrine of the Gargoyle Count,-2.00,White Platinum,347.00,-63.64,193.00,-22083.08,66971.00,-897.76,43990.16

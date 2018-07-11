@@ -1,0 +1,11 @@
+44,Dawn Darkzealot,Love Keep,7.00,Meteoric Mirrormuck Orichalcum Of The Forests,248.00,1962.00,168.88,486576.00,41882.24,36992.08,565450.32
+713,"Sielach, God of Fate",The Dread Hive of Illfang the Kobold Lord,1.00,Nymphs' Luminous Rotmercury Of The Skies,173.00,266.00,189.00,46018.00,32697.00,787.15,79502.15
+1054,Magus Felldrake,The Dungeon of Merciless Woe,38.62,Dragons' Poison Glitterflesh Steel Of The North,211.00,2790.70,216.48,588837.70,45677.28,247460.84,881975.82
+3693,"Baltha, Goddess of Knowledge",North Arcanist's Farthing,41.45,Litches' Fatal Mithril Of The Past,267.00,1207.25,335.50,322335.75,89578.50,168884.84,580799.09
+9027,Burnfreeze The Cold,The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,281.00,3826.00,157.07,1075106.00,44136.67,235040.96,1354283.63
+9384,Snaretool The Constructed,Lamp Borough,4.95,Ghostly Magic Adamant,46.00,4836.38,230.90,222473.48,10621.40,11654.74,244749.62
+11287,Seraphim Tsunami,Lacot Stronghold,37.37,Emerald Orichalcum,213.00,-368.87,128.90,-78569.31,27455.70,-18912.04,-70025.65
+16285,Sunset Knightclaw,Haukri's Hold,27.83,God-touched Faterainbow Orichalcum Of Spectres,165.00,370.41,32.01,61117.65,5281.65,18591.80,84991.10
+20174,"Selik, God of Death",The Warrior and Flagon,53.24,Foulopal Copper Of The Skies,305.00,1787.91,403.00,545312.55,122915.00,354160.60,1022388.15
+21446,Bane Veil,Pewold Keep,22.57,Golems' Stonesapphire Gold Of The Glacier,162.00,4444.06,128.23,719937.72,20773.26,170363.53,911074.51
+22121,Burnbrood The Freezer,The Fortress of Akkun the Grim,-2.42,Phantasmal Lead,217.00,-669.10,270.02,-145194.70,58594.34,1732.01,-84868.35

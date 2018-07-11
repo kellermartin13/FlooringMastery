@@ -1,0 +1,17 @@
+1254,Gloria "Devil" McCoy,MS,3.00,Beechwood,316.00,3.00,5.00,948.00,1580.00,75.84,2603.84
+1770,Tina "Lady" Anderson,AR,2.20,Pebbles,224.00,0.80,4.40,179.20,985.60,23.30,1188.10
+2010,Minnie Lawson "the Apostle",WY,0.25,Reeds,140.00,0.75,2.00,105.00,280.00,0.00,385.00
+2946,Jacqueline "Riding Doc" Washington,KS,0.50,Beechwood,206.00,3.00,5.00,618.00,1030.00,0.00,1648.00
+3541,Cathy "Wildfire" Neal,ID,0.00,Brick,253.00,4.00,5.50,1012.00,1391.50,0.00,2403.50
+6875,Renee "Loco Tracker" Jordan,WY,0.31,Pinecones,180.00,1.50,2.66,270.00,478.80,0.00,748.80
+7177,Vengeful Robertson,NM,2.20,Dirt,99.00,0.50,1.00,49.50,99.00,2.97,151.47
+14132,Theresa "Kid" Robinson,ND,1.38,Packed Dirt,207.00,1.10,2.00,227.70,414.00,6.42,648.12
+14172,Diana "Mistress" Morgan,KS,0.55,Leather,351.00,11.00,18.15,3861.00,6370.65,102.32,10333.97
+16809,Beth "Fortunate Shooter" Powell,NM,2.66,Pebbles,249.00,0.88,4.84,219.12,1205.16,42.73,1467.01
+17157,Cathy "Loner Demon" Murray,IA,1.21,Dirt,222.00,0.50,1.00,111.00,222.00,3.33,336.33
+20826,Melissa "Lonesome Stalker" Riley,CA,0.67,Brick,304.00,5.32,6.66,1617.28,2024.64,36.42,3678.34
+21567,Vengeful Robertson,UT,0.00,Solid Oak,66.00,5.50,6.66,363.00,439.56,0.00,802.56
+22351,Surgeon Grant,ID,0.00,Brick,199.00,5.32,6.66,1058.68,1325.34,0.00,2384.02
+22371,Evelyn "Evil Joker" Taylor,AL,1.00,Beechwood,113.00,3.63,6.05,410.19,683.65,10.94,1104.78
+22776,Gloria "Devil" McCoy,KS,0.55,Pinecones,217.00,1.50,2.93,325.50,635.81,9.61,970.92
+23368,Debra "Scorpion" Lane,NM,2.93,Leather,267.00,11.00,19.97,2937.00,5331.99,248.07,8517.06

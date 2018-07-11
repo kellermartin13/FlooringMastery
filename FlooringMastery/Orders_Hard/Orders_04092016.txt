@@ -1,0 +1,18 @@
+586,Dawn Darkzealot,The Tower of Sheshbazzu,3.00,Venom Jewelmetal Of The Desert,174.00,1388.00,224.00,241512.00,38976.00,8414.64,288902.64
+1661,Lightning Brand,The Beggar and Cask,21.00,Phantasmal Tin Of The Swamps,177.00,4074.00,-6.60,721098.00,-1168.20,151185.26,871115.06
+4378,Flora Amberslayer,The Wizard's House,43.58,Hidden Shadowice Lead,186.00,2729.00,-62.23,507594.00,-11574.78,218248.46,714267.68
+4644,Evilfear The Horrorific,The Khazahol Crags,-1.97,Sphinxes' Unknown Poisongold Of The Future,202.00,3554.77,23.86,718063.54,4819.72,-14457.67,708425.59
+9692,Lance Knightseraph,Tower Farthing,27.12,Spectres' Shadowy Terrorglow Adamant Of Life,187.00,4694.80,205.50,877927.60,38428.50,247416.15,1163772.25
+10107,"Uriel, God of Fate",The Nulukkhath Spires,10.59,Pearl Mirrorice Steel Of Changelings,220.00,271.51,38.07,59732.20,8375.40,7491.84,75599.44
+10626,Blazefreeze The Chiller,The Dismal Marsh,6.05,Shadowhell Mithril,263.00,439.23,286.41,115517.49,75325.83,11450.60,202293.92
+10933,Dawn Darkzealot,Fellfen Keep,46.23,Green Dustlightning Mercury,194.00,3517.00,35.20,682298.00,6828.80,316998.33,1006125.13
+11617,Snarepiston The Mechanical,The Broken Arrow,30.07,God-touched Greengem Platinum,200.00,1281.72,-39.60,256344.00,-7920.00,74527.20,322951.20
+11779,"Eumyan, Goddess of Law",South Brightcrown Borough,42.25,God-touched Greengem Platinum,267.00,1281.72,-39.60,342219.24,-10573.20,139291.34,470937.38
+12374,Graveterror,The Dismal Marsh,6.05,Rot Silver Of The Past,288.00,3784.00,359.70,1089792.00,103593.60,71603.14,1264988.74
+12614,Song Runetomb,Lordsgate Farthing,45.25,Timeiron,124.00,1596.00,228.33,197904.00,28312.92,101797.61,328014.53
+13376,Jericho Wolf,The Fortress of Asmamur,-4.48,Mithril Of Legend,307.00,2274.80,63.01,698363.60,19344.07,-28708.31,688999.36
+14143,Nailpiston The Grasping,Arcanist's Farthing,3.00,Shadow Steel,315.00,5660.12,511.83,1782937.80,161226.45,58324.93,2002489.18
+15783,Lightning Brand,The Glano Forest,3.00,Djinni's Spectral Shadowlead Of Life,133.00,4076.49,325.62,542173.17,43307.46,17564.42,603045.05
+16348,Shadow Tomblion,The Lost Sanctum of Woe,3.30,Meteoric Dustzephyr Orichalcum,37.00,375.00,268.49,13875.00,9934.13,714.27,24523.40
+18192,Snarepiston The Mechanical,Lamp Borough,4.95,Poison Adamant,219.00,1266.52,64.44,277367.88,14112.36,14574.01,306054.25
+22179,Gravebone,The Wizard's House,43.58,Phantasmal Lead,207.00,-669.10,270.02,-138503.70,55894.14,-36348.21,-118957.77

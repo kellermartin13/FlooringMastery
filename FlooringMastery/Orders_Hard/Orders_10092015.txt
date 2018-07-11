@@ -1,0 +1,21 @@
+1088,"Gono, Goddess of the Earth",The Shadow Downs,13.21,Primordial Mud Orichalcum,316.00,-387.90,77.37,-122576.40,24448.92,-12756.57,-110884.05
+3851,"Finarfin, God of Protection",Grori's Deep,45.41,Glittering Orichalcum,330.00,-131.00,360.23,-43230.00,118875.90,34040.66,109686.56
+3940,Spikesnare,Barad Kesa,4.32,Glittering Orichalcum,229.00,-131.00,360.23,-29999.00,82492.67,2099.75,54593.42
+5996,Sephiroth Drakecaster,The Pirate's Pipe,17.60,Tritons' Time Stoneiron Of Legend,252.00,1760.00,168.90,443520.00,42562.80,87494.90,573577.70
+8286,Flora Amberslayer,Tradun Castle,34.24,Hell Mercury Of The East,257.00,4636.34,284.60,1191539.38,73142.20,429991.74,1694673.32
+9112,Lightning Brand,Minas Gilloy,39.26,Primal Adamant,207.00,5019.08,301.29,1038949.56,62367.03,429513.47,1530830.06
+9658,Rose Anchor,Fellfen Keep,46.23,Shadow Steel,167.00,4677.78,465.30,781189.26,77705.10,395091.41,1253985.77
+11168,"Uriel, God of Fate",Eved Castle,5.09,Phantasmal Plague Adamant,79.00,-186.03,-7.18,-14696.37,-567.22,-763.18,-16026.77
+13199,Evilbrood,The Broken Shield,37.23,Mithril Of Legend,320.00,2274.80,63.01,727936.00,20163.20,276796.70,1024895.90
+13773,Metalbrood,Archfane District,32.87,Sphinxes' Mistsoul Bronze Of The Past,336.00,2169.81,202.07,729056.16,67895.52,262994.05,1059945.73
+15031,Cult Godseeker,Minas Gilloy,43.19,Ghostly Soul Adamant,134.00,3222.96,229.53,431876.64,30757.02,198932.47,661566.13
+15617,Beamtrap,The Greedy Wench,32.70,Djinni's Spectral Shadowlead Of Life,131.00,4076.49,325.62,534020.19,42656.22,190303.22,766979.63
+15664,Sunset Knightclaw,Noble's Village,30.25,Glittering Orichalcum,234.00,-158.51,360.23,-37091.34,84293.82,14160.74,61363.22
+15809,"Lionare, God of the Lost",Gifeld Castle,6.22,Incubi's Iron Of The Dawn,344.00,1200.96,424.31,413130.24,145962.64,33545.57,592638.45
+16057,"Ariel, God of Luck",The Citadel of Cheno,7.33,Timeiron,139.00,1596.00,251.16,221844.00,34911.24,17972.87,274728.11
+16349,Jericho Wolf,Gili's Delve,-6.73,Meteoric Dustzephyr Orichalcum,212.00,375.00,268.49,79500.00,56919.88,-9549.39,126870.49
+16632,Bronzespike,The Citadel of Cheno,7.33,Forgotten Mithril,166.00,1104.73,347.60,183385.18,57701.60,16876.07,257962.85
+17821,"Nelalwe, Lady of Fire",The Citadel of Alammius,3.85,Fog Lavaplatinum Of Life,153.00,1078.00,18.70,164934.00,2861.10,6711.80,174506.90
+20108,Burnbrood The Freezer,The Desert of Flames,57.10,Foulopal Copper Of The Skies,180.00,1787.91,403.00,321823.80,72540.00,224787.37,619151.17
+20127,Wind Dire,Tower Farthing,27.12,Timeiron,116.00,1596.00,251.16,185136.00,29134.56,57853.05,272123.61
+20624,"Ahah, Goddess of Knowledge",The Dark Caverns of Woe,3.29,Vampires' Fang Emeraldsilver,166.00,3343.22,455.55,554974.52,75621.30,18917.87,649513.69

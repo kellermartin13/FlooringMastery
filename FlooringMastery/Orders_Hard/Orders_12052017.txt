@@ -1,0 +1,21 @@
+238,Cinderflame,The Citadel of Cheno,5.00,Rainbowglitter Tin,312.00,4475.87,176.36,1396471.44,55024.32,72574.79,1524070.55
+856,Metalghoul,The Citadel of Alammius,3.18,Yellow Mistearth Copper,199.00,4159.62,-27.40,827764.38,-5452.60,24669.35,846981.13
+3459,Springcoil,The Flying Witch,11.45,Unknowable Mindsilver,204.00,3565.00,366.00,727260.00,74664.00,88211.64,890135.64
+4342,"Nelalwe, Lady of Fire",The Fen of the Necromancer,45.10,Incubi's Glittering Tin Of The Future,307.00,2516.56,72.60,772583.92,22288.20,357692.45,1152564.57
+4476,Steelterror The Blade,Love Keep,7.00,Vampires' Fang Emeraldsilver,306.00,2283.46,455.55,698738.76,139398.30,58669.59,896806.65
+4633,Dawn Darkzealot,Grove Farthing,18.00,Negative Mercury,132.00,4054.87,361.00,535242.84,47652.00,104921.07,687815.91
+5130,Spikerivet,Boiaburh Keep,16.00,Primordial False Gold,306.00,4459.34,226.00,1364558.04,69156.00,229394.25,1663108.29
+5373,Storm Seraphheart,Gifeld Castle,6.22,Ensorceled Sandmetal Of Spirits,171.00,2956.98,87.00,505643.58,14877.00,31231.23,551751.81
+7439,Valentine Lawslayer,The Lazy Sage,19.97,Angels' Adamant,150.00,1304.00,179.30,195600.00,26895.00,44499.00,266994.00
+9627,Bronzespike,North Arcanist's Farthing,45.60,Goddesses' Spectral Poison Steel,238.00,3773.99,269.83,898209.62,64219.54,442717.41,1405146.57
+11355,"Zepul, Lady of Vengeance",The Forsaken Sepulcher of Sorrows,48.79,Ghostly Soul Adamant,147.00,3222.96,229.53,473775.12,33740.91,248682.85,756198.88
+12485,Spikecrank,The Glano Forest,3.00,Incubi's Glittering Tin Of The Future,79.00,3349.54,79.86,264613.66,6308.94,8127.68,279050.28
+15811,Nailpiston The Grasping,The Desert of Flames,51.91,Shadowy Adamant,214.00,618.93,526.44,132451.02,112658.16,127456.77,372565.95
+17418,Flora Amberslayer,Reyny Keep,11.00,Negative Rockglitter Mercury Of Trolls,239.00,1632.29,619.42,390117.31,148041.38,59197.46,597356.15
+17518,Chainhorror,The Cracked Chalice,2.52,Meteoric Mirrormuck Orichalcum Of The Forests,77.00,2374.02,185.77,182799.54,14304.29,5913.11,203016.94
+17605,Beamtrap,The Cracked Chalice,2.52,Meteoric Mirrormuck Orichalcum Of The Forests,133.00,2374.02,185.77,315744.66,24707.41,10213.56,350665.63
+18256,Tiger Mistmidnight,Grori's Deep,66.50,Undeads' Mind Orichalcum Of The Twilight,299.00,-17.00,276.00,-5083.00,82524.00,51111.06,128552.06
+19340,"Eumyan, Goddess of Law",The Drunken Thief,12.65,Venom Timegold Of Dwarves,159.00,3339.60,295.90,530996.40,47048.10,75145.78,653190.28
+20529,Rouge Roguemist,Barad Kesa,5.23,Golems' Stonesapphire Gold Of The Glacier,288.00,4444.06,116.57,1279889.28,33572.16,65673.07,1379134.51
+21602,"Alik, Goddess of Trickery",Pawic Keep,0.62,God-touched Faterainbow Orichalcum Of Spectres,310.00,370.41,35.21,114827.10,10915.10,1257.42,126999.62
+22622,"Avriel, God of Death",Grori's Deep,66.50,Magic Adamant,164.00,2021.80,228.40,331575.20,37457.60,243561.65,612594.45

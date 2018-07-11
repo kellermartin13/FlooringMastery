@@ -1,0 +1,19 @@
+434,Lance Knightseraph,The Citadel of Cheno,5.00,Litches' Fatal Mithril Of The Past,188.00,1207.25,305.00,226963.00,57340.00,14215.15,298518.15
+1837,Ironbrood,The Forsaken Tomb of Devastation,0.00,Planar Mudtin Of Trolls,118.00,2094.92,335.36,247200.56,39572.48,0.00,286773.04
+3272,"Lenwenye, Goddess of Travel",The Temple of Merciless Necromancy,50.94,Mistgold Of Men,73.00,3065.71,44.00,223796.83,3212.00,115774.50,342783.33
+3526,Terrorghoul The Unspeakable,The Temple of Merciless Necromancy,50.94,Mistgold Of Men,182.00,3065.71,44.00,557959.22,8008.00,288643.28,854610.50
+4248,Deathspike The Terrifying,Ring District,35.00,Sapphire Mindlead,266.00,1307.71,47.00,347850.86,12502.00,126123.50,486476.36
+6718,Storm Squallmourner,The Tower of Aces the Accursed,13.31,Foul Ice Bronze Of Life,61.00,-92.21,129.80,-5624.81,7917.80,298.09,2591.08
+9029,Wheelspawn,Gawold Castle,5.50,Rocklava Mithril Of Revenants,167.00,1818.30,14.33,303656.10,2393.11,18362.95,324412.16
+9703,Evilember The Firey,Unicorn's Ward,14.64,Spectres' Shadowy Terrorglow Adamant Of Life,393.00,4694.80,205.50,1845056.40,80761.50,288872.68,2214690.58
+10316,"Addon, Lord of Death",The Dungeon of Dismal Terror,-3.50,Ensorceled Gold Of The Dawn,194.00,5713.98,402.92,1108512.12,78166.48,-47467.14,1139211.46
+10636,Rose Anchor,The Khazahol Crags,-1.97,Hell Mercury Of The East,200.00,4636.34,313.06,927268.00,62612.00,-19797.60,970082.40
+12784,Storm Squallmourner,The Nulukkhath Spires,10.59,Forgotten Mithril,53.00,1104.73,316.00,58550.69,16748.00,8282.86,83581.55
+13787,Flameflare The Evil,Lacot Stronghold,37.37,Shadowy Adamant,295.00,618.93,526.44,182584.35,155299.80,125017.14,462901.29
+14194,Evilfear The Horrorific,Pewold Keep,20.52,Ghostly Soul Adamant,293.00,3222.96,229.53,944327.28,67252.29,212431.71,1224011.28
+15933,Bedlam Spiritraven,The Bastion of Gothmog of Udun,54.84,Nymphs' Luminous Rotmercury Of The Skies,222.00,292.60,189.00,64957.20,41958.00,58803.36,165718.56
+16215,"Melcha, Goddess of Thieves",The Pilgrim's Cup,46.12,Lycanthropes' Gold,241.00,4846.18,66.14,1167929.38,15939.74,544579.80,1728448.92
+19507,Lance Knightseraph,Noble's Village,33.28,God-touched Faterainbow Orichalcum Of Spectres,59.00,370.41,32.01,21854.19,1888.59,7835.12,31577.90
+19548,Lord Mystery,North Grove Ward,7.99,God-touched Faterainbow Orichalcum Of Spectres,106.00,370.41,32.01,39263.46,3393.06,3412.52,46069.04
+19703,Blazeflare The Cremator,Noble's Village,33.28,Goddesses' Spectral Poison Steel,232.00,5023.18,296.81,1165377.76,68859.92,407298.43,1641536.11
+21773,Claw Mist,Lamp Borough,4.95,Mana-touched Greenglitter Gold Of Giants,221.00,1420.52,514.25,313934.92,113649.25,21379.21,448963.38

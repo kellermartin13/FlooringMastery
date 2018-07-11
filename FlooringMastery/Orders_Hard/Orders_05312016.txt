@@ -1,0 +1,18 @@
+634,Snaretool The Constructed,The Black Barrow of Bery,-0.07,Litches' Fatal Mithril Of The Past,246.00,1207.25,305.00,296983.50,75030.00,0.00,372013.50
+1622,Spikerivet,The Tower of Aces the Accursed,12.10,Grayplatinum,267.00,2071.30,279.06,553037.10,74509.02,75305.53,702851.65
+3894,Rose Anchor,The Wizard's House,43.58,Lycanthropes' Gold,277.00,4846.18,66.14,1342391.86,18320.78,598713.56,1959426.20
+5592,Snowflame The Evil,The Vaults of the Shadow Emperor,30.00,Greenlead,70.00,793.10,148.47,55517.00,10392.90,19772.97,85682.87
+9736,Sunset Knightclaw,The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,136.00,-368.87,128.90,-50166.32,17530.40,979.08,-31656.84
+10117,Sunrise Godwarlock,The Tomb of Hellish Ruin,16.94,Ensorceled Gold Of The Dawn,7.00,5713.98,402.92,39997.86,2820.44,7279.11,50097.41
+11869,Sunrise Godwarlock,The Barrow of Malefic Ages,17.91,Pearl Mirrorice Steel Of Changelings,292.00,271.51,38.07,79280.92,11116.44,16271.52,106668.88
+13166,Bonescare,The Broken Shield,37.23,Mithril Of Legend,303.00,2274.80,63.01,689264.40,19092.03,262091.88,970448.31
+13194,Beamtrap,Castle Village,41.26,Mithril Of Legend,185.00,2274.80,63.01,420838.00,11656.85,177322.89,609817.74
+14260,Boltcrank The Trapper,Pewold Keep,20.52,Shadow Steel,343.00,5660.12,511.83,1941421.16,175557.69,444565.56,2561544.41
+15176,"Gono, Goddess of the Earth",Shainan's Hold,23.96,Grayplatinum,225.00,2506.27,306.97,563910.75,69068.25,151914.96,784893.96
+16461,"Suriel, Lord of Animals",Boiaburh Keep,16.00,Ensorceled Gold Of The Dawn,90.00,6913.92,402.92,622252.80,36262.80,105362.50,763878.10
+16683,Shiverflame The Freezer,The Broken Arrow,36.39,Shadowhell Mithril,265.00,483.15,315.05,128034.75,83488.25,76148.28,287671.28
+17857,"Prusu, God of Love",Lamp Borough,4.95,Ensorceled Gold Of The Dawn,250.00,6913.92,443.21,1728480.00,110802.50,91964.12,1931246.62
+19649,Magus Felldrake,Noble's Village,33.28,Sirens' Rockgold,301.00,-352.01,199.96,-105955.01,60187.96,-15103.13,-60870.18
+21224,Rose Anchor,The Warrior and Flagon,53.24,Golems' Stonesapphire Gold Of The Glacier,240.00,4444.06,128.23,1066574.40,30775.20,581595.29,1678944.89
+21287,Sephiroth Drakecaster,Unicorn's Ward,14.64,Hidden Shadowice Lead,45.00,2729.00,-62.23,122805.00,-2800.35,18000.70,138005.35
+22280,Emberfire,Palace Farthing,47.64,Mana-touched Greenglitter Gold Of Giants,80.00,1420.52,514.25,113641.60,41140.00,74295.17,229076.77

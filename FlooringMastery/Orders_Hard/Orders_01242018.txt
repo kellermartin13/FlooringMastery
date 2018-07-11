@@ -1,0 +1,21 @@
+1312,Dawn Darkzealot,The Wizard's House,43.58,Muck Orichalcum Of Ogres,247.00,3115.32,274.19,769484.04,67724.93,368371.95,1205580.92
+4904,Lance Knightseraph,The Khazahol Crags,-1.97,Otherworldly Mirror Orichalcum,115.00,-247.00,478.50,-28405.00,55027.50,-532.45,26090.05
+5948,Steelterror The Blade,The Tower of Aramum,39.00,Warlocks' Timerot Mithril,142.00,2917.07,112.00,414223.94,15904.00,167749.90,597877.84
+6488,Song Runetomb,South Brightcrown Borough,42.25,Zephyr Iron,216.00,2759.00,444.69,595944.00,96053.04,290638.76,982635.80
+8889,Nailpiston The Grasping,Gawold Castle,5.50,Ghouls' Imperial Soulzephyr Mithril Of The Seas,248.00,4123.68,122.49,1022672.64,30377.52,63183.01,1116233.17
+9504,Blazefreeze The Chiller,Unicorn's Ward,14.64,Golems' Stonesapphire Gold Of The Glacier,135.00,3672.77,105.97,495823.95,14305.95,76519.48,586649.38
+9688,Snowflame The Evil,Tower Farthing,27.12,Golems' Stonesapphire Gold Of The Glacier,345.00,3672.77,105.97,1267105.65,36559.65,351989.63,1655654.93
+9903,Bedlam Spiritraven,The Citadel of Lord Greywulf,33.04,Pearl Mirrorice Steel Of Changelings,261.00,271.51,38.07,70864.11,9936.27,26664.13,107464.51
+9978,Bonescare,The Dungeon of Dismal Terror,-3.50,Ensorceled Gold Of The Dawn,145.00,5713.98,402.92,828527.10,58423.40,-35478.02,851472.48
+10260,"Alas, Lord of Plague",The Forsaken Sepulcher of Sorrows,48.79,Meteoric Dustzephyr Orichalcum,138.00,375.00,244.08,51750.00,33683.04,41862.19,127295.23
+10489,Steelterror The Blade,Haukri's Hold,27.83,Stone Soulsteel Of The Skies,186.00,1798.28,13.21,334480.08,2457.06,94342.40,431279.54
+11860,Sunrise Godwarlock,The Bastion of the Lich Tyrant,43.00,Lycanthropes' Gold,69.00,4846.18,66.14,334386.42,4563.66,145748.53,484698.61
+11949,Sephiroth Drakecaster,The Pirate's Pipe,17.60,Heavenly Dreamsilver Of The Night,206.00,2009.68,112.00,413994.08,23072.00,78671.89,515737.97
+12551,Tarot Dawn,The Tomb of Gothmog of Udun,-3.30,Spectres' Shadowy Terrorglow Adamant Of Life,86.00,5164.28,226.05,444128.08,19440.30,-13907.05,449661.33
+12807,Tiger Mistmidnight,Archtemple District,27.76,Sapphire Mindlead,225.00,1307.71,47.00,294234.75,10575.00,85346.73,390156.48
+13168,Bolttrap,Eved Castle,5.09,Mithril Of Legend,21.00,2274.80,63.01,47770.80,1323.21,2454.70,51548.71
+14812,Harmony Angelchild,The Archer and Blade,9.90,Legendary Mithril Of The Moon,203.00,2707.10,125.84,549541.30,25545.52,57508.68,632595.50
+16150,Nettool The Grasping,Barad Kesa,4.75,Meteoric Dustzephyr Orichalcum,247.00,375.00,268.49,92625.00,66317.03,7947.10,166889.13
+16902,Spikecrank,The Tower of Aces the Accursed,13.31,Imperial Fate Steel,315.00,2993.93,-59.79,943087.95,-18833.85,120153.03,1044407.13
+17466,Claw Mist,Reyny Keep,11.00,Negative Rockglitter Mercury Of Trolls,225.00,1632.29,619.42,367265.25,139369.50,55729.82,562364.57
+17560,Burnbrood The Freezer,The Cracked Chalice,2.52,Meteoric Mirrormuck Orichalcum Of The Forests,284.00,2374.02,185.77,674221.68,52758.68,21809.41,748789.77

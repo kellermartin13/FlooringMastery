@@ -1,0 +1,13 @@
+3074,Chillfire The Chiller,Tradun Castle,31.13,Mithril Of The Tropics,189.00,3751.00,9.00,708939.00,1701.00,220298.40,930938.40
+4549,Evilember The Firey,Boiaburh Keep,16.00,Hidden Shadowice Lead,48.00,2729.00,-62.23,130992.00,-2987.04,20480.79,148485.75
+4608,"Lenwenye, Goddess of Travel",Kewold Stronghold,8.87,Phantasmal Lead,84.00,-457.00,245.47,-38388.00,20619.48,-1599.17,-19367.69
+10135,Evilcoil The Machine,The Dungeon of Dismal Terror,-3.50,Shadowy Adamant,203.00,618.93,478.58,125642.79,97151.74,-8911.78,213882.75
+10236,"Alik, Goddess of Trickery",The Chuallanto Jungle,37.00,Djinni's Spectral Shadowlead Of Life,317.00,3705.90,325.62,1174770.30,103221.54,472856.98,1750848.82
+14063,Law Lionwatcher,Archfane District,32.87,Ghostly Soul Adamant,212.00,3222.96,229.53,683267.52,48660.36,241536.20,973464.08
+16730,"Byzou, God of Animals",The Broken Arrow,36.39,Forgotten Mithril,182.00,1104.73,347.60,201060.86,63263.20,95156.66,359480.72
+16921,Wheelspawn,The Temple of Merciless Necromancy,50.94,Nymphs' Luminous Rotmercury Of The Skies,54.00,292.60,207.90,15800.40,11226.60,13783.77,40810.77
+17872,Scarechain The Unspeakable,Boiaburh Keep,17.60,Negative Rockglitter Mercury Of Trolls,57.00,1632.29,619.42,93040.53,35306.94,23102.54,151450.01
+19869,Magus Felldrake,The Cracked Chalice,2.52,Timeiron,342.00,1596.00,251.16,545832.00,85896.72,18951.86,650680.58
+20924,Song Runetomb,The Secret Catacombs of Ulfang the Black,42.90,Hell Mercury Of The East,133.00,4636.34,378.81,616633.22,50381.73,286816.43,953831.38
+21218,Evilember The Firey,The Bastion of Sthasu the Gruesome,14.93,God-touched Faterainbow Orichalcum Of Spectres,296.00,370.41,35.21,109641.36,10422.16,18009.53,138073.05
+22994,Gravebone The Unspeakable,The Secret Shrine of the Gargoyle Count,-2.00,Djinni's Spectral Shadowlead Of Life,86.00,4484.14,394.00,385636.04,33884.00,-8390.40,411129.64

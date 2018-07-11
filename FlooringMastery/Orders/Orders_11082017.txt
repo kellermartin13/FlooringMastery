@@ -1,0 +1,15 @@
+4176,Mattie Grant "the Gambler",KS,0.50,Reeds,294.00,0.75,2.00,220.50,588.00,0.00,808.50
+5014,Heather "Tornado" Newman,MT,3.00,Brick,74.00,4.84,6.05,358.16,447.70,24.18,830.04
+6345,"Doom" McCoy,MT,3.00,Dirt,115.00,0.50,1.00,57.50,115.00,5.18,177.68
+6443,Lucky Johnson,MT,3.00,Solid Oak,31.00,5.50,5.50,170.50,170.50,10.23,351.23
+7047,Geraldine "Revenge" Warren,ID,0.00,Reeds,204.00,0.75,2.20,153.00,448.80,0.00,601.80
+7172,Amanda Hart "the Loner",OK,2.20,Dirt,184.00,0.50,1.00,92.00,184.00,5.52,281.52
+9653,Gloria "Devil" McCoy,AR,2.20,Leather,217.00,10.00,18.15,2170.00,3938.55,122.17,6230.72
+13056,Vicki "Mesa" Rhodes,KS,0.55,Cedar Planks,187.00,2.20,6.05,411.40,1131.35,15.43,1558.18
+14673,Mattie Grant "the Gambler",OK,2.42,Leather,46.00,11.00,18.15,506.00,834.90,26.82,1367.72
+15270,Renee "Loco Tracker" Jordan,CA,0.61,Leather,341.00,11.00,18.15,3751.00,6189.15,99.40,10039.55
+17030,April "Thunderbird" Dunn,CA,0.61,Dirt,278.00,0.50,1.00,139.00,278.00,4.17,421.17
+17266,Heather "Tornado" Newman,MS,3.00,Reeds,194.00,0.83,2.20,161.02,426.80,17.63,605.45
+19936,Jo "the Joker",MO,2.20,Pinecones,137.00,1.50,2.66,205.50,364.42,11.40,581.32
+21348,Renee "Hellish Empress" Banks,AR,2.20,Reeds,310.00,0.83,2.20,257.30,682.00,18.79,958.09
+22680,Heather "Tornado" Newman,MO,2.20,Reeds,173.00,0.91,2.42,157.43,418.66,11.52,587.61

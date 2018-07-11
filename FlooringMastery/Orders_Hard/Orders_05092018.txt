@@ -1,0 +1,17 @@
+2488,Harmony Angelchild,Gili's Delve,-4.59,Greenlead,250.00,721.00,134.97,180250.00,33742.50,-10699.62,203292.88
+4391,Fate Seeker,Fellfen Keep,42.03,Negative Rockglitter Mercury Of Trolls,305.00,1483.90,423.07,452589.50,129036.35,244282.86,825908.71
+5554,"Maeglodor, God of Thieves",Barad Kesa,4.32,Mistgold Of Men,327.00,3065.71,44.00,1002487.17,14388.00,40675.01,1057550.18
+7571,Wheelspawn,Tradun Castle,34.24,Phantasmal Tin Of The Swamps,286.00,4074.00,-6.60,1165164.00,-1887.60,395513.98,1558790.38
+8810,"Ingwenel, God of War",Moor Village,57.42,Angels' Smoke Adamant Of The Mountains,187.00,2832.34,215.00,529647.58,40205.00,324815.97,894668.55
+9445,Evilbrood,Fellfen Keep,46.23,Golems' Stonesapphire Gold Of The Glacier,294.00,3672.77,105.97,1079794.38,31155.18,511036.80,1621986.36
+10473,Clash Lonedrake,The Citadel of Lord Greywulf,33.04,Yellow Mistearth Copper,287.00,4575.58,-27.40,1313191.46,-7863.80,430758.13,1736085.79
+10594,Burnbrood The Freezer,The Khazahol Crags,-1.97,Shadowhell Mithril,41.00,439.23,286.41,18008.43,11742.81,-595.02,29156.22
+10787,Clash Lonedrake,The Dread Hive of Illfang the Kobold Lord,1.33,Venom Timegold Of Dwarves,47.00,3036.00,269.00,142692.00,12643.00,1553.35,156888.35
+10854,"Lionare, God of the Lost",Dysley Stronghold,45.98,Phantasmal Plague Adamant,151.00,-186.03,-7.18,-28090.53,-1084.18,-13420.37,-42595.08
+11447,Bronzespike,The Archer and Scroll,39.60,Ghostly Magic Adamant,85.00,4836.38,230.90,411092.30,19626.50,172287.52,603006.32
+13775,"Penur, Lord of the Sea",The Bastion of Gothmog of Udun,54.84,Green Dustlightning Mercury,241.00,4255.57,35.20,1025592.37,8483.20,568741.56,1602817.13
+14561,Fate Ivycaster,The Archer and Blade,9.90,Swordbronze,277.00,1485.01,447.01,411347.77,123821.77,53516.95,588686.49
+16907,Jericho Wolf,Castle Village,45.39,Unholy Poison Copper Of The Mountains,192.00,702.90,-10.16,134956.80,-1950.72,59852.74,192858.82
+20980,Lance Knightseraph,The Hunter and Rose,44.44,Forgotten Mithril,327.00,1215.20,347.60,397370.40,113665.20,224855.66,735891.26
+21279,Spikesnare,The Fortress of Asmamur,-4.93,Planar Rainfate Mithril,157.00,1304.42,320.52,204793.94,50321.64,-12755.78,242359.80
+22153,Tarot Dawn,The Black Barrow of Bery,-0.10,Meteoric Mirrormuck Orichalcum Of The Forests,175.00,2374.02,185.77,415453.50,32509.75,0.00,447963.25

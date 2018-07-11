@@ -1,0 +1,16 @@
+7065,Wilma "Tornado" Brooks,NM,2.20,Leather,132.00,10.00,18.15,1320.00,2395.80,74.32,3790.12
+7745,Vengeful Montgomery,AR,2.20,Cedar Planks,220.00,2.20,6.05,484.00,1331.00,36.30,1851.30
+10638,Theresa "Kid" Robinson,UT,0.00,Brick,224.00,4.84,6.66,1084.16,1491.84,0.00,2576.00
+13179,Diana "Mistress" Morgan,NV,0.31,Dirt,322.00,0.50,1.00,161.00,322.00,0.00,483.00
+13442,Melissa "Lonesome Stalker" Riley,NV,0.31,Reeds,200.00,0.75,2.20,150.00,440.00,0.00,590.00
+13901,Julia "Bandit" Chandler,ND,1.38,Solid Oak,298.00,5.50,5.50,1639.00,1639.00,32.78,3310.78
+13902,Allison "Steel Gravedigger" Douglas,KS,0.55,Reeds,252.00,0.75,2.20,189.00,554.40,7.43,750.83
+14813,Evelyn "Evil Joker" Taylor,WY,0.31,Packed Dirt,317.00,1.10,2.20,348.70,697.40,0.00,1046.10
+14816,Amanda Hart "the Loner",WY,0.31,Dirt,42.00,0.50,1.00,21.00,42.00,0.00,63.00
+15691,Jo "the Joker",UT,0.00,Brick,205.00,5.32,6.66,1090.60,1365.30,0.00,2455.90
+16208,Melissa "Lonesome Stalker" Riley,AR,2.20,Leather,158.00,11.00,19.97,1738.00,3155.26,97.87,4991.13
+16342,"Sunrise" Miles,MO,2.20,Leather,80.00,11.00,19.97,880.00,1597.60,49.55,2527.15
+16982,Michele Watson "the Loner",NM,2.66,Leather,182.00,11.00,19.97,2002.00,3634.54,169.10,5805.64
+19304,Cynthia "the Vixen",IA,1.33,Pinecones,153.00,1.50,2.66,229.50,406.98,6.36,642.84
+20575,Renee "Hellish Empress" Banks,OK,2.66,Brick,264.00,5.32,6.66,1404.48,1758.24,94.88,3257.60
+22987,Debra "Scorpion" Lane,AR,2.20,Leather,273.00,11.00,19.97,3003.00,5451.81,169.10,8623.91

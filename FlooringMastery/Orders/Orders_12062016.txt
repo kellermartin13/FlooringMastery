@@ -1,0 +1,12 @@
+1523,Vicki "Mesa" Rhodes,TX,0.50,Brick,176.00,4.00,5.00,704.00,880.00,0.00,1584.00
+2967,Surgeon Grant,ID,0.00,Pinecones,47.00,1.50,2.20,70.50,103.40,0.00,173.90
+4085,Minnie Lawson "the Apostle",MT,3.00,Beechwood,40.00,3.00,5.00,120.00,200.00,9.60,329.60
+4793,Jacqueline "Riding Doc" Washington,UT,0.00,Pebbles,97.00,0.80,4.40,77.60,426.80,0.00,504.40
+4930,Susan "Damnation" Fleming,CA,0.55,Beechwood,210.00,3.00,5.00,630.00,1050.00,16.80,1696.80
+8261,Gloria "Devil" McCoy,MT,3.30,Cedar Planks,157.00,2.20,6.05,345.40,949.85,38.86,1334.11
+14656,Heather "Friendly Gambler" Barrett,OK,2.42,Pinecones,299.00,1.50,2.66,448.50,795.34,24.88,1268.72
+15694,April "Thunderbird" Dunn,WY,0.31,Packed Dirt,155.00,1.10,2.20,170.50,341.00,0.00,511.50
+18296,Gladys "Locoweed" Keller,NM,2.93,Packed Dirt,104.00,1.10,2.20,114.40,228.80,10.30,353.50
+19721,Lorraine "Utah" Adams,MO,2.20,Dirt,166.00,0.50,1.00,83.00,166.00,4.98,253.98
+19726,"Scalphunter" Kennedy,CA,0.67,Pinecones,233.00,1.50,2.66,349.50,619.78,9.69,978.97
+22784,Cathy "Wildfire" Neal,ID,0.00,Solid Oak,190.00,5.50,6.66,1045.00,1265.40,0.00,2310.40

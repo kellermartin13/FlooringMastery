@@ -1,0 +1,16 @@
+3842,Clash Lonedrake,Tradun Castle,31.13,Grayplatinum,289.00,2278.43,279.06,658466.27,80648.34,229125.53,968240.14
+4213,Tarot Dawn,The Lost Sanctum of Woe,3.00,Yellow Mistearth Copper,224.00,4575.58,-27.40,1024929.92,-6137.60,30563.77,1049356.09
+6189,Claw Mist,The Cracked Chalice,2.29,Pearl Mirrorice Steel Of Changelings,204.00,271.51,38.07,55388.04,7766.28,1263.09,64417.41
+6744,Dawn Darkzealot,The Dread Hive of Illfang the Kobold Lord,1.33,Primal Adamant,159.00,4562.80,273.90,725485.20,43550.10,7690.35,776725.65
+9032,"Nelalwe, Lady of Fire",Weke Tower,-0.05,Angels' Smoke Adamant Of The Mountains,364.00,2832.34,215.00,1030971.76,78260.00,0.00,1109231.76
+10103,Lance Knightseraph,The Tomb of Hellish Ruin,16.94,Magicians' Legendary Poison Metal,249.00,2247.59,229.81,559649.91,57222.69,104868.34,721740.94
+11681,Scarefear The Blade,The Bastion of the Lich Tyrant,43.00,Magic Adamant,182.00,1838.00,228.40,334516.00,41568.80,161716.46,537801.26
+13524,"Selik, God of Death",The Pilgrim's Cup,46.12,Mithril Of Legend,136.00,2274.80,63.01,309372.80,8569.36,146253.39,464195.55
+14523,Beamsprocket The Grasping,The Citadel of Lord Greywulf,33.04,Unknown Fatelightning Steel Of The Glacier,99.00,2441.05,65.68,241663.95,6502.32,81894.87,330061.14
+14655,Shiverflame The Freezer,The Citadel of Alammius,3.50,Witchs' Forbidden Rockrainbow Bronze,166.00,655.60,425.92,108829.60,70702.72,7181.29,186713.61
+14877,Wind Dire,Gena's Hold,2.66,Mithril Of The Tropics,123.00,4126.10,11.98,507510.30,1473.54,15269.52,524253.36
+16319,Claw Mist,The Lost Sanctum of Woe,3.30,Nymphs' Luminous Rotmercury Of The Skies,143.00,292.60,189.00,41841.80,27027.00,2066.06,70934.86
+20147,Song Runetomb,The Desert of Flames,57.10,Grayplatinum,223.00,3032.59,306.97,676267.57,68454.31,424491.47,1169213.35
+20565,Sunset Knightclaw,The Dark Caverns of Woe,3.29,Greenlead,166.00,959.65,179.65,159301.90,29821.90,5673.71,194797.51
+20583,Dawn Darkzealot,Bergfison's Deep,52.71,Sphinxes' Opalpearl Platinum Of Legend,238.00,5805.82,390.81,1381785.16,93012.78,781642.91,2256440.85
+22837,Gravebone The Unspeakable,The Lost Crypts of Sorrows,35.87,Violetdream Iron,264.00,1630.07,349.36,430338.48,92231.04,188125.03,710694.55

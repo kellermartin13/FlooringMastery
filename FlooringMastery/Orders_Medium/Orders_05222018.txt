@@ -1,0 +1,15 @@
+402,Beth "Fortunate Shooter" Powell,NV,0.25,Pebbles,173.00,0.80,4.00,138.40,692.00,0.00,830.40
+1730,Stella "the Bully",NM,2.20,Beechwood,276.00,3.00,5.00,828.00,1380.00,44.16,2252.16
+1748,Darlene "Loner" Ford,MT,3.00,Reeds,223.00,0.75,2.00,167.25,446.00,18.40,631.65
+2465,Heather "Tornado" Newman,AR,2.20,Reeds,150.00,0.75,2.00,112.50,300.00,8.25,420.75
+3856,Heather "Friendly Gambler" Barrett,MS,3.00,Solid Oak,281.00,5.50,5.00,1545.50,1405.00,88.52,3039.02
+6046,Theresa "Kid" Robinson,AL,1.00,Leather,203.00,10.00,18.15,2030.00,3684.45,57.14,5771.59
+6163,Debra "Scorpion" Lane,NV,0.25,Pinecones,204.00,1.50,2.66,306.00,542.64,0.00,848.64
+14056,Lorraine "Utah" Adams,ND,1.38,Pinecones,146.00,1.50,2.66,219.00,388.36,6.07,613.43
+15785,Cathy "Loner Demon" Murray,OK,2.42,Packed Dirt,336.00,1.10,2.20,369.60,739.20,22.18,1130.98
+20167,Darlene "Loner" Ford,MS,3.00,Reeds,174.00,0.83,2.20,144.42,382.80,15.82,543.04
+20456,Allison "Steel Gravedigger" Douglas,MS,3.00,Leather,193.00,11.00,19.97,2123.00,3854.21,179.32,6156.53
+20715,Beth "Fortunate Shooter" Powell,UT,0.00,Reeds,198.00,0.83,2.20,164.34,435.60,0.00,599.94
+21305,Renee "Loco Tracker" Jordan,ND,1.67,Pebbles,184.00,0.88,4.84,161.92,890.56,21.05,1073.53
+22389,Surgeon Grant,ID,0.00,Reeds,336.00,0.83,2.20,278.88,739.20,0.00,1018.08
+23444,Allison "Steel Gravedigger" Douglas,CA,0.67,Beechwood,200.00,3.63,6.05,726.00,1210.00,19.36,1955.36

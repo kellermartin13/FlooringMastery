@@ -1,0 +1,16 @@
+193,Bedlam Spiritraven,Love Keep,7.00,Evilsilver,192.00,1351.68,66.00,259522.56,12672.00,19053.62,291248.18
+373,Springpulley The Binder,The Dread Hive of Illfang the Kobold Lord,1.00,Legendary Mithril Of The Moon,130.00,2461.00,104.00,319930.00,13520.00,3334.50,336784.50
+1328,Evilbrood,The Wizard's House,43.58,Imperial Fate Steel,192.00,2721.75,-37.13,522576.00,-7128.96,226796.70,742243.74
+4634,Sunrise Godwarlock,Tradun Castle,34.24,Devils' Falserot Silver,228.00,1668.51,182.71,380420.28,41657.88,143506.57,565584.73
+5123,Rouge Tombreaper,The Broken Arrow,30.07,Ghostly Soul Adamant,210.00,3222.96,229.53,676821.60,48201.30,217506.87,942529.77
+8703,"Suriel, Lord of Animals",The Pirate's Pipe,17.60,Djinni's Evil Sandobsidian Steel Of The Future,250.00,3826.00,157.07,956500.00,39267.50,179238.15,1175005.65
+8777,Evilcoil The Machine,Unicorn's Ward,14.64,Rocklava Mithril Of Revenants,150.00,1818.30,14.33,272745.00,2149.50,41234.18,316128.68
+8975,Storm Squallmourner,The Citadel of Tattena the Sinister,12.13,Ghouls' Imperial Soulzephyr Mithril Of The Seas,47.00,4123.68,122.49,193812.96,5757.03,23948.40,223518.39
+12375,Claw Mist,Archscepter Borough,3.00,Incubi's Glittering Tin Of The Future,230.00,3349.54,79.86,770394.20,18367.80,23662.86,812424.86
+14374,"Lenwenye, Goddess of Travel",Lamp Borough,4.95,Zephyr Iron,276.00,3034.90,444.69,837632.40,122734.44,48018.34,1008385.18
+14486,"Ingwenel, God of War",Haukri's Hold,27.83,Witchs' Forbidden Rockrainbow Bronze,310.00,655.60,425.92,203236.00,132035.20,93875.94,429147.14
+15278,Wind Dire,The Desert of Flames,51.91,Primordial False Gold,283.00,5395.80,248.60,1527011.40,70353.80,830629.90,2427995.10
+15510,"Zepul, Lady of Vengeance",Lamp Borough,4.95,Rainbowglitter Tin,183.00,5957.39,213.40,1090202.37,39052.20,56462.73,1185717.30
+16824,Snaretool The Constructed,The Forsaken Tomb of Devastation,0.00,Fleshshock Mercury,228.00,4858.70,338.07,1107783.60,77079.96,0.00,1184863.56
+18409,"Finarfin, God of Protection",Dysley Stronghold,45.98,Litches' Fatal Mithril Of The Past,122.00,1460.78,405.96,178215.16,49527.12,104761.45,332503.73
+21486,"Eumyan, Goddess of Law",Moor Village,76.43,Planar Rainfate Mithril,15.00,1304.42,320.52,19566.30,4807.80,18524.32,42898.42

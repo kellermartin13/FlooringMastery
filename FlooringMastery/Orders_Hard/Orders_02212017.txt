@@ -1,0 +1,15 @@
+2712,Dawn Darkzealot,The Fortress of the Lich Queen,36.35,Toxin Iceplatinum Of The Undead,185.00,-283.29,-49.00,-52408.65,-9065.00,-22130.51,-83604.16
+3726,Graveterror,The Forsaken Hive of Galima the Mighty,22.45,Evilsilver,224.00,1486.85,79.86,333054.40,17888.64,77207.47,428150.51
+4029,Dagger Reaper,Tradun Castle,31.13,Hidden Shadowice Lead,236.00,2729.00,-56.57,644044.00,-13350.52,195514.98,826208.46
+4544,Lord Mystery,The Barrow of Terrible Horror,-1.10,Djinni's Mind Fogiron,285.00,2301.02,67.29,655790.70,19177.65,-6749.68,668218.67
+7003,Beamsprocket The Grasping,The Forsaken Delve of Lord Greywulf,39.00,Negative Rockglitter Mercury Of Trolls,132.00,1483.90,423.07,195874.80,55845.24,98170.82,349890.86
+7659,Sephiroth Drakecaster,Minas Gilloy,39.26,Swordbronze,245.00,1350.01,447.01,330752.45,109517.45,171705.26,611975.16
+8227,Chainhorror,The Barrow of Terrible Horror,-1.21,Unknowable Mindsilver,332.00,3565.00,366.00,1183580.00,121512.00,-13050.92,1292041.08
+9825,Ironbrood,Fellfen Keep,46.23,Unicorns' Fatal Magma Metal Of The Ocean,135.00,1792.04,392.70,241925.40,53014.50,135672.35,430612.25
+12939,Flora Amberslayer,The Wizard's House,43.58,Nymphs' Luminous Rotmercury Of The Skies,239.00,292.60,189.00,69931.40,45171.00,50645.06,165747.46
+13106,Spikesnare,Lordsgate Farthing,45.25,Sapphire Mindlead,231.00,1307.71,47.00,302081.01,10857.00,140822.10,453760.11
+18933,"Azah, Goddess of Fate",The Drunken Thief,12.65,Otherworldly Mirror Orichalcum,230.00,-328.76,526.35,-75614.80,121060.50,5907.94,51353.64
+19037,"Ahah, Goddess of Knowledge",The Drunken Thief,12.65,Ensorceled Sandmetal Of Spirits,322.00,2956.98,95.70,952147.56,30815.40,127785.18,1110748.14
+20353,Rouge Tombreaper,Barad Kesa,5.23,Undeads' Mind Orichalcum Of The Twilight,109.00,-17.00,276.00,-1853.00,30084.00,1411.55,29642.55
+21061,Claw Mist,South Brightcrown Borough,42.25,Unknowable Mindsilver,129.00,4313.65,402.60,556460.85,51935.40,255526.42,863922.67
+22102,Spikesnare,Barad Cune,28.60,Starlight Pearldream Bronze,257.00,354.31,147.40,91057.67,37881.80,37392.45,166331.92

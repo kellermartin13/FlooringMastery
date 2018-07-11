@@ -1,0 +1,20 @@
+1868,Rouge Roguemist,Barad Cune,26.00,Violetdream Iron,167.00,1224.69,349.36,204523.23,58343.12,68345.25,331211.60
+4725,Grave Mistseeker,Tradun Castle,34.24,Legendary Mithril Of The Moon,205.00,2461.00,114.40,504505.00,23452.00,179505.38,707462.38
+5397,"Eumyan, Goddess of Law",The Bastion of Gothmog of Udun,45.32,Ensorceled Sandmetal Of Spirits,355.00,2956.98,87.00,1049727.90,30885.00,486275.80,1566888.70
+7517,Springcoil,The Dancing Minstrel,21.20,Fleshshock Mercury,117.00,4417.00,279.40,516789.00,32689.80,115390.55,664869.35
+8145,Spiketerror The Skeletal,The Grey Plains,19.97,Fairies' Supreme Mistsmoke Lead Of The Future,145.00,3349.50,324.73,485677.50,47085.85,106552.67,639316.02
+8384,Wind Dire,The Fortress of Gama,10.16,Incubi's Iron Of The Dawn,169.00,1200.96,424.31,202962.24,71708.39,27467.06,302137.69
+8513,Gravebone,The Lazy Sage,19.97,Shadowy Adamant,378.00,618.93,478.58,233955.54,180903.24,82971.76,497830.54
+9211,Fate Seeker,The Archer and Scroll,39.60,Phantasmal Smokezephyr Mercury Of Men,160.00,-383.77,75.90,-61403.20,12144.00,-19703.68,-68962.88
+10394,Chainblade The Cadaverous,The Warrior and Flagon,48.40,Mithril Of Legend,198.00,2274.80,63.01,450410.40,12475.98,222185.46,685071.84
+10532,Dawn Darkzealot,The Citadel of Lord Greywulf,33.04,Magicians' Legendary Poison Metal,163.00,2472.35,229.81,402993.05,37459.03,145349.19,585801.27
+14501,Lance Knightseraph,Grove Farthing,19.80,Legendary Mithril Of The Moon,93.00,2707.10,125.84,251760.30,11703.12,52692.68,316156.10
+14547,Snarepiston The Mechanical,The Archer and Blade,9.90,Phantasmal Tin Of The Swamps,71.00,4929.54,-7.26,349997.34,-515.46,34948.19,384430.07
+15045,"Maglioneth, Lord of the Sun",The Dark Caverns of Woe,3.29,Mithril Of The Tropics,282.00,4126.10,11.98,1163560.20,3378.36,35008.16,1201946.72
+16965,"Alas, Lord of Plague",The Temple of Merciless Necromancy,50.94,Imperial Fate Steel,216.00,2993.93,-59.79,646688.88,-12914.64,323224.86,956999.10
+17590,Lance Knightseraph,Reyny Keep,11.00,Hidden Shadowice Lead,145.00,2729.00,-62.23,395705.00,-9023.35,42534.98,429216.63
+19539,"Selik, God of Death",The Khazahol Crags,-2.17,Emerald Orichalcum,229.00,-405.76,128.90,-92919.04,29518.10,1268.02,-62132.92
+19842,Spikesnare,The Fen of the Necromancer,72.63,Unicorns' Evil Mithril,142.00,4802.49,377.52,681953.58,53607.84,536959.84,1272521.26
+20866,Evilcoil The Machine,Archtemple District,27.76,Planar Obsidian Mercury Of Wizards,141.00,2831.40,155.73,399227.40,21957.93,117931.89,539117.22
+21015,"Ariel, God of Luck",The Forsaken Hive of Galima the Mighty,29.89,Hell Mercury Of The East,50.00,4636.34,378.81,231817.00,18940.50,75227.25,325984.75
+22703,Graveterror,Grove Farthing,19.80,Magic Adamant,249.00,2021.80,228.40,503428.20,56871.60,112059.96,672359.76

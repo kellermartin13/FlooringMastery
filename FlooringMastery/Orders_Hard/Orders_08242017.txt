@@ -1,0 +1,19 @@
+43,Springsprocket,The Bastion of Barbos,21.29,Zephyr Adamant,158.00,3840.00,102.93,606720.00,16262.94,130826.42,753809.36
+150,Rune Rougehate,The Fortress of Asmamur,-4.48,Fairies' Supreme Mistsmoke Lead Of The Future,257.00,3045.00,324.73,782565.00,83455.61,-34640.82,831379.79
+435,Springcoil,Barad Kesa,4.32,Poison Adamant,53.00,298.00,406.38,15794.00,21538.14,1493.29,38825.43
+2694,Tarot Dawn,The Grey Plains,18.15,Fog Lavaplatinum Of Life,156.00,1078.00,17.00,168168.00,2652.00,30747.60,201567.60
+6892,Evilember The Firey,Bergfison's Deep,39.60,Negative Rockglitter Mercury Of Trolls,175.00,1483.90,423.07,259682.50,74037.25,133487.90,467207.65
+8640,Grave Mistseeker,The Barrow of Terrible Horror,-1.21,Incubi's Iron Of The Dawn,364.00,1200.96,424.31,437149.44,154448.84,-5915.98,585682.30
+8826,Shadow Gust,Minas Gilloy,39.26,Djinni's Evil Sandobsidian Steel Of The Future,265.00,3826.00,157.07,1013890.00,41623.55,411650.28,1467163.83
+9220,"Penur, Lord of the Sea",The Beggar and Cask,23.10,Angels' Smoke Adamant Of The Mountains,226.00,2832.34,215.00,640108.84,48590.00,158400.73,847099.57
+9811,"Alas, Lord of Plague",Tower Farthing,27.12,Emerald Orichalcum,331.00,-368.87,128.90,-122095.97,42665.90,-21446.12,-100876.19
+10289,Deathbrood,The Citadel of Lord Greywulf,33.04,Ensorceled Gold Of The Dawn,194.00,5713.98,402.92,1108512.12,78166.48,391603.94,1578282.54
+10635,"Gadriel, God of Resurrection",The Greedy Wench,32.70,Shadow Steel,101.00,4677.78,465.30,472455.78,46995.30,171418.86,690869.94
+10667,Bolttrap,The Dismal Marsh,6.05,Phantasmal Tin Of The Swamps,18.00,4074.00,-6.60,73332.00,-118.80,4392.79,77605.99
+11011,Slayer Claw,Gili's Delve,-5.56,Primordial False Gold,117.00,5395.80,226.00,631308.60,26442.00,-39465.04,618285.56
+14704,Maverick Wind,Grove Farthing,19.80,Ensorceled Sandmetal Of Spirits,252.00,2956.98,95.70,745158.96,24116.40,153855.07,923130.43
+15569,"Avriel, God of Death",The Tower of Sabiesu the Awesome,5.32,Unknown Fatelightning Steel Of The Glacier,189.00,2441.05,65.68,461358.45,12413.52,23688.60,497460.57
+15857,Ironbrood,Noble's Village,30.25,Primordial False Gold,250.00,5395.80,248.60,1348950.00,62150.00,423330.00,1834430.00
+16592,Evilember The Firey,The Broken Arrow,36.39,Starlight Pearldream Bronze,90.00,322.10,147.40,28989.00,13266.00,15211.80,57466.80
+16998,Rouge Roguemist,The Citadel of Lord Greywulf,33.04,Imperial Fate Steel,354.00,2993.93,-59.79,1059851.22,-21165.66,342766.23,1381451.79
+17977,Wind Dire,Archfane District,36.16,Poison Adamant,180.00,1266.52,64.44,227973.60,11599.20,86246.21,325819.01

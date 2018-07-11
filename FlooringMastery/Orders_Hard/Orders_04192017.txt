@@ -1,0 +1,18 @@
+2036,"Finarfin, God of Protection",Barad Cune,26.00,Magicians' Legendary Poison Metal,255.00,2043.26,229.81,521031.30,58601.55,150704.54,730337.39
+5079,Claw Mist,Gifeld Castle,6.22,Rot Silver Of The Past,239.00,3440.00,327.00,822160.00,78153.00,54018.78,954331.78
+5872,Scarefear The Blade,The Vaults of the Shadow Emperor,30.00,Mithril Of The Tropics,116.00,3751.00,9.00,435116.00,1044.00,130848.00,567008.00
+6259,"Ariel, God of Luck",The Tower of Aramum,39.00,Glowpearl Adamant Of Spirits,263.00,361.90,374.00,95179.70,98362.00,75481.26,269022.96
+7576,Emberspawn,The Lazy Sage,19.97,Meteoric Dustzephyr Orichalcum,316.00,375.00,244.08,118500.00,77129.28,39125.86,234755.14
+7827,Cinderflame,The Cuitamba Jungle,30.80,Fairies' Supreme Mistsmoke Lead Of The Future,191.00,3349.50,324.73,639754.50,62023.43,217551.16,919329.09
+9833,Scarefear The Blade,The Pirate's Pipe,17.60,Emerald Orichalcum,233.00,-368.87,128.90,-85946.71,30033.70,-10064.34,-65977.35
+9890,Jericho Wolf,The Chuallanto Jungle,37.00,Mithril Of Legend,101.00,2274.80,63.01,229754.80,6364.01,87363.96,323482.77
+10333,Chainblade The Cadaverous,The Citadel of Lord Greywulf,33.04,Pearl Mirrorice Steel Of Changelings,203.00,271.51,38.07,55116.53,7728.21,20738.76,83583.50
+10428,"Zepul, Lady of Vengeance",The Dread Hive of Illfang the Kobold Lord,1.33,Icy Shock Silver,144.00,1482.98,407.00,213549.12,58608.00,2721.57,274878.69
+10507,"Lenwenye, Goddess of Travel",The Dismal Marsh,6.05,Tritons' Time Stoneiron Of Legend,232.00,1760.00,204.37,408320.00,47413.84,27344.03,483077.87
+12291,Emberspawn,The Citadel of Alammius,3.50,Rot Silver Of The Past,276.00,3784.00,359.70,1044384.00,99277.20,45746.45,1189407.65
+12976,Song Runetomb,The Fortress of Gama,10.16,Mistgold Of Men,208.00,3372.28,53.24,701434.24,11073.92,71250.82,783758.98
+15586,Storm Seraphheart,Lamp Borough,4.95,Unknown Fatelightning Steel Of The Glacier,110.00,2441.05,65.68,268515.50,7224.80,13787.02,289527.32
+17218,"Eumyan, Goddess of Law",Shainan's Hold,23.96,Glowpearl Adamant Of Spirits,158.00,398.09,374.00,62898.22,59092.00,29277.65,151267.87
+17237,Magus Felldrake,North Arcanist's Farthing,55.18,Shadowy Adamant,175.00,618.93,526.44,108312.75,92127.00,110241.86,310681.61
+19172,Fate Seeker,The Drunken Thief,12.65,Starlight Pearldream Bronze,168.00,322.10,147.40,54112.80,24763.20,10253.88,89129.88
+23114,Rouge Tombreaper,The Bastion of Barbos,28.34,Mithril Of The Tropics,228.00,4992.58,11.98,1138308.24,2731.44,319491.11,1460530.79

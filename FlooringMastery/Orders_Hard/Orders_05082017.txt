@@ -1,0 +1,15 @@
+506,Flora Amberslayer,Arcanist's Farthing,3.00,Trolls' Mist Poisonplatinum Of The Twilight,42.00,516.17,394.90,21679.14,16585.80,1147.95,39412.89
+1212,Rose Anchor,The Shadow Downs,13.21,Phantasmal Lead,160.00,-457.00,245.47,-73120.00,39275.20,-4399.82,-38244.62
+1296,Mecharig The Living Device,The Dungeon of Merciless Woe,38.62,Hidden Shadowice Lead,156.00,2729.00,-46.75,425724.00,-7293.00,163188.09,581619.09
+3443,Nailpiston The Grasping,Lacot Stronghold,30.88,Unknowable Mindsilver,216.00,3565.00,366.00,770040.00,79056.00,263219.76,1112315.76
+4428,"Zepul, Lady of Vengeance",Boiaburh Keep,16.00,Foul Ice Bronze Of Life,250.00,-92.21,129.80,-23052.50,32450.00,1503.60,10901.10
+6914,Lance Knightseraph,Dysley Stronghold,45.98,Spectres' Shadowy Terrorglow Adamant Of Life,167.00,4694.80,205.50,784031.60,34318.50,376441.05,1194791.15
+10925,Bolttrap,Ring District,35.00,God-touched Greengem Platinum,253.00,1281.72,-39.60,324275.16,-10018.80,109989.73,424246.09
+13192,Spikespawn,Eved Castle,5.09,Mithril Of Legend,212.00,2274.80,63.01,482257.60,13358.12,24780.79,520396.51
+14751,Gravebone The Unspeakable,The Citadel of Alammius,3.50,Swordbronze,248.00,1485.01,447.01,368282.48,110858.48,19165.64,498306.60
+15255,Sunrise Godwarlock,Cawold Castle,24.09,Glittering Orichalcum,35.00,-158.51,360.23,-5547.85,12608.05,1694.45,8754.65
+17889,Metalghoul,The Nulukkhath Spires,11.65,God-touched Faterainbow Orichalcum Of Spectres,126.00,370.41,32.01,46671.66,4033.26,6084.59,56789.51
+19326,Shadow Gust,The Barrow of Malefic Ages,19.70,Grayplatinum,166.00,3032.59,306.97,503409.94,50957.02,110873.39,665240.35
+19600,Spikecrank,Noble's Village,33.28,Toxic Mistlead Of The Past,173.00,1557.54,164.64,269454.42,28482.72,98319.26,396256.40
+19989,"Gono, Goddess of the Earth",The Tomb of Hellish Ruin,16.94,Primordial False Gold,203.00,5395.80,248.60,1095347.40,50465.80,194788.24,1340601.44
+23014,Tiger Mistmidnight,Pawic Keep,0.62,Incubi's Iron Of The Dawn,183.00,1200.96,424.31,219775.68,77648.73,2974.24,300398.65

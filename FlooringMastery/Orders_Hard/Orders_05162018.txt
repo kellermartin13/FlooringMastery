@@ -1,0 +1,16 @@
+2164,Shiverflame The Freezer,Haukri's Hold,25.30,Violetdream Iron,219.00,1224.69,349.36,268207.11,76509.84,86179.24,430896.19
+2655,"Uriel, God of Fate",The Khazahol Crags,-1.97,Toxin Iceplatinum Of The Undead,201.00,-283.29,-49.00,-56941.29,-9849.00,1335.81,-65454.48
+5108,Freezebrood,The Chuallanto Jungle,37.00,Sphinxes' Mistsoul Bronze Of The Past,348.00,1972.55,183.70,686447.40,63927.60,277638.75,1028013.75
+5490,Deathspike The Terrifying,Gena's Hold,2.20,White Platinum,282.00,-52.59,145.00,-14830.38,40890.00,521.19,26580.81
+7206,"Gadriel, God of Resurrection",The Lost Crypts of Sorrows,35.87,Djinni's Mind Fogiron,253.00,2301.02,74.02,582158.06,18727.06,216318.64,817203.76
+10888,Gale Jackalguard,Gili's Delve,-5.56,Emerald Orichalcum,101.00,-368.87,128.90,-37255.87,13018.90,1454.22,-22782.75
+13044,Shadow Gust,The Wizard's House,43.58,Sapphire Mindlead,73.00,1307.71,47.00,95462.83,3431.00,43513.29,142407.12
+13572,Bonescare,The Pilgrim's Cup,46.12,Sapphire Mindlead,220.00,1307.71,47.00,287696.20,10340.00,137096.65,435132.85
+14135,Snarepiston The Mechanical,Arcanist's Farthing,3.00,Emerald Orichalcum,71.00,-405.76,128.90,-28808.96,9151.90,-589.71,-20246.77
+15604,"Avriel, God of Death",The Tower of Sabiesu the Awesome,5.32,Plague Tin,356.00,4767.02,342.10,1697059.12,121787.60,90942.34,1909789.06
+15979,Springpulley The Binder,Barad Kesa,4.75,Angels' Smoke Adamant Of The Mountains,183.00,3427.13,236.50,627164.79,43279.50,33522.21,703966.50
+17470,Dawn Darkzealot,Weke Tower,-0.07,Angels' Smoke Adamant Of The Mountains,57.00,3427.13,260.15,195346.41,14828.55,0.00,210174.96
+18000,Chillfire The Chiller,Dysley Stronghold,45.98,Rocklava Mithril Of Revenants,186.00,2200.14,14.33,409226.04,2665.38,189470.05,601361.47
+21303,Burnchill The Evil,The Fortress of Asmamur,-4.93,Hidden Shadowice Lead,178.00,2729.00,-62.23,485762.00,-11076.94,-23734.25,450950.81
+22100,Steelterror The Blade,The Grey Plains,21.97,Otherworldly Truesoul Orichalcum Of The East,179.00,1061.78,392.65,190058.62,70284.35,57275.45,317618.42
+22725,"Nelalwe, Lady of Fire",Grove Farthing,19.80,Hidden Shadowice Lead,291.00,2729.00,-62.23,794139.00,-18108.93,155206.01,931236.08

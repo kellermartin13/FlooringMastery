@@ -1,0 +1,20 @@
+2976,Chainblade The Cadaverous,Hafeld Keep,29.00,Thunderbirds' Transcendent Dreamiron,146.00,2068.41,237.70,301987.86,34704.20,97640.70,434332.76
+3083,Gravebone,The Tower of Sabiesu the Awesome,4.40,Mithril Of The Tropics,166.00,3751.00,9.00,622666.00,1494.00,24966.40,649126.40
+3390,Fate Ivycaster,The Broken Arrow,30.07,Ensorceled Sandmetal Of Spirits,182.00,2956.98,87.00,538170.36,15834.00,166201.31,720205.67
+4523,Fate Seeker,The Fen of the Necromancer,45.10,Otherworldly Mirror Orichalcum,170.00,-247.00,478.50,-41990.00,81345.00,17709.75,57064.75
+6849,Sephiroth Drakecaster,Weke Tower,-0.05,Thunderbirds' Transcendent Dreamiron,238.00,2275.25,237.70,541509.50,56572.60,0.00,598082.10
+7606,Jericho Wolf,Palace Farthing,43.31,Fleshshock Mercury,149.00,4417.00,279.40,658133.00,41630.60,300898.35,1000661.95
+7870,Sunrise Godwarlock,The Cuitamba Jungle,30.80,Shadowy Adamant,200.00,618.93,478.58,123786.00,95716.00,68045.62,287547.62
+12989,Springcoil,The Grey Plains,19.97,Imperial Fate Steel,146.00,2993.93,-44.92,437113.78,-6558.32,86111.09,516666.55
+13305,Cinderember,The Warrior and Flagon,53.24,Ghostly Soul Adamant,366.00,3222.96,229.53,1179603.36,84007.98,669714.01,1933325.35
+13551,Wheelbolt The Machine,The Pilgrim's Cup,46.12,Negative Mercury,201.00,4054.87,436.81,815028.87,87798.81,415300.73,1318128.41
+15717,"Maeglodor, God of Thieves",Noble's Village,30.25,Djinni's Spectral Shadowlead Of Life,188.00,4076.49,325.62,766380.12,61216.56,248279.00,1075875.68
+16554,Ironbrood,Eved Castle,5.09,Fleshshock Mercury,262.00,4858.70,338.07,1272979.40,88574.34,68077.69,1429631.43
+18188,Claw Mist,Grori's Deep,66.50,Djinni's Spectral Shadowlead Of Life,354.00,4076.49,325.62,1443077.46,115269.48,1028508.98,2586855.92
+18402,Evilcoil The Machine,The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,269.00,-17.00,276.00,-4573.00,74244.00,30655.24,100326.24
+18904,Harmony Angelchild,The Pilgrim's Cup,46.12,Dragons' Poison Glitterflesh Steel Of The North,148.00,2790.70,288.13,413023.60,42643.24,209606.75,665273.59
+19585,Emberspawn,North Grove Ward,7.99,Planar Mudtin Of Trolls,319.00,3067.17,405.79,978427.23,129447.01,88629.94,1196504.18
+19836,Lance Knightseraph,The Forsaken Sepulcher of Sorrows,53.67,Rainbowglitter Tin,155.00,5957.39,213.40,923395.45,33077.00,516495.12,1472967.57
+20595,Springpulley The Binder,The Dark Caverns of Woe,3.29,Sphinxes' Opalpearl Platinum Of Legend,62.00,5805.82,390.81,359960.84,24230.22,11525.73,395716.79
+21833,Rouge Tombreaper,The Tower of the Demon Warlord,20.97,Toxic Mistlead Of The Past,204.00,1557.54,181.10,317738.16,36944.40,74483.34,429165.90
+22547,Fate Ivycaster,The Greedy Wench,43.53,Violetdream Iron,257.00,1630.07,349.36,418927.99,89785.52,223833.94,732547.45

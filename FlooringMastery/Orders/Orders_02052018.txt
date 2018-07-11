@@ -1,0 +1,18 @@
+5221,Darlene "Loner" Ford,TX,0.50,Pebbles,183.00,0.80,4.40,146.40,805.20,0.00,951.60
+5989,Deborah "the Lady",MS,3.00,Dirt,134.00,0.50,1.00,67.00,134.00,6.03,207.03
+6535,Vengeful Montgomery,NV,0.28,Leather,227.00,10.00,18.15,2270.00,4120.05,0.00,6390.05
+7198,Florence "Leather Doc" Grant,MO,2.20,Pinecones,123.00,1.50,2.66,184.50,327.18,10.23,521.91
+7398,Kathy Murphy "the Thinker",UT,0.00,Brick,261.00,4.84,6.66,1263.24,1738.26,0.00,3001.50
+9973,Lorraine "Utah" Adams,AL,1.00,Pinecones,65.00,1.50,2.66,97.50,172.90,2.70,273.10
+10296,Allison "Steel Gravedigger" Douglas,IA,1.21,Solid Oak,249.00,5.50,5.50,1369.50,1369.50,27.39,2766.39
+12538,Mabel "Vixen Cursed" King,KS,0.55,Packed Dirt,81.00,1.00,1.65,81.00,133.65,2.15,216.80
+13162,"Sunrise" Miles,IA,1.21,Pinecones,220.00,1.50,2.66,330.00,585.20,9.15,924.35
+14379,Wilma "Tornado" Brooks,UT,0.00,Solid Oak,244.00,5.50,5.50,1342.00,1342.00,0.00,2684.00
+16946,Joanne "Damned" Miles,TX,0.67,Pebbles,175.00,0.88,4.84,154.00,847.00,10.01,1011.01
+17045,Surgeon Grant,ID,0.00,Leather,176.00,11.00,19.97,1936.00,3514.72,0.00,5450.72
+17226,Vicki "Mesa" Rhodes,MT,3.99,Cedar Planks,206.00,2.20,6.66,453.20,1371.96,73.01,1898.17
+17626,Renee "Hellish Empress" Banks,IA,1.21,Solid Oak,284.00,5.50,6.66,1562.00,1891.44,34.53,3487.97
+18427,Heather "Friendly Gambler" Barrett,ID,0.00,Solid Oak,317.00,5.50,6.66,1743.50,2111.22,0.00,3854.72
+19063,"Doom" McCoy,MT,3.99,Cedar Planks,195.00,2.20,6.66,429.00,1298.70,69.11,1796.81
+20539,Beth "Fortunate Shooter" Powell,NM,2.93,Solid Oak,364.00,5.50,6.66,2002.00,2424.24,132.79,4559.03
+22651,Ida Russell "the Rustler",KS,0.55,Solid Oak,201.00,5.50,6.66,1105.50,1338.66,24.44,2468.60

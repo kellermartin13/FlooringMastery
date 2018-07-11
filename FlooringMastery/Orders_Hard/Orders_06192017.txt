@@ -1,0 +1,16 @@
+32,"Finarfin, God of Protection",The Grey Plains,18.15,Planar Obsidian Mercury Of Wizards,123.00,2574.00,117.00,316602.00,14391.00,59578.74,390571.74
+1781,Scarechain The Unspeakable,The Chuallanto Jungle,37.00,Stone Soulsteel Of The Skies,105.00,1634.80,12.01,171654.00,1261.05,63978.57,236893.62
+1897,Scarechain The Unspeakable,The Chuallanto Jungle,37.00,Planar Mudtin Of Trolls,93.00,2094.92,335.36,194827.56,31188.48,83625.93,309641.97
+1922,"Eumyan, Goddess of Law",The Forsaken Tomb of Devastation,0.00,Violetdream Iron,149.00,1224.69,349.36,182478.81,52054.64,0.00,234533.45
+2238,Sunrise Godwarlock,Hartshill Ward,41.98,Planar Mudtin Of Trolls,289.00,2094.92,335.36,605431.88,96919.04,294987.39,997338.31
+4447,Blazeflare The Cremator,The Secret Shrine of the Gargoyle Count,-2.00,Phantasmal Lead,236.00,-457.00,245.47,-107852.00,57930.92,998.42,-48922.66
+6288,Grave Mistseeker,The Citadel of Alammius,3.50,Greenlead,199.00,793.10,148.47,157826.90,29545.53,7494.90,194867.33
+7322,Bolttrap,The Forsaken Hive of Galima the Mighty,24.70,Angels' Adamant,100.00,1304.00,179.30,130400.00,17930.00,37082.50,185412.50
+14836,Sephiroth Drakecaster,The Pilgrim's Cup,46.12,Grayplatinum,111.00,2506.27,306.97,278195.97,34073.67,143644.03,455913.67
+15094,Bonescare,The Tower of Aces the Accursed,13.31,Shadow Steel,282.00,5660.12,511.83,1596153.84,144336.06,226263.69,1966753.59
+18326,Cult Godseeker,Grori's Deep,66.50,Negative Rockglitter Mercury Of Trolls,180.00,1632.29,619.42,293812.20,111495.60,267503.15,672810.95
+19453,Emberspawn,Castle Village,49.93,Emerald Orichalcum,251.00,-405.76,128.90,-101845.76,32353.90,-34745.93,-104237.79
+20579,Sunset Knightclaw,The Warrior and Flagon,53.24,Greenlead,285.00,959.65,179.65,273500.25,51200.25,172091.26,496791.76
+21151,Chainhorror,The Hunter and Rose,44.44,Rocklava Mithril Of Revenants,199.00,2200.14,15.76,437827.86,3136.24,194024.20,634988.30
+21869,Boltcrank The Trapper,Lamp Borough,4.95,Sphinxes' Unknown Poisongold Of The Future,219.00,4301.28,23.86,941980.32,5225.34,47360.28,994565.94
+22299,Deathspike The Terrifying,Khali's Delve,52.71,Primordial Plague Mercury Of Legend,140.00,497.52,301.29,69652.80,42180.60,59271.70,171105.10

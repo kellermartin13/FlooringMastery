@@ -1,0 +1,27 @@
+123,Minnie Lawson "the Apostle",NM,2.00,Brick,269.00,4.00,5.00,1076.00,1345.00,48.42,2469.42
+1702,Allison "Steel Gravedigger" Douglas,KS,0.50,Leather,231.00,10.00,15.00,2310.00,3465.00,0.00,5775.00
+2234,Jacqueline "Riding Doc" Washington,WY,0.25,Dirt,172.00,0.50,1.00,86.00,172.00,0.00,258.00
+3885,Gladys "Locoweed" Keller,CA,0.55,Brick,18.00,4.40,5.50,79.20,99.00,1.78,179.98
+4814,"Doom" McCoy,ID,0.00,Brick,209.00,4.84,6.05,1011.56,1264.45,0.00,2276.01
+5120,Lorraine "Utah" Adams,KS,0.50,Leather,193.00,10.00,18.15,1930.00,3502.95,0.00,5432.95
+5137,Friendly Howell,IA,1.21,Solid Oak,321.00,5.50,5.50,1765.50,1765.50,35.31,3566.31
+5194,Helen Webb "the Dancer",AL,1.00,Beechwood,294.00,3.00,5.00,882.00,1470.00,23.52,2375.52
+5555,Dorothy "the Hunter",ND,1.25,Solid Oak,301.00,5.50,5.50,1655.50,1655.50,33.11,3344.11
+5817,Cynthia "the Vixen",MO,2.20,Dirt,167.00,0.50,1.00,83.50,167.00,5.01,255.51
+5972,Surgeon Grant,ND,1.25,Beechwood,78.00,3.00,5.00,234.00,390.00,6.24,630.24
+6638,Dorothy "the Hunter",WY,0.31,Pebbles,244.00,0.80,4.84,195.20,1180.96,0.00,1376.16
+7018,Jacqueline "Riding Doc" Washington,NV,0.28,Leather,47.00,10.00,18.15,470.00,853.05,0.00,1323.05
+7054,Geraldine "Revenge" Warren,NV,0.28,Brick,183.00,4.84,6.66,885.72,1218.78,0.00,2104.50
+7199,Michele Watson "the Loner",NV,0.28,Dirt,164.00,0.50,1.00,82.00,164.00,0.00,246.00
+7601,Theresa "Kid" Robinson,KS,0.50,Pebbles,116.00,0.80,4.84,92.80,561.44,0.00,654.24
+9769,"Scalphunter" Kennedy,KS,0.50,Pebbles,149.00,0.88,4.84,131.12,721.16,0.00,852.28
+10060,Mattie Grant "the Gambler",UT,0.00,Reeds,388.00,0.75,2.20,291.00,853.60,0.00,1144.60
+10178,Helen Webb "the Dancer",MT,3.63,Dirt,129.00,0.50,1.00,64.50,129.00,7.74,201.24
+10384,"Sunrise" Miles,TX,0.61,Solid Oak,336.00,5.50,5.50,1848.00,1848.00,36.96,3732.96
+12090,Geraldine "Revenge" Warren,MT,3.63,Reeds,6.00,0.75,2.20,4.50,13.20,0.71,18.41
+14616,Cathy "Loner Demon" Murray,OK,2.42,Brick,180.00,5.32,6.66,957.60,1198.80,43.13,2199.53
+16733,Deborah "the Lady",OK,2.42,Pinecones,274.00,1.50,2.66,411.00,728.84,22.80,1162.64
+17141,Black Beck,UT,0.00,Cedar Planks,236.00,2.20,6.05,519.20,1427.80,0.00,1947.00
+18259,Dorothy "the Hunter",MT,3.99,Beechwood,296.00,3.63,5.50,1074.48,1628.00,108.10,2810.58
+20392,Kathy Murphy "the Thinker",AL,1.00,Solid Oak,266.00,5.50,6.66,1463.00,1771.56,32.35,3266.91
+22538,Kathy Murphy "the Thinker",UT,0.00,Packed Dirt,32.00,1.10,2.42,35.20,77.44,0.00,112.64

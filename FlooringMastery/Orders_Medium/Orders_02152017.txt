@@ -1,0 +1,19 @@
+204,Vengeful Montgomery,NM,2.00,Beechwood,144.00,3.00,5.00,432.00,720.00,23.04,1175.04
+3979,Gladys "Locoweed" Keller,KS,0.50,Brick,58.00,4.40,5.50,255.20,319.00,0.00,574.20
+4043,Betty "Happy Thinker" Watson,MT,3.00,Leather,160.00,10.00,16.50,1600.00,2640.00,127.20,4367.20
+5210,Gladys "Locoweed" Keller,TX,0.50,Cedar Planks,190.00,2.00,5.50,380.00,1045.00,0.00,1425.00
+5267,Darlene "Loner" Ford,AR,2.20,Beechwood,35.00,3.00,5.00,105.00,175.00,5.60,285.60
+5524,Tammy Carlson "the Killer",MO,2.20,Brick,324.00,4.84,6.66,1568.16,2157.84,74.52,3800.52
+10543,"Bane" Jennings,ND,1.25,Reeds,233.00,0.75,2.20,174.75,512.60,6.87,694.22
+10557,Maureen "Cursed" Andrews,MO,2.20,Beechwood,133.00,3.00,5.50,399.00,731.50,22.61,1153.11
+10761,Deborah "the Lady",ND,1.25,Dirt,53.00,0.50,1.00,26.50,53.00,0.80,80.30
+11309,Darlene "Loner" Ford,AL,1.00,Solid Oak,360.00,5.50,5.50,1980.00,1980.00,39.60,3999.60
+12501,Theresa "Scalphunter" Romero,ID,0.00,Dirt,182.00,0.50,1.00,91.00,182.00,0.00,273.00
+13938,Melissa "Lonesome Stalker" Riley,UT,0.00,Pebbles,94.00,0.88,4.84,82.72,454.96,0.00,537.68
+14891,Tina "Lady" Anderson,KS,0.55,Solid Oak,194.00,5.50,5.50,1067.00,1067.00,21.34,2155.34
+15295,Theresa "Scalphunter" Romero,OK,2.42,Leather,89.00,11.00,18.15,979.00,1615.35,51.89,2646.24
+16081,Diana "Mistress" Morgan,ID,0.00,Cedar Planks,264.00,2.20,6.05,580.80,1597.20,0.00,2178.00
+16703,Kathy Murphy "the Thinker",AR,2.20,Pinecones,284.00,1.50,2.66,426.00,755.44,23.63,1205.07
+20304,Evelyn "Evil Joker" Taylor,AL,1.00,Pebbles,193.00,0.88,4.84,169.84,934.12,11.04,1115.00
+20492,Diana "Mistress" Morgan,MS,3.00,Cedar Planks,319.00,2.20,6.66,701.80,2124.54,84.79,2911.13
+22055,Tammy Carlson "the Killer",NV,0.31,Solid Oak,115.00,5.50,6.66,632.50,765.90,0.00,1398.40

@@ -1,0 +1,28 @@
+558,Gloria "Devil" McCoy,MO,2.20,Brick,229.00,4.00,5.00,916.00,1145.00,41.22,2102.22
+1612,Betty "Happy Thinker" Watson,MT,3.00,Beechwood,188.00,3.00,5.00,564.00,940.00,45.12,1549.12
+4013,Victoria "the Dancer",NV,0.25,Cedar Planks,192.00,2.00,5.50,384.00,1056.00,0.00,1440.00
+4815,Theresa "Scalphunter" Romero,AR,2.20,Beechwood,269.00,3.00,5.00,807.00,1345.00,43.04,2195.04
+5380,Stella "the Bully",OK,2.00,Solid Oak,184.00,5.50,5.50,1012.00,1012.00,40.48,2064.48
+7422,"Sunrise" Miles,NV,0.28,Reeds,314.00,0.75,2.20,235.50,690.80,0.00,926.30
+7547,Helen Webb "the Dancer",OK,2.20,Cedar Planks,187.00,2.20,6.05,411.40,1131.35,30.86,1573.61
+7714,Beth "Fortunate Shooter" Powell,MO,2.20,Pebbles,237.00,0.80,4.84,189.60,1147.08,26.73,1363.41
+9033,Wilma "Tornado" Brooks,MO,2.20,Brick,328.00,4.84,6.66,1587.52,2184.48,75.44,3847.44
+9062,Mattie Grant "the Gambler",KS,0.50,Cedar Planks,186.00,2.20,6.05,409.20,1125.30,0.00,1534.50
+9131,Vengeful Robertson,MT,3.30,Leather,293.00,10.00,18.15,2930.00,5317.95,247.44,8495.39
+9409,Black Beck,OK,2.20,Packed Dirt,244.00,1.00,1.50,244.00,366.00,12.20,622.20
+10498,"Sunrise" Miles,WY,0.31,Dirt,126.00,0.50,1.00,63.00,126.00,0.00,189.00
+10572,Dorothy "the Hunter",MO,2.20,Dirt,135.00,0.50,1.00,67.50,135.00,4.05,206.55
+11161,Michele Watson "the Loner",ND,1.25,Reeds,339.00,0.75,2.20,254.25,745.80,10.00,1010.05
+11485,Surgeon Grant,NM,2.20,Pebbles,132.00,0.88,4.84,116.16,638.88,15.10,770.14
+12441,Friendly Howell,ND,1.38,Brick,202.00,4.84,6.66,977.68,1345.32,23.23,2346.23
+13575,Surgeon Grant,OK,2.42,Beechwood,289.00,3.30,5.50,953.70,1589.50,50.86,2594.06
+14750,Heather "Tornado" Newman,CA,0.61,Solid Oak,96.00,5.50,5.50,528.00,528.00,10.56,1066.56
+15586,Theresa "Scalphunter" Romero,AR,2.20,Leather,145.00,11.00,18.15,1595.00,2631.75,84.54,4311.29
+16339,Vicki "Mesa" Rhodes,MO,2.20,Packed Dirt,207.00,1.10,2.20,227.70,455.40,13.66,696.76
+16901,Heather "Friendly Gambler" Barrett,WY,0.31,Reeds,268.00,0.83,2.20,222.44,589.60,0.00,812.04
+18466,Black Beck,UT,0.00,Pebbles,134.00,0.88,4.84,117.92,648.56,0.00,766.48
+20111,Deborah "the Lady",AR,2.20,Solid Oak,239.00,5.50,6.66,1314.50,1591.74,58.12,2964.36
+20975,Wilma "Tornado" Brooks,NM,2.93,Pebbles,254.00,0.88,4.84,223.52,1229.36,43.59,1496.47
+21166,Mattie Grant "the Gambler",ID,0.00,Cedar Planks,301.00,2.20,6.66,662.20,2004.66,0.00,2666.86
+22118,Kathy Murphy "the Thinker",MT,5.84,Packed Dirt,95.00,1.10,2.42,104.50,229.90,20.06,354.46
+22451,Friendly Howell,WY,0.31,Pebbles,287.00,0.88,4.84,252.56,1389.08,0.00,1641.64

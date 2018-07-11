@@ -1,0 +1,27 @@
+129,Tina "Lady" Anderson,AR,2.20,Brick,216.00,4.00,5.00,864.00,1080.00,38.88,1982.88
+221,Victoria "the Dancer",WY,0.25,Beechwood,254.00,3.00,5.00,762.00,1270.00,0.00,2032.00
+459,Marie "Raven" Chapman,UT,0.00,Dirt,171.00,0.50,1.00,85.50,171.00,0.00,256.50
+1014,Mattie Grant "the Gambler",AR,2.20,Solid Oak,106.00,5.00,5.00,530.00,530.00,21.20,1081.20
+2435,Minnie Lawson "the Apostle",NV,0.25,Packed Dirt,218.00,1.00,1.50,218.00,327.00,0.00,545.00
+4039,Betty "Happy Thinker" Watson,MT,3.00,Pebbles,167.00,0.80,4.40,133.60,734.80,26.05,894.45
+8013,Heather "Tornado" Newman,NM,2.20,Dirt,209.00,0.50,1.00,104.50,209.00,6.27,319.77
+9285,Vanessa "Scalper" Rhodes,CA,0.55,Dirt,75.00,0.50,1.00,37.50,75.00,1.12,113.62
+10715,Kathy Murphy "the Thinker",OK,2.42,Cedar Planks,345.00,2.20,6.05,759.00,2087.25,56.92,2903.17
+11300,Beth "Fortunate Shooter" Powell,OK,2.42,Cedar Planks,202.00,2.20,6.05,444.40,1222.10,33.33,1699.83
+11878,Kathy Murphy "the Thinker",WY,0.31,Packed Dirt,230.00,1.00,1.65,230.00,379.50,0.00,609.50
+13711,Renee "Loco Tracker" Jordan,UT,0.00,Pinecones,201.00,1.50,2.66,301.50,534.66,0.00,836.16
+14011,Ida Russell "the Rustler",KS,0.55,Cedar Planks,187.00,2.20,6.05,411.40,1131.35,15.43,1558.18
+14071,Evelyn "Evil Joker" Taylor,NM,2.42,Cedar Planks,359.00,2.20,6.05,789.80,2171.95,59.24,3020.99
+14628,"Scalphunter" Kennedy,ND,1.38,Solid Oak,144.00,5.50,5.50,792.00,792.00,15.84,1599.84
+14851,Tammy Carlson "the Killer",UT,0.00,Dirt,41.00,0.50,1.00,20.50,41.00,0.00,61.50
+15556,April "Thunderbird" Dunn,OK,2.42,Reeds,223.00,0.83,2.20,185.09,490.60,13.51,689.20
+17330,Mabel "Vixen Cursed" King,AL,1.00,Leather,93.00,11.00,19.97,1023.00,1857.21,28.80,2909.01
+17603,Black Beck,IA,1.21,Pinecones,267.00,1.50,2.66,400.50,710.22,11.11,1121.83
+18297,Mabel "Vixen Cursed" King,NV,0.31,Dirt,31.00,0.50,1.00,15.50,31.00,0.00,46.50
+19799,Julia "Bandit" Chandler,UT,0.00,Cedar Planks,275.00,2.20,6.66,605.00,1831.50,0.00,2436.50
+20753,Vicki "Mesa" Rhodes,KS,0.55,Beechwood,219.00,3.63,6.05,794.97,1324.95,21.20,2141.12
+21046,Black Beck,AR,2.20,Cedar Planks,335.00,2.20,6.66,737.00,2231.10,59.36,3027.46
+21861,Vanessa "Scalper" Rhodes,OK,2.93,Packed Dirt,88.00,1.10,2.42,96.80,212.96,9.29,319.05
+22652,Black Beck,ND,1.67,Leather,138.00,11.00,19.97,1518.00,2755.86,85.48,4359.34
+22742,"Sunrise" Miles,NM,2.93,Pebbles,91.00,0.88,5.32,80.08,484.12,16.93,581.13
+23099,Ida Russell "the Rustler",ND,1.67,Brick,216.00,5.32,6.66,1149.12,1438.56,51.75,2639.43

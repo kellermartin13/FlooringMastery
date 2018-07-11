@@ -1,0 +1,23 @@
+1008,Storm Squallmourner,Lamp Borough,4.95,Imperial Fate Steel,108.00,2721.75,-37.13,293949.00,-4010.04,14496.95,304435.91
+1203,Song Runetomb,The Forsaken Tomb of Devastation,0.00,Hidden Shadowice Lead,155.00,2729.00,-46.75,422995.00,-7246.25,0.00,415748.75
+2282,Shadow Gust,Haukri's Hold,25.30,Incubi's Mirrorfog Iron Of The Ocean,296.00,4798.76,-19.59,1420432.96,-5798.64,353658.58,1768292.90
+2302,Blazefreeze The Chiller,Pawic Keep,0.56,Mana-touched Greenglitter Gold Of Giants,109.00,1173.98,425.00,127963.82,46325.00,1742.89,176031.71
+2569,Blazefreeze The Chiller,Boiaburh Keep,16.00,Phantasmal Smokezephyr Mercury Of Men,175.00,-317.16,69.00,-55503.00,12075.00,-6948.48,-50376.48
+2666,Bronzespawn,The Dismal Marsh,5.00,Forgotten Mithril,180.00,913.00,316.00,164340.00,56880.00,11061.00,232281.00
+4294,"Lenwenye, Goddess of Travel",Boiaburh Keep,16.00,Succubi's Evil Mindzephyr Adamant Of The Desert,200.00,1990.16,250.07,398032.00,50014.00,71687.36,519733.36
+4356,Law Lionwatcher,Citadel Ward,28.40,Zephyr Iron,253.00,2759.00,404.26,698027.00,102277.78,224085.34,1024390.12
+8505,Magus Felldrake,Mahyrst Keep,27.65,Foul Ice Bronze Of Life,292.00,-92.21,129.80,-26925.32,37901.60,3073.36,14049.64
+8641,Flora Amberslayer,The Fortress of Gama,10.16,Djinni's Spectral Shadowlead Of Life,296.00,3705.90,296.02,1096946.40,87621.92,118456.83,1303025.15
+10425,Rouge Roguemist,The Nulukkhath Spires,10.59,Magicians' Legendary Poison Metal,91.00,2247.59,229.81,204530.69,20912.71,24798.77,250242.17
+11844,Wind Dire,South Brightcrown Borough,42.25,Timeiron,184.00,1596.00,228.33,293664.00,42012.72,140984.22,476660.94
+12983,Rune Rougehate,The Grey Plains,19.97,Phantasmal Lead,182.00,-552.97,245.47,-100640.54,44675.54,-11193.00,-67158.00
+12989,Metalghoul,The Hunter and Rose,40.40,Forgotten Mithril,376.00,1104.73,316.00,415378.48,118816.00,213677.79,747872.27
+13126,Sephiroth Drakecaster,The Desert of Flames,51.91,Mistgold Of Men,177.00,3372.28,53.24,596893.56,9423.48,315284.86,921601.90
+13308,Nettool The Grasping,Eved Castle,5.09,Ghostly Soul Adamant,341.00,3222.96,229.53,1099029.36,78269.73,58864.95,1236164.04
+14560,Spikecrank,Archfane District,32.87,Legendary Mithril Of The Moon,182.00,2707.10,125.84,492692.20,22902.88,170146.38,685741.46
+14781,Dawn Darkzealot,The Citadel of Lord Greywulf,33.04,Unknown Fatelightning Steel Of The Glacier,172.00,2441.05,65.68,419860.60,11296.96,142281.99,573439.55
+16504,Steelterror The Blade,The Broken Arrow,36.39,Ensorceled Gold Of The Dawn,164.00,6913.92,402.92,1133882.88,66078.88,431986.23,1631947.99
+18384,Wheelspawn,Lamp Borough,4.95,Rocklava Mithril Of Revenants,200.00,2200.14,14.33,440028.00,2866.00,22144.70,465038.70
+18629,Icechill The Frigid,Mahyrst Keep,30.42,Ensorceled Sandmetal Of Spirits,289.00,2956.98,95.70,854567.22,27657.30,264667.36,1146891.88
+21137,Lightning Brand,The Hunter and Rose,44.44,Fairies' Supreme Mistsmoke Lead Of The Future,197.00,3349.50,324.73,659851.50,63971.81,318482.26,1042305.57
+21884,Song Runetomb,Barad Cune,28.60,Meteoric Mirrormuck Orichalcum Of The Forests,366.00,2374.02,185.77,868891.32,67991.82,271696.11,1208579.25

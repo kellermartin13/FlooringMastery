@@ -1,0 +1,18 @@
+1290,Julia "Bandit" Chandler,ID,0.00,Cedar Planks,206.00,2.00,5.00,412.00,1030.00,0.00,1442.00
+1524,Marie "Raven" Chapman,TX,0.50,Beechwood,155.00,3.00,5.00,465.00,775.00,0.00,1240.00
+1582,Heather "Friendly Gambler" Barrett,ID,0.00,Reeds,116.00,0.75,2.00,87.00,232.00,0.00,319.00
+1940,Joanne "Damned" Miles,MO,2.20,Packed Dirt,173.00,1.00,1.50,173.00,259.50,8.65,441.15
+4756,Debra "Scorpion" Lane,OK,2.00,Leather,88.00,10.00,16.50,880.00,1452.00,46.64,2378.64
+5496,Victoria "the Dancer",AL,1.00,Packed Dirt,210.00,1.00,1.50,210.00,315.00,5.25,530.25
+10428,Surgeon Grant,MO,2.20,Dirt,122.00,0.50,1.00,61.00,122.00,3.66,186.66
+12659,"Scalphunter" Kennedy,MT,3.63,Pinecones,155.00,1.50,2.66,232.50,412.30,25.79,670.59
+13719,Melissa "Lonesome Stalker" Riley,MO,2.20,Cedar Planks,87.00,2.20,6.05,191.40,526.35,14.36,732.11
+14495,Joanne "Damned" Miles,MT,3.99,Beechwood,316.00,3.63,5.50,1147.08,1738.00,115.40,3000.48
+15417,Amanda Hart "the Loner",AR,2.20,Pinecones,120.00,1.50,2.66,180.00,319.20,9.98,509.18
+15792,"Sunrise" Miles,ND,1.38,Dirt,183.00,0.50,1.00,91.50,183.00,2.74,277.24
+15878,Lena Chapman "the Bully",IA,1.21,Solid Oak,264.00,5.50,6.05,1452.00,1597.20,30.49,3079.69
+17156,Florence "Leather Doc" Grant,AR,2.20,Packed Dirt,112.00,1.10,2.20,123.20,246.40,7.39,376.99
+17224,Dorothy "the Hunter",NM,2.66,Pebbles,153.00,0.88,4.84,134.64,740.52,26.25,901.41
+18584,Jacqueline "Riding Doc" Washington,NM,2.93,Packed Dirt,182.00,1.10,2.20,200.20,400.40,18.02,618.62
+22018,Lena Chapman "the Bully",ID,0.00,Reeds,224.00,0.83,2.20,185.92,492.80,0.00,678.72
+22220,Vanessa "Scalper" Rhodes,TX,0.67,Beechwood,30.00,3.63,6.05,108.90,181.50,2.90,293.30

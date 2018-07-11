@@ -1,0 +1,15 @@
+618,Evilcoil The Machine,The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,323.00,2461.00,104.00,794903.00,33592.00,298258.20,1126753.20
+806,Deathspike The Terrifying,The Wizard's House,43.58,Primordial False Gold,106.00,4459.34,226.00,472690.04,23956.00,218524.26,715170.30
+2595,Harmony Angelchild,Pawic Keep,0.56,Rocklava Mithril Of Revenants,245.00,1818.30,13.03,445483.50,3192.35,4486.76,453162.61
+3183,Sunset Knightclaw,The Fortress of Gama,10.16,Rocklava Mithril Of Revenants,92.00,1818.30,13.03,167283.60,1198.76,16848.24,185330.60
+5042,Spikerivet,The Broken Arrow,30.07,Mithril Of Legend,172.00,2274.80,63.01,391265.60,10837.72,120631.00,522734.32
+6012,Lightning Brand,The Pirate's Pipe,17.60,Warlocks' Timerot Mithril,340.00,2917.07,112.00,991803.80,38080.00,185379.08,1215262.88
+7974,Springpulley The Binder,Minas Gilloy,39.26,Toxin Iceplatinum Of The Undead,257.00,-342.78,-53.90,-88094.46,-13852.30,-39759.24,-141706.00
+11590,Mecharig The Living Device,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,220.00,2275.25,237.70,500555.00,52294.00,232196.58,785045.58
+14983,"Iran, Lord of Nightmares",Gena's Hold,2.66,Primordial Mud Orichalcum,234.00,-387.90,85.11,-90768.60,19915.74,-2125.59,-72978.45
+15425,Sephiroth Drakecaster,The Greedy Wench,32.70,Glittering Orichalcum,115.00,-158.51,360.23,-18228.65,41426.45,7655.27,30853.07
+15765,"Iran, Lord of Nightmares",Cawold Castle,24.09,Shadowy Adamant,165.00,618.93,526.44,102123.45,86862.60,45356.65,234342.70
+16559,Bonescare,Reyny Keep,11.00,Forgotten Mithril,283.00,1104.73,347.60,312638.59,98370.80,45211.03,456220.42
+19183,"Lionare, God of the Lost",The Drunken Thief,12.65,Unspeakable Rotsoul Mithril Of Souls,201.00,248.00,485.85,49848.00,97655.85,19175.50,166679.35
+21555,Rose Anchor,Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,219.00,370.41,35.21,81119.79,7710.99,23096.00,111926.78
+23262,Cult Godseeker,Barad Kesa,5.23,Timeiron,153.00,1596.00,276.28,244188.00,42270.84,14322.94,300781.78

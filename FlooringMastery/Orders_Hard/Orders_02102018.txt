@@ -1,0 +1,24 @@
+133,Seraphim Tsunami,Waleah Castle,0.77,Rainbowglitter Tin,210.00,4475.87,176.36,939932.70,37035.60,9769.68,986737.98
+1766,Song Runetomb,The Broken Arrow,30.07,Unicorns' Fatal Magma Metal Of The Ocean,78.00,1792.04,357.00,139779.12,27846.00,50287.54,217912.66
+1771,Flora Amberslayer,The Forsaken Tomb of Devastation,0.00,Stone Soulsteel Of The Skies,199.00,1634.80,12.01,325325.20,2389.99,0.00,327715.19
+2606,Tarot Dawn,The Cracked Chalice,2.29,Negative Mercury,288.00,4054.87,361.00,1167802.56,103968.00,25435.41,1297205.97
+2814,Gravebone The Unspeakable,Pawic Keep,0.56,Fog Lavaplatinum Of Life,126.00,1078.00,17.00,135828.00,2142.00,1379.70,139349.70
+2934,Claw Mist,The Grey Plains,19.97,Fog Lavaplatinum Of Life,172.00,1078.00,17.00,185416.00,2924.00,37668.00,226008.00
+4463,Rune Rougehate,The Wizard's House,43.58,Pearl Mirrorice Steel Of Changelings,350.00,271.51,34.61,95028.50,12113.50,47142.48,154284.48
+5655,Harmony Angelchild,The Vaults of the Shadow Emperor,30.00,Angels' Adamant,124.00,1304.00,179.30,161696.00,22233.20,55178.76,239107.96
+6973,Flora Amberslayer,The Flying Witch,11.45,Hidden Shadowice Lead,203.00,2729.00,-62.23,553987.00,-12632.69,59548.97,600903.28
+7115,Bolttrap,Bergfison's Deep,39.60,Negative Rockglitter Mercury Of Trolls,148.00,1483.90,423.07,219617.20,62614.36,112892.62,395124.18
+7790,Burnchill The Evil,Lordsgate Farthing,41.14,Poison Adamant,321.00,1151.38,58.58,369592.98,18804.18,159242.84,547640.00
+8533,Rouge Roguemist,North Grove Ward,6.60,Shadowy Adamant,245.00,618.93,478.58,151637.85,117252.10,18822.30,287712.25
+10840,Scarechain The Unspeakable,The Dungeon of Dismal Terror,-3.50,Unspeakable Rotsoul Mithril Of Souls,216.00,248.00,401.53,53568.00,86730.48,-5611.94,134686.54
+10918,Scarechain The Unspeakable,Dysley Stronghold,45.98,God-touched Greengem Platinum,169.00,1281.72,-39.60,216610.68,-6692.40,96562.41,306480.69
+11098,Emberspawn,Pawic Keep,0.56,Devils' Falserot Silver,100.00,1668.51,182.71,166851.00,18271.00,1851.22,186973.22
+11236,Evilbrood,Dysley Stronghold,45.98,Primordial False Gold,258.00,5395.80,226.00,1392116.40,58308.00,667195.22,2117619.62
+13083,Spiketerror The Skeletal,The Dread Hive of Illfang the Kobold Lord,1.46,Phantasmal Smokezephyr Mercury Of Men,283.00,-464.37,75.90,-131416.71,21479.70,-1099.37,-111036.38
+14693,Storm Squallmourner,Archscepter Borough,3.30,Ensorceled Sandmetal Of Spirits,343.00,2956.98,95.70,1014244.14,32825.10,31412.08,1078481.32
+16129,Nettool The Grasping,The Lost Sanctum of Woe,3.30,God-touched Faterainbow Orichalcum Of Spectres,364.00,370.41,32.01,134829.24,11651.64,4394.43,150875.31
+16692,Sephiroth Drakecaster,The Fortress of Gama,10.16,Ghostly Magic Adamant,307.00,4836.38,230.90,1484768.66,70886.30,155565.50,1711220.46
+17908,Shiverflame The Freezer,North Arcanist's Farthing,55.18,Phantasmal Plague Adamant,285.00,-204.63,-7.18,-58319.55,-2046.30,-33201.22,-93567.07
+18834,Bonescare,South Brightcrown Borough,42.25,Primordial Mud Orichalcum,157.00,-469.36,85.11,-73689.52,13362.27,-25337.44,-85664.69
+19967,Fate Seeker,Grori's Deep,66.50,Pearl Mirrorice Steel Of Changelings,213.00,328.53,46.07,69976.89,9812.91,52661.27,132451.07
+20666,Evilember The Firey,The Forsaken Tomb of Devastation,0.00,Zephyr Adamant,160.00,4224.00,113.22,675840.00,18115.20,0.00,693955.20

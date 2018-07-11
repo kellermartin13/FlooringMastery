@@ -1,0 +1,28 @@
+544,"Addon, Lord of Death",Barad Kesa,4.32,Fog Lavaplatinum Of Life,242.00,1078.00,17.00,260876.00,4114.00,10599.60,275589.60
+899,Snowflame The Evil,The Citadel of Alammius,3.18,Primordial False Gold,204.00,4459.34,226.00,909705.36,46104.00,28674.28,984483.64
+1058,Law Lionwatcher,The Cuitamba Jungle,28.00,Rainbowglitter Tin,189.00,4475.87,176.36,845939.43,33332.04,246196.01,1125467.48
+1950,Scarefear The Blade,Hartshill Ward,41.98,Angels' Adamant,331.00,1304.00,179.30,431624.00,59348.30,206208.37,697180.67
+3389,Fate Ivycaster,The Tower of Sabiesu the Awesome,4.40,Heavenly Dreamsilver Of The Night,44.00,1826.98,112.00,80387.12,4928.00,3412.60,88727.72
+4032,Emberfire,Barad Cune,26.00,Yellow Mistearth Copper,126.00,4575.58,-27.40,576523.08,-3452.40,148998.38,722069.06
+4852,Blazeflare The Cremator,The Khazahol Crags,-1.97,Devils' Falserot Silver,30.00,1668.51,182.71,50055.30,5481.30,-1110.73,54425.87
+6140,"Iran, Lord of Nightmares",The Shadow Downs,13.21,Unicorns' Fatal Magma Metal Of The Ocean,214.00,1792.04,392.70,383496.56,84037.80,60779.47,528313.83
+6450,Scarechain The Unspeakable,Noble's Village,27.50,Primal Adamant,186.00,4562.80,273.90,848680.80,50945.40,251895.34,1151521.54
+6888,Bolttrap,Dysley Stronghold,45.98,Poison Adamant,213.00,1151.38,58.58,245243.94,12477.54,118551.88,376273.36
+7229,Rouge Roguemist,The Flying Witch,11.45,Otherworldly Mirror Orichalcum,263.00,-247.00,478.50,-64961.00,125845.50,6697.30,67581.80
+8138,"Uriel, God of Fate",The Grey Plains,19.97,Heavenly Dreamsilver Of The Night,146.00,2009.68,112.00,293413.28,16352.00,61953.06,371718.34
+9990,"Penur, Lord of the Sea",The Citadel of Lord Greywulf,33.04,Djinni's Spectral Shadowlead Of Life,282.00,3705.90,325.62,1045063.80,91824.84,375173.25,1512061.89
+11481,"Melcha, Goddess of Thieves",The Barrow of Malefic Ages,17.91,Litches' Fatal Mithril Of The Past,136.00,1327.98,369.05,180605.28,50190.80,41543.29,272339.37
+11860,"Lenwenye, Goddess of Travel",Archring Borough,17.93,God-touched Greengem Platinum,111.00,1281.72,-39.60,142270.92,-4395.60,24817.56,162692.88
+13672,Shadow Gust,Arcanist's Farthing,3.00,Negative Mercury,259.00,4054.87,436.81,1050211.33,113133.79,34900.35,1198245.47
+14340,Gale Jackalguard,The Citadel of Lord Greywulf,33.04,Ghostly Soul Adamant,233.00,3222.96,229.53,750949.68,53480.49,265461.96,1069892.13
+15093,Snowflame The Evil,The Greedy Wench,32.70,Primordial Mud Orichalcum,331.00,-387.90,85.11,-128394.90,28171.41,-33073.75,-133297.24
+15967,Spikesnare,The Bastion of Gothmog of Udun,54.84,Swordbronze,147.00,1485.01,447.01,218296.47,65710.47,156203.82,440210.76
+16652,Lance Knightseraph,The Fortress of Gama,10.16,Fleshshock Mercury,199.00,4858.70,338.07,966881.30,67275.93,103415.72,1137572.95
+18117,Bane Veil,North Arcanist's Farthing,55.18,Goddesses' Spectral Poison Steel,344.00,4566.53,296.81,1570886.32,102102.64,920143.93,2593132.89
+18170,Fate Seeker,The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,220.00,-17.00,276.00,-3740.00,60720.00,25071.20,82051.20
+18642,Spiketerror The Skeletal,The Tomb of Hellish Ruin,16.94,Primal Adamant,264.00,5520.99,331.42,1457541.36,87494.88,262656.16,1807692.40
+18668,Chainhorror,South Brightcrown Borough,42.25,Sphinxes' Opalpearl Platinum Of Legend,170.00,5805.82,390.81,986989.40,66437.70,442439.38,1495866.48
+18690,Maverick Wind,The Tower of Aces the Accursed,13.31,Nymphs' Luminous Rotmercury Of The Skies,199.00,292.60,207.90,58227.40,41372.10,12947.94,112547.44
+20560,"Alik, Goddess of Trickery",Barad Kesa,5.23,Vampires' Fang Emeraldsilver,77.00,3343.22,455.55,257427.94,35077.35,14625.26,307130.55
+21061,Snaretool The Constructed,Archtemple District,27.76,Tritons' Time Stoneiron Of Legend,179.00,2129.60,224.81,381198.40,40240.99,118003.03,539442.42
+22192,Snarepiston The Mechanical,Barad Kesa,5.23,Starlight Pearldream Bronze,232.00,354.31,147.40,82199.92,34196.80,5819.84,122216.56

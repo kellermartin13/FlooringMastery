@@ -1,0 +1,12 @@
+187,Gladys "Locoweed" Keller,NM,2.00,Reeds,149.00,0.75,2.00,111.75,298.00,8.20,417.95
+1050,Julia "Bandit" Chandler,AL,1.00,Pinecones,232.00,1.50,2.00,348.00,464.00,8.12,820.12
+4310,Cathy "Loner Demon" Murray,NV,0.25,Solid Oak,177.00,5.50,5.00,973.50,885.00,0.00,1858.50
+6150,Betty "Happy Thinker" Watson,KS,0.50,Cedar Planks,199.00,2.20,5.50,437.80,1094.50,0.00,1532.30
+6373,Vicki "Mesa" Rhodes,AR,2.20,Pebbles,42.00,0.80,4.84,33.60,203.28,4.74,241.62
+8898,Tammy Carlson "the Killer",TX,0.50,Solid Oak,105.00,5.50,5.50,577.50,577.50,0.00,1155.00
+10762,Friendly Howell,AR,2.20,Dirt,182.00,0.50,1.00,91.00,182.00,5.46,278.46
+12187,Jo "the Joker",WY,0.31,Beechwood,155.00,3.30,5.50,511.50,852.50,0.00,1364.00
+13577,Vicki "Mesa" Rhodes,ND,1.38,Reeds,209.00,0.75,2.20,156.75,459.80,6.17,622.72
+15314,Darlene "Loner" Ford,ID,0.00,Dirt,216.00,0.50,1.00,108.00,216.00,0.00,324.00
+15525,Dorothy "the Hunter",ID,0.00,Packed Dirt,286.00,1.10,2.20,314.60,629.20,0.00,943.80
+18912,Betty "Happy Thinker" Watson,ND,1.67,Leather,251.00,11.00,19.97,2761.00,5012.47,155.47,7928.94

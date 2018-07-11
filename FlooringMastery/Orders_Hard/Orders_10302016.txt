@@ -1,0 +1,13 @@
+1473,Burnchill The Evil,The Pilgrim's Cup,41.93,Starlight Pearldream Bronze,372.00,242.00,134.00,90024.00,49848.00,58746.24,198618.24
+1717,Wheelbolt The Machine,Archtemple District,27.76,Ensorceled Sandmetal Of Spirits,102.00,2956.98,87.00,301611.96,8874.00,86936.07,397422.03
+1840,Fate Ivycaster,The Tomb of Hellish Ruin,14.00,Violetdream Iron,151.00,1224.69,349.36,184928.19,52753.36,33275.42,270956.97
+4699,Law Lionwatcher,Tradun Castle,34.24,Planar Rainfate Mithril,156.00,1185.84,320.52,184991.04,50001.12,79897.33,314889.49
+5597,Deathbrood,The Vaults of the Shadow Emperor,30.00,Greenlead,130.00,793.10,148.47,103103.00,19301.10,36721.23,159125.33
+6068,Blazefreeze The Chiller,The Cracked Chalice,2.29,Trolls' Mist Poisonplatinum Of The Twilight,364.00,516.17,394.90,187885.88,143743.60,6632.59,338262.07
+10424,Seraph Jester,The Chuallanto Jungle,37.00,Sphinxes' Mistsoul Bronze Of The Past,158.00,2169.81,202.07,342829.98,31927.06,138660.10,513417.14
+10837,"Eumyan, Goddess of Law",Fellfen Keep,46.23,Tin Of The Tundra,78.00,2839.87,174.91,221509.86,13642.98,108170.31,343323.15
+11367,Rose Anchor,Eved Castle,5.09,Mana-touched Greenglitter Gold Of Giants,192.00,1173.98,467.50,225404.16,89760.00,15758.21,330922.37
+14492,Boltcrank The Trapper,The Archer and Blade,9.90,Phantasmal Tin Of The Swamps,125.00,4929.54,-7.26,616192.50,-907.50,61528.50,676813.50
+15156,Evilbrood,The Forsaken Sepulcher of Sorrows,53.67,Violetdream Iron,219.00,1224.69,349.36,268207.11,76509.84,186147.15,530864.10
+15304,Shadow Gust,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,226.00,4076.49,325.62,921286.74,73590.12,49743.84,1044620.70
+21255,Nettool The Grasping,Peley Keep,26.33,Angels' Smoke Adamant Of The Mountains,241.00,3427.13,260.15,825938.33,62696.15,231044.96,1119679.44

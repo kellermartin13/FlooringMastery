@@ -1,0 +1,21 @@
+248,Dagger Reaper,The Demon and Toad,23.75,Unholy Poison Copper Of The Mountains,77.00,528.10,-9.24,40663.70,-711.48,9588.53,49540.75
+257,"Selik, God of Death",The Citadel of Cheno,5.00,Green Dustlightning Mercury,164.00,3517.00,32.00,576788.00,5248.00,29101.80,611137.80
+376,Slayer Claw,The Citadel of Cheno,5.00,Unspeakable Rotsoul Mithril Of Souls,219.00,248.00,401.53,54312.00,87935.07,7112.35,149359.42
+2001,Cinderember,Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,231.00,4343.00,26.40,1003233.00,6098.40,252332.85,1261664.25
+3458,Chillfire The Chiller,The Dismal Marsh,5.00,Unknowable Mindsilver,208.00,3565.00,366.00,741520.00,76128.00,40882.40,858530.40
+3923,Cult Godseeker,Barad Kesa,4.32,Ensorceled Sandmetal Of Spirits,236.00,2956.98,87.00,697847.28,20532.00,28735.17,747114.45
+4427,Burnchill The Evil,Fellfen Keep,42.03,Phantasmal Lead,228.00,-457.00,245.47,-104196.00,55967.16,-20256.11,-68484.95
+4791,Emberspawn,The Khazahol Crags,-1.97,Zephyr Adamant,333.00,4224.00,102.93,1406592.00,34275.69,-28817.35,1412050.34
+5367,Flora Amberslayer,The Broken Arrow,30.07,Rot Silver Of The Past,242.00,3440.00,327.00,832480.00,79134.00,273484.20,1185098.20
+7171,Wind Dire,Kada's Deep,33.00,Ghostly Soul Adamant,175.00,3222.96,229.53,564018.00,40167.75,199381.30,803567.05
+7347,Graveterror,The Forsaken Delve of Lord Greywulf,39.00,Phantasmal Tin Of The Swamps,285.00,4074.00,-6.60,1161090.00,-1881.00,452091.51,1611300.51
+7493,Sephiroth Drakecaster,Pawic Keep,0.56,Shadowy Adamant,271.00,618.93,478.58,167730.03,129695.18,2974.25,300399.46
+8465,Lord Mystery,The Black Barrow of Bery,-0.07,Glowpearl Adamant Of Spirits,107.00,398.09,374.00,42595.63,40018.00,0.00,82613.63
+10762,"Zepul, Lady of Vengeance",The Shadow Downs,13.21,Succubi's Evil Mindzephyr Adamant Of The Desert,216.00,2189.18,250.07,472862.88,54015.12,68494.14,595372.14
+12550,Lightning Brand,The Dismal Marsh,6.05,God-touched Faterainbow Orichalcum Of Spectres,264.00,370.41,32.01,97788.24,8450.64,6374.33,112613.21
+13761,Chillfire The Chiller,The Dark Caverns of Woe,3.29,Plague Tin,203.00,4767.02,342.10,967705.06,69446.30,31114.54,1068265.90
+14079,Dawn Darkzealot,The Bastion of the Lich Tyrant,43.00,Phantasmal Lead,250.00,-552.97,245.47,-138242.50,61367.50,-33056.25,-109931.25
+18643,Blazeflare The Cremator,Mahyrst Keep,30.42,Hidden Shadowice Lead,339.00,2729.00,-62.23,925131.00,-21095.97,271210.51,1175245.54
+20756,Metalbrood,Waleah Castle,0.85,Rocklava Mithril Of Revenants,316.00,2200.14,15.76,695244.24,4980.16,7002.24,707226.64
+22092,Sephiroth Drakecaster,The Fortress of Akkun the Grim,-2.42,Poison Adamant,198.00,1266.52,70.88,250770.96,14034.24,-5296.10,259509.10
+22232,Sunrise Godwarlock,Waleah Castle,0.85,Fairies' Supreme Mistsmoke Lead Of The Future,334.00,3349.50,324.73,1118733.00,108459.82,12271.93,1239464.75

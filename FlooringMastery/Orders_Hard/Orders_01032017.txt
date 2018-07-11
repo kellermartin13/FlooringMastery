@@ -1,0 +1,17 @@
+1310,Bane Veil,The Dungeon of Merciless Woe,38.62,Hidden Shadowice Lead,252.00,2729.00,-46.75,687708.00,-11781.00,263611.53,939538.53
+2802,"Melcha, Goddess of Thieves",The Khazahol Crags,-1.97,Hell Mercury Of The East,254.00,4636.34,284.60,1177630.36,72288.40,-24998.38,1224920.38
+4573,"Lenwenye, Goddess of Travel",Peley Keep,19.78,Pearl Mirrorice Steel Of Changelings,109.00,271.51,34.61,29594.59,3772.49,6673.42,40040.50
+7444,"Ahah, Goddess of Knowledge",The Desert of Flames,47.19,Golems' Stonesapphire Gold Of The Glacier,280.00,3672.77,105.97,1028375.60,29671.60,497282.18,1555329.38
+7543,Sunset Knightclaw,The Dancing Minstrel,21.20,Golems' Stonesapphire Gold Of The Glacier,135.00,3672.77,105.97,495823.95,14305.95,107127.28,617257.18
+7771,Spikebrood The Disinterred,Minas Gilloy,39.26,Heavenly Dreamsilver Of The Night,120.00,2009.68,112.00,241161.60,13440.00,99294.62,353896.22
+7773,Rouge Roguemist,The Tower of Aces the Accursed,13.31,Toxin Iceplatinum Of The Undead,267.00,-342.78,-53.90,-91522.26,-14391.30,-13768.76,-119682.32
+9138,Flameshiver,The Beggar and Cask,23.10,Primal Adamant,159.00,5019.08,301.29,798033.72,47905.11,194565.93,1040504.76
+12175,"Penur, Lord of the Sea",Gena's Hold,2.66,Angels' Adamant,244.00,1304.00,179.30,318176.00,43749.20,10857.76,372782.96
+13756,Song Runetomb,Archfane District,32.87,Violetstone Tin Of Death,281.00,2469.75,171.71,693999.75,48250.51,244942.59,987192.85
+13983,Mecharig The Living Device,The Bastion of Gothmog of Udun,54.84,Spectres' Shadowy Terrorglow Adamant Of Life,66.00,5164.28,248.66,340842.48,16411.56,196489.72,553743.76
+14734,"Sielach, God of Fate",The Citadel of Alammius,3.50,Unknown Fatelightning Steel Of The Glacier,136.00,2441.05,65.68,331982.80,8932.48,13636.61,354551.89
+14841,Shadow Gust,Gena's Hold,2.66,Muck Orichalcum Of Ogres,134.00,3769.54,401.45,505118.36,53794.30,16767.38,575680.04
+16296,Scarechain The Unspeakable,Peley Keep,26.33,Thunderbirds' Transcendent Dreamiron,215.00,2275.25,237.70,489178.75,51105.50,140473.90,680758.15
+18368,Spikecrank,The Hunter and Rose,44.44,Trolls' Mist Poisonplatinum Of The Twilight,300.00,567.79,434.39,170337.00,130317.00,132287.76,432941.76
+19299,"Finarfin, God of Protection",The Pilgrim's Cup,46.12,Mana-touched Greenglitter Gold Of Giants,312.00,1291.38,514.25,402910.56,160446.00,259144.02,822500.58
+22431,Steelterror The Blade,The Cuitamba Jungle,33.88,Toxin Iceplatinum Of The Undead,231.00,-377.06,-59.29,-87100.86,-13695.99,-34270.93,-135067.78

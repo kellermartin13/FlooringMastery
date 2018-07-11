@@ -1,0 +1,11 @@
+2083,Deborah "the Lady",ND,1.25,Packed Dirt,153.00,1.00,1.50,153.00,229.50,3.82,386.32
+5709,Victoria "the Dancer",UT,0.00,Pebbles,115.00,0.80,4.40,92.00,506.00,0.00,598.00
+8274,Renee "Loco Tracker" Jordan,OK,2.20,Pebbles,339.00,0.88,4.84,298.32,1640.76,38.78,1977.86
+10061,Kathy Murphy "the Thinker",AL,1.00,Solid Oak,228.00,5.50,5.50,1254.00,1254.00,25.08,2533.08
+11637,Marie "Raven" Chapman,CA,0.61,Reeds,330.00,0.75,2.20,247.50,726.00,9.74,983.24
+12332,Theresa "Scalphunter" Romero,IA,1.21,Brick,121.00,4.84,6.66,585.64,805.86,13.92,1405.42
+12684,Vengeful Montgomery,WY,0.31,Pebbles,112.00,0.88,4.84,98.56,542.08,0.00,640.64
+17061,Marie "Raven" Chapman,MO,2.20,Packed Dirt,302.00,1.10,2.20,332.20,664.40,19.93,1016.53
+18108,Surgeon Grant,MT,3.99,Cedar Planks,176.00,2.20,6.66,387.20,1172.16,62.37,1621.73
+22272,Gloria "Devil" McCoy,OK,2.93,Pebbles,73.00,0.88,4.84,64.24,353.32,12.53,430.09
+22529,Betty "Happy Thinker" Watson,AR,2.20,Brick,292.00,5.32,6.66,1553.44,1944.72,69.96,3568.12

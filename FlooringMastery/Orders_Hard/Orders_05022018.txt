@@ -1,0 +1,11 @@
+4853,Magus Felldrake,Tradun Castle,34.24,Venom Timegold Of Dwarves,50.00,3036.00,269.00,151800.00,13450.00,56185.00,221435.00
+5104,Claw Mist,Eved Castle,5.09,Ghouls' Imperial Soulzephyr Mithril Of The Seas,119.00,4123.68,122.49,490717.92,14576.31,25264.71,530558.94
+6179,"Nelalwe, Lady of Fire",The Bastion of the Lich Tyrant,43.00,Primordial Plague Mercury Of Legend,150.00,373.79,273.90,56068.50,41085.00,41776.00,138929.50
+8788,"Azah, Goddess of Fate",The Bastion of the Vampire Duke,19.28,Djinni's Evil Sandobsidian Steel Of The Future,191.00,3826.00,157.07,730766.00,30000.37,144545.61,905311.98
+9787,Spikecrank,Lamp Borough,4.95,Unicorns' Fatal Magma Metal Of The Ocean,204.00,1792.04,392.70,365576.16,80110.80,22284.35,467971.31
+9995,Steelterror The Blade,The Dungeon of Dismal Terror,-3.50,Mithril Of Legend,244.00,2274.80,63.01,555051.20,15374.44,-22817.03,547608.61
+11618,Law Lionwatcher,Archring Borough,17.93,Pearl Mirrorice Steel Of Changelings,231.00,271.51,38.07,62718.81,8794.17,12872.34,84385.32
+13826,Snowflame The Evil,Grove Farthing,19.80,Spectres' Shadowy Terrorglow Adamant Of Life,159.00,5164.28,248.66,821120.52,39536.94,172131.49,1032788.95
+15446,Evilfear The Horrorific,Cawold Castle,24.09,Plague Tin,77.00,4767.02,342.10,367060.54,26341.70,94416.54,487818.78
+17823,Tiger Mistmidnight,North Arcanist's Farthing,55.18,Ensorceled Gold Of The Dawn,312.00,6913.92,443.21,2157143.04,138281.52,1262483.51,3557908.07
+19154,Clash Lonedrake,The Secret Shrine of the Gargoyle Count,-2.00,Mana-touched Greenglitter Gold Of Giants,258.00,1291.38,514.25,333176.04,132676.50,-9317.05,456535.49

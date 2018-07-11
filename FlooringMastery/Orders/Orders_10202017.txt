@@ -1,0 +1,26 @@
+1468,Geraldine "Revenge" Warren,ID,0.00,Cedar Planks,168.00,2.00,5.00,336.00,840.00,0.00,1176.00
+1579,Vanessa "Scalper" Rhodes,MT,3.00,Cedar Planks,200.00,2.00,5.00,400.00,1000.00,42.00,1442.00
+4493,Darlene "Loner" Ford,ND,1.25,Pinecones,245.00,1.50,2.42,367.50,592.90,9.60,970.00
+7983,Vengeful Montgomery,KS,0.50,Beechwood,230.00,3.00,5.50,690.00,1265.00,0.00,1955.00
+8847,Theresa "Kid" Robinson,AL,1.00,Solid Oak,362.00,5.50,5.50,1991.00,1991.00,39.82,4021.82
+9009,Amanda Hart "the Loner",UT,0.00,Beechwood,247.00,3.00,5.50,741.00,1358.50,0.00,2099.50
+11421,Florence "Leather Doc" Grant,NV,0.31,Dirt,303.00,0.50,1.00,151.50,303.00,0.00,454.50
+12419,Lena Chapman "the Bully",ID,0.00,Pebbles,124.00,0.88,4.84,109.12,600.16,0.00,709.28
+12740,Lucky Johnson,NM,2.42,Leather,63.00,11.00,18.15,693.00,1143.45,36.73,1873.18
+14060,Black Beck,AL,1.00,Dirt,121.00,0.50,1.00,60.50,121.00,1.82,183.32
+15895,Jacqueline "Riding Doc" Washington,IA,1.21,Cedar Planks,236.00,2.20,6.05,519.20,1427.80,19.47,1966.47
+16731,Debra "Scorpion" Lane,UT,0.00,Reeds,216.00,0.83,2.20,179.28,475.20,0.00,654.48
+16976,Mabel "Vixen Cursed" King,WY,0.31,Pinecones,194.00,1.50,2.66,291.00,516.04,0.00,807.04
+17289,Dorothy "the Hunter",AL,1.00,Packed Dirt,278.00,1.10,2.20,305.80,611.60,9.17,926.57
+17604,Minnie Lawson "the Apostle",ID,0.00,Cedar Planks,136.00,2.20,6.66,299.20,905.76,0.00,1204.96
+17762,Stella "the Bully",IA,1.21,Pinecones,64.00,1.50,2.66,96.00,170.24,2.66,268.90
+18866,Diana "Mistress" Morgan,CA,0.61,Beechwood,284.00,3.63,5.50,1030.92,1562.00,25.93,2618.85
+19100,Theresa "Scalphunter" Romero,TX,0.67,Pinecones,177.00,1.50,2.66,265.50,470.82,7.36,743.68
+19809,Julia "Bandit" Chandler,MO,2.20,Pinecones,302.00,1.50,2.66,453.00,803.32,25.13,1281.45
+20081,Theresa "Kid" Robinson,AL,1.00,Pinecones,110.00,1.50,2.66,165.00,292.60,4.58,462.18
+20520,Kathy Murphy "the Thinker",KS,0.55,Pinecones,34.00,1.50,2.66,51.00,90.44,1.41,142.85
+20625,Lucky Johnson,IA,1.33,Pinecones,206.00,1.50,2.66,309.00,547.96,8.57,865.53
+20681,Vengeful Robertson,AR,2.20,Leather,104.00,11.00,19.97,1144.00,2076.88,64.42,3285.30
+22714,Beth "Fortunate Shooter" Powell,IA,1.33,Pinecones,110.00,1.50,2.93,165.00,322.30,4.87,492.17
+22860,Elizabeth "the Bully",TX,0.67,Pebbles,344.00,0.88,5.32,302.72,1830.08,21.33,2154.13
+23345,Michele Watson "the Loner",OK,2.93,Brick,270.00,5.32,6.66,1436.40,1798.20,97.04,3331.64

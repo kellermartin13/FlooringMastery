@@ -1,0 +1,13 @@
+311,Dorothy "the Hunter",UT,0.00,Dirt,58.00,0.50,1.00,29.00,58.00,0.00,87.00
+395,Helen Webb "the Dancer",KS,0.50,Pebbles,145.00,0.80,4.00,116.00,580.00,0.00,696.00
+3266,Marie "Raven" Chapman,CA,0.55,Packed Dirt,257.00,1.00,1.50,257.00,385.50,6.42,648.92
+3679,Tina "Lady" Anderson,CA,0.55,Leather,159.00,10.00,16.50,1590.00,2623.50,42.14,4255.64
+4625,Amanda Hart "the Loner",ID,0.00,Pinecones,181.00,1.50,2.42,271.50,438.02,0.00,709.52
+5151,Darlene "Loner" Ford,NM,2.20,Packed Dirt,125.00,1.00,1.50,125.00,187.50,6.25,318.75
+7405,Jacqueline "Riding Doc" Washington,ID,0.00,Solid Oak,222.00,5.50,5.50,1221.00,1221.00,0.00,2442.00
+10663,Dorothy "the Hunter",MO,2.20,Dirt,194.00,0.50,1.00,97.00,194.00,5.82,296.82
+15053,Marie "Raven" Chapman,TX,0.67,Solid Oak,313.00,5.50,5.50,1721.50,1721.50,34.43,3477.43
+15943,Ida Russell "the Rustler",ID,0.00,Pinecones,233.00,1.50,2.66,349.50,619.78,0.00,969.28
+17613,Evelyn "Evil Joker" Taylor,TX,0.67,Beechwood,231.00,3.63,5.50,838.53,1270.50,21.09,2130.12
+20527,Florence "Leather Doc" Grant,OK,2.66,Packed Dirt,210.00,1.10,2.42,231.00,508.20,22.18,761.38
+23274,Kathy Murphy "the Thinker",CA,0.67,Leather,258.00,11.00,19.97,2838.00,5152.26,79.90,8070.16

@@ -1,0 +1,12 @@
+2321,Victoria "the Dancer",MO,2.20,Cedar Planks,152.00,2.00,5.50,304.00,836.00,22.80,1162.80
+2655,Helen Webb "the Dancer",TX,0.50,Solid Oak,323.00,5.50,5.00,1776.50,1615.00,0.00,3391.50
+2713,Amanda Hart "the Loner",AR,2.20,Pinecones,242.00,1.50,2.20,363.00,532.40,17.91,913.31
+4289,"Doom" McCoy,NV,0.25,Pinecones,58.00,1.50,2.42,87.00,140.36,0.00,227.36
+5801,Ida Russell "the Rustler",AL,1.00,Leather,171.00,10.00,18.15,1710.00,3103.65,48.14,4861.79
+5986,Julia "Bandit" Chandler,AR,2.20,Packed Dirt,85.00,1.00,1.50,85.00,127.50,4.25,216.75
+8153,Darlene "Loner" Ford,ND,1.25,Cedar Planks,260.00,2.20,6.05,572.00,1573.00,21.45,2166.45
+13217,"Bane" Jennings,TX,0.67,Dirt,254.00,0.50,1.00,127.00,254.00,3.81,384.81
+13739,Tammy Carlson "the Killer",CA,0.61,Pinecones,208.00,1.50,2.66,312.00,553.28,8.65,873.93
+16650,Jo "the Joker",ND,1.38,Pebbles,232.00,0.88,4.84,204.16,1122.88,13.27,1340.31
+20891,Surgeon Grant,ID,0.00,Reeds,23.00,0.83,2.20,19.09,50.60,0.00,69.69
+22154,Mabel "Vixen Cursed" King,WY,0.31,Pinecones,102.00,1.50,2.66,153.00,271.32,0.00,424.32

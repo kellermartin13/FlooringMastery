@@ -1,0 +1,26 @@
+1005,Gladys "Locoweed" Keller,TX,0.50,Brick,228.00,4.00,5.00,912.00,1140.00,0.00,2052.00
+1171,Cynthia "the Vixen",AL,1.00,Beechwood,134.00,3.00,5.00,402.00,670.00,10.72,1082.72
+1935,Debra "Scorpion" Lane,UT,0.00,Dirt,250.00,0.50,1.00,125.00,250.00,0.00,375.00
+3077,Elizabeth "the Bully",OK,2.00,Solid Oak,134.00,5.50,5.00,737.00,670.00,28.14,1435.14
+5276,Joanne "Damned" Miles,AL,1.00,Beechwood,68.00,3.00,5.00,204.00,340.00,5.44,549.44
+5279,Susan "Damnation" Fleming,KS,0.50,Reeds,210.00,0.75,2.20,157.50,462.00,0.00,619.50
+7773,Dorothy "the Hunter",TX,0.50,Cedar Planks,290.00,2.20,6.05,638.00,1754.50,0.00,2392.50
+8751,Dorothy "the Hunter",WY,0.31,Brick,162.00,4.84,6.66,784.08,1078.92,0.00,1863.00
+9317,Darlene "Loner" Ford,ID,0.00,Pebbles,230.00,0.88,4.84,202.40,1113.20,0.00,1315.60
+9399,Evelyn "Evil Joker" Taylor,IA,1.21,Packed Dirt,65.00,1.00,1.50,65.00,97.50,1.62,164.12
+9690,Renee "Hellish Empress" Banks,IA,1.21,Brick,249.00,4.84,6.66,1205.16,1658.34,28.64,2892.14
+9786,Wilma "Tornado" Brooks,IA,1.21,Dirt,268.00,0.50,1.00,134.00,268.00,4.02,406.02
+10217,Vanessa "Scalper" Rhodes,NV,0.31,Leather,164.00,10.00,18.15,1640.00,2976.60,0.00,4616.60
+12245,Susan "Damnation" Fleming,WY,0.31,Dirt,347.00,0.50,1.00,173.50,347.00,0.00,520.50
+13746,"Scalphunter" Kennedy,AL,1.00,Packed Dirt,62.00,1.00,2.00,62.00,124.00,1.86,187.86
+14178,Heather "Tornado" Newman,TX,0.67,Solid Oak,145.00,5.50,5.50,797.50,797.50,15.95,1610.95
+14422,Allison "Steel Gravedigger" Douglas,AR,2.20,Cedar Planks,134.00,2.20,6.05,294.80,810.70,22.11,1127.61
+14602,Mattie Grant "the Gambler",AL,1.00,Leather,312.00,11.00,18.15,3432.00,5662.80,90.95,9185.75
+14682,Mattie Grant "the Gambler",TX,0.67,Reeds,192.00,0.75,2.20,144.00,422.40,5.66,572.06
+15854,Victoria "the Dancer",MO,2.20,Packed Dirt,237.00,1.10,2.20,260.70,521.40,15.64,797.74
+17393,"Bane" Jennings,MT,3.99,Pinecones,83.00,1.50,2.66,124.50,220.78,13.81,359.09
+19874,"Bane" Jennings,OK,2.42,Reeds,102.00,0.83,2.20,84.66,224.40,6.18,315.24
+20038,Geraldine "Revenge" Warren,KS,0.55,Cedar Planks,271.00,2.20,6.66,596.20,1804.86,24.01,2425.07
+21460,"Scalphunter" Kennedy,ND,1.67,Solid Oak,274.00,5.50,6.66,1507.00,1824.84,66.64,3398.48
+21562,"Sunrise" Miles,NM,2.93,Pinecones,84.00,1.50,2.66,126.00,223.44,10.48,359.92
+21754,Allison "Steel Gravedigger" Douglas,CA,0.67,Reeds,304.00,0.83,2.20,252.32,668.80,9.21,930.33

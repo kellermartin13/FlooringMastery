@@ -1,0 +1,15 @@
+76,Elizabeth "the Bully",CA,0.50,Brick,141.00,4.00,5.00,564.00,705.00,0.00,1269.00
+974,Debra "Scorpion" Lane,CA,0.50,Pebbles,230.00,0.80,4.00,184.00,920.00,0.00,1104.00
+1640,Deborah "the Lady",MO,2.20,Dirt,167.00,0.50,1.00,83.50,167.00,5.01,255.51
+2817,Wilma "Tornado" Brooks,WY,0.28,Reeds,207.00,0.75,2.00,155.25,414.00,0.00,569.25
+3872,Tina "Lady" Anderson,ND,1.25,Beechwood,189.00,3.00,5.00,567.00,945.00,15.12,1527.12
+5391,Mabel "Vixen Cursed" King,OK,2.00,Pebbles,82.00,0.80,4.40,65.60,360.80,8.53,434.93
+15235,Mattie Grant "the Gambler",NV,0.31,Solid Oak,94.00,5.50,5.50,517.00,517.00,0.00,1034.00
+15482,"Scalphunter" Kennedy,MT,3.99,Packed Dirt,269.00,1.10,2.20,295.90,591.80,35.51,923.21
+15844,Wilma "Tornado" Brooks,NM,2.66,Packed Dirt,148.00,1.10,2.20,162.80,325.60,14.65,503.05
+15948,April "Thunderbird" Dunn,AL,1.00,Reeds,218.00,0.83,2.20,180.94,479.60,6.61,667.15
+16081,Renee "Loco Tracker" Jordan,TX,0.67,Solid Oak,114.00,5.50,6.05,627.00,689.70,13.17,1329.87
+21277,Dorothy "the Hunter",MO,2.20,Brick,158.00,5.32,6.66,840.56,1052.28,37.86,1930.70
+21996,Ida Russell "the Rustler",KS,0.55,Pinecones,269.00,1.50,2.66,403.50,715.54,11.19,1130.23
+22158,Elizabeth "the Bully",ND,1.67,Reeds,143.00,0.83,2.20,118.69,314.60,8.67,441.96
+22488,Black Beck,AL,1.00,Solid Oak,250.00,5.50,6.66,1375.00,1665.00,30.40,3070.40

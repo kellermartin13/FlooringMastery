@@ -1,0 +1,13 @@
+1998,"Alik, Goddess of Trickery",Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,192.00,4343.00,26.40,833856.00,5068.80,209731.20,1048656.00
+2788,Song Runetomb,Boiaburh Keep,16.00,Heavenly Dreamsilver Of The Night,178.00,1826.98,112.00,325202.44,19936.00,55222.15,400360.59
+7664,Metalbrood,Barad Kesa,4.32,Meteoric Mirrormuck Orichalcum Of The Forests,271.00,2158.20,185.77,584872.20,50343.67,25408.63,660624.50
+8917,Rouge Roguemist,The Citadel of Tattena the Sinister,12.13,Primordial Plague Mercury Of Legend,175.00,452.29,301.29,79150.75,52725.75,15825.18,147701.68
+9768,Evilbrood,Unicorn's Ward,14.64,Emerald Orichalcum,275.00,-368.87,128.90,-101439.25,35447.50,-9898.76,-75890.51
+10567,Storm Seraphheart,The Citadel of Lord Greywulf,33.04,Shadowhell Mithril,262.00,439.23,286.41,115078.26,75039.42,62738.83,252856.51
+10580,Fate Seeker,Barad Cune,28.60,Icy Shock Silver,75.00,1482.98,407.00,111223.50,30525.00,41107.06,182855.56
+13125,"Zepul, Lady of Vengeance",Lordsgate Farthing,45.25,Sapphire Mindlead,263.00,1307.71,47.00,343927.73,12361.00,160329.93,516618.66
+13624,Ironbrood,The Fortress of Asmamur,-4.48,Green Dustlightning Mercury,223.00,3868.70,35.20,862720.10,7849.60,-34822.79,835746.91
+15922,Sephiroth Drakecaster,Fellfen Keep,61.53,Thunderbirds' Transcendent Dreamiron,343.00,2275.25,237.70,780410.75,81531.10,534403.95,1396345.80
+16408,Seraphim Tsunami,Peley Keep,26.33,Angels' Smoke Adamant Of The Mountains,171.00,3427.13,236.50,586039.23,40441.50,162884.99,789365.72
+16732,Wheelspawn,Boiaburh Keep,16.00,Shadowhell Mithril,219.00,483.15,315.05,105809.85,68995.95,27968.93,202774.73
+19996,Rouge Roguemist,Tower Farthing,27.12,Primordial False Gold,128.00,5395.80,248.60,690662.40,31820.80,195070.46,917553.66

@@ -1,0 +1,16 @@
+1782,"Prusu, God of Love",Haukri's Hold,25.30,Djinni's Evil Sandobsidian Steel Of The Future,41.00,3826.00,157.07,156866.00,6439.87,40826.47,204132.34
+4499,"Gadriel, God of Resurrection",The Fen of the Necromancer,45.10,Negative Rockglitter Mercury Of Trolls,252.00,1483.90,423.07,373942.80,106613.64,216250.40,696806.84
+6709,Springsprocket,The Tower of the Demon Warlord,15.75,Thunderbirds' Transcendent Dreamiron,359.00,2275.25,237.70,816814.75,85334.30,144343.85,1046492.90
+6983,Storm Seraphheart,Kada's Deep,33.00,Djinni's Mind Fogiron,366.00,2301.02,74.02,842173.32,27091.32,286857.33,1156121.97
+7064,"Eumyan, Goddess of Law",The Flying Witch,11.45,Otherworldly Mirror Orichalcum,189.00,-247.00,478.50,-46683.00,90436.50,4812.88,48566.38
+7956,"Iran, Lord of Nightmares",The Dungeon of Dismal Terror,-3.50,Fairies' Supreme Mistsmoke Lead Of The Future,217.00,3349.50,324.73,726841.50,70466.41,-31892.32,765415.59
+8546,Rouge Tombreaper,Tradun Castle,34.24,Planar Obsidian Mercury Of Wizards,115.00,2574.00,141.57,296010.00,16280.55,106178.79,418469.34
+9373,Steelterror The Blade,Fellfen Keep,46.23,Spirits' Living Wordhammer Tin Of The Trees,109.00,4777.30,26.40,520725.70,2877.60,240857.52,764460.82
+10919,Beamsprocket The Grasping,The Forsaken Sepulcher of Sorrows,48.79,Emerald Orichalcum,274.00,-368.87,128.90,-101070.38,35318.60,-32218.37,-97970.15
+11630,"Selik, God of Death",South Brightcrown Borough,42.25,Magic Adamant,187.00,1838.00,228.40,343706.00,42710.80,162295.06,548711.86
+12649,Seraph Jester,The Hunter and Rose,40.40,Primordial Plague Mercury Of Legend,224.00,452.29,301.29,101312.96,67488.96,67520.77,236322.69
+12979,Emberfire,The Desert of Flames,51.91,Imperial Fate Steel,274.00,2993.93,-44.92,820336.82,-12308.08,420174.94,1228203.68
+18284,Sephiroth Drakecaster,Grori's Deep,66.50,God-touched Faterainbow Orichalcum Of Spectres,216.00,370.41,32.01,80008.56,6914.16,57369.00,144291.72
+18436,Snaretool The Constructed,South Brightcrown Borough,42.25,Goddesses' Spectral Poison Steel,123.00,5023.18,296.81,617851.14,36507.63,274830.68,929189.45
+20059,Flora Amberslayer,The Warrior and Flagon,53.24,Rainbowglitter Tin,145.00,5957.39,213.40,863821.55,30943.00,474225.21,1368989.76
+20802,Evilfear The Horrorific,Waleah Castle,0.85,Yellow Mistearth Copper,89.00,5536.45,-33.15,492744.05,-2950.35,4897.94,494691.64

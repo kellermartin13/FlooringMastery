@@ -1,0 +1,20 @@
+2051,Surgeon Grant,ID,0.00,Leather,136.00,10.00,16.50,1360.00,2244.00,0.00,3604.00
+3600,Julia "Bandit" Chandler,ND,1.25,Cedar Planks,194.00,2.00,5.50,388.00,1067.00,14.55,1469.55
+3899,Heather "Tornado" Newman,CA,0.55,Pebbles,299.00,0.80,4.40,239.20,1315.60,15.55,1570.35
+4102,Susan "Damnation" Fleming,CA,0.55,Reeds,259.00,0.75,2.00,194.25,518.00,7.12,719.37
+5990,Heather "Friendly Gambler" Barrett,TX,0.50,Reeds,261.00,0.75,2.20,195.75,574.20,0.00,769.95
+7139,Helen Webb "the Dancer",OK,2.20,Solid Oak,45.00,5.50,5.50,247.50,247.50,9.90,504.90
+7149,Marie "Raven" Chapman,TX,0.50,Beechwood,198.00,3.00,5.00,594.00,990.00,0.00,1584.00
+7283,Marie "Raven" Chapman,NV,0.28,Dirt,130.00,0.50,1.00,65.00,130.00,0.00,195.00
+8202,Jo "the Joker",NV,0.31,Beechwood,257.00,3.00,5.50,771.00,1413.50,0.00,2184.50
+14784,Diana "Mistress" Morgan,CA,0.61,Solid Oak,198.00,5.50,5.50,1089.00,1089.00,21.78,2199.78
+15278,Minnie Lawson "the Apostle",ND,1.38,Reeds,188.00,0.83,2.20,156.04,413.60,5.70,575.34
+16439,"Sunrise" Miles,NM,2.66,Pinecones,275.00,1.50,2.66,412.50,731.50,34.32,1178.32
+16636,Evelyn "Evil Joker" Taylor,MT,3.99,Leather,134.00,11.00,19.97,1474.00,2675.98,166.00,4315.98
+16750,Joanne "Damned" Miles,NM,2.66,Brick,201.00,5.32,6.66,1069.32,1338.66,72.24,2480.22
+18069,Mabel "Vixen Cursed" King,CA,0.61,Pebbles,317.00,0.88,4.84,278.96,1534.28,18.13,1831.37
+18176,Lucky Johnson,MS,3.00,Pebbles,191.00,0.88,4.84,168.08,924.44,32.78,1125.30
+18607,Geraldine "Revenge" Warren,KS,0.55,Packed Dirt,214.00,1.10,2.20,235.40,470.80,7.06,713.26
+18937,Diana "Mistress" Morgan,ND,1.67,Reeds,155.00,0.83,2.20,128.65,341.00,9.39,479.04
+19470,Helen Webb "the Dancer",UT,0.00,Cedar Planks,219.00,2.20,6.66,481.80,1458.54,0.00,1940.34
+23151,Lorraine "Utah" Adams,IA,1.33,Solid Oak,279.00,5.50,6.66,1534.50,1858.14,33.93,3426.57

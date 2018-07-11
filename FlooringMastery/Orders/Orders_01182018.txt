@@ -1,0 +1,18 @@
+1546,Jacqueline "Riding Doc" Washington,UT,0.00,Leather,209.00,10.00,15.00,2090.00,3135.00,0.00,5225.00
+2679,Diana "Mistress" Morgan,NM,2.20,Reeds,277.00,0.75,2.00,207.75,554.00,15.24,776.99
+5062,Betty "Happy Thinker" Watson,MO,2.20,Pinecones,282.00,1.50,2.42,423.00,682.44,22.11,1127.55
+6037,Vicki "Mesa" Rhodes,TX,0.50,Packed Dirt,80.00,1.00,1.50,80.00,120.00,0.00,200.00
+7127,Deborah "the Lady",ID,0.00,Reeds,204.00,0.75,2.20,153.00,448.80,0.00,601.80
+8108,Debra "Scorpion" Lane,IA,1.21,Pebbles,232.00,0.80,4.84,185.60,1122.88,13.08,1321.56
+9192,Melissa "Lonesome Stalker" Riley,NV,0.31,Pebbles,64.00,0.88,4.84,56.32,309.76,0.00,366.08
+11064,Darlene "Loner" Ford,IA,1.21,Cedar Planks,197.00,2.20,6.05,433.40,1191.85,16.25,1641.50
+11226,Julia "Bandit" Chandler,AL,1.00,Solid Oak,355.00,5.50,5.50,1952.50,1952.50,39.05,3944.05
+11650,Kathy Murphy "the Thinker",NM,2.20,Pinecones,247.00,1.50,2.66,370.50,657.02,20.55,1048.07
+14645,Helen Webb "the Dancer",NV,0.31,Pinecones,181.00,1.50,2.66,271.50,481.46,0.00,752.96
+17459,Vanessa "Scalper" Rhodes,ND,1.52,Dirt,291.00,0.50,1.00,145.50,291.00,8.73,445.23
+17479,Cynthia "the Vixen",ND,1.52,Brick,147.00,5.32,6.66,782.04,979.02,35.22,1796.28
+18738,"Sunrise" Miles,ID,0.00,Solid Oak,279.00,5.50,6.66,1534.50,1858.14,0.00,3392.64
+18908,Betty "Happy Thinker" Watson,AL,1.00,Beechwood,193.00,3.63,5.50,700.59,1061.50,17.62,1779.71
+21819,Cathy "Loner Demon" Murray,NV,0.31,Pebbles,291.00,0.88,4.84,256.08,1408.44,0.00,1664.52
+23335,Vengeful Robertson,TX,0.67,Pinecones,134.00,1.50,2.93,201.00,392.62,5.94,599.56
+23391,Deborah "the Lady",MT,5.84,Leather,80.00,11.00,19.97,880.00,1597.60,148.66,2626.26

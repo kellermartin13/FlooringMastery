@@ -1,0 +1,16 @@
+374,Gravebone,The Bastion of Gothmog of Udun,37.45,Trolls' Mist Poisonplatinum Of The Twilight,167.00,516.17,394.90,86200.39,65948.30,56295.02,208443.71
+2776,Nettool The Grasping,The Bastion of the Lich Tyrant,43.00,Mana-touched Greenglitter Gold Of Giants,158.00,1173.98,425.00,185488.84,67150.00,108634.70,361273.54
+6048,Harmony Angelchild,The Citadel of Alammius,3.50,Fairies' Supreme Mistsmoke Lead Of The Future,197.00,3349.50,324.73,659851.50,63971.81,28952.93,752776.24
+8341,Song Runetomb,The Broken Arrow,30.07,Incubi's Iron Of The Dawn,238.00,1200.96,424.31,285828.48,100985.78,116044.28,502858.54
+9093,Spikesnare,Moor Village,57.42,Negative Rockglitter Mercury Of Trolls,353.00,1483.90,465.38,523816.70,164279.14,392214.63,1080310.47
+9808,Bane Veil,Unicorn's Ward,14.64,Emerald Orichalcum,288.00,-368.87,128.90,-106234.56,37123.20,-10366.70,-79478.06
+10952,Snarepiston The Mechanical,Gili's Delve,-5.56,Ghostly Soul Adamant,87.00,3222.96,229.53,280397.52,19969.11,-18022.00,282344.63
+11697,Fate Seeker,Unicorn's Ward,14.64,God-touched Greengem Platinum,281.00,1281.72,-39.60,360163.32,-11127.60,52355.36,401391.08
+16782,Springpulley The Binder,Lacot Stronghold,45.22,Forgotten Mithril,276.00,1104.73,347.60,304905.48,95937.60,180379.39,581222.47
+18670,Sunset Knightclaw,The Dark Caverns of Woe,3.29,Devils' Falserot Silver,164.00,2220.79,182.71,364209.56,29964.44,11825.22,405999.22
+20279,"Alik, Goddess of Trickery",Tower Farthing,27.12,Incubi's Iron Of The Dawn,78.00,1200.96,424.31,93674.88,33096.18,34228.19,160999.25
+20561,"Ariel, God of Luck",The Secret Catacombs of Ulfang the Black,42.90,Zephyr Adamant,293.00,4224.00,113.22,1237632.00,33173.46,546446.35,1817251.81
+21855,Sephiroth Drakecaster,The Fortress of Akkun the Grim,-2.42,Forgotten Mithril,184.00,1215.20,347.60,223596.80,63958.40,-5751.10,281804.10
+22124,Lance Knightseraph,Tradun Castle,41.43,Poison Adamant,242.00,1266.52,70.88,306497.84,17152.96,132696.83,456347.63
+22731,Magus Felldrake,The Greedy Wench,43.53,Stone Soulsteel Of The Skies,159.00,1798.28,14.53,285926.52,2310.27,126824.19,415060.98
+22767,Blazeflare The Cremator,The Lost Crypts of Sorrows,35.87,Swordbronze,153.00,1485.01,540.88,227206.53,82754.64,111586.02,421547.19

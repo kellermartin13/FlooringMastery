@@ -1,0 +1,21 @@
+2839,Tiger Mistmidnight,The Grey Plains,18.15,Negative Mercury,228.00,4054.87,361.00,924510.36,82308.00,181227.30,1188045.66
+4215,"Finarfin, God of Protection",The Secret Shrine of the Gargoyle Count,-2.00,Spirits' Living Wordhammer Tin Of The Trees,265.00,4343.00,26.40,1150895.00,6996.00,-23157.82,1134733.18
+4324,"Gadriel, God of Resurrection",The Fen of the Necromancer,45.10,Vampires' Fang Emeraldsilver,305.00,2283.46,455.55,696455.30,138942.75,375929.12,1211327.17
+5453,Nettool The Grasping,Unicorn's Ward,13.31,Angels' Adamant,350.00,1304.00,179.30,456400.00,62755.00,67490.15,586645.15
+6667,Spikesnare,Grove Farthing,18.00,Zephyr Iron,243.00,2759.00,444.69,670437.00,108059.67,140129.40,918626.07
+8133,Lance Knightseraph,The Dungeon of Dismal Terror,-3.50,Unknown Fatelightning Steel Of The Glacier,206.00,2017.40,54.28,415584.40,11181.68,-17070.64,409695.44
+8651,Dawn Darkzealot,Tradun Castle,34.24,Negative Rockglitter Mercury Of Trolls,202.00,1483.90,423.07,299747.80,85460.14,130970.70,516178.64
+9656,Shadow Gust,The Secret Catacombs of Ulfang the Black,42.90,Shadow Steel,372.00,4677.78,465.30,1740134.16,173091.60,822687.08,2735912.84
+11727,Spikebrood The Disinterred,The Bastion of the Lich Tyrant,43.00,Timeiron,206.00,1596.00,228.33,328776.00,47035.98,161599.15,537411.13
+14062,"Lenwenye, Goddess of Travel",Tradun Castle,37.66,Shadowhell Mithril,67.00,483.15,286.41,32371.05,19189.47,19593.00,71153.52
+14442,Spiketerror The Skeletal,The Archer and Blade,9.90,Unknown Fatelightning Steel Of The Glacier,152.00,2441.05,65.68,371039.60,9983.36,38102.30,419125.26
+15315,Seraph Jester,Lamp Borough,4.95,Unicorns' Fatal Magma Metal Of The Ocean,251.00,2168.36,431.97,544258.36,108424.47,32634.14,685316.97
+16302,Cinderember,The Bastion of Gothmog of Udun,54.84,Timeiron,171.00,1596.00,251.16,272916.00,42948.36,173725.40,489589.76
+16633,"Ahah, Goddess of Knowledge",Reyny Keep,11.00,Ensorceled Gold Of The Dawn,215.00,6913.92,402.92,1486492.80,86627.80,173043.27,1746163.87
+18456,Emberspawn,Boiaburh Keep,17.60,Sirens' Rockgold,260.00,-352.01,199.96,-91522.60,51989.60,-7115.94,-46648.94
+18584,Seraph Jester,The Vaults of the Shadow Emperor,33.00,Lunar Bronze,172.00,829.25,337.70,142631.00,58084.40,66236.08,266951.48
+19312,"Alas, Lord of Plague",The Pilgrim's Cup,46.12,Incubi's Mirrorfog Iron Of The Ocean,187.00,5806.50,-26.08,1085815.50,-4876.96,497231.73,1578170.27
+19866,"Byzou, God of Animals",The Dismal Marsh,6.66,Grayplatinum,96.00,3032.59,306.97,291128.64,29469.12,22441.84,343039.60
+20592,Metalghoul,Barad Cune,28.60,Phantasmal Tin Of The Swamps,330.00,5964.74,-7.99,1968364.20,-2636.70,570060.98,2535788.48
+21707,"Ingwenel, God of War",The Cuitamba Jungle,33.88,Hidden Shadowice Lead,41.00,2729.00,-62.23,111889.00,-2551.43,37174.77,146512.34
+22662,Lord Mystery,The Lost Crypts of Sorrows,35.87,Icy Shock Silver,260.00,1631.28,595.89,424132.80,154931.40,208463.11,787527.31

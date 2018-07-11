@@ -1,0 +1,22 @@
+2826,Jericho Wolf,The Grey Plains,18.15,Hell Mercury Of The East,265.00,4636.34,284.60,1228630.10,75419.00,234728.84,1538777.94
+3875,Lord Mystery,Barad Kesa,4.32,Glittering Orichalcum,215.00,-131.00,360.23,-28165.00,77449.45,1971.38,51255.83
+3980,Nettool The Grasping,Gifeld Castle,6.22,Plague Tin,88.00,4333.65,342.10,381361.20,30104.80,24687.96,436153.96
+4663,Rouge Roguemist,Tradun Castle,34.24,Primordial Mud Orichalcum,169.00,-387.90,77.37,-65555.10,13075.53,-17843.05,-70322.62
+4990,Burnfreeze The Cold,Grove Farthing,18.00,Ensorceled Sandmetal Of Spirits,74.00,2956.98,87.00,218816.52,6438.00,40545.81,265800.33
+5671,Nettool The Grasping,The Cuitamba Jungle,28.00,Otherworldly Mirror Orichalcum,144.00,-247.00,478.50,-35568.00,68904.00,9334.08,42670.08
+5876,"Alik, Goddess of Trickery",Barad Kesa,4.32,Greenlead,90.00,793.10,148.47,71379.00,13362.30,3389.65,88130.95
+6504,Spiketerror The Skeletal,South Brightcrown Borough,42.25,Zephyr Iron,235.00,2759.00,444.69,648365.00,104502.15,316204.20,1069071.35
+9949,Bonescare,The Bloody Wand,12.00,Pearl Mirrorice Steel Of Changelings,98.00,271.51,38.07,26607.98,3730.86,3640.66,33979.50
+10538,Wind Dire,The Dismal Marsh,6.05,Litches' Fatal Mithril Of The Past,122.00,1327.98,369.05,162013.56,45024.10,12422.26,219459.92
+10900,Lightning Brand,The Dungeon of Merciless Woe,38.62,Sapphire Mindlead,182.00,1307.71,47.00,238003.22,8554.00,96157.32,342714.54
+11745,Rose Anchor,The Citadel of Cheno,7.33,Unicorns' Fatal Magma Metal Of The Ocean,297.00,1971.24,392.70,585458.28,116631.90,49146.31,751236.49
+12064,Bonescare,Gena's Hold,2.66,Angels' Adamant,161.00,1304.00,179.30,209944.00,28867.30,7164.34,245975.64
+14641,Metalghoul,The Citadel of Lord Greywulf,33.04,Unknown Fatelightning Steel Of The Glacier,70.00,2441.05,65.68,170873.50,4597.60,57905.46,233376.56
+16472,Chainhorror,Reyny Keep,11.00,Fleshshock Mercury,126.00,4858.70,338.07,612196.20,42596.82,72027.23,726820.25
+17897,Lightning Brand,North Arcanist's Farthing,55.18,God-touched Faterainbow Orichalcum Of Spectres,74.00,370.41,32.01,27410.34,2368.74,16378.49,46157.57
+18761,Valentine Lawslayer,The Demon and Toad,28.74,Mana-touched Greenglitter Gold Of Giants,178.00,1291.38,514.25,229865.64,91536.50,93206.62,414608.76
+18796,Tarot Dawn,The Demon and Toad,28.74,Meteoric Dustzephyr Orichalcum,231.00,375.00,268.49,86625.00,62021.19,43107.40,191753.59
+19566,Tarot Dawn,The Khazahol Crags,-2.17,Mithril Of The Tropics,272.00,4538.71,11.98,1234529.12,3258.56,-24755.75,1213031.93
+21810,Burnchill The Evil,The Beggar and Cask,25.41,Unknowable Mindsilver,231.00,4313.65,402.60,996453.15,93000.60,272363.44,1361817.19
+22721,Lance Knightseraph,The Cuitamba Jungle,33.88,Falserainbow Lead,219.00,3215.00,256.30,704085.00,56129.70,258473.00,1018687.70
+23169,Snarepiston The Mechanical,The Beggar and Cask,25.41,Djinni's Spectral Shadowlead Of Life,243.00,4484.14,394.00,1089646.02,95742.00,296347.00,1481735.02

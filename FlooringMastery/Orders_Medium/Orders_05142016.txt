@@ -1,0 +1,14 @@
+2013,Marie "Raven" Chapman,OK,2.00,Solid Oak,100.00,5.00,5.00,500.00,500.00,20.00,1020.00
+2797,Vicki "Mesa" Rhodes,TX,0.50,Brick,172.00,4.00,5.50,688.00,946.00,0.00,1634.00
+3168,Kathy Murphy "the Thinker",TX,0.50,Pebbles,356.00,0.80,4.40,284.80,1566.40,0.00,1851.20
+3280,Minnie Lawson "the Apostle",UT,0.00,Solid Oak,126.00,5.50,5.00,693.00,630.00,0.00,1323.00
+8637,Tina "Lady" Anderson,WY,0.31,Pinecones,354.00,1.50,2.66,531.00,941.64,0.00,1472.64
+9258,Theresa "Kid" Robinson,AL,1.00,Pinecones,149.00,1.50,2.66,223.50,396.34,6.20,626.04
+12557,Beth "Fortunate Shooter" Powell,NM,2.42,Leather,225.00,11.00,18.15,2475.00,4083.75,131.18,6689.93
+13183,Julia "Bandit" Chandler,TX,0.67,Pebbles,216.00,0.88,4.84,190.08,1045.44,12.36,1247.88
+13241,Renee "Hellish Empress" Banks,AR,2.20,Packed Dirt,232.00,1.00,2.00,232.00,464.00,13.92,709.92
+13245,Marie "Raven" Chapman,OK,2.42,Cedar Planks,197.00,2.20,6.05,433.40,1191.85,32.50,1657.75
+13501,Allison "Steel Gravedigger" Douglas,CA,0.61,Reeds,230.00,0.75,2.20,172.50,506.00,6.78,685.28
+17067,Friendly Howell,WY,0.31,Pinecones,184.00,1.50,2.66,276.00,489.44,0.00,765.44
+19410,Theresa "Kid" Robinson,MT,3.99,Cedar Planks,173.00,2.20,6.66,380.60,1152.18,61.31,1594.09
+22901,Betty "Happy Thinker" Watson,MO,2.20,Pebbles,210.00,0.88,5.32,184.80,1117.20,26.04,1328.04

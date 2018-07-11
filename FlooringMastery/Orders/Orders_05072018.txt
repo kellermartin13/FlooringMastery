@@ -1,0 +1,15 @@
+3329,Gladys "Locoweed" Keller,NV,0.25,Packed Dirt,255.00,1.00,1.50,255.00,382.50,0.00,637.50
+4389,Jo "the Joker",NM,2.20,Reeds,276.00,0.75,2.20,207.00,607.20,16.28,830.48
+5011,Florence "Leather Doc" Grant,MT,3.00,Leather,292.00,10.00,18.15,2920.00,5299.80,246.59,8466.39
+6694,Cathy "Wildfire" Neal,NM,2.20,Reeds,207.00,0.75,2.20,155.25,455.40,12.21,622.86
+9010,Gladys "Locoweed" Keller,CA,0.55,Packed Dirt,311.00,1.00,1.50,311.00,466.50,7.78,785.28
+15240,Allison "Steel Gravedigger" Douglas,AL,1.00,Cedar Planks,179.00,2.20,6.05,393.80,1082.95,14.77,1491.52
+16247,Joanne "Damned" Miles,MT,3.99,Pebbles,349.00,0.88,4.84,307.12,1689.16,79.85,2076.13
+18731,Surgeon Grant,NM,2.93,Pinecones,349.00,1.50,2.66,523.50,928.34,43.56,1495.40
+19036,Lucky Johnson,NV,0.31,Brick,301.00,5.32,6.66,1601.32,2004.66,0.00,3605.98
+19293,Cathy "Loner Demon" Murray,KS,0.55,Dirt,131.00,0.50,1.00,65.50,131.00,1.96,198.46
+19345,Kathy Murphy "the Thinker",MO,2.20,Leather,253.00,11.00,19.97,2783.00,5052.41,156.71,7992.12
+22431,Cathy "Wildfire" Neal,IA,1.33,Beechwood,341.00,3.63,6.05,1237.83,2063.05,33.01,3333.89
+22718,Renee "Hellish Empress" Banks,NV,0.31,Packed Dirt,210.00,1.10,2.42,231.00,508.20,0.00,739.20
+22784,Theresa "Kid" Robinson,AR,2.20,Reeds,233.00,0.91,2.42,212.03,563.86,15.52,791.41
+22903,Julia "Bandit" Chandler,AR,2.20,Pinecones,260.00,1.50,2.93,390.00,761.80,23.04,1174.84

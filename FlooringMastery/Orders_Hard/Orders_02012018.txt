@@ -1,0 +1,15 @@
+1422,Maverick Wind,Gifeld Castle,6.22,Green Dustlightning Mercury,115.00,3517.00,32.00,404455.00,3680.00,24488.10,432623.10
+3171,Shadow Gust,The Archer and Blade,9.00,Zephyr Iron,280.00,2759.00,404.26,772520.00,113192.80,79714.15,965426.95
+5151,"Maeglodor, God of Thieves",Eved Castle,5.09,Ensorceled Sandmetal Of Spirits,166.00,2956.98,87.00,490858.68,14442.00,25265.03,530565.71
+5734,Bolttrap,Unicorn's Ward,13.31,Ensorceled Sandmetal Of Spirits,217.00,2956.98,87.00,641664.66,18879.00,85870.68,746414.34
+6734,Tarot Dawn,Noble's Village,27.50,Zephyr Iron,209.00,2759.00,444.69,576631.00,92940.21,187479.94,857051.15
+7646,Bonescare,The Dungeon of Dismal Terror,-3.50,Poison Adamant,216.00,1151.38,58.58,248698.08,12653.28,-10454.05,250897.31
+7795,Valentine Lawslayer,Lordsgate Farthing,41.14,Fairies' Supreme Mistsmoke Lead Of The Future,159.00,3349.50,324.73,532570.50,51632.07,239523.05,823725.62
+8982,Bolttrap,The Archer and Scroll,39.60,Goddesses' Spectral Poison Steel,269.00,3773.99,269.83,1015203.31,72584.27,435115.03,1522902.61
+11243,"Gadriel, God of Resurrection",The Fortress of the Lich Queen,36.35,Tin Of The Tundra,174.00,2839.87,174.91,494137.38,30434.34,188845.82,713417.54
+13015,Jericho Wolf,Reheath Stronghold,8.00,Primordial Plague Mercury Of Legend,207.00,452.29,301.29,93624.03,62367.03,12479.28,168470.34
+16437,Scarefear The Blade,Lacot Stronghold,45.22,Planar Rainfate Mithril,232.00,1185.84,320.52,275114.88,74360.64,157263.98,506739.50
+18516,"Baltha, Goddess of Knowledge",The Dark Caverns of Woe,3.29,Sphinxes' Opalpearl Platinum Of Legend,188.00,5805.82,390.81,1091494.16,73472.28,34948.99,1199915.43
+19534,Bedlam Spiritraven,The Pirate's Pipe,17.60,Ghostly Soul Adamant,157.00,3222.96,229.53,506004.72,36036.21,97567.37,639608.30
+20209,Deathspike The Terrifying,The Fen of the Necromancer,72.63,Grayplatinum,217.00,3032.59,306.97,658072.03,66612.49,529019.70,1253704.22
+21833,Boltcrank The Trapper,Barad Cune,28.60,Sphinxes' Unknown Poisongold Of The Future,167.00,4301.28,23.86,718313.76,3984.62,209466.53,931764.91

@@ -1,0 +1,19 @@
+962,Theresa "Kid" Robinson,TX,0.50,Cedar Planks,244.00,2.00,5.00,488.00,1220.00,0.00,1708.00
+1447,Ida Russell "the Rustler",NM,2.20,Leather,194.00,10.00,15.00,1940.00,2910.00,97.00,4947.00
+3721,Mattie Grant "the Gambler",CA,0.55,Pinecones,221.00,1.50,2.20,331.50,486.20,8.18,825.88
+4305,Mabel "Vixen Cursed" King,NV,0.25,Pebbles,222.00,0.80,4.40,177.60,976.80,0.00,1154.40
+5013,"Sunrise" Miles,AR,2.20,Beechwood,100.00,3.00,5.00,300.00,500.00,16.00,816.00
+5498,Kathy Murphy "the Thinker",AR,2.20,Leather,191.00,10.00,18.15,1910.00,3466.65,107.53,5484.18
+5668,Wilma "Tornado" Brooks,ID,0.00,Brick,199.00,4.84,6.66,963.16,1325.34,0.00,2288.50
+5895,Friendly Howell,ND,1.25,Cedar Planks,225.00,2.00,5.50,450.00,1237.50,16.88,1704.38
+8338,Amanda Hart "the Loner",UT,0.00,Beechwood,243.00,3.00,5.50,729.00,1336.50,0.00,2065.50
+9388,Cathy "Wildfire" Neal,WY,0.31,Pinecones,146.00,1.50,2.66,219.00,388.36,0.00,607.36
+11067,Mabel "Vixen Cursed" King,AL,1.00,Brick,231.00,4.84,6.66,1118.04,1538.46,26.56,2683.06
+11192,Heather "Friendly Gambler" Barrett,MS,3.00,Cedar Planks,277.00,2.20,6.05,609.40,1675.85,68.56,2353.81
+12410,Michele Watson "the Loner",UT,0.00,Brick,209.00,4.84,6.66,1011.56,1391.94,0.00,2403.50
+15375,Florence "Leather Doc" Grant,TX,0.67,Reeds,295.00,0.83,2.20,244.85,649.00,8.94,902.79
+17481,Mabel "Vixen Cursed" King,ID,0.00,Solid Oak,257.00,5.50,6.66,1413.50,1711.62,0.00,3125.12
+18015,Elizabeth "the Bully",MS,3.00,Pebbles,98.00,0.88,4.84,86.24,474.32,16.82,577.38
+18417,Melissa "Lonesome Stalker" Riley,ID,0.00,Pinecones,251.00,1.50,2.66,376.50,667.66,0.00,1044.16
+21923,Lorraine "Utah" Adams,KS,0.55,Leather,55.00,11.00,19.97,605.00,1098.35,17.03,1720.38
+22475,Black Beck,TX,0.67,Packed Dirt,261.00,1.10,2.42,287.10,631.62,9.19,927.91

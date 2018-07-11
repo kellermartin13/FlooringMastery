@@ -1,0 +1,11 @@
+3586,Wilma "Tornado" Brooks,NM,2.20,Beechwood,184.00,3.00,5.00,552.00,920.00,29.44,1501.44
+4554,Debra "Scorpion" Lane,ND,1.25,Solid Oak,242.00,5.50,5.50,1331.00,1331.00,26.62,2688.62
+4768,Diana "Mistress" Morgan,NV,0.25,Solid Oak,73.00,5.50,5.50,401.50,401.50,0.00,803.00
+6930,Ida Russell "the Rustler",AL,1.00,Cedar Planks,206.00,2.20,6.05,453.20,1246.30,17.00,1716.50
+6966,Dorothy "the Hunter",MS,3.00,Beechwood,90.00,3.00,5.00,270.00,450.00,21.60,741.60
+9999,Gladys "Locoweed" Keller,NV,0.31,Solid Oak,20.00,5.50,5.50,110.00,110.00,0.00,220.00
+10193,April "Thunderbird" Dunn,AR,2.20,Brick,222.00,4.84,6.66,1074.48,1478.52,51.06,2604.06
+11266,Surgeon Grant,CA,0.55,Dirt,122.00,0.50,1.00,61.00,122.00,1.83,184.83
+15433,Vengeful Montgomery,ID,0.00,Brick,82.00,5.32,6.66,436.24,546.12,0.00,982.36
+15986,Minnie Lawson "the Apostle",MT,3.99,Reeds,98.00,0.83,2.20,81.34,215.60,11.88,308.82
+18677,"Scalphunter" Kennedy,NM,2.93,Dirt,309.00,0.50,1.00,154.50,309.00,13.90,477.40

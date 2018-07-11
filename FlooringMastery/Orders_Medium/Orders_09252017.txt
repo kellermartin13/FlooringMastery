@@ -1,0 +1,11 @@
+1054,Debra "Scorpion" Lane,NV,0.25,Reeds,279.00,0.75,2.00,209.25,558.00,0.00,767.25
+3704,Lorraine "Utah" Adams,AL,1.00,Reeds,291.00,0.75,2.00,218.25,582.00,8.00,808.25
+6122,Joanne "Damned" Miles,IA,1.21,Reeds,174.00,0.75,2.20,130.50,382.80,5.13,518.43
+8653,Lorraine "Utah" Adams,MT,3.30,Beechwood,156.00,3.00,5.50,468.00,858.00,39.78,1365.78
+11898,"Bane" Jennings,ND,1.38,Packed Dirt,243.00,1.00,1.65,243.00,400.95,6.44,650.39
+13417,Dorothy "the Hunter",OK,2.42,Solid Oak,278.00,5.50,5.50,1529.00,1529.00,61.16,3119.16
+16240,Elizabeth "the Bully",MO,2.20,Pinecones,86.00,1.50,2.66,129.00,228.76,7.16,364.92
+16284,Debra "Scorpion" Lane,MT,3.99,Leather,281.00,11.00,19.97,3091.00,5611.57,348.10,9050.67
+19788,Cathy "Loner Demon" Murray,UT,0.00,Solid Oak,181.00,5.50,6.66,995.50,1205.46,0.00,2200.96
+20816,Florence "Leather Doc" Grant,IA,1.33,Brick,224.00,5.32,6.66,1191.68,1491.84,26.84,2710.36
+21599,Allison "Steel Gravedigger" Douglas,UT,0.00,Beechwood,125.00,3.63,6.05,453.75,756.25,0.00,1210.00

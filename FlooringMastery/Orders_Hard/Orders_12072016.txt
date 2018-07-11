@@ -1,0 +1,16 @@
+2946,Bonescare,The Desert of Flames,39.00,Fog Lavaplatinum Of Life,275.00,1078.00,17.00,296450.00,4675.00,117438.75,418563.75
+5892,Spikebrood The Disinterred,The Archer and Blade,9.00,White Platinum,48.00,-52.59,145.00,-2524.32,6960.00,399.21,4834.89
+7715,Clash Lonedrake,Grori's Deep,49.95,Violetstone Tin Of Death,285.00,2245.23,156.10,639890.55,44488.50,342189.52,1026568.57
+10149,Dawn Darkzealot,The Dungeon of Dismal Terror,-3.50,Mithril Of Legend,221.00,2274.80,63.01,502730.80,13925.21,-20666.24,495989.77
+13457,"Uriel, God of Fate",The Broken Shield,37.23,Green Dustlightning Mercury,99.00,3868.70,35.20,383001.30,3484.80,142999.86,529485.96
+13760,"Lenwenye, Goddess of Travel",Waleah Castle,0.77,Sphinxes' Mistsoul Bronze Of The Past,333.00,2169.81,202.07,722546.73,67289.31,7898.36,797734.40
+14284,Shadow Gust,Arcanist's Farthing,3.00,Emerald Orichalcum,182.00,-405.76,128.90,-73848.32,23459.80,-1511.66,-51900.18
+16249,Shadow Gust,Fellfen Keep,61.53,Swordbronze,296.00,1485.01,447.01,439562.96,132314.96,354564.31,926442.23
+18693,Flora Amberslayer,The Tomb of Hellish Ruin,16.94,Sirens' Rockgold,344.00,-352.01,199.96,-121091.44,68786.24,-8891.88,-61197.08
+
+20367,Fate Ivycaster,The Black Barrow of Bery,-0.10,Sphinxes' Opalpearl Platinum Of Legend,253.00,5805.82,390.81,1468872.46,98874.93,0.00,1567747.39
+20895,Snaretool The Constructed,The Black Barrow of Bery,-0.10,Yellow Mistearth Copper,292.00,5536.45,-33.15,1616643.40,-9679.80,0.00,1606963.60
+21115,Rune Rougehate,The Secret Catacombs of Ulfang the Black,42.90,Angels' Adamant,111.00,1434.40,197.23,159218.40,21892.53,77877.70,258988.63
+21356,Storm Squallmourner,The Cuitamba Jungle,33.88,Phantasmal Tin Of The Swamps,9.00,5964.74,-7.99,53682.66,-71.91,18227.66,71838.41
+22892,"Lionare, God of the Lost",The Desert of Flames,57.10,Djinni's Evil Sandobsidian Steel Of The Future,324.00,4208.60,172.78,1363586.40,55980.72,809153.26,2228720.3822892,"Lionare, God of the Lost",The Desert of Flames,57.10,Djinni's Evil Sandobsidian Steel Of The Future,324.00,4208.60,172.78,1363586.40,55980.72,809153.26,2228720.38
+23146,Song Runetomb,The Bastion of Sthasu the Gruesome,14.93,Djinni's Spectral Shadowlead Of Life,260.00,4484.14,394.00,1165876.40,102440.00,190247.46,1458563.86

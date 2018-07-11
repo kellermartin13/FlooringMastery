@@ -1,0 +1,19 @@
+725,Spikesnare,The Dungeon of Merciless Woe,38.62,Primordial Mud Orichalcum,295.00,-387.90,77.37,-114430.50,22824.15,-35726.48,-127332.83
+741,"Selik, God of Death",The Citadel of Alammius,3.18,Primordial False Gold,262.00,4459.34,226.00,1168347.08,59212.00,36826.77,1264385.85
+1389,Song Runetomb,The Tower of Aces the Accursed,12.10,Unknowable Mindsilver,128.00,3565.00,366.00,456320.00,46848.00,60380.16,563548.16
+4462,Cult Godseeker,The Pilgrim's Cup,41.93,Phantasmal Lead,209.00,-457.00,245.47,-95513.00,51303.23,-18568.10,-62777.87
+4502,Seraphim Tsunami,Fellfen Keep,42.03,Foul Ice Bronze Of Life,311.00,-92.21,129.80,-28677.31,40367.80,4910.01,16600.50
+5050,"Gono, Goddess of the Earth",Lordsgate Farthing,37.40,Mithril Of Legend,85.00,2274.80,63.01,193358.00,5355.85,73524.12,272237.97
+7593,Spikerivet,The Dancing Minstrel,21.20,Unknown Fatelightning Steel Of The Glacier,203.00,2017.40,54.28,409532.20,11018.84,88315.72,508866.76
+8032,Tiger Mistmidnight,The Dungeon of Dismal Terror,-3.50,Venom Timegold Of Dwarves,336.00,3036.00,269.00,1020096.00,90384.00,-44419.20,1066060.80
+11648,Spiketerror The Skeletal,The Archer and Scroll,39.60,Litches' Fatal Mithril Of The Past,234.00,1327.98,369.05,310747.32,86357.70,158842.01,555947.03
+12709,Blazeflare The Cremator,South Brightcrown Borough,42.25,Mind Lead,142.00,2844.70,309.10,403947.40,43892.20,188092.63,635932.23
+13394,Bane Veil,Arcanist's Farthing,3.00,Green Dustlightning Mercury,148.00,3868.70,35.20,572567.60,5209.60,17333.32,595110.52
+13600,Rouge Roguemist,Eved Castle,5.09,Emerald Orichalcum,60.00,-405.76,128.90,-24345.60,7734.00,-830.58,-17442.18
+16203,Harmony Angelchild,Peley Keep,26.33,Thunderbirds' Transcendent Dreamiron,172.00,2275.25,237.70,391343.00,40884.40,112379.12,544606.52
+17354,Rune Rougehate,Shainan's Hold,23.96,Witchs' Forbidden Rockrainbow Bronze,118.00,655.60,425.92,77360.80,50258.56,30628.65,158248.01
+18027,"Ariel, God of Luck",Boiaburh Keep,17.60,Trolls' Mist Poisonplatinum Of The Twilight,139.00,567.79,434.39,78922.81,60380.21,25074.54,164377.56
+19342,Scarefear The Blade,The Citadel of Tattena the Sinister,13.34,Tin Of The Tundra,79.00,3436.25,174.91,271463.75,13817.89,37086.61,322368.25
+19765,"Selik, God of Death",Fellfen Keep,61.53,Toxic Mistlead Of The Past,211.00,1557.54,164.64,328640.94,34739.04,225295.59,588675.57
+20063,Chainnail,Moor Village,76.43,Rainbowglitter Tin,200.00,5957.39,213.40,1191478.00,42680.00,937960.08,2172118.08
+22678,Lord Mystery,Citadel Ward,37.80,Stone Soulsteel Of The Skies,208.00,1798.28,14.53,374042.24,3022.24,143284.50,520348.98

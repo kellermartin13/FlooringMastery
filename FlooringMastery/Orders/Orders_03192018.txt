@@ -1,0 +1,19 @@
+1970,Jacqueline "Riding Doc" Washington,KS,0.50,Packed Dirt,249.00,1.00,1.50,249.00,373.50,0.00,622.50
+3542,Maureen "Cursed" Andrews,WY,0.31,Beechwood,334.00,3.00,5.00,1002.00,1670.00,0.00,2672.00
+5024,Michele Watson "the Loner",ID,0.00,Reeds,282.00,0.75,2.20,211.50,620.40,0.00,831.90
+5383,Vengeful Montgomery,MT,3.00,Cedar Planks,59.00,2.00,5.50,118.00,324.50,13.28,455.78
+8573,Minnie Lawson "the Apostle",NV,0.31,Packed Dirt,238.00,1.00,1.50,238.00,357.00,0.00,595.00
+9864,Cynthia "the Vixen",WY,0.31,Solid Oak,199.00,5.50,5.50,1094.50,1094.50,0.00,2189.00
+10512,Deborah "the Lady",WY,0.31,Solid Oak,95.00,5.50,5.50,522.50,522.50,0.00,1045.00
+12958,Surgeon Grant,NM,2.42,Solid Oak,272.00,5.50,5.50,1496.00,1496.00,59.84,3051.84
+13251,Cathy "Wildfire" Neal,NV,0.31,Pinecones,274.00,1.50,2.66,411.00,728.84,0.00,1139.84
+15870,Evelyn "Evil Joker" Taylor,MS,3.00,Leather,45.00,11.00,18.15,495.00,816.75,39.35,1351.10
+16663,Heather "Friendly Gambler" Barrett,AL,1.00,Pebbles,248.00,0.88,4.84,218.24,1200.32,14.19,1432.75
+17060,Renee "Loco Tracker" Jordan,MS,3.00,Packed Dirt,185.00,1.10,2.20,203.50,407.00,18.32,628.82
+19694,Vanessa "Scalper" Rhodes,ID,0.00,Leather,200.00,11.00,19.97,2200.00,3994.00,0.00,6194.00
+20462,Lena Chapman "the Bully",UT,0.00,Brick,211.00,5.32,6.66,1122.52,1405.26,0.00,2527.78
+21453,Diana "Mistress" Morgan,ND,1.67,Cedar Planks,228.00,2.20,6.66,501.60,1518.48,40.40,2060.48
+21956,Susan "Damnation" Fleming,AL,1.00,Reeds,228.00,0.83,2.20,189.24,501.60,6.91,697.75
+21974,Marie "Raven" Chapman,ND,1.67,Reeds,339.00,0.83,2.20,281.37,745.80,20.54,1047.71
+22041,Melissa "Lonesome Stalker" Riley,IA,1.33,Packed Dirt,172.00,1.10,2.42,189.20,416.24,6.05,611.49
+23523,Lucky Johnson,CA,0.67,Pebbles,193.00,0.88,5.32,169.84,1026.76,11.97,1208.57

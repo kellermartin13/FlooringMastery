@@ -1,0 +1,12 @@
+339,Cinderflame,The Fen of the Necromancer,41.00,Trolls' Mist Poisonplatinum Of The Twilight,136.00,516.17,394.90,70199.12,53706.40,50801.26,174706.78
+2087,Cinderember,The Forsaken Tomb of Devastation,0.00,Violetdream Iron,228.00,1224.69,349.36,279229.32,79654.08,0.00,358883.40
+4282,"Ingwenel, God of War",The Pilgrim's Cup,41.93,Otherworldly Mirror Orichalcum,132.00,-247.00,478.50,-32604.00,63162.00,12834.36,43392.36
+4721,Jericho Wolf,The Demon and Toad,23.75,Trolls' Rubymercury Of The Sunset,174.00,506.00,198.00,88044.00,34452.00,29399.04,151895.04
+6777,Mecharig The Living Device,Weke Tower,-0.05,Foul Ice Bronze Of Life,201.00,-92.21,129.80,-18534.21,26089.80,0.00,7555.59
+13883,Evilfear The Horrorific,Archfane District,32.87,Shadowhell Mithril,142.00,483.15,286.41,68607.30,40670.22,36061.58,145339.10
+16297,Song Runetomb,Barad Kesa,4.75,Meteoric Dustzephyr Orichalcum,155.00,375.00,268.49,58125.00,41615.95,4987.05,104728.00
+17624,"Iran, Lord of Nightmares",Lamp Borough,4.95,Angels' Smoke Adamant Of The Mountains,276.00,3427.13,260.15,945887.88,71801.40,50884.46,1068573.74
+19625,Rouge Roguemist,North Grove Ward,7.99,Emerald Orichalcum,163.00,-405.76,128.90,-66138.88,21010.70,-3610.25,-48738.43
+20636,Shiverflame The Freezer,North Arcanist's Farthing,55.18,Golems' Stonesapphire Gold Of The Glacier,130.00,4444.06,116.57,577727.80,15154.10,326085.04,918966.94
+21327,Seraphim Tsunami,Pawic Keep,0.62,Golems' Stonesapphire Gold Of The Glacier,214.00,4444.06,128.23,951028.84,27441.22,9784.70,988254.76
+22276,Storm Squallmourner,Bifar's Deep,18.70,Undeads' Mind Orichalcum Of The Twilight,177.00,-17.00,276.00,-3009.00,48852.00,8710.17,54553.17

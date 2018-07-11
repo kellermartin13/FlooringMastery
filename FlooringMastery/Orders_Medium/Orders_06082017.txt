@@ -1,0 +1,16 @@
+1238,April "Thunderbird" Dunn,AL,1.00,Brick,240.00,4.00,5.00,960.00,1200.00,21.60,2181.60
+1281,Renee "Hellish Empress" Banks,CA,0.50,Pebbles,222.00,0.80,4.40,177.60,976.80,0.00,1154.40
+1302,Theresa "Scalphunter" Romero,ID,0.00,Reeds,70.00,0.75,2.00,52.50,140.00,0.00,192.50
+2276,Minnie Lawson "the Apostle",AR,2.20,Packed Dirt,262.00,1.00,1.50,262.00,393.00,13.10,668.10
+2625,Renee "Hellish Empress" Banks,MT,3.00,Brick,304.00,4.00,5.50,1216.00,1672.00,86.64,2974.64
+4933,Theresa "Kid" Robinson,MT,3.00,Dirt,299.00,0.50,1.00,149.50,299.00,13.46,461.96
+6241,Theresa "Kid" Robinson,KS,0.50,Beechwood,195.00,3.00,5.00,585.00,975.00,0.00,1560.00
+8763,Diana "Mistress" Morgan,IA,1.21,Packed Dirt,53.00,1.00,1.50,53.00,79.50,1.32,133.82
+9197,Lucky Johnson,NM,2.20,Leather,103.00,10.00,18.15,1030.00,1869.45,57.99,2957.44
+9291,Susan "Damnation" Fleming,AL,1.00,Brick,207.00,4.84,6.66,1001.88,1378.62,23.80,2404.30
+16728,Joanne "Damned" Miles,MT,3.99,Reeds,62.00,0.83,2.20,51.46,136.40,7.51,195.37
+17804,Debra "Scorpion" Lane,TX,0.67,Solid Oak,147.00,5.50,6.66,808.50,979.02,17.88,1805.40
+18637,Debra "Scorpion" Lane,AR,2.20,Packed Dirt,61.00,1.10,2.20,67.10,134.20,4.03,205.33
+19294,Ida Russell "the Rustler",CA,0.67,Reeds,204.00,0.83,2.20,169.32,448.80,6.18,624.30
+22869,Lucky Johnson,MT,5.84,Packed Dirt,183.00,1.10,2.42,201.30,442.86,38.65,682.81
+23129,"Bane" Jennings,ID,0.00,Beechwood,193.00,3.63,6.05,700.59,1167.65,0.00,1868.24

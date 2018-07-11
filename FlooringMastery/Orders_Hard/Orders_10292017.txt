@@ -1,0 +1,14 @@
+57,Cult Godseeker,The Demon and Toad,23.75,Meteoric Mirrormuck Orichalcum Of The Forests,308.00,1962.00,168.88,604296.00,52015.04,157514.65,813825.69
+536,"Iran, Lord of Nightmares",Shainan's Hold,18.00,Succubi's Evil Mindzephyr Adamant Of The Desert,114.00,1990.16,250.07,226878.24,28507.98,45969.52,301355.74
+750,Beamsprocket The Grasping,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,89.00,3115.32,274.19,277263.48,24402.91,39216.63,340883.02
+3202,Fate Seeker,The Archer and Blade,9.00,Thunderbirds' Transcendent Dreamiron,44.00,2068.41,237.70,91010.04,10458.80,9132.20,110601.04
+5997,Spikesnare,The Lost Sanctum of Woe,3.00,Glowpearl Adamant Of Spirits,304.00,361.90,374.00,110017.60,113696.00,6711.41,230425.01
+6464,Lightning Brand,Noble's Village,27.50,Glittering Orichalcum,146.00,-144.10,360.23,-21038.60,52593.58,8835.39,40390.37
+7021,"Penur, Lord of the Sea",Bergfison's Deep,39.60,Negative Rockglitter Mercury Of Trolls,135.00,1483.90,423.07,200326.50,57114.45,102976.38,360417.33
+12084,Snaretool The Constructed,Gena's Hold,2.66,Litches' Fatal Mithril Of The Past,95.00,1327.98,369.05,126158.10,35059.75,4836.54,166054.39
+13914,Gravebone The Unspeakable,The Dark Caverns of Woe,3.29,Spectres' Shadowy Terrorglow Adamant Of Life,163.00,5164.28,248.66,841777.64,40531.58,26469.28,908778.50
+15271,Seraphim Tsunami,Noble's Village,30.25,Unknown Fatelightning Steel Of The Glacier,209.00,2441.05,65.68,510179.45,13727.12,157171.97,681078.54
+20696,Maverick Wind,North Arcanist's Farthing,55.18,Unspeakable Rotsoul Mithril Of Souls,164.00,272.80,485.85,44739.20,79679.40,68430.23,192848.83
+20894,Beamsprocket The Grasping,The Black Barrow of Bery,-0.10,Angels' Adamant,204.00,1434.40,197.23,292617.60,40234.92,0.00,332852.52
+21310,Bolttrap,The Warrior and Flagon,53.24,Phantasmal Tin Of The Swamps,185.00,5964.74,-7.99,1103476.90,-1478.15,584059.34,1686058.09
+23202,Sunset Knightclaw,Kewold Stronghold,10.74,White Platinum,193.00,-63.64,193.00,-12282.52,37249.00,2746.31,27712.79

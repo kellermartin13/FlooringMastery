@@ -1,0 +1,24 @@
+1475,Helen Webb "the Dancer",IA,1.00,Brick,18.00,4.00,5.00,72.00,90.00,1.62,163.62
+1659,Diana "Mistress" Morgan,OK,2.00,Pebbles,271.00,0.80,4.40,216.80,1192.40,28.18,1437.38
+2302,Elizabeth "the Bully",WY,0.25,Reeds,170.00,0.75,2.00,127.50,340.00,0.00,467.50
+2849,Dorothy "the Hunter",MT,3.00,Dirt,290.00,0.50,1.00,145.00,290.00,13.05,448.05
+3130,Black Beck,NM,2.20,Dirt,182.00,0.50,1.00,91.00,182.00,5.46,278.46
+6904,Mabel "Vixen Cursed" King,NV,0.28,Reeds,123.00,0.75,2.20,92.25,270.60,0.00,362.85
+7262,Ida Russell "the Rustler",OK,2.20,Dirt,90.00,0.50,1.00,45.00,90.00,2.70,137.70
+7949,Lorraine "Utah" Adams,KS,0.50,Cedar Planks,66.00,2.20,6.05,145.20,399.30,0.00,544.50
+8318,Marie "Raven" Chapman,ND,1.25,Dirt,100.00,0.50,1.00,50.00,100.00,1.50,151.50
+8388,Elizabeth "the Bully",KS,0.50,Leather,168.00,10.00,18.15,1680.00,3049.20,0.00,4729.20
+8608,Helen Webb "the Dancer",OK,2.20,Dirt,248.00,0.50,1.00,124.00,248.00,7.44,379.44
+9248,Amanda Hart "the Loner",WY,0.31,Reeds,150.00,0.75,2.20,112.50,330.00,0.00,442.50
+10622,Friendly Howell,ID,0.00,Pinecones,133.00,1.50,2.66,199.50,353.78,0.00,553.28
+10869,Florence "Leather Doc" Grant,IA,1.21,Leather,146.00,10.00,18.15,1460.00,2649.90,41.10,4151.00
+11325,Melissa "Lonesome Stalker" Riley,AL,1.00,Solid Oak,332.00,5.50,5.50,1826.00,1826.00,36.52,3688.52
+13935,Heather "Tornado" Newman,MS,3.00,Pebbles,129.00,0.88,4.84,113.52,624.36,22.14,760.02
+15493,Cynthia "the Vixen",OK,2.42,Leather,368.00,11.00,18.15,4048.00,6679.20,214.54,10941.74
+15932,Joanne "Damned" Miles,UT,0.00,Pebbles,81.00,0.88,4.84,71.28,392.04,0.00,463.32
+16547,Vanessa "Scalper" Rhodes,CA,0.61,Brick,344.00,5.32,6.66,1830.08,2291.04,41.21,4162.33
+17138,Victoria "the Dancer",AR,2.20,Reeds,285.00,0.83,2.20,236.55,627.00,17.27,880.82
+18980,Wilma "Tornado" Brooks,AR,2.20,Pebbles,115.00,0.88,4.84,101.20,556.60,13.16,670.96
+19221,Julia "Bandit" Chandler,MS,3.00,Dirt,178.00,0.50,1.00,89.00,178.00,8.01,275.01
+19817,Marie "Raven" Chapman,MT,3.99,Solid Oak,277.00,5.50,6.66,1523.50,1844.82,134.73,3503.05
+22804,Joanne "Damned" Miles,MO,2.20,Pebbles,180.00,0.88,5.32,158.40,957.60,22.32,1138.32

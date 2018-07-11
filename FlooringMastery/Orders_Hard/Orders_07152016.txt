@@ -1,0 +1,17 @@
+1002,Harmony Angelchild,The Citadel of Alammius,3.18,Primordial Mud Orichalcum,143.00,-387.90,77.37,-55469.70,11063.91,-1332.17,-45737.96
+1252,Slayer Claw,Reyny Keep,11.00,Phantasmal Lead,63.00,-457.00,245.47,-28791.00,15464.61,-1465.90,-14792.29
+1674,"Azah, Goddess of Fate",The Beggar and Cask,21.00,Unicorns' Fatal Magma Metal Of The Ocean,74.00,1792.04,357.00,132610.96,26418.00,33396.08,192425.04
+1872,Spikebrood The Disinterred,The Forsaken Tomb of Devastation,0.00,Spirits' Living Wordhammer Tin Of The Trees,338.00,4343.00,26.40,1467934.00,8923.20,0.00,1476857.20
+4924,"Penur, Lord of the Sea",The Demon and Toad,23.75,Thunderbirds' Transcendent Dreamiron,261.00,2275.25,237.70,593840.25,62039.70,157411.19,813291.14
+6271,"Byzou, God of Animals",The Lost Sanctum of Woe,3.00,Greenlead,326.00,793.10,148.47,258550.60,48401.22,9208.55,316160.37
+8370,Blazefreeze The Chiller,Mahyrst Keep,27.65,Djinni's Spectral Shadowlead Of Life,193.00,3705.90,296.02,715238.70,57131.86,216263.76,988634.32
+9819,Nettool The Grasping,Lamp Borough,4.95,Spirits' Living Wordhammer Tin Of The Trees,218.00,4777.30,26.40,1041451.40,5755.20,52360.33,1099566.93
+11157,"Iran, Lord of Nightmares",Unicorn's Ward,14.64,Emerald Orichalcum,297.00,-368.87,128.90,-109554.39,38283.30,-10690.66,-81961.75
+11446,Song Runetomb,The Archer and Scroll,39.60,Icy Shock Silver,153.00,1482.98,407.00,226895.94,62271.00,115666.78,404833.72
+13317,Fate Seeker,Arcanist's Farthing,3.00,Emerald Orichalcum,347.00,-405.76,128.90,-140798.72,44728.30,-2882.11,-98952.53
+18142,Ironbrood,The Fortress of the Lich Queen,36.35,Litches' Fatal Mithril Of The Past,188.00,1460.78,405.96,274626.64,76320.48,126340.96,477288.08
+19993,"Baltha, Goddess of Knowledge",The Tomb of Hellish Ruin,16.94,Angels' Smoke Adamant Of The Mountains,57.00,3427.13,260.15,195346.41,14828.55,35729.74,245904.70
+20493,Rose Anchor,Weke Tower,-0.07,Greenlead,159.00,959.65,179.65,152584.35,28564.35,0.00,181148.70
+21321,Scarefear The Blade,Unicorn's Ward,14.64,Sphinxes' Opalpearl Platinum Of Legend,258.00,5805.82,429.89,1497901.56,110911.62,241321.98,1850135.16
+21579,Nettool The Grasping,The Fortress of Asmamur,-4.93,Planar Rainfate Mithril,25.00,1304.42,320.52,32610.50,8013.00,-2031.18,38592.32
+23168,"Ahah, Goddess of Knowledge",The Bastion of Barbos,28.34,Incubi's Iron Of The Dawn,134.00,1200.96,424.31,160928.64,56857.54,60980.13,278766.31

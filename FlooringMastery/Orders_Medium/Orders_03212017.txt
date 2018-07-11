@@ -1,0 +1,14 @@
+1795,Stella "the Bully",MO,2.20,Beechwood,164.00,3.00,5.00,492.00,820.00,26.24,1338.24
+2350,Stella "the Bully",NV,0.25,Reeds,285.00,0.75,2.00,213.75,570.00,0.00,783.75
+3007,Vengeful Robertson,TX,0.50,Reeds,191.00,0.75,2.00,143.25,382.00,0.00,525.25
+3344,Lucky Johnson,CA,0.55,Beechwood,211.00,3.00,5.00,633.00,1055.00,16.88,1704.88
+3871,Cathy "Loner Demon" Murray,OK,2.00,Packed Dirt,114.00,1.00,1.50,114.00,171.00,5.70,290.70
+4449,April "Thunderbird" Dunn,MT,3.00,Cedar Planks,116.00,2.00,5.50,232.00,638.00,26.10,896.10
+4989,Deborah "the Lady",CA,0.55,Reeds,223.00,0.75,2.20,167.25,490.60,6.58,664.43
+5442,Wilma "Tornado" Brooks,WY,0.31,Pinecones,224.00,1.50,2.42,336.00,542.08,0.00,878.08
+6386,Black Beck,AL,1.00,Reeds,162.00,0.75,2.20,121.50,356.40,4.78,482.68
+6810,Mattie Grant "the Gambler",MO,2.20,Brick,80.00,4.84,6.66,387.20,532.80,18.40,938.40
+13503,Minnie Lawson "the Apostle",NV,0.31,Pebbles,235.00,0.88,4.84,206.80,1137.40,0.00,1344.20
+15731,Diana "Mistress" Morgan,MT,3.99,Pinecones,217.00,1.50,2.66,325.50,577.22,36.11,938.83
+20745,"Doom" McCoy,ID,0.00,Leather,278.00,11.00,19.97,3058.00,5551.66,0.00,8609.66
+22413,Evelyn "Evil Joker" Taylor,UT,0.00,Cedar Planks,342.00,2.20,6.66,752.40,2277.72,0.00,3030.12

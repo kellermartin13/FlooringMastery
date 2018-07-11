@@ -1,0 +1,15 @@
+2979,Beth "Fortunate Shooter" Powell,OK,2.00,Beechwood,209.00,3.00,5.00,627.00,1045.00,33.44,1705.44
+4237,Renee "Hellish Empress" Banks,TX,0.50,Pinecones,214.00,1.50,2.42,321.00,517.88,0.00,838.88
+5049,Lucky Johnson,ID,0.00,Packed Dirt,187.00,1.00,1.50,187.00,280.50,0.00,467.50
+5283,Evelyn "Evil Joker" Taylor,NM,2.20,Pebbles,277.00,0.80,4.40,221.60,1218.80,28.81,1469.21
+6317,Vanessa "Scalper" Rhodes,IA,1.21,Pebbles,217.00,0.80,4.84,173.60,1050.28,12.24,1236.12
+8910,Beth "Fortunate Shooter" Powell,NM,2.20,Solid Oak,86.00,5.50,5.50,473.00,473.00,18.92,964.92
+9049,Kathy Murphy "the Thinker",TX,0.50,Packed Dirt,137.00,1.00,1.50,137.00,205.50,0.00,342.50
+9565,Lorraine "Utah" Adams,WY,0.31,Solid Oak,203.00,5.50,5.50,1116.50,1116.50,0.00,2233.00
+9856,Julia "Bandit" Chandler,CA,0.55,Leather,310.00,10.00,18.15,3100.00,5626.50,87.26,8813.76
+10468,Lucky Johnson,UT,0.00,Reeds,200.00,0.75,2.20,150.00,440.00,0.00,590.00
+10578,Diana "Mistress" Morgan,CA,0.55,Reeds,114.00,0.75,2.20,85.50,250.80,3.36,339.66
+19463,Melissa "Lonesome Stalker" Riley,UT,0.00,Solid Oak,214.00,5.50,6.66,1177.00,1425.24,0.00,2602.24
+20060,Victoria "the Dancer",MT,4.39,Pinecones,170.00,1.50,2.66,255.00,452.20,28.29,735.49
+22611,Theresa "Kid" Robinson,AL,1.00,Pinecones,328.00,1.50,2.93,492.00,961.04,14.53,1467.57
+23522,Debra "Scorpion" Lane,ID,0.00,Cedar Planks,178.00,2.20,6.66,391.60,1185.48,0.00,1577.08

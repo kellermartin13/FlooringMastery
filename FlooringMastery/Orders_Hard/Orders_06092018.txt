@@ -1,0 +1,22 @@
+1038,Chillfire The Chiller,Lamp Borough,4.95,Dragons' Poison Glitterflesh Steel Of The North,342.00,2790.70,216.48,954419.40,74036.16,51422.78,1079878.34
+1747,Rouge Roguemist,Reheath Stronghold,8.00,Phantasmal Plague Adamant,252.00,-186.03,-6.53,-46879.56,-1645.56,-3882.01,-52407.13
+3852,Lance Knightseraph,The Archer and Scroll,39.60,Yellow Mistearth Copper,267.00,4575.58,-27.40,1221679.86,-7315.80,485745.62,1700109.68
+4783,Magus Felldrake,Tradun Castle,34.24,Sphinxes' Unknown Poisongold Of The Future,175.00,3554.77,23.86,622084.75,4175.50,212928.48,839188.73
+4912,"Nelalwe, Lady of Fire",The Archer and Scroll,39.60,Negative Mercury,268.00,4054.87,361.00,1086705.16,96748.00,473381.26,1656834.42
+5813,Zeal Bladewitch,Unicorn's Ward,13.31,Mistgold Of Men,258.00,3065.71,44.00,790953.18,11352.00,104299.67,906604.85
+5900,Spikerivet,The Cracked Chalice,2.29,Icy Shock Silver,206.00,1348.16,407.00,277720.96,83842.00,7231.26,368794.22
+10002,Rouge Tombreaper,The Bloody Wand,12.00,Djinni's Spectral Shadowlead Of Life,191.00,3705.90,325.62,707826.90,62193.42,92402.44,862422.76
+10153,Tarot Dawn,The Dungeon of Dismal Terror,-3.50,Djinni's Spectral Shadowlead Of Life,342.00,3705.90,325.62,1267417.80,111362.04,-55151.19,1323628.65
+10763,Bedlam Spiritraven,The Dismal Marsh,6.05,Litches' Fatal Mithril Of The Past,307.00,1327.98,369.05,407689.86,113298.35,31259.29,552247.50
+11972,Spikecrank,The Secret Catacombs of Ulfang the Black,42.90,Unicorns' Evil Mithril,115.00,4802.49,312.00,552286.35,35880.00,252911.53,841077.88
+13321,Deathspike The Terrifying,Arcanist's Farthing,3.00,Ghostly Soul Adamant,232.00,3222.96,229.53,747726.72,53250.96,24029.33,825007.01
+15956,Freezebrood,Haukri's Hold,27.83,Angels' Smoke Adamant Of The Mountains,241.00,3427.13,236.50,825938.33,56996.50,247221.75,1130156.58
+16127,"Ahah, Goddess of Knowledge",Peley Keep,26.33,Swordbronze,203.00,1485.01,447.01,301457.03,90743.03,101972.02,494172.08
+16884,Bronzespawn,Moor Village,76.43,Mistgold Of Men,225.00,4080.46,53.24,918103.50,11979.00,706862.70,1636945.20
+16938,"Ariel, God of Luck",Lacot Stronghold,45.22,Unspeakable Rotsoul Mithril Of Souls,177.00,248.00,441.68,43896.00,78177.36,54933.01,177006.37
+18299,"Selik, God of Death",Dysley Stronghold,45.98,Trolls' Mist Poisonplatinum Of The Twilight,82.00,567.79,434.39,46558.78,35619.98,37802.23,119980.99
+19324,Jericho Wolf,Hafeld Keep,46.71,Sirens' Rockgold,286.00,-352.01,199.96,-100674.86,57188.56,-20438.56,-63924.86
+20061,Evilbrood,Unicorn's Ward,14.64,Foulopal Copper Of The Skies,310.00,1787.91,403.00,554252.10,124930.00,101877.32,781059.42
+20324,"Selik, God of Death",The Forsaken Tomb of Devastation,0.00,Phantasmal Tin Of The Swamps,100.00,5964.74,-7.99,596474.00,-799.00,0.00,595675.00
+21673,"Suriel, Lord of Animals",The Bastion of Sthasu the Gruesome,14.93,Angels' Smoke Adamant Of The Mountains,203.00,3427.13,260.15,695707.39,52810.45,112277.68,860795.52
+23105,Jericho Wolf,The Secret Shrine of the Gargoyle Count,-2.00,Incubi's Glittering Tin Of The Future,282.00,3349.54,96.64,944570.28,27252.48,-19436.46,952386.30

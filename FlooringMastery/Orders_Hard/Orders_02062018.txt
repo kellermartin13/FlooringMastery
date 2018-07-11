@@ -1,0 +1,24 @@
+272,Rune Rougehate,Pewold Keep,16.95,Shadowhell Mithril,183.00,363.00,215.18,66429.00,39377.94,17987.18,123794.12
+1452,Blazeflare The Cremator,Tradun Castle,31.13,Incubi's Mirrorfog Iron Of The Ocean,275.00,4798.76,-19.59,1319659.00,-5387.25,407424.24,1721695.99
+1568,Lance Knightseraph,The Beggar and Cask,21.00,Venom Jewelmetal Of The Desert,159.00,1388.00,224.00,220692.00,35616.00,53824.68,310132.68
+2759,Blazeflare The Cremator,The Khazahol Crags,-1.97,Rocklava Mithril Of Revenants,228.00,1818.30,13.03,414572.40,2970.84,-8350.86,409192.38
+4816,Dawn Darkzealot,The Demon and Toad,23.75,Negative Mercury,210.00,4054.87,361.00,851522.70,75810.00,222559.85,1149892.55
+5227,Rouge Tombreaper,The Chuallanto Jungle,37.00,Mithril Of Legend,158.00,2274.80,63.01,359418.40,9955.58,136668.37,506042.35
+7384,"Penur, Lord of the Sea",Tradun Castle,34.24,Phantasmal Tin Of The Swamps,305.00,4074.00,-6.60,1242570.00,-2013.00,421789.38,1662346.38
+7825,Scarefear The Blade,The Tower of Aces the Accursed,13.31,Poison Adamant,258.00,1151.38,58.58,297056.04,15113.64,40582.06,352751.74
+9566,Magus Felldrake,Unicorn's Ward,14.64,Shadow Steel,361.00,4677.78,465.30,1688678.58,167973.30,278497.78,2135149.66
+10287,Fate Ivycaster,The Tomb of Hellish Ruin,16.94,Magicians' Legendary Poison Metal,211.00,2247.59,229.81,474241.49,48489.91,88864.34,611595.74
+11995,Beamtrap,Gena's Hold,2.66,White Platinum,265.00,-52.59,159.50,-13936.35,42267.50,849.93,29181.08
+14096,Song Runetomb,The Citadel of Lord Greywulf,33.04,Tritons' Time Stoneiron Of Legend,93.00,1760.00,204.37,163680.00,19006.41,60286.52,242972.93
+15361,"Alik, Goddess of Trickery",The Glano Forest,3.00,Incubi's Iron Of The Dawn,150.00,1200.96,424.31,180144.00,63646.50,7313.72,251104.22
+16164,Song Runetomb,The Vaults of the Shadow Emperor,33.00,Incubi's Mirrorfog Iron Of The Ocean,213.00,5806.50,-26.08,1236784.50,-5555.04,406305.72,1637535.18
+16451,"Gono, Goddess of the Earth",Lacot Stronghold,45.22,Ensorceled Sandmetal Of Spirits,220.00,2956.98,95.70,650535.60,21054.00,302215.32,973804.92
+16466,"Suriel, Lord of Animals",Moor Village,76.43,Shadowhell Mithril,207.00,483.15,315.05,100012.05,65215.35,125572.82,290800.22
+16494,Clash Lonedrake,Reyny Keep,11.00,Forgotten Mithril,252.00,1104.73,347.60,278391.96,87595.20,40258.59,406245.75
+16769,Snarepiston The Mechanical,The Drunken Thief,12.65,Planar Rainfate Mithril,49.00,1185.84,320.52,58106.16,15705.48,9595.51,83407.15
+17014,Clash Lonedrake,Khali's Delve,52.71,Djinni's Evil Sandobsidian Steel Of The Future,235.00,4208.60,172.78,989021.00,40603.30,545700.88,1575325.18
+17087,"Alik, Goddess of Trickery",The Temple of Merciless Necromancy,50.94,Primordial Mud Orichalcum,138.00,-469.36,85.11,-64771.68,11745.18,-27043.52,-80070.02
+19162,Burnfreeze The Cold,Bifar's Deep,18.70,Mana-touched Greenglitter Gold Of Giants,76.00,1291.38,514.25,98144.88,39083.00,26073.30,163301.18
+20886,Spikebrood The Disinterred,Waleah Castle,0.85,Djinni's Evil Sandobsidian Steel Of The Future,243.00,4208.60,172.78,1022689.80,41985.54,10646.75,1075322.09
+22480,Cult Godseeker,Gawold Castle,6.05,Violetstone Tin Of Death,243.00,2469.75,171.71,600149.25,41725.53,38512.49,680387.27
+23124,Bronzespike,The Lazy Sage,19.97,Unknowable Mindsilver,152.00,4313.65,402.60,655674.80,61195.20,143374.00,860244.00

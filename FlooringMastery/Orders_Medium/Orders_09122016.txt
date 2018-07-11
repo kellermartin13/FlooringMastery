@@ -1,0 +1,14 @@
+672,Friendly Howell,KS,0.50,Brick,140.00,4.00,5.00,560.00,700.00,0.00,1260.00
+1190,Cathy "Loner Demon" Murray,WY,0.25,Pinecones,237.00,1.50,2.00,355.50,474.00,0.00,829.50
+1236,Vengeful Montgomery,NM,2.20,Dirt,153.00,0.50,1.00,76.50,153.00,4.59,234.09
+5271,Tina "Lady" Anderson,OK,2.00,Brick,284.00,4.84,6.05,1374.56,1718.20,61.86,3154.62
+8123,Black Beck,TX,0.50,Reeds,355.00,0.75,2.20,266.25,781.00,0.00,1047.25
+8836,Renee "Loco Tracker" Jordan,IA,1.21,Pinecones,285.00,1.50,2.66,427.50,758.10,11.86,1197.46
+11038,Evelyn "Evil Joker" Taylor,MO,2.20,Beechwood,84.00,3.00,5.50,252.00,462.00,14.28,728.28
+11422,Vicki "Mesa" Rhodes,NV,0.31,Brick,88.00,4.84,6.66,425.92,586.08,0.00,1012.00
+13193,Theresa "Kid" Robinson,MO,2.20,Solid Oak,243.00,5.50,5.50,1336.50,1336.50,53.46,2726.46
+14345,Beth "Fortunate Shooter" Powell,KS,0.55,Packed Dirt,213.00,1.10,2.00,234.30,426.00,6.60,666.90
+15793,Renee "Loco Tracker" Jordan,OK,2.42,Packed Dirt,144.00,1.10,2.20,158.40,316.80,9.50,484.70
+19201,Kathy Murphy "the Thinker",IA,1.33,Dirt,229.00,0.50,1.00,114.50,229.00,3.44,346.94
+21001,Debra "Scorpion" Lane,NM,2.93,Solid Oak,279.00,5.50,6.66,1534.50,1858.14,101.78,3494.42
+21178,Gloria "Devil" McCoy,MO,2.20,Pinecones,187.00,1.50,2.66,280.50,497.42,15.56,793.48

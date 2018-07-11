@@ -1,0 +1,11 @@
+1658,Tammy Carlson "the Killer",TX,0.50,Solid Oak,139.00,5.00,5.00,695.00,695.00,0.00,1390.00
+3614,Vengeful Robertson,CA,0.55,Reeds,124.00,0.75,2.00,93.00,248.00,3.41,344.41
+4105,Tammy Carlson "the Killer",WY,0.31,Solid Oak,276.00,5.50,5.00,1518.00,1380.00,0.00,2898.00
+5567,Lena Chapman "the Bully",AL,1.00,Solid Oak,75.00,5.50,5.50,412.50,412.50,8.25,833.25
+6774,Melissa "Lonesome Stalker" Riley,KS,0.50,Cedar Planks,276.00,2.20,6.05,607.20,1669.80,0.00,2277.00
+13630,Black Beck,MT,3.99,Leather,175.00,11.00,18.15,1925.00,3176.25,204.05,5305.30
+16727,Heather "Friendly Gambler" Barrett,NM,2.66,Reeds,306.00,0.83,2.20,253.98,673.20,27.82,955.00
+16845,Evelyn "Evil Joker" Taylor,IA,1.21,Solid Oak,203.00,5.50,6.05,1116.50,1228.15,23.45,2368.10
+18072,Theresa "Scalphunter" Romero,MS,3.00,Pebbles,200.00,0.88,4.84,176.00,968.00,34.32,1178.32
+21490,Renee "Hellish Empress" Banks,AL,1.00,Reeds,187.00,0.83,2.20,155.21,411.40,5.67,572.28
+21669,Cathy "Wildfire" Neal,TX,0.67,Beechwood,239.00,3.63,6.05,867.57,1445.95,23.14,2336.66

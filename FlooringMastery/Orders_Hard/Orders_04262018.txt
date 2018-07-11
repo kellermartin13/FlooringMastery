@@ -1,0 +1,22 @@
+54,Lord Mystery,The Bastion of Barbos,21.29,Venom Timegold Of Dwarves,130.00,3036.00,269.00,394680.00,34970.00,90226.50,519876.50
+995,Shadow Gust,The Citadel of Alammius,3.18,Muck Orichalcum Of Ogres,263.00,3115.32,274.19,819329.16,72111.97,26743.23,918184.36
+1949,Evilcoil The Machine,The Chuallanto Jungle,37.00,Angels' Adamant,251.00,1304.00,179.30,327304.00,45004.30,137754.07,510062.37
+3161,"Selik, God of Death",Hafeld Keep,29.00,Swordbronze,176.00,1350.01,447.01,237601.76,78673.76,91719.90,407995.42
+4340,"Eumyan, Goddess of Law",Minas Gilloy,39.26,Zephyr Iron,269.00,2759.00,404.26,742171.00,108745.94,331857.61,1182774.55
+5513,"Melcha, Goddess of Thieves",The Archer and Blade,9.00,Ensorceled Sandmetal Of Spirits,241.00,2956.98,87.00,712632.18,20967.00,66023.93,799623.11
+5792,Nailpiston The Grasping,Bergfison's Deep,36.00,Ensorceled Sandmetal Of Spirits,75.00,2956.98,87.00,221773.50,6525.00,82187.46,310485.96
+6666,Beamsprocket The Grasping,The Tower of the Demon Warlord,15.75,Emerald Orichalcum,115.00,-368.87,128.90,-42420.05,14823.50,-4415.45,-32012.00
+7317,Rouge Tombreaper,Palace Farthing,43.31,Rot Silver Of The Past,135.00,3440.00,327.00,464400.00,44145.00,218674.35,727219.35
+7616,Burnbrood The Freezer,Tradun Castle,34.24,Angels' Adamant,83.00,1304.00,179.30,108232.00,14881.90,41858.73,164972.63
+7982,Emberspawn,The Tower of Aces the Accursed,13.31,Toxin Iceplatinum Of The Undead,75.00,-342.78,-53.90,-25708.50,-4042.50,-3867.63,-33618.63
+8042,Chillfire The Chiller,Barad Kesa,4.32,Violetstone Tin Of Death,215.00,2245.23,156.10,482724.45,33561.50,20651.44,536937.39
+8501,Storm Seraphheart,The Lazy Sage,19.97,Foul Ice Bronze Of Life,118.00,-92.21,129.80,-10880.78,15316.40,887.12,5322.74
+11346,Wheelspawn,Gili's Delve,-5.56,Green Dustlightning Mercury,226.00,3517.00,35.20,794842.00,7955.20,-48167.83,754629.37
+13406,Snarepiston The Mechanical,The Pilgrim's Cup,46.12,Mithril Of Legend,188.00,2274.80,63.01,427662.40,11845.88,202173.81,641682.09
+13841,Sephiroth Drakecaster,The Greedy Wench,32.70,Ghostly Soul Adamant,157.00,3222.96,229.53,506004.72,36036.21,178873.51,720914.44
+15096,Shadow Gust,The Cracked Chalice,2.52,Mithril Of The Tropics,183.00,4126.10,11.98,755076.30,2192.34,22718.06,779986.70
+15263,Seraphim Tsunami,The Greedy Wench,32.70,Unknown Fatelightning Steel Of The Glacier,278.00,2441.05,65.68,678611.90,18259.04,229967.41,926838.35
+15993,"Lenwenye, Goddess of Travel",The Bastion of Gothmog of Udun,54.84,Otherworldly Mirror Orichalcum,218.00,-298.87,526.35,-65153.66,114744.30,27274.85,76865.49
+17695,Flora Amberslayer,Weke Tower,-0.07,Sphinxes' Opalpearl Platinum Of Legend,74.00,5805.82,390.81,429630.68,28919.94,0.00,458550.62
+17822,Seraphim Tsunami,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,65.00,4076.49,325.62,264971.85,21165.30,14306.86,300444.01
+20124,Lightning Brand,The Bloody Wand,15.97,Unicorns' Evil Mithril,199.00,4802.49,377.52,955695.51,75126.48,164931.52,1195753.51

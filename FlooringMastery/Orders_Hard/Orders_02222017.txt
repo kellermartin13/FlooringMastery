@@ -1,0 +1,18 @@
+1272,Ironbrood,The Cuitamba Jungle,28.00,Imperial Fate Steel,132.00,2721.75,-37.13,359271.00,-4901.16,99223.56,453593.40
+2260,Flora Amberslayer,The Dancing Minstrel,21.20,Incubi's Mirrorfog Iron Of The Ocean,336.00,4798.76,-19.59,1612383.36,-6582.24,337218.24,1943019.36
+3340,Wheelspawn,The Forsaken Hive of Galima the Mighty,22.45,Heavenly Dreamsilver Of The Night,211.00,1826.98,112.00,385492.78,23632.00,90007.45,499132.23
+3383,Bronzespike,The Temple of Merciless Necromancy,50.94,Planar Mudtin Of Trolls,35.00,2304.41,335.36,80654.35,11737.60,47119.89,139511.84
+3710,"Maglioneth, Lord of the Sun",The Shadow Downs,13.21,Forgotten Mithril,145.00,913.00,316.00,132385.00,45820.00,23166.65,201371.65
+4202,Song Runetomb,The Archer and Scroll,39.60,Lycanthropes' Gold,387.00,4846.18,66.14,1875471.66,25596.18,760427.14,2661494.98
+6779,Evilfear The Horrorific,Noble's Village,27.50,Foul Ice Bronze Of Life,311.00,-92.21,129.80,-28677.31,40367.80,3273.34,14963.83
+9862,Lord Mystery,The Pirate's Pipe,17.60,Golems' Stonesapphire Gold Of The Glacier,306.00,3672.77,105.97,1123867.62,32426.82,208133.00,1364427.44
+9896,Rouge Tombreaper,The Dismal Marsh,6.05,Pearl Mirrorice Steel Of Changelings,245.00,271.51,38.07,66519.95,9327.15,4550.83,80397.93
+11775,Wheelbolt The Machine,The Barrow of Malefic Ages,17.91,Phantasmal Tin Of The Swamps,142.00,4074.00,-6.60,578508.00,-937.20,103962.74,681533.54
+11859,Harmony Angelchild,Archring Borough,17.93,Magic Adamant,147.00,1838.00,228.40,270186.00,33574.80,54676.94,358437.74
+12450,Rune Rougehate,Castle Village,37.51,Toxin Iceplatinum Of The Undead,270.00,-377.06,-59.29,-101806.20,-16008.30,-44769.51,-162584.01
+13556,Evilfear The Horrorific,The Citadel of Alammius,3.50,Negative Mercury,134.00,4054.87,436.81,543352.58,58532.54,24075.40,625960.52
+13757,Shadow Gust,Khali's Delve,52.71,Witchs' Forbidden Rockrainbow Bronze,299.00,655.60,387.20,196024.40,115772.80,165252.52,477049.72
+17061,Blazeflare The Cremator,The Flying Witch,12.60,Sprites' Transcendent Mud Lead Of The South,219.00,2081.80,321.86,455914.20,70487.34,68432.20,594833.74
+19120,Evilcoil The Machine,The Drunken Thief,12.65,Mind Lead,193.00,3442.09,374.01,664323.37,72183.93,95745.95,832253.25
+19631,Chainnail,Castle Village,49.93,Goddesses' Spectral Poison Steel,336.00,5023.18,296.81,1687788.48,99728.16,893758.32,2681274.96
+21527,Evilember The Firey,The Warrior and Flagon,53.24,Sphinxes' Opalpearl Platinum Of Legend,32.00,5805.82,429.89,185786.24,13756.48,105757.64,305300.36

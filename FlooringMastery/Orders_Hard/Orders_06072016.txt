@@ -1,0 +1,17 @@
+340,Evilcoil The Machine,The Tomb of Hellish Ruin,14.00,Nymphs' Luminous Rotmercury Of The Skies,189.00,266.00,189.00,50274.00,35721.00,12039.30,98034.30
+5518,Claw Mist,Unicorn's Ward,13.31,White Platinum,190.00,-52.59,145.00,-9992.10,27550.00,2282.53,19840.43
+6598,"Gadriel, God of Resurrection",The Tower of Aces the Accursed,13.31,Timeiron,342.00,1596.00,228.33,545832.00,78088.86,81109.71,705030.57
+9069,Steelterror The Blade,The Bastion of the Vampire Duke,19.28,Foul Ice Bronze Of Life,172.00,-92.21,129.80,-15860.12,22325.60,1228.44,7693.92
+9281,Beamsprocket The Grasping,Minas Gilloy,39.26,Rocklava Mithril Of Revenants,224.00,1818.30,14.33,407299.20,3209.92,160098.56,570607.68
+9430,Shadow Tomblion,Lamp Borough,4.95,Ghostly Magic Adamant,121.00,4836.38,230.90,585201.98,27938.90,30657.04,643797.92
+9559,"Gadriel, God of Resurrection",The Tomb of Gothmog of Udun,-3.00,Golems' Stonesapphire Gold Of The Glacier,147.00,3672.77,105.97,539897.19,15577.59,-16664.24,538810.54
+11650,"Ariel, God of Luck",The Broken Arrow,30.07,Lycanthropes' Gold,256.00,4846.18,66.14,1240622.08,16931.84,377266.18,1634820.10
+13157,"Alas, Lord of Plague",Castle Village,41.26,Mithril Of Legend,236.00,2274.80,63.01,536852.80,14870.36,226206.50,777929.66
+14165,Grave Mistseeker,The Lewd King,27.00,Phantasmal Lead,190.00,-552.97,245.47,-105064.30,46639.30,-15774.75,-74199.75
+15009,Evilember The Firey,Gena's Hold,2.66,Primordial Mud Orichalcum,363.00,-387.90,85.11,-140807.70,30894.93,-3297.38,-113210.15
+18437,Rose Anchor,Mahyrst Keep,30.42,Primordial Plague Mercury Of Legend,191.00,497.52,301.29,95026.32,57546.39,45771.81,198344.52
+18511,Deathbrood,The Tower of Aramum,42.90,Mana-touched Greenglitter Gold Of Giants,363.00,1291.38,514.25,468770.94,186672.75,281840.79,937284.48
+18568,Seraphim Tsunami,South Brightcrown Borough,42.25,Venom Timegold Of Dwarves,174.00,3339.60,295.90,581090.40,51486.60,265682.34,898259.34
+20512,Rune Rougehate,The Forsaken Tomb of Devastation,0.00,Undeads' Mind Orichalcum Of The Twilight,125.00,-17.00,276.00,-2125.00,34500.00,0.00,32375.00
+21628,Fate Seeker,Pewold Keep,22.57,Angels' Smoke Adamant Of The Mountains,84.00,3427.13,260.15,287878.92,21852.60,71238.25,380969.77
+22325,Springsprocket,The Beggar and Cask,25.41,Undeads' Mind Orichalcum Of The Twilight,95.00,-17.00,276.00,-1615.00,26220.00,6151.25,30756.25

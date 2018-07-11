@@ -1,0 +1,14 @@
+866,"Azah, Goddess of Fate",Reyny Keep,11.00,Phantasmal Lead,91.00,-457.00,245.47,-41587.00,22337.77,-2117.42,-21366.65
+1146,Bonescare,The Broken Shield,37.23,Primordial Mud Orichalcum,337.00,-387.90,77.37,-130722.30,26073.69,-38719.99,-143368.60
+6226,Rouge Roguemist,The Fortress of Gama,10.16,Fairies' Supreme Mistsmoke Lead Of The Future,136.00,3349.50,324.73,455532.00,44163.28,49969.53,549664.81
+6386,Emberspawn,The Tower of Aces the Accursed,13.31,Timeiron,192.00,1596.00,228.33,306432.00,43839.36,45535.28,395806.64
+6825,Sephiroth Drakecaster,Weke Tower,-0.05,Glittering Orichalcum,168.00,-144.10,360.23,-24208.80,60518.64,0.00,36309.84
+7152,"Nelalwe, Lady of Fire",The Demon and Toad,23.75,Hell Mercury Of The East,338.00,4636.34,284.60,1567082.92,96194.80,399186.65,2062464.37
+8448,Seraph Jester,Gili's Delve,-5.05,Foul Ice Bronze Of Life,227.00,-92.21,129.80,-20931.67,29464.60,-426.65,8106.28
+8608,Cinderflame,The Bastion of the Lich Tyrant,43.00,Djinni's Spectral Shadowlead Of Life,165.00,3705.90,296.02,611473.50,48843.30,283936.22,944253.02
+10307,Deathspike The Terrifying,The Citadel of Lord Greywulf,33.04,Djinni's Spectral Shadowlead Of Life,254.00,3705.90,325.62,941298.60,82707.48,337922.01,1361928.09
+12513,Springcoil,Castle Village,37.51,Spectres' Shadowy Terrorglow Adamant Of Life,238.00,5164.28,226.05,1229098.64,53799.90,487501.45,1770399.99
+14936,Steelterror The Blade,The Cracked Chalice,2.52,Muck Orichalcum Of Ogres,327.00,3769.54,401.45,1232639.58,131274.15,40917.41,1404831.14
+16077,"Byzou, God of Animals",Barad Kesa,4.75,God-touched Faterainbow Orichalcum Of Spectres,317.00,370.41,32.01,117419.97,10147.17,6378.36,133945.50
+18649,Shiverflame The Freezer,The Lewd King,32.67,Sphinxes' Opalpearl Platinum Of Legend,359.00,5805.82,390.81,2084289.38,140300.79,734114.76,2958704.93
+19450,"Maglioneth, Lord of the Sun",Castle Village,49.93,Planar Mudtin Of Trolls,333.00,3067.17,405.79,1021367.61,135128.07,578247.84,1734743.52

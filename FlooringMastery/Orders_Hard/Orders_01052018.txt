@@ -1,0 +1,19 @@
+2243,Cult Godseeker,Barad Cune,26.00,Planar Mudtin Of Trolls,292.00,2094.92,335.36,611716.64,97925.12,184506.86,894148.62
+2707,Harmony Angelchild,Pawic Keep,0.56,Phantasmal Smokezephyr Mercury Of Men,86.00,-317.16,69.00,-27275.76,5934.00,-213.42,-21555.18
+3073,Dawn Darkzealot,The Fortress of Gama,10.16,Vampires' Hammer Emeraldmetal,199.00,344.95,25.84,68645.05,5142.16,7378.72,81165.93
+3578,Sunrise Godwarlock,The Lewd King,27.00,Mistgold Of Men,303.00,3065.71,44.00,928910.13,13332.00,254405.38,1196647.51
+3861,Tiger Mistmidnight,Gifeld Castle,6.22,Incubi's Iron Of The Dawn,212.00,1200.96,385.74,254603.52,81776.88,20182.82,356563.22
+4835,"Selik, God of Death",The Tower of Sabiesu the Awesome,4.40,Vampires' Hammer Emeraldmetal,276.00,379.45,25.84,104728.20,7131.84,4474.40,116334.44
+6121,"Avriel, God of Death",The Cracked Chalice,2.29,Fairies' Supreme Mistsmoke Lead Of The Future,203.00,3349.50,324.73,679948.50,65920.19,14917.37,760786.06
+7037,Sunrise Godwarlock,Kada's Deep,33.00,Ghostly Soul Adamant,133.00,3222.96,229.53,428653.68,30527.49,151529.79,610710.96
+9198,Emberfire,The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,134.00,3773.99,269.83,505714.66,36157.22,97536.94,639408.82
+9974,Slayer Claw,The Citadel of Lord Greywulf,33.04,Ensorceled Gold Of The Dawn,186.00,5713.98,402.92,1062800.28,74943.12,375455.32,1513198.72
+10655,Dawn Darkzealot,Haukri's Hold,27.83,Litches' Fatal Mithril Of The Past,111.00,1327.98,369.05,147405.78,40964.55,52743.69,241114.02
+14212,"Eumyan, Goddess of Law",Arcanist's Farthing,3.00,Sprites' Transcendent Mud Lead Of The South,102.00,2081.80,321.86,212343.60,32829.72,7355.20,252528.52
+15137,"Maeglodor, God of Thieves",The Cuitamba Jungle,30.80,Mithril Of The Tropics,314.00,4126.10,11.98,1295595.40,3761.72,402800.71,1702157.83
+18361,Flora Amberslayer,Lamp Borough,4.95,Legendary Mithril Of The Moon,129.00,2977.81,125.84,384137.49,16233.36,20018.54,420389.39
+19086,"Iran, Lord of Nightmares",The Citadel of Tattena the Sinister,13.34,Mana-touched Greenglitter Gold Of Giants,303.00,1291.38,514.25,391288.14,155817.75,71123.77,618229.66
+20721,Metalbrood,The Black Barrow of Zago the Possessed,30.80,Sphinxes' Opalpearl Platinum Of Legend,49.00,5805.82,390.81,284485.18,19149.69,94126.81,397761.68
+21120,Beamtrap,The Hunter and Rose,44.44,Meteoric Dustzephyr Orichalcum,167.00,375.00,295.34,62625.00,49321.78,49256.58,161203.36
+22518,"Ingwenel, God of War",Gili's Delve,-6.73,Ensorceled Gold Of The Dawn,194.00,6913.92,443.21,1341300.48,85982.74,-99909.83,1327373.39
+23026,Fate Seeker,Hafeld Keep,46.71,Pearl Mirrorice Steel Of Changelings,22.00,328.53,55.75,7227.66,1226.50,3973.46,12427.62

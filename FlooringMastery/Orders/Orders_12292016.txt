@@ -1,0 +1,16 @@
+637,Renee "Loco Tracker" Jordan,MT,3.00,Cedar Planks,215.00,2.00,5.00,430.00,1075.00,45.15,1550.15
+2689,Melissa "Lonesome Stalker" Riley,WY,0.28,Reeds,321.00,0.75,2.00,240.75,642.00,0.00,882.75
+3518,Betty "Happy Thinker" Watson,AL,1.00,Brick,251.00,4.00,5.50,1004.00,1380.50,23.84,2408.34
+4639,Marie "Raven" Chapman,IA,1.10,Solid Oak,370.00,5.50,5.50,2035.00,2035.00,40.70,4110.70
+4771,Diana "Mistress" Morgan,IA,1.10,Brick,326.00,4.40,5.50,1434.40,1793.00,32.27,3259.67
+4792,Friendly Howell,ND,1.25,Reeds,155.00,0.75,2.20,116.25,341.00,4.57,461.82
+9741,"Doom" McCoy,ND,1.25,Packed Dirt,170.00,1.00,1.50,170.00,255.00,4.25,429.25
+10323,Gloria "Devil" McCoy,KS,0.55,Pebbles,73.00,0.88,4.84,64.24,353.32,4.18,421.74
+11656,Lorraine "Utah" Adams,MT,3.63,Leather,135.00,10.00,18.15,1350.00,2450.25,152.01,3952.26
+13949,Julia "Bandit" Chandler,WY,0.31,Leather,46.00,11.00,18.15,506.00,834.90,0.00,1340.90
+14448,Evelyn "Evil Joker" Taylor,MO,2.20,Pinecones,142.00,1.50,2.66,213.00,377.72,11.81,602.53
+16159,Evelyn "Evil Joker" Taylor,MT,3.99,Beechwood,230.00,3.63,5.50,834.90,1265.00,84.00,2183.90
+18964,Vengeful Robertson,WY,0.31,Brick,113.00,5.32,6.66,601.16,752.58,0.00,1353.74
+19587,Amanda Hart "the Loner",NV,0.31,Pebbles,214.00,0.88,4.84,188.32,1035.76,0.00,1224.08
+20818,Renee "Loco Tracker" Jordan,NM,2.93,Solid Oak,227.00,5.50,6.66,1248.50,1511.82,82.81,2843.13
+23056,Wilma "Tornado" Brooks,WY,0.34,Pinecones,150.00,1.50,2.93,225.00,439.50,0.00,664.50

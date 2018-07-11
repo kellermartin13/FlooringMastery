@@ -1,0 +1,17 @@
+354,Lorraine "Utah" Adams,TX,0.50,Pinecones,187.00,1.50,2.00,280.50,374.00,0.00,654.50
+3129,Jo "the Joker",KS,0.50,Packed Dirt,208.00,1.00,1.50,208.00,312.00,0.00,520.00
+3429,Friendly Howell,MS,3.00,Brick,272.00,4.00,5.50,1088.00,1496.00,77.52,2661.52
+5023,Deborah "the Lady",NV,0.25,Packed Dirt,127.00,1.00,1.50,127.00,190.50,0.00,317.50
+5107,Beth "Fortunate Shooter" Powell,MT,3.00,Brick,228.00,4.84,6.05,1103.52,1379.40,74.49,2557.41
+5222,Theresa "Kid" Robinson,ID,0.00,Beechwood,212.00,3.00,5.00,636.00,1060.00,0.00,1696.00
+7728,Evelyn "Evil Joker" Taylor,ID,0.00,Pebbles,113.00,0.80,4.84,90.40,546.92,0.00,637.32
+8828,Beth "Fortunate Shooter" Powell,AR,2.20,Cedar Planks,261.00,2.20,6.05,574.20,1579.05,43.06,2196.31
+9129,Joanne "Damned" Miles,MS,3.00,Cedar Planks,55.00,2.20,6.05,121.00,332.75,13.61,467.36
+10815,Geraldine "Revenge" Warren,IA,1.21,Leather,174.00,10.00,18.15,1740.00,3158.10,48.98,4947.08
+14079,Heather "Tornado" Newman,AR,2.20,Leather,141.00,11.00,18.15,1551.00,2559.15,82.20,4192.35
+14915,Ida Russell "the Rustler",ND,1.38,Solid Oak,257.00,5.50,5.50,1413.50,1413.50,28.27,2855.27
+17661,Cynthia "the Vixen",MT,3.99,Brick,151.00,5.32,6.66,803.32,1005.66,72.36,1881.34
+18888,Melissa "Lonesome Stalker" Riley,MT,3.99,Pinecones,127.00,1.50,2.66,190.50,337.82,21.13,549.45
+21497,Maureen "Cursed" Andrews,ND,1.67,Beechwood,52.00,3.63,6.05,188.76,314.60,10.07,513.43
+22232,Mattie Grant "the Gambler",MT,5.84,Brick,307.00,5.32,6.66,1633.24,2044.62,220.67,3898.53
+23390,Lorraine "Utah" Adams,ND,1.67,Leather,61.00,11.00,19.97,671.00,1218.17,37.78,1926.95

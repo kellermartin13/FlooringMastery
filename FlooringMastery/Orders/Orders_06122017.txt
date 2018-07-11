@@ -1,0 +1,23 @@
+780,Melissa "Lonesome Stalker" Riley,IA,1.00,Pebbles,176.00,0.80,4.00,140.80,704.00,8.45,853.25
+1749,Vanessa "Scalper" Rhodes,MS,3.00,Beechwood,181.00,3.00,5.00,543.00,905.00,43.44,1491.44
+2148,Deborah "the Lady",ID,0.00,Beechwood,150.00,3.00,5.00,450.00,750.00,0.00,1200.00
+2346,Vicki "Mesa" Rhodes,TX,0.50,Solid Oak,106.00,5.50,5.00,583.00,530.00,0.00,1113.00
+2412,Michele Watson "the Loner",NM,2.20,Brick,71.00,4.00,5.50,284.00,390.50,13.49,687.99
+5561,Darlene "Loner" Ford,OK,2.20,Dirt,217.00,0.50,1.00,108.50,217.00,6.51,332.01
+6479,Lorraine "Utah" Adams,MS,3.00,Beechwood,341.00,3.00,5.00,1023.00,1705.00,81.84,2809.84
+7879,Mattie Grant "the Gambler",MO,2.20,Pinecones,315.00,1.50,2.66,472.50,837.90,26.21,1336.61
+8662,Susan "Damnation" Fleming,UT,0.00,Cedar Planks,137.00,2.20,6.05,301.40,828.85,0.00,1130.25
+9225,Debra "Scorpion" Lane,WY,0.31,Dirt,46.00,0.50,1.00,23.00,46.00,0.00,69.00
+12355,Renee "Hellish Empress" Banks,IA,1.21,Pinecones,297.00,1.50,2.66,445.50,790.02,12.36,1247.88
+12755,Heather "Tornado" Newman,WY,0.31,Dirt,225.00,0.50,1.00,112.50,225.00,0.00,337.50
+13173,Florence "Leather Doc" Grant,UT,0.00,Reeds,214.00,0.75,2.20,160.50,470.80,0.00,631.30
+15366,Cathy "Loner Demon" Murray,ID,0.00,Dirt,265.00,0.50,1.00,132.50,265.00,0.00,397.50
+15596,Betty "Happy Thinker" Watson,NV,0.31,Leather,238.00,11.00,18.15,2618.00,4319.70,0.00,6937.70
+16641,Heather "Tornado" Newman,MT,3.99,Packed Dirt,175.00,1.10,2.20,192.50,385.00,23.10,600.60
+17292,Gladys "Locoweed" Keller,OK,2.42,Dirt,144.00,0.50,1.00,72.00,144.00,4.32,220.32
+17439,Friendly Howell,NV,0.31,Pebbles,257.00,0.88,4.84,226.16,1243.88,0.00,1470.04
+18023,Minnie Lawson "the Apostle",UT,0.00,Dirt,248.00,0.50,1.00,124.00,248.00,0.00,372.00
+18732,Cynthia "the Vixen",TX,0.67,Reeds,187.00,0.83,2.20,155.21,411.40,5.67,572.28
+19797,"Sunrise" Miles,ID,0.00,Pinecones,163.00,1.50,2.66,244.50,433.58,0.00,678.08
+21384,Minnie Lawson "the Apostle",KS,0.55,Dirt,64.00,0.55,1.00,35.20,64.00,0.99,100.19
+22120,Black Beck,IA,1.33,Pebbles,364.00,0.88,4.84,320.32,1761.76,20.82,2102.90

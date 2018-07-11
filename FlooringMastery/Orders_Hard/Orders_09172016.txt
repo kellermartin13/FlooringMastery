@@ -1,0 +1,20 @@
+127,Burnfreeze The Cold,Love Keep,7.00,Magicians' Legendary Poison Metal,173.00,2043.26,208.92,353483.98,36143.16,27273.90,416901.04
+2487,Shadow Gust,The Fortress of the Lich Queen,36.35,Heavenly Dreamsilver Of The Night,317.00,1826.98,112.00,579152.66,35504.00,221276.40,835933.06
+4969,"Lionare, God of the Lost",The Scoundrel and Flask,-4.58,Meteoric Mirrormuck Orichalcum Of The Forests,168.00,1962.00,185.77,329616.00,31209.36,-18041.27,342784.09
+5700,Lord Mystery,Unicorn's Ward,13.31,Forgotten Mithril,267.00,913.00,316.00,243771.00,84372.00,42658.59,370801.59
+7028,"Ingwenel, God of War",The Demon and Toad,23.75,Otherworldly Mirror Orichalcum,268.00,-247.00,478.50,-66196.00,128238.00,14890.08,76932.08
+8255,Lightning Brand,The Wizard's House,43.58,Goddesses' Spectral Poison Steel,106.00,3773.99,269.83,400042.94,28601.98,188603.76,617248.68
+8291,Storm Seraphheart,The Bastion of the Lich Tyrant,43.00,Goddesses' Spectral Poison Steel,184.00,3773.99,269.83,694414.16,49648.72,319947.04,1064009.92
+8928,Flora Amberslayer,Gawold Castle,5.50,Goddesses' Spectral Poison Steel,229.00,3773.99,269.83,864243.71,61791.07,55562.09,981596.87
+10214,"Gadriel, God of Resurrection",The Nulukkhath Spires,10.59,Magicians' Legendary Poison Metal,267.00,2247.59,229.81,600106.53,61359.27,72761.24,734227.04
+11649,Nettool The Grasping,The Citadel of Cheno,7.33,God-touched Greengem Platinum,89.00,1281.72,-39.60,114073.08,-3524.40,7738.41,118287.09
+13791,Rouge Tombreaper,Khali's Delve,52.71,Shadowhell Mithril,210.00,483.15,286.41,101461.50,60146.10,85652.03,247259.63
+14123,Freezebrood,Arcanist's Farthing,3.00,Emerald Orichalcum,319.00,-405.76,128.90,-129437.44,41119.10,-2649.55,-90967.89
+14170,Jericho Wolf,Lamp Borough,4.95,Vampires' Hammer Emeraldmetal,274.00,379.45,25.84,103969.30,7080.16,5552.47,116601.93
+15150,Shadow Gust,The Dark Caverns of Woe,3.29,Shadow Steel,131.00,5660.12,511.83,741475.72,67049.73,24255.76,832781.21
+15349,Beamtrap,Lamp Borough,4.95,Plague Tin,112.00,4767.02,342.10,533906.24,38315.20,28611.07,600832.51
+17157,Magus Felldrake,The Tower of Aces the Accursed,13.31,Imperial Fate Steel,173.00,2993.93,-59.79,517949.89,-10343.67,65988.81,573595.03
+18214,Fate Seeker,North Arcanist's Farthing,55.18,Djinni's Spectral Shadowlead Of Life,191.00,4076.49,325.62,778609.59,62193.42,462441.66,1303244.67
+19096,Shadow Tomblion,The Forsaken Delve of Lord Greywulf,42.90,Ensorceled Sandmetal Of Spirits,261.00,2956.98,95.70,771771.78,24977.70,342602.28,1139351.76
+22094,"Ahah, Goddess of Knowledge",The Tomb of Hellish Ruin,16.94,Poison Adamant,274.00,1266.52,70.88,347026.48,19421.12,62296.09,428743.69
+22199,Metalghoul,Hartshill Ward,50.80,Foul Ice Bronze Of Life,290.00,-101.43,157.06,-29414.70,45547.40,8227.68,24360.38

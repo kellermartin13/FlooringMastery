@@ -1,0 +1,22 @@
+2544,Debra "Scorpion" Lane,OK,2.00,Cedar Planks,273.00,2.00,5.50,546.00,1501.50,40.95,2088.45
+5083,Cathy "Wildfire" Neal,AL,1.00,Brick,348.00,4.84,6.05,1684.32,2105.40,37.90,3827.62
+5358,Wilma "Tornado" Brooks,MS,3.00,Packed Dirt,194.00,1.00,1.50,194.00,291.00,14.55,499.55
+6202,Kathy Murphy "the Thinker",MO,2.20,Solid Oak,80.00,5.50,5.50,440.00,440.00,17.60,897.60
+7394,April "Thunderbird" Dunn,AL,1.00,Packed Dirt,349.00,1.00,1.50,349.00,523.50,8.72,881.22
+8834,Gladys "Locoweed" Keller,CA,0.55,Leather,232.00,10.00,18.15,2320.00,4210.80,65.31,6596.11
+8899,Renee "Hellish Empress" Banks,MT,3.30,Solid Oak,106.00,5.50,5.50,583.00,583.00,34.98,1200.98
+10456,Heather "Friendly Gambler" Barrett,TX,0.67,Beechwood,110.00,3.00,5.50,330.00,605.00,9.35,944.35
+11536,Maureen "Cursed" Andrews,ID,0.00,Brick,264.00,4.84,6.66,1277.76,1758.24,0.00,3036.00
+11856,"Doom" McCoy,NV,0.31,Beechwood,65.00,3.30,5.50,214.50,357.50,0.00,572.00
+12432,Betty "Happy Thinker" Watson,OK,2.42,Leather,247.00,11.00,18.15,2717.00,4483.05,144.00,7344.05
+12730,Heather "Tornado" Newman,ID,0.00,Dirt,237.00,0.50,1.00,118.50,237.00,0.00,355.50
+14748,Victoria "the Dancer",IA,1.21,Beechwood,198.00,3.63,5.50,718.74,1089.00,18.08,1825.82
+16058,Deborah "the Lady",OK,2.42,Dirt,135.00,0.50,1.00,67.50,135.00,4.05,206.55
+16455,Cynthia "the Vixen",CA,0.61,Dirt,185.00,0.50,1.00,92.50,185.00,2.78,280.28
+17110,Tammy Carlson "the Killer",TX,0.67,Brick,222.00,5.32,6.66,1181.04,1478.52,26.60,2686.16
+19823,"Scalphunter" Kennedy,ID,0.00,Packed Dirt,235.00,1.10,2.42,258.50,568.70,0.00,827.20
+19906,Renee "Hellish Empress" Banks,KS,0.55,Brick,298.00,5.32,6.66,1585.36,1984.68,35.70,3605.74
+20197,Stella "the Bully",AR,2.20,Leather,275.00,11.00,19.97,3025.00,5491.75,170.34,8687.09
+20468,Jo "the Joker",AR,2.20,Solid Oak,217.00,5.50,6.66,1193.50,1445.22,52.77,2691.49
+21783,Marie "Raven" Chapman,AL,1.00,Dirt,268.00,0.55,1.00,147.40,268.00,4.15,419.55
+22876,Renee "Loco Tracker" Jordan,TX,0.67,Brick,83.00,5.32,6.66,441.56,552.78,9.94,1004.28

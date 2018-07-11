@@ -1,0 +1,14 @@
+82,"Doom" McCoy,ND,1.25,Cedar Planks,54.00,2.00,5.00,108.00,270.00,3.78,381.78
+618,Allison "Steel Gravedigger" Douglas,CA,0.50,Cedar Planks,299.00,2.00,5.00,598.00,1495.00,0.00,2093.00
+2510,Deborah "the Lady",ID,0.00,Reeds,208.00,0.75,2.00,156.00,416.00,0.00,572.00
+7265,Lorraine "Utah" Adams,AR,2.20,Cedar Planks,83.00,2.20,6.05,182.60,502.15,13.70,698.45
+8608,Melissa "Lonesome Stalker" Riley,MO,2.20,Pebbles,247.00,0.88,4.84,217.36,1195.48,28.26,1441.10
+9303,Beth "Fortunate Shooter" Powell,MO,2.20,Leather,197.00,10.00,18.15,1970.00,3575.55,110.91,5656.46
+9413,Friendly Howell,KS,0.50,Beechwood,110.00,3.00,5.50,330.00,605.00,0.00,935.00
+9530,Lucky Johnson,NV,0.31,Brick,14.00,4.84,6.66,67.76,93.24,0.00,161.00
+10729,Jacqueline "Riding Doc" Washington,AR,2.20,Leather,79.00,10.00,18.15,790.00,1433.85,44.48,2268.33
+17329,Amanda Hart "the Loner",NM,2.66,Packed Dirt,125.00,1.10,2.20,137.50,275.00,12.38,424.88
+18893,Elizabeth "the Bully",NM,2.93,Cedar Planks,332.00,2.20,6.66,730.40,2211.12,88.25,3029.77
+21387,Cathy "Loner Demon" Murray,NM,2.93,Leather,210.00,11.00,19.97,2310.00,4193.70,195.11,6698.81
+22145,Darlene "Loner" Ford,CA,0.67,Solid Oak,191.00,5.50,6.66,1050.50,1272.06,23.23,2345.79
+23359,Jo "the Joker",NM,2.93,Leather,269.00,11.00,19.97,2959.00,5371.93,249.93,8580.86

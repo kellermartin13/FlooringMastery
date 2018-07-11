@@ -1,0 +1,18 @@
+2383,Wheelspawn,Boiaburh Keep,16.00,Mana-touched Greenglitter Gold Of Giants,243.00,1173.98,425.00,285277.14,103275.00,62168.34,450720.48
+4201,Seraph Jester,Citadel Ward,25.82,Spirits' Living Wordhammer Tin Of The Trees,170.00,4343.00,26.40,738310.00,4488.00,193127.48,935925.48
+4696,Rouge Tombreaper,The Khazahol Crags,-1.97,Zephyr Adamant,122.00,4224.00,102.93,515328.00,12557.46,-10557.71,517327.75
+5832,Tarot Dawn,The Dungeon of Merciless Woe,38.62,Angels' Adamant,164.00,1304.00,179.30,213856.00,29405.20,94871.87,338133.07
+6039,Song Runetomb,The Dark Caverns of Woe,3.29,Primal Adamant,107.00,4562.80,273.90,488219.60,29307.30,15525.81,533052.71
+6838,Law Lionwatcher,The Tower of Aces the Accursed,13.31,Unknown Fatelightning Steel Of The Glacier,209.00,2017.40,54.28,421636.60,11344.52,56287.55,489268.67
+8156,Cinderember,The Black Barrow of Bery,-0.07,Djinni's Spectral Shadowlead Of Life,248.00,3705.90,296.02,919063.20,73412.96,0.00,992476.16
+9068,Bane Veil,The Nulukkhath Spires,10.59,Angels' Smoke Adamant Of The Mountains,320.00,2832.34,215.00,906348.80,68800.00,107266.37,1082415.17
+9121,Bane Veil,The Pirate's Pipe,17.60,Angels' Smoke Adamant Of The Mountains,259.00,2832.34,215.00,733576.06,55685.00,142066.99,931328.05
+10450,Rose Anchor,The Dismal Marsh,6.05,Succubi's Evil Mindzephyr Adamant Of The Desert,227.00,2189.18,250.07,496943.86,56765.89,33222.58,586932.33
+17235,"Ingwenel, God of War",Reyny Keep,11.00,Hidden Shadowice Lead,254.00,2729.00,-62.23,693166.00,-15806.42,74509.55,751869.13
+17355,Bane Veil,North Arcanist's Farthing,55.18,Angels' Smoke Adamant Of The Mountains,330.00,3427.13,260.15,1130952.90,85849.50,669241.32,1886043.72
+17500,Nailpiston The Grasping,The Grey Plains,19.97,Fog Lavaplatinum Of Life,291.00,1078.00,18.70,313698.00,5441.70,63827.94,382967.64
+17626,Sunrise Godwarlock,The Cracked Chalice,2.52,Grayplatinum,38.00,2506.27,306.97,95238.26,11664.86,3207.09,110110.21
+19066,Tiger Mistmidnight,The Secret Shrine of the Gargoyle Count,-2.00,Violetdream Iron,188.00,1347.16,349.36,253266.08,65679.68,-6378.92,312566.84
+20735,"Prusu, God of Love",The Warrior and Flagon,53.24,Undeads' Mind Orichalcum Of The Twilight,126.00,-17.00,276.00,-2142.00,34776.00,17296.02,49930.02
+20854,Maverick Wind,The Forsaken Hive of Galima the Mighty,29.89,Negative Rockglitter Mercury Of Trolls,198.00,1795.52,681.36,355512.96,134909.28,147126.67,637548.91
+22866,"Baltha, Goddess of Knowledge",The Lost Sanctum of Woe,3.30,Hidden Shadowice Lead,55.00,2729.00,-62.23,150095.00,-3422.65,4400.17,151072.52

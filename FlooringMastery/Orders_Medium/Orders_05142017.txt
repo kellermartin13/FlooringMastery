@@ -1,0 +1,15 @@
+542,Ida Russell "the Rustler",NM,2.20,Reeds,217.00,0.75,2.00,162.75,434.00,11.94,608.69
+771,Betty "Happy Thinker" Watson,CA,0.50,Brick,158.00,4.00,5.00,632.00,790.00,0.00,1422.00
+2253,Jo "the Joker",ND,1.25,Solid Oak,214.00,5.00,5.00,1070.00,1070.00,21.40,2161.40
+5470,"Scalphunter" Kennedy,OK,2.00,Solid Oak,207.00,5.50,5.50,1138.50,1138.50,45.54,2322.54
+5575,Debra "Scorpion" Lane,IA,1.21,Pinecones,146.00,1.50,2.66,219.00,388.36,6.07,613.43
+7874,Tammy Carlson "the Killer",MS,3.00,Solid Oak,140.00,5.50,5.50,770.00,770.00,46.20,1586.20
+9858,Kathy Murphy "the Thinker",WY,0.31,Pinecones,143.00,1.50,2.66,214.50,380.38,0.00,594.88
+10893,Black Beck,AL,1.00,Leather,298.00,10.00,18.15,2980.00,5408.70,83.89,8472.59
+11634,Allison "Steel Gravedigger" Douglas,WY,0.31,Pebbles,187.00,0.88,4.84,164.56,905.08,0.00,1069.64
+13312,"Scalphunter" Kennedy,TX,0.67,Beechwood,87.00,3.30,5.50,287.10,478.50,7.66,773.26
+13855,Lena Chapman "the Bully",CA,0.61,Dirt,282.00,0.50,1.00,141.00,282.00,4.23,427.23
+15774,Vanessa "Scalper" Rhodes,ID,0.00,Pinecones,272.00,1.50,2.66,408.00,723.52,0.00,1131.52
+16718,Florence "Leather Doc" Grant,KS,0.55,Dirt,178.00,0.50,1.00,89.00,178.00,2.67,269.67
+18402,Friendly Howell,CA,0.61,Packed Dirt,210.00,1.10,2.20,231.00,462.00,6.93,699.93
+21822,Vicki "Mesa" Rhodes,OK,2.93,Pinecones,142.00,1.50,2.66,213.00,377.72,17.72,608.44

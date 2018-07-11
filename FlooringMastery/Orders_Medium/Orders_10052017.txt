@@ -1,0 +1,18 @@
+91,Jacqueline "Riding Doc" Washington,ID,0.00,Brick,273.00,4.00,5.00,1092.00,1365.00,0.00,2457.00
+1410,Allison "Steel Gravedigger" Douglas,TX,0.50,Pinecones,165.00,1.50,2.00,247.50,330.00,0.00,577.50
+2102,Renee "Loco Tracker" Jordan,AR,2.20,Reeds,264.00,0.75,2.00,198.00,528.00,14.52,740.52
+4060,"Sunrise" Miles,OK,2.00,Brick,140.00,4.40,5.50,616.00,770.00,27.72,1413.72
+4775,Surgeon Grant,KS,0.50,Cedar Planks,230.00,2.00,5.50,460.00,1265.00,0.00,1725.00
+4985,Gloria "Devil" McCoy,NV,0.25,Brick,281.00,4.84,6.05,1360.04,1700.05,0.00,3060.09
+5207,Renee "Loco Tracker" Jordan,AL,1.00,Dirt,198.00,0.50,1.00,99.00,198.00,2.97,299.97
+8507,Heather "Tornado" Newman,TX,0.50,Leather,233.00,10.00,18.15,2330.00,4228.95,0.00,6558.95
+9292,Dorothy "the Hunter",MS,3.00,Pinecones,193.00,1.50,2.66,289.50,513.38,24.09,826.97
+10903,Mabel "Vixen Cursed" King,ID,0.00,Brick,109.00,4.84,6.66,527.56,725.94,0.00,1253.50
+11602,Betty "Happy Thinker" Watson,ID,0.00,Pebbles,186.00,0.88,4.84,163.68,900.24,0.00,1063.92
+12235,Minnie Lawson "the Apostle",NV,0.31,Leather,270.00,11.00,18.15,2970.00,4900.50,0.00,7870.50
+13658,Tammy Carlson "the Killer",OK,2.42,Solid Oak,27.00,5.50,5.50,148.50,148.50,5.94,302.94
+16468,Heather "Tornado" Newman,AL,1.00,Leather,366.00,11.00,19.97,4026.00,7309.02,113.35,11448.37
+19737,Surgeon Grant,ND,1.67,Dirt,276.00,0.50,1.00,138.00,276.00,8.28,422.28
+20155,"Bane" Jennings,NM,2.93,Cedar Planks,250.00,2.20,6.66,550.00,1665.00,66.45,2281.45
+20600,Amanda Hart "the Loner",IA,1.33,Pebbles,220.00,0.88,4.84,193.60,1064.80,12.58,1270.98
+21552,Gloria "Devil" McCoy,UT,0.00,Cedar Planks,209.00,2.20,6.66,459.80,1391.94,0.00,1851.74

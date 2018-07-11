@@ -1,0 +1,8 @@
+6982,Deathspike The Terrifying,The Lost Crypts of Sorrows,35.87,Meteoric Dustzephyr Orichalcum,208.00,375.00,244.08,78000.00,50768.64,46356.71,175125.35
+7217,Scarechain The Unspeakable,Mahyrst Keep,25.14,Spectres' Shadowy Terrorglow Adamant Of Life,285.00,4694.80,205.50,1338018.00,58567.50,349146.38,1745731.88
+8434,Lord Mystery,Mahyrst Keep,27.65,Planar Obsidian Mercury Of Wizards,35.00,2574.00,141.57,90090.00,4954.95,26612.59,121657.54
+9025,Blazeflare The Cremator,Weke Tower,-0.05,Ghouls' Imperial Soulzephyr Mithril Of The Seas,62.00,4123.68,122.49,255668.16,7594.38,0.00,263262.54
+16198,Beamsprocket The Grasping,Haukri's Hold,27.83,Angels' Smoke Adamant Of The Mountains,250.00,3427.13,236.50,856782.50,59125.00,256454.10,1172361.60
+17197,Law Lionwatcher,The Cracked Chalice,2.52,Sphinxes' Opalpearl Platinum Of Legend,357.00,5805.82,390.81,2072677.74,139519.17,66365.91,2278562.82
+21075,Fate Ivycaster,The Forsaken Hive of Galima the Mighty,29.89,Forgotten Mithril,229.00,1215.20,347.60,278280.80,79600.40,107364.36,465245.56
+22695,"Maglioneth, Lord of the Sun",Citadel Ward,37.80,Icy Shock Silver,157.00,1631.28,595.89,256110.96,93554.73,132872.96,482538.65

@@ -1,0 +1,13 @@
+291,April "Thunderbird" Dunn,WY,0.25,Brick,199.00,4.00,5.00,796.00,995.00,0.00,1791.00
+1898,"Doom" McCoy,IA,1.00,Pebbles,73.00,0.80,4.40,58.40,321.20,3.80,383.40
+1980,Tina "Lady" Anderson,TX,0.50,Solid Oak,124.00,5.00,5.00,620.00,620.00,0.00,1240.00
+5059,Allison "Steel Gravedigger" Douglas,TX,0.50,Beechwood,146.00,3.00,5.00,438.00,730.00,0.00,1168.00
+5691,Cathy "Loner Demon" Murray,MO,2.20,Pebbles,116.00,0.80,4.40,92.80,510.40,12.06,615.26
+8484,Mattie Grant "the Gambler",CA,0.55,Packed Dirt,247.00,1.00,1.50,247.00,370.50,6.18,623.68
+9263,Theresa "Scalphunter" Romero,AR,2.20,Cedar Planks,106.00,2.20,6.05,233.20,641.30,17.49,891.99
+14785,Darlene "Loner" Ford,MS,3.00,Pebbles,206.00,0.88,4.84,181.28,997.04,35.35,1213.67
+16082,Renee "Loco Tracker" Jordan,UT,0.00,Brick,234.00,5.32,6.66,1244.88,1558.44,0.00,2803.32
+16936,Debra "Scorpion" Lane,WY,0.31,Solid Oak,327.00,5.50,6.05,1798.50,1978.35,0.00,3776.85
+18030,Michele Watson "the Loner",AL,1.00,Packed Dirt,304.00,1.10,2.20,334.40,668.80,10.03,1013.23
+20899,Black Beck,KS,0.55,Brick,196.00,5.32,6.66,1042.72,1305.36,23.48,2371.56
+22110,Gloria "Devil" McCoy,AR,2.20,Cedar Planks,232.00,2.20,6.66,510.40,1545.12,41.11,2096.63

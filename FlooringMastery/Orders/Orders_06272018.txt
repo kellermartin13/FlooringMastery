@@ -1,0 +1,17 @@
+2040,Jacqueline "Riding Doc" Washington,ID,0.00,Beechwood,176.00,3.00,5.00,528.00,880.00,0.00,1408.00
+3276,Vengeful Robertson,ND,1.25,Pebbles,228.00,0.80,4.40,182.40,1003.20,11.86,1197.46
+6684,Florence "Leather Doc" Grant,IA,1.21,Packed Dirt,180.00,1.00,1.50,180.00,270.00,4.50,454.50
+7786,Vicki "Mesa" Rhodes,TX,0.50,Brick,82.00,4.84,6.66,396.88,546.12,0.00,943.00
+7853,Heather "Tornado" Newman,MO,2.20,Solid Oak,210.00,5.50,5.50,1155.00,1155.00,46.20,2356.20
+7975,Friendly Howell,UT,0.00,Pinecones,333.00,1.50,2.66,499.50,885.78,0.00,1385.28
+10537,Mabel "Vixen Cursed" King,MS,3.00,Pinecones,200.00,1.50,2.66,300.00,532.00,24.96,856.96
+12391,Theresa "Scalphunter" Romero,UT,0.00,Dirt,317.00,0.50,1.00,158.50,317.00,0.00,475.50
+12959,Vicki "Mesa" Rhodes,ND,1.38,Beechwood,298.00,3.30,5.50,983.40,1639.00,26.22,2648.62
+13091,Beth "Fortunate Shooter" Powell,NV,0.31,Packed Dirt,154.00,1.00,1.82,154.00,280.28,0.00,434.28
+13330,Deborah "the Lady",UT,0.00,Dirt,250.00,0.50,1.00,125.00,250.00,0.00,375.00
+14603,Maureen "Cursed" Andrews,TX,0.67,Pebbles,212.00,0.88,4.84,186.56,1026.08,12.13,1224.77
+15825,"Doom" McCoy,TX,0.67,Beechwood,216.00,3.63,5.50,784.08,1188.00,19.72,1991.80
+16512,Renee "Hellish Empress" Banks,KS,0.55,Leather,125.00,11.00,19.97,1375.00,2496.25,38.71,3909.96
+18675,Lucky Johnson,IA,1.33,Cedar Planks,260.00,2.20,6.66,572.00,1731.60,23.04,2326.64
+21633,Lucky Johnson,ID,0.00,Brick,283.00,5.32,6.66,1505.56,1884.78,0.00,3390.34
+23058,Gladys "Locoweed" Keller,KS,0.55,Brick,348.00,5.32,6.66,1851.36,2317.68,41.69,4210.73

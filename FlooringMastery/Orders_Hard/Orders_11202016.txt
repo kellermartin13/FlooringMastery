@@ -1,0 +1,17 @@
+934,Rouge Roguemist,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,68.00,4159.62,-27.40,282854.16,-1863.20,0.00,280990.96
+2037,Magus Felldrake,Tower Farthing,22.41,Angels' Adamant,217.00,1304.00,179.30,282968.00,38908.10,70812.74,392688.84
+2794,Shiverflame The Freezer,The Cracked Chalice,2.29,Forgotten Mithril,274.00,913.00,316.00,250162.00,86584.00,6734.92,343480.92
+3139,Springpulley The Binder,Hafeld Keep,29.00,Rainbowglitter Tin,259.00,4923.46,176.36,1275176.14,45677.24,383047.48,1703900.86
+3236,Dawn Darkzealot,The Broken Arrow,30.07,Forgotten Mithril,291.00,913.00,316.00,265683.00,91956.00,107291.70,464930.70
+4338,Boltcrank The Trapper,The Barrow of Terrible Horror,-1.10,Pearl Mirrorice Steel Of Changelings,180.00,271.51,34.61,48871.80,6229.80,-551.02,54550.58
+4392,Chainblade The Cadaverous,Fellfen Keep,42.03,Pearl Mirrorice Steel Of Changelings,269.00,271.51,34.61,73036.19,9310.09,34585.44,116931.72
+5967,Terrorghoul The Unspeakable,The Lost Sanctum of Woe,3.00,Poison Adamant,273.00,1151.38,58.58,314326.74,15992.34,9909.57,340228.65
+6981,Cult Godseeker,The Demon and Toad,23.75,Djinni's Mind Fogiron,263.00,2301.02,74.02,605168.26,19467.26,149912.52,774548.04
+9664,Flameflare The Evil,The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,123.00,3773.99,269.83,464200.77,33189.09,89530.17,586920.03
+12065,Chainnail,The Secret Catacombs of Ulfang the Black,42.90,Witchs' Forbidden Rockrainbow Bronze,284.00,655.60,387.20,186190.40,109964.80,127346.74,423501.94
+14518,Cult Godseeker,The Tower of Aramum,42.90,Witchs' Forbidden Rockrainbow Bronze,57.00,655.60,425.92,37369.20,24277.44,26508.06,88154.70
+14906,Rouge Roguemist,The Tower of Aces the Accursed,13.31,Heavenly Dreamsilver Of The Night,117.00,2009.68,112.00,235132.56,13104.00,32270.75,280507.31
+14945,Storm Seraphheart,The Cuitamba Jungle,30.80,Legendary Mithril Of The Moon,233.00,2707.10,125.84,630754.30,29320.72,204623.26,864698.28
+15396,Harmony Angelchild,Noble's Village,30.25,Primordial False Gold,180.00,5395.80,248.60,971244.00,44748.00,304797.60,1320789.60
+15872,Claw Mist,The Glano Forest,3.00,Unknown Fatelightning Steel Of The Glacier,76.00,2441.05,65.68,185519.80,4991.68,5715.34,196226.82
+16630,Chainhorror,Lacot Stronghold,45.22,Starlight Pearldream Bronze,164.00,322.10,147.40,52824.40,24173.60,34649.10,111647.10

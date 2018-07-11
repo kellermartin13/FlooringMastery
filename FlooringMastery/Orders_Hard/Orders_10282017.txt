@@ -1,0 +1,16 @@
+1536,Tarot Dawn,Lacot Stronghold,30.88,Phantasmal Tin Of The Swamps,99.00,4074.00,-6.60,403326.00,-653.40,124828.51,527501.11
+2220,Ironbrood,Barad Cune,26.00,Angels' Adamant,245.00,1304.00,179.30,319480.00,43928.50,94486.21,457894.71
+3392,Flameshiver,The Flying Witch,11.45,Evilsilver,236.00,1486.85,79.86,350896.60,18846.96,40671.79,410415.35
+3922,Snowflame The Evil,The Dungeon of Merciless Woe,38.62,Spirits' Living Wordhammer Tin Of The Trees,216.00,4343.00,26.40,938088.00,5702.40,368078.26,1311868.66
+7197,Scarechain The Unspeakable,Barad Kesa,4.32,Angels' Smoke Adamant Of The Mountains,297.00,2832.34,215.00,841204.98,63855.00,36202.40,941262.38
+7821,Snarepiston The Mechanical,The Cuitamba Jungle,30.80,Swordbronze,154.00,1350.01,447.01,207901.54,68839.54,85789.73,362530.81
+11189,Bonescare,The Dungeon of Dismal Terror,-3.50,Ghostly Soul Adamant,253.00,3222.96,229.53,815408.88,58071.09,-34939.20,838540.77
+11341,Spikesnare,Fellfen Keep,46.23,Tin Of The Tundra,281.00,2839.87,174.91,798003.47,49149.71,389690.46,1236843.64
+11487,Spikecrank,The Broken Arrow,30.07,Angels' Smoke Adamant Of The Mountains,235.00,3115.57,236.50,732158.95,55577.50,236320.94,1024057.39
+13866,Bronzespawn,Waleah Castle,0.77,Witchs' Forbidden Rockrainbow Bronze,263.00,655.60,387.20,172422.80,101833.60,2742.56,276998.96
+13900,"Penur, Lord of the Sea",Khali's Delve,52.71,Shadowhell Mithril,74.00,483.15,286.41,35753.10,21194.34,30182.14,87129.58
+14157,Spikecrank,Lamp Borough,4.95,Emerald Orichalcum,68.00,-405.76,128.90,-27591.68,8765.20,-941.32,-19767.80
+17767,Rouge Tombreaper,North Arcanist's Farthing,55.18,Shadowy Adamant,309.00,618.93,526.44,191249.37,162669.96,194655.63,548574.96
+18256,Flameshiver,Grori's Deep,66.50,Trolls' Mist Poisonplatinum Of The Twilight,148.00,567.79,434.39,84032.92,64289.72,97892.94,246215.58
+19519,Law Lionwatcher,Hafeld Keep,46.71,God-touched Faterainbow Orichalcum Of Spectres,278.00,370.41,32.01,102973.98,8898.78,52580.20,164452.96
+19884,Sunrise Godwarlock,The Bloody Wand,15.97,Primordial False Gold,276.00,5395.80,248.60,1489240.80,68613.60,249256.70,1807111.10

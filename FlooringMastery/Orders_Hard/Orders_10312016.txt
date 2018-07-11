@@ -1,0 +1,18 @@
+2166,Rune Rougehate,Hartshill Ward,41.98,Magicians' Legendary Poison Metal,66.00,2043.26,229.81,134855.16,15167.46,63009.50,213032.12
+2709,Maverick Wind,The Citadel of Lord Greywulf,30.04,Forgotten Mithril,147.00,913.00,316.00,134211.00,46452.00,54198.90,234861.90
+3223,Dawn Darkzealot,The Grey Plains,19.97,Evilsilver,171.00,1486.85,79.86,254251.35,13656.06,53581.48,321488.89
+3410,Graveterror,Gawold Castle,5.00,Litches' Fatal Mithril Of The Past,25.00,1207.25,335.50,30181.25,8387.50,1928.44,40497.19
+5161,Magus Felldrake,Lordsgate Farthing,37.40,Unicorns' Fatal Magma Metal Of The Ocean,325.00,1792.04,392.70,582413.00,127627.50,262714.98,972755.48
+6490,Grave Mistseeker,Weke Tower,-0.05,Foul Ice Bronze Of Life,71.00,-92.21,129.80,-6546.91,9215.80,0.00,2668.89
+7635,Boltcrank The Trapper,The Broken Shield,37.23,Toxic Mistlead Of The Past,259.00,1557.54,136.06,403402.86,35239.54,162297.69,600940.09
+8443,Rouge Roguemist,The Fortress of Gama,10.16,Goddesses' Spectral Poison Steel,356.00,3773.99,269.83,1343540.44,96059.48,143959.99,1583559.91
+8485,"Iran, Lord of Nightmares",Cawold Castle,24.09,Negative Rockglitter Mercury Of Trolls,298.00,1483.90,423.07,442202.20,126074.86,136386.49,704663.55
+9612,Shadow Gust,The Secret Catacombs of Ulfang the Black,42.90,Ghostly Magic Adamant,300.00,4836.38,230.90,1450914.00,69270.00,653679.12,2173863.12
+10734,Claw Mist,Haukri's Hold,27.83,Witchs' Forbidden Rockrainbow Bronze,196.00,596.00,387.20,116816.00,75891.20,53958.02,246665.22
+12000,Wind Dire,The Chuallanto Jungle,37.00,Golems' Stonesapphire Gold Of The Glacier,182.00,3672.77,105.97,668444.14,19286.54,254460.35,942191.03
+12867,Evilember The Firey,The Grey Plains,19.97,Primordial Plague Mercury Of Legend,242.00,452.29,301.29,109454.18,72912.18,36473.27,218839.63
+19423,Scarefear The Blade,The Khazahol Crags,-2.17,Toxic Mistlead Of The Past,276.00,1557.54,164.64,429881.04,45440.64,-9506.43,465815.25
+21173,Spikecrank,The Cuitamba Jungle,33.88,Sphinxes' Opalpearl Platinum Of Legend,122.00,5805.82,429.89,708310.04,52446.58,258657.25,1019413.87
+21733,Rose Anchor,Pawic Keep,0.62,Phantasmal Tin Of The Swamps,64.00,5964.74,-7.99,381743.36,-511.36,3812.32,385044.32
+21801,Graveterror,The Wizard's House,43.58,Ensorceled Sandmetal Of Spirits,258.00,2956.98,95.70,762900.84,24690.60,346540.23,1134131.67
+23237,"Eumyan, Goddess of Law",Barad Kesa,5.23,Incubi's Glittering Tin Of The Future,116.00,3349.54,96.64,388546.64,11210.24,19987.84,419744.72

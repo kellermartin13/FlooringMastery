@@ -1,0 +1,16 @@
+306,Burnfreeze The Cold,The Bastion of Barbos,21.29,Green Dustlightning Mercury,211.00,3517.00,32.00,742087.00,6752.00,157256.19,906095.19
+3339,Flora Amberslayer,Pawic Keep,0.56,Litches' Fatal Mithril Of The Past,197.00,1207.25,335.50,237828.25,66093.50,3039.22,306960.97
+3997,Beamtrap,The Pilgrim's Cup,41.93,Yellow Mistearth Copper,277.00,4575.58,-27.40,1267435.66,-7589.80,529135.26,1788981.12
+7597,Burnbrood The Freezer,Palace Farthing,43.31,Golems' Stonesapphire Gold Of The Glacier,90.00,3672.77,105.97,330549.30,9537.30,146237.24,486323.84
+7753,Tarot Dawn,Lordsgate Farthing,41.14,Heavenly Dreamsilver Of The Night,244.00,2009.68,112.00,490361.92,27328.00,212252.87,729942.79
+8353,Valentine Lawslayer,The Barrow of Terrible Horror,-1.21,Foul Ice Bronze Of Life,217.00,-92.21,129.80,-20009.57,28166.60,-81.57,8075.46
+8490,Snarepiston The Mechanical,The Barrow of Terrible Horror,-1.21,Glowpearl Adamant Of Spirits,24.00,398.09,374.00,9554.16,8976.00,-185.30,18344.86
+11181,"Maeglodor, God of Thieves",The Black Barrow of Bery,-0.07,Heavenly Dreamsilver Of The Night,77.00,2009.68,112.00,154745.36,8624.00,0.00,163369.36
+12136,Gale Jackalguard,Gena's Hold,2.66,Fairies' Supreme Mistsmoke Lead Of The Future,275.00,3349.50,324.73,921112.50,89300.75,30312.40,1040725.65
+12457,Seraphim Tsunami,The Citadel of Alammius,3.50,Incubi's Iron Of The Dawn,192.00,1200.96,424.31,230584.32,81467.52,12482.07,324533.91
+12464,Beamtrap,Archscepter Borough,3.00,God-touched Faterainbow Orichalcum Of Spectres,152.00,370.41,32.01,56302.32,4865.52,1835.04,63002.88
+12820,Chainblade The Cadaverous,The Desert of Flames,51.91,Sapphire Mindlead,71.00,1307.71,47.00,92847.41,3337.00,50015.89,146200.30
+18963,Storm Squallmourner,The Forsaken Delve of Lord Greywulf,42.90,Djinni's Mind Fogiron,177.00,2301.02,89.56,407280.54,15852.12,181947.04,605079.70
+20984,Lightning Brand,Eved Castle,5.09,Meteoric Dustzephyr Orichalcum,85.00,375.00,295.34,31875.00,25103.90,2848.94,59827.84
+21472,Metalghoul,Peley Keep,26.33,Golems' Stonesapphire Gold Of The Glacier,81.00,4444.06,128.23,359968.86,10386.63,96292.43,466647.92
+21854,Mecharig The Living Device,Barad Cune,28.60,Poison Adamant,313.00,1266.52,70.88,396420.76,22185.44,121395.80,540002.00

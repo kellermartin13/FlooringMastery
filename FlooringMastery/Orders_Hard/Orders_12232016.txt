@@ -1,0 +1,18 @@
+70,"Gadriel, God of Resurrection",Pewold Keep,16.95,Mistgold Of Men,196.00,2787.01,44.00,546253.96,8624.00,94329.25,649207.21
+1015,Zeal Bladewitch,The Citadel of Alammius,3.18,Rainbowglitter Tin,245.00,4475.87,176.36,1096588.15,43208.20,34193.89,1173990.24
+1184,Spikecrank,Reyny Keep,11.00,Hidden Shadowice Lead,102.00,2729.00,-46.75,278358.00,-4768.50,30094.84,303684.34
+11944,Lance Knightseraph,Reheath Stronghold,8.00,Sprites' Transcendent Mud Lead Of The South,94.00,2081.80,321.86,195689.20,30254.84,18075.52,244019.56
+12121,Steelterror The Blade,The Greedy Wench,32.70,Phantasmal Lead,136.00,-552.97,245.47,-75203.92,33383.92,-13800.60,-55620.60
+13762,Rose Anchor,Waleah Castle,0.77,Shadowy Adamant,197.00,618.93,526.44,121929.21,103708.68,2256.38,227894.27
+13957,Clash Lonedrake,Waleah Castle,0.77,Plague Tin,267.00,4767.02,342.10,1272794.34,91340.70,13641.35,1377776.39
+14568,Song Runetomb,Archfane District,32.87,Legendary Mithril Of The Moon,32.00,2707.10,125.84,86627.20,4026.88,29915.85,120569.93
+15851,Cult Godseeker,Noble's Village,30.25,Primordial False Gold,217.00,5395.80,248.60,1170888.60,53946.20,367450.44,1592285.24
+17089,"Azah, Goddess of Fate",The Tower of Aces the Accursed,13.31,Zephyr Iron,378.00,3034.90,444.69,1147192.20,168092.82,170987.05,1486272.07
+17168,Scarefear The Blade,The Citadel of Lord Greywulf,33.04,Succubi's Evil Mindzephyr Adamant Of The Desert,175.00,2189.18,250.07,383106.50,43762.25,140866.69,567735.44
+18124,Spikesnare,The Fortress of the Lich Queen,36.35,Litches' Fatal Mithril Of The Past,244.00,1460.78,405.96,356430.32,99054.24,163974.44,619459.00
+20939,"Maglioneth, Lord of the Sun",Lordsgate Farthing,45.25,Forgotten Mithril,95.00,1215.20,347.60,115444.00,33022.00,66809.70,215275.70
+22162,Graveterror,The Tomb of Hellish Ruin,16.94,Sprites' Transcendent Mud Lead Of The South,245.00,2081.80,321.86,510041.00,78855.70,100112.44,689009.14
+22395,Boltcrank The Trapper,Palace Farthing,47.64,Muck Orichalcum Of Ogres,264.00,4561.14,485.76,1204140.96,128240.64,639543.17,1971924.77
+22517,Tiger Mistmidnight,Lordsgate Farthing,45.25,Yellow Mistearth Copper,255.00,5536.45,-33.15,1411794.75,-8453.25,631503.68,2034845.18
+22822,"Addon, Lord of Death",Grori's Deep,66.50,Djinni's Mind Fogiron,260.00,2531.12,119.21,658091.20,30994.60,454796.63,1143882.43
+22917,Tiger Mistmidnight,The Lost Crypts of Sorrows,35.87,Devils' Falserot Silver,130.00,2220.79,182.71,288702.70,23752.30,112483.80,424938.80

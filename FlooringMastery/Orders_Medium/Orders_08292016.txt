@@ -1,0 +1,29 @@
+2357,Friendly Howell,ID,0.00,Leather,319.00,10.00,16.50,3190.00,5263.50,0.00,8453.50
+2810,Cathy "Loner Demon" Murray,ID,0.00,Brick,190.00,4.00,5.50,760.00,1045.00,0.00,1805.00
+2885,Deborah "the Lady",KS,0.50,Pinecones,246.00,1.50,2.20,369.00,541.20,0.00,910.20
+2996,Mabel "Vixen Cursed" King,TX,0.50,Solid Oak,111.00,5.50,5.00,610.50,555.00,0.00,1165.50
+4299,Melissa "Lonesome Stalker" Riley,KS,0.50,Reeds,340.00,0.75,2.00,255.00,680.00,0.00,935.00
+5560,Helen Webb "the Dancer",IA,1.21,Pinecones,50.00,1.50,2.66,75.00,133.00,2.08,210.08
+6005,Marie "Raven" Chapman,MT,3.00,Brick,148.00,4.84,6.66,716.32,985.68,51.06,1753.06
+7818,Theresa "Kid" Robinson,NV,0.31,Pebbles,83.00,0.80,4.84,66.40,401.72,0.00,468.12
+8198,Darlene "Loner" Ford,NV,0.31,Brick,281.00,4.84,6.66,1360.04,1871.46,0.00,3231.50
+9040,Heather "Tornado" Newman,ND,1.25,Pinecones,49.00,1.50,2.66,73.50,130.34,2.04,205.88
+9127,Heather "Tornado" Newman,MS,3.00,Leather,276.00,10.00,18.15,2760.00,5009.40,233.08,8002.48
+9916,Amanda Hart "the Loner",OK,2.20,Beechwood,264.00,3.00,5.50,792.00,1452.00,44.88,2288.88
+10087,Susan "Damnation" Fleming,UT,0.00,Cedar Planks,290.00,2.20,6.05,638.00,1754.50,0.00,2392.50
+11519,Victoria "the Dancer",AL,1.00,Packed Dirt,301.00,1.00,1.65,301.00,496.65,7.98,805.63
+11591,Helen Webb "the Dancer",MS,3.00,Cedar Planks,126.00,2.20,6.05,277.20,762.30,31.18,1070.68
+11671,Ida Russell "the Rustler",MT,3.63,Packed Dirt,331.00,1.00,1.65,331.00,546.15,35.09,912.24
+13316,Allison "Steel Gravedigger" Douglas,UT,0.00,Packed Dirt,184.00,1.00,2.00,184.00,368.00,0.00,552.00
+13726,Evelyn "Evil Joker" Taylor,AR,2.20,Dirt,316.00,0.50,1.00,158.00,316.00,9.48,483.48
+14420,Heather "Tornado" Newman,ID,0.00,Pebbles,241.00,0.88,4.84,212.08,1166.44,0.00,1378.52
+14805,Black Beck,KS,0.55,Cedar Planks,316.00,2.20,6.05,695.20,1911.80,26.07,2633.07
+15647,Vengeful Montgomery,AL,1.00,Leather,302.00,11.00,18.15,3322.00,5481.30,88.03,8891.33
+15834,Betty "Happy Thinker" Watson,ID,0.00,Beechwood,183.00,3.63,5.50,664.29,1006.50,0.00,1670.79
+17405,Heather "Friendly Gambler" Barrett,MS,3.00,Leather,263.00,11.00,19.97,2893.00,5252.11,244.35,8389.46
+17773,"Doom" McCoy,ID,0.00,Packed Dirt,71.00,1.10,2.20,78.10,156.20,0.00,234.30
+18075,Gloria "Devil" McCoy,MS,3.00,Dirt,108.00,0.50,1.00,54.00,108.00,4.86,166.86
+20017,"Sunrise" Miles,CA,0.67,Solid Oak,327.00,5.50,6.66,1798.50,2177.82,39.76,4016.08
+21004,Renee "Hellish Empress" Banks,ND,1.67,Reeds,100.00,0.83,2.20,83.00,220.00,6.06,309.06
+21801,Tammy Carlson "the Killer",MS,3.00,Leather,93.00,11.00,19.97,1023.00,1857.21,86.41,2966.62
+22260,Marie "Raven" Chapman,TX,0.67,Packed Dirt,120.00,1.10,2.42,132.00,290.40,4.22,426.62

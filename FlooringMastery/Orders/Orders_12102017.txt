@@ -1,0 +1,16 @@
+4041,Elizabeth "the Bully",NM,2.20,Reeds,250.00,0.75,2.00,187.50,500.00,13.75,701.25
+7080,Diana "Mistress" Morgan,MO,2.20,Packed Dirt,178.00,1.00,1.50,178.00,267.00,8.90,453.90
+7803,Marie "Raven" Chapman,NV,0.31,Brick,134.00,4.84,6.66,648.56,892.44,0.00,1541.00
+8138,Stella "the Bully",NV,0.31,Cedar Planks,94.00,2.20,6.05,206.80,568.70,0.00,775.50
+8452,Heather "Friendly Gambler" Barrett,NM,2.20,Pinecones,100.00,1.50,2.66,150.00,266.00,8.32,424.32
+9874,Geraldine "Revenge" Warren,AL,1.00,Pinecones,200.00,1.50,2.66,300.00,532.00,8.32,840.32
+12168,Deborah "the Lady",NV,0.31,Packed Dirt,327.00,1.00,1.65,327.00,539.55,0.00,866.55
+12800,Joanne "Damned" Miles,UT,0.00,Pinecones,190.00,1.50,2.66,285.00,505.40,0.00,790.40
+13794,Vengeful Robertson,NM,2.42,Dirt,242.00,0.50,1.00,121.00,242.00,7.26,370.26
+14133,"Bane" Jennings,MO,2.20,Reeds,205.00,0.75,2.20,153.75,451.00,12.10,616.85
+14870,Joanne "Damned" Miles,MT,3.99,Packed Dirt,232.00,1.10,2.20,255.20,510.40,30.62,796.22
+15800,Ida Russell "the Rustler",ID,0.00,Solid Oak,167.00,5.50,6.05,918.50,1010.35,0.00,1928.85
+17271,Jacqueline "Riding Doc" Washington,MS,3.00,Dirt,256.00,0.50,1.00,128.00,256.00,11.52,395.52
+18691,Renee "Hellish Empress" Banks,NM,2.93,Solid Oak,233.00,5.50,6.66,1281.50,1551.78,85.00,2918.28
+21409,Susan "Damnation" Fleming,AL,1.00,Brick,27.00,5.32,6.66,143.64,179.82,3.23,326.69
+21732,Tina "Lady" Anderson,AR,2.20,Brick,322.00,5.32,6.66,1713.04,2144.52,77.15,3934.71

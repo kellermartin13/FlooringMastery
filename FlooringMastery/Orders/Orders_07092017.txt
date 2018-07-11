@@ -1,0 +1,16 @@
+2291,Cynthia "the Vixen",TX,0.50,Pinecones,222.00,1.50,2.00,333.00,444.00,0.00,777.00
+5987,Theresa "Scalphunter" Romero,MO,2.20,Reeds,50.00,0.75,2.20,37.50,110.00,2.95,150.45
+7587,Vicki "Mesa" Rhodes,AR,2.20,Cedar Planks,50.00,2.20,6.05,110.00,302.50,8.25,420.75
+8846,"Sunrise" Miles,MO,2.20,Brick,229.00,4.84,6.66,1108.36,1525.14,52.67,2686.17
+9373,Friendly Howell,MO,2.20,Brick,280.00,4.84,6.66,1355.20,1864.80,64.40,3284.40
+9927,April "Thunderbird" Dunn,UT,0.00,Packed Dirt,209.00,1.00,1.50,209.00,313.50,0.00,522.50
+9972,Black Beck,KS,0.50,Pinecones,265.00,1.50,2.66,397.50,704.90,0.00,1102.40
+10194,Florence "Leather Doc" Grant,NV,0.31,Pinecones,232.00,1.50,2.66,348.00,617.12,0.00,965.12
+16311,Cathy "Wildfire" Neal,UT,0.00,Reeds,238.00,0.83,2.20,197.54,523.60,0.00,721.14
+16892,Black Beck,NM,2.66,Brick,101.00,5.32,6.66,537.32,672.66,36.30,1246.28
+17063,Deborah "the Lady",OK,2.42,Dirt,80.00,0.50,1.00,40.00,80.00,2.40,122.40
+18046,Cynthia "the Vixen",AR,2.20,Brick,215.00,5.32,6.66,1143.80,1431.90,51.51,2627.21
+18735,Kathy Murphy "the Thinker",AR,2.20,Beechwood,84.00,3.63,5.50,304.92,462.00,15.34,782.26
+19160,Melissa "Lonesome Stalker" Riley,MO,2.20,Reeds,297.00,0.83,2.20,246.51,653.40,18.00,917.91
+20228,Stella "the Bully",KS,0.55,Packed Dirt,172.00,1.10,2.42,189.20,416.24,6.05,611.49
+20294,Maureen "Cursed" Andrews,WY,0.31,Solid Oak,196.00,5.50,6.66,1078.00,1305.36,0.00,2383.36

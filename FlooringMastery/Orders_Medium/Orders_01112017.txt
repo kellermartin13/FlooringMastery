@@ -1,0 +1,14 @@
+1163,Dorothy "the Hunter",MT,3.00,Beechwood,156.00,3.00,5.00,468.00,780.00,37.44,1285.44
+2103,Victoria "the Dancer",MS,3.00,Dirt,352.00,0.50,1.00,176.00,352.00,15.84,543.84
+12308,Allison "Steel Gravedigger" Douglas,TX,0.67,Pebbles,64.00,0.88,4.84,56.32,309.76,3.66,369.74
+12635,Amanda Hart "the Loner",IA,1.21,Brick,195.00,4.84,6.66,943.80,1298.70,22.42,2264.92
+13978,Black Beck,ND,1.38,Brick,121.00,5.32,6.66,643.72,805.86,14.50,1464.08
+14577,Gladys "Locoweed" Keller,MT,3.99,Brick,65.00,5.32,6.66,345.80,432.90,31.15,809.85
+15499,Heather "Friendly Gambler" Barrett,ID,0.00,Reeds,223.00,0.83,2.20,185.09,490.60,0.00,675.69
+16340,"Sunrise" Miles,TX,0.67,Beechwood,142.00,3.63,5.50,515.46,781.00,12.96,1309.42
+17258,Kathy Murphy "the Thinker",AR,2.20,Beechwood,27.00,3.63,5.50,98.01,148.50,4.93,251.44
+20424,Maureen "Cursed" Andrews,OK,2.66,Dirt,240.00,0.50,1.00,120.00,240.00,10.80,370.80
+21968,Evelyn "Evil Joker" Taylor,ID,0.00,Pinecones,342.00,1.50,2.66,513.00,909.72,0.00,1422.72
+22263,Mattie Grant "the Gambler",TX,0.67,Pinecones,322.00,1.50,2.66,483.00,856.52,13.40,1352.92
+22833,Melissa "Lonesome Stalker" Riley,IA,1.33,Dirt,302.00,0.55,1.00,166.10,302.00,4.68,472.78
+22882,Lucky Johnson,NM,2.93,Dirt,284.00,0.55,1.00,156.20,284.00,13.21,453.41

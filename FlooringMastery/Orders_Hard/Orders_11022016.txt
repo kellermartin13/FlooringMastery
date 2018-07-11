@@ -1,0 +1,19 @@
+2763,Rose Anchor,The Khazahol Crags,-1.97,Heavenly Dreamsilver Of The Night,329.00,1826.98,112.00,601076.42,36848.00,-12758.49,625165.93
+4121,Harmony Angelchild,Tradun Castle,31.13,Lycanthropes' Gold,118.00,4846.18,66.14,571849.24,7804.52,179692.67,759346.43
+5371,Lightning Brand,The Lewd King,27.00,Sphinxes' Mistsoul Bronze Of The Past,121.00,1972.55,183.70,238678.55,22227.70,70444.69,331350.94
+6413,Law Lionwatcher,Archtemple District,27.76,Emerald Orichalcum,203.00,-368.87,128.90,-74880.61,26166.70,-13639.89,-62353.80
+8180,Rouge Tombreaper,Tradun Castle,34.24,Hell Mercury Of The East,243.00,4636.34,284.60,1126630.62,69157.80,406568.06,1602356.48
+8565,Burnfreeze The Cold,Gili's Delve,-5.05,Shadowy Adamant,319.00,618.93,478.58,197438.67,152667.02,-17505.28,332600.41
+10115,Blazefreeze The Chiller,The Chuallanto Jungle,37.00,Djinni's Spectral Shadowlead Of Life,257.00,3705.90,325.62,952416.30,83684.34,383357.24,1419457.88
+10634,Metalghoul,The Dread Hive of Illfang the Kobold Lord,1.33,Tritons' Time Stoneiron Of Legend,232.00,1760.00,204.37,408320.00,47413.84,4557.34,460291.18
+11221,Graveterror,The Hunter and Rose,40.40,Devils' Falserot Silver,214.00,1668.51,182.71,357061.14,39099.94,158464.43,554625.51
+12147,Snarepiston The Mechanical,Lordsgate Farthing,41.14,Shadowy Adamant,218.00,618.93,526.44,134926.74,114763.92,102373.17,352063.83
+12261,Emberspawn,The Glano Forest,3.00,Thunderbirds' Transcendent Dreamiron,245.00,2275.25,237.70,557436.25,58236.50,18470.18,634142.93
+15202,Nettool The Grasping,The Greedy Wench,32.70,Heavenly Dreamsilver Of The Night,176.00,2009.68,112.00,353703.68,19712.00,123227.17,496642.85
+16284,"Eumyan, Goddess of Law",The Citadel of Cheno,7.33,Swordbronze,385.00,1485.01,447.01,571728.85,172098.85,52067.94,795895.64
+16337,Sephiroth Drakecaster,The Citadel of Cheno,7.33,Otherworldly Mirror Orichalcum,209.00,-298.87,526.35,-62463.83,110007.15,3328.03,50871.35
+16845,Dawn Darkzealot,Love Keep,9.32,Planar Rainfate Mithril,147.00,1185.84,320.52,174318.48,47116.44,19929.14,241364.06
+18191,Cult Godseeker,The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,169.00,-17.00,276.00,-2873.00,46644.00,19259.24,63030.24
+18263,"Lionare, God of the Lost",North Arcanist's Farthing,55.18,Goddesses' Spectral Poison Steel,346.00,4566.53,296.81,1580019.38,102696.26,925493.60,2608209.24
+22410,Fate Seeker,Palace Farthing,47.64,Fairies' Supreme Mistsmoke Lead Of The Future,87.00,3349.50,324.73,291406.50,28251.51,153435.84,473093.85
+23118,"Penur, Lord of the Sea",Pawic Keep,0.62,Djinni's Spectral Shadowlead Of Life,160.00,4484.14,394.00,717462.40,63040.00,7805.02,788307.42

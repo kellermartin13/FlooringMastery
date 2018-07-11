@@ -1,0 +1,18 @@
+1836,Chillfire The Chiller,Haukri's Hold,25.30,Incubi's Mirrorfog Iron Of The Ocean,176.00,4798.76,-19.59,844581.76,-3447.84,210283.48,1051417.40
+2339,Sunset Knightclaw,The Nulukkhath Spires,9.63,Rocklava Mithril Of Revenants,143.00,1818.30,13.03,260016.90,1863.29,26188.02,288068.21
+3924,Emberspawn,The Lost Sanctum of Woe,3.00,Ensorceled Sandmetal Of Spirits,293.00,2956.98,87.00,866395.14,25491.00,26756.58,918642.72
+4109,"Maeglodor, God of Thieves",The Hunter and Rose,40.40,Spirits' Living Wordhammer Tin Of The Trees,286.00,4343.00,26.40,1242098.00,7550.40,499859.36,1749507.76
+4504,Flameflare The Evil,Minas Gilloy,39.26,Hidden Shadowice Lead,182.00,2729.00,-62.23,496678.00,-11325.86,189287.33,674639.47
+5514,Snowflame The Evil,Gena's Hold,2.20,Angels' Adamant,258.00,1304.00,179.30,336432.00,46259.40,7653.83,390345.23
+7210,Gravebone The Unspeakable,The Lost Crypts of Sorrows,35.87,Angels' Smoke Adamant Of The Mountains,292.00,2832.34,215.00,827043.28,62780.00,320336.38,1210159.66
+8223,Lord Mystery,Mahyrst Keep,27.65,Djinni's Spectral Shadowlead Of Life,219.00,3705.90,296.02,811592.10,64828.38,245397.73,1121818.21
+10463,Blazefreeze The Chiller,The Dismal Marsh,6.05,Shadowhell Mithril,346.00,439.23,286.41,151973.58,99097.86,15064.29,266135.73
+10615,"Selik, God of Death",The Dread Hive of Illfang the Kobold Lord,1.33,Hell Mercury Of The East,227.00,4636.34,313.06,1052449.18,71064.62,11235.14,1134748.94
+13420,Chainblade The Cadaverous,Castle Village,41.26,Negative Mercury,261.00,4054.87,436.81,1058321.07,114007.41,480654.68,1652983.16
+14937,Lord Mystery,The Fortress of the Lich Queen,36.35,Lunar Bronze,201.00,753.86,337.70,151525.86,67877.70,78985.28,298388.84
+15963,Spikecrank,Peley Keep,26.33,Angels' Smoke Adamant Of The Mountains,200.00,3427.13,236.50,685426.00,47300.00,190508.76,923234.76
+20039,"Iran, Lord of Nightmares",Unicorn's Ward,14.64,Djinni's Mind Fogiron,102.00,2531.12,98.52,258174.24,10049.04,40233.49,308456.77
+20609,Chainnail,The Black Barrow of Zago the Possessed,30.80,Golems' Stonesapphire Gold Of The Glacier,249.00,4444.06,116.57,1106570.94,29025.93,352035.03,1487631.90
+22443,Song Runetomb,Bifar's Deep,18.70,Violetstone Tin Of Death,167.00,2469.75,171.71,412448.25,28675.57,83813.53,524937.35
+22561,Tarot Dawn,Citadel Ward,37.80,Falserainbow Lead,162.00,3215.00,256.30,520830.00,41520.60,213693.23,776043.83
+22787,Emberspawn,Eved Castle,5.09,Djinni's Evil Sandobsidian Steel Of The Future,246.00,4208.60,172.78,1035315.60,42503.88,53890.97,1131710.45

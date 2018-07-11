@@ -1,0 +1,17 @@
+739,Gladys "Locoweed" Keller,MO,2.20,Solid Oak,204.00,5.00,5.00,1020.00,1020.00,40.80,2080.80
+2656,Lorraine "Utah" Adams,OK,2.00,Packed Dirt,101.00,1.00,1.50,101.00,151.50,5.05,257.55
+3151,Darlene "Loner" Ford,AL,1.00,Pebbles,134.00,0.80,4.40,107.20,589.60,6.97,703.77
+6787,Gladys "Locoweed" Keller,NM,2.20,Pebbles,71.00,0.80,4.84,56.80,343.64,8.01,408.45
+7125,"Sunrise" Miles,MO,2.20,Packed Dirt,216.00,1.00,1.50,216.00,324.00,10.80,550.80
+9918,Minnie Lawson "the Apostle",MS,3.00,Beechwood,82.00,3.00,5.50,246.00,451.00,20.91,717.91
+10550,Theresa "Scalphunter" Romero,NM,2.20,Brick,90.00,4.84,6.66,435.60,599.40,20.70,1055.70
+11385,Joanne "Damned" Miles,OK,2.42,Beechwood,136.00,3.00,5.50,408.00,748.00,23.12,1179.12
+11847,Vengeful Montgomery,AR,2.20,Packed Dirt,72.00,1.00,1.65,72.00,118.80,3.82,194.62
+12210,Susan "Damnation" Fleming,WY,0.31,Dirt,104.00,0.50,1.00,52.00,104.00,0.00,156.00
+12902,"Scalphunter" Kennedy,WY,0.31,Brick,74.00,4.84,6.66,358.16,492.84,0.00,851.00
+13854,Gladys "Locoweed" Keller,NV,0.31,Reeds,148.00,0.75,2.20,111.00,325.60,0.00,436.60
+14054,Florence "Leather Doc" Grant,WY,0.31,Beechwood,93.00,3.63,5.50,337.59,511.50,0.00,849.09
+14637,Cathy "Loner Demon" Murray,WY,0.31,Reeds,111.00,0.75,2.20,83.25,244.20,0.00,327.45
+19985,Heather "Friendly Gambler" Barrett,MS,3.00,Pinecones,250.00,1.50,2.66,375.00,665.00,31.20,1071.20
+21348,Lena Chapman "the Bully",IA,1.33,Packed Dirt,286.00,1.10,2.42,314.60,692.12,10.07,1016.79
+22531,Evelyn "Evil Joker" Taylor,UT,0.00,Dirt,279.00,0.55,1.00,153.45,279.00,0.00,432.45

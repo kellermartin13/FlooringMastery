@@ -1,0 +1,23 @@
+222,Beamtrap,The Bastion of Barbos,21.29,Rainbowglitter Tin,171.00,4475.87,176.36,765373.77,30157.56,167061.58,962592.91
+944,Tiger Mistmidnight,The Citadel of Alammius,3.18,Primordial False Gold,213.00,4459.34,226.00,949839.42,48138.00,29939.32,1027916.74
+1575,Springsprocket,Shainan's Hold,19.80,Ensorceled Sandmetal Of Spirits,102.00,2956.98,87.00,301611.96,8874.00,62097.19,372583.15
+1728,Spiketerror The Skeletal,The Pirate's Pipe,16.00,Green Dustlightning Mercury,265.00,3517.00,32.00,932005.00,8480.00,150477.60,1090962.60
+5122,Shadow Tomblion,The Black Barrow of Zago the Possessed,28.00,Rot Silver Of The Past,172.00,3440.00,327.00,591680.00,56244.00,181418.72,829342.72
+6020,Bronzespike,The Archer and Blade,9.00,Pearl Mirrorice Steel Of Changelings,222.00,271.51,38.07,60275.22,8451.54,6185.41,74912.17
+6167,Boltcrank The Trapper,The Fortress of Gama,10.16,Trolls' Mist Poisonplatinum Of The Twilight,298.00,516.17,394.90,153818.66,117680.20,27149.89,298648.75
+6647,Spikespawn,The Dread Hive of Illfang the Kobold Lord,1.33,Magic Adamant,194.00,1838.00,207.64,356572.00,40282.16,3968.54,400822.70
+9084,Deathspike The Terrifying,Unicorn's Ward,14.64,Rocklava Mithril Of Revenants,158.00,1818.30,14.33,287291.40,2264.14,43433.33,332988.87
+10036,Chainnail,The Tomb of Hellish Ruin,16.94,Magicians' Legendary Poison Metal,162.00,2247.59,229.81,364109.58,37229.22,68227.60,469566.40
+10137,Claw Mist,The Nulukkhath Spires,10.59,Shadowy Adamant,289.00,618.93,478.58,178870.77,138309.62,34889.84,352070.23
+11228,Wheelbolt The Machine,Gili's Delve,-5.56,Emerald Orichalcum,295.00,-368.87,128.90,-108816.65,38025.50,4247.47,-66543.68
+13922,Icechill The Frigid,Gili's Delve,-6.73,Ghostly Soul Adamant,209.00,3222.96,229.53,673598.64,47971.77,-50509.93,671060.48
+14768,Valentine Lawslayer,The Tower of Sabiesu the Awesome,5.32,Phantasmal Tin Of The Swamps,156.00,4929.54,-7.26,769008.24,-1132.56,38393.78,806269.46
+15555,Chainblade The Cadaverous,Gili's Delve,-6.73,Primordial False Gold,304.00,5395.80,248.60,1640323.20,75574.40,-120112.83,1595784.77
+17356,Gravebone,The Citadel of Alammius,3.85,Sphinxes' Opalpearl Platinum Of Legend,254.00,5805.82,390.81,1474678.28,99265.74,62957.76,1636901.78
+18633,"Eumyan, Goddess of Law",The Tomb of Hellish Ruin,16.94,Starlight Pearldream Bronze,246.00,322.10,147.40,79236.60,36260.40,19634.49,135131.49
+18873,Burnchill The Evil,Reyny Keep,11.00,Unicorns' Evil Mithril,286.00,4802.49,377.52,1373512.14,107970.72,162963.11,1644445.97
+19304,Valentine Lawslayer,The Barrow of Malefic Ages,19.70,Mana-touched Greenglitter Gold Of Giants,232.00,1291.38,514.25,299600.16,119306.00,83781.23,502687.39
+19773,Spikebrood The Disinterred,The Pirate's Pipe,17.60,Mithril Of The Tropics,244.00,4538.71,11.98,1107445.24,2923.12,199866.30,1310234.66
+21138,"Byzou, God of Animals",The Secret Catacombs of Ulfang the Black,42.90,Angels' Adamant,158.00,1434.40,197.23,226635.20,31162.34,110852.94,368650.48
+21667,Shadow Tomblion,Pawic Keep,0.62,Phantasmal Tin Of The Swamps,137.00,5964.74,-7.99,817169.38,-1094.63,8160.75,824235.50
+21950,Tarot Dawn,The Secret Shrine of the Gargoyle Count,-2.00,Poison Adamant,333.00,1266.52,70.88,421751.16,23603.04,-8907.08,436447.12

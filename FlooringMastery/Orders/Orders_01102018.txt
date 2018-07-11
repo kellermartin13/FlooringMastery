@@ -1,0 +1,21 @@
+2054,Heather "Friendly Gambler" Barrett,KS,0.50,Beechwood,192.00,3.00,5.00,576.00,960.00,0.00,1536.00
+3138,Cathy "Loner Demon" Murray,ID,0.00,Pebbles,206.00,0.80,4.40,164.80,906.40,0.00,1071.20
+4942,Debra "Scorpion" Lane,TX,0.50,Cedar Planks,218.00,2.00,5.50,436.00,1199.00,0.00,1635.00
+6793,Lena Chapman "the Bully",TX,0.50,Reeds,185.00,0.75,2.20,138.75,407.00,0.00,545.75
+9356,Helen Webb "the Dancer",ND,1.25,Dirt,228.00,0.50,1.00,114.00,228.00,3.42,345.42
+9369,Helen Webb "the Dancer",TX,0.55,Packed Dirt,147.00,1.00,1.50,147.00,220.50,3.68,371.18
+12503,Victoria "the Dancer",MO,2.20,Reeds,124.00,0.75,2.20,93.00,272.80,7.32,373.12
+13683,Tammy Carlson "the Killer",TX,0.67,Cedar Planks,148.00,2.20,6.05,325.60,895.40,12.21,1233.21
+14749,Theresa "Scalphunter" Romero,WY,0.31,Beechwood,206.00,3.63,5.50,747.78,1133.00,0.00,1880.78
+16729,Mattie Grant "the Gambler",MT,3.99,Solid Oak,279.00,5.50,6.05,1534.50,1687.95,128.90,3351.35
+17431,Jo "the Joker",MT,3.99,Reeds,183.00,0.83,2.20,151.89,402.60,22.18,576.67
+17496,"Sunrise" Miles,ID,0.00,Beechwood,63.00,3.63,5.50,228.69,346.50,0.00,575.19
+18560,Minnie Lawson "the Apostle",WY,0.31,Reeds,249.00,0.83,2.20,206.67,547.80,0.00,754.47
+19858,Michele Watson "the Loner",NM,2.93,Cedar Planks,331.00,2.20,6.66,728.20,2204.46,87.98,3020.64
+19967,Gloria "Devil" McCoy,OK,2.66,Brick,72.00,5.32,6.66,383.04,479.52,25.88,888.44
+19969,Evelyn "Evil Joker" Taylor,AL,1.00,Cedar Planks,317.00,2.20,6.66,697.40,2111.22,28.09,2836.71
+20024,Allison "Steel Gravedigger" Douglas,WY,0.31,Cedar Planks,205.00,2.20,6.66,451.00,1365.30,0.00,1816.30
+20133,Michele Watson "the Loner",MS,3.00,Pebbles,378.00,0.88,4.84,332.64,1829.52,64.86,2227.02
+22257,Friendly Howell,AR,2.20,Solid Oak,218.00,5.50,6.66,1199.00,1451.88,53.02,2703.90
+22374,Ida Russell "the Rustler",NV,0.31,Cedar Planks,195.00,2.20,6.66,429.00,1298.70,0.00,1727.70
+22540,Lucky Johnson,ND,1.67,Cedar Planks,167.00,2.20,6.66,367.40,1112.22,29.59,1509.21

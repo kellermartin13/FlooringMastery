@@ -1,0 +1,20 @@
+141,Black Beck,MS,3.00,Pebbles,148.00,0.80,4.00,118.40,592.00,21.31,731.71
+442,Darlene "Loner" Ford,UT,0.00,Dirt,191.00,0.50,1.00,95.50,191.00,0.00,286.50
+3353,Evelyn "Evil Joker" Taylor,MT,3.00,Beechwood,231.00,3.00,5.00,693.00,1155.00,55.44,1903.44
+4290,April "Thunderbird" Dunn,TX,0.50,Cedar Planks,196.00,2.00,5.50,392.00,1078.00,0.00,1470.00
+4390,Elizabeth "the Bully",UT,0.00,Pinecones,209.00,1.50,2.42,313.50,505.78,0.00,819.28
+5547,Tammy Carlson "the Killer",CA,0.55,Solid Oak,200.00,5.50,5.50,1100.00,1100.00,22.00,2222.00
+5580,Heather "Tornado" Newman,NV,0.25,Pebbles,190.00,0.80,4.40,152.00,836.00,0.00,988.00
+5718,"Bane" Jennings,KS,0.50,Packed Dirt,152.00,1.00,1.50,152.00,228.00,0.00,380.00
+10164,Vicki "Mesa" Rhodes,OK,2.20,Reeds,138.00,0.75,2.20,103.50,303.60,8.14,415.24
+10751,Vengeful Robertson,UT,0.00,Leather,247.00,10.00,18.15,2470.00,4483.05,0.00,6953.05
+10957,Theresa "Scalphunter" Romero,MT,3.63,Reeds,226.00,0.75,2.20,169.50,497.20,26.67,693.37
+11201,Renee "Hellish Empress" Banks,MT,3.63,Brick,226.00,4.84,6.66,1093.84,1505.16,103.96,2702.96
+11283,Lorraine "Utah" Adams,AL,1.00,Cedar Planks,189.00,2.20,6.05,415.80,1143.45,15.59,1574.84
+11334,Vanessa "Scalper" Rhodes,AR,2.20,Packed Dirt,154.00,1.00,1.65,154.00,254.10,8.16,416.26
+11774,Tammy Carlson "the Killer",NM,2.20,Pinecones,92.00,1.50,2.66,138.00,244.72,7.65,390.37
+12955,"Sunrise" Miles,UT,0.00,Beechwood,148.00,3.30,5.50,488.40,814.00,0.00,1302.40
+16355,Heather "Tornado" Newman,MO,2.20,Reeds,266.00,0.83,2.20,220.78,585.20,16.12,822.10
+17007,Ida Russell "the Rustler",WY,0.31,Cedar Planks,241.00,2.20,6.05,530.20,1458.05,0.00,1988.25
+17044,Heather "Tornado" Newman,MO,2.20,Solid Oak,202.00,5.50,6.05,1111.00,1222.10,46.66,2379.76
+20673,Vengeful Robertson,AR,2.20,Reeds,153.00,0.83,2.20,126.99,336.60,9.27,472.86

@@ -1,0 +1,142 @@
+OH,6.25
+PA,6.75
+MI,5.75
+IN,6.00
+WA,9.25
+KY,6.00
+CA,0.67
+NV,0.31
+MT,5.84
+NM,2.93
+OK,2.93
+TX,0.67
+AR,2.2
+AL,1
+MS,3
+WY,0.34
+ID,0.00
+IA,1.33
+KS,0.55
+MO,2.20
+ND,1.67
+UT,0.00
+Pewold Keep,22.57
+The Tower of Aramum,47.19
+The Citadel of Tattena the Sinister,13.34
+Dysley Stronghold,50.58
+Reheath Stronghold,9.68
+The Bastion of Sthasu the Gruesome,14.93
+Gifeld Castle,6.22
+The Fortress of Asmamur,-4.93
+The Citadel of Lord Greywulf,33.04
+Gena's Hold,2.66
+Weke Tower,-0.07
+Minas Gilloy,47.51
+The Bastion of Barbos,28.34
+The Fortress of the Lich Queen,36.35
+Peley Keep,26.33
+Waleah Castle,0.85
+Bergfison's Deep,57.98
+Hafeld Keep,46.71
+The Citadel of Alammius,3.85
+Tradun Castle,45.57
+The Fortress of Gama,12.30
+Love Keep,10.25
+The Bastion of the Vampire Duke,23.33
+Haukri's Hold,27.83
+Barad Kesa,5.23
+Gili's Delve,-6.73
+The Bastion of Gothmog of Udun,54.84
+Cawold Castle,29.15
+The Tower of the Demon Warlord,23.07
+Bifar's Deep,18.70
+Barad Cune,28.60
+Fellfen Keep,67.68
+Khali's Delve,52.71
+Pawic Keep,0.62
+Mahyrst Keep,30.42
+Reyny Keep,11.00
+Kewold Stronghold,10.74
+The Tower of Sheshbazzu,4.39
+The Tower of Aces the Accursed,13.31
+The Tower of Sabiesu the Awesome,5.85
+Kada's Deep,33.00
+The Fortress of Akkun the Grim,-2.42
+The Bastion of the Lich Tyrant,52.03
+Gawold Castle,6.05
+Boiaburh Keep,17.60
+Lacot Stronghold,49.74
+Eved Castle,5.09
+Shainan's Hold,23.96
+Grori's Deep,66.50
+The Citadel of Cheno,7.33
+The Lost Sanctum of Woe,3.30
+The Forsaken Sepulcher of Sorrows,53.67
+The Secret Catacombs of Ulfang the Black,47.19
+The Tomb of Gothmog of Udun,-3.30
+The Forsaken Tomb of Devastation,0.00
+The Forsaken Delve of Lord Greywulf,47.19
+The Dungeon of Merciless Woe,42.48
+The Black Barrow of Zago the Possessed,30.80
+The Secret Shrine of the Gargoyle Count,-2.00
+The Dungeon of Dismal Terror,-3.85
+The Tomb of Hellish Ruin,16.94
+The Vaults of the Shadow Emperor,39.93
+The Black Barrow of Bery,-0.11
+The Dread Hive of Illfang the Kobold Lord,1.61
+The Lost Crypts of Sorrows,35.87
+The Barrow of Terrible Horror,-1.33
+The Temple of Merciless Necromancy,67.79
+The Barrow of Malefic Ages,21.67
+The Forsaken Hive of Galima the Mighty,29.89
+The Dark Caverns of Woe,3.62
+The Chuallanto Jungle,49.25
+The Glano Forest,3.00
+The Khazahol Crags,-2.17
+The Nulukkhath Spires,11.65
+The Desert of Flames,62.81
+The Dismal Marsh,6.66
+The Grey Plains,21.97
+The Shadow Downs,15.98
+The Fen of the Necromancer,79.89
+The Cuitamba Jungle,33.88
+Tower Farthing,27.12
+Palace Farthing,52.40
+Archscepter Borough,4.39
+North Grove Ward,8.79
+Noble's Village,33.28
+Archring Borough,21.69
+Grove Farthing,19.80
+South Brightcrown Borough,42.25
+Archfane District,39.78
+North Arcanist's Farthing,55.18
+Moor Village,84.07
+Unicorn's Ward,14.64
+Archtemple District,27.76
+Arcanist's Farthing,3.30
+Hartshill Ward,50.80
+Lamp Borough,4.95
+Castle Village,49.93
+Ring District,42.35
+Citadel Ward,37.80
+Lordsgate Farthing,45.25
+The Pilgrim's Cup,46.12
+The Archer and Scroll,43.56
+The Demon and Toad,31.61
+The Beggar and Cask,25.41
+The Scoundrel and Flask,-5.04
+The Broken Shield,40.95
+The Bloody Wand,15.97
+The Lewd King,32.67
+The Broken Arrow,40.03
+The Wizard's House,43.58
+The Flying Witch,13.86
+The Drunken Thief,12.65
+The Lazy Sage,19.97
+The Pirate's Pipe,17.60
+The Archer and Blade,10.89
+The Hunter and Rose,44.44
+The Dancing Minstrel,25.65
+The Greedy Wench,43.53
+The Warrior and Flagon,58.56
+The Cracked Chalice,2.52

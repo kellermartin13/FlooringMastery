@@ -1,0 +1,19 @@
+625,Wheelbolt The Machine,The Black Barrow of Bery,-0.07,Unspeakable Rotsoul Mithril Of Souls,174.00,248.00,401.53,43152.00,69866.22,0.00,113018.22
+1971,Rouge Tombreaper,The Forsaken Tomb of Devastation,0.00,Spirits' Living Wordhammer Tin Of The Trees,53.00,4343.00,26.40,230179.00,1399.20,0.00,231578.20
+3437,Tarot Dawn,The Broken Arrow,30.07,Starlight Pearldream Bronze,191.00,266.20,134.00,50844.20,25594.00,22931.46,99369.66
+3530,Gale Jackalguard,The Forsaken Hive of Galima the Mighty,22.45,Heavenly Dreamsilver Of The Night,217.00,1826.98,112.00,396454.66,24304.00,92566.91,513325.57
+4120,Storm Seraphheart,The Archer and Scroll,39.60,Violetstone Tin Of Death,245.00,2245.23,156.10,550081.35,38244.50,235330.34,823656.19
+4764,Seraphim Tsunami,Tradun Castle,34.24,Venom Timegold Of Dwarves,278.00,3036.00,269.00,844008.00,74782.00,312388.60,1231178.60
+4885,Metalbrood,Tradun Castle,34.24,Zephyr Adamant,229.00,4224.00,102.93,967296.00,23570.97,336894.77,1327761.74
+5099,Fate Seeker,The Black Barrow of Zago the Possessed,28.00,Mithril Of Legend,253.00,2274.80,63.01,575524.40,15941.53,165610.46,757076.39
+5778,Blazeflare The Cremator,Gena's Hold,2.20,Vampires' Hammer Emeraldmetal,93.00,379.45,25.84,35288.85,2403.12,753.84,38445.81
+11288,Rouge Roguemist,The Tower of Aces the Accursed,13.31,Devils' Falserot Silver,236.00,1668.51,182.71,393768.36,43119.56,56795.43,493683.35
+16731,"Selik, God of Death",Love Keep,9.32,Mistgold Of Men,124.00,4080.46,53.24,505977.04,6601.76,46132.09,558710.89
+17918,Rouge Roguemist,Dysley Stronghold,45.98,Negative Rockglitter Mercury Of Trolls,225.00,1632.29,619.42,367265.25,139369.50,233051.98,739686.73
+18044,Wheelspawn,North Arcanist's Farthing,55.18,Phantasmal Plague Adamant,154.00,-204.63,-7.18,-31513.02,-1105.72,-17940.31,-50559.05
+18048,Spiketerror The Skeletal,The Nulukkhath Spires,11.65,Trolls' Mist Poisonplatinum Of The Twilight,224.00,567.79,434.39,127184.96,97303.36,26938.60,251426.92
+21178,Burnchill The Evil,The Cuitamba Jungle,33.88,Planar Rainfate Mithril,217.00,1304.42,320.52,283059.14,69552.84,119888.07,472500.05
+22001,"Nelalwe, Lady of Fire",Barad Kesa,5.23,Forgotten Mithril,170.00,1215.20,347.60,206584.00,59092.00,13283.80,278959.80
+22093,Rouge Tombreaper,Barad Kesa,5.23,Meteoric Mirrormuck Orichalcum Of The Forests,168.00,2374.02,185.77,398835.36,31209.36,21502.24,451546.96
+22319,Metalghoul,The Cuitamba Jungle,33.88,Phantasmal Lead,334.00,-669.10,270.02,-223479.40,90186.68,-45319.52,-178612.24
+22490,Bonescare,Waleah Castle,0.85,Mana-touched Greenglitter Gold Of Giants,306.00,1420.52,514.25,434679.12,157360.50,5920.40,597960.02

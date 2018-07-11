@@ -1,0 +1,14 @@
+1386,"Maglioneth, Lord of the Sun",The Pirate's Pipe,16.00,Meteoric Dustzephyr Orichalcum,229.00,375.00,221.89,85875.00,50812.81,21870.05,158557.86
+1735,"Gadriel, God of Resurrection",The Lazy Sage,15.00,Starlight Pearldream Bronze,365.00,242.00,134.00,88330.00,48910.00,20586.00,157826.00
+6029,Flora Amberslayer,The Archer and Blade,9.00,Pearl Mirrorice Steel Of Changelings,324.00,271.51,38.07,87969.24,12334.68,9027.35,109331.27
+6200,"Uriel, God of Fate",The Cracked Chalice,2.29,Primordial Plague Mercury Of Legend,321.00,373.79,273.90,119986.59,87921.90,4158.17,212066.66
+7937,Clash Lonedrake,The Cuitamba Jungle,30.80,Unknowable Mindsilver,118.00,3565.00,366.00,420670.00,43188.00,143795.98,607653.98
+8480,Cult Godseeker,The Lazy Sage,19.97,Glowpearl Adamant Of Spirits,317.00,398.09,374.00,126194.53,118558.00,48950.51,293703.04
+9528,Bolttrap,The Forsaken Sepulcher of Sorrows,48.79,Emerald Orichalcum,236.00,-368.87,128.90,-87053.32,30420.40,-27750.13,-84383.05
+10247,Boltcrank The Trapper,The Chuallanto Jungle,37.00,Sphinxes' Mistsoul Bronze Of The Past,299.00,2169.81,202.07,648773.19,60418.93,262401.08,971593.20
+12252,"Zepul, Lady of Vengeance",The Dismal Marsh,6.05,Incubi's Iron Of The Dawn,329.00,1200.96,424.31,395115.84,139597.99,32082.83,566796.66
+12703,Springpulley The Binder,The Fortress of Gama,10.16,Mistgold Of Men,128.00,3372.28,53.24,431651.84,6814.72,43846.66,482313.22
+14934,Rune Rougehate,Minas Gilloy,43.19,Lunar Bronze,117.00,753.86,337.70,88201.62,39510.90,54916.38,182628.90
+19240,Ironbrood,The Secret Shrine of the Gargoyle Count,-2.00,Unspeakable Rotsoul Mithril Of Souls,254.00,248.00,485.85,62992.00,123405.90,-3727.96,182669.94
+21545,Springpulley The Binder,Peley Keep,26.33,Planar Rainfate Mithril,139.00,1304.42,320.52,181314.38,44552.28,58725.33,284591.99
+21740,Tiger Mistmidnight,Lamp Borough,4.95,Ensorceled Sandmetal Of Spirits,98.00,2956.98,95.70,289784.04,9378.60,14958.13,314120.77

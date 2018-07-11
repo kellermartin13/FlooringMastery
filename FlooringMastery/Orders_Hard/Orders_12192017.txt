@@ -1,0 +1,13 @@
+643,Flora Amberslayer,Shainan's Hold,18.00,Ghostly Magic Adamant,179.00,3997.01,230.90,715464.79,41331.10,136223.26,893019.15
+1173,Metalbrood,The Barrow of Malefic Ages,17.91,Yellow Mistearth Copper,95.00,4159.62,-27.40,395163.90,-2603.00,70660.96,463221.86
+1997,Bronzespike,Hartshill Ward,41.98,Magicians' Legendary Poison Metal,197.00,2043.26,229.81,402522.22,45272.57,188073.81,635868.60
+3768,"Gadriel, God of Resurrection",Barad Cune,26.00,Sapphire Mindlead,136.00,1307.71,47.00,177848.56,6392.00,47902.55,232143.11
+5890,Metalbrood,The Cuitamba Jungle,28.00,Vampires' Hammer Emeraldmetal,283.00,379.45,25.84,107384.35,7312.72,32115.18,146812.25
+7071,Flora Amberslayer,The Demon and Toad,23.75,Angels' Smoke Adamant Of The Mountains,230.00,2832.34,215.00,651438.20,49450.00,168213.17,869101.37
+7544,"Sielach, God of Fate",Tradun Castle,34.24,Fleshshock Mercury,382.00,4417.00,279.40,1687294.00,106730.80,609968.43,2403993.23
+8057,"Melcha, Goddess of Thieves",The Dungeon of Dismal Terror,-3.50,Unknown Fatelightning Steel Of The Glacier,221.00,2017.40,54.28,445845.40,11995.88,-18313.65,439527.63
+11659,Sunrise Godwarlock,Archring Borough,17.93,Thunderbirds' Transcendent Dreamiron,215.00,2275.25,237.70,489178.75,51105.50,97251.16,637535.41
+12073,Cult Godseeker,The Pirate's Pipe,17.60,Sprites' Transcendent Mud Lead Of The South,140.00,2081.80,321.86,291452.00,45060.40,60572.23,397084.63
+15668,Shiverflame The Freezer,The Fortress of Asmamur,-4.93,Shadowy Adamant,128.00,618.93,526.44,79223.04,67384.32,-7330.37,139276.99
+21203,Wheelbolt The Machine,The Bastion of Sthasu the Gruesome,14.93,Angels' Smoke Adamant Of The Mountains,279.00,3427.13,260.15,956169.27,72581.85,154312.67,1183063.79
+22099,Storm Seraphheart,The Black Barrow of Bery,-0.10,Mana-touched Greenglitter Gold Of Giants,200.00,1420.52,514.25,284104.00,102850.00,0.00,386954.00

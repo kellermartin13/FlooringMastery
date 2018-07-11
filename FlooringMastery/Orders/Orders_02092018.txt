@@ -1,0 +1,18 @@
+612,Debra "Scorpion" Lane,MT,3.00,Beechwood,176.00,3.00,5.00,528.00,880.00,42.24,1450.24
+790,Tammy Carlson "the Killer",AL,1.00,Packed Dirt,213.00,1.00,1.50,213.00,319.50,5.32,537.82
+1339,Florence "Leather Doc" Grant,MT,3.00,Reeds,201.00,0.75,2.00,150.75,402.00,16.58,569.33
+2203,Beth "Fortunate Shooter" Powell,MS,3.00,Packed Dirt,234.00,1.00,1.50,234.00,351.00,17.55,602.55
+2449,Kathy Murphy "the Thinker",WY,0.25,Dirt,217.00,0.50,1.00,108.50,217.00,0.00,325.50
+3293,Allison "Steel Gravedigger" Douglas,CA,0.55,Pinecones,170.00,1.50,2.20,255.00,374.00,6.29,635.29
+5823,Marie "Raven" Chapman,KS,0.50,Reeds,195.00,0.75,2.20,146.25,429.00,0.00,575.25
+6794,Jacqueline "Riding Doc" Washington,TX,0.50,Cedar Planks,311.00,2.20,6.05,684.20,1881.55,0.00,2565.75
+8268,Debra "Scorpion" Lane,ND,1.25,Dirt,148.00,0.50,1.00,74.00,148.00,2.22,224.22
+9608,Melissa "Lonesome Stalker" Riley,WY,0.31,Brick,243.00,4.84,6.66,1176.12,1618.38,0.00,2794.50
+10307,Betty "Happy Thinker" Watson,NV,0.31,Reeds,250.00,0.75,2.20,187.50,550.00,0.00,737.50
+14723,Jacqueline "Riding Doc" Washington,ND,1.38,Solid Oak,178.00,5.50,5.50,979.00,979.00,19.58,1977.58
+15817,Heather "Tornado" Newman,WY,0.31,Solid Oak,249.00,5.50,6.05,1369.50,1506.45,0.00,2875.95
+18572,Theresa "Scalphunter" Romero,KS,0.55,Pinecones,296.00,1.50,2.66,444.00,787.36,12.31,1243.67
+18947,Mattie Grant "the Gambler",ID,0.00,Dirt,208.00,0.50,1.00,104.00,208.00,0.00,312.00
+19327,Evelyn "Evil Joker" Taylor,CA,0.67,Cedar Planks,166.00,2.20,6.66,365.20,1105.56,14.71,1485.47
+21748,Ida Russell "the Rustler",ID,0.00,Dirt,210.00,0.55,1.00,115.50,210.00,0.00,325.50
+22968,Julia "Bandit" Chandler,CA,0.67,Cedar Planks,146.00,2.20,6.66,321.20,972.36,12.94,1306.50

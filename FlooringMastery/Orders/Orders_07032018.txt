@@ -1,0 +1,16 @@
+2039,"Scalphunter" Kennedy,MT,3.00,Beechwood,157.00,3.00,5.00,471.00,785.00,37.68,1293.68
+2396,Florence "Leather Doc" Grant,ND,1.25,Pinecones,259.00,1.50,2.20,388.50,569.80,9.58,967.88
+3287,Gloria "Devil" McCoy,ID,0.00,Pebbles,104.00,0.80,4.40,83.20,457.60,0.00,540.80
+3777,Victoria "the Dancer",ND,1.25,Reeds,292.00,0.75,2.00,219.00,584.00,8.03,811.03
+4350,Heather "Tornado" Newman,NM,2.20,Leather,155.00,10.00,16.50,1550.00,2557.50,82.15,4189.65
+4359,Vengeful Robertson,ND,1.25,Beechwood,143.00,3.00,5.00,429.00,715.00,11.44,1155.44
+5715,Jo "the Joker",AL,1.00,Reeds,235.00,0.75,2.20,176.25,517.00,6.93,700.18
+6269,Gloria "Devil" McCoy,UT,0.00,Beechwood,313.00,3.00,5.00,939.00,1565.00,0.00,2504.00
+6600,Susan "Damnation" Fleming,NV,0.28,Dirt,281.00,0.50,1.00,140.50,281.00,0.00,421.50
+6628,Cathy "Wildfire" Neal,KS,0.50,Packed Dirt,227.00,1.00,1.50,227.00,340.50,0.00,567.50
+8324,"Bane" Jennings,ID,0.00,Solid Oak,120.00,5.50,5.50,660.00,660.00,0.00,1320.00
+9440,Theresa "Kid" Robinson,AR,2.20,Solid Oak,375.00,5.50,5.50,2062.50,2062.50,82.50,4207.50
+12145,"Sunrise" Miles,NV,0.31,Brick,224.00,4.84,6.66,1084.16,1491.84,0.00,2576.00
+14405,Tina "Lady" Anderson,OK,2.42,Beechwood,191.00,3.63,5.50,693.33,1050.50,34.88,1778.71
+20208,Susan "Damnation" Fleming,AR,2.20,Reeds,75.00,0.83,2.20,62.25,165.00,4.54,231.79
+20817,Theresa "Kid" Robinson,MS,3.00,Dirt,63.00,0.50,1.00,31.50,63.00,2.84,97.34

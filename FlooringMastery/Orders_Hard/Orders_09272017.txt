@@ -1,0 +1,20 @@
+1243,Magus Felldrake,The Forsaken Tomb of Devastation,0.00,Dragons' Poison Glitterflesh Steel Of The North,128.00,2790.70,216.48,357209.60,27709.44,0.00,384919.04
+5145,Scarefear The Blade,The Fortress of the Lich Queen,36.35,Primordial Plague Mercury Of Legend,70.00,339.81,273.90,23786.70,19173.00,15465.49,58425.19
+5804,Magus Felldrake,The Nulukkhath Spires,10.59,White Platinum,226.00,-52.59,145.00,-11885.34,32770.00,2297.31,23181.97
+5964,Spikespawn,The Archer and Blade,9.00,Primordial Plague Mercury Of Legend,182.00,373.79,273.90,68029.78,49849.80,10609.16,128488.74
+7202,Claw Mist,Kada's Deep,33.00,Poison Adamant,111.00,1151.38,58.58,127803.18,6502.38,44320.83,178626.39
+7305,Sunrise Godwarlock,Pawic Keep,0.56,Zephyr Adamant,87.00,4224.00,102.93,367488.00,8954.91,3764.43,380207.34
+7516,"Melcha, Goddess of Thieves",Pawic Keep,0.56,Angels' Adamant,11.00,1304.00,179.30,14344.00,1972.30,163.16,16479.46
+7568,Burnfreeze The Cold,The Dancing Minstrel,21.20,Angels' Adamant,114.00,1304.00,179.30,148656.00,20440.20,35510.20,204606.40
+9835,Nailpiston The Grasping,The Tomb of Gothmog of Udun,-3.00,Golems' Stonesapphire Gold Of The Glacier,217.00,3672.77,105.97,796991.09,22995.49,-24599.60,795386.98
+10069,"Gadriel, God of Resurrection",The Nulukkhath Spires,10.59,Pearl Mirrorice Steel Of Changelings,216.00,271.51,38.07,58646.16,8223.12,7355.62,74224.90
+11256,Flora Amberslayer,The Tower of Aces the Accursed,13.31,God-touched Greengem Platinum,180.00,1281.72,-39.60,230709.60,-7128.00,29065.61,252647.21
+11950,Lightning Brand,Gena's Hold,2.66,Fairies' Supreme Mistsmoke Lead Of The Future,95.00,3349.50,324.73,318202.50,30849.35,10471.56,359523.41
+12012,Beamsprocket The Grasping,The Secret Catacombs of Ulfang the Black,42.90,Ghostly Magic Adamant,360.00,4836.38,230.90,1741096.80,83124.00,784414.94,2608635.74
+13350,Chainhorror,The Lost Crypts of Sorrows,35.87,White Platinum,195.00,-63.64,159.50,-12409.80,31102.50,6729.37,25422.07
+15504,Snowflame The Evil,Gifeld Castle,6.22,Rainbowglitter Tin,260.00,5957.39,213.40,1548921.40,55484.00,96264.32,1700669.72
+17030,Bedlam Spiritraven,Lacot Stronghold,45.22,Venom Jewelmetal Of The Desert,303.00,1388.00,298.14,420564.00,90336.42,229905.19,740805.61
+18517,Shiverflame The Freezer,The Glano Forest,3.00,Sirens' Rockgold,347.00,-352.01,199.96,-122147.47,69386.12,-1582.84,-54344.19
+19381,Steelterror The Blade,Noble's Village,33.28,Toxic Mistlead Of The Past,175.00,1557.54,164.64,272569.50,28812.00,99455.90,400837.40
+19674,Blazeflare The Cremator,Weke Tower,-0.07,Sirens' Rockgold,227.00,-352.01,199.96,-79906.27,45390.92,0.00,-34515.35
+20095,Song Runetomb,Archtemple District,27.76,Primordial False Gold,83.00,5395.80,248.60,447851.40,20633.80,131175.86,599661.06

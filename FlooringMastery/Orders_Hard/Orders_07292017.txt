@@ -1,0 +1,13 @@
+104,Blazefreeze The Chiller,The Demon and Toad,23.75,Green Dustlightning Mercury,236.00,3517.00,32.00,830012.00,7552.00,201015.36,1038579.36
+6134,Rose Anchor,The Shadow Downs,13.21,Primordial Plague Mercury Of Legend,223.00,373.79,273.90,83355.17,61079.70,18776.53,163211.40
+9030,Nailpiston The Grasping,Moor Village,57.42,Negative Rockglitter Mercury Of Trolls,219.00,1483.90,465.38,324974.10,101918.22,243328.62,670220.94
+9242,Chainblade The Cadaverous,Unicorn's Ward,14.64,Rocklava Mithril Of Revenants,216.00,1818.30,14.33,392752.80,3095.28,59377.21,455225.29
+12124,"Baltha, Goddess of Knowledge",Fellfen Keep,46.23,Magicians' Legendary Poison Metal,301.00,2719.59,229.81,818596.59,69172.81,408373.92,1296143.32
+14350,"Zepul, Lady of Vengeance",The Chuallanto Jungle,40.70,Shadow Steel,200.00,5660.12,511.83,1132024.00,102366.00,506099.90,1740489.90
+15316,Jericho Wolf,Gili's Delve,-6.73,Trolls' Rubymercury Of The Sunset,203.00,556.60,217.80,112989.80,44213.40,-11004.22,146198.98
+15464,Harmony Angelchild,Gili's Delve,-6.73,Djinni's Spectral Shadowlead Of Life,230.00,4076.49,325.62,937592.70,74892.60,-70873.97,941611.33
+15759,"Addon, Lord of Death",Barad Kesa,4.75,Unspeakable Rotsoul Mithril Of Souls,171.00,248.00,401.53,42408.00,68661.63,5553.48,116623.11
+18449,Lance Knightseraph,The Bastion of Barbos,28.34,Ensorceled Sandmetal Of Spirits,285.00,2956.98,95.70,842739.30,27274.50,243603.86,1113617.66
+19943,Shadow Tomblion,Tower Farthing,27.12,Djinni's Mind Fogiron,106.00,2531.12,98.52,268298.72,10443.12,75260.30,354002.14
+20874,Sephiroth Drakecaster,The Forsaken Hive of Galima the Mighty,29.89,Hell Mercury Of The East,185.00,4636.34,378.81,857722.90,70079.85,278340.82,1206143.57
+21210,Emberspawn,Peley Keep,26.33,Phantasmal Tin Of The Swamps,86.00,5964.74,-7.99,512967.64,-687.14,133192.93,645473.43

@@ -1,0 +1,16 @@
+211,"Alik, Goddess of Trickery",Pewold Keep,16.95,Mistgold Of Men,259.00,2787.01,44.00,721835.59,11396.00,124649.37,857880.96
+1346,Burnfreeze The Cold,The Lazy Sage,15.00,Ensorceled Sandmetal Of Spirits,257.00,2956.98,87.00,759943.86,22359.00,117345.43,899648.29
+1758,"Sielach, God of Fate",Archtemple District,27.76,Trolls' Mist Poisonplatinum Of The Twilight,123.00,516.17,394.90,63488.91,48572.70,31377.25,143438.86
+2456,Scarechain The Unspeakable,The Bastion of the Lich Tyrant,43.00,Greenlead,231.00,721.00,134.97,166551.00,31178.07,85023.50,282752.57
+4265,Tarot Dawn,Love Keep,7.00,Djinni's Spectral Shadowlead Of Life,331.00,3369.00,296.02,1115139.00,97982.62,84918.51,1298040.13
+4368,"Gono, Goddess of the Earth",The Barrow of Terrible Horror,-1.10,Ensorceled Gold Of The Dawn,222.00,4293.00,366.29,953046.00,81316.38,-10343.62,1024018.76
+5177,Valentine Lawslayer,Unicorn's Ward,13.31,Mithril Of Legend,247.00,2274.80,63.01,561875.60,15563.47,75067.08,652506.15
+7465,"Lionare, God of the Lost",The Forsaken Hive of Galima the Mighty,24.70,Unknown Fatelightning Steel Of The Glacier,214.00,2017.40,54.28,431723.60,11615.92,110834.88,554174.40
+11167,"Ahah, Goddess of Knowledge",The Dungeon of Merciless Woe,38.62,Heavenly Dreamsilver Of The Night,39.00,2009.68,112.00,78377.52,4368.00,32270.75,115016.27
+11269,Bolttrap,Unicorn's Ward,14.64,Green Dustlightning Mercury,144.00,3517.00,35.20,506448.00,5068.80,76727.52,588244.32
+11692,Bane Veil,Archring Borough,17.93,Angels' Smoke Adamant Of The Mountains,315.00,3115.57,236.50,981404.55,74497.50,190062.37,1245964.42
+14621,Magus Felldrake,Barad Kesa,4.75,Ensorceled Sandmetal Of Spirits,234.00,2956.98,95.70,691933.32,22393.80,35716.36,750043.48
+14854,Burnchill The Evil,The Dark Caverns of Woe,3.29,Legendary Mithril Of The Moon,375.00,2707.10,125.84,1015162.50,47190.00,31870.58,1094223.08
+15327,"Zepul, Lady of Vengeance",Gili's Delve,-6.73,Unspeakable Rotsoul Mithril Of Souls,223.00,248.00,401.53,55304.00,89541.19,-10139.16,134706.03
+16059,Mecharig The Living Device,Fellfen Keep,61.53,Sirens' Rockgold,257.00,-352.01,199.96,-90466.57,51389.72,-24227.65,-63304.50
+16602,Maverick Wind,The Citadel of Cheno,7.33,Mistgold Of Men,198.00,4080.46,53.24,807931.08,10541.52,57293.08,875765.68

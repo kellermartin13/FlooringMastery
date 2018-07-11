@@ -1,0 +1,13 @@
+2175,Seraphim Tsunami,Tower Farthing,22.41,Magicians' Legendary Poison Metal,177.00,2043.26,229.81,361657.02,40676.37,88513.35,490846.74
+5394,Steelterror The Blade,The Pirate's Pipe,17.60,Ghostly Soul Adamant,154.00,3222.96,229.53,496335.84,35347.62,95703.02,627386.48
+5463,Tiger Mistmidnight,The Dungeon of Merciless Woe,38.62,Otherworldly Mirror Orichalcum,199.00,-247.00,478.50,-49153.00,95221.50,17966.72,64035.22
+6935,Jericho Wolf,The Flying Witch,11.45,Negative Rockglitter Mercury Of Trolls,254.00,1483.90,423.07,376910.60,107459.78,53280.74,537651.12
+7417,Cinderember,Tradun Castle,34.24,Phantasmal Tin Of The Swamps,152.00,4074.00,-6.60,619248.00,-1003.20,210203.23,828448.03
+9195,Harmony Angelchild,Minas Gilloy,39.26,White Platinum,130.00,-52.59,145.00,-6836.70,18850.00,4685.19,16698.49
+9372,Maverick Wind,The Tomb of Gothmog of Udun,-3.00,Ghostly Magic Adamant,303.00,4836.38,230.90,1465423.14,69962.70,-46061.58,1489324.26
+14301,Scarefear The Blade,The Lewd King,27.00,Pearl Mirrorice Steel Of Changelings,302.00,298.66,41.88,90195.32,12647.76,27767.63,130610.71
+16926,Fate Seeker,The Cracked Chalice,2.52,Warlocks' Timerot Mithril,69.00,2917.07,112.00,201277.83,7728.00,6270.17,215276.00
+17055,Song Runetomb,Lacot Stronghold,45.22,Unspeakable Rotsoul Mithril Of Souls,276.00,248.00,441.68,68448.00,121903.68,85658.26,276009.94
+20137,Magus Felldrake,Tower Farthing,27.12,Djinni's Mind Fogiron,334.00,2531.12,98.52,845394.08,32905.68,237140.94,1115440.70
+22220,Jericho Wolf,Bifar's Deep,18.70,Yellow Mistearth Copper,188.00,5536.45,-33.15,1040852.60,-6232.20,196577.88,1231198.28
+23196,Metalghoul,The Bastion of Barbos,28.34,Timeiron,251.00,1596.00,276.28,400596.00,69346.28,131583.84,601526.12

@@ -1,0 +1,16 @@
+230,Cult Godseeker,Pewold Keep,16.95,Unknown Fatelightning Steel Of The Glacier,118.00,1834.00,54.28,216412.00,6405.04,37878.90,260695.94
+2059,Chainnail,The Dancing Minstrel,21.20,Poison Adamant,116.00,298.00,406.38,34568.00,47140.08,17158.70,98866.78
+3182,Metalbrood,The Bastion of the Vampire Duke,19.28,Thunderbirds' Transcendent Dreamiron,140.00,2068.41,237.70,289577.40,33278.00,61342.53,384197.93
+5536,"Addon, Lord of Death",The Vaults of the Shadow Emperor,30.00,White Platinum,174.00,-52.59,145.00,-9150.66,25230.00,4823.80,20903.14
+9105,Maverick Wind,The Citadel of Tattena the Sinister,12.13,Phantasmal Smokezephyr Mercury Of Men,334.00,-383.77,75.90,-128179.18,25350.60,-12339.43,-115168.01
+11633,Bonescare,The Bastion of the Lich Tyrant,43.00,Phantasmal Tin Of The Swamps,119.00,4074.00,-6.60,484806.00,-785.40,208128.86,692149.46
+12734,Lord Mystery,Archtemple District,27.76,Timeiron,349.00,1596.00,228.33,557004.00,79687.17,178273.53,814964.70
+14749,Emberfire,The Citadel of Alammius,3.50,Swordbronze,104.00,1485.01,447.01,154441.04,46489.04,8037.20,208967.28
+15557,"Eumyan, Goddess of Law",Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,131.00,4076.49,325.62,534020.19,42656.22,28833.82,605510.23
+16368,Tiger Mistmidnight,Fellfen Keep,61.53,Nymphs' Luminous Rotmercury Of The Skies,220.00,292.60,189.00,64372.00,41580.00,65690.24,171642.24
+16870,Tiger Mistmidnight,Gena's Hold,2.66,Ghostly Magic Adamant,240.00,4836.38,230.90,1160731.20,55416.00,36484.42,1252631.62
+19444,Bedlam Spiritraven,The Pirate's Pipe,17.60,Sirens' Rockgold,130.00,-352.01,199.96,-45761.30,25994.80,-3557.97,-23324.47
+20177,Rouge Roguemist,The Fen of the Necromancer,72.63,Unicorns' Evil Mithril,211.00,4802.49,377.52,1013325.39,79656.72,797876.94,1890859.05
+20794,Burnbrood The Freezer,Lordsgate Farthing,45.25,Fairies' Supreme Mistsmoke Lead Of The Future,204.00,3349.50,324.73,683298.00,66244.92,337294.31,1086837.23
+21015,Freezebrood,The Hunter and Rose,44.44,Angels' Adamant,176.00,1434.40,197.23,252454.40,34712.48,126353.43,413520.31
+22327,Seraphim Tsunami,Cawold Castle,29.15,Toxin Iceplatinum Of The Undead,332.00,-377.06,-59.29,-125183.92,-19684.28,-42011.78,-186879.98

@@ -1,0 +1,11 @@
+1937,Lucky Johnson,NM,2.20,Solid Oak,157.00,5.00,5.00,785.00,785.00,31.40,1601.40
+3263,Cathy "Wildfire" Neal,ID,0.00,Pinecones,150.00,1.50,2.20,225.00,330.00,0.00,555.00
+4262,Susan "Damnation" Fleming,MO,2.20,Cedar Planks,19.00,2.00,5.50,38.00,104.50,2.85,145.35
+4618,April "Thunderbird" Dunn,MS,3.00,Packed Dirt,155.00,1.00,1.50,155.00,232.50,11.62,399.12
+8745,Marie "Raven" Chapman,ND,1.25,Dirt,196.00,0.50,1.00,98.00,196.00,2.94,296.94
+10991,Tammy Carlson "the Killer",NV,0.31,Pinecones,195.00,1.50,2.66,292.50,518.70,0.00,811.20
+12022,Lena Chapman "the Bully",MS,3.00,Pebbles,263.00,0.88,4.84,231.44,1272.92,45.13,1549.49
+15100,Heather "Friendly Gambler" Barrett,KS,0.55,Pinecones,124.00,1.50,2.66,186.00,329.84,5.16,521.00
+16531,Cathy "Wildfire" Neal,NV,0.31,Reeds,77.00,0.83,2.20,63.91,169.40,0.00,233.31
+17822,April "Thunderbird" Dunn,KS,0.55,Packed Dirt,202.00,1.10,2.20,222.20,444.40,6.67,673.27
+20674,Melissa "Lonesome Stalker" Riley,NV,0.31,Dirt,284.00,0.50,1.00,142.00,284.00,0.00,426.00

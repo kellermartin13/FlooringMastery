@@ -1,0 +1,20 @@
+1053,Lena Chapman "the Bully",MT,3.00,Dirt,294.00,0.50,1.00,147.00,294.00,13.23,454.23
+4440,Diana "Mistress" Morgan,AL,1.00,Cedar Planks,125.00,2.00,5.50,250.00,687.50,9.38,946.88
+4471,Jacqueline "Riding Doc" Washington,CA,0.55,Pebbles,259.00,0.80,4.40,207.20,1139.60,13.47,1360.27
+5550,Renee "Hellish Empress" Banks,TX,0.50,Solid Oak,134.00,5.50,5.50,737.00,737.00,0.00,1474.00
+8232,Tina "Lady" Anderson,CA,0.55,Solid Oak,173.00,5.50,5.50,951.50,951.50,19.03,1922.03
+8361,Theresa "Kid" Robinson,MT,3.30,Pinecones,126.00,1.50,2.66,189.00,335.16,15.72,539.88
+9216,Lena Chapman "the Bully",NV,0.31,Pebbles,149.00,0.88,4.84,131.12,721.16,0.00,852.28
+10872,Marie "Raven" Chapman,OK,2.42,Leather,268.00,10.00,18.15,2680.00,4864.20,150.88,7695.08
+11869,Marie "Raven" Chapman,TX,0.67,Reeds,363.00,0.75,2.20,272.25,798.60,10.71,1081.56
+12302,Joanne "Damned" Miles,OK,2.42,Pebbles,144.00,0.88,4.84,126.72,696.96,16.47,840.15
+13914,Renee "Loco Tracker" Jordan,KS,0.55,Cedar Planks,122.00,2.20,6.05,268.40,738.10,10.06,1016.56
+15558,Diana "Mistress" Morgan,MT,3.99,Leather,20.00,11.00,18.15,220.00,363.00,23.32,606.32
+16175,Heather "Friendly Gambler" Barrett,ID,0.00,Packed Dirt,47.00,1.10,2.20,51.70,103.40,0.00,155.10
+18843,Dorothy "the Hunter",MO,2.20,Solid Oak,94.00,5.50,6.66,517.00,626.04,22.86,1165.90
+19363,Beth "Fortunate Shooter" Powell,TX,0.67,Dirt,25.00,0.50,1.00,12.50,25.00,0.38,37.88
+19862,Wilma "Tornado" Brooks,IA,1.33,Leather,26.00,11.00,19.97,286.00,519.22,8.05,813.27
+21299,Ida Russell "the Rustler",OK,2.66,Pinecones,134.00,1.50,2.66,201.00,356.44,16.72,574.16
+21726,Minnie Lawson "the Apostle",MS,3.00,Solid Oak,265.00,5.50,6.66,1457.50,1764.90,96.67,3319.07
+21753,April "Thunderbird" Dunn,CA,0.67,Leather,165.00,11.00,19.97,1815.00,3295.05,51.10,5161.15
+23403,Renee "Hellish Empress" Banks,ID,0.00,Pebbles,202.00,0.88,5.32,177.76,1074.64,0.00,1252.40

@@ -1,0 +1,23 @@
+3698,Jacqueline "Riding Doc" Washington,NM,2.20,Reeds,286.00,0.75,2.00,214.50,572.00,15.73,802.23
+5785,Florence "Leather Doc" Grant,IA,1.21,Beechwood,57.00,3.00,5.00,171.00,285.00,4.56,460.56
+6951,Debra "Scorpion" Lane,ND,1.25,Dirt,339.00,0.50,1.00,169.50,339.00,5.08,513.58
+10373,Mattie Grant "the Gambler",AR,2.20,Packed Dirt,72.00,1.00,1.50,72.00,108.00,3.60,183.60
+11885,Heather "Tornado" Newman,AL,1.00,Solid Oak,106.00,5.50,5.50,583.00,583.00,11.66,1177.66
+12299,Geraldine "Revenge" Warren,UT,0.00,Cedar Planks,170.00,2.20,6.05,374.00,1028.50,0.00,1402.50
+14125,Susan "Damnation" Fleming,IA,1.21,Brick,242.00,5.32,6.66,1287.44,1611.72,28.99,2928.15
+16580,"Sunrise" Miles,OK,2.42,Leather,299.00,11.00,19.97,3289.00,5971.03,185.20,9445.23
+17230,Heather "Tornado" Newman,WY,0.31,Pebbles,237.00,0.88,4.84,208.56,1147.08,0.00,1355.64
+18247,Lena Chapman "the Bully",WY,0.31,Dirt,305.00,0.50,1.00,152.50,305.00,0.00,457.50
+19411,"Sunrise" Miles,ND,1.67,Reeds,216.00,0.83,2.20,179.28,475.20,13.09,667.57
+19875,Beth "Fortunate Shooter" Powell,IA,1.33,Solid Oak,58.00,5.50,6.66,319.00,386.28,7.05,712.33
+20094,Jacqueline "Riding Doc" Washington,KS,0.55,Pinecones,298.00,1.50,2.66,447.00,792.68,12.40,1252.08
+20226,Elizabeth "the Bully",MT,4.39,Beechwood,273.00,3.63,6.05,990.99,1651.65,105.71,2748.35
+20500,Allison "Steel Gravedigger" Douglas,KS,0.55,Beechwood,242.00,3.63,6.05,878.46,1464.10,23.43,2365.99
+20617,Betty "Happy Thinker" Watson,OK,2.66,Pebbles,177.00,0.88,4.84,155.76,856.68,30.37,1042.81
+21087,"Doom" McCoy,UT,0.00,Cedar Planks,139.00,2.20,6.66,305.80,925.74,0.00,1231.54
+22043,Gladys "Locoweed" Keller,WY,0.31,Cedar Planks,270.00,2.20,6.66,594.00,1798.20,0.00,2392.20
+22340,Vengeful Montgomery,OK,2.93,Pebbles,236.00,0.88,4.84,207.68,1142.24,40.50,1390.42
+22650,Mattie Grant "the Gambler",MT,5.84,Beechwood,177.00,3.63,6.05,642.51,1070.85,102.80,1816.16
+23010,Tina "Lady" Anderson,NV,0.31,Pinecones,358.00,1.50,2.93,537.00,1048.94,0.00,1585.94
+23141,Gladys "Locoweed" Keller,MS,3.00,Packed Dirt,234.00,1.10,2.42,257.40,566.28,24.71,848.39
+23509,"Scalphunter" Kennedy,AL,1.00,Cedar Planks,210.00,2.20,6.66,462.00,1398.60,18.61,1879.21

@@ -1,0 +1,18 @@
+195,Black Beck,KS,0.50,Packed Dirt,312.00,1.00,1.50,312.00,468.00,0.00,780.00
+4765,Tammy Carlson "the Killer",AL,1.00,Pinecones,117.00,1.50,2.42,175.50,283.14,4.59,463.23
+5475,Melissa "Lonesome Stalker" Riley,MS,3.00,Dirt,300.00,0.50,1.00,150.00,300.00,13.50,463.50
+6224,Amanda Hart "the Loner",AR,2.20,Dirt,276.00,0.50,1.00,138.00,276.00,8.28,422.28
+6953,Debra "Scorpion" Lane,CA,0.55,Dirt,127.00,0.50,1.00,63.50,127.00,1.90,192.40
+7173,Heather "Tornado" Newman,NM,2.20,Packed Dirt,19.00,1.00,1.50,19.00,28.50,0.95,48.45
+7838,Wilma "Tornado" Brooks,NM,2.20,Packed Dirt,331.00,1.00,1.50,331.00,496.50,16.55,844.05
+8264,Ida Russell "the Rustler",IA,1.21,Pinecones,176.00,1.50,2.66,264.00,468.16,7.32,739.48
+8591,Amanda Hart "the Loner",AR,2.20,Solid Oak,233.00,5.50,5.50,1281.50,1281.50,51.26,2614.26
+13257,Evelyn "Evil Joker" Taylor,OK,2.42,Brick,163.00,5.32,6.66,867.16,1085.58,39.05,1991.79
+15193,Theresa "Scalphunter" Romero,KS,0.55,Cedar Planks,225.00,2.20,6.05,495.00,1361.25,18.56,1874.81
+17248,Tina "Lady" Anderson,MT,3.99,Cedar Planks,271.00,2.20,6.66,596.20,1804.86,96.04,2497.10
+18594,Helen Webb "the Dancer",WY,0.31,Cedar Planks,166.00,2.20,6.66,365.20,1105.56,0.00,1470.76
+18727,Kathy Murphy "the Thinker",MS,3.00,Solid Oak,66.00,5.50,6.66,363.00,439.56,24.08,826.64
+19911,Vengeful Robertson,MO,2.20,Cedar Planks,334.00,2.20,6.66,734.80,2224.44,59.18,3018.42
+21039,"Sunrise" Miles,AL,1.00,Dirt,314.00,0.50,1.00,157.00,314.00,4.71,475.71
+21401,Deborah "the Lady",TX,0.67,Pinecones,194.00,1.50,2.66,291.00,516.04,8.07,815.11
+23053,Lorraine "Utah" Adams,MS,3.00,Dirt,53.00,0.55,1.00,29.15,53.00,2.46,84.61

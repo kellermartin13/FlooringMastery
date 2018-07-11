@@ -1,0 +1,12 @@
+2107,Evilember The Firey,Tower Farthing,22.41,Violetdream Iron,371.00,1224.69,349.36,454359.99,129612.56,128473.96,712446.51
+2465,Blazeflare The Cremator,The Grey Plains,18.15,Toxin Iceplatinum Of The Undead,165.00,-283.29,-49.00,-46742.85,-8085.00,-9869.01,-64696.86
+2475,"Ariel, God of Luck",The Bastion of the Lich Tyrant,43.00,Phantasmal Smokezephyr Mercury Of Men,333.00,-317.16,69.00,-105614.28,22977.00,-35534.03,-118171.31
+2665,Shadow Gust,The Nulukkhath Spires,9.63,Fog Lavaplatinum Of Life,298.00,1078.00,17.00,321244.00,5066.00,32631.00,358941.00
+3474,Graveterror,The Temple of Merciless Necromancy,50.94,Heavenly Dreamsilver Of The Night,178.00,1826.98,112.00,325202.44,19936.00,176020.60,521159.04
+3728,"Sielach, God of Fate",Grori's Deep,45.41,Yellow Mistearth Copper,114.00,4575.58,-27.40,521616.12,-3123.60,233321.63,751814.15
+5036,Seraphim Tsunami,The Scoundrel and Flask,-4.58,Venom Timegold Of Dwarves,112.00,3036.00,269.00,340032.00,30128.00,-18508.00,351652.00
+5193,Burnfreeze The Cold,Barad Cune,26.00,Hell Mercury Of The East,257.00,4636.34,284.60,1191539.38,73142.20,328817.21,1593498.79
+12989,Chainblade The Cadaverous,The Grey Plains,19.97,Tin Of The Tundra,377.00,3123.86,174.91,1177695.22,65941.07,248727.26,1492363.55
+18982,Dagger Reaper,Bifar's Deep,18.70,Fog Lavaplatinum Of Life,309.00,1078.00,18.70,333102.00,5778.30,64387.26,403267.56
+20067,Ironbrood,Boiaburh Keep,17.60,Primordial False Gold,264.00,5395.80,248.60,1424491.20,65630.40,268221.89,1758343.49
+23031,Clash Lonedrake,Barad Kesa,5.23,Mithril Of The Tropics,164.00,4992.58,11.98,818783.12,1964.72,41037.39,861785.23

@@ -1,0 +1,20 @@
+2502,"Addon, Lord of Death",The Cracked Chalice,2.29,Greenlead,380.00,721.00,134.97,273980.00,51288.60,6505.37,331773.97
+2700,Rune Rougehate,The Grey Plains,18.15,Ghostly Soul Adamant,168.00,2929.96,189.69,492233.28,31867.92,94338.22,618439.42
+2956,Deathbrood,Kada's Deep,30.00,Shadowhell Mithril,242.00,363.00,260.37,87846.00,63009.54,45256.66,196112.20
+4210,Beamtrap,The Archer and Scroll,39.60,Grayplatinum,210.00,2278.43,279.06,478470.30,58602.60,214829.16,751902.06
+5201,Blazeflare The Cremator,The Tower of Aramum,39.00,Ensorceled Sandmetal Of Spirits,263.00,2956.98,87.00,777685.74,22881.00,312221.03,1112787.77
+5578,Chainhorror,Gena's Hold,2.20,Forgotten Mithril,250.00,913.00,316.00,228250.00,79000.00,6145.00,313395.00
+6370,Burnfreeze The Cold,The Cuitamba Jungle,28.00,Primordial Plague Mercury Of Legend,170.00,373.79,273.90,63544.30,46563.00,30830.04,140937.34
+7583,"Alik, Goddess of Trickery",The Desert of Flames,47.19,Shadowy Adamant,191.00,618.93,478.58,118215.63,91408.78,98523.47,308147.88
+9044,"Azah, Goddess of Fate",Weke Tower,-0.05,Negative Rockglitter Mercury Of Trolls,242.00,1483.90,465.38,359103.80,112621.96,0.00,471725.76
+11257,Flora Amberslayer,Dysley Stronghold,45.98,Green Dustlightning Mercury,208.00,3517.00,35.20,731536.00,7321.60,339874.50,1078732.10
+11477,"Alik, Goddess of Trickery",The Archer and Scroll,39.60,Phantasmal Tin Of The Swamps,157.00,4074.00,-6.60,639618.00,-1036.20,255432.72,894014.52
+13279,Ironbrood,Castle Village,41.26,Meteoric Dustzephyr Orichalcum,201.00,375.00,268.49,75375.00,53966.49,53030.01,182371.50
+13808,Blazefreeze The Chiller,Lacot Stronghold,37.37,Ghostly Soul Adamant,125.00,3222.96,229.53,402870.00,28691.25,159677.66,591238.91
+14828,Beamsprocket The Grasping,The Shadow Downs,13.21,Mithril Of The Tropics,168.00,4126.10,11.98,693184.80,2012.64,90375.67,785573.11
+15534,Sunrise Godwarlock,The Desert of Flames,51.91,Unknown Fatelightning Steel Of The Glacier,194.00,2441.05,65.68,473563.70,12741.92,252878.92,739184.54
+15674,Burnfreeze The Cold,Noble's Village,30.25,Unspeakable Rotsoul Mithril Of Souls,101.00,248.00,401.53,25048.00,40554.53,19680.76,85283.29
+16166,Claw Mist,The Vaults of the Shadow Emperor,33.00,Angels' Smoke Adamant Of The Mountains,243.00,3427.13,236.50,832792.59,57469.50,293786.49,1184048.58
+18292,Wind Dire,Dysley Stronghold,45.98,Litches' Fatal Mithril Of The Past,216.00,1460.78,405.96,315528.48,87687.36,185479.29,588695.13
+20031,Gale Jackalguard,The Fen of the Necromancer,72.63,Timeiron,91.00,1596.00,251.16,145236.00,22855.56,122706.84,290798.40
+22181,Chillfire The Chiller,Barad Cune,28.60,Forgotten Mithril,200.00,1215.20,347.60,243040.00,69520.00,90642.40,403202.40

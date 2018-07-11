@@ -1,0 +1,26 @@
+1198,Tina "Lady" Anderson,MS,3.00,Beechwood,172.00,3.00,5.00,516.00,860.00,41.28,1417.28
+2564,Joanne "Damned" Miles,CA,0.50,Brick,104.00,4.00,5.50,416.00,572.00,0.00,988.00
+3621,Michele Watson "the Loner",MS,3.00,Reeds,229.00,0.75,2.00,171.75,458.00,18.89,648.64
+4003,Darlene "Loner" Ford,OK,2.00,Reeds,239.00,0.75,2.00,179.25,478.00,13.14,670.39
+4847,Theresa "Kid" Robinson,ND,1.25,Solid Oak,68.00,5.50,5.50,374.00,374.00,7.48,755.48
+6352,"Sunrise" Miles,AR,2.20,Pinecones,197.00,1.50,2.66,295.50,524.02,16.39,835.91
+7819,Cynthia "the Vixen",AL,1.00,Packed Dirt,165.00,1.00,1.50,165.00,247.50,4.12,416.62
+10246,Helen Webb "the Dancer",NM,2.20,Pebbles,95.00,0.88,4.84,83.60,459.80,10.87,554.27
+10549,"Sunrise" Miles,WY,0.31,Solid Oak,159.00,5.50,5.50,874.50,874.50,0.00,1749.00
+10932,Ida Russell "the Rustler",MS,3.00,Brick,109.00,4.84,6.66,527.56,725.94,37.60,1291.10
+10980,Susan "Damnation" Fleming,TX,0.67,Solid Oak,218.00,5.50,5.50,1199.00,1199.00,23.98,2421.98
+12034,Vicki "Mesa" Rhodes,AL,1.00,Leather,189.00,10.00,18.15,1890.00,3430.35,53.20,5373.55
+12117,Renee "Loco Tracker" Jordan,UT,0.00,Packed Dirt,308.00,1.00,1.65,308.00,508.20,0.00,816.20
+12813,Lena Chapman "the Bully",WY,0.31,Leather,298.00,11.00,18.15,3278.00,5408.70,0.00,8686.70
+13896,Heather "Friendly Gambler" Barrett,MT,3.99,Pebbles,221.00,0.88,4.84,194.48,1069.64,50.56,1314.68
+14325,Renee "Loco Tracker" Jordan,IA,1.21,Beechwood,85.00,3.63,5.50,308.55,467.50,7.76,783.81
+14344,Renee "Hellish Empress" Banks,ND,1.38,Beechwood,238.00,3.63,5.50,863.94,1309.00,21.73,2194.67
+16123,Julia "Bandit" Chandler,WY,0.31,Brick,267.00,5.32,6.66,1420.44,1778.22,0.00,3198.66
+16210,Susan "Damnation" Fleming,TX,0.67,Reeds,192.00,0.83,2.20,159.36,422.40,5.82,587.58
+16958,Black Beck,TX,0.67,Packed Dirt,235.00,1.10,2.20,258.50,517.00,7.76,783.26
+17683,Theresa "Scalphunter" Romero,WY,0.31,Pinecones,288.00,1.50,2.66,432.00,766.08,0.00,1198.08
+17712,"Scalphunter" Kennedy,MO,2.20,Pebbles,285.00,0.88,4.84,250.80,1379.40,32.60,1662.80
+17860,Evelyn "Evil Joker" Taylor,MO,2.20,Solid Oak,168.00,5.50,6.66,924.00,1118.88,40.86,2083.74
+20692,Dorothy "the Hunter",MS,3.00,Cedar Planks,234.00,2.20,6.66,514.80,1558.44,62.20,2135.44
+20720,Minnie Lawson "the Apostle",KS,0.55,Cedar Planks,94.00,2.20,6.66,206.80,626.04,8.33,841.17
+21129,"Sunrise" Miles,ID,0.00,Brick,115.00,5.32,6.66,611.80,765.90,0.00,1377.70

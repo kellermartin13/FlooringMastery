@@ -1,0 +1,20 @@
+1433,Victoria "the Dancer",IA,1.00,Solid Oak,218.00,5.00,5.00,1090.00,1090.00,21.80,2201.80
+2761,Renee "Loco Tracker" Jordan,KS,0.50,Solid Oak,74.00,5.50,5.00,407.00,370.00,0.00,777.00
+6510,Cathy "Loner Demon" Murray,ND,1.25,Pebbles,115.00,0.80,4.84,92.00,556.60,6.49,655.09
+6898,Amanda Hart "the Loner",WY,0.31,Pebbles,183.00,0.80,4.84,146.40,885.72,0.00,1032.12
+7679,"Sunrise" Miles,IA,1.21,Pinecones,163.00,1.50,2.66,244.50,433.58,6.78,684.86
+8426,Beth "Fortunate Shooter" Powell,KS,0.50,Pinecones,289.00,1.50,2.66,433.50,768.74,0.00,1202.24
+8862,Lena Chapman "the Bully",AR,2.20,Dirt,175.00,0.50,1.00,87.50,175.00,5.25,267.75
+8993,Florence "Leather Doc" Grant,MT,3.30,Pebbles,154.00,0.88,4.84,135.52,745.36,26.43,907.31
+9656,Black Beck,CA,0.55,Packed Dirt,143.00,1.00,1.50,143.00,214.50,3.58,361.08
+9914,Theresa "Kid" Robinson,ID,0.00,Dirt,116.00,0.50,1.00,58.00,116.00,0.00,174.00
+10150,Vengeful Montgomery,MS,3.00,Packed Dirt,133.00,1.00,1.50,133.00,199.50,9.98,342.48
+10351,Gladys "Locoweed" Keller,MO,2.20,Packed Dirt,360.00,1.00,1.50,360.00,540.00,18.00,918.00
+10367,Deborah "the Lady",ID,0.00,Pinecones,25.00,1.50,2.66,37.50,66.50,0.00,104.00
+11355,"Doom" McCoy,MT,3.63,Reeds,152.00,0.75,2.20,114.00,334.40,17.94,466.34
+12932,Beth "Fortunate Shooter" Powell,KS,0.55,Cedar Planks,87.00,2.20,6.05,191.40,526.35,7.18,724.93
+14817,Beth "Fortunate Shooter" Powell,NM,2.42,Pinecones,131.00,1.50,2.66,196.50,348.46,10.90,555.86
+15224,Gladys "Locoweed" Keller,MO,2.20,Leather,305.00,11.00,18.15,3355.00,5535.75,177.82,9068.57
+15721,Lena Chapman "the Bully",KS,0.55,Dirt,171.00,0.50,1.00,85.50,171.00,2.56,259.06
+18815,Deborah "the Lady",TX,0.67,Packed Dirt,104.00,1.10,2.20,114.40,228.80,3.43,346.63
+19868,"Sunrise" Miles,UT,0.00,Reeds,367.00,0.83,2.20,304.61,807.40,0.00,1112.01

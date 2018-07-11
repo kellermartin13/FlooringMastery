@@ -1,0 +1,20 @@
+730,Burnbrood The Freezer,The Shadow Downs,13.21,Primordial Mud Orichalcum,126.00,-387.90,77.37,-48875.40,9748.62,-5086.48,-44213.26
+2455,Cinderflame,The Bastion of Barbos,21.29,Phantasmal Smokezephyr Mercury Of Men,56.00,-317.16,69.00,-17760.96,3864.00,-2918.36,-16815.32
+3281,Gravebone,The Lewd King,27.00,Forgotten Mithril,289.00,913.00,316.00,263857.00,91324.00,95898.87,451079.87
+3490,Flora Amberslayer,The Bastion of the Lich Tyrant,43.00,Planar Mudtin Of Trolls,213.00,2304.41,335.36,490839.33,71431.68,241776.53,804047.54
+7073,Magus Felldrake,Dysley Stronghold,45.98,Meteoric Dustzephyr Orichalcum,221.00,375.00,244.08,82875.00,53941.68,62935.67,199752.35
+7166,Chainhorror,The Flying Witch,11.45,Meteoric Dustzephyr Orichalcum,290.00,375.00,244.08,108750.00,70783.20,19748.65,199281.85
+10346,Storm Squallmourner,The Tomb of Hellish Ruin,16.94,Meteoric Dustzephyr Orichalcum,308.00,375.00,244.08,115500.00,75176.64,32415.03,223091.67
+10581,Rouge Roguemist,The Shadow Downs,13.21,Hell Mercury Of The East,145.00,4636.34,313.06,672269.30,45393.70,93296.19,810959.19
+12004,"Nelalwe, Lady of Fire",Shainan's Hold,23.96,Toxic Mistlead Of The Past,232.00,1557.54,136.06,361349.28,31565.92,94299.65,487214.85
+12444,Terrorghoul The Unspeakable,Archscepter Borough,3.00,Sirens' Rockgold,181.00,-352.01,199.96,-63713.81,36192.76,-825.63,-28346.68
+12757,"Uriel, God of Fate",The Desert of Flames,51.91,Phantasmal Lead,353.00,-552.97,245.47,-195198.41,86650.91,-56444.70,-164992.20
+14559,Bane Veil,The Citadel of Alammius,3.50,Unknown Fatelightning Steel Of The Glacier,187.00,2441.05,65.68,456476.35,12282.16,18750.34,487508.85
+17611,Evilcoil The Machine,The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,167.00,398.09,374.00,66481.03,62458.00,3868.17,132807.20
+18082,"Iran, Lord of Nightmares",The Fortress of the Lich Queen,36.35,Phantasmal Plague Adamant,147.00,-204.63,-7.18,-30080.61,-1055.46,-11208.99,-42345.06
+18177,Rouge Tombreaper,Grori's Deep,66.50,Poison Adamant,285.00,1266.52,64.44,360958.20,18365.40,250353.58,629677.18
+18510,Evilember The Firey,Mahyrst Keep,30.42,Ensorceled Sandmetal Of Spirits,171.00,2956.98,95.70,505643.58,16364.70,156602.48,678610.76
+19147,"Azah, Goddess of Fate",The Pilgrim's Cup,46.12,Mana-touched Greenglitter Gold Of Giants,179.00,1291.38,514.25,231157.02,92050.75,148675.57,471883.34
+21210,"Alas, Lord of Plague",Eved Castle,5.09,Sphinxes' Opalpearl Platinum Of Legend,227.00,5805.82,429.89,1317921.14,97585.03,70775.31,1486281.48
+21913,Rune Rougehate,Lamp Borough,4.95,Phantasmal Lead,197.00,-669.10,270.02,-131812.70,53193.94,-3930.94,-82549.70
+22423,Wheelspawn,The Beggar and Cask,25.41,Toxin Iceplatinum Of The Undead,211.00,-377.06,-59.29,-79559.66,-12510.19,-23017.46,-115087.31

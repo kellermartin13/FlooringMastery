@@ -1,0 +1,19 @@
+1498,Lord Mystery,The Broken Arrow,30.07,Greenlead,223.00,721.00,134.97,160783.00,30098.31,57264.39,248145.70
+2624,Seraph Jester,Boiaburh Keep,16.00,Primal Adamant,100.00,4562.80,249.00,456280.00,24900.00,76988.80,558168.80
+4485,Chainblade The Cadaverous,Boiaburh Keep,16.00,Sphinxes' Mistsoul Bronze Of The Past,126.00,1793.23,183.70,225946.98,23146.20,39854.91,288948.09
+4590,Flameflare The Evil,Fellfen Keep,42.03,Foul Ice Bronze Of Life,343.00,-92.21,129.80,-31628.03,44521.40,5415.22,18308.59
+6079,Beamtrap,The Broken Arrow,30.07,Primordial Plague Mercury Of Legend,124.00,373.79,273.90,46349.96,33963.60,24094.07,104407.63
+8618,Chainblade The Cadaverous,The Bastion of the Lich Tyrant,43.00,Negative Rockglitter Mercury Of Trolls,167.00,1483.90,423.07,247811.30,70652.69,136939.52,455403.51
+14389,Emberfire,Gili's Delve,-6.73,Shadow Steel,142.00,5660.12,511.83,803737.04,72679.86,-61349.18,815067.72
+15025,Evilcoil The Machine,The Tower of Aces the Accursed,13.31,Lunar Bronze,154.00,753.86,337.70,116094.44,52005.80,21853.03,189953.27
+15219,Evilember The Firey,The Tower of Aces the Accursed,13.31,Lunar Bronze,313.00,753.86,337.70,235958.18,105700.10,44415.58,386073.86
+15586,Harmony Angelchild,Lamp Borough,4.95,Shadowy Adamant,327.00,618.93,526.44,202390.11,172145.88,18726.80,393262.79
+15739,"Maeglodor, God of Thieves",Gifeld Castle,6.22,Unspeakable Rotsoul Mithril Of Souls,319.00,248.00,401.53,79112.00,128088.07,12432.00,219632.07
+15740,Shadow Gust,The Fortress of Asmamur,-4.93,Primordial False Gold,299.00,5395.80,248.60,1613344.20,74331.40,-84383.78,1603291.82
+15986,"Lenwenye, Goddess of Travel",The Citadel of Cheno,7.33,Timeiron,181.00,1596.00,251.16,288876.00,45459.96,23403.52,357739.48
+16133,Wind Dire,Haukri's Hold,27.83,Thunderbirds' Transcendent Dreamiron,272.00,2275.25,237.70,618868.00,64654.40,191386.27,874908.67
+16407,Law Lionwatcher,Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,299.00,370.41,32.01,110752.59,9570.99,31284.13,151607.71
+17096,Snowflame The Evil,The Temple of Merciless Necromancy,50.94,Shadowy Adamant,172.00,618.93,526.44,106455.96,90547.68,100471.86,297475.50
+17281,Springpulley The Binder,Shainan's Hold,23.96,Thunderbirds' Transcendent Dreamiron,192.00,2275.25,237.70,436848.00,45638.40,115796.74,598283.14
+21253,Evilfear The Horrorific,The Cuitamba Jungle,33.88,Sphinxes' Opalpearl Platinum Of Legend,239.00,5805.82,429.89,1387590.98,102743.71,506713.79,1997048.48
+22289,"Uriel, God of Fate",Hartshill Ward,50.80,Mana-touched Greenglitter Gold Of Giants,204.00,1420.52,514.25,289786.08,104907.00,201293.47,595986.55

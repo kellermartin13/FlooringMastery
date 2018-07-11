@@ -1,0 +1,16 @@
+1580,Minnie Lawson "the Apostle",UT,0.00,Packed Dirt,102.00,1.00,1.50,102.00,153.00,0.00,255.00
+2665,Minnie Lawson "the Apostle",IA,1.00,Solid Oak,193.00,5.50,5.00,1061.50,965.00,20.26,2046.76
+2668,"Sunrise" Miles,AR,2.20,Solid Oak,312.00,5.50,5.00,1716.00,1560.00,65.52,3341.52
+2715,Heather "Friendly Gambler" Barrett,NV,0.25,Cedar Planks,137.00,2.00,5.50,274.00,753.50,0.00,1027.50
+3202,Helen Webb "the Dancer",OK,2.00,Brick,215.00,4.00,5.50,860.00,1182.50,40.85,2083.35
+5480,"Bane" Jennings,NV,0.25,Dirt,241.00,0.50,1.00,120.50,241.00,0.00,361.50
+5696,Helen Webb "the Dancer",MS,3.00,Beechwood,188.00,3.00,5.00,564.00,940.00,45.12,1549.12
+7088,Vanessa "Scalper" Rhodes,NV,0.28,Solid Oak,199.00,5.50,5.50,1094.50,1094.50,0.00,2189.00
+9372,"Bane" Jennings,KS,0.50,Brick,171.00,4.84,6.66,827.64,1138.86,0.00,1966.50
+10277,Heather "Friendly Gambler" Barrett,IA,1.21,Packed Dirt,181.00,1.00,1.50,181.00,271.50,4.52,457.02
+10521,Lorraine "Utah" Adams,TX,0.67,Brick,242.00,4.84,6.66,1171.28,1611.72,27.83,2810.83
+11094,Theresa "Scalphunter" Romero,TX,0.67,Solid Oak,264.00,5.50,5.50,1452.00,1452.00,29.04,2933.04
+12220,Friendly Howell,TX,0.67,Pinecones,147.00,1.50,2.66,220.50,391.02,6.12,617.64
+17424,"Bane" Jennings,IA,1.21,Reeds,134.00,0.83,2.20,111.22,294.80,4.06,410.08
+17922,Julia "Bandit" Chandler,IA,1.21,Pinecones,164.00,1.50,2.66,246.00,436.24,6.82,689.06
+18443,Deborah "the Lady",WY,0.31,Brick,185.00,5.32,6.66,984.20,1232.10,0.00,2216.30

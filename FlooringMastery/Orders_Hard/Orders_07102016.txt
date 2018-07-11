@@ -1,0 +1,18 @@
+659,Spikecrank,The Temple of Merciless Necromancy,42.10,Nymphs' Luminous Rotmercury Of The Skies,35.00,266.00,189.00,9310.00,6615.00,6688.50,22613.50
+667,Song Runetomb,The Tower of Sheshbazzu,3.00,Succubi's Evil Mindzephyr Adamant Of The Desert,101.00,1990.16,250.07,201006.16,25257.07,6787.90,233051.13
+724,Shiverflame The Freezer,The Shadow Downs,13.21,Rainbowglitter Tin,178.00,4475.87,176.36,796704.86,31392.08,107652.60,935749.54
+2103,Cinderember,Barad Cune,26.00,Angels' Adamant,66.00,1304.00,179.30,86064.00,11833.80,25453.43,123351.23
+2778,Rune Rougehate,The Citadel of Lord Greywulf,30.04,Phantasmal Smokezephyr Mercury Of Men,175.00,-317.16,69.00,-55503.00,12075.00,-13028.40,-56456.40
+3819,Seraphim Tsunami,Barad Kesa,4.32,Foulopal Copper Of The Skies,271.00,1221.16,403.00,330934.36,109213.00,17605.89,457753.25
+4411,Rune Rougehate,Citadel Ward,28.40,Djinni's Spectral Shadowlead Of Life,197.00,3369.00,296.02,663693.00,58315.94,202162.50,924171.44
+4696,Icechill The Frigid,The Archer and Scroll,39.60,Thunderbirds' Transcendent Dreamiron,215.00,2275.25,237.70,489178.75,51105.50,216113.70,756397.95
+5512,Spikecrank,The Vaults of the Shadow Emperor,30.00,Ensorceled Sandmetal Of Spirits,142.00,2956.98,87.00,419891.16,12354.00,129673.55,561918.71
+6301,Cult Godseeker,The Secret Shrine of the Gargoyle Count,-2.00,Warlocks' Timerot Mithril,199.00,2917.07,112.00,580496.93,22288.00,-12055.70,590729.23
+9728,Rouge Roguemist,Lamp Borough,4.95,Spectres' Shadowy Terrorglow Adamant Of Life,194.00,4694.80,205.50,910791.20,39867.00,47532.91,998191.11
+16807,Spikebrood The Disinterred,The Citadel of Cheno,7.33,Shadowhell Mithril,208.00,483.15,315.05,100495.20,65530.40,11621.79,177647.39
+17446,"Gadriel, God of Resurrection",Reyny Keep,11.00,Grayplatinum,226.00,2506.27,306.97,566417.02,69375.22,69937.15,705729.39
+17802,Blazefreeze The Chiller,North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,172.00,2169.81,222.28,373207.32,38232.16,226291.71,637731.19
+17876,Bronzespawn,Boiaburh Keep,17.60,Trolls' Mist Poisonplatinum Of The Twilight,361.00,567.79,434.39,204972.19,156814.79,65121.66,426908.64
+18619,Shadow Gust,The Forsaken Sepulcher of Sorrows,53.67,Goddesses' Spectral Poison Steel,353.00,5023.18,296.81,1773182.54,104773.93,1014096.49,2892052.96
+20109,Bronzespike,The Bloody Wand,15.97,Planar Rainfate Mithril,167.00,1185.84,320.52,198035.28,53526.84,40249.94,291812.06
+21437,"Finarfin, God of Protection",The Lazy Sage,19.97,God-touched Faterainbow Orichalcum Of Spectres,222.00,370.41,35.21,82231.02,7816.62,18009.53,108057.17

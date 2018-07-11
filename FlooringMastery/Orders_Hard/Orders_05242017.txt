@@ -1,0 +1,19 @@
+259,Burnchill The Evil,Gena's Hold,2.00,Shadowhell Mithril,124.00,363.00,215.18,45012.00,26682.32,1433.89,73128.21
+390,Bronzespike,The Fen of the Necromancer,41.00,Succubi's Evil Mindzephyr Adamant Of The Desert,265.00,1990.16,250.07,527392.40,66268.55,243400.99,837061.94
+2223,Snaretool The Constructed,The Dancing Minstrel,21.20,Planar Mudtin Of Trolls,153.00,2094.92,335.36,320522.76,51310.08,78084.90,449917.74
+2607,Fate Seeker,Gili's Delve,-4.59,Rocklava Mithril Of Revenants,195.00,1818.30,13.03,354568.50,2540.85,-17855.47,339253.88
+3874,Flora Amberslayer,The Secret Shrine of the Gargoyle Count,-2.00,Glittering Orichalcum,282.00,-131.00,360.23,-36942.00,101584.86,-1292.86,63350.00
+4735,"Lenwenye, Goddess of Travel",The Tower of Sabiesu the Awesome,4.40,Trolls' Rubymercury Of The Sunset,105.00,506.00,198.00,53130.00,20790.00,2956.80,76876.80
+6002,Cinderflame,The Archer and Blade,9.00,Pearl Mirrorice Steel Of Changelings,155.00,271.51,38.07,42084.05,5900.85,4318.64,52303.54
+6882,Fate Seeker,Barad Kesa,4.32,Meteoric Dustzephyr Orichalcum,330.00,375.00,244.08,123750.00,80546.40,8171.86,212468.26
+7688,"Zepul, Lady of Vengeance",The Tower of Aces the Accursed,13.31,Planar Obsidian Mercury Of Wizards,89.00,2574.00,141.57,229086.00,12599.73,31419.14,273104.87
+9340,Flameflare The Evil,Tower Farthing,27.12,Emerald Orichalcum,195.00,-368.87,128.90,-71929.65,25135.50,-12634.42,-59428.57
+10041,Bonescare,The Chuallanto Jungle,37.00,Shadowy Adamant,144.00,618.93,478.58,89125.92,68915.52,58475.33,216516.77
+11603,Rouge Roguemist,The Bastion of the Lich Tyrant,43.00,Icy Shock Silver,221.00,1482.98,407.00,327738.58,89947.00,179604.80,597290.38
+11789,"Lionare, God of the Lost",Unicorn's Ward,14.64,Timeiron,198.00,1596.00,228.33,316008.00,45209.34,54182.60,415399.94
+18521,Bronzespike,The Lewd King,32.67,Hidden Shadowice Lead,49.00,2729.00,-62.23,133721.00,-3049.27,43121.67,173793.40
+18728,Evilember The Firey,South Brightcrown Borough,42.25,Hidden Shadowice Lead,195.00,2729.00,-62.23,532155.00,-12134.85,218408.46,738428.61
+20659,"Ariel, God of Luck",Tradun Castle,41.43,Phantasmal Lead,308.00,-608.27,270.02,-187347.16,83166.16,-42714.21,-146895.21
+22067,Rouge Tombreaper,The Wizard's House,43.58,Meteoric Mirrormuck Orichalcum Of The Forests,164.00,2374.02,185.77,389339.28,30466.28,184714.45,604520.01
+22808,"Baltha, Goddess of Knowledge",The Lost Crypts of Sorrows,35.87,Djinni's Mind Fogiron,148.00,2531.12,119.21,374605.76,17643.08,141209.58,533458.42
+22816,"Maglioneth, Lord of the Sun",The Cuitamba Jungle,33.88,Legendary Mithril Of The Moon,224.00,3603.15,152.26,807105.60,34106.24,286012.03,1127223.87

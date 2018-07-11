@@ -1,0 +1,14 @@
+2171,Amanda Hart "the Loner",NM,2.20,Beechwood,6.00,3.00,5.00,18.00,30.00,0.96,48.96
+8429,Surgeon Grant,CA,0.55,Beechwood,202.00,3.00,5.50,606.00,1111.00,17.17,1734.17
+8614,Gloria "Devil" McCoy,TX,0.50,Dirt,377.00,0.50,1.00,188.50,377.00,0.00,565.50
+10992,Heather "Friendly Gambler" Barrett,TX,0.67,Leather,88.00,10.00,18.15,880.00,1597.20,24.77,2501.97
+11835,Maureen "Cursed" Andrews,CA,0.61,Leather,183.00,10.00,18.15,1830.00,3321.45,51.51,5202.96
+12027,Mattie Grant "the Gambler",AL,1.00,Pinecones,181.00,1.50,2.66,271.50,481.46,7.53,760.49
+12331,Vanessa "Scalper" Rhodes,WY,0.31,Reeds,237.00,0.75,2.20,177.75,521.40,0.00,699.15
+14914,Evelyn "Evil Joker" Taylor,ID,0.00,Reeds,250.00,0.75,2.20,187.50,550.00,0.00,737.50
+16564,Deborah "the Lady",WY,0.31,Packed Dirt,292.00,1.10,2.20,321.20,642.40,0.00,963.60
+16853,Diana "Mistress" Morgan,IA,1.21,Pinecones,365.00,1.50,2.66,547.50,970.90,15.18,1533.58
+18863,Tammy Carlson "the Killer",NV,0.31,Reeds,176.00,0.83,2.20,146.08,387.20,0.00,533.28
+19265,"Sunrise" Miles,WY,0.31,Brick,377.00,5.32,6.66,2005.64,2510.82,0.00,4516.46
+19681,Betty "Happy Thinker" Watson,ID,0.00,Pinecones,138.00,1.50,2.66,207.00,367.08,0.00,574.08
+21829,Vengeful Robertson,IA,1.33,Leather,103.00,11.00,19.97,1133.00,2056.91,31.90,3221.81

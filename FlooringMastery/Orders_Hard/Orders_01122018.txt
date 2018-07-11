@@ -1,0 +1,17 @@
+666,"Gono, Goddess of the Earth",The Dread Hive of Illfang the Kobold Lord,1.00,Litches' Fatal Mithril Of The Past,198.00,1207.25,305.00,239035.50,60390.00,2994.26,302419.76
+1047,Lord Mystery,Boiaburh Keep,16.00,Sapphire Mindlead,332.00,1307.71,47.00,434159.72,15604.00,71962.20,521725.92
+1444,Evilember The Firey,The Pilgrim's Cup,41.93,Trolls' Mist Poisonplatinum Of The Twilight,122.00,516.17,394.90,62972.74,48177.80,46683.23,157833.77
+4127,"Eumyan, Goddess of Law",Barad Kesa,4.32,Plague Tin,248.00,4333.65,342.10,1074745.20,84840.80,46383.44,1205969.44
+6101,Terrorghoul The Unspeakable,The Dark Caverns of Woe,3.29,Glowpearl Adamant Of Spirits,224.00,361.90,374.00,81065.60,83776.00,4945.25,169786.85
+6646,"Melcha, Goddess of Thieves",Weke Tower,-0.05,Thunderbirds' Transcendent Dreamiron,321.00,2275.25,237.70,730355.25,76301.70,0.00,806656.95
+7070,Springsprocket,Dysley Stronghold,45.98,Unholy Poison Copper Of The Mountains,83.00,580.91,-9.24,48215.53,-766.92,21826.36,69274.97
+8058,Sunset Knightclaw,The Cuitamba Jungle,30.80,Violetstone Tin Of Death,211.00,2245.23,156.10,473743.53,32937.10,157071.00,663751.63
+11406,Bonescare,Shainan's Hold,23.96,Mana-touched Greenglitter Gold Of Giants,109.00,1173.98,467.50,127963.82,50957.50,42941.12,221862.44
+11479,Song Runetomb,Archring Borough,17.93,Thunderbirds' Transcendent Dreamiron,212.00,2275.25,237.70,482353.00,50392.40,95894.17,628639.57
+11642,Graveterror,The Archer and Scroll,39.60,Pearl Mirrorice Steel Of Changelings,186.00,271.51,38.07,50500.86,7081.02,23032.75,80614.63
+11645,Snowflame The Evil,Unicorn's Ward,14.64,Angels' Smoke Adamant Of The Mountains,119.00,3115.57,236.50,370752.83,28143.50,59834.45,458730.78
+14984,Wheelspawn,Shainan's Hold,23.96,Legendary Mithril Of The Moon,244.00,2707.10,125.84,660532.40,30704.96,165896.97,857134.33
+15060,Springpulley The Binder,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,159.00,3222.96,229.53,512450.64,36495.27,197620.53,746566.44
+15085,Shadow Gust,The Tower of Aces the Accursed,13.31,Primordial Mud Orichalcum,54.00,-387.90,85.11,-20946.60,4595.94,-2125.59,-18476.25
+19432,Flameshiver,Gifeld Castle,6.22,Ghostly Soul Adamant,308.00,3222.96,229.53,992671.68,70695.24,63802.02,1127168.94
+19973,Seraph Jester,The Bastion of Gothmog of Udun,54.84,Primordial False Gold,163.00,5395.80,248.60,879515.40,40521.80,506020.46,1426057.66

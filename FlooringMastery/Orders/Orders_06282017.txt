@@ -1,0 +1,16 @@
+1219,Surgeon Grant,WY,0.25,Packed Dirt,92.00,1.00,1.50,92.00,138.00,0.00,230.00
+2702,Mattie Grant "the Gambler",KS,0.50,Brick,255.00,4.00,5.50,1020.00,1402.50,0.00,2422.50
+2884,Friendly Howell,IA,1.00,Dirt,217.00,0.50,1.00,108.50,217.00,3.26,328.76
+5606,Renee "Loco Tracker" Jordan,MT,3.00,Beechwood,308.00,3.00,5.00,924.00,1540.00,73.92,2537.92
+6937,Dorothy "the Hunter",MO,2.20,Reeds,174.00,0.75,2.20,130.50,382.80,10.27,523.57
+9993,Theresa "Kid" Robinson,NM,2.20,Pebbles,357.00,0.88,4.84,314.16,1727.88,40.84,2082.88
+10455,Michele Watson "the Loner",MO,2.20,Solid Oak,126.00,5.50,5.50,693.00,693.00,27.72,1413.72
+10906,Joanne "Damned" Miles,KS,0.55,Solid Oak,122.00,5.50,5.50,671.00,671.00,13.42,1355.42
+12489,Vanessa "Scalper" Rhodes,ND,1.38,Cedar Planks,117.00,2.20,6.05,257.40,707.85,9.65,974.90
+12754,Mattie Grant "the Gambler",MS,3.00,Packed Dirt,167.00,1.00,1.82,167.00,303.94,14.13,485.07
+14105,Vicki "Mesa" Rhodes,NM,2.42,Packed Dirt,95.00,1.10,2.00,104.50,190.00,5.89,300.39
+15206,Minnie Lawson "the Apostle",AR,2.20,Leather,218.00,11.00,18.15,2398.00,3956.70,127.09,6481.79
+16050,Maureen "Cursed" Andrews,WY,0.31,Pebbles,51.00,0.88,4.84,44.88,246.84,0.00,291.72
+17337,Melissa "Lonesome Stalker" Riley,ND,1.52,Reeds,300.00,0.83,2.20,249.00,660.00,18.18,927.18
+18099,Amanda Hart "the Loner",TX,0.67,Beechwood,166.00,3.63,5.50,602.58,913.00,15.16,1530.74
+22514,Joanne "Damned" Miles,ND,1.67,Dirt,276.00,0.55,1.00,151.80,276.00,8.56,436.36

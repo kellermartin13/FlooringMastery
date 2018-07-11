@@ -1,0 +1,22 @@
+240,Vengeful Robertson,TX,0.50,Leather,277.00,10.00,15.00,2770.00,4155.00,0.00,6925.00
+374,Cynthia "the Vixen",CA,0.50,Cedar Planks,56.00,2.00,5.00,112.00,280.00,0.00,392.00
+2720,"Doom" McCoy,MO,2.20,Cedar Planks,292.00,2.00,5.50,584.00,1606.00,43.80,2233.80
+5244,Mabel "Vixen Cursed" King,MT,3.00,Packed Dirt,129.00,1.00,1.50,129.00,193.50,9.68,332.18
+7414,Lucky Johnson,UT,0.00,Dirt,150.00,0.50,1.00,75.00,150.00,0.00,225.00
+9934,Stella "the Bully",NV,0.31,Pebbles,106.00,0.88,4.84,93.28,513.04,0.00,606.32
+10295,Amanda Hart "the Loner",AR,2.20,Packed Dirt,226.00,1.00,1.50,226.00,339.00,11.30,576.30
+10398,Joanne "Damned" Miles,WY,0.31,Pinecones,179.00,1.50,2.66,268.50,476.14,0.00,744.64
+10527,Amanda Hart "the Loner",CA,0.55,Leather,221.00,10.00,18.15,2210.00,4011.15,62.21,6283.36
+11823,Florence "Leather Doc" Grant,MS,3.00,Pinecones,102.00,1.50,2.66,153.00,271.32,12.73,437.05
+11911,Heather "Friendly Gambler" Barrett,MT,3.63,Leather,156.00,10.00,18.15,1560.00,2831.40,175.66,4567.06
+12266,Debra "Scorpion" Lane,ID,0.00,Brick,110.00,4.84,6.66,532.40,732.60,0.00,1265.00
+12829,Lucky Johnson,ID,0.00,Cedar Planks,363.00,2.20,6.05,798.60,2196.15,0.00,2994.75
+14018,Lorraine "Utah" Adams,UT,0.00,Pebbles,40.00,0.88,4.84,35.20,193.60,0.00,228.80
+17272,Kathy Murphy "the Thinker",IA,1.21,Pinecones,127.00,1.50,2.66,190.50,337.82,5.28,533.60
+17478,Debra "Scorpion" Lane,MO,2.20,Dirt,270.00,0.50,1.00,135.00,270.00,8.10,413.10
+19902,Elizabeth "the Bully",ID,0.00,Pebbles,116.00,0.88,4.84,102.08,561.44,0.00,663.52
+20213,Vanessa "Scalper" Rhodes,UT,0.00,Beechwood,315.00,3.63,6.05,1143.45,1905.75,0.00,3049.20
+20423,Cynthia "the Vixen",NM,2.93,Packed Dirt,234.00,1.10,2.42,257.40,566.28,24.71,848.39
+20597,Allison "Steel Gravedigger" Douglas,NV,0.31,Beechwood,148.00,3.63,6.05,537.24,895.40,0.00,1432.64
+21307,Helen Webb "the Dancer",AR,2.20,Cedar Planks,56.00,2.20,6.66,123.20,372.96,9.92,506.08
+21922,Marie "Raven" Chapman,IA,1.33,Dirt,168.00,0.55,1.00,92.40,168.00,2.60,263.00

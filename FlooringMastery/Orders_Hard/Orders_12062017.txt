@@ -1,0 +1,16 @@
+192,"Alik, Goddess of Trickery",Gena's Hold,2.00,Muck Orichalcum Of Ogres,354.00,3115.32,274.19,1102823.28,97063.26,23997.73,1223884.27
+4357,"Finarfin, God of Protection",Boiaburh Keep,16.00,Hidden Shadowice Lead,270.00,2729.00,-62.23,736830.00,-16802.10,115204.46,835232.36
+4570,Boltcrank The Trapper,Khali's Delve,52.71,Vampires' Fang Emeraldsilver,194.00,2283.46,455.55,442991.24,88376.70,281625.01,812992.95
+6158,Chainblade The Cadaverous,Kada's Deep,33.00,Trolls' Mist Poisonplatinum Of The Twilight,226.00,516.17,394.90,116654.42,89247.40,67947.60,273849.42
+7577,Cult Godseeker,The Forsaken Hive of Galima the Mighty,24.70,Toxic Mistlead Of The Past,120.00,1557.54,136.06,186904.80,16327.20,50808.00,254040.00
+8258,Metalghoul,The Wizard's House,43.58,Incubi's Iron Of The Dawn,169.00,1200.96,424.31,202962.24,71708.39,120855.08,395525.71
+10188,Rouge Roguemist,The Chuallanto Jungle,37.00,Ensorceled Gold Of The Dawn,166.00,5713.98,402.92,948520.68,66884.72,375700.00,1391105.40
+11174,Icechill The Frigid,The Forsaken Sepulcher of Sorrows,48.79,Heavenly Dreamsilver Of The Night,172.00,2009.68,112.00,345664.96,19264.00,178815.19,543744.15
+11696,Gravebone The Unspeakable,The Archer and Scroll,39.60,Magic Adamant,100.00,1838.00,228.40,183800.00,22840.00,82656.00,289296.00
+12601,Spikerivet,Reheath Stronghold,8.00,Tin Of The Tundra,319.00,3123.86,174.91,996511.34,55796.29,84184.61,1136492.24
+15059,Rune Rougehate,The Dark Caverns of Woe,3.29,Ghostly Soul Adamant,168.00,3222.96,229.53,541457.28,38561.04,17400.55,597418.87
+15509,Sephiroth Drakecaster,Barad Kesa,4.75,Trolls' Rubymercury Of The Sunset,203.00,556.60,217.80,112989.80,44213.40,7860.16,165063.36
+18280,Chainhorror,North Arcanist's Farthing,55.18,Ensorceled Gold Of The Dawn,186.00,6913.92,443.21,1285989.12,82437.06,752634.40,2121060.58
+19252,Spikerivet,Reyny Keep,11.00,Mana-touched Greenglitter Gold Of Giants,239.00,1291.38,514.25,308639.82,122905.75,47470.01,479015.58
+21298,"Addon, Lord of Death",Eved Castle,5.09,God-touched Faterainbow Orichalcum Of Spectres,218.00,370.41,35.21,80749.38,7675.78,4421.26,92846.42
+22565,Lightning Brand,The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,92.00,3603.15,152.26,331489.80,14007.92,124379.18,469876.90

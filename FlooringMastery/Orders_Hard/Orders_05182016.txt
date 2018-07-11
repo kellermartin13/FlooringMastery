@@ -1,0 +1,11 @@
+1168,"Iran, Lord of Nightmares",The Shadow Downs,13.21,Primordial Mud Orichalcum,307.00,-387.90,77.37,-119085.30,23752.59,-12393.25,-107725.96
+2850,Scarefear The Blade,The Citadel of Lord Greywulf,30.04,Primal Adamant,160.00,4562.80,249.00,730048.00,39840.00,230966.40,1000854.40
+6879,Flora Amberslayer,Barad Kesa,4.32,Poison Adamant,114.00,1151.38,58.58,131257.32,6678.12,5517.42,143452.86
+9699,Shadow Gust,Fellfen Keep,46.23,Unicorns' Fatal Magma Metal Of The Ocean,117.00,1792.04,392.70,209668.68,45945.90,117582.71,373197.29
+11556,Harmony Angelchild,Archring Borough,17.93,Pearl Mirrorice Steel Of Changelings,242.00,271.51,38.07,65705.42,9212.94,13485.30,88403.66
+13504,Bedlam Spiritraven,The Warrior and Flagon,53.24,White Platinum,83.00,-63.64,159.50,-5282.12,13238.50,4216.88,12173.26
+14412,"Alas, Lord of Plague",Archscepter Borough,3.30,Unicorns' Evil Mithril,136.00,4802.49,377.52,653138.64,51342.72,21134.44,725615.80
+19061,Wheelbolt The Machine,The Citadel of Tattena the Sinister,13.34,Ghostly Soul Adamant,270.00,3222.96,229.53,870199.20,61973.10,121182.40,1053354.70
+19293,Terrorghoul The Unspeakable,The Bastion of Barbos,28.34,Grayplatinum,221.00,3032.59,306.97,670202.39,67840.37,206651.97,944694.73
+20722,"Maeglodor, God of Thieves",Weke Tower,-0.07,Phantasmal Lead,62.00,-608.27,270.02,-37712.74,16741.24,0.00,-20971.50
+22899,Snaretool The Constructed,The Fortress of the Lich Queen,36.35,Primal Adamant,107.00,5520.99,364.56,590745.93,39007.92,226711.39,856465.24

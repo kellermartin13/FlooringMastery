@@ -1,0 +1,18 @@
+41,Springcoil,The Fortress of Asmamur,-4.48,Venom Timegold Of Dwarves,234.00,3036.00,269.00,710424.00,62946.00,-30934.80,742435.20
+2677,Nettool The Grasping,Boiaburh Keep,16.00,Toxin Iceplatinum Of The Undead,346.00,-283.29,-49.00,-98018.34,-16954.00,-18395.57,-133367.91
+5395,Storm Seraphheart,Gawold Castle,5.00,Primordial Plague Mercury Of Legend,42.00,339.81,273.90,14272.02,11503.80,1288.79,27064.61
+6336,Cult Godseeker,The Secret Shrine of the Gargoyle Count,-2.00,Nymphs' Luminous Rotmercury Of The Skies,127.00,292.60,189.00,37160.20,24003.00,-1223.26,59939.94
+6816,Law Lionwatcher,South Brightcrown Borough,42.25,Zephyr Iron,265.00,2759.00,444.69,731135.00,117842.85,356570.70,1205548.55
+6872,"Addon, Lord of Death",The Flying Witch,11.45,Meteoric Dustzephyr Orichalcum,234.00,375.00,244.08,87750.00,57114.72,15935.12,160799.84
+6998,Bane Veil,The Bastion of Barbos,23.42,Unholy Poison Copper Of The Mountains,59.00,580.91,-9.24,34273.69,-545.16,7757.56,41486.09
+8589,Flora Amberslayer,Lacot Stronghold,33.97,Glowpearl Adamant Of Spirits,140.00,398.09,374.00,55732.60,52360.00,36751.48,144844.08
+8795,Sunrise Godwarlock,Unicorn's Ward,14.64,White Platinum,343.00,-52.59,145.00,-18038.37,49735.00,4754.49,36451.12
+9931,Rose Anchor,The Chuallanto Jungle,37.00,Ensorceled Gold Of The Dawn,222.00,5713.98,402.92,1268503.56,89448.24,502442.17,1860393.97
+13423,"Ingwenel, God of War",The Lost Crypts of Sorrows,35.87,Toxic Mistlead Of The Past,235.00,1557.54,136.06,366021.90,31974.10,143278.56,541274.56
+19501,Storm Squallmourner,North Grove Ward,7.99,Mithril Of The Tropics,209.00,4538.71,11.98,948590.39,2503.82,76087.54,1027181.75
+20521,"Gono, Goddess of the Earth",The Secret Catacombs of Ulfang the Black,42.90,Sphinxes' Opalpearl Platinum Of Legend,277.00,5805.82,390.81,1608212.14,108254.37,738080.60,2454547.11
+20663,Lance Knightseraph,Grori's Deep,66.50,Greenlead,308.00,959.65,179.65,295572.20,55332.20,231596.90,582501.30
+20697,Blazefreeze The Chiller,Weke Tower,-0.07,Phantasmal Tin Of The Swamps,231.00,5964.74,-7.99,1377854.94,-1845.69,0.00,1376009.25
+21972,Chainblade The Cadaverous,The Fortress of Akkun the Grim,-2.42,Trolls' Rubymercury Of The Sunset,306.00,740.84,239.58,226697.04,73311.48,-6000.17,294008.35
+21975,Chainhorror,The Beggar and Cask,25.41,Meteoric Mirrormuck Orichalcum Of The Forests,198.00,2374.02,185.77,470055.96,36782.46,126709.60,633548.02
+22269,Shadow Gust,The Cuitamba Jungle,33.88,Primordial Plague Mercury Of Legend,40.00,497.52,301.29,19900.80,12051.60,10863.82,42816.22

@@ -1,0 +1,20 @@
+310,Allison "Steel Gravedigger" Douglas,ID,0.00,Brick,71.00,4.00,5.00,284.00,355.00,0.00,639.00
+619,Mattie Grant "the Gambler",MT,3.00,Brick,152.00,4.00,5.00,608.00,760.00,41.04,1409.04
+1334,Lena Chapman "the Bully",MO,2.20,Beechwood,54.00,3.00,5.00,162.00,270.00,8.64,440.64
+4643,Theresa "Scalphunter" Romero,CA,0.55,Pinecones,208.00,1.50,2.42,312.00,503.36,8.15,823.51
+4660,Gladys "Locoweed" Keller,MS,3.00,Leather,65.00,10.00,16.50,650.00,1072.50,51.68,1774.18
+7140,Gloria "Devil" McCoy,ND,1.25,Cedar Planks,288.00,2.20,6.05,633.60,1742.40,23.76,2399.76
+7385,Dorothy "the Hunter",MS,3.00,Packed Dirt,178.00,1.00,1.50,178.00,267.00,13.35,458.35
+8045,Amanda Hart "the Loner",MO,2.20,Beechwood,120.00,3.00,5.50,360.00,660.00,20.40,1040.40
+10155,Melissa "Lonesome Stalker" Riley,NM,2.20,Brick,172.00,4.84,6.66,832.48,1145.52,39.56,2017.56
+10646,Tina "Lady" Anderson,MT,3.63,Leather,192.00,10.00,18.15,1920.00,3484.80,216.19,5620.99
+10682,Deborah "the Lady",WY,0.31,Dirt,269.00,0.50,1.00,134.50,269.00,0.00,403.50
+13927,Cathy "Wildfire" Neal,AR,2.20,Leather,119.00,11.00,18.15,1309.00,2159.85,69.38,3538.23
+14273,Renee "Loco Tracker" Jordan,WY,0.31,Solid Oak,129.00,5.50,5.50,709.50,709.50,0.00,1419.00
+14643,Kathy Murphy "the Thinker",TX,0.67,Pebbles,197.00,0.88,4.84,173.36,953.48,11.27,1138.11
+16812,Vengeful Robertson,NM,2.66,Leather,182.00,11.00,19.97,2002.00,3634.54,169.10,5805.64
+16841,Beth "Fortunate Shooter" Powell,TX,0.67,Dirt,177.00,0.50,1.00,88.50,177.00,2.66,268.16
+17545,Tina "Lady" Anderson,CA,0.61,Solid Oak,342.00,5.50,6.66,1881.00,2277.72,41.59,4200.31
+19490,Heather "Tornado" Newman,TX,0.67,Solid Oak,35.00,5.50,6.66,192.50,233.10,4.26,429.86
+20959,"Bane" Jennings,KS,0.55,Cedar Planks,209.00,2.20,6.66,459.80,1391.94,18.52,1870.26
+22315,Victoria "the Dancer",IA,1.33,Pebbles,150.00,0.88,4.84,132.00,726.00,8.58,866.58

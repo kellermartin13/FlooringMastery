@@ -1,0 +1,17 @@
+4002,Betty "Happy Thinker" Watson,AR,2.20,Leather,176.00,10.00,16.50,1760.00,2904.00,93.28,4757.28
+4657,Darlene "Loner" Ford,MO,2.20,Packed Dirt,224.00,1.00,1.50,224.00,336.00,11.20,571.20
+4759,Mabel "Vixen Cursed" King,TX,0.50,Solid Oak,104.00,5.50,5.50,572.00,572.00,0.00,1144.00
+5037,Theresa "Scalphunter" Romero,MO,2.20,Reeds,169.00,0.75,2.20,126.75,371.80,9.97,508.52
+6402,Ida Russell "the Rustler",NV,0.28,Beechwood,205.00,3.00,5.00,615.00,1025.00,0.00,1640.00
+7299,Beth "Fortunate Shooter" Powell,MS,3.00,Pinecones,269.00,1.50,2.66,403.50,715.54,33.57,1152.61
+7378,Diana "Mistress" Morgan,NV,0.28,Pebbles,118.00,0.80,4.84,94.40,571.12,0.00,665.52
+8775,Debra "Scorpion" Lane,MO,2.20,Packed Dirt,152.00,1.00,1.50,152.00,228.00,7.60,387.60
+9336,Marie "Raven" Chapman,CA,0.55,Cedar Planks,332.00,2.20,6.05,730.40,2008.60,27.39,2766.39
+9469,Victoria "the Dancer",ND,1.25,Pinecones,268.00,1.50,2.66,402.00,712.88,11.15,1126.03
+10022,Michele Watson "the Loner",UT,0.00,Reeds,251.00,0.75,2.20,188.25,552.20,0.00,740.45
+14791,Dorothy "the Hunter",IA,1.21,Reeds,164.00,0.75,2.20,123.00,360.80,4.84,488.64
+16398,Debra "Scorpion" Lane,AR,2.20,Pebbles,197.00,0.88,4.84,173.36,953.48,22.54,1149.38
+20707,Cathy "Wildfire" Neal,AL,1.00,Pinecones,256.00,1.50,2.66,384.00,680.96,10.65,1075.61
+20815,Friendly Howell,AR,2.20,Cedar Planks,16.00,2.20,6.66,35.20,106.56,2.84,144.60
+20821,Jacqueline "Riding Doc" Washington,MT,4.83,Beechwood,190.00,3.63,6.05,689.70,1149.50,91.96,1931.16
+20892,"Sunrise" Miles,MS,3.00,Cedar Planks,271.00,2.20,6.66,596.20,1804.86,72.03,2473.09

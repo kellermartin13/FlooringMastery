@@ -1,0 +1,10 @@
+480,"Melcha, Goddess of Thieves",Barad Kesa,4.32,Falserainbow Lead,317.00,3215.00,233.00,1019155.00,73861.00,43720.64,1136736.64
+1105,"Maeglodor, God of Thieves",The Broken Shield,37.23,Muck Orichalcum Of Ogres,199.00,3115.32,274.19,619948.68,54563.81,249569.62,924082.11
+3882,Springcoil,Ring District,35.00,Glittering Orichalcum,221.00,-131.00,360.23,-28951.00,79610.83,17730.94,68390.77
+4081,Zeal Bladewitch,The Wizard's House,43.58,Sapphire Mindlead,38.00,1307.71,47.00,49692.98,1786.00,22650.75,74129.73
+8229,Chainblade The Cadaverous,The Fortress of Gama,10.16,Unknowable Mindsilver,164.00,3565.00,366.00,584660.00,60024.00,64468.40,709152.40
+14477,Storm Squallmourner,The Citadel of Lord Greywulf,33.04,Phantasmal Tin Of The Swamps,150.00,4929.54,-7.26,739431.00,-1089.00,243652.86,981994.86
+17162,Burnbrood The Freezer,The Citadel of Lord Greywulf,33.04,Zephyr Iron,106.00,3034.90,444.69,321699.40,47137.14,121716.06,490552.60
+18762,Burnfreeze The Cold,The Lewd King,32.67,Meteoric Dustzephyr Orichalcum,153.00,375.00,268.49,57375.00,41078.97,32489.81,130943.78
+20201,Wind Dire,Boiaburh Keep,17.60,Rainbowglitter Tin,229.00,5957.39,213.40,1364242.31,48868.60,254359.96,1667470.87
+20649,Scarefear The Blade,Barad Cune,28.60,Zephyr Adamant,215.00,4224.00,113.22,908160.00,24342.30,270425.67,1202927.97

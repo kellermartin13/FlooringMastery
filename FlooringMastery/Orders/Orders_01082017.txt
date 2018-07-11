@@ -1,0 +1,14 @@
+1303,Lorraine "Utah" Adams,ND,1.25,Reeds,212.00,0.75,2.00,159.00,424.00,5.83,588.83
+3786,Dorothy "the Hunter",KS,0.50,Dirt,191.00,0.50,1.00,95.50,191.00,0.00,286.50
+3846,Ida Russell "the Rustler",WY,0.31,Reeds,174.00,0.75,2.00,130.50,348.00,0.00,478.50
+3959,"Scalphunter" Kennedy,NV,0.25,Leather,218.00,10.00,16.50,2180.00,3597.00,0.00,5777.00
+11385,Betty "Happy Thinker" Watson,MS,3.00,Beechwood,218.00,3.00,5.50,654.00,1199.00,55.59,1908.59
+13372,Gladys "Locoweed" Keller,UT,0.00,Beechwood,317.00,3.30,5.50,1046.10,1743.50,0.00,2789.60
+13610,Vanessa "Scalper" Rhodes,OK,2.42,Leather,280.00,11.00,18.15,3080.00,5082.00,163.24,8325.24
+14144,Mabel "Vixen Cursed" King,ND,1.38,Pinecones,228.00,1.50,2.66,342.00,606.48,9.48,957.96
+16021,Florence "Leather Doc" Grant,MS,3.00,Reeds,148.00,0.83,2.20,122.84,325.60,13.45,461.89
+18764,Vengeful Montgomery,UT,0.00,Pebbles,313.00,0.88,4.84,275.44,1514.92,0.00,1790.36
+19073,Lena Chapman "the Bully",CA,0.67,Pinecones,312.00,1.50,2.66,468.00,829.92,12.98,1310.90
+19574,Lena Chapman "the Bully",AR,2.20,Brick,200.00,5.32,6.66,1064.00,1332.00,47.92,2443.92
+19833,Diana "Mistress" Morgan,WY,0.31,Leather,192.00,11.00,19.97,2112.00,3834.24,0.00,5946.24
+20735,Gloria "Devil" McCoy,TX,0.67,Dirt,187.00,0.50,1.00,93.50,187.00,2.80,283.30

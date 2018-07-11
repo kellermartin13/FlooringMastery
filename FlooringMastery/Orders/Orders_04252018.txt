@@ -1,0 +1,9 @@
+781,Vanessa "Scalper" Rhodes,NM,2.20,Reeds,280.00,0.75,2.00,210.00,560.00,15.40,785.40
+2180,Lorraine "Utah" Adams,MS,3.00,Solid Oak,153.00,5.00,5.00,765.00,765.00,45.90,1575.90
+3805,"Scalphunter" Kennedy,AL,1.00,Packed Dirt,263.00,1.00,1.50,263.00,394.50,6.58,664.08
+8058,Gloria "Devil" McCoy,CA,0.55,Packed Dirt,187.00,1.00,1.50,187.00,280.50,4.68,472.18
+9655,Stella "the Bully",ND,1.25,Cedar Planks,236.00,2.20,6.05,519.20,1427.80,19.47,1966.47
+9683,Renee "Loco Tracker" Jordan,AR,2.20,Dirt,70.00,0.50,1.00,35.00,70.00,2.10,107.10
+10852,Stella "the Bully",AL,1.00,Leather,70.00,10.00,18.15,700.00,1270.50,19.70,1990.20
+14379,Victoria "the Dancer",WY,0.31,Beechwood,156.00,3.63,5.50,566.28,858.00,0.00,1424.28
+21252,Joanne "Damned" Miles,WY,0.31,Cedar Planks,200.00,2.20,6.66,440.00,1332.00,0.00,1772.00

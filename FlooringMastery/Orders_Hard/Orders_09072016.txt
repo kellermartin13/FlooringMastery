@@ -1,0 +1,12 @@
+6076,"Alik, Goddess of Trickery",The Citadel of Alammius,3.50,Poison Adamant,180.00,1151.38,58.58,207248.40,10544.40,8711.71,226504.51
+6855,Beamsprocket The Grasping,Mahyrst Keep,25.14,Unicorns' Evil Mithril,296.00,4802.49,312.00,1421537.04,92352.00,378472.26,1892361.30
+7076,Song Runetomb,Bergfison's Deep,39.60,Angels' Smoke Adamant Of The Mountains,298.00,2832.34,215.00,844037.32,64070.00,363242.93,1271350.25
+7662,"Zepul, Lady of Vengeance",The Tower of Aces the Accursed,13.31,Venom Timegold Of Dwarves,68.00,3036.00,269.00,206448.00,18292.00,29216.20,253956.20
+10246,Dagger Reaper,The Bloody Wand,12.00,Mithril Of Legend,149.00,2274.80,63.01,338945.20,9388.49,41800.04,390133.73
+10657,Springsprocket,Haukri's Hold,27.83,Shadow Steel,201.00,4677.78,465.30,940233.78,93525.30,289452.54,1323211.62
+11843,"Gadriel, God of Resurrection",The Bastion of the Lich Tyrant,43.00,Ghostly Magic Adamant,229.00,4836.38,230.90,1107531.02,52876.10,498975.06,1659382.18
+13246,Shiverflame The Freezer,Arcanist's Farthing,3.00,Negative Mercury,154.00,4054.87,436.81,624449.98,67268.74,20751.56,712470.28
+19733,Spikebrood The Disinterred,North Grove Ward,7.99,Mithril Of The Tropics,162.00,4538.71,11.98,735271.02,1940.76,58976.94,796188.72
+20389,Lightning Brand,The Black Barrow of Zago the Possessed,30.80,Golems' Stonesapphire Gold Of The Glacier,247.00,4444.06,116.57,1097682.82,28792.79,349207.44,1475683.05
+20518,Shadow Tomblion,Bergfison's Deep,52.71,Undeads' Mind Orichalcum Of The Twilight,131.00,-17.00,276.00,-2227.00,36156.00,17982.37,51911.37
+22457,"Uriel, God of Fate",Tradun Castle,45.57,Primordial Plague Mercury Of Legend,142.00,497.52,301.29,70647.84,42783.18,52178.27,165609.29

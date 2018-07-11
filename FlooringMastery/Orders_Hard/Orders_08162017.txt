@@ -1,0 +1,20 @@
+1838,Springpulley The Binder,Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,256.00,4343.00,26.40,1111808.00,6758.40,279641.60,1398208.00
+3673,Steelterror The Blade,The Tower of Sabiesu the Awesome,4.40,Mistgold Of Men,170.00,3065.71,44.00,521170.70,7480.00,21146.03,549796.73
+4090,Lance Knightseraph,The Pilgrim's Cup,41.93,Foulopal Copper Of The Skies,149.00,1221.16,403.00,181952.84,60047.00,101639.93,343639.77
+5525,Tarot Dawn,Boiaburh Keep,16.00,Mistgold Of Men,255.00,3065.71,44.00,781756.05,11220.00,126876.17,919852.22
+5726,Ironbrood,The Archer and Blade,9.00,Vampires' Hammer Emeraldmetal,373.00,379.45,25.84,141534.85,9638.32,13605.59,164778.76
+6053,Tarot Dawn,Kada's Deep,33.00,Trolls' Mist Poisonplatinum Of The Twilight,36.00,516.17,394.90,18582.12,14216.40,10823.51,43622.03
+8219,Claw Mist,Gili's Delve,-5.05,Incubi's Iron Of The Dawn,207.00,1200.96,424.31,248598.72,87832.17,-16821.54,319609.35
+12075,Rune Rougehate,The Forsaken Delve of Lord Greywulf,39.00,Sprites' Transcendent Mud Lead Of The South,140.00,2081.80,321.86,291452.00,45060.40,131239.84,467752.24
+12393,"Alas, Lord of Plague",The Dismal Marsh,6.05,Toxin Iceplatinum Of The Undead,118.00,-377.06,-59.29,-44493.08,-6996.22,-3089.36,-54578.66
+13625,Evilember The Firey,The Fortress of Asmamur,-4.48,Sphinxes' Mistsoul Bronze Of The Past,194.00,2169.81,202.07,420943.14,39201.58,-18405.79,441738.93
+14864,Chainhorror,Grori's Deep,60.45,Shadow Steel,206.00,5660.12,511.83,1165984.72,105436.98,762853.02,2034274.72
+14973,Maverick Wind,The Greedy Wench,32.70,Primordial Mud Orichalcum,105.00,-387.90,85.11,-40729.50,8936.55,-10491.67,-42284.62
+16056,Tarot Dawn,Peley Keep,26.33,Incubi's Mirrorfog Iron Of The Ocean,250.00,5806.50,-26.08,1451625.00,-6520.00,375727.30,1820832.30
+17753,Burnchill The Evil,The Grey Plains,19.97,Fog Lavaplatinum Of Life,64.00,1078.00,18.70,68992.00,1196.80,14037.76,84226.56
+19280,Maverick Wind,Bifar's Deep,18.70,Ghostly Soul Adamant,168.00,3222.96,229.53,541457.28,38561.04,110203.48,690221.80
+20075,"Maglioneth, Lord of the Sun",The Forsaken Sepulcher of Sorrows,53.67,Angels' Smoke Adamant Of The Mountains,304.00,3427.13,260.15,1041847.52,79085.60,605303.88,1726237.00
+20645,Cult Godseeker,The Forsaken Tomb of Devastation,0.00,Unspeakable Rotsoul Mithril Of Souls,216.00,272.80,485.85,58924.80,104943.60,0.00,163868.40
+21912,Springsprocket,The Fortress of Akkun the Grim,-2.42,Sprites' Transcendent Mud Lead Of The South,174.00,2081.80,321.86,362233.20,56003.64,-8364.74,409872.10
+22108,Scarefear The Blade,Barad Cune,28.60,Otherworldly Truesoul Orichalcum Of The East,24.00,1061.78,392.65,25482.72,9423.60,10122.83,45029.15
+22122,Metalbrood,The Tomb of Hellish Ruin,16.94,Toxic Mistlead Of The Past,260.00,1557.54,181.10,404960.40,47086.00,76847.89,528894.29

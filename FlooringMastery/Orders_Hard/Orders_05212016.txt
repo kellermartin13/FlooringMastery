@@ -1,0 +1,8 @@
+9,"Finarfin, God of Protection",The Bastion of Barbos,21.29,Toxic Mistlead Of The Past,86.00,1557.54,123.69,133948.44,10637.34,30363.01,174948.79
+674,Rose Anchor,The Forsaken Tomb of Devastation,0.00,Unspeakable Rotsoul Mithril Of Souls,280.00,248.00,401.53,69440.00,112428.40,0.00,181868.40
+702,Seraphim Tsunami,Shainan's Hold,18.00,Litches' Fatal Mithril Of The Past,259.00,1207.25,305.00,312677.75,78995.00,70501.10,462173.85
+3492,Sunset Knightclaw,The Flying Witch,11.45,Forgotten Mithril,148.00,913.00,316.00,135124.00,46768.00,20008.12,201900.12
+9186,"Ariel, God of Luck",The Nulukkhath Spires,10.59,Phantasmal Smokezephyr Mercury Of Men,92.00,-383.77,75.90,-35306.84,6982.80,-3115.64,-31439.68
+20960,Freezebrood,The Black Barrow of Bery,-0.10,Forgotten Mithril,176.00,1215.20,347.60,213875.20,61177.60,0.00,275052.80
+21989,Blazeflare The Cremator,Lamp Borough,4.95,Mana-touched Greenglitter Gold Of Giants,157.00,1420.52,514.25,223021.64,80737.25,15187.94,318946.83
+22169,"Gono, Goddess of the Earth",The Wizard's House,43.58,Ensorceled Sandmetal Of Spirits,266.00,2956.98,95.70,786556.68,25456.20,357285.67,1169298.55

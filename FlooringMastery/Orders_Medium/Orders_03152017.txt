@@ -1,0 +1,19 @@
+4158,"Bane" Jennings,AR,2.20,Brick,145.00,4.40,5.50,638.00,797.50,28.71,1464.21
+4639,"Scalphunter" Kennedy,MT,3.00,Brick,95.00,4.40,5.50,418.00,522.50,28.22,968.72
+9036,Kathy Murphy "the Thinker",ND,1.25,Pebbles,183.00,0.88,4.84,161.04,885.72,10.47,1057.23
+10488,Betty "Happy Thinker" Watson,TX,0.67,Pebbles,352.00,0.88,4.84,309.76,1703.68,20.13,2033.57
+10489,Gladys "Locoweed" Keller,WY,0.31,Beechwood,224.00,3.00,5.50,672.00,1232.00,0.00,1904.00
+14043,Helen Webb "the Dancer",OK,2.42,Reeds,170.00,0.75,2.20,127.50,374.00,10.03,511.53
+14932,Susan "Damnation" Fleming,AL,1.00,Reeds,47.00,0.75,2.20,35.25,103.40,1.39,140.04
+14949,April "Thunderbird" Dunn,MS,3.00,Dirt,255.00,0.50,1.00,127.50,255.00,11.48,393.98
+16482,April "Thunderbird" Dunn,UT,0.00,Dirt,329.00,0.50,1.00,164.50,329.00,0.00,493.50
+16959,Vicki "Mesa" Rhodes,NV,0.31,Reeds,275.00,0.83,2.20,228.25,605.00,0.00,833.25
+17332,Jo "the Joker",AL,1.00,Reeds,175.00,0.83,2.20,145.25,385.00,5.30,535.55
+17821,Helen Webb "the Dancer",AL,1.00,Pinecones,181.00,1.50,2.66,271.50,481.46,7.53,760.49
+17965,Black Beck,CA,0.61,Packed Dirt,112.00,1.10,2.20,123.20,246.40,3.70,373.30
+17990,Mabel "Vixen Cursed" King,UT,0.00,Pebbles,223.00,0.88,4.84,196.24,1079.32,0.00,1275.56
+18134,Helen Webb "the Dancer",NM,2.93,Beechwood,312.00,3.63,5.50,1132.56,1716.00,85.46,2934.02
+18392,Tammy Carlson "the Killer",CA,0.61,Solid Oak,344.00,5.50,6.66,1892.00,2291.04,41.83,4224.87
+19753,Maureen "Cursed" Andrews,MS,3.00,Leather,63.00,11.00,19.97,693.00,1258.11,58.53,2009.64
+21379,Vanessa "Scalper" Rhodes,MT,5.31,Pebbles,244.00,0.88,4.84,214.72,1180.96,69.78,1465.46
+21616,Michele Watson "the Loner",OK,2.66,Brick,237.00,5.32,6.66,1260.84,1578.42,85.18,2924.44

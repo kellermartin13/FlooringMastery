@@ -1,0 +1,19 @@
+1432,Victoria "the Dancer",AR,2.20,Pinecones,351.00,1.50,2.00,526.50,702.00,24.57,1253.07
+3840,Maureen "Cursed" Andrews,NM,2.20,Solid Oak,243.00,5.50,5.00,1336.50,1215.00,51.03,2602.53
+4608,Allison "Steel Gravedigger" Douglas,KS,0.50,Packed Dirt,265.00,1.00,1.50,265.00,397.50,0.00,662.50
+5406,Allison "Steel Gravedigger" Douglas,CA,0.55,Beechwood,271.00,3.00,5.00,813.00,1355.00,21.68,2189.68
+5478,Friendly Howell,MS,3.00,Pebbles,184.00,0.80,4.40,147.20,809.60,28.70,985.50
+5638,Michele Watson "the Loner",WY,0.31,Reeds,40.00,0.75,2.20,30.00,88.00,0.00,118.00
+6919,Lucky Johnson,MO,2.20,Pebbles,245.00,0.80,4.84,196.00,1185.80,27.64,1409.44
+7834,Jo "the Joker",MT,3.30,Cedar Planks,239.00,2.20,6.05,525.80,1445.95,59.15,2030.90
+9600,Cynthia "the Vixen",KS,0.50,Dirt,143.00,0.50,1.00,71.50,143.00,0.00,214.50
+12774,Jo "the Joker",WY,0.31,Reeds,232.00,0.75,2.20,174.00,510.40,0.00,684.40
+14961,Mattie Grant "the Gambler",CA,0.61,Pinecones,356.00,1.50,2.66,534.00,946.96,14.81,1495.77
+15764,Susan "Damnation" Fleming,NV,0.31,Pebbles,286.00,0.88,4.84,251.68,1384.24,0.00,1635.92
+16093,April "Thunderbird" Dunn,ND,1.38,Solid Oak,190.00,5.50,6.05,1045.00,1149.50,21.94,2216.44
+16273,Joanne "Damned" Miles,MS,3.00,Brick,267.00,5.32,6.66,1420.44,1778.22,95.96,3294.62
+17599,April "Thunderbird" Dunn,MT,3.99,Cedar Planks,237.00,2.20,6.66,521.40,1578.42,83.99,2183.81
+18231,Black Beck,NM,2.93,Brick,165.00,5.32,6.66,877.80,1098.90,59.30,2036.00
+19047,Geraldine "Revenge" Warren,ND,1.67,Pebbles,172.00,0.88,4.84,151.36,832.48,19.68,1003.52
+19412,Diana "Mistress" Morgan,ND,1.67,Dirt,220.00,0.50,1.00,110.00,220.00,6.60,336.60
+23499,"Doom" McCoy,AL,1.00,Pinecones,210.00,1.50,2.93,315.00,615.30,9.30,939.60

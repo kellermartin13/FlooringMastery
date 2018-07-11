@@ -1,0 +1,15 @@
+644,Beamtrap,Tradun Castle,31.13,Unspeakable Rotsoul Mithril Of Souls,35.00,248.00,401.53,8680.00,14053.55,7047.40,29780.95
+6409,Rouge Tombreaper,The Tower of the Demon Warlord,15.75,Glittering Orichalcum,226.00,-144.10,360.23,-32566.60,81411.98,7815.26,56660.64
+6724,Burnbrood The Freezer,South Brightcrown Borough,42.25,Timeiron,167.00,1596.00,228.33,266532.00,38131.11,127958.51,432621.62
+8118,Rune Rougehate,The Grey Plains,19.97,Violetstone Tin Of Death,326.00,2245.23,156.10,731944.98,50888.60,156566.72,939400.30
+9655,"Gadriel, God of Resurrection",The Tomb of Gothmog of Udun,-3.00,Golems' Stonesapphire Gold Of The Glacier,149.00,3672.77,105.97,547242.73,15789.53,-16890.97,546141.29
+9744,Song Runetomb,North Arcanist's Farthing,45.60,Spectres' Shadowy Terrorglow Adamant Of Life,201.00,4694.80,205.50,943654.80,41305.50,453081.74,1438042.04
+13488,Emberspawn,Arcanist's Farthing,3.00,Mithril Of Legend,42.00,2274.80,63.01,95541.60,2646.42,2945.64,101133.66
+14175,Magus Felldrake,Pewold Keep,20.52,Primordial Plague Mercury Of Legend,228.00,452.29,301.29,103122.12,68694.12,36081.41,207897.65
+16087,Evilbrood,Peley Keep,26.33,Sirens' Rockgold,182.00,-352.01,199.96,-64065.82,36392.72,-7195.01,-34868.11
+17226,"Maglioneth, Lord of the Sun",Weke Tower,-0.07,Glowpearl Adamant Of Spirits,211.00,398.09,374.00,83996.99,78914.00,0.00,162910.99
+20804,"Alas, Lord of Plague",The Secret Catacombs of Ulfang the Black,42.90,Sphinxes' Unknown Poisongold Of The Future,234.00,4301.28,23.86,1006499.52,5583.24,435195.59,1447278.35
+21071,Seraphim Tsunami,South Brightcrown Borough,42.25,Djinni's Evil Sandobsidian Steel Of The Future,191.00,4208.60,172.78,803842.60,33000.98,351474.30,1188317.88
+21129,Rouge Roguemist,The Bastion of the Lich Tyrant,52.03,Devils' Falserot Silver,231.00,2220.79,182.71,513002.49,42206.01,288708.42,843916.92
+21449,Beamtrap,Eved Castle,5.09,Phantasmal Tin Of The Swamps,183.00,5964.74,-7.99,1091547.42,-1462.17,54504.26,1144589.51
+21518,Flameflare The Evil,Moor Village,76.43,Planar Rainfate Mithril,91.00,1304.42,320.52,118702.22,29167.32,112380.85,260250.39

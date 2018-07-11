@@ -1,0 +1,15 @@
+962,Bedlam Spiritraven,The Wizard's House,43.58,Hidden Shadowice Lead,214.00,2729.00,-46.75,584006.00,-10004.50,252560.66,826562.16
+4328,Scarechain The Unspeakable,The Fen of the Necromancer,45.10,Succubi's Evil Mindzephyr Adamant Of The Desert,205.00,1990.16,250.07,407982.80,51264.35,206661.22,665908.37
+6106,Shiverflame The Freezer,The Cracked Chalice,2.29,Poison Adamant,119.00,1151.38,58.58,137014.22,6971.02,2879.70,146864.94
+8211,Cult Godseeker,The Khazahol Crags,-1.97,Shadowy Adamant,155.00,618.93,478.58,95934.15,74179.90,-3402.28,166711.77
+9602,Spikespawn,The Tomb of Gothmog of Udun,-3.00,Shadow Steel,298.00,4677.78,465.30,1393978.44,138659.40,-45979.14,1486658.70
+10423,Cinderember,The Forsaken Sepulcher of Sorrows,48.79,Mithril Of Legend,252.00,2274.80,63.01,573249.60,15878.52,288672.78,877800.90
+11249,Rune Rougehate,Lacot Stronghold,37.37,Primordial False Gold,175.00,5395.80,226.00,944265.00,39550.00,364011.55,1347826.55
+11424,Spikecrank,The Bastion of the Lich Tyrant,43.00,God-touched Greengem Platinum,46.00,1281.72,-39.60,58959.12,-1821.60,24569.13,81706.65
+11641,Bronzespawn,The Citadel of Cheno,7.33,Icy Shock Silver,101.00,1482.98,407.00,149780.98,41107.00,13362.16,204250.14
+19374,Snowflame The Evil,The Pirate's Pipe,17.60,Planar Mudtin Of Trolls,99.00,3067.17,405.79,303649.83,40173.21,61888.15,405711.19
+20016,Dawn Darkzealot,Moor Village,76.43,Pearl Mirrorice Steel Of Changelings,167.00,328.53,46.07,54864.51,7693.69,47544.23,110102.43
+20646,Beamtrap,The Secret Catacombs of Ulfang the Black,42.90,Phantasmal Lead,235.00,-608.27,270.02,-142943.45,63454.70,-34180.16,-113668.91
+22143,"Uriel, God of Fate",The Beggar and Cask,25.41,Starlight Pearldream Bronze,224.00,354.31,147.40,79365.44,33017.60,28095.76,140478.80
+22604,"Uriel, God of Fate",Grori's Deep,66.50,Swordbronze,289.00,1485.01,540.88,429167.89,156314.32,386418.26,971900.47
+22664,Chainhorror,The Lost Crypts of Sorrows,35.87,Icy Shock Silver,97.00,1631.28,595.89,158234.16,57801.33,77772.78,293808.27

@@ -1,0 +1,17 @@
+606,Lucky Johnson,NM,2.20,Beechwood,106.00,3.00,5.00,318.00,530.00,16.96,864.96
+752,Cynthia "the Vixen",NM,2.20,Leather,157.00,10.00,15.00,1570.00,2355.00,78.50,4003.50
+1890,Victoria "the Dancer",WY,0.25,Dirt,168.00,0.50,1.00,84.00,168.00,0.00,252.00
+2234,Betty "Happy Thinker" Watson,NM,2.20,Brick,332.00,4.00,5.00,1328.00,1660.00,59.76,3047.76
+2921,Jacqueline "Riding Doc" Washington,WY,0.28,Beechwood,232.00,3.00,5.00,696.00,1160.00,0.00,1856.00
+3740,Vanessa "Scalper" Rhodes,NM,2.20,Brick,105.00,4.00,5.50,420.00,577.50,19.95,1017.45
+5000,Melissa "Lonesome Stalker" Riley,ID,0.00,Packed Dirt,288.00,1.00,1.50,288.00,432.00,0.00,720.00
+5797,Tina "Lady" Anderson,MT,3.00,Packed Dirt,280.00,1.00,1.50,280.00,420.00,21.00,721.00
+9541,Friendly Howell,UT,0.00,Dirt,260.00,0.50,1.00,130.00,260.00,0.00,390.00
+10315,April "Thunderbird" Dunn,MT,3.63,Pinecones,243.00,1.50,2.66,364.50,646.38,40.44,1051.32
+10366,Evelyn "Evil Joker" Taylor,AR,2.20,Packed Dirt,229.00,1.00,1.50,229.00,343.50,11.45,583.95
+10453,Melissa "Lonesome Stalker" Riley,MS,3.00,Pebbles,271.00,0.88,4.84,238.48,1311.64,46.50,1596.62
+12040,April "Thunderbird" Dunn,NV,0.31,Solid Oak,353.00,5.50,5.50,1941.50,1941.50,0.00,3883.00
+14664,Elizabeth "the Bully",AL,1.00,Leather,128.00,11.00,18.15,1408.00,2323.20,37.31,3768.51
+17313,"Doom" McCoy,MO,2.20,Solid Oak,121.00,5.50,6.66,665.50,805.86,29.43,1500.79
+17373,Florence "Leather Doc" Grant,MT,3.99,Pebbles,263.00,0.88,4.84,231.44,1272.92,60.17,1564.53
+20384,Dorothy "the Hunter",IA,1.33,Solid Oak,333.00,5.50,6.66,1831.50,2217.78,40.49,4089.77

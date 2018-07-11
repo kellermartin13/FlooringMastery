@@ -1,0 +1,15 @@
+1485,Beth "Fortunate Shooter" Powell,NM,2.20,Reeds,243.00,0.75,2.00,182.25,486.00,13.36,681.61
+2251,Gloria "Devil" McCoy,WY,0.25,Leather,113.00,10.00,16.50,1130.00,1864.50,0.00,2994.50
+2436,Heather "Tornado" Newman,CA,0.50,Packed Dirt,65.00,1.00,1.50,65.00,97.50,0.00,162.50
+4066,Debra "Scorpion" Lane,AR,2.20,Beechwood,128.00,3.00,5.00,384.00,640.00,20.48,1044.48
+5172,Stella "the Bully",AL,1.00,Packed Dirt,255.00,1.00,1.50,255.00,382.50,6.38,643.88
+7819,Tina "Lady" Anderson,ID,0.00,Reeds,304.00,0.75,2.20,228.00,668.80,0.00,896.80
+7837,Cynthia "the Vixen",WY,0.31,Leather,208.00,10.00,18.15,2080.00,3775.20,0.00,5855.20
+9905,Friendly Howell,MS,3.00,Dirt,66.00,0.50,1.00,33.00,66.00,2.97,101.97
+12017,Evelyn "Evil Joker" Taylor,UT,0.00,Dirt,308.00,0.50,1.00,154.00,308.00,0.00,462.00
+12283,Deborah "the Lady",MT,3.63,Reeds,47.00,0.75,2.20,35.25,103.40,5.55,144.20
+13243,Marie "Raven" Chapman,IA,1.21,Dirt,244.00,0.50,1.00,122.00,244.00,3.66,369.66
+13502,Vengeful Montgomery,AL,1.00,Leather,164.00,11.00,18.15,1804.00,2976.60,47.81,4828.41
+19617,Joanne "Damned" Miles,MS,3.00,Dirt,303.00,0.50,1.00,151.50,303.00,13.64,468.14
+19678,Allison "Steel Gravedigger" Douglas,MO,2.20,Reeds,202.00,0.83,2.20,167.66,444.40,12.24,624.30
+21347,Geraldine "Revenge" Warren,MO,2.20,Solid Oak,212.00,5.50,6.66,1166.00,1411.92,51.56,2629.48

@@ -1,0 +1,20 @@
+1443,"Avriel, God of Death",The Beggar and Cask,21.00,Trolls' Mist Poisonplatinum Of The Twilight,336.00,516.17,394.90,173433.12,132686.40,64285.10,370404.62
+3647,Graveterror,Lacot Stronghold,30.88,Litches' Fatal Mithril Of The Past,391.00,1207.25,335.50,472034.75,131180.50,186996.73,790211.98
+4051,Graveterror,The Secret Shrine of the Gargoyle Count,-2.00,Plague Tin,185.00,4333.65,342.10,801725.25,63288.50,-17300.28,847713.47
+4461,Magus Felldrake,The Wizard's House,43.58,Sphinxes' Mistsoul Bronze Of The Past,176.00,1793.23,183.70,315608.48,32331.20,153093.46,501033.14
+4523,Evilcoil The Machine,Boiaburh Keep,16.00,Sirens' Rockgold,242.00,-352.01,165.25,-85186.42,39990.50,-7231.35,-52427.27
+6046,Wind Dire,The Tower of Aramum,39.00,Icy Shock Silver,214.00,1348.16,407.00,288506.24,87098.00,146485.65,522089.89
+8405,"Iran, Lord of Nightmares",The Bastion of the Lich Tyrant,43.00,Djinni's Spectral Shadowlead Of Life,71.00,3705.90,296.02,263118.90,21017.42,122178.62,406314.94
+9107,"Penur, Lord of the Sea",The Beggar and Cask,23.10,Primordial Plague Mercury Of Legend,136.00,452.29,301.29,61511.44,40975.44,23571.98,126058.86
+12988,Evilbrood,South Brightcrown Borough,42.25,Mistgold Of Men,166.00,3372.28,53.24,559798.48,8837.84,238827.25,807463.57
+15426,Dawn Darkzealot,Cawold Castle,24.09,Plague Tin,85.00,4767.02,342.10,405196.70,29078.50,104226.05,538501.25
+15692,Lightning Brand,Lamp Borough,4.95,God-touched Faterainbow Orichalcum Of Spectres,288.00,370.41,32.01,106678.08,9218.88,5794.85,121691.81
+16585,Tiger Mistmidnight,Boiaburh Keep,16.00,Shadowhell Mithril,178.00,483.15,315.05,86000.70,56078.90,22732.74,164812.34
+17834,"Byzou, God of Animals",North Arcanist's Farthing,55.18,Undeads' Mind Orichalcum Of The Twilight,214.00,-17.00,276.00,-3638.00,59064.00,30484.30,85910.30
+18600,Spikerivet,The Bastion of Barbos,28.34,Primordial Plague Mercury Of Legend,76.00,497.52,301.29,37811.52,22898.04,16998.68,77708.24
+19291,Lance Knightseraph,The Citadel of Tattena the Sinister,13.34,Unicorns' Evil Mithril,166.00,4802.49,377.52,797213.34,62668.32,111784.62,971666.28
+20003,"Gadriel, God of Resurrection",The Tomb of Hellish Ruin,16.94,Rainbowglitter Tin,217.00,5957.39,213.40,1292753.63,46307.80,227640.44,1566701.87
+20017,Icechill The Frigid,Moor Village,76.43,Angels' Smoke Adamant Of The Mountains,155.00,3427.13,260.15,531205.15,40323.25,434361.58,1005889.98
+20593,Spikecrank,The Dark Caverns of Woe,3.29,Unspeakable Rotsoul Mithril Of Souls,108.00,272.80,485.85,29462.40,52471.80,2458.03,84392.23
+22366,"Uriel, God of Fate",The Bastion of the Lich Tyrant,52.03,Ensorceled Gold Of The Dawn,381.00,6913.92,443.21,2634203.52,168863.01,1457594.60,4260661.13
+22605,Fate Ivycaster,Grori's Deep,66.50,Incubi's Glittering Tin Of The Future,176.00,3349.54,96.64,589519.04,17008.64,400308.27,1006835.95

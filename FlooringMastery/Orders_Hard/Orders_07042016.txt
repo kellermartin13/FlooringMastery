@@ -1,0 +1,16 @@
+3731,Lightning Brand,Gifeld Castle,6.22,Incubi's Iron Of The Dawn,201.00,1200.96,385.74,241392.96,77533.74,19135.60,338062.30
+3974,Springpulley The Binder,The Wizard's House,43.58,Incubi's Iron Of The Dawn,342.00,1200.96,385.74,410728.32,131923.08,238766.62,781418.02
+6090,Spikesnare,The Shadow Downs,13.21,God-touched Greengem Platinum,273.00,1281.72,-36.00,349909.56,-9828.00,44210.60,384292.16
+6727,Shadow Tomblion,The Tower of Aces the Accursed,13.31,Unknown Fatelightning Steel Of The Glacier,28.00,2017.40,54.28,56487.20,1519.84,7540.92,65547.96
+7231,Bane Veil,The Lost Crypts of Sorrows,35.87,Poison Adamant,349.00,1151.38,58.58,401831.62,20444.42,152019.37,574295.41
+8639,Cinderember,The Barrow of Terrible Horror,-1.21,Unknowable Mindsilver,209.00,3565.00,366.00,745085.00,76494.00,-8215.79,813363.21
+10877,Maverick Wind,Gili's Delve,-5.56,Emerald Orichalcum,291.00,-368.87,128.90,-107341.17,37509.90,4189.88,-65641.39
+13890,Jericho Wolf,The Greedy Wench,32.70,Ghostly Soul Adamant,177.00,3222.96,229.53,570463.92,40626.81,201659.94,812750.67
+14352,Fate Seeker,Pewold Keep,20.52,Pearl Mirrorice Steel Of Changelings,302.00,298.66,41.88,90195.32,12647.76,21597.05,124440.13
+14858,Nailpiston The Grasping,The Cuitamba Jungle,30.80,Shadow Steel,109.00,5660.12,511.83,616953.08,55789.47,208550.19,881292.74
+15305,Lord Mystery,The Tower of Sabiesu the Awesome,5.32,Plague Tin,328.00,4767.02,342.10,1563582.56,112208.80,83789.57,1759580.93
+16648,Flameflare The Evil,The Forsaken Tomb of Devastation,0.00,Shadowhell Mithril,181.00,483.15,315.05,87450.15,57024.05,0.00,144474.20
+18989,Fate Seeker,The Barrow of Malefic Ages,19.70,Starlight Pearldream Bronze,199.00,322.10,147.40,64097.90,29332.60,18686.10,112116.60
+21056,Gravebone,The Black Barrow of Bery,-0.10,Hell Mercury Of The East,201.00,4636.34,378.81,931904.34,76140.81,0.00,1008045.15
+21591,Chillfire The Chiller,Peley Keep,26.33,Hidden Shadowice Lead,254.00,2729.00,-62.23,693166.00,-15806.42,176113.49,853473.07
+22800,Graveterror,Grori's Deep,66.50,Legendary Mithril Of The Moon,103.00,3603.15,152.26,371124.45,15682.78,255292.77,642100.00

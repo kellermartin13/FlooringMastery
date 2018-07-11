@@ -1,0 +1,12 @@
+710,Theresa "Scalphunter" Romero,NV,0.25,Leather,68.00,10.00,15.00,680.00,1020.00,0.00,1700.00
+3678,Michele Watson "the Loner",MS,3.00,Beechwood,215.00,3.00,5.00,645.00,1075.00,51.60,1771.60
+5929,Renee "Loco Tracker" Jordan,TX,0.50,Leather,319.00,10.00,18.15,3190.00,5789.85,0.00,8979.85
+6221,Diana "Mistress" Morgan,ID,0.00,Solid Oak,171.00,5.50,5.50,940.50,940.50,0.00,1881.00
+6686,Joanne "Damned" Miles,ID,0.00,Reeds,312.00,0.75,2.20,234.00,686.40,0.00,920.40
+8399,Vanessa "Scalper" Rhodes,NM,2.20,Solid Oak,255.00,5.50,5.50,1402.50,1402.50,56.10,2861.10
+10086,Allison "Steel Gravedigger" Douglas,AL,1.00,Reeds,204.00,0.75,2.20,153.00,448.80,6.02,607.82
+13775,Melissa "Lonesome Stalker" Riley,MO,2.20,Pinecones,231.00,1.50,2.66,346.50,614.46,19.22,980.18
+14991,Deborah "the Lady",ND,1.38,Reeds,325.00,0.83,2.20,269.75,715.00,9.85,994.60
+20552,Lorraine "Utah" Adams,NV,0.31,Beechwood,108.00,3.63,6.05,392.04,653.40,0.00,1045.44
+20875,Heather "Tornado" Newman,NV,0.31,Leather,266.00,11.00,19.97,2926.00,5312.02,0.00,8238.02
+23052,"Bane" Jennings,MS,3.00,Leather,338.00,11.00,19.97,3718.00,6749.86,314.04,10781.90

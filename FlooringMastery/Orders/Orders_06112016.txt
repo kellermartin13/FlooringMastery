@@ -1,0 +1,16 @@
+690,Vanessa "Scalper" Rhodes,MO,2.20,Cedar Planks,138.00,2.00,5.00,276.00,690.00,19.32,985.32
+2722,Mattie Grant "the Gambler",NM,2.20,Packed Dirt,181.00,1.00,1.50,181.00,271.50,9.05,461.55
+4432,Susan "Damnation" Fleming,MO,2.20,Cedar Planks,77.00,2.00,5.50,154.00,423.50,11.55,589.05
+4865,Dorothy "the Hunter",ND,1.25,Cedar Planks,153.00,2.00,5.50,306.00,841.50,11.48,1158.98
+4890,Vanessa "Scalper" Rhodes,OK,2.00,Beechwood,247.00,3.00,5.00,741.00,1235.00,39.52,2015.52
+7523,Helen Webb "the Dancer",CA,0.55,Dirt,220.00,0.50,1.00,110.00,220.00,3.30,333.30
+11402,Geraldine "Revenge" Warren,ND,1.38,Dirt,242.00,0.50,1.00,121.00,242.00,3.63,366.63
+14655,Tina "Lady" Anderson,CA,0.61,Brick,133.00,5.32,6.66,707.56,885.78,15.93,1609.27
+15312,Darlene "Loner" Ford,MT,3.99,Pinecones,322.00,1.50,2.66,483.00,856.52,53.58,1393.10
+15622,Renee "Hellish Empress" Banks,AL,1.00,Pebbles,140.00,0.88,4.84,123.20,677.60,8.01,808.81
+16061,Vicki "Mesa" Rhodes,AL,1.00,Pinecones,286.00,1.50,2.66,429.00,760.76,11.90,1201.66
+19034,Kathy Murphy "the Thinker",MS,3.00,Packed Dirt,185.00,1.10,2.20,203.50,407.00,18.32,628.82
+19424,Black Beck,MT,3.99,Reeds,158.00,0.83,2.20,131.14,347.60,19.15,497.89
+20128,Ida Russell "the Rustler",OK,2.66,Pebbles,154.00,0.88,4.84,135.52,745.36,26.43,907.31
+21293,Evelyn "Evil Joker" Taylor,AR,2.20,Pinecones,278.00,1.50,2.66,417.00,739.48,23.13,1179.61
+22995,Dorothy "the Hunter",WY,0.34,Reeds,151.00,0.91,2.42,137.41,365.42,0.00,502.83

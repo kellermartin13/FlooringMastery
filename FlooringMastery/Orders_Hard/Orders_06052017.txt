@@ -1,0 +1,14 @@
+250,Deathspike The Terrifying,The Demon and Toad,23.75,Venom Timegold Of Dwarves,268.00,3036.00,269.00,813648.00,72092.00,212577.60,1098317.60
+1280,Evilbrood,Reyny Keep,11.00,Dragons' Poison Glitterflesh Steel Of The North,161.00,2790.70,216.48,449302.70,34853.28,53257.16,537413.14
+1769,Cinderember,The Tower of Aces the Accursed,12.10,Starlight Pearldream Bronze,251.00,242.00,134.00,60742.00,33634.00,11325.12,105701.12
+3040,Harmony Angelchild,The Bastion of the Vampire Duke,19.28,Shadowhell Mithril,244.00,363.00,260.37,88572.00,63530.28,28899.43,181001.71
+3672,Flameshiver,The Bastion of the Lich Tyrant,43.00,Planar Mudtin Of Trolls,138.00,2304.41,335.36,318008.58,46279.68,156643.95,520932.21
+4492,Nettool The Grasping,The Pilgrim's Cup,41.93,Otherworldly Mirror Orichalcum,329.00,-247.00,478.50,-81263.00,157426.50,31988.67,108152.17
+5481,Snarepiston The Mechanical,Unicorn's Ward,13.31,White Platinum,344.00,-52.59,145.00,-18090.96,49880.00,4132.58,35921.62
+5733,Claw Mist,Bergfison's Deep,36.00,Stone Soulsteel Of The Skies,191.00,1798.28,13.21,343471.48,2523.11,124558.05,470552.64
+8779,"Gadriel, God of Resurrection",Moor Village,57.42,Negative Rockglitter Mercury Of Trolls,86.00,1483.90,465.38,127615.40,40022.68,95553.71,263191.79
+15590,Flameshiver,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,134.00,4076.49,325.62,546249.66,43633.08,29494.14,619376.88
+17806,Jericho Wolf,The Cracked Chalice,2.52,Sphinxes' Mistsoul Bronze Of The Past,239.00,2169.81,222.28,518584.59,53124.92,17151.29,588860.80
+19893,Claw Mist,Grori's Deep,66.50,Djinni's Mind Fogiron,285.00,2531.12,98.52,721369.20,28078.20,494635.28,1244082.68
+20795,Spikespawn,South Brightcrown Borough,42.25,Negative Rockglitter Mercury Of Trolls,174.00,1795.52,681.36,312420.48,118556.64,181010.39,611987.51
+22247,Sephiroth Drakecaster,The Forsaken Tomb of Devastation,0.00,Magicians' Legendary Poison Metal,218.00,2991.55,252.79,652157.90,55108.22,0.00,707266.12

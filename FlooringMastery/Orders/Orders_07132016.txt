@@ -1,0 +1,18 @@
+856,Susan "Damnation" Fleming,KS,0.50,Cedar Planks,284.00,2.00,5.00,568.00,1420.00,0.00,1988.00
+2980,Lucky Johnson,KS,0.50,Reeds,140.00,0.75,2.00,105.00,280.00,0.00,385.00
+3938,Geraldine "Revenge" Warren,UT,0.00,Beechwood,231.00,3.00,5.00,693.00,1155.00,0.00,1848.00
+4523,Black Beck,NM,2.20,Brick,215.00,4.40,5.50,946.00,1182.50,42.57,2171.07
+4617,Helen Webb "the Dancer",MT,3.00,Cedar Planks,257.00,2.00,5.50,514.00,1413.50,57.82,1985.32
+5144,Jo "the Joker",ND,1.25,Cedar Planks,204.00,2.00,5.50,408.00,1122.00,15.30,1545.30
+5740,Gladys "Locoweed" Keller,IA,1.21,Brick,180.00,4.84,6.66,871.20,1198.80,20.70,2090.70
+6311,"Sunrise" Miles,MO,2.20,Leather,68.00,10.00,18.15,680.00,1234.20,38.28,1952.48
+6411,Black Beck,AR,2.20,Pebbles,92.00,0.80,4.84,73.60,445.28,10.38,529.26
+8252,Cynthia "the Vixen",ID,0.00,Brick,277.00,4.84,6.66,1340.68,1844.82,0.00,3185.50
+8455,Geraldine "Revenge" Warren,AR,2.20,Dirt,135.00,0.50,1.00,67.50,135.00,4.05,206.55
+8652,Geraldine "Revenge" Warren,UT,0.00,Dirt,77.00,0.50,1.00,38.50,77.00,0.00,115.50
+12515,Victoria "the Dancer",NV,0.31,Leather,123.00,11.00,18.15,1353.00,2232.45,0.00,3585.45
+12562,Heather "Friendly Gambler" Barrett,NM,2.42,Cedar Planks,189.00,2.20,6.05,415.80,1143.45,31.18,1590.43
+13232,Marie "Raven" Chapman,WY,0.31,Pebbles,265.00,0.88,4.84,233.20,1282.60,0.00,1515.80
+16965,Kathy Murphy "the Thinker",WY,0.31,Dirt,148.00,0.50,1.00,74.00,148.00,0.00,222.00
+17265,Ida Russell "the Rustler",ID,0.00,Pebbles,129.00,0.88,4.84,113.52,624.36,0.00,737.88
+23106,"Scalphunter" Kennedy,AL,1.00,Packed Dirt,300.00,1.10,2.42,330.00,726.00,10.56,1066.56

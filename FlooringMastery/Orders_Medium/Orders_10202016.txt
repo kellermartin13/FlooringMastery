@@ -1,0 +1,15 @@
+2729,Ida Russell "the Rustler",NV,0.25,Brick,140.00,4.00,5.50,560.00,770.00,0.00,1330.00
+4199,"Bane" Jennings,AR,2.20,Pinecones,276.00,1.50,2.42,414.00,667.92,21.64,1103.56
+6335,Melissa "Lonesome Stalker" Riley,ND,1.25,Reeds,231.00,0.75,2.20,173.25,508.20,6.81,688.26
+7730,Vanessa "Scalper" Rhodes,IA,1.21,Pebbles,109.00,0.80,4.84,87.20,527.56,6.15,620.91
+9876,Friendly Howell,MT,3.63,Pebbles,124.00,0.88,4.84,109.12,600.16,28.37,737.65
+11045,Allison "Steel Gravedigger" Douglas,TX,0.67,Solid Oak,231.00,5.50,5.50,1270.50,1270.50,25.41,2566.41
+11756,Mabel "Vixen Cursed" King,ND,1.38,Cedar Planks,159.00,2.20,6.05,349.80,961.95,13.12,1324.87
+13656,Jacqueline "Riding Doc" Washington,MO,2.20,Pebbles,120.00,0.88,4.84,105.60,580.80,13.73,700.13
+13932,Michele Watson "the Loner",NM,2.42,Brick,132.00,5.32,6.66,702.24,879.12,31.63,1612.99
+15818,Renee "Loco Tracker" Jordan,NM,2.66,Solid Oak,193.00,5.50,6.05,1061.50,1167.65,66.87,2296.02
+16445,Victoria "the Dancer",MT,3.99,Pebbles,340.00,0.88,4.84,299.20,1645.60,77.79,2022.59
+16583,Theresa "Scalphunter" Romero,NM,2.66,Cedar Planks,145.00,2.20,6.05,319.00,877.25,35.89,1232.14
+18656,Lucky Johnson,ND,1.67,Dirt,157.00,0.50,1.00,78.50,157.00,4.71,240.21
+22153,Beth "Fortunate Shooter" Powell,NM,2.93,Cedar Planks,118.00,2.20,6.66,259.60,785.88,31.36,1076.84
+23264,Gloria "Devil" McCoy,ND,1.67,Dirt,165.00,0.55,1.00,90.75,165.00,5.12,260.87

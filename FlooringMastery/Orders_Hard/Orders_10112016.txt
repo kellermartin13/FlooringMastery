@@ -1,0 +1,24 @@
+143,"Addon, Lord of Death",Gena's Hold,2.00,Incubi's Iron Of The Dawn,268.00,1091.78,385.74,292597.04,103378.32,7919.51,403894.87
+182,Gravebone,Waleah Castle,0.77,Green Dustlightning Mercury,205.00,3517.00,32.00,720985.00,6560.00,7275.45,734820.45
+603,"Ariel, God of Luck",The Citadel of Cheno,5.00,Ghostly Magic Adamant,142.00,3997.01,230.90,567575.42,32787.80,30018.16,630381.38
+1174,Gravebone,The Broken Shield,37.23,Primordial False Gold,79.00,4459.34,226.00,352287.86,17854.00,136952.49,507094.35
+1210,"Maglioneth, Lord of the Sun",Boiaburh Keep,16.00,Sapphire Mindlead,168.00,1307.71,47.00,219695.28,7896.00,36414.60,264005.88
+4542,Valentine Lawslayer,Minas Gilloy,39.26,Negative Rockglitter Mercury Of Trolls,68.00,1483.90,423.07,100905.20,28768.76,50572.84,180246.80
+5392,Evilbrood,The Black Barrow of Zago the Possessed,28.00,Magic Adamant,260.00,1838.00,188.76,477880.00,49077.60,147548.13,674505.73
+5825,Bronzespike,The Archer and Blade,9.00,Mithril Of The Tropics,305.00,3751.00,9.00,1144055.00,2745.00,103212.00,1250012.00
+8442,"Iran, Lord of Nightmares",Gili's Delve,-5.05,Primordial Mud Orichalcum,146.00,-387.90,77.37,-56633.40,11296.02,2266.87,-43070.51
+9679,Harmony Angelchild,The Secret Catacombs of Ulfang the Black,42.90,Emerald Orichalcum,71.00,-368.87,128.90,-26189.77,9151.90,-7326.28,-24364.15
+9733,Wheelspawn,Haukri's Hold,25.30,Emerald Orichalcum,292.00,-368.87,128.90,-107710.04,37638.80,-17517.81,-87589.05
+10633,"Gono, Goddess of the Earth",The Fortress of Gama,10.16,Glowpearl Adamant Of Spirits,136.00,398.09,374.00,54140.24,50864.00,10500.42,115504.66
+10819,"Azah, Goddess of Fate",The Demon and Toad,23.75,Magicians' Legendary Poison Metal,258.00,2472.35,229.81,637866.30,59290.98,167317.75,864475.03
+11854,Sunrise Godwarlock,South Brightcrown Borough,42.25,Icy Shock Silver,305.00,1482.98,407.00,452308.90,124135.00,242106.44,818550.34
+12403,"Suriel, Lord of Animals",Castle Village,37.51,Incubi's Iron Of The Dawn,159.00,1200.96,424.31,190952.64,67465.29,98198.81,356616.74
+12935,"Alik, Goddess of Trickery",The Nulukkhath Spires,10.59,Nymphs' Luminous Rotmercury Of The Skies,212.00,292.60,189.00,62031.20,40068.00,11230.91,113330.11
+13766,Blazefreeze The Chiller,Tradun Castle,37.66,Plague Tin,227.00,4767.02,342.10,1082113.54,77656.70,440712.69,1600482.93
+14027,Bane Veil,Gili's Delve,-6.73,Sphinxes' Mistsoul Bronze Of The Past,138.00,2169.81,202.07,299433.78,27885.66,-22912.36,304407.08
+14462,Gale Jackalguard,The Tower of Aramum,42.90,Swordbronze,130.00,1485.01,447.01,193051.30,58111.30,107999.92,359162.52
+14509,Lord Mystery,The Archer and Blade,9.90,Swordbronze,319.00,1485.01,447.01,473718.19,142596.19,61631.44,677945.82
+18751,Lance Knightseraph,The Demon and Toad,28.74,Ensorceled Sandmetal Of Spirits,187.00,2956.98,95.70,552955.26,17895.90,165546.84,736398.00
+18821,Lord Mystery,The Forsaken Sepulcher of Sorrows,53.67,Lunar Bronze,259.00,829.25,337.70,214775.75,87464.30,163209.63,465449.68
+19667,Wheelspawn,The Khazahol Crags,-2.17,Sirens' Rockgold,388.00,-352.01,199.96,-136579.88,77584.48,1179.91,-57815.49
+23151,Lord Mystery,The Lazy Sage,19.97,Incubi's Glittering Tin Of The Future,142.00,3349.54,96.64,475634.68,13722.88,97871.51,587229.07

@@ -1,0 +1,16 @@
+4319,Black Beck,IA,1.10,Solid Oak,213.00,5.50,5.50,1171.50,1171.50,23.43,2366.43
+4584,Melissa "Lonesome Stalker" Riley,NV,0.25,Packed Dirt,185.00,1.00,1.50,185.00,277.50,0.00,462.50
+5378,Stella "the Bully",CA,0.55,Cedar Planks,209.00,2.00,5.50,418.00,1149.50,15.68,1583.18
+8642,Betty "Happy Thinker" Watson,OK,2.20,Dirt,189.00,0.50,1.00,94.50,189.00,5.67,289.17
+11864,Vengeful Montgomery,ID,0.00,Pinecones,212.00,1.50,2.66,318.00,563.92,0.00,881.92
+13252,Michele Watson "the Loner",MO,2.20,Cedar Planks,171.00,2.20,6.05,376.20,1034.55,28.22,1438.97
+15947,Gloria "Devil" McCoy,ND,1.38,Packed Dirt,222.00,1.10,2.20,244.20,488.40,7.33,739.93
+16589,Lucky Johnson,ND,1.38,Pinecones,226.00,1.50,2.66,339.00,601.16,9.40,949.56
+16807,Wilma "Tornado" Brooks,MS,3.00,Packed Dirt,169.00,1.10,2.20,185.90,371.80,16.73,574.43
+17732,Diana "Mistress" Morgan,UT,0.00,Solid Oak,80.00,5.50,6.66,440.00,532.80,0.00,972.80
+19775,Betty "Happy Thinker" Watson,NV,0.31,Reeds,207.00,0.83,2.20,171.81,455.40,0.00,627.21
+20530,Beth "Fortunate Shooter" Powell,KS,0.55,Beechwood,121.00,3.63,6.05,439.23,732.05,11.71,1182.99
+20864,Helen Webb "the Dancer",AR,2.20,Packed Dirt,269.00,1.10,2.42,295.90,650.98,18.94,965.82
+21509,Victoria "the Dancer",MT,5.31,Beechwood,152.00,3.63,6.05,551.76,919.60,73.57,1544.93
+21818,Heather "Tornado" Newman,NM,2.93,Packed Dirt,269.00,1.10,2.42,295.90,650.98,28.41,975.29
+22463,Geraldine "Revenge" Warren,UT,0.00,Leather,218.00,11.00,19.97,2398.00,4353.46,0.00,6751.46

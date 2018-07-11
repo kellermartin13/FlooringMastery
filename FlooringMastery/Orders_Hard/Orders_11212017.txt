@@ -1,0 +1,17 @@
+6105,Burnchill The Evil,The Dark Caverns of Woe,3.29,Tritons' Time Stoneiron Of Legend,38.00,1760.00,168.90,66880.00,6418.20,2198.95,75497.15
+7123,Claw Mist,Barad Kesa,4.32,Angels' Smoke Adamant Of The Mountains,329.00,2832.34,215.00,931839.86,70735.00,40102.99,1042677.85
+8172,Nailpiston The Grasping,Minas Gilloy,39.26,Negative Rockglitter Mercury Of Trolls,175.00,1483.90,423.07,259682.50,74037.25,130150.70,463870.45
+8574,Rouge Roguemist,The Forsaken Tomb of Devastation,0.00,Djinni's Spectral Shadowlead Of Life,376.00,3705.90,296.02,1393418.40,111303.52,0.00,1504721.92
+10044,"Prusu, God of Love",The Chuallanto Jungle,37.00,Pearl Mirrorice Steel Of Changelings,125.00,271.51,38.07,33938.75,4758.75,14318.08,53015.58
+12098,Flora Amberslayer,Shainan's Hold,23.96,Heavenly Dreamsilver Of The Night,162.00,2009.68,112.00,325568.16,18144.00,82490.92,426203.08
+12909,Scarechain The Unspeakable,The Wizard's House,43.58,Imperial Fate Steel,89.00,2993.93,-44.92,266459.77,-3997.88,115483.23,377945.12
+13686,Burnfreeze The Cold,The Pilgrim's Cup,46.12,Meteoric Dustzephyr Orichalcum,105.00,375.00,268.49,39375.00,28191.45,31080.57,98647.02
+14026,Grave Mistseeker,Tradun Castle,37.66,Shadowy Adamant,180.00,618.93,526.44,111407.40,94759.20,78343.31,284509.91
+14211,"Byzou, God of Animals",Lamp Borough,4.95,Tritons' Time Stoneiron Of Legend,143.00,1760.00,204.37,251680.00,29224.91,14045.25,294950.16
+14695,Rouge Roguemist,Barad Kesa,4.75,Unicorns' Evil Mithril,112.00,4802.49,377.52,537878.88,42282.24,29008.06,609169.18
+15326,Burnbrood The Freezer,The Fortress of Asmamur,-4.93,Rainbowglitter Tin,344.00,5957.39,213.40,2049342.16,73409.60,-106137.59,2016614.17
+17760,Cult Godseeker,Weke Tower,-0.07,Hidden Shadowice Lead,328.00,2729.00,-62.23,895112.00,-20411.44,0.00,874700.56
+18031,Fate Ivycaster,Archfane District,36.16,Poison Adamant,165.00,1266.52,64.44,208975.80,10632.60,79059.02,298667.42
+21023,"Alik, Goddess of Trickery",The Hunter and Rose,44.44,Forgotten Mithril,39.00,1215.20,347.60,47392.80,13556.40,26817.65,87766.85
+21515,Rouge Tombreaper,The Warrior and Flagon,53.24,God-touched Faterainbow Orichalcum Of Spectres,323.00,370.41,35.21,119642.43,11372.83,69438.09,200453.35
+22964,Seraphim Tsunami,Hafeld Keep,46.71,Pearl Mirrorice Steel Of Changelings,183.00,328.53,55.75,60120.99,10202.25,33051.92,103375.16

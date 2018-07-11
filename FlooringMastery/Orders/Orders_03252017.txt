@@ -1,0 +1,13 @@
+895,Debra "Scorpion" Lane,OK,2.00,Solid Oak,201.00,5.00,5.00,1005.00,1005.00,40.20,2050.20
+2221,Amanda Hart "the Loner",MT,3.00,Brick,333.00,4.00,5.00,1332.00,1665.00,89.91,3086.91
+2448,Victoria "the Dancer",NM,2.20,Pebbles,54.00,0.80,4.40,43.20,237.60,5.62,286.42
+3118,"Scalphunter" Kennedy,NV,0.25,Cedar Planks,169.00,2.00,5.50,338.00,929.50,0.00,1267.50
+7369,Debra "Scorpion" Lane,MT,3.30,Leather,222.00,10.00,18.15,2220.00,4029.30,187.48,6436.78
+8021,Debra "Scorpion" Lane,CA,0.55,Solid Oak,152.00,5.50,5.50,836.00,836.00,16.72,1688.72
+11344,Mabel "Vixen Cursed" King,OK,2.42,Leather,179.00,10.00,18.15,1790.00,3248.85,100.78,5139.63
+11788,Joanne "Damned" Miles,CA,0.61,Pinecones,245.00,1.50,2.66,367.50,651.70,10.19,1029.39
+13354,Julia "Bandit" Chandler,NM,2.42,Brick,382.00,5.32,6.66,2032.24,2544.12,91.53,4667.89
+13622,"Scalphunter" Kennedy,MO,2.20,Brick,201.00,5.32,6.66,1069.32,1338.66,48.16,2456.14
+16310,Amanda Hart "the Loner",AR,2.20,Leather,149.00,11.00,19.97,1639.00,2975.53,92.29,4706.82
+22499,Jo "the Joker",WY,0.34,Leather,238.00,11.00,19.97,2618.00,4752.86,0.00,7370.86
+22785,Jacqueline "Riding Doc" Washington,ND,1.67,Beechwood,28.00,3.63,6.05,101.64,169.40,5.42,276.46

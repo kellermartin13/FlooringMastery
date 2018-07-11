@@ -1,0 +1,12 @@
+997,Julia "Bandit" Chandler,MS,3.00,Cedar Planks,186.00,2.00,5.00,372.00,930.00,39.06,1341.06
+2284,Stella "the Bully",ID,0.00,Cedar Planks,123.00,2.00,5.50,246.00,676.50,0.00,922.50
+2288,Diana "Mistress" Morgan,AR,2.20,Dirt,234.00,0.50,1.00,117.00,234.00,7.02,358.02
+8114,Susan "Damnation" Fleming,ND,1.25,Dirt,155.00,0.50,1.00,77.50,155.00,2.32,234.82
+9185,Kathy Murphy "the Thinker",WY,0.31,Dirt,265.00,0.50,1.00,132.50,265.00,0.00,397.50
+11198,Renee "Loco Tracker" Jordan,AL,1.00,Leather,264.00,10.00,18.15,2640.00,4791.60,74.32,7505.92
+11686,Minnie Lawson "the Apostle",NM,2.20,Packed Dirt,247.00,1.00,1.65,247.00,407.55,13.09,667.64
+12395,Minnie Lawson "the Apostle",WY,0.31,Beechwood,151.00,3.30,5.50,498.30,830.50,0.00,1328.80
+12471,Allison "Steel Gravedigger" Douglas,IA,1.21,Packed Dirt,46.00,1.00,1.65,46.00,75.90,1.22,123.12
+18797,Julia "Bandit" Chandler,IA,1.33,Dirt,274.00,0.50,1.00,137.00,274.00,4.11,415.11
+20573,Evelyn "Evil Joker" Taylor,AR,2.20,Pinecones,213.00,1.50,2.66,319.50,566.58,17.72,903.80
+22400,Vicki "Mesa" Rhodes,UT,0.00,Beechwood,276.00,3.63,6.05,1001.88,1669.80,0.00,2671.68

@@ -1,0 +1,18 @@
+80,Bronzespawn,The Fortress of Asmamur,-4.48,Shadowhell Mithril,349.00,363.00,215.18,126687.00,75097.82,-8071.39,193713.43
+1507,Bedlam Spiritraven,The Tomb of Hellish Ruin,14.00,Starlight Pearldream Bronze,259.00,242.00,134.00,62678.00,34706.00,13633.76,111017.76
+2086,Rose Anchor,The Forsaken Tomb of Devastation,0.00,Spirits' Living Wordhammer Tin Of The Trees,188.00,4343.00,26.40,816484.00,4963.20,0.00,821447.20
+4249,Gravebone The Unspeakable,Boiaburh Keep,16.00,Negative Rockglitter Mercury Of Trolls,229.00,1483.90,423.07,339813.10,96883.03,69871.38,506567.51
+7272,Rouge Tombreaper,Tradun Castle,34.24,Rot Silver Of The Past,284.00,3440.00,327.00,976960.00,92868.00,363741.52,1433569.52
+8099,Sunrise Godwarlock,The Tower of Aces the Accursed,13.31,Meteoric Mirrormuck Orichalcum Of The Forests,239.00,2158.20,185.77,515809.80,44399.03,72827.15,633035.98
+8271,Ironbrood,Tradun Castle,34.24,Negative Rockglitter Mercury Of Trolls,98.00,1483.90,423.07,145422.20,41460.86,63540.24,250423.30
+8965,Terrorghoul The Unspeakable,The Pirate's Pipe,17.60,Ensorceled Gold Of The Dawn,273.00,5713.98,402.92,1559916.54,109997.16,300584.47,1970498.17
+9468,Sephiroth Drakecaster,Lamp Borough,4.95,Spectres' Shadowy Terrorglow Adamant Of Life,370.00,4694.80,205.50,1737076.00,76035.00,90655.55,1903766.55
+10040,"Melcha, Goddess of Thieves",The Citadel of Lord Greywulf,33.04,Meteoric Dustzephyr Orichalcum,281.00,375.00,244.08,105375.00,68586.48,57407.29,231368.77
+11515,Tarot Dawn,Archring Borough,17.93,Timeiron,219.00,1596.00,228.33,349524.00,50004.27,71915.09,471443.36
+13100,Magus Felldrake,The Dread Hive of Illfang the Kobold Lord,1.46,Imperial Fate Steel,136.00,2993.93,-44.92,407174.48,-6109.12,4010.65,405076.01
+13955,"Byzou, God of Animals",The Greedy Wench,32.70,Sphinxes' Mistsoul Bronze Of The Past,245.00,2169.81,202.07,531603.45,49507.15,191766.50,772877.10
+15445,"Penur, Lord of the Sea",Barad Kesa,4.75,Primordial False Gold,282.00,5395.80,248.60,1521615.60,70105.20,79586.04,1671306.84
+17654,Lance Knightseraph,North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,109.00,2169.81,222.28,236509.29,24228.52,143405.80,404143.61
+18713,Lightning Brand,The Tomb of Hellish Ruin,16.94,Primal Adamant,259.00,5520.99,331.42,1429936.41,85837.78,257681.61,1773455.80
+20351,"Penur, Lord of the Sea",Bergfison's Deep,52.71,Sphinxes' Opalpearl Platinum Of Legend,102.00,5805.82,390.81,592193.64,39862.62,334989.82,967046.08
+20979,"Finarfin, God of Protection",Waleah Castle,0.85,Planar Obsidian Mercury Of Wizards,338.00,2831.40,155.73,957013.20,52636.74,10096.50,1019746.44

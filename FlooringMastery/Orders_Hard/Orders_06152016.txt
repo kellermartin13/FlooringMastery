@@ -1,0 +1,21 @@
+917,Scarechain The Unspeakable,Lamp Borough,4.95,Rainbowglitter Tin,160.00,4475.87,176.36,716139.20,28217.60,37217.84,781574.64
+981,Spikerivet,The Forsaken Tomb of Devastation,0.00,Foulopal Copper Of The Skies,36.00,1221.16,403.00,43961.76,14508.00,0.00,58469.76
+1644,Wheelbolt The Machine,The Dungeon of Merciless Woe,38.62,Incubi's Glittering Tin Of The Future,138.00,2287.78,72.60,315713.64,10018.80,127035.65,452768.09
+2221,Spikespawn,Tower Farthing,22.41,Djinni's Evil Sandobsidian Steel Of The Future,206.00,3826.00,157.07,788156.00,32356.42,180512.73,1001025.15
+2272,"Ariel, God of Luck",Hartshill Ward,41.98,Stone Soulsteel Of The Skies,348.00,1634.80,12.01,568910.40,4179.48,240697.75,813787.63
+2373,Burnbrood The Freezer,The Grey Plains,18.15,Fog Lavaplatinum Of Life,244.00,1078.00,17.00,263032.00,4148.00,48092.40,315272.40
+2913,Cult Godseeker,The Bastion of the Vampire Duke,19.28,Phantasmal Smokezephyr Mercury Of Men,168.00,-317.16,69.00,-53282.88,11592.00,-7921.27,-49612.15
+2991,Snaretool The Constructed,Tradun Castle,31.13,Fog Lavaplatinum Of Life,57.00,1078.00,17.00,61446.00,969.00,19348.65,81763.65
+3623,"Lenwenye, Goddess of Travel",The Shadow Downs,13.21,Forgotten Mithril,44.00,913.00,316.00,40172.00,13904.00,7029.88,61105.88
+7922,Rune Rougehate,Grori's Deep,49.95,Swordbronze,143.00,1350.01,447.01,193051.43,63922.43,128486.93,385460.79
+8771,Shiverflame The Freezer,The Citadel of Tattena the Sinister,12.13,White Platinum,329.00,-52.59,145.00,-17302.11,47705.00,3648.35,34051.24
+9190,Bronzespawn,The Citadel of Tattena the Sinister,12.13,Ensorceled Gold Of The Dawn,55.00,5713.98,402.92,314268.90,22160.60,40371.54,376801.04
+11448,Chainhorror,Unicorn's Ward,14.64,Magic Adamant,130.00,1838.00,228.40,238940.00,29692.00,40294.80,308926.80
+11997,Law Lionwatcher,Ring District,35.00,Phantasmal Lead,186.00,-552.97,245.47,-102852.42,45657.42,-20018.25,-77213.25
+14483,"Maglioneth, Lord of the Sun",Haukri's Hold,27.83,Unicorns' Evil Mithril,68.00,4802.49,377.52,326569.32,25671.36,98627.39,450868.07
+16414,"Gono, Goddess of the Earth",The Citadel of Cheno,7.33,Incubi's Mirrorfog Iron Of The Ocean,170.00,5806.50,-26.08,987105.00,-4433.60,68787.00,1051458.40
+17001,Lightning Brand,Arcanist's Farthing,3.30,Venom Jewelmetal Of The Desert,205.00,1388.00,298.14,284540.00,61118.70,10369.76,356028.46
+20702,"Gadriel, God of Resurrection",The Black Barrow of Zago the Possessed,30.80,Toxin Iceplatinum Of The Undead,168.00,-377.06,-59.29,-63346.08,-9960.72,-22725.11,-96031.91
+21076,Cinderflame,The Bastion of the Lich Tyrant,52.03,Djinni's Evil Sandobsidian Steel Of The Future,29.00,4208.60,172.78,122049.40,5010.62,66071.21,193131.23
+22170,Metalbrood,The Beggar and Cask,25.41,Meteoric Mirrormuck Orichalcum Of The Forests,119.00,2374.02,185.77,282508.38,22106.63,76153.75,380768.76
+22396,Graveterror,Gili's Delve,-6.73,Magicians' Legendary Poison Metal,241.00,2991.55,252.79,720963.55,60922.39,-54732.02,727153.92

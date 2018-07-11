@@ -1,0 +1,12 @@
+1308,Jacqueline "Riding Doc" Washington,IA,1.00,Pinecones,219.00,1.50,2.00,328.50,438.00,7.66,774.16
+4851,Renee "Loco Tracker" Jordan,ID,0.00,Packed Dirt,178.00,1.00,1.50,178.00,267.00,0.00,445.00
+4916,Lucky Johnson,WY,0.31,Pinecones,249.00,1.50,2.42,373.50,602.58,0.00,976.08
+8428,Renee "Loco Tracker" Jordan,WY,0.31,Solid Oak,123.00,5.50,5.50,676.50,676.50,0.00,1353.00
+13152,Wilma "Tornado" Brooks,ND,1.38,Reeds,135.00,0.75,2.20,101.25,297.00,3.98,402.23
+15068,Joanne "Damned" Miles,AR,2.20,Dirt,64.00,0.50,1.00,32.00,64.00,1.92,97.92
+17269,Vanessa "Scalper" Rhodes,AR,2.20,Reeds,148.00,0.83,2.20,122.84,325.60,8.97,457.41
+17782,Evelyn "Evil Joker" Taylor,MT,3.99,Beechwood,234.00,3.63,5.50,849.42,1287.00,85.46,2221.88
+18258,Theresa "Kid" Robinson,IA,1.33,Dirt,210.00,0.50,1.00,105.00,210.00,3.15,318.15
+18312,Florence "Leather Doc" Grant,MT,3.99,Beechwood,214.00,3.63,5.50,776.82,1177.00,78.15,2031.97
+21900,Dorothy "the Hunter",WY,0.31,Brick,336.00,5.32,6.66,1787.52,2237.76,0.00,4025.28
+22654,Vengeful Montgomery,OK,2.93,Dirt,379.00,0.55,1.00,208.45,379.00,17.62,605.07

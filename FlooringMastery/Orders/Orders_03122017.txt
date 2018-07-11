@@ -1,0 +1,15 @@
+4950,Cathy "Loner Demon" Murray,AL,1.00,Leather,249.00,10.00,18.15,2490.00,4519.35,70.09,7079.44
+6480,Theresa "Kid" Robinson,CA,0.55,Packed Dirt,123.00,1.00,1.50,123.00,184.50,3.08,310.58
+7744,Helen Webb "the Dancer",NV,0.31,Pinecones,206.00,1.50,2.66,309.00,547.96,0.00,856.96
+7746,Vengeful Robertson,ID,0.00,Cedar Planks,275.00,2.20,6.05,605.00,1663.75,0.00,2268.75
+9089,Vicki "Mesa" Rhodes,TX,0.50,Dirt,266.00,0.50,1.00,133.00,266.00,0.00,399.00
+9974,Evelyn "Evil Joker" Taylor,MS,3.00,Reeds,337.00,0.75,2.20,252.75,741.40,29.82,1023.97
+10292,Cathy "Loner Demon" Murray,IA,1.21,Pebbles,125.00,0.88,4.84,110.00,605.00,7.15,722.15
+15234,Michele Watson "the Loner",AR,2.20,Brick,318.00,5.32,6.66,1691.76,2117.88,76.19,3885.83
+15549,Theresa "Scalphunter" Romero,NV,0.31,Leather,258.00,11.00,18.15,2838.00,4682.70,0.00,7520.70
+15741,Mabel "Vixen Cursed" King,AR,2.20,Packed Dirt,151.00,1.10,2.20,166.10,332.20,9.97,508.27
+16206,Allison "Steel Gravedigger" Douglas,MO,2.20,Cedar Planks,152.00,2.20,6.05,334.40,919.60,25.08,1279.08
+16519,"Bane" Jennings,NM,2.66,Leather,142.00,11.00,19.97,1562.00,2835.74,131.93,4529.67
+18185,Cathy "Loner Demon" Murray,KS,0.55,Reeds,285.00,0.83,2.20,236.55,627.00,8.64,872.19
+19730,Tina "Lady" Anderson,NM,2.93,Brick,60.00,5.32,6.66,319.20,399.60,21.56,740.36
+22342,Lorraine "Utah" Adams,IA,1.33,Dirt,208.00,0.55,1.00,114.40,208.00,3.22,325.62

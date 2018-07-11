@@ -1,0 +1,21 @@
+73,Claw Mist,The Bastion of Barbos,21.29,Zephyr Adamant,155.00,3840.00,102.93,595200.00,15954.15,128342.37,739496.52
+508,"Uriel, God of Fate",The Fortress of the Lich Queen,36.35,Fog Lavaplatinum Of Life,234.00,1078.00,17.00,252252.00,3978.00,92242.80,348472.80
+1794,"Lionare, God of the Lost",The Dancing Minstrel,21.20,Stone Soulsteel Of The Skies,242.00,1634.80,12.01,395621.60,2906.42,83690.88,482218.90
+2662,Lance Knightseraph,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,296.00,2929.96,189.69,867268.16,56148.24,332429.90,1255846.30
+4494,Emberfire,Khali's Delve,52.71,Djinni's Mind Fogiron,245.00,2301.02,67.29,563749.90,16486.05,307525.05,887761.00
+6064,Spiketerror The Skeletal,The Cuitamba Jungle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,76.00,3349.50,324.73,254562.00,24679.48,78187.61,357429.09
+9490,Magus Felldrake,North Arcanist's Farthing,45.60,Golems' Stonesapphire Gold Of The Glacier,222.00,3672.77,105.97,815354.94,23525.34,385884.93,1224765.21
+10170,Snowflame The Evil,The Forsaken Sepulcher of Sorrows,48.79,Shadowy Adamant,174.00,618.93,478.58,107693.82,83272.92,93573.70,284540.44
+10968,Rouge Roguemist,Fellfen Keep,46.23,Tin Of The Tundra,225.00,2839.87,174.91,638970.75,39354.75,312029.73,990355.23
+13100,Terrorghoul The Unspeakable,The Fortress of Gama,10.16,Forgotten Mithril,247.00,1104.73,316.00,272868.31,78052.00,35092.03,386012.34
+13764,Chainblade The Cadaverous,Lacot Stronghold,37.37,Shadowy Adamant,202.00,618.93,526.44,125023.86,106340.88,85604.95,316969.69
+13954,Dawn Darkzealot,Waleah Castle,0.77,Spectres' Shadowy Terrorglow Adamant Of Life,146.00,5164.28,248.66,753984.88,36304.36,7902.89,798192.13
+15547,"Lionare, God of the Lost",The Fortress of Asmamur,-4.93,Primordial False Gold,76.00,5395.80,248.60,410080.80,18893.60,-21448.72,407525.68
+16495,"Azah, Goddess of Fate",Eved Castle,5.09,Ghostly Magic Adamant,165.00,4836.38,230.90,798002.70,38098.50,41805.06,877906.26
+17805,"Addon, Lord of Death",The Grey Plains,19.97,Meteoric Mirrormuck Orichalcum Of The Forests,164.00,2374.02,185.77,389339.28,30466.28,83961.11,503766.67
+19089,"Gono, Goddess of the Earth",The Barrow of Malefic Ages,19.70,Unicorns' Evil Mithril,223.00,4802.49,377.52,1070955.27,84186.96,231028.45,1386170.68
+19639,Tarot Dawn,Haukri's Hold,27.83,Toxic Mistlead Of The Past,194.00,1557.54,164.64,302162.76,31940.16,93548.82,427651.74
+19754,Rune Rougehate,Gifeld Castle,6.22,Witchs' Forbidden Rockrainbow Bronze,174.00,655.60,425.92,114074.40,74110.08,11291.07,199475.55
+21016,"Nelalwe, Lady of Fire",Archtemple District,27.76,Sapphire Mindlead,167.00,1307.71,51.70,218387.57,8633.90,63566.01,290587.48
+21254,Sephiroth Drakecaster,Peley Keep,26.33,Planar Rainfate Mithril,284.00,1304.42,320.52,370455.28,91027.68,119985.57,581468.53
+21547,"Ahah, Goddess of Knowledge",The Lazy Sage,19.97,Hidden Shadowice Lead,323.00,2729.00,-62.23,881467.00,-20100.29,172273.34,1033640.05

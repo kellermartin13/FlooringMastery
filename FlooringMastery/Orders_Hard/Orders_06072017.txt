@@ -1,0 +1,16 @@
+3433,Chainblade The Cadaverous,The Tower of Sabiesu the Awesome,4.40,Heavenly Dreamsilver Of The Night,230.00,1826.98,112.00,420205.40,25760.00,17838.62,463804.02
+4022,Spikecrank,The Secret Shrine of the Gargoyle Count,-2.00,Violetstone Tin Of Death,230.00,2245.23,156.10,516402.90,35903.00,-11046.12,541259.78
+4239,"Selik, God of Death",The Secret Shrine of the Gargoyle Count,-2.00,Glittering Orichalcum,234.00,-131.00,360.23,-30654.00,84293.82,-1072.80,52567.02
+4363,"Gadriel, God of Resurrection",The Barrow of Terrible Horror,-1.10,Djinni's Mind Fogiron,164.00,2301.02,67.29,377367.28,11035.56,-3884.03,384518.81
+4991,"Gadriel, God of Resurrection",The Archer and Scroll,39.60,Negative Mercury,213.00,4054.87,361.00,863687.31,76893.00,376232.12,1316812.43
+6252,"Penur, Lord of the Sea",The Shadow Downs,13.21,Unicorns' Fatal Magma Metal Of The Ocean,202.00,1792.04,392.70,361992.08,79325.40,57371.27,498688.75
+7993,"Ingwenel, God of War",Lordsgate Farthing,41.14,Swordbronze,213.00,1350.01,447.01,287552.13,95213.13,156933.76,539699.02
+10713,Jericho Wolf,The Citadel of Lord Greywulf,33.04,Shadow Steel,143.00,4677.78,465.30,668922.54,66537.90,242701.95,978162.39
+11470,Springpulley The Binder,The Barrow of Malefic Ages,17.91,Unicorns' Fatal Magma Metal Of The Ocean,230.00,1971.24,392.70,453385.20,90321.00,97867.12,641573.32
+14522,"Melcha, Goddess of Thieves",The Tower of Aramum,42.90,Ensorceled Sandmetal Of Spirits,186.00,2956.98,95.70,549998.28,17800.20,244153.35,811951.83
+14618,Burnbrood The Freezer,Archfane District,32.87,Unicorns' Evil Mithril,259.00,4802.49,377.52,1243844.91,97777.68,442735.45,1784358.04
+15734,Song Runetomb,The Glano Forest,3.00,Rainbowglitter Tin,272.00,5957.39,213.40,1620410.08,58044.80,50353.65,1728808.53
+19990,Springsprocket,The Cracked Chalice,2.52,Incubi's Iron Of The Dawn,237.00,1200.96,424.31,284627.52,100561.47,11555.67,396744.66
+20116,Song Runetomb,Moor Village,76.43,Rainbowglitter Tin,326.00,5957.39,213.40,1942109.14,69568.40,1528874.93,3540552.47
+22183,"Zepul, Lady of Vengeance",The Tomb of Hellish Ruin,16.94,Sprites' Transcendent Mud Lead Of The South,247.00,2081.80,321.86,514204.60,79499.42,100929.68,694633.70
+22498,Emberfire,Lordsgate Farthing,45.25,Yellow Mistearth Copper,314.00,5536.45,-33.15,1738445.30,-10409.10,777616.29,2505652.49

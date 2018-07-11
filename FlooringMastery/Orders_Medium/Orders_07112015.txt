@@ -1,0 +1,12 @@
+6840,Evelyn "Evil Joker" Taylor,CA,0.55,Reeds,96.00,0.75,2.20,72.00,211.20,2.83,286.03
+9712,Deborah "the Lady",WY,0.31,Leather,165.00,10.00,18.15,1650.00,2994.75,0.00,4644.75
+11437,Victoria "the Dancer",KS,0.55,Beechwood,40.00,3.00,5.50,120.00,220.00,3.40,343.40
+11509,Dorothy "the Hunter",MO,2.20,Pebbles,87.00,0.88,4.84,76.56,421.08,9.95,507.59
+11757,Mabel "Vixen Cursed" King,MT,3.63,Pebbles,9.00,0.88,4.84,7.92,43.56,2.06,53.54
+14152,Florence "Leather Doc" Grant,IA,1.21,Beechwood,197.00,3.63,5.50,715.11,1083.50,17.99,1816.60
+19352,Renee "Loco Tracker" Jordan,KS,0.55,Cedar Planks,207.00,2.20,6.66,455.40,1378.62,18.34,1852.36
+21427,Ida Russell "the Rustler",WY,0.31,Beechwood,169.00,3.63,6.05,613.47,1022.45,0.00,1635.92
+21546,Vanessa "Scalper" Rhodes,IA,1.33,Cedar Planks,306.00,2.20,6.66,673.20,2037.96,27.11,2738.27
+22038,Darlene "Loner" Ford,WY,0.31,Pinecones,239.00,1.50,2.66,358.50,635.74,0.00,994.24
+22702,Dorothy "the Hunter",NV,0.31,Pinecones,96.00,1.50,2.93,144.00,281.28,0.00,425.28
+23138,Theresa "Kid" Robinson,AR,2.20,Pinecones,220.00,1.50,2.93,330.00,644.60,19.49,994.09

@@ -1,0 +1,15 @@
+855,Black Beck,UT,0.00,Pinecones,302.00,1.50,2.00,453.00,604.00,0.00,1057.00
+3092,Renee "Hellish Empress" Banks,IA,1.00,Pebbles,152.00,0.80,4.40,121.60,668.80,7.90,798.30
+3963,Helen Webb "the Dancer",OK,2.00,Packed Dirt,309.00,1.00,1.50,309.00,463.50,15.45,787.95
+7117,"Sunrise" Miles,MS,3.00,Leather,203.00,10.00,18.15,2030.00,3684.45,171.43,5885.88
+7245,Julia "Bandit" Chandler,NM,2.20,Solid Oak,138.00,5.50,5.50,759.00,759.00,30.36,1548.36
+9600,Tina "Lady" Anderson,ND,1.25,Cedar Planks,171.00,2.20,6.05,376.20,1034.55,14.11,1424.86
+12104,Gladys "Locoweed" Keller,ID,0.00,Dirt,232.00,0.50,1.00,116.00,232.00,0.00,348.00
+13105,Gloria "Devil" McCoy,KS,0.55,Cedar Planks,116.00,2.20,6.05,255.20,701.80,9.57,966.57
+14428,Gloria "Devil" McCoy,MT,3.99,Leather,44.00,11.00,18.15,484.00,798.60,51.30,1333.90
+15415,Vicki "Mesa" Rhodes,UT,0.00,Cedar Planks,194.00,2.20,6.05,426.80,1173.70,0.00,1600.50
+16945,Lucky Johnson,MS,3.00,Pebbles,308.00,0.88,4.84,271.04,1490.72,52.85,1814.61
+17521,Heather "Friendly Gambler" Barrett,ID,0.00,Dirt,123.00,0.50,1.00,61.50,123.00,0.00,184.50
+18985,Gloria "Devil" McCoy,AL,1.00,Pebbles,113.00,0.88,4.84,99.44,546.92,6.46,652.82
+21624,"Doom" McCoy,AL,1.00,Reeds,125.00,0.83,2.20,103.75,275.00,3.79,382.54
+23381,Theresa "Kid" Robinson,AR,2.20,Solid Oak,249.00,5.50,6.66,1369.50,1658.34,60.56,3088.40

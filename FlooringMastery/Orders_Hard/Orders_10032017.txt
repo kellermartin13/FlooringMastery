@@ -1,0 +1,13 @@
+255,Springcoil,The Grey Plains,18.15,Planar Obsidian Mercury Of Wizards,309.00,2574.00,117.00,795366.00,36153.00,149673.42,981192.42
+654,"Maeglodor, God of Thieves",The Bastion of Gothmog of Udun,37.45,Trolls' Mist Poisonplatinum Of The Twilight,208.00,516.17,394.90,107363.36,82139.20,70115.95,259618.51
+1876,Law Lionwatcher,Barad Cune,26.00,Stone Soulsteel Of The Skies,106.00,1634.80,12.01,173288.80,1273.06,45386.08,219947.94
+5241,Evilfear The Horrorific,The Broken Arrow,30.07,Rot Silver Of The Past,148.00,3440.00,327.00,509120.00,48396.00,167254.80,724770.80
+5346,Snarepiston The Mechanical,The Fortress of the Lich Queen,36.35,Rot Silver Of The Past,344.00,3440.00,327.00,1183360.00,112488.00,466505.28,1762353.28
+5797,Chainblade The Cadaverous,Unicorn's Ward,13.31,Vampires' Hammer Emeraldmetal,55.00,379.45,25.84,20869.75,1421.20,2897.82,25188.77
+8617,Metalbrood,The Forsaken Tomb of Devastation,0.00,Foul Ice Bronze Of Life,146.00,-92.21,129.80,-13462.66,18950.80,0.00,5488.14
+12423,"Ahah, Goddess of Knowledge",Castle Village,37.51,God-touched Faterainbow Orichalcum Of Spectres,268.00,370.41,32.01,99269.88,8578.68,40982.45,148831.01
+16455,Spikespawn,The Fortress of Gama,10.16,Forgotten Mithril,193.00,1104.73,347.60,213212.89,67086.80,28029.97,308329.66
+17879,Rouge Roguemist,Lamp Borough,4.95,God-touched Faterainbow Orichalcum Of Spectres,192.00,370.41,32.01,71118.72,6145.92,3863.23,81127.87
+22390,Dawn Darkzealot,Palace Farthing,47.64,Muck Orichalcum Of Ogres,367.00,4561.14,485.76,1673938.38,178273.92,889061.90,2741274.20
+22702,Rouge Tombreaper,The Fen of the Necromancer,72.63,Legendary Mithril Of The Moon,258.00,3603.15,152.26,929612.70,39283.08,707293.92,1676189.70
+22962,Bedlam Spiritraven,Hafeld Keep,46.71,Timeiron,124.00,1596.00,276.28,197904.00,34258.72,109116.48,341279.20

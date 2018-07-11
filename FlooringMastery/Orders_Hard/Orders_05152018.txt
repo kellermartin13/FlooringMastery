@@ -1,0 +1,29 @@
+497,Lightning Brand,The Fen of the Necromancer,41.00,Ghostly Magic Adamant,129.00,3997.01,230.90,515614.29,29786.10,223614.16,769014.55
+739,Burnchill The Evil,Boiaburh Keep,16.00,Primordial False Gold,198.00,4459.34,226.00,882949.32,44748.00,148431.57,1076128.89
+2501,Flora Amberslayer,The Dismal Marsh,5.00,Heavenly Dreamsilver Of The Night,103.00,1826.98,112.00,188178.94,11536.00,9985.75,209700.69
+4892,Snaretool The Constructed,Tradun Castle,34.24,Meteoric Mirrormuck Orichalcum Of The Forests,18.00,1962.00,185.77,35316.00,3343.86,13144.35,51804.21
+5400,Bolttrap,Boiaburh Keep,16.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas,110.00,4123.68,122.49,453604.80,13473.90,74732.59,541811.29
+5947,Grave Mistseeker,The Bastion of the Lich Tyrant,43.00,Primordial Plague Mercury Of Legend,135.00,373.79,273.90,50461.65,36976.50,37598.40,125036.55
+7134,Snowflame The Evil,Kada's Deep,33.00,Spectres' Shadowy Terrorglow Adamant Of Life,128.00,4694.80,205.50,600934.40,26304.00,206988.67,834227.07
+7789,"Gadriel, God of Resurrection",Grori's Deep,49.95,Toxin Iceplatinum Of The Undead,144.00,-342.78,-53.90,-49360.32,-7761.60,-28560.96,-85682.88
+7846,Rouge Tombreaper,The Tower of Aramum,42.90,Planar Obsidian Mercury Of Wizards,161.00,2574.00,141.57,414414.00,22792.77,187998.91,625205.68
+9863,Bronzespawn,The Tomb of Hellish Ruin,16.94,Shadowy Adamant,124.00,618.93,478.58,76747.32,59343.92,23135.51,159226.75
+10889,Scarefear The Blade,Dysley Stronghold,45.98,Tin Of The Tundra,205.00,2839.87,174.91,582173.35,35856.55,284293.75,902323.65
+12005,"Melcha, Goddess of Thieves",The Black Barrow of Bery,-0.07,Magicians' Legendary Poison Metal,245.00,2719.59,229.81,666299.55,56303.45,0.00,722603.00
+14030,Seraphim Tsunami,Archfane District,32.87,Sphinxes' Mistsoul Bronze Of The Past,207.00,2169.81,202.07,449150.67,41828.49,162023.12,653002.28
+14247,Steelterror The Blade,Pewold Keep,20.52,Tritons' Time Stoneiron Of Legend,231.00,1760.00,204.37,406560.00,47209.47,95291.59,549061.06
+14423,Burnfreeze The Cold,The Tower of Aramum,42.90,Unknown Fatelightning Steel Of The Glacier,185.00,2441.05,65.68,451594.25,12150.80,199410.37,663155.42
+15198,"Uriel, God of Fate",The Pilgrim's Cup,46.12,Lunar Bronze,240.00,753.86,337.70,180926.40,81048.00,120508.22,382482.62
+15678,Rouge Tombreaper,The Desert of Flames,51.91,Incubi's Iron Of The Dawn,111.00,1200.96,424.31,133306.56,47098.41,93810.58,274215.55
+15696,Zeal Bladewitch,The Fortress of Asmamur,-4.93,Glittering Orichalcum,184.00,-158.51,360.23,-29165.84,66282.32,-1855.82,35260.66
+16117,"Maglioneth, Lord of the Sun",The Vaults of the Shadow Emperor,33.00,Incubi's Mirrorfog Iron Of The Ocean,252.00,5806.50,-26.08,1463238.00,-6572.16,480699.73,1937365.57
+16464,Shiverflame The Freezer,Reyny Keep,11.00,Shadowhell Mithril,283.00,483.15,315.05,136731.45,89159.15,24847.97,250738.57
+16895,Bonescare,Gena's Hold,2.66,Ghostly Magic Adamant,149.00,4836.38,230.90,720620.62,34404.10,22650.74,777675.46
+18114,Seraphim Tsunami,Archfane District,36.16,Negative Rockglitter Mercury Of Trolls,296.00,1632.29,619.42,483157.84,183348.32,239942.22,906448.38
+19026,Seraph Jester,Bifar's Deep,18.70,Violetdream Iron,233.00,1347.16,349.36,313888.28,81400.88,75104.94,470394.10
+20328,"Ariel, God of Luck",The Black Barrow of Bery,-0.10,Unspeakable Rotsoul Mithril Of Souls,200.00,272.80,485.85,54560.00,97170.00,0.00,151730.00
+20568,"Eumyan, Goddess of Law",The Forsaken Tomb of Devastation,0.00,Golems' Stonesapphire Gold Of The Glacier,170.00,4444.06,116.57,755490.20,19816.90,0.00,775307.10
+20783,Sunrise Godwarlock,The Bastion of the Lich Tyrant,52.03,Angels' Adamant,75.00,1434.40,197.23,107580.00,14792.25,63633.57,186005.82
+21690,"Selik, God of Death",Pewold Keep,22.57,Planar Rainfate Mithril,285.00,1304.42,320.52,371759.70,91348.20,106514.82,569622.72
+23022,Graveterror,Kewold Stronghold,10.74,Mithril Of The Tropics,120.00,4992.58,11.98,599109.60,1437.60,66060.19,666607.39
+23187,Freezebrood,The Khazahol Crags,-2.17,Icy Shock Silver,234.00,1794.41,595.89,419891.94,139438.26,-11186.60,548143.60

@@ -1,0 +1,14 @@
+58,Spikerivet,The Fortress of Asmamur,-4.48,Mistgold Of Men,259.00,2787.01,44.00,721835.59,11396.00,-29329.26,703902.33
+3248,Evilfear The Horrorific,Lacot Stronghold,30.88,Planar Mudtin Of Trolls,329.00,2304.41,335.36,758150.89,110333.44,269230.14,1137714.47
+6290,Bronzespike,The Archer and Blade,9.00,God-touched Greengem Platinum,180.00,1281.72,-36.00,230709.60,-6480.00,20180.66,244410.26
+8718,Evilember The Firey,Moor Village,57.42,White Platinum,252.00,-52.59,145.00,-13252.68,36540.00,13273.77,36561.09
+9930,Evilcoil The Machine,The Citadel of Lord Greywulf,33.04,Shadowy Adamant,144.00,618.93,478.58,89125.92,68915.52,52153.68,210195.12
+10493,Bane Veil,The Dismal Marsh,6.05,Venom Timegold Of Dwarves,293.00,3036.00,269.00,889548.00,78817.00,58101.90,1026466.90
+11149,"Gono, Goddess of the Earth",The Dungeon of Dismal Terror,-3.50,Green Dustlightning Mercury,260.00,3517.00,35.20,914420.00,9152.00,-36942.88,886629.12
+13665,"Byzou, God of Animals",The Pilgrim's Cup,46.12,Mistgold Of Men,297.00,3709.51,53.24,1101724.47,15812.28,514066.90,1631603.65
+15581,Beamsprocket The Grasping,The Glano Forest,3.00,Unspeakable Rotsoul Mithril Of Souls,118.00,248.00,401.53,29264.00,47380.54,2299.34,78943.88
+16002,Storm Seraphheart,The Lost Sanctum of Woe,3.30,Lycanthropes' Gold,163.00,4846.18,66.14,789927.34,10780.82,24021.24,824729.40
+16937,"Selik, God of Death",Arcanist's Farthing,3.30,Zephyr Iron,148.00,3034.90,444.69,449165.20,65814.12,15449.38,530428.70
+18378,Rouge Roguemist,North Arcanist's Farthing,55.18,God-touched Faterainbow Orichalcum Of Spectres,131.00,370.41,32.01,48523.71,4193.31,28994.36,81711.38
+20840,Shiverflame The Freezer,Waleah Castle,0.85,Devils' Falserot Silver,154.00,2220.79,182.71,342001.66,28137.34,3701.39,373840.39
+22641,Evilbrood,Boiaburh Keep,17.60,Primal Adamant,298.00,5520.99,364.56,1645255.02,108638.88,315700.90,2069594.80

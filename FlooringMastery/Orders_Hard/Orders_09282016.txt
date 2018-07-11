@@ -1,0 +1,9 @@
+2259,"Byzou, God of Animals",Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,325.00,4343.00,26.40,1411475.00,8580.00,355013.75,1775068.75
+5867,Boltcrank The Trapper,The Dungeon of Merciless Woe,38.62,White Platinum,62.00,-52.59,145.00,-3260.58,8990.00,2234.47,7963.89
+8296,Springcoil,Cawold Castle,24.09,Glowpearl Adamant Of Spirits,219.00,398.09,374.00,87181.71,81906.00,40581.05,209668.76
+8399,Rune Rougehate,Khali's Delve,52.71,Primordial Mud Orichalcum,111.00,-387.90,77.37,-43056.90,8588.07,-18268.48,-52737.31
+9199,Chainhorror,Minas Gilloy,39.26,Phantasmal Smokezephyr Mercury Of Men,58.00,-383.77,75.90,-22258.66,4402.20,-6964.02,-24820.48
+13593,Lightning Brand,The Broken Shield,37.23,Green Dustlightning Mercury,70.00,3868.70,35.20,270809.00,2464.00,101111.01,374384.01
+13682,Sunrise Godwarlock,The Warrior and Flagon,53.24,Meteoric Dustzephyr Orichalcum,178.00,375.00,268.49,66750.00,47791.22,60706.85,175248.07
+20293,Shadow Gust,Tower Farthing,27.12,Pearl Mirrorice Steel Of Changelings,134.00,328.53,46.07,44023.02,6173.38,13553.03,63749.43
+22362,Lance Knightseraph,The Beggar and Cask,25.41,Fairies' Supreme Mistsmoke Lead Of The Future,210.00,3349.50,324.73,703395.00,68193.30,192897.08,964485.38

@@ -1,0 +1,19 @@
+91,Seraphim Tsunami,The Bastion of Barbos,21.29,Zephyr Adamant,226.00,3840.00,102.93,867840.00,23262.18,187131.46,1078233.64
+2375,Cult Godseeker,The Nulukkhath Spires,9.63,Primal Adamant,82.00,4562.80,249.00,374149.60,20418.00,39456.76,434024.36
+2758,Lance Knightseraph,The Nulukkhath Spires,9.63,Primal Adamant,127.00,4562.80,249.00,579475.60,31623.00,61109.86,672208.46
+2981,Burnfreeze The Cold,The Demon and Toad,23.75,Mithril Of The Tropics,148.00,3751.00,9.00,555148.00,1332.00,133555.20,690035.20
+4599,Burnchill The Evil,Minas Gilloy,39.26,Phantasmal Lead,194.00,-457.00,245.47,-88658.00,47621.18,-16004.36,-57041.18
+4609,Wheelspawn,Fellfen Keep,42.03,Incubi's Glittering Tin Of The Future,177.00,2516.56,72.60,445431.12,12850.20,192478.15,650759.47
+5103,"Baltha, Goddess of Knowledge",Lordsgate Farthing,37.40,Primordial False Gold,242.00,4459.34,226.00,1079160.28,54692.00,419525.34,1553377.62
+5791,Burnchill The Evil,Boiaburh Keep,16.00,Djinni's Mind Fogiron,173.00,2301.02,67.29,398076.46,11641.17,65554.82,475272.45
+6645,Scarechain The Unspeakable,The Tower of the Demon Warlord,15.75,Thunderbirds' Transcendent Dreamiron,212.00,2275.25,237.70,482353.00,50392.40,85239.26,617984.66
+10387,Chainnail,The Citadel of Lord Greywulf,33.04,Magicians' Legendary Poison Metal,314.00,2247.59,229.81,705743.26,72160.34,256708.19,1034611.79
+10863,Song Runetomb,The Black Barrow of Bery,-0.07,Green Dustlightning Mercury,333.00,3517.00,35.20,1171161.00,11721.60,0.00,1182882.60
+11051,Magus Felldrake,The Tower of Aces the Accursed,13.31,Unspeakable Rotsoul Mithril Of Souls,207.00,248.00,401.53,51336.00,83116.71,17478.85,151931.56
+11788,Gravebone,South Brightcrown Borough,42.25,Unicorns' Fatal Magma Metal Of The Ocean,158.00,1971.24,392.70,311455.92,62046.60,156871.06,530373.58
+13673,Spikesnare,Eved Castle,5.09,Meteoric Dustzephyr Orichalcum,357.00,375.00,268.49,133875.00,95850.93,11486.30,241212.23
+16527,Dagger Reaper,The Drunken Thief,12.65,Starlight Pearldream Bronze,197.00,322.10,147.40,63453.70,29037.80,12023.90,104515.40
+16663,Song Runetomb,The Broken Arrow,36.39,Starlight Pearldream Bronze,241.00,322.10,147.40,77626.10,35523.40,40733.82,153883.32
+18022,Rouge Roguemist,The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,48.00,-17.00,276.00,-816.00,13248.00,5470.08,17902.08
+19950,Flora Amberslayer,Weke Tower,-0.07,Primordial False Gold,61.00,5395.80,248.60,329143.80,15164.60,0.00,344308.40
+23240,Metalbrood,The Bastion of Barbos,28.34,Djinni's Spectral Shadowlead Of Life,362.00,4484.14,394.00,1623258.68,142628.00,494448.27,2260334.95

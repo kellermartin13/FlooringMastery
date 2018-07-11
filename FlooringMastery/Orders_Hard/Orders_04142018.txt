@@ -1,0 +1,12 @@
+2907,"Uriel, God of Fate",The Grey Plains,19.97,Thunderbirds' Transcendent Dreamiron,167.00,2068.41,237.70,345424.47,39695.90,77024.07,462144.44
+3003,Spikesnare,Tradun Castle,31.13,Rocklava Mithril Of Revenants,69.00,1818.30,13.03,125462.70,899.07,39172.15,165533.92
+5352,Evilcoil The Machine,Unicorn's Ward,13.31,Magic Adamant,239.00,1838.00,188.76,439282.00,45113.64,62971.43,547367.07
+5699,"Ariel, God of Luck",Barad Kesa,4.32,Mistgold Of Men,179.00,3065.71,44.00,548762.09,7876.00,22265.52,578903.61
+6038,"Addon, Lord of Death",The Bastion of the Lich Tyrant,43.00,Pearl Mirrorice Steel Of Changelings,153.00,271.51,38.07,41541.03,5824.71,20367.27,67733.01
+7443,"Eumyan, Goddess of Law",Pawic Keep,0.56,Meteoric Dustzephyr Orichalcum,295.00,375.00,244.08,110625.00,72003.60,1826.29,184454.89
+14074,Gravebone The Unspeakable,The Bastion of the Lich Tyrant,43.00,Pearl Mirrorice Steel Of Changelings,200.00,298.66,41.88,59732.00,8376.00,29286.44,97394.44
+14881,"Alas, Lord of Plague",The Cracked Chalice,2.52,Legendary Mithril Of The Moon,160.00,2707.10,125.84,433136.00,20134.40,13598.11,466868.51
+17947,"Sielach, God of Fate",Boiaburh Keep,17.60,Djinni's Spectral Shadowlead Of Life,279.00,4076.49,325.62,1137340.71,90847.98,221073.96,1449262.65
+18961,Rouge Roguemist,Reyny Keep,11.00,Violetdream Iron,51.00,1347.16,349.36,68705.16,17817.36,9517.48,96040.00
+19673,"Gadriel, God of Resurrection",Haukri's Hold,27.83,Emerald Orichalcum,135.00,-405.76,128.90,-54777.60,17401.50,-10465.31,-47841.41
+23176,"Ariel, God of Luck",Bergfison's Deep,57.98,Icy Shock Silver,149.00,1794.41,595.89,267367.09,88787.61,206569.73,562724.43

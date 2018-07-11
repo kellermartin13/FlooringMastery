@@ -1,0 +1,8 @@
+434,Deborah "the Lady",ND,1.25,Leather,194.00,10.00,15.00,1940.00,2910.00,48.50,4898.50
+4076,Dorothy "the Hunter",NV,0.25,Cedar Planks,324.00,2.00,5.50,648.00,1782.00,0.00,2430.00
+5067,Cathy "Wildfire" Neal,IA,1.10,Solid Oak,209.00,5.50,5.50,1149.50,1149.50,22.99,2321.99
+7665,Evelyn "Evil Joker" Taylor,TX,0.50,Dirt,81.00,0.50,1.00,40.50,81.00,0.00,121.50
+12757,Elizabeth "the Bully",TX,0.67,Pinecones,122.00,1.50,2.66,183.00,324.52,5.08,512.60
+14351,Michele Watson "the Loner",NM,2.42,Pinecones,81.00,1.50,2.66,121.50,215.46,6.74,343.70
+15756,Deborah "the Lady",IA,1.21,Leather,239.00,11.00,18.15,2629.00,4337.85,69.67,7036.52
+21832,Renee "Loco Tracker" Jordan,WY,0.31,Reeds,44.00,0.83,2.20,36.52,96.80,0.00,133.32

@@ -1,0 +1,15 @@
+3808,Cathy "Wildfire" Neal,NM,2.20,Dirt,298.00,0.50,1.00,149.00,298.00,8.94,455.94
+4383,Lucky Johnson,MS,3.00,Packed Dirt,143.00,1.00,1.50,143.00,214.50,10.72,368.22
+8579,Jacqueline "Riding Doc" Washington,MS,3.00,Pebbles,175.00,0.88,4.84,154.00,847.00,30.03,1031.03
+8713,Florence "Leather Doc" Grant,KS,0.50,Pinecones,260.00,1.50,2.66,390.00,691.60,0.00,1081.60
+11030,Lorraine "Utah" Adams,AR,2.20,Packed Dirt,131.00,1.00,1.50,131.00,196.50,6.55,334.05
+14958,Wilma "Tornado" Brooks,ND,1.38,Beechwood,239.00,3.63,5.50,867.57,1314.50,21.82,2203.89
+16135,Cathy "Wildfire" Neal,MT,3.99,Brick,164.00,5.32,6.66,872.48,1092.24,78.59,2043.31
+16782,Black Beck,MT,3.99,Reeds,288.00,0.83,2.20,239.04,633.60,34.91,907.55
+17331,Gladys "Locoweed" Keller,AL,1.00,Solid Oak,244.00,5.50,6.66,1342.00,1625.04,29.67,2996.71
+18261,Friendly Howell,MT,3.99,Dirt,199.00,0.50,1.00,99.50,199.00,11.94,310.44
+19336,Mattie Grant "the Gambler",ID,0.00,Brick,62.00,5.32,6.66,329.84,412.92,0.00,742.76
+19682,Victoria "the Dancer",ID,0.00,Packed Dirt,353.00,1.10,2.42,388.30,854.26,0.00,1242.56
+20587,Cathy "Wildfire" Neal,NM,2.93,Leather,328.00,11.00,19.97,3608.00,6550.16,304.74,10462.90
+21578,Allison "Steel Gravedigger" Douglas,AR,2.20,Pebbles,176.00,0.88,4.84,154.88,851.84,20.13,1026.85
+23140,Friendly Howell,IA,1.33,Packed Dirt,335.00,1.10,2.42,368.50,810.70,11.79,1190.99

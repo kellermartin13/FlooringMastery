@@ -1,0 +1,20 @@
+306,Jacqueline "Riding Doc" Washington,MS,3.00,Solid Oak,318.00,5.00,5.00,1590.00,1590.00,95.40,3275.40
+1031,Stella "the Bully",IA,1.00,Packed Dirt,184.00,1.00,1.50,184.00,276.00,4.60,464.60
+2615,Deborah "the Lady",NM,2.20,Pebbles,227.00,0.80,4.40,181.60,998.80,23.61,1204.01
+2741,Gladys "Locoweed" Keller,MO,2.20,Pebbles,270.00,0.80,4.40,216.00,1188.00,28.08,1432.08
+4700,Cathy "Loner Demon" Murray,KS,0.50,Beechwood,46.00,3.00,5.00,138.00,230.00,0.00,368.00
+5431,Renee "Hellish Empress" Banks,IA,1.21,Packed Dirt,112.00,1.00,1.50,112.00,168.00,2.80,282.80
+6481,Kathy Murphy "the Thinker",ID,0.00,Dirt,284.00,0.50,1.00,142.00,284.00,0.00,426.00
+7214,Ida Russell "the Rustler",MO,2.20,Pebbles,356.00,0.80,4.84,284.80,1723.04,40.16,2048.00
+8036,"Doom" McCoy,CA,0.55,Pebbles,222.00,0.80,4.84,177.60,1074.48,12.52,1264.60
+9577,Gladys "Locoweed" Keller,CA,0.55,Packed Dirt,332.00,1.00,1.50,332.00,498.00,8.30,838.30
+9985,Cathy "Wildfire" Neal,TX,0.55,Pebbles,236.00,0.88,4.84,207.68,1142.24,13.50,1363.42
+11533,Kathy Murphy "the Thinker",ID,0.00,Beechwood,198.00,3.00,5.50,594.00,1089.00,0.00,1683.00
+11998,Renee "Hellish Empress" Banks,CA,0.61,Reeds,346.00,0.75,2.20,259.50,761.20,10.21,1030.91
+12167,Victoria "the Dancer",MT,3.63,Brick,166.00,4.84,6.66,803.44,1105.56,76.36,1985.36
+12902,Tina "Lady" Anderson,WY,0.31,Packed Dirt,304.00,1.00,1.82,304.00,553.28,0.00,857.28
+13231,Helen Webb "the Dancer",IA,1.21,Leather,325.00,11.00,18.15,3575.00,5898.75,94.74,9568.49
+17137,Tina "Lady" Anderson,UT,0.00,Leather,157.00,11.00,19.97,1727.00,3135.29,0.00,4862.29
+21981,"Scalphunter" Kennedy,IA,1.33,Solid Oak,70.00,5.50,6.66,385.00,466.20,8.51,859.71
+22358,Ida Russell "the Rustler",CA,0.67,Packed Dirt,269.00,1.10,2.42,295.90,650.98,9.47,956.35
+22360,"Scalphunter" Kennedy,KS,0.55,Leather,81.00,11.00,19.97,891.00,1617.57,25.09,2533.66

@@ -1,0 +1,19 @@
+730,Evelyn "Evil Joker" Taylor,KS,0.50,Pinecones,299.00,1.50,2.00,448.50,598.00,0.00,1046.50
+988,Darlene "Loner" Ford,AR,2.20,Solid Oak,213.00,5.00,5.00,1065.00,1065.00,42.60,2172.60
+1675,Victoria "the Dancer",AL,1.00,Brick,81.00,4.00,5.00,324.00,405.00,7.29,736.29
+6727,Dorothy "the Hunter",AR,2.20,Cedar Planks,204.00,2.20,6.05,448.80,1234.20,33.66,1716.66
+10579,Marie "Raven" Chapman,OK,2.42,Pinecones,119.00,1.50,2.66,178.50,316.54,9.90,504.94
+10986,April "Thunderbird" Dunn,OK,2.42,Packed Dirt,119.00,1.00,1.50,119.00,178.50,5.95,303.45
+11764,Dorothy "the Hunter",UT,0.00,Solid Oak,82.00,5.50,5.50,451.00,451.00,0.00,902.00
+12003,Vengeful Montgomery,NM,2.42,Beechwood,171.00,3.30,5.50,564.30,940.50,30.10,1534.90
+14154,Mabel "Vixen Cursed" King,WY,0.31,Brick,140.00,5.32,6.66,744.80,932.40,0.00,1677.20
+14872,Heather "Friendly Gambler" Barrett,UT,0.00,Leather,179.00,11.00,18.15,1969.00,3248.85,0.00,5217.85
+15610,Vengeful Montgomery,UT,0.00,Packed Dirt,118.00,1.10,2.20,129.80,259.60,0.00,389.40
+15643,Kathy Murphy "the Thinker",MO,2.20,Packed Dirt,187.00,1.10,2.20,205.70,411.40,12.34,629.44
+16834,Jo "the Joker",MO,2.20,Cedar Planks,153.00,2.20,6.05,336.60,925.65,25.24,1287.49
+17358,Jacqueline "Riding Doc" Washington,ND,1.52,Beechwood,332.00,3.63,5.50,1205.16,1826.00,60.62,3091.78
+19600,Diana "Mistress" Morgan,NV,0.31,Dirt,220.00,0.50,1.00,110.00,220.00,0.00,330.00
+20736,Darlene "Loner" Ford,AR,2.20,Dirt,184.00,0.50,1.00,92.00,184.00,5.52,281.52
+20860,Cathy "Wildfire" Neal,ND,1.67,Solid Oak,104.00,5.50,6.66,572.00,692.64,25.29,1289.93
+22074,Tammy Carlson "the Killer",MO,2.20,Pinecones,283.00,1.50,2.66,424.50,752.78,23.55,1200.83
+22383,Lorraine "Utah" Adams,MO,2.20,Leather,201.00,11.00,19.97,2211.00,4013.97,124.50,6349.47

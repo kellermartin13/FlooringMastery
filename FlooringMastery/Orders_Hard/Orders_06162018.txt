@@ -1,0 +1,16 @@
+399,Rouge Roguemist,Arcanist's Farthing,3.00,Tritons' Time Stoneiron Of Legend,284.00,1760.00,168.90,499840.00,47967.60,16434.23,564241.83
+931,Evilember The Firey,The Citadel of Alammius,3.18,Dragons' Poison Glitterflesh Steel Of The North,185.00,2790.70,216.48,516279.50,40048.80,16689.85,573018.15
+1925,"Gadriel, God of Resurrection",Haukri's Hold,25.30,Poison Adamant,184.00,298.00,406.38,54832.00,74773.92,32401.48,162007.40
+3330,Rune Rougehate,Pawic Keep,0.56,Forgotten Mithril,256.00,913.00,316.00,233728.00,80896.00,3146.24,317770.24
+6887,Spikerivet,Mahyrst Keep,25.14,Otherworldly Mirror Orichalcum,203.00,-247.00,478.50,-50141.00,97135.50,11748.62,58743.12
+6891,Fate Ivycaster,Mahyrst Keep,25.14,Unholy Poison Copper Of The Mountains,139.00,580.91,-9.24,80746.49,-1284.36,19865.53,99327.66
+7133,"Alik, Goddess of Trickery",Bergfison's Deep,39.60,Meteoric Dustzephyr Orichalcum,181.00,375.00,244.08,67875.00,44178.48,44821.39,156874.87
+7338,Beamsprocket The Grasping,The Forsaken Hive of Galima the Mighty,24.70,Golems' Stonesapphire Gold Of The Glacier,346.00,3672.77,105.97,1270778.42,36665.62,326861.01,1634305.05
+8284,"Uriel, God of Fate",The Bastion of the Lich Tyrant,43.00,Negative Rockglitter Mercury Of Trolls,195.00,1483.90,423.07,289360.50,82498.65,159899.43,531758.58
+11383,Wind Dire,The Black Barrow of Bery,-0.07,Devils' Falserot Silver,293.00,1668.51,182.71,488873.43,53534.03,0.00,542407.46
+12462,Sunset Knightclaw,The Dismal Marsh,6.05,Incubi's Iron Of The Dawn,70.00,1200.96,424.31,84067.20,29701.70,6826.13,120595.03
+16584,Bane Veil,Boiaburh Keep,16.00,Forgotten Mithril,198.00,1104.73,347.60,218736.54,68824.80,46009.81,333571.15
+16784,Bedlam Spiritraven,The Drunken Thief,12.65,Mistgold Of Men,183.00,4080.46,53.24,746724.18,9742.92,98340.72,854807.82
+17858,Icechill The Frigid,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,193.00,4076.49,325.62,786762.57,62844.66,42480.36,892087.59
+18630,Scarechain The Unspeakable,Mahyrst Keep,30.42,Hidden Shadowice Lead,165.00,2729.00,-62.23,450285.00,-10267.95,132005.12,572022.17
+23051,Spikebrood The Disinterred,The Lazy Sage,19.97,Incubi's Glittering Tin Of The Future,75.00,3349.54,96.64,251215.50,7248.00,51692.70,310156.20

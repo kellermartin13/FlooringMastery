@@ -1,0 +1,16 @@
+261,"Alas, Lord of Plague",The Glano Forest,3.00,Planar Obsidian Mercury Of Wizards,213.00,2574.00,117.00,548262.00,24921.00,17195.49,590378.49
+1772,Song Runetomb,Hartshill Ward,41.98,Planar Mudtin Of Trolls,341.00,2094.92,335.36,714367.72,114357.76,348064.70,1176790.18
+3373,Bronzespike,The Flying Witch,11.45,Ensorceled Sandmetal Of Spirits,314.00,2956.98,87.00,928491.72,27318.00,105139.07,1060948.79
+5838,Evilember The Firey,Boiaburh Keep,16.00,Forgotten Mithril,182.00,913.00,316.00,166166.00,57512.00,35788.48,259466.48
+6988,Icechill The Frigid,The Lost Crypts of Sorrows,35.87,Spectres' Shadowy Terrorglow Adamant Of Life,161.00,4694.80,205.50,755862.80,33085.50,284021.39,1072969.69
+8857,"Selik, God of Death",Kada's Deep,33.00,Phantasmal Smokezephyr Mercury Of Men,222.00,-383.77,75.90,-85196.94,16849.80,-22554.56,-90901.70
+10025,Rouge Roguemist,The Chuallanto Jungle,37.00,Shadowy Adamant,127.00,618.93,478.58,78604.11,60779.66,51571.99,190955.76
+10985,Metalbrood,The Fortress of the Lich Queen,36.35,Heavenly Dreamsilver Of The Night,217.00,2009.68,112.00,436100.56,24304.00,165745.64,626150.20
+11262,Storm Seraphheart,The Forsaken Sepulcher of Sorrows,48.79,Primordial False Gold,155.00,5395.80,226.00,836349.00,35030.00,426975.71,1298354.71
+12839,Clash Lonedrake,The Tomb of Hellish Ruin,16.94,Nymphs' Luminous Rotmercury Of The Skies,285.00,292.60,189.00,83391.00,53865.00,23333.52,160589.52
+16463,"Iran, Lord of Nightmares",Love Keep,9.32,Planar Rainfate Mithril,237.00,1185.84,320.52,281044.08,75963.24,32130.66,389137.98
+21646,"Byzou, God of Animals",Moor Village,76.43,Hidden Shadowice Lead,225.00,2729.00,-62.23,614025.00,-14001.75,456017.67,1056040.92
+22191,Rouge Tombreaper,The Secret Shrine of the Gargoyle Count,-2.00,Toxic Mistlead Of The Past,395.00,1557.54,181.10,615228.30,71534.50,-13735.26,673027.54
+22254,Magus Felldrake,Bifar's Deep,18.70,Undeads' Mind Orichalcum Of The Twilight,217.00,-17.00,276.00,-3689.00,59892.00,10678.57,66881.57
+22528,Chainnail,Khali's Delve,52.71,Undeads' Mind Orichalcum Of The Twilight,334.00,-17.00,276.00,-5678.00,92184.00,45848.18,132354.18
+23249,Beamtrap,Barad Kesa,5.23,Yellow Mistearth Copper,177.00,6090.10,-33.15,1077947.70,-5867.55,53604.01,1125684.16

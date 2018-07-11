@@ -1,0 +1,15 @@
+3020,Jo "the Joker",OK,2.00,Brick,280.00,4.00,5.50,1120.00,1540.00,53.20,2713.20
+3747,Geraldine "Revenge" Warren,CA,0.55,Solid Oak,108.00,5.50,5.00,594.00,540.00,11.34,1145.34
+7655,Renee "Hellish Empress" Banks,MO,2.20,Leather,75.00,10.00,18.15,750.00,1361.25,42.22,2153.47
+8602,Debra "Scorpion" Lane,OK,2.20,Packed Dirt,143.00,1.00,1.50,143.00,214.50,7.15,364.65
+10397,Allison "Steel Gravedigger" Douglas,NV,0.31,Pebbles,237.00,0.88,4.84,208.56,1147.08,0.00,1355.64
+10666,Allison "Steel Gravedigger" Douglas,MO,2.20,Reeds,76.00,0.75,2.20,57.00,167.20,4.48,228.68
+12087,Theresa "Kid" Robinson,IA,1.21,Dirt,189.00,0.50,1.00,94.50,189.00,2.84,286.34
+14150,Renee "Loco Tracker" Jordan,TX,0.67,Cedar Planks,171.00,2.20,6.05,376.20,1034.55,14.11,1424.86
+15233,Dorothy "the Hunter",IA,1.21,Cedar Planks,191.00,2.20,6.05,420.20,1155.55,15.76,1591.51
+17781,Renee "Loco Tracker" Jordan,IA,1.21,Solid Oak,229.00,5.50,6.66,1259.50,1525.14,27.85,2812.49
+19150,Friendly Howell,AL,1.00,Beechwood,122.00,3.63,5.50,442.86,671.00,11.14,1125.00
+19206,Mabel "Vixen Cursed" King,IA,1.33,Leather,133.00,11.00,19.97,1463.00,2656.01,41.19,4160.20
+21327,Debra "Scorpion" Lane,MS,3.00,Leather,333.00,11.00,19.97,3663.00,6650.01,309.39,10622.40
+21725,Amanda Hart "the Loner",ID,0.00,Pebbles,222.00,0.88,4.84,195.36,1074.48,0.00,1269.84
+22278,Lucky Johnson,OK,2.93,Beechwood,177.00,3.63,6.05,642.51,1070.85,51.40,1764.76

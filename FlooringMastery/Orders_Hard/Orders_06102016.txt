@@ -1,0 +1,14 @@
+1256,Blazeflare The Cremator,The Cuitamba Jungle,28.00,Yellow Mistearth Copper,320.00,4159.62,-27.40,1331078.40,-8768.00,370246.91,1692557.31
+1311,"Sielach, God of Fate",The Cuitamba Jungle,28.00,Primordial Mud Orichalcum,262.00,-387.90,77.37,-101629.80,20270.94,-22780.48,-104139.34
+4512,Icechill The Frigid,Fellfen Keep,42.03,Djinni's Mind Fogiron,177.00,2301.02,67.29,407280.54,11910.33,176060.17,595251.04
+4699,Scarefear The Blade,The Tower of Sabiesu the Awesome,4.40,Thunderbirds' Transcendent Dreamiron,177.00,2275.25,237.70,402719.25,42072.90,17791.69,462583.84
+5304,Bronzespawn,Lordsgate Farthing,37.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,280.00,4123.68,122.49,1154630.40,34297.20,439903.21,1628830.81
+5994,"Iran, Lord of Nightmares",The Dark Caverns of Woe,3.29,God-touched Greengem Platinum,225.00,1281.72,-36.00,288387.00,-8100.00,8408.61,288695.61
+14973,Zeal Bladewitch,Minas Gilloy,43.19,Heavenly Dreamsilver Of The Night,165.00,2009.68,112.00,331597.20,18480.00,150533.20,500610.40
+15077,Rouge Tombreaper,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,21.00,3769.54,401.45,79160.34,8430.45,11386.80,98977.59
+18942,Clash Lonedrake,The Citadel of Tattena the Sinister,13.34,Unicorns' Evil Mithril,166.00,4802.49,377.52,797213.34,62668.32,111784.62,971666.28
+20292,"Ariel, God of Luck",The Tomb of Hellish Ruin,16.94,Pearl Mirrorice Steel Of Changelings,287.00,328.53,46.07,94288.11,13222.09,18276.73,125786.93
+21590,Cult Godseeker,Pewold Keep,22.57,Sphinxes' Opalpearl Platinum Of Legend,184.00,5805.82,429.89,1068270.88,79099.76,263895.25,1411265.89
+22170,Gale Jackalguard,Tradun Castle,41.43,Violetstone Tin Of Death,235.00,2469.75,171.71,580391.25,40351.85,254504.67,875247.77
+22732,Spikerivet,Eved Castle,5.09,Icy Shock Silver,141.00,1631.28,595.89,230010.48,84020.49,15701.55,329732.52
+22928,"Uriel, God of Fate",The Lost Crypts of Sorrows,35.87,Stone Soulsteel Of The Skies,359.00,1798.28,14.53,645582.52,5216.27,234287.56,885086.35

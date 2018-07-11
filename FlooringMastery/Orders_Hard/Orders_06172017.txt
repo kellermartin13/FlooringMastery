@@ -1,0 +1,23 @@
+1726,Evilfear The Horrorific,The Tower of Aces the Accursed,12.10,Incubi's Iron Of The Dawn,396.00,1200.96,385.74,475580.16,152753.04,75399.98,703733.18
+3723,Gravebone,Lacot Stronghold,30.88,Yellow Mistearth Copper,67.00,4575.58,-27.40,306563.86,-1835.80,94465.70,399193.76
+4428,Springcoil,Fellfen Keep,42.03,Ensorceled Gold Of The Dawn,199.00,4293.00,366.29,854307.00,72891.71,389423.46,1316622.17
+5668,"Melcha, Goddess of Thieves",Gena's Hold,2.20,Forgotten Mithril,363.00,913.00,316.00,331419.00,114708.00,8922.54,455049.54
+8024,"Gono, Goddess of the Earth",The Cuitamba Jungle,30.80,Unknown Fatelightning Steel Of The Glacier,138.00,2017.40,54.28,278401.20,7490.64,88626.47,374518.31
+9889,Bronzespike,The Citadel of Lord Greywulf,33.04,Djinni's Spectral Shadowlead Of Life,316.00,3705.90,325.62,1171064.40,102895.92,420406.91,1694367.23
+11158,Rouge Roguemist,Fellfen Keep,46.23,Primordial False Gold,145.00,5395.80,226.00,782391.00,32770.00,374974.06,1190135.06
+11600,"Addon, Lord of Death",The Bastion of the Lich Tyrant,43.00,Meteoric Dustzephyr Orichalcum,171.00,375.00,268.49,64125.00,45911.79,47315.82,157352.61
+11602,Rouge Tombreaper,Unicorn's Ward,14.64,Litches' Fatal Mithril Of The Past,90.00,1327.98,369.05,119518.20,33214.50,22909.90,175642.60
+12321,Slayer Claw,The Glano Forest,3.00,Spectres' Shadowy Terrorglow Adamant Of Life,257.00,5164.28,226.05,1327219.96,58094.85,41559.44,1426874.25
+12897,Song Runetomb,The Fortress of Gama,10.16,Phantasmal Smokezephyr Mercury Of Men,167.00,-464.37,75.90,-77549.79,12675.30,-6487.45,-71361.94
+13000,Deathspike The Terrifying,The Tomb of Hellish Ruin,16.94,Nymphs' Luminous Rotmercury Of The Skies,340.00,292.60,189.00,99484.00,64260.00,27836.48,191580.48
+13956,"Ingwenel, God of War",Lacot Stronghold,37.37,Shadowy Adamant,338.00,618.93,526.44,209198.34,177936.72,143239.97,530375.03
+14103,Wheelspawn,The Lost Sanctum of Woe,3.00,Ensorceled Sandmetal Of Spirits,165.00,2956.98,95.70,487901.70,15790.50,15110.77,518802.97
+15228,Blazeflare The Cremator,The Cracked Chalice,2.52,Violetdream Iron,196.00,1224.69,349.36,240039.24,68474.56,9255.41,317769.21
+15289,Fate Seeker,The Tower of Sabiesu the Awesome,5.32,Plague Tin,218.00,4767.02,342.10,1039210.36,74577.80,55689.41,1169477.57
+15850,Dagger Reaper,Barad Kesa,4.75,Glittering Orichalcum,151.00,-158.51,360.23,-23935.01,54394.73,1522.99,31982.71
+16250,Slayer Claw,The Citadel of Cheno,7.33,Incubi's Mirrorfog Iron Of The Ocean,240.00,5806.50,-26.08,1393560.00,-6259.20,97111.06,1484411.86
+17337,"Nelalwe, Lady of Fire",North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,253.00,2169.81,222.28,548961.93,56236.84,332859.32,938058.09
+18381,Lord Mystery,Boiaburh Keep,17.60,Goddesses' Spectral Poison Steel,171.00,4566.53,296.81,780876.63,50754.51,149693.61,981324.75
+18924,Chainhorror,The Bastion of Barbos,28.34,Unspeakable Rotsoul Mithril Of Souls,91.00,248.00,485.85,22568.00,44212.35,18698.50,85478.85
+20082,Emberspawn,The Desert of Flames,57.10,Pearl Mirrorice Steel Of Changelings,167.00,328.53,46.07,54864.51,7693.69,35658.17,98216.37
+21165,Flora Amberslayer,Eved Castle,5.09,Planar Rainfate Mithril,217.00,1304.42,320.52,283059.14,69552.84,17630.60,370242.58

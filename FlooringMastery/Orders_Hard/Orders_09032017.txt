@@ -1,0 +1,14 @@
+3008,Clash Lonedrake,The Tower of Sabiesu the Awesome,4.40,Shadowhell Mithril,112.00,363.00,260.37,40656.00,29161.44,2792.70,72610.14
+5669,Clash Lonedrake,The Archer and Blade,9.00,Vampires' Hammer Emeraldmetal,117.00,379.45,25.84,44395.65,3023.28,4267.70,51686.63
+5920,Lord Mystery,The Lost Sanctum of Woe,3.00,Unicorns' Fatal Magma Metal Of The Ocean,254.00,1792.04,392.70,455178.16,99745.80,16647.72,571571.68
+5983,Flameflare The Evil,The Lazy Sage,19.97,Unicorns' Fatal Magma Metal Of The Ocean,284.00,1792.04,392.70,508939.36,111526.80,124093.23,744559.39
+6786,Springsprocket,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,160.00,2275.25,237.70,364040.00,38032.00,168870.24,570942.24
+9965,Blazeflare The Cremator,The Citadel of Lord Greywulf,33.04,Sphinxes' Mistsoul Bronze Of The Past,154.00,2169.81,202.07,334150.74,31118.78,120538.94,485808.46
+10296,Springcoil,The Tomb of Hellish Ruin,16.94,Djinni's Spectral Shadowlead Of Life,91.00,3705.90,325.62,337236.90,29631.42,62367.61,429235.93
+10399,Seraph Jester,The Forsaken Sepulcher of Sorrows,48.79,Sphinxes' Mistsoul Bronze Of The Past,271.00,2169.81,202.07,588018.51,54760.97,314961.95,957741.43
+10475,Bane Veil,The Shadow Downs,13.21,Hell Mercury Of The East,166.00,4636.34,313.06,769632.44,51967.96,106808.05,928408.45
+11128,Scarechain The Unspeakable,Eved Castle,5.09,Unspeakable Rotsoul Mithril Of Souls,43.00,248.00,401.53,10664.00,17265.79,1396.49,29326.28
+13032,Evilember The Firey,The Hunter and Rose,40.40,Sapphire Mindlead,289.00,1307.71,47.00,377928.19,13583.00,156604.48,548115.67
+18185,"Gono, Goddess of the Earth",Archfane District,36.16,Legendary Mithril Of The Moon,66.00,2977.81,125.84,196535.46,8305.44,73742.72,278583.62
+19266,Spikerivet,The Pilgrim's Cup,46.12,Djinni's Mind Fogiron,127.00,2301.02,89.56,292229.54,11374.12,139657.68,443261.34
+19860,Rune Rougehate,The Tomb of Gothmog of Udun,-3.30,Djinni's Mind Fogiron,186.00,2531.12,98.52,470788.32,18324.72,-14673.39,474439.65

@@ -1,0 +1,18 @@
+219,Lena Chapman "the Bully",WY,0.25,Dirt,209.00,0.50,1.00,104.50,209.00,0.00,313.50
+1572,"Scalphunter" Kennedy,IA,1.00,Dirt,296.00,0.50,1.00,148.00,296.00,4.44,448.44
+1897,April "Thunderbird" Dunn,NM,2.20,Reeds,344.00,0.75,2.00,258.00,688.00,18.92,964.92
+5894,Allison "Steel Gravedigger" Douglas,IA,1.21,Dirt,217.00,0.50,1.00,108.50,217.00,3.26,328.76
+6156,Cathy "Loner Demon" Murray,NM,2.20,Solid Oak,275.00,5.50,5.50,1512.50,1512.50,60.50,3085.50
+7187,Geraldine "Revenge" Warren,WY,0.31,Brick,279.00,4.84,6.66,1350.36,1858.14,0.00,3208.50
+9772,Melissa "Lonesome Stalker" Riley,NM,2.20,Reeds,211.00,0.75,2.20,158.25,464.20,12.45,634.90
+10662,Susan "Damnation" Fleming,ID,0.00,Reeds,210.00,0.75,2.20,157.50,462.00,0.00,619.50
+11117,Cynthia "the Vixen",CA,0.55,Reeds,314.00,0.75,2.20,235.50,690.80,9.26,935.56
+11814,Joanne "Damned" Miles,OK,2.42,Packed Dirt,65.00,1.00,1.65,65.00,107.25,3.44,175.69
+11948,Vengeful Robertson,WY,0.31,Reeds,220.00,0.75,2.20,165.00,484.00,0.00,649.00
+12616,Lucky Johnson,WY,0.31,Packed Dirt,120.00,1.00,1.65,120.00,198.00,0.00,318.00
+14093,"Bane" Jennings,MS,3.00,Pinecones,134.00,1.50,2.66,201.00,356.44,16.72,574.16
+16652,Ida Russell "the Rustler",UT,0.00,Cedar Planks,148.00,2.20,6.05,325.60,895.40,0.00,1221.00
+17238,Debra "Scorpion" Lane,NM,2.66,Pinecones,301.00,1.50,2.66,451.50,800.66,37.56,1289.72
+20393,Black Beck,KS,0.55,Pebbles,241.00,0.88,4.84,212.08,1166.44,13.79,1392.31
+22344,Maureen "Cursed" Andrews,OK,2.93,Dirt,238.00,0.55,1.00,130.90,238.00,11.07,379.97
+23392,Minnie Lawson "the Apostle",MO,2.20,Leather,162.00,11.00,19.97,1782.00,3235.14,100.34,5117.48

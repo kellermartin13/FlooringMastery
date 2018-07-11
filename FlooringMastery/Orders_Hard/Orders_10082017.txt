@@ -1,0 +1,11 @@
+7536,"Ahah, Goddess of Knowledge",The Lazy Sage,19.97,Phantasmal Tin Of The Swamps,138.00,4074.00,-6.60,562212.00,-910.80,112260.24,673561.44
+7624,"Maeglodor, God of Thieves",The Desert of Flames,47.19,Shadowy Adamant,167.00,618.93,478.58,103361.31,79922.86,86143.56,269427.73
+11126,Spikecrank,Pawic Keep,0.56,Phantasmal Plague Adamant,303.00,-186.03,-7.18,-56367.09,-2175.54,-585.43,-59128.06
+15741,Claw Mist,Barad Kesa,4.75,Unknown Fatelightning Steel Of The Glacier,234.00,2441.05,65.68,571205.70,15369.12,29328.74,615903.56
+18108,Cinderember,Archfane District,36.16,Legendary Mithril Of The Moon,336.00,2977.81,125.84,1000544.16,42282.24,375417.50,1418243.90
+18671,Magus Felldrake,The Demon and Toad,28.74,Mana-touched Greenglitter Gold Of Giants,225.00,1291.38,514.25,290560.50,115706.25,117817.36,524084.11
+21809,"Azah, Goddess of Fate",The Wizard's House,43.58,Ensorceled Sandmetal Of Spirits,384.00,2956.98,95.70,1135480.32,36748.80,515780.81,1688009.93
+22140,"Maglioneth, Lord of the Sun",The Black Barrow of Bery,-0.10,Poison Adamant,206.00,1266.52,70.88,260903.12,14601.28,0.00,275504.40
+22193,Tarot Dawn,The Beggar and Cask,25.41,Poison Adamant,139.00,1266.52,70.88,176046.28,9852.32,46474.65,232373.25
+22527,Fate Seeker,Khali's Delve,52.71,Muck Orichalcum Of Ogres,337.00,4561.14,485.76,1537104.18,163701.12,901426.81,2602232.11
+23029,Cult Godseeker,The Bastion of Sthasu the Gruesome,14.93,Djinni's Spectral Shadowlead Of Life,189.00,4484.14,394.00,847502.46,74466.00,138295.27,1060263.73

@@ -1,0 +1,15 @@
+2821,Cynthia "the Vixen",KS,0.50,Solid Oak,208.00,5.50,5.00,1144.00,1040.00,0.00,2184.00
+4395,Vengeful Montgomery,CA,0.55,Packed Dirt,170.00,1.00,1.50,170.00,255.00,4.25,429.25
+5150,Vanessa "Scalper" Rhodes,KS,0.50,Leather,132.00,10.00,18.15,1320.00,2395.80,0.00,3715.80
+5161,Jacqueline "Riding Doc" Washington,AL,1.00,Beechwood,191.00,3.00,5.00,573.00,955.00,15.28,1543.28
+9804,Vicki "Mesa" Rhodes,IA,1.21,Pebbles,143.00,0.88,4.84,125.84,692.12,8.18,826.14
+10597,Allison "Steel Gravedigger" Douglas,TX,0.67,Pebbles,148.00,0.88,4.84,130.24,716.32,8.47,855.03
+10826,Diana "Mistress" Morgan,IA,1.21,Pinecones,216.00,1.50,2.66,324.00,574.56,8.99,907.55
+11112,"Scalphunter" Kennedy,OK,2.42,Brick,252.00,4.84,6.66,1219.68,1678.32,57.96,2955.96
+11183,Melissa "Lonesome Stalker" Riley,OK,2.42,Packed Dirt,276.00,1.00,1.50,276.00,414.00,13.80,703.80
+14558,"Doom" McCoy,AR,2.20,Dirt,112.00,0.50,1.00,56.00,112.00,3.36,171.36
+16989,"Sunrise" Miles,WY,0.31,Packed Dirt,222.00,1.10,2.20,244.20,488.40,0.00,732.60
+20180,Lena Chapman "the Bully",ID,0.00,Packed Dirt,147.00,1.10,2.42,161.70,355.74,0.00,517.44
+21608,Michele Watson "the Loner",ND,1.67,Brick,282.00,5.32,6.66,1500.24,1878.12,67.57,3445.93
+22346,Heather "Friendly Gambler" Barrett,MT,5.84,Dirt,128.00,0.55,1.00,70.40,128.00,11.90,210.30
+23246,Mabel "Vixen Cursed" King,KS,0.55,Leather,268.00,11.00,19.97,2948.00,5351.96,83.00,8382.96

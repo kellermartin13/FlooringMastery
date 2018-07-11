@@ -1,0 +1,14 @@
+914,Freezebrood,The Wizard's House,43.58,Imperial Fate Steel,288.00,2721.75,-37.13,783864.00,-10693.44,340195.05,1113365.61
+1857,Scarechain The Unspeakable,The Forsaken Tomb of Devastation,0.00,Poison Adamant,339.00,298.00,406.38,101022.00,137762.82,0.00,238784.82
+4413,Icechill The Frigid,Kewold Stronghold,8.87,Foul Ice Bronze Of Life,246.00,-92.21,129.80,-22683.66,31930.80,832.24,10079.38
+4899,Bedlam Spiritraven,The Khazahol Crags,-1.97,Otherworldly Mirror Orichalcum,175.00,-247.00,478.50,-43225.00,83737.50,-810.25,39702.25
+8417,Chainnail,Gili's Delve,-5.05,Planar Obsidian Mercury Of Wizards,208.00,2574.00,141.57,535392.00,29446.56,-28241.93,536596.63
+8577,Sunrise Godwarlock,Khali's Delve,52.71,Ensorceled Gold Of The Dawn,256.00,5713.98,402.92,1462778.88,103147.52,829940.99,2395867.39
+11014,Cult Godseeker,The Fortress of the Lich Queen,36.35,Heavenly Dreamsilver Of The Night,190.00,2009.68,112.00,381839.20,21280.00,145122.91,548242.11
+11574,Bronzespike,The Bastion of the Lich Tyrant,43.00,Angels' Smoke Adamant Of The Mountains,125.00,3115.57,236.50,389446.25,29562.50,180173.76,599182.51
+11587,Sunrise Godwarlock,The Bastion of the Lich Tyrant,43.00,Phantasmal Tin Of The Swamps,180.00,4074.00,-6.60,733320.00,-1188.00,314816.76,1046948.76
+17929,Chainnail,Boiaburh Keep,17.60,Litches' Fatal Mithril Of The Past,218.00,1460.78,405.96,318450.04,88499.28,73250.88,480200.20
+18206,Chainnail,The Hunter and Rose,44.44,Rocklava Mithril Of Revenants,160.00,2200.14,14.33,352022.40,2292.80,155898.69,510213.89
+18382,Mecharig The Living Device,Archfane District,36.16,Poison Adamant,119.00,1266.52,64.44,150715.88,7668.36,57018.33,215402.57
+20711,"Sielach, God of Fate",Barad Cune,28.60,Unspeakable Rotsoul Mithril Of Souls,147.00,272.80,485.85,40101.60,71419.95,32341.25,143862.80
+20893,Sunset Knightclaw,Waleah Castle,0.85,Forgotten Mithril,229.00,1215.20,347.60,278280.80,79600.40,3578.81,361460.01

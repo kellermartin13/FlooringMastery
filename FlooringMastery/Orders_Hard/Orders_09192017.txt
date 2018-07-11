@@ -1,0 +1,19 @@
+651,Springsprocket,The Black Barrow of Bery,-0.07,Nymphs' Luminous Rotmercury Of The Skies,120.00,266.00,189.00,31920.00,22680.00,0.00,54600.00
+2989,Wheelspawn,Hafeld Keep,29.00,Phantasmal Smokezephyr Mercury Of Men,258.00,-317.16,69.00,-81827.28,17802.00,-18567.33,-82592.61
+3243,Deathbrood,The Broken Arrow,30.07,Yellow Mistearth Copper,218.00,4575.58,-27.40,997476.44,-5973.20,297450.97,1288954.21
+3601,Shadow Tomblion,Barad Cune,26.00,Mistgold Of Men,248.00,3065.71,44.00,760296.08,10912.00,200514.10,971722.18
+3727,Nettool The Grasping,The Forsaken Hive of Galima the Mighty,22.45,Starlight Pearldream Bronze,259.00,266.20,134.00,68945.80,34706.00,22803.40,126455.20
+4130,Maverick Wind,The Wizard's House,43.58,Foulopal Copper Of The Skies,213.00,1221.16,403.00,260107.08,85839.00,152216.28,498162.36
+4390,Lance Knightseraph,Love Keep,7.00,Sphinxes' Mistsoul Bronze Of The Past,182.00,1793.23,183.70,326367.86,33433.40,25186.09,384987.35
+4646,Clash Lonedrake,The Khazahol Crags,-1.97,Mithril Of Legend,265.00,2068.00,63.01,548020.00,16697.65,-11294.35,553423.30
+5602,Rouge Roguemist,Bergfison's Deep,36.00,Mistgold Of Men,121.00,3065.71,44.00,370950.91,5324.00,135458.97,511733.88
+9534,Rouge Tombreaper,The Forsaken Sepulcher of Sorrows,48.79,Golems' Stonesapphire Gold Of The Glacier,180.00,3672.77,105.97,661098.60,19074.60,333284.87,1013458.07
+9646,Emberspawn,Tower Farthing,27.12,Goddesses' Spectral Poison Steel,101.00,3773.99,269.83,381172.99,27252.83,110274.97,518700.79
+11744,Rouge Roguemist,The Barrow of Malefic Ages,17.91,Magic Adamant,253.00,1838.00,228.40,465014.00,57785.20,94103.86,616903.06
+12232,Claw Mist,The Glano Forest,3.00,Thunderbirds' Transcendent Dreamiron,289.00,2275.25,237.70,657547.25,68695.30,21787.28,748029.83
+12603,Shadow Gust,The Fortress of Gama,10.16,Imperial Fate Steel,218.00,2993.93,-44.92,652676.74,-9792.56,64288.42,707172.60
+14436,Shadow Gust,The Tower of Sabiesu the Awesome,5.32,Legendary Mithril Of The Moon,186.00,2707.10,125.84,503520.60,23406.24,26346.34,553273.18
+15910,Spiketerror The Skeletal,Barad Kesa,4.75,Plague Tin,385.00,4767.02,342.10,1835302.70,131708.50,98350.56,2065361.76
+16197,Terrorghoul The Unspeakable,The Bastion of Gothmog of Udun,54.84,Thunderbirds' Transcendent Dreamiron,123.00,2275.25,237.70,279855.75,29237.10,170001.07,479093.92
+17718,Blazeflare The Cremator,Weke Tower,-0.07,Witchs' Forbidden Rockrainbow Bronze,123.00,655.60,425.92,80638.80,52388.16,0.00,133026.96
+20189,"Azah, Goddess of Fate",Archtemple District,27.76,Angels' Smoke Adamant Of The Mountains,68.00,3427.13,260.15,233044.84,17690.20,70205.81,320940.85

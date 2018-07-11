@@ -1,0 +1,17 @@
+1935,Cult Godseeker,The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,231.00,3826.00,157.07,883806.00,36283.17,193218.73,1113307.90
+2552,"Azah, Goddess of Fate",The Citadel of Lord Greywulf,30.04,Fog Lavaplatinum Of Life,324.00,1078.00,17.00,349272.00,5508.00,106434.00,461214.00
+2852,Metalbrood,Boiaburh Keep,16.00,Toxin Iceplatinum Of The Undead,265.00,-283.29,-49.00,-75071.85,-12985.00,-14089.10,-102145.95
+3056,"Avriel, God of Death",Kada's Deep,30.00,Violetdream Iron,305.00,1224.69,349.36,373530.45,106554.80,144025.58,624110.83
+3258,Lightning Brand,The Flying Witch,11.45,Ensorceled Sandmetal Of Spirits,199.00,2956.98,87.00,588439.02,17313.00,66632.72,672384.74
+3633,Chillfire The Chiller,The Forsaken Hive of Galima the Mighty,22.45,Mistgold Of Men,97.00,3065.71,44.00,297373.87,4268.00,66361.21,368003.08
+7627,"Addon, Lord of Death",Palace Farthing,43.31,Golems' Stonesapphire Gold Of The Glacier,199.00,3672.77,105.97,730881.23,21088.03,323346.78,1075316.04
+8427,Wind Dire,Cawold Castle,24.09,Planar Obsidian Mercury Of Wizards,28.00,2574.00,141.57,72072.00,3963.96,18248.63,94284.59
+9240,Scarefear The Blade,The Nulukkhath Spires,10.59,Goddesses' Spectral Poison Steel,369.00,3773.99,269.83,1392602.31,99567.27,164138.65,1656308.23
+9437,"Penur, Lord of the Sea",Haukri's Hold,25.30,Shadow Steel,381.00,4677.78,465.30,1782234.18,177279.30,489878.37,2449391.85
+11832,"Prusu, God of Love",The Broken Arrow,30.07,Icy Shock Silver,261.00,1482.98,407.00,387057.78,106227.00,147985.43,641270.21
+12525,"Eumyan, Goddess of Law",Archscepter Borough,3.00,Rot Silver Of The Past,234.00,3784.00,359.70,885456.00,84169.80,29088.77,998714.57
+12671,Burnbrood The Freezer,Archtemple District,27.76,Nymphs' Luminous Rotmercury Of The Skies,114.00,292.60,189.00,33356.40,21546.00,15372.67,70275.07
+15652,Lightning Brand,Lamp Borough,4.95,Glittering Orichalcum,207.00,-158.51,360.23,-32811.57,74567.61,2087.80,43843.84
+17956,Freezebrood,Lamp Borough,4.95,Legendary Mithril Of The Moon,162.00,2977.81,125.84,482405.22,20386.08,25139.56,527930.86
+22221,Sephiroth Drakecaster,Tradun Castle,45.57,Ensorceled Gold Of The Dawn,155.00,6913.92,443.21,1071657.60,68697.55,524563.37,1664918.52
+22337,Storm Seraphheart,Lordsgate Farthing,45.25,Mana-touched Greenglitter Gold Of Giants,302.00,1420.52,514.25,428997.04,155303.50,262935.24,847235.78

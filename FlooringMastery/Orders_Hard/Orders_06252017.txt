@@ -1,0 +1,23 @@
+2078,"Gadriel, God of Resurrection",The Chuallanto Jungle,37.00,Angels' Adamant,219.00,1304.00,179.30,285576.00,39266.70,120191.80,445034.50
+3246,Seraph Jester,The Lewd King,27.00,Ensorceled Sandmetal Of Spirits,69.00,2956.98,87.00,204031.62,6003.00,56709.35,266743.97
+4540,Burnchill The Evil,Minas Gilloy,39.26,Phantasmal Lead,126.00,-457.00,245.47,-57582.00,30929.22,-10394.58,-37047.36
+5405,Evilfear The Horrorific,The Bastion of Gothmog of Udun,45.32,Unicorns' Fatal Magma Metal Of The Ocean,283.00,1792.04,392.70,507147.32,111134.10,278226.64,896508.06
+5414,Deathspike The Terrifying,The Lewd King,27.00,Primordial False Gold,284.00,4459.34,226.00,1266452.56,64184.00,359271.87,1689908.43
+5431,"Maeglodor, God of Thieves",The Dungeon of Merciless Woe,38.62,White Platinum,127.00,-52.59,145.00,-6678.93,18415.00,4577.07,16313.14
+5758,Flora Amberslayer,The Cuitamba Jungle,28.00,Otherworldly Mirror Orichalcum,144.00,-247.00,478.50,-35568.00,68904.00,9334.08,42670.08
+5808,Evilember The Firey,Barad Kesa,4.32,Djinni's Mind Fogiron,72.00,2301.02,67.29,165673.44,4844.88,6820.73,177339.05
+6045,Chainnail,The Archer and Blade,9.00,Glowpearl Adamant Of Spirits,120.00,361.90,374.00,43428.00,44880.00,7947.72,96255.72
+6475,Claw Mist,The Tower of Aces the Accursed,13.31,Thunderbirds' Transcendent Dreamiron,90.00,2275.25,237.70,204772.50,21393.00,29401.52,255567.02
+7661,Snarepiston The Mechanical,Barad Kesa,4.32,Meteoric Mirrormuck Orichalcum Of The Forests,89.00,2158.20,185.77,192079.80,16533.53,8344.53,216957.86
+12371,Flora Amberslayer,Archscepter Borough,3.00,God-touched Faterainbow Orichalcum Of Spectres,245.00,370.41,32.01,90750.45,7842.45,2957.79,101550.69
+13821,Bedlam Spiritraven,The Dark Caverns of Woe,3.29,Shadowy Adamant,271.00,618.93,526.44,167730.03,142665.24,9311.86,319707.13
+15092,Evilfear The Horrorific,The Forsaken Sepulcher of Sorrows,53.67,Primordial Mud Orichalcum,319.00,-387.90,85.11,-123740.10,27150.09,-52158.61,-148748.62
+15638,Graveterror,Lamp Borough,4.95,Unicorns' Fatal Magma Metal Of The Ocean,58.00,2168.36,431.97,125764.88,25054.26,7540.96,158360.10
+16156,"Maeglodor, God of Thieves",Fellfen Keep,61.53,Otherworldly Mirror Orichalcum,126.00,-298.87,526.35,-37657.62,66320.10,17770.74,46433.22
+17463,"Gadriel, God of Resurrection",Lamp Borough,4.95,Thunderbirds' Transcendent Dreamiron,187.00,2275.25,237.70,425471.75,44449.90,23496.08,493417.73
+18129,Lord Mystery,Dysley Stronghold,45.98,Negative Rockglitter Mercury Of Trolls,166.00,1632.29,619.42,270960.14,102823.72,171940.58,545724.44
+18178,Dawn Darkzealot,Boiaburh Keep,17.60,Ensorceled Gold Of The Dawn,120.00,6913.92,443.21,829670.40,53185.20,158914.01,1041769.61
+18496,Snaretool The Constructed,The Dark Caverns of Woe,3.29,Goddesses' Spectral Poison Steel,230.00,5023.18,296.81,1155331.40,68266.30,36707.93,1260305.63
+20051,Spikecrank,The Tomb of Hellish Ruin,16.94,Primordial False Gold,239.00,5395.80,248.60,1289596.20,59415.40,229331.97,1578343.57
+21402,"Maglioneth, Lord of the Sun",The Warrior and Flagon,53.24,Hidden Shadowice Lead,234.00,2729.00,-62.23,638586.00,-14561.82,330732.82,954757.00
+22625,Claw Mist,The Cuitamba Jungle,33.88,Devils' Falserot Silver,208.00,2220.79,182.71,461924.32,38003.68,169975.52,669903.52

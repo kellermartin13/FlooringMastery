@@ -1,0 +1,18 @@
+2166,Julia "Bandit" Chandler,UT,0.00,Pinecones,91.00,1.50,2.00,136.50,182.00,0.00,318.50
+3419,Vengeful Montgomery,ID,0.00,Pebbles,254.00,0.80,4.40,203.20,1117.60,0.00,1320.80
+4759,Surgeon Grant,WY,0.31,Leather,84.00,10.00,16.50,840.00,1386.00,0.00,2226.00
+6811,Vengeful Montgomery,NM,2.20,Leather,208.00,10.00,18.15,2080.00,3775.20,117.10,5972.30
+10784,Julia "Bandit" Chandler,NV,0.31,Pinecones,173.00,1.50,2.66,259.50,460.18,0.00,719.68
+11565,Cathy "Loner Demon" Murray,TX,0.67,Dirt,148.00,0.50,1.00,74.00,148.00,2.22,224.22
+12045,Julia "Bandit" Chandler,MO,2.20,Cedar Planks,211.00,2.20,6.05,464.20,1276.55,34.82,1775.57
+12845,Allison "Steel Gravedigger" Douglas,WY,0.31,Dirt,297.00,0.50,1.00,148.50,297.00,0.00,445.50
+13250,Geraldine "Revenge" Warren,TX,0.67,Solid Oak,191.00,5.50,5.50,1050.50,1050.50,21.01,2122.01
+14514,Vengeful Montgomery,ID,0.00,Beechwood,216.00,3.63,5.50,784.08,1188.00,0.00,1972.08
+15324,Cathy "Wildfire" Neal,TX,0.67,Reeds,136.00,0.83,2.20,112.88,299.20,4.12,416.20
+16572,Florence "Leather Doc" Grant,NM,2.66,Reeds,158.00,0.83,2.20,131.14,347.60,14.36,493.10
+17232,Vengeful Montgomery,UT,0.00,Packed Dirt,100.00,1.10,2.20,110.00,220.00,0.00,330.00
+17339,Elizabeth "the Bully",MO,2.20,Dirt,202.00,0.50,1.00,101.00,202.00,6.06,309.06
+17808,Cathy "Loner Demon" Murray,UT,0.00,Solid Oak,239.00,5.50,6.66,1314.50,1591.74,0.00,2906.24
+19155,Jo "the Joker",ND,1.67,Beechwood,11.00,3.63,5.50,39.93,60.50,2.01,102.44
+19674,Mattie Grant "the Gambler",UT,0.00,Leather,173.00,11.00,19.97,1903.00,3454.81,0.00,5357.81
+19749,Friendly Howell,MO,2.20,Pebbles,55.00,0.88,4.84,48.40,266.20,6.29,320.89

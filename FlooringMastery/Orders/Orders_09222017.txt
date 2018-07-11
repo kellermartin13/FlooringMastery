@@ -1,0 +1,22 @@
+847,April "Thunderbird" Dunn,ID,0.00,Pinecones,148.00,1.50,2.00,222.00,296.00,0.00,518.00
+1375,Allison "Steel Gravedigger" Douglas,UT,0.00,Leather,168.00,10.00,15.00,1680.00,2520.00,0.00,4200.00
+2669,Vengeful Robertson,WY,0.25,Cedar Planks,272.00,2.00,5.50,544.00,1496.00,0.00,2040.00
+3328,Mattie Grant "the Gambler",MS,3.00,Reeds,284.00,0.75,2.00,213.00,568.00,23.43,804.43
+4169,Allison "Steel Gravedigger" Douglas,KS,0.50,Pebbles,191.00,0.80,4.40,152.80,840.40,0.00,993.20
+7114,"Sunrise" Miles,AR,2.20,Reeds,199.00,0.75,2.20,149.25,437.80,11.74,598.79
+7217,Stella "the Bully",ID,0.00,Cedar Planks,300.00,2.20,6.05,660.00,1815.00,0.00,2475.00
+7224,Evelyn "Evil Joker" Taylor,TX,0.50,Pinecones,150.00,1.50,2.66,225.00,399.00,0.00,624.00
+9777,Marie "Raven" Chapman,UT,0.00,Reeds,222.00,0.75,2.20,166.50,488.40,0.00,654.90
+11375,Mabel "Vixen Cursed" King,KS,0.55,Reeds,287.00,0.75,2.20,215.25,631.40,8.47,855.12
+13047,"Doom" McCoy,OK,2.42,Beechwood,51.00,3.30,5.50,168.30,280.50,8.98,457.78
+14257,Marie "Raven" Chapman,MS,3.00,Solid Oak,191.00,5.50,5.50,1050.50,1050.50,63.03,2164.03
+14644,Susan "Damnation" Fleming,NV,0.31,Reeds,88.00,0.75,2.20,66.00,193.60,0.00,259.60
+14700,Beth "Fortunate Shooter" Powell,NM,2.42,Dirt,209.00,0.50,1.00,104.50,209.00,6.27,319.77
+16621,Friendly Howell,MT,3.99,Cedar Planks,268.00,2.20,6.05,589.60,1621.40,88.44,2299.44
+16839,Vanessa "Scalper" Rhodes,UT,0.00,Pebbles,143.00,0.88,4.84,125.84,692.12,0.00,817.96
+17144,Marie "Raven" Chapman,TX,0.67,Packed Dirt,140.00,1.10,2.20,154.00,308.00,4.62,466.62
+17987,Lena Chapman "the Bully",OK,2.42,Pinecones,194.00,1.50,2.66,291.00,516.04,16.14,823.18
+18700,Renee "Hellish Empress" Banks,UT,0.00,Pinecones,204.00,1.50,2.66,306.00,542.64,0.00,848.64
+19506,Tammy Carlson "the Killer",MO,2.20,Dirt,136.00,0.50,1.00,68.00,136.00,4.08,208.08
+22692,Renee "Loco Tracker" Jordan,OK,2.93,Beechwood,190.00,3.63,6.05,689.70,1149.50,55.18,1894.38
+22757,Gloria "Devil" McCoy,OK,2.93,Pinecones,265.00,1.50,2.93,397.50,776.45,35.22,1209.17

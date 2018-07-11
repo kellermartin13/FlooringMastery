@@ -1,0 +1,12 @@
+700,Michele Watson "the Loner",CA,0.50,Beechwood,80.00,3.00,5.00,240.00,400.00,0.00,640.00
+1342,Surgeon Grant,MT,3.00,Leather,125.00,10.00,15.00,1250.00,1875.00,93.75,3218.75
+1967,Black Beck,ND,1.25,Packed Dirt,169.00,1.00,1.50,169.00,253.50,4.22,426.72
+5479,Tammy Carlson "the Killer",AR,2.20,Solid Oak,127.00,5.50,5.50,698.50,698.50,27.94,1424.94
+10349,Evelyn "Evil Joker" Taylor,UT,0.00,Dirt,234.00,0.50,1.00,117.00,234.00,0.00,351.00
+13046,Lucky Johnson,UT,0.00,Brick,105.00,4.84,6.66,508.20,699.30,0.00,1207.50
+13592,Theresa "Scalphunter" Romero,AL,1.00,Brick,135.00,5.32,6.66,718.20,899.10,16.17,1633.47
+16608,"Sunrise" Miles,TX,0.67,Packed Dirt,168.00,1.10,2.20,184.80,369.60,5.54,559.94
+18437,Geraldine "Revenge" Warren,IA,1.33,Beechwood,206.00,3.63,5.50,747.78,1133.00,18.81,1899.59
+19361,Stella "the Bully",NV,0.31,Solid Oak,77.00,5.50,6.66,423.50,512.82,0.00,936.32
+19548,Elizabeth "the Bully",AR,2.20,Dirt,195.00,0.50,1.00,97.50,195.00,5.85,298.35
+21836,Heather "Tornado" Newman,ND,1.67,Solid Oak,264.00,5.50,6.66,1452.00,1758.24,64.20,3274.44

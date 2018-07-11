@@ -1,0 +1,18 @@
+916,Emberspawn,The Broken Shield,37.23,Phantasmal Lead,247.00,-457.00,245.47,-112879.00,60631.09,-19331.73,-71579.64
+1055,Tiger Mistmidnight,Boiaburh Keep,16.00,Yellow Mistearth Copper,223.00,4159.62,-27.40,927595.26,-6110.20,147437.61,1068922.67
+4554,Evilember The Firey,Citadel Ward,28.40,Zephyr Iron,152.00,2759.00,404.26,419368.00,61447.52,134628.35,615443.87
+4752,"Maeglodor, God of Thieves",The Scoundrel and Flask,-4.58,Devils' Falserot Silver,223.00,1668.51,182.71,372077.73,40744.33,-20641.10,392180.96
+6722,Seraph Jester,Noble's Village,27.50,Zephyr Iron,168.00,2759.00,444.69,463512.00,74707.92,150701.58,688921.50
+7527,"Uriel, God of Fate",The Broken Shield,37.23,Shadowy Adamant,266.00,618.93,478.58,164635.38,127302.28,108016.93,399954.59
+10605,Sunrise Godwarlock,The Dismal Marsh,6.05,Shadowhell Mithril,140.00,439.23,286.41,61492.20,40097.40,6095.38,107684.98
+12836,Chainblade The Cadaverous,Lordsgate Farthing,45.25,Sapphire Mindlead,269.00,1307.71,47.00,351773.99,12643.00,163987.65,528404.64
+15181,Magus Felldrake,The Greedy Wench,32.70,Primordial Mud Orichalcum,219.00,-387.90,85.11,-84950.10,18639.09,-21882.63,-88193.64
+15332,Rose Anchor,Barad Kesa,4.75,Unspeakable Rotsoul Mithril Of Souls,211.00,248.00,401.53,52328.00,84722.83,6852.54,143903.37
+17318,"Zepul, Lady of Vengeance",The Citadel of Alammius,3.85,Glowpearl Adamant Of Spirits,297.00,398.09,374.00,118232.73,111078.00,9172.43,238483.16
+19797,Springcoil,Hafeld Keep,46.71,Witchs' Forbidden Rockrainbow Bronze,284.00,655.60,425.92,186190.40,120961.28,144361.29,451512.97
+20040,"Ingwenel, God of War",The Desert of Flames,57.10,Foulopal Copper Of The Skies,257.00,1787.91,403.00,459492.87,103571.00,320946.41,884010.28
+20307,"Azah, Goddess of Fate",Moor Village,76.43,Primordial False Gold,66.00,5395.80,248.60,356122.80,16407.60,283123.10,655653.50
+21589,Evilcoil The Machine,Moor Village,76.43,Hidden Shadowice Lead,379.00,2729.00,-62.23,1034291.00,-23585.17,768136.43,1778842.26
+21674,Flora Amberslayer,The Warrior and Flagon,53.24,God-touched Faterainbow Orichalcum Of Spectres,206.00,370.41,35.21,76304.46,7253.26,44285.59,127843.31
+21811,"Nelalwe, Lady of Fire",Barad Cune,28.60,Toxic Mistlead Of The Past,331.00,1557.54,181.10,515545.74,59944.10,166892.05,742381.89
+23279,Snaretool The Constructed,Hafeld Keep,46.71,Planar Rainfate Mithril,104.00,1304.42,320.52,135659.68,33334.08,79427.07,248420.83

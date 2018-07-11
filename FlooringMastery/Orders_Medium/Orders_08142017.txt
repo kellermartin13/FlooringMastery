@@ -1,0 +1,10 @@
+3638,Minnie Lawson "the Apostle",AL,1.00,Dirt,306.00,0.50,1.00,153.00,306.00,4.59,463.59
+8773,Michele Watson "the Loner",ID,0.00,Solid Oak,92.00,5.50,5.50,506.00,506.00,0.00,1012.00
+9711,Renee "Hellish Empress" Banks,NM,2.20,Packed Dirt,118.00,1.00,1.50,118.00,177.00,5.90,300.90
+16406,Gloria "Devil" McCoy,IA,1.21,Reeds,262.00,0.83,2.20,217.46,576.40,7.94,801.80
+16840,Debra "Scorpion" Lane,NV,0.31,Leather,173.00,11.00,19.97,1903.00,3454.81,0.00,5357.81
+17068,Joanne "Damned" Miles,NM,2.66,Dirt,182.00,0.50,1.00,91.00,182.00,8.19,281.19
+21410,Renee "Loco Tracker" Jordan,AL,1.00,Beechwood,204.00,3.63,6.05,740.52,1234.20,19.75,1994.47
+21761,Evelyn "Evil Joker" Taylor,MT,5.84,Reeds,154.00,0.83,2.20,127.82,338.80,28.00,494.62
+23171,Stella "the Bully",ND,1.67,Cedar Planks,149.00,2.20,6.66,327.80,992.34,26.40,1346.54
+23500,Theresa "Scalphunter" Romero,OK,2.93,Beechwood,261.00,3.63,6.05,947.43,1579.05,75.79,2602.27

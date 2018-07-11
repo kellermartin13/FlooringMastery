@@ -1,0 +1,15 @@
+142,Seraphim Tsunami,Pewold Keep,16.95,Magicians' Legendary Poison Metal,253.00,2043.26,208.92,516944.78,52856.76,96866.26,666667.80
+153,Burnchill The Evil,The Grey Plains,18.15,Venom Timegold Of Dwarves,134.00,3036.00,269.00,406824.00,36046.00,79716.60,522586.60
+740,"Uriel, God of Fate",Boiaburh Keep,16.00,Phantasmal Lead,171.00,-457.00,245.47,-78147.00,41975.37,-5787.46,-41959.09
+2359,Bonescare,The Khazahol Crags,-1.97,Fog Lavaplatinum Of Life,192.00,1078.00,17.00,206976.00,3264.00,-4204.80,206035.20
+2462,Rouge Tombreaper,Pawic Keep,0.56,Hell Mercury Of The East,295.00,4636.34,284.60,1367720.30,83957.00,14516.77,1466194.07
+4227,Spikerivet,Barad Cune,26.00,Zephyr Iron,186.00,2759.00,404.26,513174.00,75192.36,152975.25,741341.61
+9339,Scarefear The Blade,Tower Farthing,27.12,Spectres' Shadowy Terrorglow Adamant Of Life,120.00,4694.80,205.50,563376.00,24660.00,158769.72,746805.72
+10016,"Lenwenye, Goddess of Travel",The Tomb of Hellish Ruin,16.94,Shadowy Adamant,275.00,618.93,478.58,170205.75,131609.50,51308.59,353123.84
+12289,Lightning Brand,The Tomb of Gothmog of Udun,-3.30,Toxin Iceplatinum Of The Undead,286.00,-377.06,-59.29,-107839.16,-16956.94,3743.88,-121052.22
+12476,Rouge Tombreaper,The Tomb of Gothmog of Udun,-3.30,Transcendent Gold,238.00,-193.60,282.17,-46076.80,67156.46,-632.39,20447.27
+15254,Blazeflare The Cremator,Lamp Borough,4.95,God-touched Faterainbow Orichalcum Of Spectres,157.00,370.41,32.01,58154.37,5025.57,3159.00,66338.94
+16853,Gravebone The Unspeakable,The Citadel of Cheno,7.33,Mistgold Of Men,355.00,4080.46,53.24,1448563.30,18900.20,102722.44,1570185.94
+17625,"Baltha, Goddess of Knowledge",North Arcanist's Farthing,55.18,Witchs' Forbidden Rockrainbow Bronze,251.00,655.60,425.92,164555.60,106905.92,149303.84,420765.36
+18297,Blazeflare The Cremator,The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,222.00,-17.00,276.00,-3774.00,61272.00,25299.12,82797.12
+22284,Rune Rougehate,Cawold Castle,29.15,Foul Ice Bronze Of Life,163.00,-101.43,157.06,-16533.09,25600.78,2629.63,11697.32

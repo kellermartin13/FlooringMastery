@@ -1,0 +1,18 @@
+1144,Rune Rougehate,Lamp Borough,4.95,Dragons' Poison Glitterflesh Steel Of The North,288.00,2790.70,216.48,803721.60,62346.24,43303.39,909371.23
+1369,Snarepiston The Mechanical,The Broken Arrow,30.07,Starlight Pearldream Bronze,22.00,242.00,134.00,5324.00,2948.00,2481.60,10753.60
+2705,Blazefreeze The Chiller,The Grey Plains,18.15,Rocklava Mithril Of Revenants,161.00,1818.30,13.03,292746.30,2097.83,53071.94,347916.07
+4588,Gravebone,The Barrow of Terrible Horror,-1.10,Ensorceled Gold Of The Dawn,381.00,4293.00,366.29,1635633.00,139556.49,-17751.89,1757437.60
+5366,Fate Seeker,Ring District,35.00,Hell Mercury Of The East,296.00,4636.34,284.60,1372356.64,84241.60,509809.38,1966407.62
+6792,Burnchill The Evil,South Brightcrown Borough,42.25,Glittering Orichalcum,195.00,-144.10,360.23,-28099.50,70244.85,17701.05,59846.40
+10861,Jericho Wolf,Dysley Stronghold,45.98,Sapphire Mindlead,283.00,1307.71,47.00,370081.93,13301.00,176356.15,559739.08
+11415,Valentine Lawslayer,The Fortress of the Lich Queen,36.35,Tin Of The Tundra,224.00,2839.87,174.91,636130.88,39179.84,243111.86,918422.58
+
+13424,Magus Felldrake,The Lost Crypts of Sorrows,35.87,Toxic Mistlead Of The Past,243.00,1557.54,136.06,378482.22,33062.58,148156.13,559700.93
+14570,Chainhorror,The Citadel of Alammius,3.50,Legendary Mithril Of The Moon,306.00,2707.10,125.84,828372.60,38507.04,34675.19,901554.83
+16130,Evilcoil The Machine,Peley Keep,26.33,Toxin Iceplatinum Of The Undead,62.00,-377.06,-59.29,-23377.72,-3675.98,-7033.96,-34087.66
+16175,Spikesnare,Peley Keep,26.33,Timeiron,49.00,1596.00,251.16,78204.00,12306.84,23532.82,114043.66
+16904,Wind Dire,Lacot Stronghold,45.22,Warlocks' Timerot Mithril,100.00,2917.07,112.00,291707.00,11200.00,136308.15,439215.15
+
+20419,Freezebrood,The Warrior and Flagon,53.24,Unspeakable Rotsoul Mithril Of Souls,211.00,272.80,485.85,57560.80,102514.35,84839.83,244914.98
+20779,Magus Felldrake,The Bastion of the Lich Tyrant,52.03,Planar Obsidian Mercury Of Wizards,233.00,2831.40,155.73,659716.20,36285.09,361920.67,1057921.96
+22002,Storm Seraphheart,The Beggar and Cask,25.41,Sphinxes' Unknown Poisongold Of The Future,294.00,4301.28,23.86,1264576.32,7014.84,317897.79,1589488.95

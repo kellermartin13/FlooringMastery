@@ -1,0 +1,12 @@
+54,Jericho Wolf,The Fortress of Asmamur,-4.48,Shadowhell Mithril,52.00,363.00,215.18,18876.00,11189.36,-1202.61,28862.75
+106,Rouge Roguemist,Waleah Castle,0.77,Planar Mudtin Of Trolls,202.00,2094.92,335.36,423173.84,67742.72,4909.17,495825.73
+1834,Snowflame The Evil,The Forsaken Tomb of Devastation,0.00,Planar Mudtin Of Trolls,81.00,2094.92,335.36,169688.52,27164.16,0.00,196852.68
+5624,Sephiroth Drakecaster,The Dungeon of Merciless Woe,38.62,Negative Rockglitter Mercury Of Trolls,344.00,1483.90,423.07,510461.60,145536.08,255839.10,911836.78
+7468,"Finarfin, God of Protection",The Dancing Minstrel,21.20,Angels' Adamant,198.00,1304.00,179.30,258192.00,35501.40,61675.61,355369.01
+9277,Sunrise Godwarlock,Weke Tower,-0.05,Violetstone Tin Of Death,219.00,2245.23,156.10,491705.37,34185.90,0.00,525891.27
+11676,Gale Jackalguard,Unicorn's Ward,14.64,Meteoric Dustzephyr Orichalcum,129.00,375.00,268.49,48375.00,34635.21,12451.53,95461.74
+11931,Tiger Mistmidnight,The Citadel of Cheno,7.33,Unicorns' Fatal Magma Metal Of The Ocean,215.00,1971.24,392.70,423816.60,84430.50,35577.30,543824.40
+15170,"Zepul, Lady of Vengeance",Shainan's Hold,23.96,Heavenly Dreamsilver Of The Night,209.00,2009.68,112.00,420023.12,23408.00,106423.47,549854.59
+16840,"Prusu, God of Love",The Forsaken Sepulcher of Sorrows,53.67,Ensorceled Gold Of The Dawn,295.00,6913.92,402.92,2039606.40,118861.40,1165572.61,3324040.41
+22478,"Azah, Goddess of Fate",Gawold Castle,6.05,Yellow Mistearth Copper,194.00,5536.45,-33.15,1074071.30,-6431.10,64058.41,1131698.61
+22694,Deathspike The Terrifying,The Greedy Wench,43.53,Violetdream Iron,328.00,1630.07,349.36,534662.96,114590.08,285671.34,934924.38

@@ -1,0 +1,10 @@
+1451,Gravebone The Unspeakable,The Tomb of Hellish Ruin,14.00,Green Dustlightning Mercury,163.00,3517.00,32.00,573271.00,5216.00,80988.18,659475.18
+2831,Cult Godseeker,The Khazahol Crags,-1.97,Primal Adamant,271.00,4562.80,249.00,1236518.80,67479.00,-26079.96,1277917.84
+4992,Emberfire,North Grove Ward,6.60,Devils' Falserot Silver,26.00,1668.51,182.71,43381.26,4750.46,3369.22,51500.94
+5716,Flameshiver,Barad Kesa,4.32,Angels' Adamant,177.00,1304.00,179.30,230808.00,31736.10,10501.76,273045.86
+7289,Song Runetomb,Tradun Castle,34.24,Toxic Mistlead Of The Past,300.00,1557.54,136.06,467262.00,40818.00,172747.20,680827.20
+7726,"Iran, Lord of Nightmares",Lordsgate Farthing,41.14,Heavenly Dreamsilver Of The Night,273.00,2009.68,112.00,548642.64,30576.00,237479.64,816698.28
+10139,Burnfreeze The Cold,The Dungeon of Dismal Terror,-3.50,Magicians' Legendary Poison Metal,241.00,2247.59,229.81,541669.19,55384.21,-23882.14,573171.26
+12035,"Ingwenel, God of War",The Black Barrow of Bery,-0.07,Unicorns' Evil Mithril,217.00,4802.49,312.00,1042140.33,67704.00,0.00,1109844.33
+13655,Cinderflame,The Lost Crypts of Sorrows,35.87,Ghostly Soul Adamant,233.00,3222.96,229.53,750949.68,53480.49,289594.86,1094025.03
+22701,Magus Felldrake,The Lost Crypts of Sorrows,35.87,Magic Adamant,275.00,2021.80,228.40,555995.00,62810.00,222769.80,841574.80

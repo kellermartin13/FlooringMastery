@@ -1,0 +1,14 @@
+1137,Spikecrank,The Dungeon of Merciless Woe,38.62,White Platinum,204.00,-47.81,145.00,-9753.24,29580.00,7732.44,27559.20
+2441,Wind Dire,The Cracked Chalice,2.29,Mana-touched Greenglitter Gold Of Giants,129.00,1173.98,425.00,151443.42,54825.00,4125.37,210393.79
+2871,Evilcoil The Machine,The Fortress of Gama,10.16,Mithril Of The Tropics,180.00,3751.00,9.00,675180.00,1620.00,67680.00,744480.00
+5649,Bedlam Spiritraven,Unicorn's Ward,13.31,Forgotten Mithril,274.00,913.00,316.00,250162.00,86584.00,43776.98,380522.98
+6644,Law Lionwatcher,Noble's Village,27.50,Magic Adamant,234.00,1838.00,207.64,430092.00,48587.76,134030.33,612710.09
+9950,"Uriel, God of Fate",The Citadel of Lord Greywulf,33.04,Meteoric Dustzephyr Orichalcum,312.00,375.00,244.08,117000.00,76152.96,63740.48,256893.44
+13297,Rouge Roguemist,The Warrior and Flagon,53.24,White Platinum,131.00,-63.64,159.50,-8336.84,20894.50,6655.56,19213.22
+14450,Fate Seeker,Grove Farthing,19.80,Ensorceled Sandmetal Of Spirits,78.00,2956.98,95.70,230644.44,7464.60,47621.81,285730.85
+14510,Gravebone,Archscepter Borough,3.30,Swordbronze,128.00,1485.01,447.01,190081.28,57217.28,7418.96,254717.52
+14750,Spikerivet,The Archer and Scroll,39.60,Witchs' Forbidden Rockrainbow Bronze,215.00,655.60,425.92,140954.00,91572.80,93010.72,325537.52
+15742,Seraphim Tsunami,Gili's Delve,-6.73,Primordial False Gold,266.00,5395.80,248.60,1435282.80,66127.60,-105098.73,1396311.67
+21022,Cult Godseeker,South Brightcrown Borough,42.25,Sapphire Mindlead,255.00,1307.71,51.70,333466.05,13183.50,145592.81,492242.36
+22286,"Ingwenel, God of War",The Beggar and Cask,25.41,Yellow Mistearth Copper,283.00,5536.45,-33.15,1566815.35,-9381.45,389358.48,1946792.38
+23221,Snaretool The Constructed,Barad Kesa,5.23,White Platinum,245.00,-63.64,193.00,-15591.80,47285.00,1584.66,33277.86

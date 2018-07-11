@@ -1,0 +1,13 @@
+2242,Springcoil,The Chuallanto Jungle,37.00,Magicians' Legendary Poison Metal,271.00,2043.26,229.81,553723.46,62278.51,227920.73,843922.70
+6743,Dawn Darkzealot,Grove Farthing,18.00,Glittering Orichalcum,233.00,-144.10,360.23,-33575.30,83933.59,9064.49,59422.78
+8069,Gale Jackalguard,The Tower of Aramum,42.90,Meteoric Mirrormuck Orichalcum Of The Forests,54.00,2158.20,185.77,116542.80,10031.58,54426.98,181001.36
+8897,"Azah, Goddess of Fate",The Fen of the Necromancer,54.57,Phantasmal Smokezephyr Mercury Of Men,261.00,-383.77,75.90,-100163.97,19809.90,-44194.74,-124548.81
+8918,Dawn Darkzealot,Moor Village,57.42,Foul Ice Bronze Of Life,245.00,-92.21,129.80,-22591.45,31801.00,5249.44,14458.99
+11583,Icechill The Frigid,The Archer and Scroll,39.60,God-touched Greengem Platinum,96.00,1281.72,-39.60,123045.12,-3801.60,47697.41,166940.93
+17297,Sephiroth Drakecaster,Shainan's Hold,23.96,Grayplatinum,366.00,2506.27,306.97,917294.82,112351.02,247115.00,1276760.84
+18950,Bronzespike,The Pilgrim's Cup,46.12,Ensorceled Sandmetal Of Spirits,165.00,2956.98,95.70,487901.70,15790.50,231698.41,735390.61
+20375,Flameflare The Evil,Grori's Deep,66.50,Zephyr Adamant,261.00,4224.00,113.22,1102464.00,29550.42,747129.52,1879143.94
+20754,"Lenwenye, Goddess of Travel",Eved Castle,5.09,Angels' Adamant,290.00,1434.40,197.23,415976.00,57196.70,23658.64,496831.34
+21250,Spikesnare,Pawic Keep,0.62,Golems' Stonesapphire Gold Of The Glacier,180.00,4444.06,128.23,799930.80,23081.40,8230.12,831242.32
+21781,Flora Amberslayer,The Tomb of Hellish Ruin,16.94,Ensorceled Sandmetal Of Spirits,170.00,2956.98,95.70,502686.60,16269.00,88222.45,607178.05
+23207,Bane Veil,The Bastion of Barbos,28.34,Ensorceled Gold Of The Dawn,362.00,6913.92,443.21,2502839.04,160442.02,745718.70,3408999.76

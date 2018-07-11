@@ -1,0 +1,7 @@
+1286,Clash Lonedrake,The Dungeon of Merciless Woe,38.62,Mithril Of Legend,290.00,2068.00,52.07,599720.00,15100.30,239779.92,854600.22
+1574,Law Lionwatcher,The Beggar and Cask,21.00,Green Dustlightning Mercury,54.00,3517.00,32.00,189918.00,1728.00,40245.66,231891.66
+12592,Blazeflare The Cremator,The Nulukkhath Spires,10.59,Tin Of The Tundra,200.00,3123.86,174.91,624772.00,34982.00,72572.94,732326.94
+12733,Lance Knightseraph,The Glano Forest,3.00,Forgotten Mithril,344.00,1104.73,316.00,380027.12,108704.00,14661.93,503393.05
+16379,Cult Godseeker,Fellfen Keep,61.53,Angels' Smoke Adamant Of The Mountains,82.00,3427.13,236.50,281024.66,19393.00,186258.95,486676.61
+19076,"Zepul, Lady of Vengeance",Bifar's Deep,18.70,Unspeakable Rotsoul Mithril Of Souls,162.00,248.00,485.85,40176.00,78707.70,22587.90,141471.60
+19633,Wind Dire,Noble's Village,33.28,Goddesses' Spectral Poison Steel,158.00,5023.18,296.81,793662.44,46895.98,277384.28,1117942.70

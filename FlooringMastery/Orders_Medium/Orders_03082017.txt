@@ -1,0 +1,18 @@
+468,Vicki "Mesa" Rhodes,ND,1.25,Pinecones,288.00,1.50,2.00,432.00,576.00,10.08,1018.08
+2092,Melissa "Lonesome Stalker" Riley,MT,3.00,Solid Oak,253.00,5.00,5.00,1265.00,1265.00,75.90,2605.90
+4732,Tina "Lady" Anderson,MT,3.00,Pebbles,184.00,0.80,4.40,147.20,809.60,28.70,985.50
+6107,Jacqueline "Riding Doc" Washington,MT,3.00,Packed Dirt,333.00,1.00,1.50,333.00,499.50,24.98,857.48
+8345,Tina "Lady" Anderson,WY,0.31,Pebbles,110.00,0.88,4.84,96.80,532.40,0.00,629.20
+11265,Susan "Damnation" Fleming,IA,1.21,Reeds,217.00,0.75,2.20,162.75,477.40,6.40,646.55
+11558,Lena Chapman "the Bully",KS,0.55,Beechwood,298.00,3.00,5.50,894.00,1639.00,25.33,2558.33
+12323,"Bane" Jennings,MO,2.20,Beechwood,319.00,3.30,5.50,1052.70,1754.50,56.14,2863.34
+12965,Mattie Grant "the Gambler",WY,0.31,Cedar Planks,255.00,2.20,6.05,561.00,1542.75,0.00,2103.75
+13392,Elizabeth "the Bully",OK,2.42,Cedar Planks,186.00,2.20,6.05,409.20,1125.30,30.69,1565.19
+13497,Darlene "Loner" Ford,TX,0.67,Brick,151.00,5.32,6.66,803.32,1005.66,18.09,1827.07
+13764,Cathy "Loner Demon" Murray,ND,1.38,Pinecones,264.00,1.50,2.66,396.00,702.24,10.98,1109.22
+15113,Melissa "Lonesome Stalker" Riley,NV,0.31,Leather,93.00,11.00,18.15,1023.00,1687.95,0.00,2710.95
+18087,Wilma "Tornado" Brooks,TX,0.67,Pebbles,237.00,0.88,4.84,208.56,1147.08,13.56,1369.20
+20949,Cynthia "the Vixen",ID,0.00,Solid Oak,318.00,5.50,6.66,1749.00,2117.88,0.00,3866.88
+21294,Marie "Raven" Chapman,KS,0.55,Solid Oak,201.00,5.50,6.66,1105.50,1338.66,24.44,2468.60
+23137,Lorraine "Utah" Adams,MO,2.20,Dirt,159.00,0.55,1.00,87.45,159.00,4.93,251.38
+23456,Michele Watson "the Loner",MT,5.84,Beechwood,163.00,3.63,6.05,591.69,986.15,94.67,1672.51

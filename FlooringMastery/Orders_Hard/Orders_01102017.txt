@@ -1,0 +1,17 @@
+2932,Springsprocket,The Grey Plains,19.97,Zephyr Iron,303.00,2759.00,404.26,835977.00,122490.78,191693.56,1150161.34
+2935,Wheelbolt The Machine,The Hunter and Rose,40.40,Zephyr Iron,161.00,2759.00,404.26,444199.00,65085.86,203713.94,712998.80
+3415,Snaretool The Constructed,Gawold Castle,5.00,Ensorceled Sandmetal Of Spirits,184.00,2956.98,87.00,544084.32,16008.00,28004.62,588096.94
+5166,"Uriel, God of Fate",The Broken Arrow,30.07,Mithril Of Legend,164.00,2274.80,63.01,373067.20,10333.64,115020.25,498421.09
+6120,"Nelalwe, Lady of Fire",The Tower of Aramum,39.00,Greenlead,280.00,793.10,148.47,222068.00,41571.60,102819.44,366459.04
+7638,Springcoil,The Tower of Aramum,42.90,Djinni's Mind Fogiron,244.00,2301.02,74.02,561448.88,18060.88,249189.20,828698.96
+10215,Fate Seeker,The Dark Caverns of Woe,3.29,Meteoric Dustzephyr Orichalcum,251.00,375.00,244.08,94125.00,61264.08,4661.67,160050.75
+12925,Bronzespawn,The Desert of Flames,51.91,Phantasmal Smokezephyr Mercury Of Men,225.00,-464.37,75.90,-104483.25,17077.50,-45450.99,-132856.74
+14102,Shiverflame The Freezer,The Lost Sanctum of Woe,3.00,Sprites' Transcendent Mud Lead Of The South,199.00,2081.80,321.86,414278.20,64050.14,14349.85,492678.19
+14285,Nettool The Grasping,The Bastion of the Lich Tyrant,43.00,Sprites' Transcendent Mud Lead Of The South,201.00,2081.80,321.86,418441.80,64693.86,207748.33,690883.99
+18890,Rose Anchor,Reyny Keep,11.00,Tin Of The Tundra,224.00,3436.25,174.91,769720.00,39179.84,88978.98,897878.82
+19785,Lance Knightseraph,Castle Village,49.93,Goddesses' Spectral Poison Steel,230.00,5023.18,296.81,1155331.40,68266.30,611798.85,1835396.55
+20021,Harmony Angelchild,Moor Village,76.43,Foulopal Copper Of The Skies,189.00,1787.91,403.00,337914.99,76167.00,314702.31,728784.30
+20488,Maverick Wind,Grori's Deep,66.50,Golems' Stonesapphire Gold Of The Glacier,239.00,4444.06,116.57,1062130.34,27860.23,719393.78,1809384.35
+21980,Spikerivet,The Wizard's House,43.58,Poison Adamant,289.00,1266.52,70.88,366024.28,20484.32,170063.78,556572.38
+22569,Spikesnare,The Desert of Flames,57.10,Hidden Shadowice Lead,129.00,2729.00,-62.23,352041.00,-8027.67,196087.60,540100.93
+22643,Wheelbolt The Machine,The Demon and Toad,31.61,Icy Shock Silver,259.00,1631.28,595.89,422501.52,154335.51,184587.85,761424.88

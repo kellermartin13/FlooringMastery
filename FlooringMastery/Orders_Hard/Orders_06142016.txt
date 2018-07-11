@@ -1,0 +1,22 @@
+141,Spikesnare,The Fortress of Asmamur,-4.48,Toxic Mistlead Of The Past,212.00,1557.54,123.69,330198.48,26222.28,-14256.83,342163.93
+761,"Ariel, God of Luck",The Dungeon of Merciless Woe,38.62,Hidden Shadowice Lead,300.00,2729.00,-46.75,818700.00,-14025.00,313823.25,1118498.25
+1019,"Alas, Lord of Plague",Reyny Keep,11.00,Primordial False Gold,151.00,4459.34,226.00,673360.34,34126.00,77823.50,785309.84
+4972,Emberfire,The Archer and Scroll,39.60,Trolls' Rubymercury Of The Sunset,177.00,506.00,198.00,89562.00,35046.00,49843.20,174451.20
+6122,Valentine Lawslayer,The Pirate's Pipe,17.60,Primal Adamant,218.00,4562.80,273.90,994690.40,59710.20,189792.11,1244192.71
+6708,Gravebone The Unspeakable,South Brightcrown Borough,42.25,Glittering Orichalcum,186.00,-144.10,360.23,-26802.60,67002.78,16884.08,57084.26
+7397,Cult Godseeker,Palace Farthing,43.31,Angels' Adamant,145.00,1304.00,179.30,189080.00,25998.50,92483.76,307562.26
+7848,Magus Felldrake,Grori's Deep,49.95,Violetstone Tin Of Death,241.00,2245.23,156.10,541100.43,37620.10,289360.26,868080.79
+8020,"Nelalwe, Lady of Fire",Lordsgate Farthing,41.14,Toxin Iceplatinum Of The Undead,209.00,-342.78,-53.90,-71641.02,-11265.10,-33991.51,-116897.63
+9727,Nettool The Grasping,Lamp Borough,4.95,Goddesses' Spectral Poison Steel,71.00,3773.99,269.83,267953.29,19157.93,14355.56,301466.78
+9888,Wheelspawn,The Warrior and Flagon,48.40,Meteoric Dustzephyr Orichalcum,193.00,375.00,244.08,72375.00,47107.44,57351.57,176834.01
+10507,Steelterror The Blade,The Demon and Toad,23.75,Icy Shock Silver,242.00,1482.98,407.00,358881.16,98494.00,109770.04,567145.20
+11811,Metalghoul,The Citadel of Cheno,7.33,Magic Adamant,116.00,1838.00,228.40,213208.00,26494.40,16779.17,256481.57
+12225,Rouge Roguemist,Archscepter Borough,3.00,God-touched Faterainbow Orichalcum Of Spectres,123.00,370.41,32.01,45560.43,3937.23,1484.93,50982.59
+13755,Evilcoil The Machine,The Greedy Wench,32.70,Spectres' Shadowy Terrorglow Adamant Of Life,150.00,5164.28,248.66,774642.00,37299.00,267940.53,1079881.53
+14411,Burnfreeze The Cold,The Beggar and Cask,25.41,Unknown Fatelightning Steel Of The Glacier,211.00,2441.05,65.68,515061.55,13858.48,132230.01,661150.04
+15071,Lord Mystery,Minas Gilloy,43.19,Muck Orichalcum Of Ogres,233.00,3769.54,401.45,878302.82,93537.85,417891.49,1389732.16
+15190,Tiger Mistmidnight,The Cracked Chalice,2.52,Muck Orichalcum Of Ogres,235.00,3769.54,401.45,885841.90,94340.75,29405.48,1009588.13
+18067,"Gadriel, God of Resurrection",The Hunter and Rose,44.44,Goddesses' Spectral Poison Steel,227.00,4566.53,296.81,1036602.31,67375.87,485750.40,1589728.58
+18392,Snowflame The Evil,Boiaburh Keep,17.60,Undeads' Mind Orichalcum Of The Twilight,173.00,-17.00,276.00,-2941.00,47748.00,8065.26,52872.26
+19127,Nailpiston The Grasping,Hafeld Keep,46.71,Mana-touched Greenglitter Gold Of Giants,39.00,1291.38,514.25,50363.82,20055.75,33097.20,103516.77
+19974,Clash Lonedrake,The Forsaken Sepulcher of Sorrows,53.67,Timeiron,326.00,1596.00,251.16,520296.00,81878.16,325174.05,927348.21

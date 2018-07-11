@@ -1,0 +1,25 @@
+1341,Cathy "Loner Demon" Murray,NV,0.25,Cedar Planks,246.00,2.00,5.00,492.00,1230.00,0.00,1722.00
+2399,Diana "Mistress" Morgan,MO,2.20,Dirt,288.00,0.50,1.00,144.00,288.00,8.64,440.64
+3711,Kathy Murphy "the Thinker",IA,1.10,Pinecones,350.00,1.50,2.20,525.00,770.00,12.95,1307.95
+3847,Amanda Hart "the Loner",MO,2.20,Pebbles,224.00,0.80,4.40,179.20,985.60,23.30,1188.10
+4024,Helen Webb "the Dancer",NM,2.20,Cedar Planks,316.00,2.00,5.50,632.00,1738.00,47.40,2417.40
+4061,Betty "Happy Thinker" Watson,ND,1.25,Solid Oak,292.00,5.50,5.00,1606.00,1460.00,30.66,3096.66
+8173,Vanessa "Scalper" Rhodes,UT,0.00,Packed Dirt,141.00,1.00,1.50,141.00,211.50,0.00,352.50
+9027,Gloria "Devil" McCoy,AR,2.20,Beechwood,258.00,3.00,5.50,774.00,1419.00,43.86,2236.86
+9368,Elizabeth "the Bully",OK,2.20,Pinecones,99.00,1.50,2.66,148.50,263.34,8.24,420.08
+10750,Mabel "Vixen Cursed" King,ID,0.00,Pebbles,56.00,0.88,4.84,49.28,271.04,0.00,320.32
+10847,Lena Chapman "the Bully",NV,0.31,Pebbles,207.00,0.88,4.84,182.16,1001.88,0.00,1184.04
+10944,Helen Webb "the Dancer",NV,0.31,Leather,294.00,10.00,18.15,2940.00,5336.10,0.00,8276.10
+11421,Vicki "Mesa" Rhodes,NM,2.20,Brick,106.00,4.84,6.66,513.04,705.96,24.38,1243.38
+11576,Julia "Bandit" Chandler,KS,0.55,Brick,253.00,4.84,6.66,1224.52,1684.98,29.10,2938.60
+12617,Lena Chapman "the Bully",TX,0.67,Packed Dirt,57.00,1.00,1.65,57.00,94.05,1.51,152.56
+12797,Helen Webb "the Dancer",AR,2.20,Beechwood,299.00,3.30,5.50,986.70,1644.50,52.62,2683.82
+14639,Friendly Howell,KS,0.55,Pinecones,209.00,1.50,2.66,313.50,555.94,8.69,878.13
+14783,"Bane" Jennings,ID,0.00,Solid Oak,235.00,5.50,5.50,1292.50,1292.50,0.00,2585.00
+14850,Joanne "Damned" Miles,IA,1.21,Pebbles,320.00,0.88,4.84,281.60,1548.80,18.30,1848.70
+15109,Marie "Raven" Chapman,WY,0.31,Packed Dirt,106.00,1.10,2.20,116.60,233.20,0.00,349.80
+15123,Melissa "Lonesome Stalker" Riley,AL,1.00,Pebbles,225.00,0.88,4.84,198.00,1089.00,12.87,1299.87
+15885,"Sunrise" Miles,IA,1.21,Brick,65.00,5.32,6.66,345.80,432.90,7.79,786.49
+21504,Beth "Fortunate Shooter" Powell,WY,0.31,Reeds,368.00,0.83,2.20,305.44,809.60,0.00,1115.04
+21590,"Scalphunter" Kennedy,AR,2.20,Cedar Planks,181.00,2.20,6.66,398.20,1205.46,32.07,1635.73
+23261,Marie "Raven" Chapman,OK,2.93,Dirt,291.00,0.55,1.00,160.05,291.00,13.53,464.58

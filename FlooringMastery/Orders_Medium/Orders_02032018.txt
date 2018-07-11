@@ -1,0 +1,18 @@
+758,Vengeful Robertson,ID,0.00,Packed Dirt,226.00,1.00,1.50,226.00,339.00,0.00,565.00
+5005,Joanne "Damned" Miles,MS,3.00,Packed Dirt,292.00,1.00,1.50,292.00,438.00,21.90,751.90
+5133,"Bane" Jennings,NV,0.25,Beechwood,165.00,3.00,5.00,495.00,825.00,0.00,1320.00
+5354,Minnie Lawson "the Apostle",NV,0.25,Packed Dirt,332.00,1.00,1.50,332.00,498.00,0.00,830.00
+6228,Maureen "Cursed" Andrews,KS,0.50,Packed Dirt,231.00,1.00,1.50,231.00,346.50,0.00,577.50
+7535,Minnie Lawson "the Apostle",NM,2.20,Reeds,33.00,0.75,2.20,24.75,72.60,1.95,99.30
+9450,Cathy "Wildfire" Neal,ND,1.25,Packed Dirt,214.00,1.00,1.50,214.00,321.00,5.35,540.35
+14216,"Scalphunter" Kennedy,AR,2.20,Reeds,70.00,0.75,2.20,52.50,154.00,4.13,210.63
+14692,Michele Watson "the Loner",MS,3.00,Beechwood,172.00,3.63,5.50,624.36,946.00,47.11,1617.47
+15396,Minnie Lawson "the Apostle",MS,3.00,Cedar Planks,83.00,2.20,6.05,182.60,502.15,20.54,705.29
+15440,Betty "Happy Thinker" Watson,MO,2.20,Packed Dirt,74.00,1.10,2.20,81.40,162.80,4.88,249.08
+16626,Tina "Lady" Anderson,NM,2.66,Pinecones,159.00,1.50,2.66,238.50,422.94,19.84,681.28
+18551,Dorothy "the Hunter",WY,0.31,Pebbles,254.00,0.88,4.84,223.52,1229.36,0.00,1452.88
+19165,Theresa "Scalphunter" Romero,WY,0.31,Pebbles,267.00,0.88,4.84,234.96,1292.28,0.00,1527.24
+20726,Tammy Carlson "the Killer",UT,0.00,Reeds,350.00,0.83,2.20,290.50,770.00,0.00,1060.50
+23079,Vengeful Montgomery,KS,0.55,Reeds,297.00,0.91,2.42,270.27,718.74,9.89,998.90
+23170,Elizabeth "the Bully",MT,5.84,Pebbles,300.00,0.88,5.32,264.00,1596.00,111.60,1971.60
+23206,Jo "the Joker",ND,1.67,Pebbles,120.00,0.88,5.32,105.60,638.40,14.88,758.88

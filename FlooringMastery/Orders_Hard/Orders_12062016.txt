@@ -1,0 +1,21 @@
+587,Cult Godseeker,Gifeld Castle,5.65,Venom Jewelmetal Of The Desert,270.00,1388.00,224.00,374760.00,60480.00,26114.40,461354.40
+786,Spikespawn,The Shadow Downs,13.21,White Platinum,205.00,-47.81,145.00,-9801.05,29725.00,2590.11,22514.06
+4296,Valentine Lawslayer,The Wizard's House,43.58,Vampires' Fang Emeraldsilver,209.00,2283.46,455.55,477243.14,95209.95,251879.36,824332.45
+4336,Blazefreeze The Chiller,Fellfen Keep,42.03,Incubi's Glittering Tin Of The Future,238.00,2516.56,72.60,598941.28,17278.80,258812.43,875032.51
+4743,Sunrise Godwarlock,The Demon and Toad,23.75,Meteoric Mirrormuck Orichalcum Of The Forests,227.00,1962.00,185.77,445374.00,42169.79,117010.51,604554.30
+7855,Scarefear The Blade,The Dungeon of Dismal Terror,-3.50,Meteoric Mirrormuck Orichalcum Of The Forests,210.00,2158.20,185.77,453222.00,39011.70,-19689.35,472544.35
+8257,"Prusu, God of Love",Gili's Delve,-5.05,Glowpearl Adamant Of Spirits,93.00,398.09,374.00,37022.37,34782.00,-3590.22,68214.15
+8759,Tarot Dawn,The Citadel of Tattena the Sinister,12.13,Goddesses' Spectral Poison Steel,239.00,3773.99,269.83,901983.61,64489.37,115976.76,1082449.74
+10104,Storm Squallmourner,The Dungeon of Dismal Terror,-3.50,Magicians' Legendary Poison Metal,201.00,2247.59,229.81,451765.59,46191.81,-19918.30,478039.10
+10239,Bonescare,The Warrior and Flagon,48.40,Shadowy Adamant,177.00,618.93,478.58,109550.61,84708.66,93244.45,287503.72
+13411,Ironbrood,The Broken Shield,37.23,White Platinum,260.00,-63.64,159.50,-16546.40,41470.00,9221.73,34145.33
+14198,Shadow Gust,Dysley Stronghold,45.98,Tritons' Time Stoneiron Of Legend,347.00,1760.00,204.37,610720.00,70916.39,313552.74,995189.13
+15530,Jericho Wolf,Gili's Delve,-6.73,Djinni's Spectral Shadowlead Of Life,240.00,4076.49,325.62,978357.60,78148.80,-73955.45,982550.95
+16024,Terrorghoul The Unspeakable,Gili's Delve,-6.73,Nymphs' Luminous Rotmercury Of The Skies,310.00,292.60,189.00,90706.00,58590.00,-10450.72,138845.28
+16720,"Ingwenel, God of War",Boiaburh Keep,16.00,Shadowhell Mithril,326.00,483.15,315.05,157506.90,102706.30,41634.11,301847.31
+18279,Bronzespike,The Hunter and Rose,44.44,Rocklava Mithril Of Revenants,193.00,2200.14,14.33,424627.02,2765.69,188052.79,615445.50
+19058,Rouge Roguemist,The Bastion of Barbos,28.34,Unspeakable Rotsoul Mithril Of Souls,380.00,248.00,485.85,94240.00,184623.00,78081.64,356944.64
+19466,"Ingwenel, God of War",Castle Village,49.93,Sirens' Rockgold,223.00,-352.01,199.96,-78498.23,44591.08,-16953.58,-50860.73
+20963,"Sielach, God of Fate",The Hunter and Rose,44.44,Sapphire Mindlead,324.00,1307.71,51.70,423698.04,16750.80,193797.49,634246.33
+21362,Dagger Reaper,Moor Village,76.43,God-touched Faterainbow Orichalcum Of Spectres,224.00,370.41,35.21,82971.84,7887.04,69052.75,159911.63
+22967,Burnbrood The Freezer,The Secret Shrine of the Gargoyle Count,-2.00,Yellow Mistearth Copper,172.00,6090.10,-33.15,1047497.20,-5701.80,-20835.91,1020959.49

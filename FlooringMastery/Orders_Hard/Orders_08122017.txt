@@ -1,0 +1,14 @@
+1772,Bolttrap,The Chuallanto Jungle,37.00,Spirits' Living Wordhammer Tin Of The Trees,18.00,4343.00,26.40,78174.00,475.20,29100.20,107749.40
+2102,Evilcoil The Machine,Haukri's Hold,25.30,Angels' Adamant,198.00,1304.00,179.30,258192.00,35501.40,73423.35,367116.75
+3063,Fate Seeker,Tradun Castle,31.13,Phantasmal Smokezephyr Mercury Of Men,154.00,-317.16,69.00,-48842.64,10626.00,-11847.16,-50063.80
+3528,Nailpiston The Grasping,The Forsaken Hive of Galima the Mighty,22.45,Evilsilver,60.00,1486.85,79.86,89211.00,4791.60,20680.57,114683.17
+5234,"Selik, God of Death",Haukri's Hold,25.30,Primordial Plague Mercury Of Legend,215.00,339.81,273.90,73059.15,58888.50,32986.91,164934.56
+7770,Gravebone The Unspeakable,The Tower of Aramum,42.90,Shadowy Adamant,168.00,618.93,478.58,103980.24,80401.44,79284.12,263665.80
+10804,Evilbrood,The Demon and Toad,23.75,Hell Mercury Of The East,45.00,4636.34,313.06,208635.30,14087.70,53453.52,276176.52
+12465,"Iran, Lord of Nightmares",The Dismal Marsh,6.05,Incubi's Iron Of The Dawn,231.00,1200.96,424.31,277421.76,98015.61,22526.24,397963.61
+13859,"Zepul, Lady of Vengeance",The Greedy Wench,32.70,Sphinxes' Mistsoul Bronze Of The Past,242.00,2169.81,202.07,525094.02,48900.94,189418.34,763413.30
+14558,Fate Seeker,The Beggar and Cask,25.41,Witchs' Forbidden Rockrainbow Bronze,131.00,655.60,425.92,85883.60,55795.52,35419.78,177098.90
+14649,Nettool The Grasping,The Tower of Aramum,42.90,Ensorceled Sandmetal Of Spirits,338.00,2956.98,95.70,999459.24,32346.60,443676.51,1475482.35
+16415,Storm Seraphheart,Reyny Keep,11.00,Starlight Pearldream Bronze,170.00,322.10,147.40,54757.00,25058.00,8779.65,88594.65
+17428,"Iran, Lord of Nightmares",The Citadel of Alammius,3.85,Sphinxes' Mistsoul Bronze Of The Past,167.00,2169.81,222.28,362358.27,37120.76,15979.16,415458.19
+18325,"Byzou, God of Animals",The Nulukkhath Spires,11.65,Rocklava Mithril Of Revenants,186.00,2200.14,14.33,409226.04,2665.38,49426.97,461318.39

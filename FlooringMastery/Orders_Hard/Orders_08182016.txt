@@ -1,0 +1,13 @@
+848,Lance Knightseraph,The Forsaken Tomb of Devastation,0.00,Phantasmal Lead,60.00,-457.00,245.47,-27420.00,14728.20,0.00,-12691.80
+2888,Lord Mystery,The Bastion of the Vampire Duke,19.28,Phantasmal Smokezephyr Mercury Of Men,77.00,-317.16,69.00,-24421.32,5313.00,-3630.58,-22738.90
+3245,Gravebone,Reheath Stronghold,8.00,Ensorceled Sandmetal Of Spirits,192.00,2956.98,87.00,567740.16,16704.00,46755.53,631199.69
+3849,Fate Ivycaster,Citadel Ward,25.82,Foulopal Copper Of The Skies,97.00,1221.16,403.00,118452.52,39091.00,40961.32,198504.84
+5426,"Lionare, God of the Lost",Arcanist's Farthing,3.00,Primordial False Gold,24.00,4459.34,226.00,107024.16,5424.00,3373.44,115821.60
+7083,"Finarfin, God of Protection",Barad Kesa,4.32,Hell Mercury Of The East,161.00,4636.34,284.60,746450.74,45820.60,31690.85,823962.19
+11062,Seraphim Tsunami,Shainan's Hold,23.96,Sapphire Mindlead,223.00,1307.71,47.00,291619.33,10481.00,72504.08,374604.41
+13877,"Uriel, God of Fate",Lacot Stronghold,37.37,Shadowhell Mithril,23.00,483.15,286.41,11112.45,6587.43,6548.96,24248.84
+14876,Shadow Tomblion,The Cuitamba Jungle,30.80,Legendary Mithril Of The Moon,238.00,2707.10,125.84,644289.80,29949.92,209014.31,883254.03
+17024,"Addon, Lord of Death",The Flying Witch,12.60,Primordial Mud Orichalcum,212.00,-469.36,85.11,-99504.32,18043.32,-10589.93,-92050.93
+20078,"Baltha, Goddess of Knowledge",The Bloody Wand,15.97,Incubi's Iron Of The Dawn,67.00,1200.96,424.31,80464.32,28428.77,17422.89,126315.98
+20443,Ironbrood,The Black Barrow of Bery,-0.10,Toxin Iceplatinum Of The Undead,332.00,-377.06,-59.29,-125183.92,-19684.28,0.00,-144868.20
+21988,Flameflare The Evil,Barad Kesa,5.23,Meteoric Mirrormuck Orichalcum Of The Forests,169.00,2374.02,185.77,401209.38,31395.13,21630.23,454234.74

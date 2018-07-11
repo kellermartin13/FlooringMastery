@@ -1,0 +1,26 @@
+1038,Florence "Leather Doc" Grant,ND,1.25,Leather,221.00,10.00,15.00,2210.00,3315.00,55.25,5580.25
+2981,Theresa "Scalphunter" Romero,ND,1.25,Pinecones,239.00,1.50,2.20,358.50,525.80,8.84,893.14
+3268,Gloria "Devil" McCoy,MO,2.20,Leather,283.00,10.00,16.50,2830.00,4669.50,149.99,7649.49
+3540,Allison "Steel Gravedigger" Douglas,IA,1.10,Reeds,199.00,0.75,2.00,149.25,398.00,5.47,552.72
+4146,Theresa "Scalphunter" Romero,IA,1.10,Reeds,174.00,0.75,2.00,130.50,348.00,4.78,483.28
+4147,Tina "Lady" Anderson,UT,0.00,Cedar Planks,182.00,2.00,5.50,364.00,1001.00,0.00,1365.00
+5352,Minnie Lawson "the Apostle",NM,2.20,Pinecones,251.00,1.50,2.42,376.50,607.42,19.68,1003.60
+5521,Maureen "Cursed" Andrews,NM,2.20,Leather,174.00,10.00,18.15,1740.00,3158.10,97.96,4996.06
+6217,Lorraine "Utah" Adams,TX,0.50,Beechwood,281.00,3.00,5.00,843.00,1405.00,0.00,2248.00
+7689,Friendly Howell,AL,1.00,Leather,222.00,10.00,18.15,2220.00,4029.30,62.49,6311.79
+8288,Cathy "Loner Demon" Murray,ND,1.25,Packed Dirt,134.00,1.00,1.50,134.00,201.00,3.35,338.35
+9642,Susan "Damnation" Fleming,KS,0.50,Brick,98.00,4.84,6.66,474.32,652.68,0.00,1127.00
+10026,Darlene "Loner" Ford,NM,2.20,Solid Oak,308.00,5.50,5.50,1694.00,1694.00,67.76,3455.76
+10785,Tammy Carlson "the Killer",CA,0.55,Brick,189.00,4.84,6.66,914.76,1258.74,21.74,2195.24
+11202,Black Beck,IA,1.21,Pinecones,186.00,1.50,2.66,279.00,494.76,7.74,781.50
+12581,Michele Watson "the Loner",UT,0.00,Reeds,325.00,0.75,2.20,243.75,715.00,0.00,958.75
+12847,Dorothy "the Hunter",UT,0.00,Pinecones,104.00,1.50,2.66,156.00,276.64,0.00,432.64
+17468,Allison "Steel Gravedigger" Douglas,IA,1.21,Solid Oak,84.00,5.50,6.66,462.00,559.44,10.21,1031.65
+17527,Beth "Fortunate Shooter" Powell,AL,1.00,Pinecones,117.00,1.50,2.66,175.50,311.22,4.87,491.59
+18013,Evelyn "Evil Joker" Taylor,KS,0.55,Cedar Planks,203.00,2.20,6.66,446.60,1351.98,17.99,1816.57
+18405,Minnie Lawson "the Apostle",MO,2.20,Dirt,198.00,0.50,1.00,99.00,198.00,5.94,302.94
+19887,Michele Watson "the Loner",IA,1.33,Solid Oak,229.00,5.50,6.66,1259.50,1525.14,27.85,2812.49
+20601,Dorothy "the Hunter",CA,0.67,Packed Dirt,143.00,1.10,2.42,157.30,346.06,5.03,508.39
+21642,Lena Chapman "the Bully",AR,2.20,Solid Oak,227.00,5.50,6.66,1248.50,1511.82,55.21,2815.53
+21948,Theresa "Kid" Robinson,MS,3.00,Leather,270.00,11.00,19.97,2970.00,5391.90,250.86,8612.76
+23045,Diana "Mistress" Morgan,MO,2.20,Beechwood,121.00,3.63,6.05,439.23,732.05,23.43,1194.71

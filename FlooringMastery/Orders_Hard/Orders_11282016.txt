@@ -1,0 +1,17 @@
+1370,Cinderflame,Shainan's Hold,19.80,Falserainbow Lead,126.00,3215.00,233.00,405090.00,29358.00,86889.60,521337.60
+1591,"Penur, Lord of the Sea",Reheath Stronghold,8.00,Ensorceled Sandmetal Of Spirits,183.00,2956.98,87.00,541127.34,15921.00,44563.87,601612.21
+2649,Nailpiston The Grasping,The Bastion of the Lich Tyrant,43.00,Hell Mercury Of The East,114.00,4636.34,284.60,528542.76,32444.40,241224.48,802211.64
+2933,"Suriel, Lord of Animals",The Archer and Blade,9.00,Zephyr Iron,140.00,2759.00,404.26,386260.00,56596.40,39857.08,482713.48
+3197,Lord Mystery,Hafeld Keep,29.00,Fog Lavaplatinum Of Life,327.00,1078.00,17.00,352506.00,5559.00,103838.85,461903.85
+3319,Bonescare,The Tower of Sabiesu the Awesome,4.40,Evilsilver,177.00,1486.85,79.86,263172.45,14135.22,11092.31,288399.98
+3338,Bolttrap,The Grey Plains,19.97,Litches' Fatal Mithril Of The Past,125.00,1207.25,335.50,150906.25,41937.50,38568.75,231412.50
+4475,"Prusu, God of Love",Kewold Stronghold,8.87,Vampires' Fang Emeraldsilver,227.00,2283.46,455.55,518345.42,103409.85,55957.97,677713.24
+5523,Ironbrood,Bergfison's Deep,36.00,Ensorceled Sandmetal Of Spirits,132.00,2956.98,87.00,390321.36,11484.00,144649.93,546455.29
+7093,"Ariel, God of Luck",Mahyrst Keep,25.14,Djinni's Mind Fogiron,108.00,2301.02,74.02,248510.16,7994.16,64126.08,320630.40
+8888,Steelterror The Blade,Weke Tower,-0.05,White Platinum,282.00,-52.59,145.00,-14830.38,40890.00,0.00,26059.62
+10005,"Nelalwe, Lady of Fire",The Forsaken Sepulcher of Sorrows,48.79,Ensorceled Gold Of The Dawn,294.00,5713.98,402.92,1679910.12,118458.48,881200.61,2679569.21
+13844,Tarot Dawn,Tradun Castle,37.66,Spectres' Shadowy Terrorglow Adamant Of Life,67.00,5164.28,248.66,346006.76,16660.22,137813.45,500480.43
+17877,Wheelbolt The Machine,Grori's Deep,66.50,Legendary Mithril Of The Moon,189.00,2977.81,125.84,562806.09,23783.76,387149.30,973739.15
+18797,"Finarfin, God of Protection",The Lewd King,32.67,Sirens' Rockgold,123.00,-352.01,199.96,-43297.23,24595.08,-6171.71,-24873.86
+19943,Springpulley The Binder,Weke Tower,-0.07,Djinni's Mind Fogiron,262.00,2531.12,98.52,663153.44,25812.24,0.00,688965.68
+22209,Song Runetomb,Lordsgate Farthing,45.25,Undeads' Mind Orichalcum Of The Twilight,344.00,-17.00,276.00,-5848.00,94944.00,40093.20,129189.20

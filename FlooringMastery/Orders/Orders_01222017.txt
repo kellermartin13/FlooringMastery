@@ -1,0 +1,19 @@
+227,Renee "Loco Tracker" Jordan,IA,1.00,Cedar Planks,63.00,2.00,5.00,126.00,315.00,4.41,445.41
+237,Heather "Friendly Gambler" Barrett,ID,0.00,Pinecones,199.00,1.50,2.00,298.50,398.00,0.00,696.50
+2264,Michele Watson "the Loner",IA,1.00,Leather,253.00,10.00,16.50,2530.00,4174.50,67.04,6771.54
+2406,Beth "Fortunate Shooter" Powell,IA,1.00,Pinecones,193.00,1.50,2.20,289.50,424.60,7.14,721.24
+3111,Cynthia "the Vixen",MO,2.20,Cedar Planks,213.00,2.00,5.50,426.00,1171.50,31.95,1629.45
+3453,"Doom" McCoy,TX,0.50,Pebbles,327.00,0.80,4.40,261.60,1438.80,0.00,1700.40
+3473,Debra "Scorpion" Lane,AR,2.20,Cedar Planks,50.00,2.00,5.50,100.00,275.00,7.50,382.50
+3522,Amanda Hart "the Loner",ND,1.25,Dirt,181.00,0.50,1.00,90.50,181.00,2.72,274.22
+3612,Renee "Loco Tracker" Jordan,OK,2.00,Pinecones,156.00,1.50,2.20,234.00,343.20,11.54,588.74
+3897,Vicki "Mesa" Rhodes,OK,2.00,Pinecones,195.00,1.50,2.42,292.50,471.90,15.29,779.69
+4648,Florence "Leather Doc" Grant,ID,0.00,Dirt,153.00,0.50,1.00,76.50,153.00,0.00,229.50
+7513,Stella "the Bully",AL,1.00,Leather,214.00,10.00,18.15,2140.00,3884.10,60.24,6084.34
+11626,Darlene "Loner" Ford,AR,2.20,Pebbles,343.00,0.88,4.84,301.84,1660.12,39.24,2001.20
+12258,Helen Webb "the Dancer",OK,2.42,Solid Oak,89.00,5.50,5.50,489.50,489.50,19.58,998.58
+12518,Geraldine "Revenge" Warren,NV,0.31,Brick,155.00,4.84,6.66,750.20,1032.30,0.00,1782.50
+13872,Vicki "Mesa" Rhodes,CA,0.61,Packed Dirt,184.00,1.00,2.00,184.00,368.00,5.52,557.52
+13947,Lena Chapman "the Bully",NM,2.42,Pinecones,269.00,1.50,2.66,403.50,715.54,22.38,1141.42
+20808,Cathy "Loner Demon" Murray,AL,1.00,Cedar Planks,52.00,2.20,6.66,114.40,346.32,4.61,465.33
+23051,Maureen "Cursed" Andrews,ND,1.67,Pebbles,221.00,0.88,5.32,194.48,1175.72,27.40,1397.60

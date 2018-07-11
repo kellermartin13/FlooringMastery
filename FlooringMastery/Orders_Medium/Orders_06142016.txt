@@ -1,0 +1,13 @@
+1348,Elizabeth "the Bully",CA,0.50,Pinecones,212.00,1.50,2.00,318.00,424.00,0.00,742.00
+2144,Cathy "Wildfire" Neal,NM,2.20,Reeds,133.00,0.75,2.00,99.75,266.00,7.32,373.07
+5734,Florence "Leather Doc" Grant,KS,0.50,Packed Dirt,143.00,1.00,1.50,143.00,214.50,0.00,357.50
+7066,Marie "Raven" Chapman,UT,0.00,Dirt,214.00,0.50,1.00,107.00,214.00,0.00,321.00
+10509,Evelyn "Evil Joker" Taylor,MO,2.20,Dirt,171.00,0.50,1.00,85.50,171.00,5.13,261.63
+11394,Diana "Mistress" Morgan,MO,2.20,Brick,361.00,4.84,6.66,1747.24,2404.26,83.03,4234.53
+16988,Melissa "Lonesome Stalker" Riley,WY,0.31,Solid Oak,197.00,5.50,6.05,1083.50,1191.85,0.00,2275.35
+17886,Cynthia "the Vixen",OK,2.42,Leather,163.00,11.00,19.97,1793.00,3255.11,100.96,5149.07
+17932,Amanda Hart "the Loner",UT,0.00,Beechwood,176.00,3.63,5.50,638.88,968.00,0.00,1606.88
+18079,Renee "Hellish Empress" Banks,CA,0.61,Cedar Planks,299.00,2.20,6.66,657.80,1991.34,26.49,2675.63
+19990,Heather "Tornado" Newman,AL,1.00,Pinecones,252.00,1.50,2.66,378.00,670.32,10.48,1058.80
+22411,Tina "Lady" Anderson,ND,1.67,Reeds,131.00,0.83,2.20,108.73,288.20,7.94,404.87
+23242,Debra "Scorpion" Lane,IA,1.33,Pebbles,180.00,0.88,5.32,158.40,957.60,11.16,1127.16

@@ -1,0 +1,21 @@
+243,Jo "the Joker",TX,0.50,Cedar Planks,273.00,2.00,5.00,546.00,1365.00,0.00,1911.00
+1131,Helen Webb "the Dancer",AR,2.20,Pebbles,54.00,0.80,4.40,43.20,237.60,5.62,286.42
+1418,Cynthia "the Vixen",IA,1.00,Pebbles,248.00,0.80,4.40,198.40,1091.20,12.90,1302.50
+1715,Julia "Bandit" Chandler,OK,2.00,Pebbles,306.00,0.80,4.40,244.80,1346.40,31.82,1623.02
+2220,Vengeful Montgomery,KS,0.50,Packed Dirt,279.00,1.00,1.50,279.00,418.50,0.00,697.50
+2633,Mattie Grant "the Gambler",TX,0.50,Cedar Planks,202.00,2.00,5.50,404.00,1111.00,0.00,1515.00
+3623,Dorothy "the Hunter",NV,0.25,Leather,102.00,10.00,16.50,1020.00,1683.00,0.00,2703.00
+5236,Beth "Fortunate Shooter" Powell,KS,0.50,Leather,143.00,10.00,18.15,1430.00,2595.45,0.00,4025.45
+6191,Mattie Grant "the Gambler",ID,0.00,Solid Oak,228.00,5.50,5.50,1254.00,1254.00,0.00,2508.00
+7120,Joanne "Damned" Miles,NM,2.20,Beechwood,183.00,3.00,5.00,549.00,915.00,29.28,1493.28
+8740,Heather "Tornado" Newman,MS,3.00,Pinecones,233.00,1.50,2.66,349.50,619.78,29.08,998.36
+10393,Lena Chapman "the Bully",WY,0.31,Pebbles,272.00,0.88,4.84,239.36,1316.48,0.00,1555.84
+12688,Surgeon Grant,TX,0.67,Pinecones,134.00,1.50,2.66,201.00,356.44,5.57,563.01
+14202,Maureen "Cursed" Andrews,ND,1.38,Beechwood,251.00,3.63,5.50,911.13,1380.50,22.92,2314.55
+16947,Maureen "Cursed" Andrews,MO,2.20,Dirt,312.00,0.50,1.00,156.00,312.00,9.36,477.36
+18192,Cynthia "the Vixen",MT,3.99,Packed Dirt,367.00,1.10,2.20,403.70,807.40,48.44,1259.54
+19983,Julia "Bandit" Chandler,CA,0.67,Brick,278.00,5.32,6.66,1478.96,1851.48,33.30,3363.74
+21105,Melissa "Lonesome Stalker" Riley,MO,2.20,Beechwood,136.00,3.63,6.05,493.68,822.80,26.33,1342.81
+21529,Cynthia "the Vixen",AL,1.00,Beechwood,300.00,3.63,6.05,1089.00,1815.00,29.04,2933.04
+22059,Heather "Friendly Gambler" Barrett,OK,2.93,Leather,196.00,11.00,19.97,2156.00,3914.12,182.10,6252.22
+23445,Lucky Johnson,ND,1.67,Brick,242.00,5.32,6.66,1287.44,1611.72,57.98,2957.14

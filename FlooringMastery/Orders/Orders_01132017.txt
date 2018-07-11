@@ -1,0 +1,19 @@
+369,Geraldine "Revenge" Warren,KS,0.50,Brick,224.00,4.00,5.00,896.00,1120.00,0.00,2016.00
+5126,Black Beck,CA,0.55,Leather,230.00,10.00,18.15,2300.00,4174.50,64.74,6539.24
+5344,Stella "the Bully",KS,0.50,Beechwood,185.00,3.00,5.00,555.00,925.00,0.00,1480.00
+7216,Tammy Carlson "the Killer",NV,0.28,Dirt,100.00,0.50,1.00,50.00,100.00,0.00,150.00
+7522,Maureen "Cursed" Andrews,AR,2.20,Reeds,79.00,0.75,2.20,59.25,173.80,4.66,237.71
+7715,Minnie Lawson "the Apostle",IA,1.21,Packed Dirt,291.00,1.00,1.50,291.00,436.50,7.28,734.78
+10179,Vengeful Robertson,ND,1.25,Pebbles,216.00,0.88,4.84,190.08,1045.44,12.36,1247.88
+13359,Deborah "the Lady",AR,2.20,Pinecones,270.00,1.50,2.66,405.00,718.20,22.46,1145.66
+14967,Darlene "Loner" Ford,CA,0.61,Cedar Planks,228.00,2.20,6.05,501.60,1379.40,18.81,1899.81
+16146,Gladys "Locoweed" Keller,UT,0.00,Pebbles,289.00,0.88,4.84,254.32,1398.76,0.00,1653.08
+17383,Black Beck,ID,0.00,Leather,243.00,11.00,19.97,2673.00,4852.71,0.00,7525.71
+17432,Victoria "the Dancer",AR,2.20,Reeds,250.00,0.83,2.20,207.50,550.00,15.15,772.65
+18098,Vicki "Mesa" Rhodes,AL,1.00,Cedar Planks,238.00,2.20,6.66,523.60,1585.08,21.09,2129.77
+19097,Helen Webb "the Dancer",WY,0.31,Packed Dirt,225.00,1.10,2.20,247.50,495.00,0.00,742.50
+19474,"Bane" Jennings,UT,0.00,Pinecones,186.00,1.50,2.66,279.00,494.76,0.00,773.76
+20023,"Scalphunter" Kennedy,KS,0.55,Leather,269.00,11.00,19.97,2959.00,5371.93,83.31,8414.24
+20100,Theresa "Scalphunter" Romero,ND,1.67,Pebbles,76.00,0.88,4.84,66.88,367.84,8.69,443.41
+20470,Cathy "Loner Demon" Murray,KS,0.55,Brick,114.00,5.32,6.66,606.48,759.24,13.66,1379.38
+20761,Victoria "the Dancer",NV,0.31,Leather,219.00,11.00,19.97,2409.00,4373.43,0.00,6782.43

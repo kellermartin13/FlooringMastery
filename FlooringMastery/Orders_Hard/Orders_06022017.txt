@@ -1,0 +1,21 @@
+107,Seraphim Tsunami,Pewold Keep,16.95,Shadowhell Mithril,156.00,363.00,215.18,56628.00,33568.08,15333.33,105529.41
+415,Snarepiston The Mechanical,Shainan's Hold,18.00,Poison Adamant,201.00,298.00,406.38,59898.00,81682.38,25484.47,167064.85
+1048,Dawn Darkzealot,The Barrow of Malefic Ages,17.91,Primordial Mud Orichalcum,222.00,-387.90,77.37,-86113.80,17176.14,-12408.78,-81346.44
+1351,Bonescare,The Tower of Aces the Accursed,12.10,Hidden Shadowice Lead,144.00,2729.00,-46.75,392976.00,-6732.00,46349.28,432593.28
+1550,"Alas, Lord of Plague",Lacot Stronghold,30.88,Foul Ice Bronze Of Life,210.00,-92.21,129.80,-19364.10,27258.00,2447.11,10341.01
+1932,Seraphim Tsunami,Hartshill Ward,41.98,Stone Soulsteel Of The Skies,152.00,1634.80,12.01,248489.60,1825.52,105132.35,355447.47
+2352,Burnchill The Evil,The Dismal Marsh,5.00,Ghostly Soul Adamant,17.00,2929.96,189.69,49809.32,3224.73,2651.70,55685.75
+2644,"Lionare, God of the Lost",The Dismal Marsh,5.00,Negative Mercury,154.00,4054.87,361.00,624449.98,55594.00,34002.20,714046.18
+3764,Cult Godseeker,Gifeld Castle,6.22,Tritons' Time Stoneiron Of Legend,46.00,1760.00,168.90,80960.00,7769.40,5323.76,94053.16
+3890,Springpulley The Binder,Citadel Ward,25.82,Grayplatinum,354.00,2278.43,279.06,806564.22,98787.24,235391.38,1140742.84
+4211,Icechill The Frigid,Gifeld Castle,6.22,Lycanthropes' Gold,294.00,4846.18,66.14,1424776.92,19445.16,86653.32,1530875.40
+6335,Clash Lonedrake,The Tower of Aramum,39.00,Fairies' Supreme Mistsmoke Lead Of The Future,229.00,3349.50,324.73,767035.50,74363.17,328145.48,1169544.15
+6652,Burnfreeze The Cold,Weke Tower,-0.05,Magic Adamant,319.00,1838.00,207.64,586322.00,66237.16,0.00,652559.16
+6911,Flameshiver,Mahyrst Keep,25.14,Meteoric Dustzephyr Orichalcum,261.00,375.00,244.08,97875.00,63704.88,40394.97,201974.85
+7230,Cinderember,The Demon and Toad,23.75,Poison Adamant,174.00,1151.38,58.58,200340.12,10192.92,50527.93,261060.97
+7456,"Ingwenel, God of War",Pawic Keep,0.56,Golems' Stonesapphire Gold Of The Glacier,136.00,3672.77,105.97,499496.72,14411.92,5139.09,519047.73
+8140,Claw Mist,Barad Kesa,4.32,Djinni's Mind Fogiron,120.00,2301.02,74.02,276122.40,8882.40,11400.19,296404.99
+16252,Springpulley The Binder,The Bastion of Gothmog of Udun,54.84,Thunderbirds' Transcendent Dreamiron,87.00,2275.25,237.70,197946.75,20679.90,120244.66,338871.31
+17207,"Selik, God of Death",North Arcanist's Farthing,55.18,Fog Lavaplatinum Of Life,67.00,1078.00,18.70,72226.00,1252.90,40413.40,113892.30
+19390,Tarot Dawn,Gifeld Castle,6.22,Ghostly Soul Adamant,81.00,3222.96,229.53,261059.76,18591.93,16779.10,296430.79
+22310,Rose Anchor,Palace Farthing,47.64,Yellow Mistearth Copper,190.00,5536.45,-33.15,1051925.50,-6298.50,501900.96,1547527.96

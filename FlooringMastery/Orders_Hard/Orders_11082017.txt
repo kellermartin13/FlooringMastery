@@ -1,0 +1,13 @@
+847,Chillfire The Chiller,The Shadow Downs,13.21,Foulopal Copper Of The Skies,209.00,1221.16,403.00,255222.44,84227.00,44128.43,383577.87
+3795,"Gadriel, God of Resurrection",Barad Kesa,4.32,Phantasmal Tin Of The Swamps,151.00,4074.00,-6.60,615174.00,-996.60,24567.10,638744.50
+4926,Fate Seeker,The Demon and Toad,23.75,Devils' Falserot Silver,257.00,1668.51,182.71,428807.07,46956.47,114183.25,589946.79
+5309,Terrorghoul The Unspeakable,The Tower of Aramum,39.00,Primordial False Gold,187.00,4459.34,226.00,833896.58,42262.00,341701.85,1217860.43
+6090,Shadow Gust,The Shadow Downs,13.21,Nymphs' Luminous Rotmercury Of The Skies,84.00,292.60,189.00,24578.40,15876.00,5259.07,45713.47
+8543,Lance Knightseraph,The Broken Arrow,30.07,Hell Mercury Of The East,119.00,4636.34,284.60,551724.46,33867.40,175677.56,761269.42
+10549,"Iran, Lord of Nightmares",The Fortress of Gama,10.16,Shadow Steel,282.00,4677.78,465.30,1319133.96,131214.60,145034.86,1595383.42
+11922,Snarepiston The Mechanical,The Broken Arrow,30.07,Icy Shock Silver,369.00,1482.98,407.00,547219.62,150183.00,209220.79,906623.41
+15298,Bolttrap,Gili's Delve,-6.73,Primordial False Gold,184.00,5395.80,248.60,992827.20,45742.40,-72699.87,965869.73
+16398,"Lenwenye, Goddess of Travel",The Bastion of Gothmog of Udun,54.84,Lycanthropes' Gold,121.00,4846.18,66.14,586387.78,8002.94,326914.90,921305.62
+16557,Song Runetomb,The Forsaken Sepulcher of Sorrows,53.67,Ghostly Magic Adamant,89.00,4836.38,230.90,430437.82,20550.10,243533.48,694521.40
+18227,Nailpiston The Grasping,Boiaburh Keep,17.60,Poison Adamant,99.00,1266.52,64.44,125385.48,6379.56,23717.71,155482.75
+18327,Evilfear The Horrorific,Dysley Stronghold,45.98,God-touched Faterainbow Orichalcum Of Spectres,191.00,370.41,32.01,70748.31,6113.91,35356.62,112218.84

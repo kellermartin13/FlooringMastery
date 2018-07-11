@@ -1,0 +1,20 @@
+115,Theresa "Scalphunter" Romero,CA,0.50,Beechwood,277.00,3.00,5.00,831.00,1385.00,0.00,2216.00
+421,Tammy Carlson "the Killer",AL,1.00,Pebbles,141.00,0.80,4.00,112.80,564.00,6.77,683.57
+1995,"Sunrise" Miles,MO,2.20,Pebbles,278.00,0.80,4.40,222.40,1223.20,28.91,1474.51
+2486,Heather "Tornado" Newman,MS,3.00,Packed Dirt,304.00,1.00,1.50,304.00,456.00,22.80,782.80
+2624,Melissa "Lonesome Stalker" Riley,CA,0.50,Beechwood,56.00,3.00,5.00,168.00,280.00,0.00,448.00
+2755,Evelyn "Evil Joker" Taylor,CA,0.55,Brick,115.00,4.00,5.50,460.00,632.50,10.92,1103.42
+4388,Surgeon Grant,MO,2.20,Leather,231.00,10.00,16.50,2310.00,3811.50,122.43,6243.93
+4490,Michele Watson "the Loner",TX,0.50,Pebbles,183.00,0.80,4.40,146.40,805.20,0.00,951.60
+5608,Tammy Carlson "the Killer",MT,3.00,Dirt,33.00,0.50,1.00,16.50,33.00,1.48,50.98
+6220,Stella "the Bully",NM,2.20,Packed Dirt,112.00,1.00,1.50,112.00,168.00,5.60,285.60
+7244,Florence "Leather Doc" Grant,NV,0.28,Reeds,152.00,0.75,2.20,114.00,334.40,0.00,448.40
+8709,Victoria "the Dancer",MO,2.20,Packed Dirt,178.00,1.00,1.50,178.00,267.00,8.90,453.90
+9459,Theresa "Kid" Robinson,TX,0.55,Cedar Planks,36.00,2.20,6.05,79.20,217.80,2.97,299.97
+14357,Mattie Grant "the Gambler",AL,1.00,Packed Dirt,275.00,1.10,2.00,302.50,550.00,8.52,861.02
+14862,Melissa "Lonesome Stalker" Riley,TX,0.67,Beechwood,232.00,3.63,5.50,842.16,1276.00,21.18,2139.34
+19204,Cynthia "the Vixen",MT,3.99,Cedar Planks,224.00,2.20,6.66,492.80,1491.84,79.39,2064.03
+20600,Vicki "Mesa" Rhodes,TX,0.67,Beechwood,126.00,3.63,6.05,457.38,762.30,12.20,1231.88
+21955,Joanne "Damned" Miles,WY,0.31,Dirt,151.00,0.55,1.00,83.05,151.00,0.00,234.05
+22218,Evelyn "Evil Joker" Taylor,WY,0.31,Leather,239.00,11.00,19.97,2629.00,4772.83,0.00,7401.83
+22493,Cathy "Wildfire" Neal,NV,0.31,Leather,241.00,11.00,19.97,2651.00,4812.77,0.00,7463.77

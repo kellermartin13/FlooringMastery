@@ -1,0 +1,11 @@
+1061,Metalbrood,Boiaburh Keep,16.00,Mithril Of Legend,239.00,2068.00,52.07,494252.00,12444.73,81071.48,587768.21
+3670,Emberspawn,Reheath Stronghold,8.00,Evilsilver,44.00,1486.85,79.86,65421.40,3513.84,5514.82,74450.06
+5343,Wheelspawn,The Chuallanto Jungle,37.00,Mithril Of Legend,220.00,2274.80,63.01,500456.00,13862.20,190297.73,704615.93
+8672,Sephiroth Drakecaster,The Khazahol Crags,-1.97,Planar Obsidian Mercury Of Wizards,332.00,2574.00,141.57,854568.00,47001.24,-18031.38,883537.86
+8957,Rouge Tombreaper,Unicorn's Ward,14.64,Primordial Plague Mercury Of Legend,244.00,452.29,301.29,110358.76,73514.76,27581.03,211454.55
+10805,Nettool The Grasping,Haukri's Hold,27.83,Phantasmal Tin Of The Swamps,210.00,4074.00,-6.60,855540.00,-1386.00,239163.12,1093317.12
+14807,Bonescare,Barad Kesa,4.75,Witchs' Forbidden Rockrainbow Bronze,203.00,655.60,425.92,133086.80,86461.76,10977.43,230525.99
+15402,Ironbrood,The Greedy Wench,32.70,Primordial False Gold,287.00,5395.80,248.60,1548594.60,71348.20,534581.12,2154523.92
+15495,Burnchill The Evil,Gili's Delve,-6.73,Unicorns' Fatal Magma Metal Of The Ocean,201.00,2168.36,431.97,435840.36,86825.97,-36586.64,486079.69
+19531,Spikecrank,Gifeld Castle,6.22,Sirens' Rockgold,186.00,-352.01,199.96,-65473.86,37192.56,-1696.88,-29978.18
+20531,Evilember The Firey,The Broken Shield,40.95,Undeads' Mind Orichalcum Of The Twilight,298.00,-17.00,276.00,-5066.00,82248.00,31644.62,108826.62

@@ -1,0 +1,13 @@
+3135,"Suriel, Lord of Animals",The Bastion of the Vampire Duke,19.28,Fog Lavaplatinum Of Life,50.00,1078.00,17.00,53900.00,850.00,10402.50,65152.50
+5094,"Lionare, God of the Lost",Boiaburh Keep,16.00,Primordial False Gold,107.00,4459.34,226.00,477149.38,24182.00,80213.02,581544.40
+8856,"Selik, God of Death",Weke Tower,-0.05,Angels' Smoke Adamant Of The Mountains,122.00,2832.34,215.00,345545.48,26230.00,0.00,371775.48
+9157,"Iran, Lord of Nightmares",Minas Gilloy,39.26,Foul Ice Bronze Of Life,212.00,-92.21,129.80,-19548.52,27517.60,3107.94,11077.02
+13586,"Baltha, Goddess of Knowledge",The Lost Crypts of Sorrows,35.87,Mithril Of Legend,189.00,2274.80,63.01,429937.20,11908.89,159064.59,600910.68
+17576,Fate Seeker,Reyny Keep,11.00,Grayplatinum,101.00,2506.27,306.97,253133.27,31003.97,31255.10,315392.34
+18028,Sunrise Godwarlock,The Nulukkhath Spires,11.65,Litches' Fatal Mithril Of The Past,161.00,1460.78,405.96,235185.58,65359.56,36065.42,336610.56
+19375,Cinderember,The Khazahol Crags,-2.17,Sirens' Rockgold,110.00,-352.01,199.96,-38721.10,21995.60,334.51,-16390.99
+19715,Scarechain The Unspeakable,Noble's Village,33.28,Emerald Orichalcum,175.00,-405.76,128.90,-71008.00,22557.50,-15988.66,-64439.16
+20375,Nailpiston The Grasping,The Secret Catacombs of Ulfang the Black,42.90,Vampires' Fang Emeraldsilver,41.00,3343.22,455.55,137072.02,18677.55,66972.32,222721.89
+20425,"Prusu, God of Love",Weke Tower,-0.07,Vampires' Fang Emeraldsilver,183.00,3343.22,455.55,611809.26,83365.65,0.00,695174.91
+21227,Chainnail,Moor Village,76.43,Planar Rainfate Mithril,265.00,1304.42,320.52,345671.30,84937.80,327262.92,757872.02
+23030,Law Lionwatcher,Kewold Stronghold,10.74,White Platinum,315.00,-63.64,193.00,-20046.60,60795.00,4482.32,45230.72

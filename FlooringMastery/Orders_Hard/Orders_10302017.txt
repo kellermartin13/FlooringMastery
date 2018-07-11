@@ -1,0 +1,20 @@
+381,Tiger Mistmidnight,The Black Barrow of Bery,-0.07,Falserainbow Lead,176.00,3215.00,233.00,565840.00,41008.00,0.00,606848.00
+1898,Storm Squallmourner,Barad Cune,26.00,Stone Soulsteel Of The Skies,324.00,1634.80,12.01,529675.20,3891.24,138727.27,672293.71
+2882,"Addon, Lord of Death",The Fortress of Gama,10.16,Phantasmal Tin Of The Swamps,294.00,4074.00,-6.60,1197756.00,-1940.40,119581.56,1315397.16
+4330,"Ahah, Goddess of Knowledge",The Wizard's House,43.58,Sphinxes' Mistsoul Bronze Of The Past,263.00,1793.23,183.70,471619.49,48313.10,228770.34,748702.93
+4682,Storm Squallmourner,The Scoundrel and Flask,-4.58,Primordial Mud Orichalcum,250.00,-387.90,77.37,-96975.00,19342.50,3881.62,-73750.88
+8185,Burnbrood The Freezer,The Wizard's House,43.58,Planar Obsidian Mercury Of Wizards,152.00,2574.00,141.57,391248.00,21518.64,181617.32,594383.96
+8527,Lance Knightseraph,The Forsaken Tomb of Devastation,0.00,Incubi's Iron Of The Dawn,91.00,1200.96,424.31,109287.36,38612.21,0.00,147899.57
+9083,Rouge Roguemist,Minas Gilloy,39.26,Negative Rockglitter Mercury Of Trolls,69.00,1483.90,465.38,102389.10,32111.22,52455.12,186955.44
+10278,"Alas, Lord of Plague",The Dungeon of Dismal Terror,-3.50,Sphinxes' Mistsoul Bronze Of The Past,82.00,2169.81,202.07,177924.42,16569.74,-7779.77,186714.39
+14042,Magus Felldrake,Khali's Delve,52.71,Plague Tin,306.00,4767.02,342.10,1458708.12,104682.60,828597.08,2391987.80
+15182,Cult Godseeker,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,174.00,3769.54,401.45,655899.96,69852.30,94347.79,820100.05
+15588,"Gono, Goddess of the Earth",Gifeld Castle,6.22,Trolls' Rubymercury Of The Sunset,174.00,556.60,217.80,96848.40,37897.20,8084.74,142830.34
+15606,Rune Rougehate,The Glano Forest,3.00,Unknown Fatelightning Steel Of The Glacier,198.00,2441.05,65.68,483327.90,13004.64,14889.98,511222.52
+15611,Wind Dire,The Greedy Wench,32.70,Plague Tin,140.00,4767.02,342.10,667382.80,47894.00,236041.34,951318.14
+16080,Cult Godseeker,The Lost Sanctum of Woe,3.30,Incubi's Mirrorfog Iron Of The Ocean,184.00,5806.50,-26.08,1068396.00,-4798.72,31907.92,1095505.20
+16228,Bonescare,The Lost Sanctum of Woe,3.30,Toxin Iceplatinum Of The Undead,267.00,-377.06,-59.29,-100675.02,-15830.43,-3495.16,-120000.61
+19463,"Eumyan, Goddess of Law",The Temple of Merciless Necromancy,50.94,Witchs' Forbidden Rockrainbow Bronze,214.00,655.60,425.92,140298.40,91146.88,118037.09,349482.37
+20317,Lord Mystery,The Dark Caverns of Woe,3.29,Sphinxes' Opalpearl Platinum Of Legend,251.00,5805.82,390.81,1457260.82,98093.31,46660.62,1602014.75
+20599,Snaretool The Constructed,Grori's Deep,66.50,Sphinxes' Opalpearl Platinum Of Legend,230.00,5805.82,390.81,1335338.60,89886.30,940648.43,2365873.33
+23252,Metalbrood,Barad Kesa,5.23,Yellow Mistearth Copper,261.00,6090.10,-33.15,1589516.10,-8652.15,79043.20,1659907.15

@@ -1,0 +1,18 @@
+351,Clash Lonedrake,The Forsaken Tomb of Devastation,0.00,Poison Adamant,176.00,298.00,406.38,52448.00,71522.88,0.00,123970.88
+3038,"Alas, Lord of Plague",Tradun Castle,31.13,Rocklava Mithril Of Revenants,308.00,1818.30,13.03,560036.40,4013.24,174855.39,738905.03
+4704,Spiketerror The Skeletal,Grove Farthing,18.00,Yellow Mistearth Copper,177.00,4575.58,-27.40,809877.66,-4849.80,144905.01,949932.87
+4887,Lance Knightseraph,The Scoundrel and Flask,-4.58,Meteoric Mirrormuck Orichalcum Of The Forests,178.00,1962.00,185.77,349236.00,33067.06,-19115.15,363187.91
+6089,Chainhorror,The Bastion of the Lich Tyrant,43.00,Unicorns' Fatal Magma Metal Of The Ocean,251.00,1792.04,392.70,449802.04,98567.70,235798.99,784168.73
+7232,Burnchill The Evil,The Lost Crypts of Sorrows,35.87,Djinni's Mind Fogiron,318.00,2301.02,74.02,731724.36,23538.36,271894.58,1027157.30
+7519,Dawn Darkzealot,The Desert of Flames,47.19,Shadowy Adamant,183.00,618.93,478.58,113264.19,87580.14,94396.84,295241.17
+7881,Gale Jackalguard,Minas Gilloy,39.26,Toxin Iceplatinum Of The Undead,31.00,-342.78,-53.90,-10626.18,-1670.90,-4795.86,-17092.94
+8199,Sephiroth Drakecaster,The Barrow of Terrible Horror,-1.21,Negative Rockglitter Mercury Of Trolls,86.00,1483.90,423.07,127615.40,36384.02,-1639.99,162359.43
+10430,Chainblade The Cadaverous,The Shadow Downs,13.21,Venom Timegold Of Dwarves,137.00,3036.00,269.00,415932.00,36853.00,58862.05,511647.05
+13290,Snowflame The Evil,The Citadel of Alammius,3.50,Meteoric Dustzephyr Orichalcum,47.00,375.00,268.49,17625.00,12619.03,1209.76,31453.79
+13864,Lightning Brand,The Cracked Chalice,2.52,Spectres' Shadowy Terrorglow Adamant Of Life,206.00,5164.28,248.66,1063841.68,51223.96,33451.97,1148517.61
+14421,Snaretool The Constructed,The Tower of Aramum,42.90,Unicorns' Evil Mithril,279.00,4802.49,377.52,1339894.71,105328.08,621445.80,2066668.59
+17429,Blazefreeze The Chiller,Reyny Keep,11.00,Grayplatinum,102.00,2506.27,306.97,255639.54,31310.94,31564.55,318515.03
+19013,Emberspawn,The Barrow of Malefic Ages,19.70,Incubi's Iron Of The Dawn,361.00,1200.96,424.31,433546.56,153175.91,117344.49,704066.96
+19364,Snaretool The Constructed,Fellfen Keep,61.53,Planar Mudtin Of Trolls,298.00,3067.17,405.79,914016.66,120925.42,641664.09,1676606.17
+21572,"Maeglodor, God of Thieves",The Bastion of Sthasu the Gruesome,14.93,Sphinxes' Opalpearl Platinum Of Legend,228.00,5805.82,429.89,1323726.96,98014.92,213261.28,1635003.16
+23271,Claw Mist,The Bastion of Sthasu the Gruesome,14.93,Yellow Mistearth Copper,48.00,6090.10,-33.15,292324.80,-1591.20,43610.04,334343.64

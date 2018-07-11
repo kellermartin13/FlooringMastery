@@ -1,0 +1,17 @@
+304,Wilma "Tornado" Brooks,AL,1.00,Beechwood,368.00,3.00,5.00,1104.00,1840.00,29.44,2973.44
+1262,Friendly Howell,WY,0.25,Leather,119.00,10.00,15.00,1190.00,1785.00,0.00,2975.00
+5221,Kathy Murphy "the Thinker",AR,2.20,Solid Oak,158.00,5.50,5.50,869.00,869.00,34.76,1772.76
+6235,Friendly Howell,MO,2.20,Reeds,164.00,0.75,2.20,123.00,360.80,9.68,493.48
+7099,Theresa "Kid" Robinson,MO,2.20,Dirt,199.00,0.50,1.00,99.50,199.00,5.97,304.47
+8905,Beth "Fortunate Shooter" Powell,AL,1.00,Pinecones,129.00,1.50,2.66,193.50,343.14,5.37,542.01
+10654,Marie "Raven" Chapman,AR,2.20,Pinecones,183.00,1.50,2.66,274.50,486.78,15.23,776.51
+12646,Betty "Happy Thinker" Watson,MO,2.20,Pinecones,261.00,1.50,2.66,391.50,694.26,21.72,1107.48
+13381,Julia "Bandit" Chandler,OK,2.42,Leather,135.00,11.00,18.15,1485.00,2450.25,78.70,4013.95
+13956,Renee "Hellish Empress" Banks,AL,1.00,Solid Oak,108.00,5.50,5.50,594.00,594.00,11.88,1199.88
+17080,Cathy "Wildfire" Neal,AL,1.00,Pinecones,83.00,1.50,2.66,124.50,220.78,3.45,348.73
+17559,Michele Watson "the Loner",AR,2.20,Solid Oak,237.00,5.50,6.66,1303.50,1578.42,57.64,2939.56
+18232,Cathy "Wildfire" Neal,NV,0.31,Brick,170.00,5.32,6.66,904.40,1132.20,0.00,2036.60
+18523,Susan "Damnation" Fleming,AR,2.20,Dirt,314.00,0.50,1.00,157.00,314.00,9.42,480.42
+20806,"Bane" Jennings,AR,2.20,Cedar Planks,170.00,2.20,6.66,374.00,1132.20,30.12,1536.32
+21060,Vengeful Montgomery,NM,2.93,Leather,119.00,11.00,19.97,1309.00,2376.43,110.56,3795.99
+21224,Friendly Howell,MT,5.31,Pebbles,99.00,0.88,4.84,87.12,479.16,28.31,594.59

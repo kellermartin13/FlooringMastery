@@ -1,0 +1,18 @@
+3286,Gloria "Devil" McCoy,OK,2.00,Dirt,213.00,0.50,1.00,106.50,213.00,6.39,325.89
+4494,Elizabeth "the Bully",MS,3.00,Dirt,159.00,0.50,1.00,79.50,159.00,7.16,245.66
+5952,Beth "Fortunate Shooter" Powell,NV,0.25,Pebbles,325.00,0.80,4.40,260.00,1430.00,0.00,1690.00
+5989,Lena Chapman "the Bully",NM,2.20,Beechwood,128.00,3.00,5.00,384.00,640.00,20.48,1044.48
+7185,Theresa "Kid" Robinson,AR,2.20,Brick,113.00,4.84,6.66,546.92,752.58,25.99,1325.49
+7764,Jo "the Joker",OK,2.20,Beechwood,218.00,3.00,5.50,654.00,1199.00,37.06,1890.06
+7989,Theresa "Scalphunter" Romero,AL,1.00,Leather,164.00,10.00,18.15,1640.00,2976.60,46.17,4662.77
+10628,Kathy Murphy "the Thinker",MT,3.63,Cedar Planks,243.00,2.20,6.05,534.60,1470.15,80.19,2084.94
+12297,Florence "Leather Doc" Grant,AR,2.20,Solid Oak,263.00,5.50,5.50,1446.50,1446.50,57.86,2950.86
+15200,Betty "Happy Thinker" Watson,TX,0.67,Brick,184.00,5.32,6.66,978.88,1225.44,22.04,2226.36
+15670,Lena Chapman "the Bully",WY,0.31,Pinecones,223.00,1.50,2.66,334.50,593.18,0.00,927.68
+17591,Julia "Bandit" Chandler,MT,3.99,Solid Oak,316.00,5.50,6.66,1738.00,2104.56,153.70,3996.26
+17766,"Bane" Jennings,WY,0.31,Pebbles,66.00,0.88,4.84,58.08,319.44,0.00,377.52
+18911,Susan "Damnation" Fleming,TX,0.67,Dirt,284.00,0.50,1.00,142.00,284.00,4.26,430.26
+19818,Gloria "Devil" McCoy,OK,2.42,Packed Dirt,156.00,1.10,2.42,171.60,377.52,10.98,560.10
+20165,Maureen "Cursed" Andrews,NM,2.93,Dirt,229.00,0.50,1.00,114.50,229.00,10.30,353.80
+20601,Vicki "Mesa" Rhodes,NV,0.31,Pinecones,176.00,1.50,2.66,264.00,468.16,0.00,732.16
+20726,"Doom" McCoy,MS,3.00,Dirt,224.00,0.50,1.00,112.00,224.00,10.08,346.08

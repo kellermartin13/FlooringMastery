@@ -1,0 +1,13 @@
+605,Ida Russell "the Rustler",TX,0.50,Pinecones,101.00,1.50,2.00,151.50,202.00,0.00,353.50
+1046,Joanne "Damned" Miles,CA,0.50,Dirt,155.00,0.50,1.00,77.50,155.00,0.00,232.50
+1688,Beth "Fortunate Shooter" Powell,UT,0.00,Packed Dirt,305.00,1.00,1.50,305.00,457.50,0.00,762.50
+1949,Stella "the Bully",UT,0.00,Brick,271.00,4.00,5.00,1084.00,1355.00,0.00,2439.00
+5206,Allison "Steel Gravedigger" Douglas,OK,2.00,Pinecones,202.00,1.50,2.42,303.00,488.84,15.84,807.68
+5334,Evelyn "Evil Joker" Taylor,ID,0.00,Cedar Planks,232.00,2.00,5.50,464.00,1276.00,0.00,1740.00
+7512,Theresa "Kid" Robinson,NM,2.20,Solid Oak,156.00,5.50,5.50,858.00,858.00,34.32,1750.32
+8884,Friendly Howell,ND,1.25,Brick,209.00,4.84,6.66,1011.56,1391.94,24.04,2427.54
+9164,Geraldine "Revenge" Warren,CA,0.55,Leather,299.00,10.00,18.15,2990.00,5426.85,84.17,8501.02
+10613,Melissa "Lonesome Stalker" Riley,ID,0.00,Pebbles,28.00,0.88,4.84,24.64,135.52,0.00,160.16
+10886,Michele Watson "the Loner",TX,0.67,Solid Oak,149.00,5.50,5.50,819.50,819.50,16.39,1655.39
+11128,Lorraine "Utah" Adams,UT,0.00,Beechwood,170.00,3.00,5.50,510.00,935.00,0.00,1445.00
+13898,Melissa "Lonesome Stalker" Riley,AR,2.20,Cedar Planks,289.00,2.20,6.05,635.80,1748.45,47.68,2431.93

@@ -1,0 +1,17 @@
+1096,Sunrise Godwarlock,The Broken Shield,37.23,Primordial Mud Orichalcum,290.00,-387.90,77.37,-112491.00,22437.30,-33319.87,-123373.57
+2153,Snaretool The Constructed,The Dancing Minstrel,21.20,Planar Mudtin Of Trolls,284.00,2094.92,335.36,594957.28,95242.24,144941.90,835141.42
+4760,Lord Mystery,The Khazahol Crags,-1.97,Meteoric Mirrormuck Orichalcum Of The Forests,123.00,1962.00,185.77,241326.00,22849.71,-5283.51,258892.20
+5517,Rune Rougehate,Barad Kesa,4.32,White Platinum,352.00,-52.59,145.00,-18511.68,51040.00,1301.13,33829.45
+5818,Springsprocket,The Nulukkhath Spires,10.59,Ensorceled Sandmetal Of Spirits,63.00,2956.98,87.00,186289.74,5481.00,21094.78,212865.52
+7153,Emberspawn,The Lost Crypts of Sorrows,35.87,Poison Adamant,287.00,1151.38,58.58,330446.06,16812.46,125013.07,472271.59
+11981,Spikesnare,Bifar's Deep,18.70,Phantasmal Smokezephyr Mercury Of Men,231.00,-422.15,75.90,-97516.65,17532.90,-15196.91,-95180.66
+13298,Bronzespawn,The Warrior and Flagon,53.24,Mithril Of Legend,133.00,2274.80,63.01,302548.40,8380.33,164792.23,475720.96
+13538,Magus Felldrake,Eved Castle,5.09,Muck Orichalcum Of Ogres,204.00,3426.85,364.95,699077.40,74449.80,38676.36,812203.56
+13974,Valentine Lawslayer,Waleah Castle,0.77,Ghostly Soul Adamant,274.00,3222.96,229.53,883091.04,62891.22,9459.82,955442.08
+16078,"Maeglodor, God of Thieves",Barad Kesa,4.75,Swordbronze,52.00,1485.01,447.01,77220.52,23244.52,5023.25,105488.29
+17885,Emberspawn,Archfane District,36.16,Trolls' Mist Poisonplatinum Of The Twilight,311.00,567.79,434.39,176582.69,135095.29,112204.07,423882.05
+18950,Shadow Gust,The Secret Shrine of the Gargoyle Count,-2.00,Mind Lead,110.00,3442.09,374.01,378629.90,41141.10,-8395.42,411375.58
+19339,Storm Squallmourner,The Drunken Thief,12.65,Ensorceled Sandmetal Of Spirits,258.00,2956.98,95.70,762900.84,24690.60,102386.89,889978.33
+20241,"Maeglodor, God of Thieves",Weke Tower,-0.07,Pearl Mirrorice Steel Of Changelings,130.00,328.53,46.07,42708.90,5989.10,0.00,48698.00
+21976,"Iran, Lord of Nightmares",The Beggar and Cask,25.41,Phantasmal Lead,209.00,-669.10,270.02,-139841.90,56434.18,-20851.93,-104259.65
+22459,Flameflare The Evil,Palace Farthing,47.64,Muck Orichalcum Of Ogres,215.00,4561.14,485.76,980645.10,104438.40,520840.08,1605923.58

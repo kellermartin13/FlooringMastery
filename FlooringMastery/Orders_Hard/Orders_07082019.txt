@@ -1,0 +1,12 @@
+2931,Rouge Roguemist,The Desert of Flames,39.00,Mithril Of The Tropics,272.00,3751.00,9.00,1020272.00,2448.00,398860.80,1421580.80
+3972,"Ahah, Goddess of Knowledge",Ring District,35.00,Yellow Mistearth Copper,89.00,4575.58,-27.40,407226.62,-2438.60,141675.81,546463.83
+4474,Cinderflame,Minas Gilloy,39.26,Planar Obsidian Mercury Of Wizards,307.00,2574.00,117.00,790218.00,35919.00,322193.43,1148330.43
+8429,Lord Mystery,Gili's Delve,-5.05,Hell Mercury Of The East,299.00,4636.34,284.60,1386265.66,85095.40,-73568.05,1397793.01
+8997,Gravebone,The Bastion of the Vampire Duke,19.28,Foul Ice Bronze Of Life,323.00,-92.21,129.80,-29783.83,41925.40,2306.90,14448.47
+9967,Spikesnare,The Dismal Marsh,6.05,Mithril Of Legend,124.00,2274.80,63.01,282075.20,7813.24,17393.31,307281.75
+9978,"Suriel, Lord of Animals",The Broken Shield,37.23,Djinni's Spectral Shadowlead Of Life,280.00,3705.90,325.62,1037652.00,91173.60,417665.47,1546491.07
+10309,Chainblade The Cadaverous,The Forsaken Sepulcher of Sorrows,48.79,Magicians' Legendary Poison Metal,265.00,2247.59,229.81,595611.35,60899.65,321690.39,978201.39
+13412,Seraphim Tsunami,The Warrior and Flagon,53.24,Mithril Of Legend,359.00,2274.80,63.01,816653.20,22620.59,444815.11,1284088.90
+15385,Metalghoul,Barad Kesa,4.75,God-touched Faterainbow Orichalcum Of Spectres,279.00,370.41,32.01,103344.39,8930.79,5613.76,117888.94
+22021,Chainblade The Cadaverous,The Tower of the Demon Warlord,20.97,Mana-touched Greenglitter Gold Of Giants,186.00,1420.52,514.25,264216.72,95650.50,75572.12,435439.34
+22324,Shadow Gust,Cawold Castle,29.15,Toxin Iceplatinum Of The Undead,202.00,-377.06,-59.29,-76166.12,-11976.58,-25561.38,-113704.08

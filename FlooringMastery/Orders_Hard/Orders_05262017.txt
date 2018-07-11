@@ -1,0 +1,16 @@
+1646,Chainhorror,The Lazy Sage,15.00,Foul Ice Bronze Of Life,121.00,-92.21,129.80,-11157.41,15705.80,682.26,5230.65
+6063,Lance Knightseraph,The Lazy Sage,19.97,Glowpearl Adamant Of Spirits,42.00,361.90,374.00,15199.80,15708.00,6181.56,37089.36
+6599,"Alas, Lord of Plague",South Brightcrown Borough,42.25,Glittering Orichalcum,234.00,-144.10,360.23,-33719.40,84293.82,21241.26,71815.68
+6978,Deathbrood,The Flying Witch,11.45,Hell Mercury Of The East,316.00,4636.34,284.60,1465083.44,89933.60,171051.87,1726068.91
+7092,"Gadriel, God of Resurrection",Bergfison's Deep,39.60,Angels' Smoke Adamant Of The Mountains,254.00,2832.34,215.00,719414.36,54610.00,309609.74,1083634.10
+7438,Lightning Brand,Tradun Castle,34.24,Zephyr Adamant,77.00,4224.00,102.93,325248.00,7925.61,113279.03,446452.64
+8287,Storm Seraphheart,The Fortress of Gama,10.16,Ensorceled Gold Of The Dawn,144.00,5713.98,402.92,822813.12,58020.48,88083.36,968916.96
+8406,Wind Dire,Cawold Castle,24.09,Primordial Mud Orichalcum,155.00,-387.90,77.37,-60124.50,11992.35,-11551.72,-59683.87
+8740,Magus Felldrake,The Nulukkhath Spires,10.59,Foul Ice Bronze Of Life,247.00,-92.21,129.80,-22775.87,32060.60,1021.32,10306.05
+8802,Chainnail,The Beggar and Cask,23.10,Ghouls' Imperial Soulzephyr Mithril Of The Seas,140.00,4123.68,122.49,577315.20,17148.60,136726.67,731190.47
+14671,Magus Felldrake,Reyny Keep,11.00,Phantasmal Tin Of The Swamps,112.00,4929.54,-7.26,552108.48,-813.12,60642.49,611937.85
+16511,"Zepul, Lady of Vengeance",Lacot Stronghold,45.22,Mistgold Of Men,190.00,4080.46,53.24,775287.40,10115.60,353431.35,1138834.35
+16572,Burnbrood The Freezer,Boiaburh Keep,16.00,Fleshshock Mercury,286.00,4858.70,338.07,1389588.20,96688.02,237804.20,1724080.42
+17474,Fate Seeker,The Cracked Chalice,2.52,Witchs' Forbidden Rockrainbow Bronze,394.00,655.60,425.92,258306.40,167812.48,12783.57,438902.45
+17778,Spikespawn,The Grey Plains,19.97,Meteoric Mirrormuck Orichalcum Of The Forests,72.00,2374.02,185.77,170929.44,13375.44,36860.98,221165.86
+20210,"Lionare, God of the Lost",Archtemple District,27.76,Rainbowglitter Tin,91.00,5957.39,213.40,542122.49,19419.40,157231.73,718773.62

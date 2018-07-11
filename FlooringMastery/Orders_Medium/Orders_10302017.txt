@@ -1,0 +1,19 @@
+226,Diana "Mistress" Morgan,NV,0.25,Brick,116.00,4.00,5.00,464.00,580.00,0.00,1044.00
+544,Renee "Loco Tracker" Jordan,MO,2.20,Pinecones,188.00,1.50,2.00,282.00,376.00,13.16,671.16
+1784,Cathy "Loner Demon" Murray,TX,0.50,Cedar Planks,316.00,2.00,5.00,632.00,1580.00,0.00,2212.00
+2262,"Scalphunter" Kennedy,MS,3.00,Cedar Planks,261.00,2.00,5.50,522.00,1435.50,58.72,2016.22
+6745,Minnie Lawson "the Apostle",MS,3.00,Beechwood,231.00,3.00,5.00,693.00,1155.00,55.44,1903.44
+7791,Wilma "Tornado" Brooks,ND,1.25,Brick,111.00,4.84,6.66,537.24,739.26,12.76,1289.26
+8099,Mattie Grant "the Gambler",TX,0.50,Brick,200.00,4.84,6.66,968.00,1332.00,0.00,2300.00
+9630,Wilma "Tornado" Brooks,AR,2.20,Beechwood,234.00,3.00,5.50,702.00,1287.00,39.78,2028.78
+10040,Vanessa "Scalper" Rhodes,OK,2.20,Beechwood,267.00,3.00,5.50,801.00,1468.50,45.39,2314.89
+10537,Mattie Grant "the Gambler",AR,2.20,Packed Dirt,171.00,1.00,1.50,171.00,256.50,8.55,436.05
+11321,Susan "Damnation" Fleming,ND,1.38,Reeds,291.00,0.75,2.20,218.25,640.20,8.58,867.03
+12708,Lena Chapman "the Bully",UT,0.00,Brick,156.00,4.84,6.66,755.04,1038.96,0.00,1794.00
+13065,"Scalphunter" Kennedy,MT,3.63,Pebbles,83.00,0.88,4.84,73.04,401.72,18.99,493.75
+13461,"Sunrise" Miles,OK,2.42,Beechwood,261.00,3.30,5.50,861.30,1435.50,45.94,2342.74
+15931,Black Beck,ID,0.00,Brick,207.00,5.32,6.66,1101.24,1378.62,0.00,2479.86
+21792,Lucky Johnson,AR,2.20,Reeds,147.00,0.83,2.20,122.01,323.40,8.91,454.32
+21951,Renee "Loco Tracker" Jordan,WY,0.31,Solid Oak,122.00,5.50,6.66,671.00,812.52,0.00,1483.52
+22229,Mabel "Vixen Cursed" King,NV,0.31,Leather,165.00,11.00,19.97,1815.00,3295.05,0.00,5110.05
+23322,Vengeful Montgomery,MO,2.20,Cedar Planks,249.00,2.20,6.66,547.80,1658.34,44.12,2250.26

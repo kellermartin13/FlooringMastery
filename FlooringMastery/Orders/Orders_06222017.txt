@@ -1,0 +1,19 @@
+388,Surgeon Grant,NM,2.00,Beechwood,152.00,3.00,5.00,456.00,760.00,24.32,1240.32
+2290,Joanne "Damned" Miles,KS,0.50,Cedar Planks,139.00,2.00,5.50,278.00,764.50,0.00,1042.50
+4315,Heather "Friendly Gambler" Barrett,AL,1.00,Leather,230.00,10.00,16.50,2300.00,3795.00,60.95,6155.95
+4580,Joanne "Damned" Miles,AR,2.20,Pebbles,166.00,0.80,4.40,132.80,730.40,17.26,880.46
+4677,Deborah "the Lady",MS,3.00,Reeds,165.00,0.75,2.20,123.75,363.00,14.60,501.35
+5930,Amanda Hart "the Loner",CA,0.55,Pebbles,336.00,0.80,4.40,268.80,1478.40,17.47,1764.67
+9550,Amanda Hart "the Loner",CA,0.55,Pebbles,153.00,0.88,4.84,134.64,740.52,8.75,883.91
+9822,Kathy Murphy "the Thinker",NM,2.20,Pinecones,328.00,1.50,2.66,492.00,872.48,27.29,1391.77
+10791,"Sunrise" Miles,AR,2.20,Brick,98.00,4.84,6.66,474.32,652.68,22.54,1149.54
+11577,Jacqueline "Riding Doc" Washington,MO,2.20,Reeds,240.00,0.75,2.20,180.00,528.00,14.16,722.16
+13897,Renee "Hellish Empress" Banks,AL,1.00,Pinecones,320.00,1.50,2.66,480.00,851.20,13.31,1344.51
+14248,Joanne "Damned" Miles,UT,0.00,Reeds,148.00,0.75,2.20,111.00,325.60,0.00,436.60
+14871,Jo "the Joker",MS,3.00,Pinecones,282.00,1.50,2.66,423.00,750.12,35.19,1208.31
+16755,Susan "Damnation" Fleming,MS,3.00,Brick,45.00,5.32,6.66,239.40,299.70,16.17,555.27
+17880,Friendly Howell,MO,2.20,Cedar Planks,297.00,2.20,6.66,653.40,1978.02,52.63,2684.05
+18241,Elizabeth "the Bully",AR,2.20,Solid Oak,190.00,5.50,6.66,1045.00,1265.40,46.21,2356.61
+19044,Minnie Lawson "the Apostle",AL,1.00,Brick,282.00,5.32,6.66,1500.24,1878.12,33.78,3412.14
+21343,Vengeful Montgomery,MS,3.00,Reeds,175.00,0.83,2.20,145.25,385.00,15.91,546.16
+21466,Friendly Howell,KS,0.55,Cedar Planks,193.00,2.20,6.66,424.60,1285.38,17.10,1727.08

@@ -1,0 +1,18 @@
+25,Chillfire The Chiller,Gena's Hold,2.00,Rainbowglitter Tin,273.00,4475.87,176.36,1221912.51,48146.28,25401.18,1295459.97
+4442,"Sielach, God of Fate",The Wizard's House,43.58,Otherworldly Mirror Orichalcum,222.00,-247.00,478.50,-54834.00,106227.00,22612.92,74005.92
+4652,"Lenwenye, Goddess of Travel",The Archer and Scroll,39.60,Primordial Mud Orichalcum,287.00,-387.90,77.37,-111327.30,22205.19,-35648.84,-124770.95
+6972,Evilcoil The Machine,The Lost Crypts of Sorrows,35.87,Ghostly Soul Adamant,57.00,3222.96,229.53,183708.72,13083.21,70845.09,267637.02
+7158,Claw Mist,The Lost Crypts of Sorrows,35.87,Unicorns' Evil Mithril,289.00,4802.49,312.00,1387919.61,90168.00,532111.54,2010199.15
+7772,Bedlam Spiritraven,Barad Kesa,4.32,Shadowy Adamant,104.00,618.93,478.58,64368.72,49772.32,4565.64,118706.68
+10887,Fate Ivycaster,Lacot Stronghold,37.37,Devils' Falserot Silver,181.00,1668.51,182.71,302000.31,33070.51,123976.20,459047.02
+11836,Burnchill The Evil,The Citadel of Cheno,7.33,God-touched Greengem Platinum,159.00,1281.72,-39.60,203793.48,-6296.40,13824.80,211321.88
+12996,"Azah, Goddess of Fate",The Hunter and Rose,40.40,Phantasmal Smokezephyr Mercury Of Men,151.00,-464.37,75.90,-70119.87,11460.90,-23463.59,-82122.56
+13187,"Lenwenye, Goddess of Travel",Castle Village,41.26,Negative Mercury,125.00,4054.87,436.81,506858.75,54601.25,230198.60,791658.60
+16205,"Lionare, God of the Lost",Barad Kesa,4.75,Lycanthropes' Gold,181.00,4846.18,66.14,877158.58,11971.34,44456.50,933586.42
+16783,Claw Mist,Moor Village,76.43,Starlight Pearldream Bronze,238.00,322.10,147.40,76659.80,35081.20,84923.16,196664.16
+18550,Spikecrank,The Vaults of the Shadow Emperor,33.00,Nymphs' Luminous Rotmercury Of The Skies,155.00,292.60,207.90,45353.00,32224.50,25600.58,103178.08
+18772,"Penur, Lord of the Sea",The Tower of Aramum,42.90,Primordial Mud Orichalcum,97.00,-469.36,85.11,-45527.92,8255.67,-16027.07,-53299.32
+20331,Magus Felldrake,The Forsaken Tomb of Devastation,0.00,Golems' Stonesapphire Gold Of The Glacier,231.00,4444.06,116.57,1026577.86,26927.67,0.00,1053505.53
+20444,Ironbrood,The Black Barrow of Zago the Possessed,30.80,Golems' Stonesapphire Gold Of The Glacier,323.00,4444.06,116.57,1435431.38,37652.11,456655.88,1929739.37
+21211,Rouge Roguemist,Moor Village,76.43,Golems' Stonesapphire Gold Of The Glacier,366.00,4444.06,128.23,1626525.96,46932.18,1271828.19,2945286.33
+21473,Chainblade The Cadaverous,The Lazy Sage,19.97,Hidden Shadowice Lead,152.00,2729.00,-62.23,414808.00,-9458.96,81069.81,486418.85

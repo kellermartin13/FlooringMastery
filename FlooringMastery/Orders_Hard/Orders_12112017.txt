@@ -1,0 +1,16 @@
+1657,"Avriel, God of Death",The Lazy Sage,15.00,Falserainbow Lead,48.00,3215.00,233.00,154320.00,11184.00,24825.60,190329.60
+2034,Burnchill The Evil,Haukri's Hold,25.30,Djinni's Evil Sandobsidian Steel Of The Future,274.00,3826.00,157.07,1048324.00,43037.18,272840.30,1364201.48
+3572,Sunset Knightclaw,Barad Cune,26.00,Evilsilver,134.00,1486.85,79.86,199237.90,10701.24,54584.18,264523.32
+6385,Gravebone The Unspeakable,South Brightcrown Borough,42.25,Primal Adamant,128.00,4562.80,273.90,584038.40,35059.20,260020.99,879118.59
+6454,Blazefreeze The Chiller,South Brightcrown Borough,42.25,Zephyr Iron,13.00,2759.00,444.69,35867.00,5780.97,17492.15,59140.12
+9478,Evilfear The Horrorific,Haukri's Hold,25.30,Ghostly Magic Adamant,99.00,4836.38,230.90,478801.62,22859.10,125415.18,627075.90
+12155,Rouge Roguemist,The Greedy Wench,32.70,Witchs' Forbidden Rockrainbow Bronze,248.00,655.60,387.20,162588.80,96025.60,85342.75,343957.15
+12392,Blazefreeze The Chiller,Archscepter Borough,3.00,Thunderbirds' Transcendent Dreamiron,250.00,2275.25,237.70,568812.50,59425.00,18847.12,647084.62
+12502,"Lionare, God of the Lost",The Glano Forest,3.00,Incubi's Iron Of The Dawn,82.00,1200.96,424.31,98478.72,34793.42,3998.16,137270.30
+14911,"Ingwenel, God of War",The Cracked Chalice,2.52,Shadow Steel,231.00,5660.12,511.83,1307487.72,118232.73,42771.61,1468492.06
+15923,Spikesnare,Peley Keep,26.33,Sirens' Rockgold,245.00,-352.01,199.96,-86242.45,48990.20,-9685.58,-46937.83
+16095,Fate Ivycaster,The Bastion of Gothmog of Udun,54.84,Toxin Iceplatinum Of The Undead,200.00,-377.06,-59.29,-75412.00,-11858.00,-47998.50,-135268.50
+16906,Sunset Knightclaw,The Tower of Aces the Accursed,13.31,Sprites' Transcendent Mud Lead Of The South,243.00,2081.80,321.86,505877.40,78211.98,75931.62,660021.00
+18853,Lord Mystery,Archfane District,36.16,Mana-touched Greenglitter Gold Of Giants,249.00,1291.38,514.25,321553.62,128048.25,161856.67,611458.54
+19418,Claw Mist,Noble's Village,33.28,Emerald Orichalcum,32.00,-405.76,128.90,-12984.32,4124.80,-2923.64,-11783.16
+22176,"Maeglodor, God of Thieves",The Grey Plains,21.97,Violetstone Tin Of Death,195.00,2469.75,171.71,481601.25,33483.45,113318.63,628403.33

@@ -1,0 +1,19 @@
+523,Rune Rougehate,The Tomb of Hellish Ruin,14.00,Venom Jewelmetal Of The Desert,84.00,1388.00,224.00,116592.00,18816.00,18957.12,154365.12
+2037,Deathbrood,The Forsaken Tomb of Devastation,0.00,Angels' Adamant,210.00,1304.00,179.30,273840.00,37653.00,0.00,311493.00
+2397,Bronzespike,The Khazahol Crags,-1.97,Phantasmal Smokezephyr Mercury Of Men,108.00,-317.16,69.00,-34253.28,7452.00,536.03,-26265.25
+3247,"Ingwenel, God of War",The Broken Arrow,30.07,Forgotten Mithril,261.00,913.00,316.00,238293.00,82476.00,96230.70,416999.70
+5516,Fate Ivycaster,Unicorn's Ward,13.31,Greenlead,180.00,793.10,148.47,142758.00,26724.60,22032.74,191515.34
+5965,Fate Ivycaster,The Cracked Chalice,2.29,Primal Adamant,146.00,4562.80,273.90,666168.80,39989.40,14123.16,720281.36
+6665,Ironbrood,South Brightcrown Borough,42.25,Foul Ice Bronze Of Life,163.00,-92.21,129.80,-15030.23,21157.40,2573.41,8700.58
+7845,Chainblade The Cadaverous,The Grey Plains,19.97,Unknown Fatelightning Steel Of The Glacier,174.00,2017.40,54.28,351027.60,9444.72,72094.46,432566.78
+8544,Steelterror The Blade,The Khazahol Crags,-1.97,Negative Rockglitter Mercury Of Trolls,108.00,1483.90,423.07,160261.20,45691.56,-4119.06,201833.70
+9110,"Sielach, God of Fate",Gawold Castle,5.50,Negative Rockglitter Mercury Of Trolls,333.00,1483.90,465.38,494138.70,154971.54,38946.61,688056.85
+9639,Terrorghoul The Unspeakable,The Secret Catacombs of Ulfang the Black,42.90,Golems' Stonesapphire Gold Of The Glacier,167.00,3672.77,105.97,613352.59,17696.99,271351.32,902400.90
+11589,Shadow Gust,The Bastion of the Lich Tyrant,43.00,Pearl Mirrorice Steel Of Changelings,170.00,271.51,38.07,46156.70,6471.90,22630.30,75258.90
+13164,Seraph Jester,The Pilgrim's Cup,46.12,Meteoric Dustzephyr Orichalcum,145.00,375.00,268.49,54375.00,38931.05,42920.78,136226.83
+15755,"Lenwenye, Goddess of Travel",Gifeld Castle,6.22,Unspeakable Rotsoul Mithril Of Souls,260.00,248.00,401.53,64480.00,104397.80,10132.67,179010.47
+16662,Deathbrood,Moor Village,76.43,Forgotten Mithril,305.00,1104.73,347.60,336942.65,106018.00,336650.09,779610.74
+18861,Snaretool The Constructed,The Secret Shrine of the Gargoyle Count,-2.00,Grayplatinum,254.00,3032.59,306.97,770277.86,77970.38,-16964.96,831283.28
+22276,Lightning Brand,Gawold Castle,6.05,Muck Orichalcum Of Ogres,195.00,4561.14,485.76,889422.30,94723.20,59048.73,1043194.23
+22778,"Uriel, God of Fate",Boiaburh Keep,17.60,Djinni's Evil Sandobsidian Steel Of The Future,79.00,4208.60,172.78,332479.40,13649.62,62303.22,408432.24
+23235,Icechill The Frigid,The Secret Shrine of the Gargoyle Count,-2.00,Icy Shock Silver,186.00,1794.41,595.89,333760.26,110835.54,-8891.92,435703.88

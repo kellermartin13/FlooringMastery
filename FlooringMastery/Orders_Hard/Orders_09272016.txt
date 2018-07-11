@@ -1,0 +1,19 @@
+56,Storm Seraphheart,The Fortress of Asmamur,-4.48,Unicorns' Evil Mithril,242.00,3969.00,312.00,960498.00,75504.00,-41440.08,994561.92
+2185,Zeal Bladewitch,The Chuallanto Jungle,37.00,Djinni's Evil Sandobsidian Steel Of The Future,105.00,3826.00,157.07,401730.00,16492.35,154742.27,572964.62
+4181,Claw Mist,The Dungeon of Merciless Woe,38.62,Incubi's Iron Of The Dawn,229.00,1200.96,385.74,275019.84,88334.46,141708.18,505062.48
+4662,Emberfire,The Scoundrel and Flask,-4.58,Otherworldly Mirror Orichalcum,207.00,-247.00,478.50,-51129.00,99049.50,-2396.02,45524.48
+10352,Chainhorror,The Dismal Marsh,6.05,Pearl Mirrorice Steel Of Changelings,198.00,271.51,38.07,53758.98,7537.86,3677.81,64974.65
+10449,Emberfire,The Fortress of Gama,10.16,Shadowhell Mithril,128.00,439.23,286.41,56221.44,36660.48,9288.19,102170.11
+12676,Mecharig The Living Device,The Cracked Chalice,2.52,Phantasmal Lead,198.00,-552.97,245.47,-109488.06,48603.06,-1826.55,-62711.55
+13899,Rose Anchor,Archfane District,32.87,Spectres' Shadowy Terrorglow Adamant Of Life,254.00,5164.28,248.66,1311727.12,63159.64,453712.63,1828599.39
+14815,Rouge Tombreaper,Minas Gilloy,43.19,Violetdream Iron,217.00,1224.69,349.36,265757.73,75811.12,146874.61,488443.46
+15589,"Gadriel, God of Resurrection",Noble's Village,30.25,Plague Tin,275.00,4767.02,342.10,1310930.50,94077.50,421502.40,1826510.40
+15948,Icechill The Frigid,Barad Kesa,4.75,Thunderbirds' Transcendent Dreamiron,171.00,2275.25,237.70,389067.75,40646.70,21485.72,451200.17
+16072,Chainnail,Peley Keep,26.33,Sirens' Rockgold,397.00,-352.01,199.96,-139747.97,79384.12,-15694.60,-76058.45
+17306,Flameshiver,North Arcanist's Farthing,55.18,Angels' Smoke Adamant Of The Mountains,181.00,3427.13,260.15,620310.53,47087.15,367068.72,1034466.40
+18581,Flameflare The Evil,Mahyrst Keep,30.42,Meteoric Dustzephyr Orichalcum,390.00,375.00,268.49,146250.00,104711.10,75288.33,326249.43
+18988,Cult Godseeker,The Drunken Thief,12.65,Fog Lavaplatinum Of Life,250.00,1078.00,18.70,269500.00,4675.00,35642.75,309817.75
+19139,"Iran, Lord of Nightmares",Reyny Keep,11.00,Phantasmal Smokezephyr Mercury Of Men,130.00,-510.81,75.90,-66405.30,9867.00,-6219.21,-62757.51
+20118,Gale Jackalguard,The Tomb of Hellish Ruin,16.94,Angels' Smoke Adamant Of The Mountains,97.00,3427.13,260.15,332431.61,25234.55,60803.25,418469.41
+20968,Emberspawn,Archtemple District,27.76,Forgotten Mithril,147.00,1215.20,347.60,178634.40,51097.20,64324.85,294056.45
+21856,Burnchill The Evil,The Fortress of Akkun the Grim,-2.42,Poison Adamant,43.00,1266.52,70.88,54460.36,3047.84,-1150.16,56358.04

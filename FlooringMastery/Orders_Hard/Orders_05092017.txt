@@ -1,0 +1,17 @@
+465,Springpulley The Binder,Shainan's Hold,18.00,Venom Jewelmetal Of The Desert,125.00,1388.00,224.00,173500.00,28000.00,36270.00,237770.00
+1705,"Sielach, God of Fate",Shainan's Hold,19.80,Starlight Pearldream Bronze,266.00,242.00,134.00,64372.00,35644.00,20003.20,120019.20
+1729,Sephiroth Drakecaster,The Broken Arrow,30.07,Greenlead,131.00,721.00,134.97,94451.00,17681.07,33639.62,145771.69
+4851,"Gadriel, God of Resurrection",Archring Borough,17.93,Primordial Mud Orichalcum,132.00,-387.90,77.37,-51202.80,10212.84,-7378.19,-48368.15
+5834,Grave Mistseeker,The Cuitamba Jungle,28.00,Otherworldly Mirror Orichalcum,196.00,-247.00,478.50,-48412.00,93786.00,12704.72,58078.72
+8898,"Ingwenel, God of War",Unicorn's Ward,14.64,Primal Adamant,184.00,5019.08,301.29,923510.72,55437.36,146842.21,1125790.29
+10306,Burnbrood The Freezer,The Nulukkhath Spires,10.59,Ensorceled Gold Of The Dawn,230.00,5713.98,402.92,1314215.40,92671.60,154757.57,1561644.57
+11976,Bedlam Spiritraven,The Black Barrow of Bery,-0.07,Ghostly Magic Adamant,139.00,4836.38,230.90,672256.82,32095.10,0.00,704351.92
+12414,Jericho Wolf,The Tomb of Gothmog of Udun,-3.30,Sirens' Rockgold,152.00,-352.01,199.96,-53505.52,30393.92,693.35,-22418.25
+12463,Evilcoil The Machine,Castle Village,37.51,Spectres' Shadowy Terrorglow Adamant Of Life,248.00,5164.28,226.05,1280741.44,56060.40,507984.70,1844786.54
+12906,Rose Anchor,Reheath Stronghold,8.00,Tin Of The Tundra,152.00,3123.86,174.91,474826.72,26586.32,40113.04,541526.08
+13223,Tarot Dawn,The Warrior and Flagon,53.24,Ghostly Soul Adamant,148.00,3222.96,229.53,476998.08,33970.44,270813.32,781781.84
+17388,Sephiroth Drakecaster,Shainan's Hold,23.96,Fog Lavaplatinum Of Life,195.00,1078.00,18.70,210210.00,3646.50,51325.56,265182.06
+19164,Boltcrank The Trapper,The Citadel of Tattena the Sinister,13.34,Ghostly Soul Adamant,254.00,3222.96,229.53,818631.84,58300.62,114001.22,990933.68
+22389,Dawn Darkzealot,The Cuitamba Jungle,33.88,Phantasmal Lead,334.00,-669.10,270.02,-223479.40,90186.68,-45319.52,-178612.24
+22458,Magus Felldrake,Bifar's Deep,18.70,Undeads' Mind Orichalcum Of The Twilight,171.00,-17.00,276.00,-2907.00,47196.00,8414.91,52703.91
+23027,"Gono, Goddess of the Earth",Pawic Keep,0.62,Incubi's Glittering Tin Of The Future,70.00,3349.54,96.64,234467.80,6764.80,2412.33,243644.93

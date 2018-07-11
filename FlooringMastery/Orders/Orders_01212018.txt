@@ -1,0 +1,21 @@
+4253,Amanda Hart "the Loner",ND,1.25,Pebbles,145.00,0.80,4.40,116.00,638.00,7.54,761.54
+6430,Ida Russell "the Rustler",ND,1.25,Brick,242.00,4.84,6.66,1171.28,1611.72,27.83,2810.83
+7664,Joanne "Damned" Miles,MT,3.30,Dirt,100.00,0.50,1.00,50.00,100.00,4.50,154.50
+7812,Allison "Steel Gravedigger" Douglas,MS,3.00,Brick,169.00,4.84,6.66,817.96,1125.54,58.30,2001.80
+9793,Dorothy "the Hunter",UT,0.00,Brick,204.00,4.84,6.66,987.36,1358.64,0.00,2346.00
+9826,Helen Webb "the Dancer",NM,2.20,Leather,227.00,10.00,18.15,2270.00,4120.05,127.80,6517.85
+10808,Tammy Carlson "the Killer",MS,3.00,Leather,132.00,10.00,18.15,1320.00,2395.80,111.47,3827.27
+11733,Marie "Raven" Chapman,NM,2.20,Solid Oak,107.00,5.50,5.50,588.50,588.50,23.54,1200.54
+12157,Deborah "the Lady",ND,1.38,Beechwood,240.00,3.30,5.50,792.00,1320.00,21.12,2133.12
+15285,Theresa "Kid" Robinson,OK,2.42,Leather,314.00,11.00,18.15,3454.00,5699.10,183.06,9336.16
+16173,Renee "Hellish Empress" Banks,MT,3.99,Cedar Planks,257.00,2.20,6.05,565.40,1554.85,84.81,2205.06
+16902,"Bane" Jennings,KS,0.55,Brick,161.00,5.32,6.66,856.52,1072.26,19.29,1948.07
+18243,Vicki "Mesa" Rhodes,OK,2.42,Pebbles,268.00,0.88,4.84,235.84,1297.12,30.66,1563.62
+18257,Wilma "Tornado" Brooks,CA,0.61,Solid Oak,269.00,5.50,6.66,1479.50,1791.54,32.71,3303.75
+18918,Theresa "Scalphunter" Romero,UT,0.00,Dirt,205.00,0.50,1.00,102.50,205.00,0.00,307.50
+19328,Cathy "Wildfire" Neal,UT,0.00,Pinecones,322.00,1.50,2.66,483.00,856.52,0.00,1339.52
+21710,Julia "Bandit" Chandler,MS,3.00,Solid Oak,151.00,5.50,6.66,830.50,1005.66,55.08,1891.24
+21771,Melissa "Lonesome Stalker" Riley,CA,0.67,Solid Oak,212.00,5.50,6.66,1166.00,1411.92,25.78,2603.70
+21983,Beth "Fortunate Shooter" Powell,ND,1.67,Dirt,355.00,0.55,1.00,195.25,355.00,11.00,561.25
+22282,Betty "Happy Thinker" Watson,AL,1.00,Pinecones,137.00,1.50,2.66,205.50,364.42,5.70,575.62
+23080,Diana "Mistress" Morgan,MS,3.00,Reeds,169.00,0.91,2.42,153.79,408.98,16.88,579.65

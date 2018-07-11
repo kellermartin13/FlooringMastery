@@ -1,0 +1,17 @@
+380,Deathspike The Terrifying,The Citadel of Cheno,5.00,Poison Adamant,285.00,298.00,406.38,84930.00,115818.30,10037.42,210785.72
+2744,Burnfreeze The Cold,Gili's Delve,-4.59,Phantasmal Smokezephyr Mercury Of Men,270.00,-317.16,69.00,-85633.20,18630.00,3350.16,-63653.04
+2814,Chillfire The Chiller,The Bastion of Barbos,21.29,Greenlead,279.00,721.00,134.97,201159.00,37656.63,50151.28,288966.91
+3215,Burnfreeze The Cold,The Grey Plains,19.97,Vampires' Hammer Emeraldmetal,178.00,344.95,25.84,61401.10,4599.52,13200.12,79200.74
+7236,Burnchill The Evil,The Demon and Toad,23.75,Unholy Poison Copper Of The Mountains,128.00,580.91,-9.24,74356.48,-1182.72,17561.70,90735.46
+8045,Evilember The Firey,Grori's Deep,49.95,Violetstone Tin Of Death,183.00,2245.23,156.10,410877.09,28566.30,219721.70,659165.09
+8850,Jericho Wolf,The Citadel of Tattena the Sinister,12.13,Angels' Smoke Adamant Of The Mountains,158.00,2832.34,215.00,447509.72,33970.00,57777.57,539257.29
+9262,Lord Mystery,Weke Tower,-0.05,White Platinum,247.00,-52.59,145.00,-12989.73,35815.00,0.00,22825.27
+11034,Burnchill The Evil,The Dungeon of Merciless Woe,38.62,Phantasmal Plague Adamant,167.00,-186.03,-7.18,-31067.01,-1199.06,-12583.77,-44849.84
+12865,Rose Anchor,The Wizard's House,43.58,Nymphs' Luminous Rotmercury Of The Skies,104.00,292.60,189.00,30430.40,19656.00,22038.02,72124.42
+13140,Rouge Tombreaper,The Cracked Chalice,2.52,Mind Lead,162.00,2844.70,309.10,460841.40,50074.20,15327.47,526243.07
+14033,Spikebrood The Disinterred,Tradun Castle,37.66,Violetstone Tin Of Death,3.00,2469.75,171.71,7409.25,515.13,3011.26,10935.64
+14358,"Alas, Lord of Plague",Lamp Borough,4.95,Primordial Plague Mercury Of Legend,307.00,452.29,301.29,138853.03,92496.03,11567.45,242916.51
+17321,Magus Felldrake,Reyny Keep,11.00,Sphinxes' Opalpearl Platinum Of Legend,164.00,5805.82,390.81,952154.48,64092.84,111787.21,1128034.53
+17900,Zeal Bladewitch,Grori's Deep,66.50,Rocklava Mithril Of Revenants,149.00,2200.14,14.33,327820.86,2135.17,217770.98,547727.01
+20175,Gale Jackalguard,Unicorn's Ward,14.64,Planar Rainfate Mithril,208.00,1185.84,320.52,246654.72,66668.16,46998.43,360321.31
+21662,Chainhorror,The Cuitamba Jungle,33.88,Golems' Stonesapphire Gold Of The Glacier,79.00,4444.06,128.23,351080.74,10130.17,122811.71,484022.62

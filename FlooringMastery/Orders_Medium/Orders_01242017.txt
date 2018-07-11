@@ -1,0 +1,22 @@
+1791,Jacqueline "Riding Doc" Washington,NV,0.25,Reeds,254.00,0.75,2.00,190.50,508.00,0.00,698.50
+3484,Joanne "Damned" Miles,MS,3.00,Pinecones,272.00,1.50,2.20,408.00,598.40,30.19,1036.59
+3605,Amanda Hart "the Loner",OK,2.00,Pinecones,350.00,1.50,2.20,525.00,770.00,25.90,1320.90
+3797,Lena Chapman "the Bully",MO,2.20,Pebbles,99.00,0.80,4.40,79.20,435.60,10.30,525.10
+4239,Lucky Johnson,AL,1.00,Leather,125.00,10.00,16.50,1250.00,2062.50,33.12,3345.62
+4378,Minnie Lawson "the Apostle",TX,0.50,Pebbles,218.00,0.80,4.40,174.40,959.20,0.00,1133.60
+4872,Florence "Leather Doc" Grant,AL,1.00,Dirt,112.00,0.50,1.00,56.00,112.00,1.68,169.68
+9299,Diana "Mistress" Morgan,NM,2.20,Leather,305.00,10.00,18.15,3050.00,5535.75,171.72,8757.47
+9556,Betty "Happy Thinker" Watson,KS,0.50,Beechwood,99.00,3.00,5.50,297.00,544.50,0.00,841.50
+9666,Joanne "Damned" Miles,MT,3.63,Packed Dirt,176.00,1.00,1.50,176.00,264.00,17.60,457.60
+14095,"Doom" McCoy,NM,2.42,Beechwood,122.00,3.63,5.50,442.86,671.00,22.28,1136.14
+14142,Kathy Murphy "the Thinker",NV,0.31,Brick,129.00,5.32,6.66,686.28,859.14,0.00,1545.42
+14387,Lorraine "Utah" Adams,CA,0.61,Solid Oak,194.00,5.50,5.50,1067.00,1067.00,21.34,2155.34
+18113,Vicki "Mesa" Rhodes,ND,1.67,Reeds,93.00,0.83,2.20,77.19,204.60,5.64,287.43
+18519,Heather "Friendly Gambler" Barrett,KS,0.55,Solid Oak,97.00,5.50,6.66,533.50,646.02,11.80,1191.32
+18996,Victoria "the Dancer",AR,2.20,Cedar Planks,119.00,2.20,6.66,261.80,792.54,21.09,1075.43
+19042,Heather "Tornado" Newman,IA,1.33,Beechwood,124.00,3.63,5.50,450.12,682.00,11.32,1143.44
+19400,Cathy "Loner Demon" Murray,WY,0.31,Brick,159.00,5.32,6.66,845.88,1058.94,0.00,1904.82
+19420,Allison "Steel Gravedigger" Douglas,NM,2.93,Leather,172.00,11.00,19.97,1892.00,3434.84,159.81,5486.65
+22017,Kathy Murphy "the Thinker",ID,0.00,Pinecones,235.00,1.50,2.66,352.50,625.10,0.00,977.60
+23443,Lorraine "Utah" Adams,WY,0.34,Brick,300.00,5.32,6.66,1596.00,1998.00,0.00,3594.00
+23482,Minnie Lawson "the Apostle",NM,2.93,Beechwood,255.00,3.63,6.05,925.65,1542.75,74.05,2542.45

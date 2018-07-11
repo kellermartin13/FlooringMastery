@@ -1,0 +1,21 @@
+1299,Lena Chapman "the Bully",NV,0.25,Dirt,69.00,0.50,1.00,34.50,69.00,0.00,103.50
+3128,Renee "Hellish Empress" Banks,NV,0.25,Beechwood,279.00,3.00,5.00,837.00,1395.00,0.00,2232.00
+3749,Wilma "Tornado" Brooks,IA,1.10,Beechwood,92.00,3.00,5.00,276.00,460.00,7.36,743.36
+4269,Theresa "Kid" Robinson,AL,1.00,Dirt,237.00,0.50,1.00,118.50,237.00,3.56,359.06
+5361,"Scalphunter" Kennedy,IA,1.21,Cedar Planks,153.00,2.00,5.50,306.00,841.50,11.48,1158.98
+5937,Heather "Tornado" Newman,NM,2.20,Pinecones,25.00,1.50,2.66,37.50,66.50,2.08,106.08
+7629,Lena Chapman "the Bully",IA,1.21,Packed Dirt,162.00,1.00,1.50,162.00,243.00,4.05,409.05
+8819,Mabel "Vixen Cursed" King,IA,1.21,Dirt,177.00,0.50,1.00,88.50,177.00,2.66,268.16
+10134,Elizabeth "the Bully",OK,2.20,Pinecones,219.00,1.50,2.66,328.50,582.54,18.22,929.26
+16209,Vengeful Montgomery,ND,1.38,Brick,104.00,5.32,6.66,553.28,692.64,12.46,1258.38
+17026,Black Beck,UT,0.00,Dirt,306.00,0.50,1.00,153.00,306.00,0.00,459.00
+17598,"Bane" Jennings,UT,0.00,Packed Dirt,117.00,1.10,2.20,128.70,257.40,0.00,386.10
+17999,Wilma "Tornado" Brooks,MO,2.20,Cedar Planks,233.00,2.20,6.66,512.60,1551.78,41.29,2105.67
+18405,Mattie Grant "the Gambler",IA,1.33,Dirt,377.00,0.50,1.00,188.50,377.00,5.66,571.16
+18602,Darlene "Loner" Ford,KS,0.55,Solid Oak,172.00,5.50,6.66,946.00,1145.52,20.92,2112.44
+20092,Jacqueline "Riding Doc" Washington,NV,0.31,Pinecones,209.00,1.50,2.66,313.50,555.94,0.00,869.44
+21267,"Bane" Jennings,AR,2.20,Brick,370.00,5.32,6.66,1968.40,2464.20,88.65,4521.25
+21367,Renee "Hellish Empress" Banks,MS,3.00,Pinecones,145.00,1.50,2.66,217.50,385.70,18.10,621.30
+21990,Wilma "Tornado" Brooks,MS,3.00,Reeds,189.00,0.83,2.20,156.87,415.80,17.18,589.85
+22863,Gladys "Locoweed" Keller,MS,3.00,Pebbles,246.00,0.88,5.32,216.48,1308.72,45.76,1570.96
+23395,Lucky Johnson,AR,2.20,Leather,257.00,11.00,19.97,2827.00,5132.29,159.19,8118.48

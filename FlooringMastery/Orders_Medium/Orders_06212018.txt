@@ -1,0 +1,21 @@
+1334,Dorothy "the Hunter",NM,2.20,Cedar Planks,288.00,2.00,5.00,576.00,1440.00,40.32,2056.32
+2516,Surgeon Grant,MO,2.20,Cedar Planks,101.00,2.00,5.50,202.00,555.50,15.15,772.65
+4295,"Bane" Jennings,ND,1.25,Pebbles,73.00,0.80,4.40,58.40,321.20,3.80,383.40
+5173,"Sunrise" Miles,ID,0.00,Packed Dirt,163.00,1.00,1.50,163.00,244.50,0.00,407.50
+5460,April "Thunderbird" Dunn,UT,0.00,Pinecones,170.00,1.50,2.42,255.00,411.40,0.00,666.40
+5663,Jacqueline "Riding Doc" Washington,IA,1.21,Brick,266.00,4.84,6.66,1287.44,1771.56,30.59,3089.59
+6832,Surgeon Grant,KS,0.50,Packed Dirt,146.00,1.00,1.50,146.00,219.00,0.00,365.00
+8270,Helen Webb "the Dancer",WY,0.31,Packed Dirt,162.00,1.00,1.50,162.00,243.00,0.00,405.00
+9034,Mabel "Vixen Cursed" King,MT,3.30,Brick,123.00,4.84,6.66,595.32,819.18,42.44,1456.94
+9162,Geraldine "Revenge" Warren,MS,3.00,Pebbles,138.00,0.88,4.84,121.44,667.92,23.68,813.04
+9576,Victoria "the Dancer",AL,1.00,Packed Dirt,266.00,1.00,1.50,266.00,399.00,6.65,671.65
+11220,Melissa "Lonesome Stalker" Riley,MT,3.63,Leather,187.00,10.00,18.15,1870.00,3394.05,210.56,5474.61
+11553,Victoria "the Dancer",AR,2.20,Beechwood,196.00,3.00,5.50,588.00,1078.00,33.32,1699.32
+11634,Helen Webb "the Dancer",UT,0.00,Pinecones,355.00,1.50,2.66,532.50,944.30,0.00,1476.80
+14922,Vicki "Mesa" Rhodes,CA,0.61,Solid Oak,82.00,5.50,5.50,451.00,451.00,9.02,911.02
+17447,Lena Chapman "the Bully",MO,2.20,Cedar Planks,239.00,2.20,6.66,525.80,1591.74,42.35,2159.89
+17859,Geraldine "Revenge" Warren,MS,3.00,Packed Dirt,53.00,1.10,2.20,58.30,116.60,5.25,180.15
+18283,Cathy "Wildfire" Neal,NM,2.93,Pinecones,223.00,1.50,2.66,334.50,593.18,27.83,955.51
+19027,Renee "Loco Tracker" Jordan,TX,0.67,Dirt,228.00,0.50,1.00,114.00,228.00,3.42,345.42
+22549,Ida Russell "the Rustler",TX,0.67,Leather,260.00,11.00,19.97,2860.00,5192.20,80.52,8132.72
+22679,Heather "Tornado" Newman,CA,0.67,Cedar Planks,351.00,2.20,6.66,772.20,2337.66,31.10,3140.96

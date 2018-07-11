@@ -1,0 +1,13 @@
+2639,Gladys "Locoweed" Keller,UT,0.00,Beechwood,193.00,3.00,5.00,579.00,965.00,0.00,1544.00
+2929,Beth "Fortunate Shooter" Powell,MS,3.00,Packed Dirt,99.00,1.00,1.50,99.00,148.50,7.42,254.92
+4658,"Bane" Jennings,ND,1.25,Pebbles,226.00,0.80,4.40,180.80,994.40,11.75,1186.95
+7666,"Bane" Jennings,WY,0.31,Leather,78.00,10.00,18.15,780.00,1415.70,0.00,2195.70
+10222,Amanda Hart "the Loner",NV,0.31,Reeds,245.00,0.75,2.20,183.75,539.00,0.00,722.75
+10672,Betty "Happy Thinker" Watson,MS,3.00,Leather,325.00,10.00,18.15,3250.00,5898.75,274.46,9423.21
+11765,Evelyn "Evil Joker" Taylor,UT,0.00,Cedar Planks,243.00,2.20,6.05,534.60,1470.15,0.00,2004.75
+12890,Black Beck,TX,0.67,Cedar Planks,221.00,2.20,6.05,486.20,1337.05,18.23,1841.48
+13609,Black Beck,TX,0.67,Solid Oak,225.00,5.50,5.50,1237.50,1237.50,24.75,2499.75
+16248,Marie "Raven" Chapman,CA,0.61,Pebbles,136.00,0.88,4.84,119.68,658.24,7.78,785.70
+16335,Darlene "Loner" Ford,MS,3.00,Dirt,214.00,0.50,1.00,107.00,214.00,9.63,330.63
+20003,Vanessa "Scalper" Rhodes,AL,1.00,Pinecones,57.00,1.50,2.66,85.50,151.62,2.37,239.49
+22448,Joanne "Damned" Miles,TX,0.67,Solid Oak,349.00,5.50,6.66,1919.50,2324.34,42.44,4286.28

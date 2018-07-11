@@ -1,0 +1,22 @@
+1833,"Azah, Goddess of Fate",The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,218.00,3826.00,157.07,834068.00,34241.26,182344.94,1050654.20
+2665,Beamtrap,Pawic Keep,0.56,Negative Mercury,383.00,4054.87,361.00,1553015.21,138263.00,16912.78,1708190.99
+2975,Sephiroth Drakecaster,The Grey Plains,19.97,Mithril Of The Tropics,269.00,3751.00,9.00,1009019.00,2421.00,202288.00,1213728.00
+7852,Fate Seeker,The Tower of Aces the Accursed,13.31,Unknown Fatelightning Steel Of The Glacier,311.00,2017.40,54.28,627411.40,16881.08,83758.02,728050.50
+8349,Maverick Wind,Mahyrst Keep,27.65,Goddesses' Spectral Poison Steel,89.00,3773.99,269.83,335885.11,24014.87,100771.99,460671.97
+8631,Rouge Tombreaper,The Khazahol Crags,-1.97,Shadowy Adamant,260.00,618.93,478.58,160921.80,124430.80,-5707.05,279645.55
+10600,Deathbrood,The Dread Hive of Illfang the Kobold Lord,1.33,Yellow Mistearth Copper,154.00,4575.58,-27.40,704639.32,-4219.60,7004.20,707423.92
+11094,"Zepul, Lady of Vengeance",The Black Barrow of Bery,-0.07,Primordial False Gold,169.00,5395.80,226.00,911890.20,38194.00,0.00,950084.20
+11298,Gale Jackalguard,Pawic Keep,0.56,Emerald Orichalcum,195.00,-368.87,128.90,-71929.65,25135.50,-467.94,-47262.09
+12149,Sunrise Godwarlock,The Chuallanto Jungle,37.00,Toxic Mistlead Of The Past,57.00,1557.54,136.06,88779.78,7755.42,35718.02,132253.22
+13625,Harmony Angelchild,Eved Castle,5.09,Mithril Of Legend,94.00,2274.80,63.01,213831.20,5922.94,10987.71,230741.85
+14047,"Selik, God of Death",The Greedy Wench,32.70,Ghostly Soul Adamant,145.00,3222.96,229.53,467329.20,33281.85,165201.65,665812.70
+14557,Deathspike The Terrifying,The Archer and Blade,9.90,Witchs' Forbidden Rockrainbow Bronze,114.00,655.60,425.92,74738.40,48554.88,12329.33,135622.61
+14581,Shadow Tomblion,The Citadel of Lord Greywulf,33.04,Witchs' Forbidden Rockrainbow Bronze,325.00,655.60,425.92,213070.00,138424.00,115993.02,467487.02
+15121,"Alas, Lord of Plague",The Tower of Aces the Accursed,13.31,Heavenly Dreamsilver Of The Night,35.00,2009.68,112.00,70338.80,3920.00,9653.64,83912.44
+15337,Clash Lonedrake,Gili's Delve,-6.73,Sphinxes' Unknown Poisongold Of The Future,163.00,3910.25,23.86,637370.75,3889.18,-44888.20,596371.73
+16139,Gravebone,The Vaults of the Shadow Emperor,33.00,Angels' Smoke Adamant Of The Mountains,243.00,3427.13,236.50,832792.59,57469.50,293786.49,1184048.58
+16435,Shadow Gust,Boiaburh Keep,16.00,Ghostly Magic Adamant,194.00,4836.38,230.90,938257.72,44794.60,157288.37,1140340.69
+17156,Dawn Darkzealot,The Cracked Chalice,2.52,Primordial Mud Orichalcum,252.00,-469.36,85.11,-118278.72,21447.72,-2904.93,-99735.93
+17876,Bronzespawn,Archfane District,36.16,Trolls' Mist Poisonplatinum Of The Twilight,103.00,567.79,434.39,58482.37,44742.17,37160.83,140385.37
+19533,Blazeflare The Cremator,The Temple of Merciless Necromancy,50.94,Toxic Mistlead Of The Past,81.00,1557.54,164.64,126160.74,13335.84,71143.26,210639.84
+21060,Mecharig The Living Device,The Black Barrow of Bery,-0.10,Tritons' Time Stoneiron Of Legend,371.00,2129.60,224.81,790081.60,83404.51,0.00,873486.11

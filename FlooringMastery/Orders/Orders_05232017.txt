@@ -1,0 +1,11 @@
+2277,Marie "Raven" Chapman,ID,0.00,Solid Oak,156.00,5.00,5.00,780.00,780.00,0.00,1560.00
+3171,Cynthia "the Vixen",MO,2.20,Pinecones,308.00,1.50,2.20,462.00,677.60,22.79,1162.39
+6038,Tina "Lady" Anderson,KS,0.50,Solid Oak,70.00,5.50,5.50,385.00,385.00,0.00,770.00
+8271,Gladys "Locoweed" Keller,WY,0.31,Solid Oak,182.00,5.50,5.50,1001.00,1001.00,0.00,2002.00
+11766,Vanessa "Scalper" Rhodes,WY,0.31,Leather,141.00,10.00,18.15,1410.00,2559.15,0.00,3969.15
+12684,Heather "Friendly Gambler" Barrett,ID,0.00,Leather,370.00,11.00,18.15,4070.00,6715.50,0.00,10785.50
+15712,Wilma "Tornado" Brooks,MO,2.20,Pinecones,173.00,1.50,2.66,259.50,460.18,14.39,734.07
+20545,Debra "Scorpion" Lane,TX,0.67,Dirt,188.00,0.50,1.00,94.00,188.00,2.82,284.82
+21103,Wilma "Tornado" Brooks,KS,0.55,Pebbles,192.00,0.88,4.84,168.96,929.28,10.98,1109.22
+21189,Surgeon Grant,MS,3.00,Solid Oak,294.00,5.50,6.66,1617.00,1958.04,107.25,3682.29
+23529,Minnie Lawson "the Apostle",MS,3.00,Brick,190.00,5.32,6.66,1010.80,1265.40,68.29,2344.49

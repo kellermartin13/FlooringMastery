@@ -1,0 +1,10 @@
+989,Tammy Carlson "the Killer",MS,3.00,Beechwood,154.00,3.00,5.00,462.00,770.00,36.96,1268.96
+3886,Gladys "Locoweed" Keller,NV,0.25,Solid Oak,201.00,5.50,5.00,1105.50,1005.00,0.00,2110.50
+4741,Evelyn "Evil Joker" Taylor,UT,0.00,Pinecones,247.00,1.50,2.42,370.50,597.74,0.00,968.24
+8308,Marie "Raven" Chapman,MT,3.30,Packed Dirt,199.00,1.00,1.50,199.00,298.50,14.92,512.42
+13159,Tammy Carlson "the Killer",ID,0.00,Dirt,114.00,0.50,1.00,57.00,114.00,0.00,171.00
+14868,Diana "Mistress" Morgan,MT,3.99,Pinecones,283.00,1.50,2.66,424.50,752.78,47.09,1224.37
+17338,Evelyn "Evil Joker" Taylor,UT,0.00,Pinecones,107.00,1.50,2.66,160.50,284.62,0.00,445.12
+18583,Vicki "Mesa" Rhodes,TX,0.67,Pinecones,140.00,1.50,2.66,210.00,372.40,5.82,588.22
+20012,Julia "Bandit" Chandler,CA,0.67,Reeds,211.00,0.83,2.20,175.13,464.20,6.39,645.72
+21628,Jo "the Joker",KS,0.55,Beechwood,67.00,3.63,6.05,243.21,405.35,6.49,655.05

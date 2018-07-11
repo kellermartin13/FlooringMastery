@@ -1,0 +1,12 @@
+1760,Cathy "Wildfire" Neal,OK,2.00,Cedar Planks,345.00,2.00,5.00,690.00,1725.00,48.30,2463.30
+2557,Vicki "Mesa" Rhodes,MS,3.00,Pebbles,142.00,0.80,4.40,113.60,624.80,22.15,760.55
+4403,Gladys "Locoweed" Keller,NM,2.20,Cedar Planks,192.00,2.00,5.50,384.00,1056.00,28.80,1468.80
+7845,Surgeon Grant,NM,2.20,Solid Oak,319.00,5.50,5.50,1754.50,1754.50,70.18,3579.18
+9992,Theresa "Scalphunter" Romero,UT,0.00,Beechwood,283.00,3.00,5.50,849.00,1556.50,0.00,2405.50
+10436,"Doom" McCoy,IA,1.21,Brick,218.00,4.84,6.66,1055.12,1451.88,25.07,2532.07
+14861,Michele Watson "the Loner",ID,0.00,Pinecones,60.00,1.50,2.66,90.00,159.60,0.00,249.60
+17854,Evelyn "Evil Joker" Taylor,MT,3.99,Cedar Planks,80.00,2.20,6.66,176.00,532.80,28.35,737.15
+19714,Black Beck,ID,0.00,Packed Dirt,108.00,1.10,2.42,118.80,261.36,0.00,380.16
+21651,Friendly Howell,TX,0.67,Dirt,98.00,0.55,1.00,53.90,98.00,1.52,153.42
+23099,Lucky Johnson,WY,0.34,Pinecones,256.00,1.50,2.93,384.00,750.08,0.00,1134.08
+23380,"Bane" Jennings,MT,5.84,Pebbles,190.00,0.88,5.32,167.20,1010.80,70.68,1248.68

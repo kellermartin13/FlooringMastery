@@ -1,0 +1,15 @@
+1078,Chillfire The Chiller,The Wizard's House,43.58,Dragons' Poison Glitterflesh Steel Of The North,235.00,2790.70,216.48,655814.50,50872.80,310942.41,1017629.71
+2580,Grave Mistseeker,The Citadel of Lord Greywulf,30.04,Toxin Iceplatinum Of The Undead,132.00,-283.29,-49.00,-37394.28,-6468.00,-13158.68,-57020.96
+2925,Harmony Angelchild,Hafeld Keep,29.00,Vampires' Hammer Emeraldmetal,329.00,344.95,25.84,113488.55,8501.36,35377.07,157366.98
+6922,"Maglioneth, Lord of the Sun",The Flying Witch,11.45,Unicorns' Evil Mithril,219.00,4802.49,312.00,1051745.31,68328.00,123208.06,1243281.37
+7704,"Gono, Goddess of the Earth",The Tower of Aces the Accursed,13.31,Heavenly Dreamsilver Of The Night,364.00,2009.68,112.00,731523.52,40768.00,100397.90,872689.42
+7754,Snarepiston The Mechanical,Barad Kesa,4.32,Heavenly Dreamsilver Of The Night,243.00,2009.68,112.00,488352.24,27216.00,20622.73,536190.97
+9569,Flora Amberslayer,Tower Farthing,27.12,Unicorns' Fatal Magma Metal Of The Ocean,249.00,1792.04,392.70,446217.96,97782.30,146880.07,690880.33
+10336,Wheelspawn,The Warrior and Flagon,48.40,Mithril Of Legend,38.00,2274.80,63.01,86442.40,2394.38,42641.65,131478.43
+11429,Sephiroth Drakecaster,The Bastion of the Lich Tyrant,43.00,Litches' Fatal Mithril Of The Past,186.00,1327.98,369.05,247004.28,68643.30,135728.46,451376.04
+12037,Snarepiston The Mechanical,The Wizard's House,43.58,Phantasmal Smokezephyr Mercury Of Men,185.00,-422.15,75.90,-78097.75,14041.50,-28184.75,-92241.00
+12796,Jericho Wolf,The Glano Forest,3.00,Phantasmal Lead,290.00,-552.97,245.47,-160361.30,71186.30,-2675.25,-91850.25
+15626,Spikespawn,The Fortress of Asmamur,-4.93,Glittering Orichalcum,271.00,-158.51,360.23,-42956.21,97622.33,-2733.31,51932.81
+16304,Evilbrood,Pewold Keep,22.57,Angels' Smoke Adamant Of The Mountains,268.00,3427.13,236.50,918470.84,63382.00,225826.15,1207678.99
+16360,Rouge Tombreaper,The Vaults of the Shadow Emperor,33.00,Timeiron,225.00,1596.00,251.16,359100.00,56511.00,137151.63,552762.63
+17628,Chainnail,The Citadel of Alammius,3.85,Glowpearl Adamant Of Spirits,177.00,398.09,374.00,70461.93,66198.00,5466.40,142126.33

@@ -1,0 +1,16 @@
+1653,Storm Seraphheart,The Lazy Sage,15.00,Incubi's Glittering Tin Of The Future,221.00,2287.78,72.60,505599.38,16044.60,78246.60,599890.58
+2187,Boltcrank The Trapper,Hartshill Ward,41.98,Spirits' Living Wordhammer Tin Of The Trees,292.00,4343.00,26.40,1268156.00,7708.80,535863.22,1811728.02
+5345,Snarepiston The Mechanical,The Warrior and Flagon,48.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,333.00,4123.68,122.49,1373185.44,40789.17,678707.81,2092682.42
+5353,Metalghoul,The Tower of Sheshbazzu,3.30,Ghostly Soul Adamant,221.00,3222.96,229.53,712274.16,50726.13,22890.01,785890.30
+7019,Zeal Bladewitch,Bergfison's Deep,39.60,Ghostly Soul Adamant,290.00,3222.96,229.53,934658.40,66563.70,400488.84,1401710.94
+8433,Boltcrank The Trapper,Haukri's Hold,25.30,Djinni's Spectral Shadowlead Of Life,230.00,3705.90,296.02,852357.00,68084.60,230110.40,1150552.00
+8692,"Azah, Goddess of Fate",The Lazy Sage,19.97,Incubi's Iron Of The Dawn,278.00,1200.96,424.31,333866.88,117958.18,90365.01,542190.07
+10797,"Gono, Goddess of the Earth",The Demon and Toad,23.75,Litches' Fatal Mithril Of The Past,188.00,1327.98,369.05,249660.24,69381.40,76569.99,395611.63
+11996,Dawn Darkzealot,The Pirate's Pipe,17.60,Sprites' Transcendent Mud Lead Of The South,272.00,2081.80,321.86,566249.60,87545.92,117683.19,771478.71
+13740,Chainblade The Cadaverous,The Greedy Wench,32.70,Ghostly Soul Adamant,224.00,3222.96,229.53,721943.04,51414.72,255208.06,1028565.82
+18971,Slayer Claw,The Citadel of Tattena the Sinister,13.34,Mana-touched Greenglitter Gold Of Giants,301.00,1291.38,514.25,388705.38,154789.25,70654.30,614148.93
+19804,Flora Amberslayer,Weke Tower,-0.07,Emerald Orichalcum,151.00,-405.76,128.90,-61269.76,19463.90,0.00,-41805.86
+20030,Beamsprocket The Grasping,Weke Tower,-0.07,Incubi's Iron Of The Dawn,227.00,1200.96,424.31,272617.92,96318.37,0.00,368936.29
+20153,Springsprocket,The Fen of the Necromancer,72.63,Foulopal Copper Of The Skies,65.00,1787.91,403.00,116214.15,26195.00,103958.68,246367.83
+20252,"Alik, Goddess of Trickery",The Desert of Flames,57.10,Foulopal Copper Of The Skies,289.00,1787.91,403.00,516705.99,116467.00,360908.60,994081.59
+22183,Sunrise Godwarlock,Tradun Castle,41.43,Otherworldly Truesoul Orichalcum Of The East,257.00,1061.78,392.65,272877.46,100911.05,153253.29,527041.80

@@ -1,0 +1,23 @@
+324,Ida Russell "the Rustler",OK,2.00,Dirt,277.00,0.50,1.00,138.50,277.00,8.31,423.81
+592,Wilma "Tornado" Brooks,MT,3.00,Cedar Planks,211.00,2.00,5.00,422.00,1055.00,44.31,1521.31
+791,Melissa "Lonesome Stalker" Riley,MO,2.20,Brick,330.00,4.00,5.00,1320.00,1650.00,59.40,3029.40
+2230,Surgeon Grant,IA,1.00,Reeds,144.00,0.75,2.00,108.00,288.00,3.96,399.96
+3288,Theresa "Scalphunter" Romero,WY,0.28,Pebbles,166.00,0.80,4.40,132.80,730.40,0.00,863.20
+4272,Julia "Bandit" Chandler,OK,2.00,Dirt,169.00,0.50,1.00,84.50,169.00,5.07,258.57
+4433,Minnie Lawson "the Apostle",MS,3.00,Reeds,195.00,0.75,2.20,146.25,429.00,17.26,592.51
+6761,Minnie Lawson "the Apostle",ND,1.25,Pebbles,280.00,0.80,4.84,224.00,1355.20,15.79,1594.99
+8165,Heather "Friendly Gambler" Barrett,MS,3.00,Beechwood,215.00,3.00,5.50,645.00,1182.50,54.82,1882.32
+8945,Theresa "Kid" Robinson,WY,0.31,Packed Dirt,344.00,1.00,1.50,344.00,516.00,0.00,860.00
+8953,Tina "Lady" Anderson,MS,3.00,Brick,153.00,4.84,6.66,740.52,1018.98,52.78,1812.28
+9329,Minnie Lawson "the Apostle",UT,0.00,Beechwood,378.00,3.00,5.50,1134.00,2079.00,0.00,3213.00
+9773,Heather "Friendly Gambler" Barrett,IA,1.21,Beechwood,194.00,3.00,5.50,582.00,1067.00,16.49,1665.49
+11493,Tina "Lady" Anderson,CA,0.61,Pinecones,170.00,1.50,2.66,255.00,452.20,7.07,714.27
+15315,Helen Webb "the Dancer",ID,0.00,Beechwood,200.00,3.63,5.50,726.00,1100.00,0.00,1826.00
+17158,Betty "Happy Thinker" Watson,MT,3.99,Pinecones,281.00,1.50,2.66,421.50,747.46,46.76,1215.72
+17457,Victoria "the Dancer",WY,0.31,Brick,153.00,5.32,6.66,813.96,1018.98,0.00,1832.94
+18507,Melissa "Lonesome Stalker" Riley,OK,2.42,Reeds,196.00,0.83,2.20,162.68,431.20,11.88,605.76
+19484,Vanessa "Scalper" Rhodes,IA,1.33,Pebbles,220.00,0.88,4.84,193.60,1064.80,12.58,1270.98
+21251,Minnie Lawson "the Apostle",NV,0.31,Leather,192.00,11.00,19.97,2112.00,3834.24,0.00,5946.24
+21553,Vengeful Montgomery,WY,0.31,Solid Oak,321.00,5.50,6.66,1765.50,2137.86,0.00,3903.36
+22168,Wilma "Tornado" Brooks,AL,1.00,Cedar Planks,89.00,2.20,6.66,195.80,592.74,7.89,796.43
+23528,Betty "Happy Thinker" Watson,OK,2.93,Reeds,354.00,0.91,2.42,322.14,856.68,35.36,1214.18

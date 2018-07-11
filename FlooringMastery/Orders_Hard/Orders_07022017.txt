@@ -1,0 +1,19 @@
+157,"Prusu, God of Love",The Citadel of Cheno,5.00,Green Dustlightning Mercury,284.00,3517.00,32.00,998828.00,9088.00,50395.80,1058311.80
+1581,"Prusu, God of Love",The Tower of Aces the Accursed,12.10,Incubi's Glittering Tin Of The Future,158.00,2287.78,72.60,361469.24,11470.80,44752.80,417692.84
+3759,"Alas, Lord of Plague",The Dungeon of Merciless Woe,38.62,Plague Tin,249.00,4333.65,342.10,1079078.85,85182.90,454062.08,1618323.83
+4323,Jericho Wolf,Peley Keep,19.78,Sirens' Rockgold,377.00,-352.01,165.25,-132707.77,62299.25,-14081.70,-84490.22
+6397,Burnbrood The Freezer,The Dread Hive of Illfang the Kobold Lord,1.33,Primal Adamant,208.00,4562.80,273.90,949062.40,56971.20,10060.34,1016093.94
+7520,Burnbrood The Freezer,The Lazy Sage,19.97,Toxic Mistlead Of The Past,217.00,1557.54,136.06,337986.18,29525.02,73502.24,441013.44
+9412,"Gadriel, God of Resurrection",The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,185.00,-368.87,128.90,-68240.95,23846.50,1331.83,-43062.62
+12944,Lightning Brand,Archtemple District,27.76,Mistgold Of Men,199.00,3372.28,53.24,671083.72,10594.76,190869.97,872548.45
+13694,Song Runetomb,The Warrior and Flagon,53.24,White Platinum,60.00,-63.64,159.50,-3818.40,9570.00,3048.35,8799.95
+14286,"Gono, Goddess of the Earth",The Secret Shrine of the Gargoyle Count,-2.00,Primordial False Gold,35.00,5395.80,226.00,188853.00,7910.00,-3935.26,192827.74
+16154,Lightning Brand,Barad Kesa,4.75,Lycanthropes' Gold,182.00,4846.18,66.14,882004.76,12037.48,44702.11,938744.35
+16347,Lightning Brand,Barad Kesa,4.75,Incubi's Mirrorfog Iron Of The Ocean,239.00,5806.50,-26.08,1387753.50,-6233.12,69076.02,1450596.40
+17639,"Nelalwe, Lady of Fire",North Arcanist's Farthing,55.18,Negative Rockglitter Mercury Of Trolls,194.00,1632.29,619.42,316664.26,120167.48,240257.46,677089.20
+17854,Fate Seeker,Dysley Stronghold,45.98,Ensorceled Gold Of The Dawn,222.00,6913.92,443.21,1534890.24,98392.62,751310.12,2384592.98
+19741,Chillfire The Chiller,Hafeld Keep,46.71,Toxic Mistlead Of The Past,99.00,1557.54,164.64,154196.46,16299.36,80133.04,250628.86
+20424,"Gadriel, God of Resurrection",Grori's Deep,66.50,Phantasmal Tin Of The Swamps,256.00,5964.74,-7.99,1526973.44,-2045.44,1006452.48,2531380.48
+20776,Spikesnare,Archtemple District,27.76,Planar Obsidian Mercury Of Wizards,83.00,2831.40,155.73,235006.20,12925.59,69420.90,317352.69
+21153,"Sielach, God of Fate",Peley Keep,26.33,Angels' Smoke Adamant Of The Mountains,174.00,3427.13,260.15,596320.62,45266.10,166812.55,808399.27
+22300,Springcoil,Bifar's Deep,18.70,Mana-touched Greenglitter Gold Of Giants,214.00,1420.52,514.25,303991.28,110049.50,78667.75,492708.53

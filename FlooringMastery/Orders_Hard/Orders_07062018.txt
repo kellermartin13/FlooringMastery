@@ -1,0 +1,19 @@
+5168,"Uriel, God of Fate",Barad Cune,26.00,Sphinxes' Mistsoul Bronze Of The Past,229.00,1972.55,183.70,451713.95,42067.30,128383.12,622164.37
+5777,Valentine Lawslayer,The Cuitamba Jungle,28.00,Otherworldly Mirror Orichalcum,279.00,-247.00,478.50,-68913.00,133501.50,18084.78,82673.28
+6541,Lightning Brand,The Dread Hive of Illfang the Kobold Lord,1.33,Foul Ice Bronze Of Life,137.00,-92.21,129.80,-12632.77,17782.60,51.50,5201.33
+6571,Chainnail,The Dread Hive of Illfang the Kobold Lord,1.33,Foul Ice Bronze Of Life,193.00,-92.21,129.80,-17796.53,25051.40,72.55,7327.42
+6940,Jericho Wolf,The Forsaken Delve of Lord Greywulf,39.00,Otherworldly Mirror Orichalcum,157.00,-247.00,478.50,-38779.00,75124.50,14174.74,50520.24
+7252,Snowflame The Evil,Bergfison's Deep,39.60,Meteoric Dustzephyr Orichalcum,251.00,375.00,244.08,94125.00,61264.08,62155.63,217544.71
+8998,Springcoil,Moor Village,57.42,White Platinum,232.00,-52.59,145.00,-12200.88,33640.00,12220.30,33659.42
+11599,Spikesnare,The Citadel of Cheno,7.33,Thunderbirds' Transcendent Dreamiron,93.00,2275.25,237.70,211598.25,22106.10,16359.30,250063.65
+12415,Rouge Roguemist,The Citadel of Alammius,3.50,Spectres' Shadowy Terrorglow Adamant Of Life,147.00,5164.28,226.05,759149.16,33229.35,31695.14,824073.65
+12495,Blazefreeze The Chiller,The Dismal Marsh,6.05,Spectres' Shadowy Terrorglow Adamant Of Life,318.00,5164.28,226.05,1642241.04,71883.90,102847.50,1816972.44
+13527,Maverick Wind,Eved Castle,5.09,Toxic Mistlead Of The Past,223.00,1557.54,136.06,347331.42,30341.38,18883.64,396556.44
+14422,Gravebone The Unspeakable,Haukri's Hold,27.83,Swordbronze,143.00,1485.01,447.01,212356.43,63922.43,77358.08,353636.94
+15555,Rune Rougehate,Gifeld Castle,6.22,Poison Adamant,307.00,1151.38,64.44,353473.66,19783.08,22395.40,395652.14
+16518,Fate Seeker,Eved Castle,5.09,Ensorceled Sandmetal Of Spirits,79.00,2956.98,95.70,233601.42,7560.30,12058.09,253219.81
+17875,Deathbrood,North Arcanist's Farthing,55.18,Djinni's Spectral Shadowlead Of Life,261.00,4076.49,325.62,1063963.89,84986.82,631922.89,1780873.60
+18138,Seraph Jester,The Hunter and Rose,44.44,Negative Rockglitter Mercury Of Trolls,204.00,1632.29,619.42,332987.16,126361.68,202113.49,661462.33
+18582,Lightning Brand,The Bastion of Barbos,28.34,Nymphs' Luminous Rotmercury Of The Skies,342.00,292.60,207.90,100069.20,71101.80,47927.88,219098.88
+20532,Emberfire,The Black Barrow of Bery,-0.10,Golems' Stonesapphire Gold Of The Glacier,114.00,4444.06,116.57,506622.84,13288.98,0.00,519911.82
+21059,"Selik, God of Death",The Hunter and Rose,44.44,Fairies' Supreme Mistsmoke Lead Of The Future,165.00,3349.50,324.73,552667.50,53580.45,266749.10,872997.05

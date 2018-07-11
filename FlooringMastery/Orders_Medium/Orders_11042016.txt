@@ -1,0 +1,20 @@
+1027,Mattie Grant "the Gambler",KS,0.50,Brick,215.00,4.00,5.00,860.00,1075.00,0.00,1935.00
+2126,Vanessa "Scalper" Rhodes,AR,2.20,Pinecones,372.00,1.50,2.00,558.00,744.00,26.04,1328.04
+2661,Debra "Scorpion" Lane,NM,2.20,Brick,196.00,4.00,5.50,784.00,1078.00,37.24,1899.24
+4077,Jo "the Joker",AL,1.00,Solid Oak,140.00,5.50,5.00,770.00,700.00,14.70,1484.70
+4361,Renee "Hellish Empress" Banks,CA,0.55,Brick,124.00,4.40,5.50,545.60,682.00,12.28,1239.88
+5542,Mattie Grant "the Gambler",AR,2.20,Brick,84.00,4.84,6.66,406.56,559.44,19.32,985.32
+6771,Susan "Damnation" Fleming,ID,0.00,Dirt,57.00,0.50,1.00,28.50,57.00,0.00,85.50
+7091,Gladys "Locoweed" Keller,NV,0.28,Pinecones,318.00,1.50,2.66,477.00,845.88,0.00,1322.88
+9478,Florence "Leather Doc" Grant,AR,2.20,Dirt,199.00,0.50,1.00,99.50,199.00,5.97,304.47
+10092,Michele Watson "the Loner",AR,2.20,Packed Dirt,256.00,1.00,1.50,256.00,384.00,12.80,652.80
+10445,Mabel "Vixen Cursed" King,MO,2.20,Pinecones,178.00,1.50,2.66,267.00,473.48,14.81,755.29
+11270,Surgeon Grant,MS,3.00,Pebbles,252.00,0.88,4.84,221.76,1219.68,43.24,1484.68
+12244,Allison "Steel Gravedigger" Douglas,CA,0.61,Dirt,162.00,0.50,1.00,81.00,162.00,2.43,245.43
+13976,Cathy "Wildfire" Neal,TX,0.67,Solid Oak,208.00,5.50,5.50,1144.00,1144.00,22.88,2310.88
+16337,Maureen "Cursed" Andrews,CA,0.61,Pinecones,212.00,1.50,2.66,318.00,563.92,8.82,890.74
+17287,Cynthia "the Vixen",NM,2.66,Dirt,325.00,0.50,1.00,162.50,325.00,14.62,502.12
+19499,Jo "the Joker",TX,0.67,Cedar Planks,241.00,2.20,6.66,530.20,1605.06,21.35,2156.61
+21502,"Sunrise" Miles,UT,0.00,Beechwood,217.00,3.63,6.05,787.71,1312.85,0.00,2100.56
+22082,Vicki "Mesa" Rhodes,IA,1.33,Pinecones,237.00,1.50,2.66,355.50,630.42,9.86,995.78
+23091,Geraldine "Revenge" Warren,TX,0.67,Pinecones,45.00,1.50,2.93,67.50,131.85,1.99,201.34

@@ -1,0 +1,19 @@
+5043,Burnfreeze The Cold,The Chuallanto Jungle,37.00,Primordial Plague Mercury Of Legend,307.00,339.81,273.90,104321.67,84087.30,69711.32,258120.29
+5706,Shadow Tomblion,The Dungeon of Merciless Woe,38.62,Greenlead,147.00,793.10,148.47,116585.70,21825.09,53980.21,192391.00
+8682,Burnfreeze The Cold,Grori's Deep,49.95,Glowpearl Adamant Of Spirits,179.00,398.09,374.00,71258.11,66946.00,69102.06,207306.17
+8758,"Suriel, Lord of Animals",Moor Village,57.42,Rocklava Mithril Of Revenants,324.00,1818.30,14.33,589129.20,4642.92,338450.11,932222.23
+8966,"Prusu, God of Love",The Archer and Scroll,39.60,Angels' Smoke Adamant Of The Mountains,153.00,2832.34,215.00,433348.02,32895.00,186497.21,652740.23
+9335,"Gadriel, God of Resurrection",Fellfen Keep,46.23,Spectres' Shadowy Terrorglow Adamant Of Life,214.00,4694.80,205.50,1004687.20,43977.00,482385.53,1531049.73
+9673,Wheelspawn,The Forsaken Sepulcher of Sorrows,48.79,Emerald Orichalcum,158.00,-368.87,128.90,-58281.46,20366.20,-18578.48,-56493.74
+10270,"Maeglodor, God of Thieves",The Warrior and Flagon,48.40,Magicians' Legendary Poison Metal,223.00,2247.59,229.81,501212.57,51247.63,265180.90,817641.10
+10884,Seraph Jester,Shainan's Hold,23.96,Tin Of The Tundra,232.00,2839.87,174.91,658849.84,40579.12,167862.95,867291.91
+12140,Rune Rougehate,The Secret Catacombs of Ulfang the Black,42.90,Sprites' Transcendent Mud Lead Of The South,274.00,2081.80,321.86,570413.20,88189.64,283199.22,941802.06
+13145,Flameflare The Evil,Reheath Stronghold,8.00,Primordial Plague Mercury Of Legend,199.00,452.29,301.29,90005.71,59956.71,11996.99,161959.41
+14022,Spikerivet,Archfane District,32.87,Sphinxes' Mistsoul Bronze Of The Past,63.00,2169.81,202.07,136698.03,12730.41,49311.39,198739.83
+16150,Flameflare The Evil,The Lost Sanctum of Woe,3.30,Nymphs' Luminous Rotmercury Of The Skies,305.00,292.60,189.00,89243.00,57645.00,4406.64,151294.64
+16236,Zeal Bladewitch,Fellfen Keep,61.53,Meteoric Dustzephyr Orichalcum,202.00,375.00,268.49,75750.00,54234.98,80590.69,210575.67
+18409,Cult Godseeker,Grori's Deep,66.50,Ensorceled Gold Of The Dawn,270.00,6913.92,443.21,1866758.40,119666.70,1311040.57,3297465.67
+19988,"Alas, Lord of Plague",Tower Farthing,27.12,Pearl Mirrorice Steel Of Changelings,120.00,328.53,46.07,39423.60,5528.40,12137.04,57089.04
+20090,Magus Felldrake,The Fen of the Necromancer,72.63,Timeiron,369.00,1596.00,251.16,588924.00,92678.04,497569.49,1179171.53
+20787,Deathbrood,The Black Barrow of Bery,-0.10,Meteoric Dustzephyr Orichalcum,290.00,375.00,295.34,108750.00,85648.60,0.00,194398.60
+21580,Tiger Mistmidnight,Moor Village,76.43,God-touched Faterainbow Orichalcum Of Spectres,120.00,370.41,35.21,44449.20,4225.20,36992.54,85666.94

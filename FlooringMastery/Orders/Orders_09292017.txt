@@ -1,0 +1,18 @@
+937,Marie "Raven" Chapman,TX,0.50,Solid Oak,311.00,5.00,5.00,1555.00,1555.00,0.00,3110.00
+1292,Marie "Raven" Chapman,UT,0.00,Dirt,80.00,0.50,1.00,40.00,80.00,0.00,120.00
+5117,Maureen "Cursed" Andrews,UT,0.00,Packed Dirt,128.00,1.00,1.50,128.00,192.00,0.00,320.00
+7274,Lena Chapman "the Bully",MT,3.00,Brick,89.00,4.84,6.66,430.76,592.74,30.70,1054.20
+8462,Michele Watson "the Loner",IA,1.21,Brick,324.00,4.84,6.66,1568.16,2157.84,37.26,3763.26
+9718,Melissa "Lonesome Stalker" Riley,KS,0.50,Pinecones,346.00,1.50,2.66,519.00,920.36,0.00,1439.36
+11168,Evelyn "Evil Joker" Taylor,ND,1.25,Solid Oak,265.00,5.50,5.50,1457.50,1457.50,29.15,2944.15
+11613,Lorraine "Utah" Adams,NV,0.31,Beechwood,273.00,3.00,5.50,819.00,1501.50,0.00,2320.50
+15629,Mattie Grant "the Gambler",TX,0.67,Dirt,200.00,0.50,1.00,100.00,200.00,3.00,303.00
+16673,April "Thunderbird" Dunn,NV,0.31,Pinecones,223.00,1.50,2.66,334.50,593.18,0.00,927.68
+16767,Cathy "Wildfire" Neal,ND,1.38,Beechwood,321.00,3.63,5.50,1165.23,1765.50,29.31,2960.04
+17761,Michele Watson "the Loner",UT,0.00,Pinecones,120.00,1.50,2.66,180.00,319.20,0.00,499.20
+18328,Renee "Loco Tracker" Jordan,MO,2.20,Packed Dirt,147.00,1.10,2.20,161.70,323.40,9.70,494.80
+18438,Tammy Carlson "the Killer",CA,0.61,Reeds,97.00,0.83,2.20,80.51,213.40,2.94,296.85
+20652,Wilma "Tornado" Brooks,TX,0.67,Packed Dirt,171.00,1.10,2.42,188.10,413.82,6.02,607.94
+20653,Diana "Mistress" Morgan,OK,2.66,Brick,184.00,5.32,6.66,978.88,1225.44,66.13,2270.45
+20693,Mabel "Vixen Cursed" King,ID,0.00,Pinecones,183.00,1.50,2.66,274.50,486.78,0.00,761.28
+21411,Vicki "Mesa" Rhodes,IA,1.33,Packed Dirt,246.00,1.10,2.42,270.60,595.32,8.66,874.58

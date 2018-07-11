@@ -1,0 +1,13 @@
+2174,Beamtrap,Barad Cune,26.00,Djinni's Evil Sandobsidian Steel Of The Future,232.00,3826.00,157.07,887632.00,36440.24,240258.78,1164331.02
+3107,"Zepul, Lady of Vengeance",The Bastion of the Vampire Duke,19.28,Phantasmal Smokezephyr Mercury Of Men,199.00,-317.16,69.00,-63114.84,13731.00,-9382.93,-58766.77
+4923,Spikerivet,Tradun Castle,34.24,Ensorceled Sandmetal Of Spirits,183.00,2956.98,87.00,541127.34,15921.00,189396.44,746444.78
+8295,Rouge Roguemist,Haukri's Hold,25.30,Planar Obsidian Mercury Of Wizards,184.00,2574.00,141.57,473616.00,26048.88,124916.22,624581.10
+8300,Cult Godseeker,The Khazahol Crags,-1.97,Foul Ice Bronze Of Life,228.00,-92.21,129.80,-21023.88,29594.40,-171.41,8399.11
+8775,Lightning Brand,The Pirate's Pipe,17.60,Djinni's Evil Sandobsidian Steel Of The Future,202.00,3826.00,157.07,772852.00,31728.14,144824.43,949404.57
+9542,"Lenwenye, Goddess of Travel",The Pirate's Pipe,17.60,Shadow Steel,171.00,4677.78,465.30,799900.38,79566.30,158304.00,1037770.68
+10876,Song Runetomb,The Forsaken Sepulcher of Sorrows,48.79,Emerald Orichalcum,53.00,-368.87,128.90,-19550.11,6831.70,-6232.02,-18950.43
+14430,Jericho Wolf,Haukri's Hold,27.83,Phantasmal Tin Of The Swamps,190.00,4929.54,-7.26,936612.60,-1379.40,261865.30,1197098.50
+14970,Rouge Roguemist,The Forsaken Sepulcher of Sorrows,53.67,Lunar Bronze,156.00,753.86,337.70,117602.16,52681.20,91953.01,262236.37
+16180,Chainhorror,Haukri's Hold,27.83,Meteoric Dustzephyr Orichalcum,293.00,375.00,268.49,109875.00,78667.57,52791.92,241334.49
+16503,"Maglioneth, Lord of the Sun",Love Keep,9.32,Ghostly Magic Adamant,143.00,4836.38,230.90,691602.34,33018.70,65215.89,789836.93
+17727,"Azah, Goddess of Fate",Weke Tower,-0.07,Sphinxes' Mistsoul Bronze Of The Past,225.00,2169.81,222.28,488207.25,50013.00,0.00,538220.25

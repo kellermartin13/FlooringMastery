@@ -1,0 +1,13 @@
+972,Rouge Tombreaper,The Citadel of Alammius,3.18,Foulopal Copper Of The Skies,113.00,1221.16,403.00,137991.08,45539.00,5505.90,189035.98
+1743,Fate Seeker,The Pirate's Pipe,16.00,Incubi's Glittering Tin Of The Future,259.00,2287.78,72.60,592535.02,18803.40,97814.15,709152.57
+3046,Rouge Roguemist,The Tower of Sabiesu the Awesome,4.40,Icy Shock Silver,108.00,1225.60,370.00,132364.80,39960.00,6892.99,179217.79
+5638,Snarepiston The Mechanical,The Nulukkhath Spires,10.59,White Platinum,292.00,-52.59,145.00,-15356.28,42340.00,2968.21,29951.93
+8400,"Maglioneth, Lord of the Sun",North Grove Ward,6.60,Incubi's Iron Of The Dawn,90.00,1200.96,424.31,108086.40,38187.90,10239.20,156513.50
+11429,"Ariel, God of Luck",The Archer and Scroll,39.60,Litches' Fatal Mithril Of The Past,320.00,1327.98,369.05,424953.60,118096.00,217219.84,760269.44
+13609,"Addon, Lord of Death",Castle Village,41.26,Emerald Orichalcum,126.00,-405.76,128.90,-51125.76,16241.40,-14302.59,-49186.95
+16647,Grave Mistseeker,The Forsaken Sepulcher of Sorrows,53.67,Starlight Pearldream Bronze,100.00,322.10,147.40,32210.00,14740.00,25353.00,72303.00
+16956,"Penur, Lord of the Sea",The Flying Witch,12.60,Sprites' Transcendent Mud Lead Of The South,207.00,2081.80,321.86,430932.60,66625.02,64682.49,562240.11
+16991,Rose Anchor,Khali's Delve,52.71,Nymphs' Luminous Rotmercury Of The Skies,73.00,292.60,207.90,21359.80,15176.70,19364.34,55900.84
+17251,Snaretool The Constructed,The Grey Plains,19.97,Fog Lavaplatinum Of Life,55.00,1078.00,18.70,59290.00,1028.50,12063.70,72382.20
+21181,Beamsprocket The Grasping,Moor Village,76.43,Golems' Stonesapphire Gold Of The Glacier,227.00,4444.06,128.23,1008801.62,29108.21,788811.47,1826721.30
+21274,Wheelbolt The Machine,Eved Castle,5.09,God-touched Faterainbow Orichalcum Of Spectres,234.00,370.41,35.21,86675.94,8239.14,4745.75,99660.83

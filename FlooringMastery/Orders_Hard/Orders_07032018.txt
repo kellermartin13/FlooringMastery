@@ -1,0 +1,8 @@
+172,"Penur, Lord of the Sea",The Fortress of Asmamur,-4.48,Planar Obsidian Mercury Of Wizards,157.00,2574.00,117.00,404118.00,18369.00,-16899.48,405587.52
+1894,Springpulley The Binder,Tower Farthing,22.41,Violetdream Iron,181.00,1224.69,349.36,221668.89,63234.16,62678.67,347581.72
+2562,Lord Mystery,The Grey Plains,18.15,Ghostly Soul Adamant,166.00,2929.96,189.69,486373.36,31488.54,93215.14,611077.04
+8512,"Sielach, God of Fate",The Barrow of Terrible Horror,-1.21,Ensorceled Gold Of The Dawn,322.00,5713.98,402.92,1839901.56,129740.24,-19696.42,1949945.38
+8976,Cinderember,The Dancing Minstrel,21.20,Negative Rockglitter Mercury Of Trolls,195.00,1483.90,465.38,289360.50,90749.10,79823.02,459932.62
+9567,Burnbrood The Freezer,Tower Farthing,27.12,Unicorns' Fatal Magma Metal Of The Ocean,347.00,1792.04,392.70,621837.88,136266.90,204688.29,962793.07
+12926,Evilcoil The Machine,Lordsgate Farthing,45.25,Imperial Fate Steel,200.00,2993.93,-44.92,598786.00,-8984.00,265410.90,855212.90
+15695,Nailpiston The Grasping,Cawold Castle,24.09,Plague Tin,143.00,4767.02,342.10,681683.86,48920.30,175345.00,905949.16

@@ -1,0 +1,15 @@
+1222,Amanda Hart "the Loner",CA,0.50,Brick,167.00,4.00,5.00,668.00,835.00,0.00,1503.00
+1355,April "Thunderbird" Dunn,CA,0.50,Pebbles,137.00,0.80,4.40,109.60,602.80,0.00,712.40
+1385,Debra "Scorpion" Lane,OK,2.00,Dirt,269.00,0.50,1.00,134.50,269.00,8.07,411.57
+2012,Renee "Hellish Empress" Banks,IA,1.00,Pebbles,151.00,0.80,4.40,120.80,664.40,7.85,793.05
+2407,Mabel "Vixen Cursed" King,NM,2.20,Pebbles,33.00,0.80,4.40,26.40,145.20,3.43,175.03
+10271,Susan "Damnation" Fleming,AL,1.00,Dirt,183.00,0.50,1.00,91.50,183.00,2.74,277.24
+12765,Heather "Tornado" Newman,KS,0.55,Pebbles,103.00,0.88,4.84,90.64,498.52,5.89,595.05
+13146,Vengeful Montgomery,UT,0.00,Brick,184.00,4.84,6.66,890.56,1225.44,0.00,2116.00
+17365,Lorraine "Utah" Adams,UT,0.00,Packed Dirt,313.00,1.10,2.20,344.30,688.60,0.00,1032.90
+18245,Betty "Happy Thinker" Watson,IA,1.33,Leather,257.00,11.00,19.97,2827.00,5132.29,79.59,8038.88
+20234,Heather "Friendly Gambler" Barrett,MT,4.39,Cedar Planks,208.00,2.20,6.66,457.60,1385.28,73.72,1916.60
+21479,Vengeful Montgomery,MO,2.20,Cedar Planks,316.00,2.20,6.66,695.20,2104.56,56.00,2855.76
+21597,Marie "Raven" Chapman,AL,1.00,Beechwood,36.00,3.63,6.05,130.68,217.80,3.48,351.96
+21715,Deborah "the Lady",KS,0.55,Dirt,180.00,0.55,1.00,99.00,180.00,2.79,281.79
+22174,Theresa "Kid" Robinson,ID,0.00,Reeds,78.00,0.83,2.20,64.74,171.60,0.00,236.34

@@ -1,0 +1,16 @@
+1649,Cathy "Loner Demon" Murray,WY,0.25,Brick,188.00,4.00,5.00,752.00,940.00,0.00,1692.00
+3392,Mattie Grant "the Gambler",ID,0.00,Brick,304.00,4.00,5.50,1216.00,1672.00,0.00,2888.00
+8162,Mabel "Vixen Cursed" King,MT,3.30,Leather,124.00,10.00,18.15,1240.00,2250.60,104.72,3595.32
+8724,Heather "Tornado" Newman,IA,1.21,Dirt,135.00,0.50,1.00,67.50,135.00,2.02,204.52
+9247,"Sunrise" Miles,IA,1.21,Dirt,109.00,0.50,1.00,54.50,109.00,1.64,165.14
+10783,"Bane" Jennings,NM,2.20,Solid Oak,321.00,5.50,5.50,1765.50,1765.50,70.62,3601.62
+11349,Beth "Fortunate Shooter" Powell,TX,0.67,Brick,139.00,4.84,6.66,672.76,925.74,15.98,1614.48
+11825,Deborah "the Lady",OK,2.42,Beechwood,358.00,3.30,5.50,1181.40,1969.00,63.01,3213.41
+11951,Elizabeth "the Bully",IA,1.21,Dirt,325.00,0.50,1.00,162.50,325.00,4.88,492.38
+12695,Florence "Leather Doc" Grant,MS,3.00,Beechwood,151.00,3.30,5.50,498.30,830.50,39.86,1368.66
+13129,Theresa "Kid" Robinson,OK,2.42,Pinecones,195.00,1.50,2.66,292.50,518.70,16.22,827.42
+14617,Vicki "Mesa" Rhodes,KS,0.55,Reeds,224.00,0.75,2.20,168.00,492.80,6.61,667.41
+17040,Friendly Howell,TX,0.67,Packed Dirt,197.00,1.10,2.20,216.70,433.40,6.50,656.60
+19409,Heather "Tornado" Newman,KS,0.55,Brick,192.00,5.32,6.66,1021.44,1278.72,23.00,2323.16
+20884,Vengeful Robertson,OK,2.66,Solid Oak,253.00,5.50,6.66,1391.50,1684.98,92.29,3168.77
+21062,Gladys "Locoweed" Keller,AR,2.20,Pebbles,170.00,0.88,4.84,149.60,822.80,19.45,991.85

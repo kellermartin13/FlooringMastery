@@ -1,0 +1,16 @@
+619,Snowflame The Evil,Arcanist's Farthing,3.00,Falserainbow Lead,115.00,3215.00,233.00,369725.00,26795.00,11895.60,408415.60
+1859,Boltcrank The Trapper,The Forsaken Tomb of Devastation,0.00,Poison Adamant,263.00,298.00,406.38,78374.00,106877.94,0.00,185251.94
+3210,"Iran, Lord of Nightmares",The Grey Plains,19.97,Rainbowglitter Tin,197.00,4923.46,176.36,969921.62,34742.92,200932.91,1205597.45
+4415,Sunrise Godwarlock,Minas Gilloy,39.26,Sirens' Rockgold,309.00,-352.01,165.25,-108771.09,51062.25,-22506.45,-80215.29
+9268,Fate Seeker,The Nulukkhath Spires,10.59,Djinni's Evil Sandobsidian Steel Of The Future,156.00,3826.00,157.07,596856.00,24502.92,68349.48,689708.40
+9754,Gale Jackalguard,The Forsaken Sepulcher of Sorrows,48.79,Unicorns' Fatal Magma Metal Of The Ocean,178.00,1792.04,392.70,318983.12,69900.60,190553.02,579436.74
+10426,"Selik, God of Death",The Greedy Wench,32.70,Sirens' Rockgold,209.00,-352.01,199.96,-73570.09,41791.64,-10486.89,-42265.34
+10705,"Suriel, Lord of Animals",Barad Cune,28.60,Shadow Steel,276.00,4677.78,465.30,1291067.28,128422.80,411652.12,1831142.20
+11975,Mecharig The Living Device,Ring District,35.00,Phantasmal Lead,241.00,-552.97,245.47,-133265.77,59158.27,-25937.62,-100045.12
+13842,Icechill The Frigid,Grove Farthing,19.80,Shadowhell Mithril,177.00,483.15,286.41,85517.55,50694.57,27242.42,163454.54
+14367,"Finarfin, God of Protection",Gili's Delve,-6.73,Ghostly Soul Adamant,228.00,3222.96,229.53,734834.88,52332.84,-55101.74,732065.98
+15873,Springsprocket,The Tower of Sabiesu the Awesome,5.32,Djinni's Spectral Shadowlead Of Life,128.00,4076.49,325.62,521790.72,41679.36,28173.50,591643.58
+17928,Freezebrood,The Nulukkhath Spires,11.65,Djinni's Spectral Shadowlead Of Life,161.00,4076.49,325.62,656314.89,52424.82,85048.77,793788.48
+18105,Chainnail,Boiaburh Keep,17.60,Trolls' Mist Poisonplatinum Of The Twilight,291.00,567.79,434.39,165226.89,126407.49,52494.19,344128.57
+19774,Gale Jackalguard,The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,255.00,5023.18,296.81,1280910.90,75686.55,244187.54,1600784.99
+23210,Seraphim Tsunami,The Khazahol Crags,-2.17,Incubi's Iron Of The Dawn,251.00,1200.96,424.31,301440.96,106501.81,-8158.86,399783.91

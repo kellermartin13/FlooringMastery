@@ -1,0 +1,13 @@
+1360,Gale Jackalguard,Lacot Stronghold,30.88,Unicorns' Fatal Magma Metal Of The Ocean,189.00,1792.04,357.00,338695.56,67473.00,125912.25,532080.81
+3147,Evilbrood,The Hunter and Rose,40.40,Violetdream Iron,199.00,1224.69,349.36,243713.31,69522.64,125294.38,438530.33
+3999,"Zepul, Lady of Vengeance",Ring District,35.00,Violetstone Tin Of Death,288.00,2245.23,156.10,646626.24,44956.80,242054.06,933637.10
+4690,Magus Felldrake,The Scoundrel and Flask,-4.58,Venom Timegold Of Dwarves,303.00,3036.00,269.00,919908.00,81507.00,-50070.75,951344.25
+4961,Shadow Tomblion,Archring Borough,17.93,Otherworldly Mirror Orichalcum,277.00,-247.00,478.50,-68419.00,132544.50,11542.59,75668.09
+7723,Evilcoil The Machine,Barad Kesa,4.32,Swordbronze,75.00,1350.01,447.01,101250.75,33525.75,5391.06,140167.56
+9460,Song Runetomb,Haukri's Hold,25.30,Emerald Orichalcum,233.00,-368.87,128.90,-85946.71,30033.70,-13978.25,-69891.26
+10286,Dagger Reaper,The Forsaken Sepulcher of Sorrows,48.79,Djinni's Spectral Shadowlead Of Life,121.00,3705.90,325.62,448413.90,39400.02,239028.82,726842.74
+12646,Snowflame The Evil,The Hunter and Rose,40.40,Imperial Fate Steel,42.00,2993.93,-44.92,125745.06,-1886.64,49543.37,173401.79
+16501,Dawn Darkzealot,The Drunken Thief,12.65,Ensorceled Gold Of The Dawn,374.00,6913.92,402.92,2585806.08,150692.08,355744.76,3092242.92
+19190,Emberfire,The Pilgrim's Cup,46.12,Starlight Pearldream Bronze,289.00,322.10,147.40,93086.90,42598.60,62415.33,198100.83
+22134,Magus Felldrake,Lamp Borough,4.95,Sphinxes' Unknown Poisongold Of The Future,287.00,4301.28,23.86,1234467.36,6847.82,62065.76,1303380.94
+22579,Springsprocket,The Cuitamba Jungle,33.88,Thunderbirds' Transcendent Dreamiron,183.00,2275.25,237.70,416370.75,43499.10,156355.75,616225.60

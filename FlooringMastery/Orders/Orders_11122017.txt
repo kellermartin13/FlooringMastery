@@ -1,0 +1,19 @@
+674,Elizabeth "the Bully",KS,0.50,Cedar Planks,164.00,2.00,5.00,328.00,820.00,0.00,1148.00
+3083,Michele Watson "the Loner",AL,1.00,Dirt,383.00,0.50,1.00,191.50,383.00,5.74,580.24
+3084,Vicki "Mesa" Rhodes,TX,0.50,Reeds,218.00,0.75,2.00,163.50,436.00,0.00,599.50
+4824,Maureen "Cursed" Andrews,MS,3.00,Reeds,227.00,0.75,2.20,170.25,499.40,20.09,689.74
+5143,Vicki "Mesa" Rhodes,MS,3.00,Beechwood,131.00,3.00,5.00,393.00,655.00,31.44,1079.44
+6054,Ida Russell "the Rustler",MS,3.00,Dirt,326.00,0.50,1.00,163.00,326.00,14.67,503.67
+7348,Minnie Lawson "the Apostle",UT,0.00,Pinecones,154.00,1.50,2.66,231.00,409.64,0.00,640.64
+8406,Black Beck,UT,0.00,Solid Oak,201.00,5.50,5.50,1105.50,1105.50,0.00,2211.00
+12424,Black Beck,MO,2.20,Reeds,153.00,0.75,2.20,114.75,336.60,9.03,460.38
+15220,Deborah "the Lady",OK,2.42,Pinecones,181.00,1.50,2.66,271.50,481.46,15.06,768.02
+16399,Tina "Lady" Anderson,ID,0.00,Pebbles,201.00,0.88,4.84,176.88,972.84,0.00,1149.72
+16460,Tammy Carlson "the Killer",WY,0.31,Reeds,199.00,0.83,2.20,165.17,437.80,0.00,602.97
+16488,Vicki "Mesa" Rhodes,NM,2.66,Packed Dirt,64.00,1.10,2.20,70.40,140.80,6.34,217.54
+16627,Vengeful Robertson,ND,1.38,Solid Oak,78.00,5.50,6.05,429.00,471.90,9.01,909.91
+16990,Jacqueline "Riding Doc" Washington,NM,2.66,Brick,130.00,5.32,6.66,691.60,865.80,46.72,1604.12
+17897,Friendly Howell,TX,0.67,Dirt,180.00,0.50,1.00,90.00,180.00,2.70,272.70
+19738,Vengeful Montgomery,NV,0.31,Pebbles,86.00,0.88,4.84,75.68,416.24,0.00,491.92
+21663,Joanne "Damned" Miles,NM,2.93,Leather,179.00,11.00,19.97,1969.00,3574.63,166.31,5709.94
+23078,"Bane" Jennings,MO,2.20,Beechwood,306.00,3.63,6.05,1110.78,1851.30,59.24,3021.32

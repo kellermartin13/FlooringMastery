@@ -1,0 +1,23 @@
+103,Jo "the Joker",MS,3.00,Cedar Planks,166.00,2.00,5.00,332.00,830.00,34.86,1196.86
+184,Theresa "Scalphunter" Romero,UT,0.00,Brick,50.00,4.00,5.00,200.00,250.00,0.00,450.00
+2045,Lena Chapman "the Bully",ID,0.00,Pinecones,122.00,1.50,2.00,183.00,244.00,0.00,427.00
+5809,Minnie Lawson "the Apostle",NV,0.25,Cedar Planks,118.00,2.00,5.50,236.00,649.00,0.00,885.00
+5999,Mattie Grant "the Gambler",IA,1.21,Reeds,262.00,0.75,2.20,196.50,576.40,7.73,780.63
+7704,"Scalphunter" Kennedy,CA,0.55,Pebbles,188.00,0.80,4.84,150.40,909.92,10.60,1070.92
+8239,"Bane" Jennings,CA,0.55,Solid Oak,204.00,5.50,5.50,1122.00,1122.00,22.44,2266.44
+11333,Deborah "the Lady",MO,2.20,Solid Oak,166.00,5.50,5.50,913.00,913.00,36.52,1862.52
+14188,Amanda Hart "the Loner",ND,1.38,Pebbles,174.00,0.88,4.84,153.12,842.16,9.95,1005.23
+15930,Jacqueline "Riding Doc" Washington,MT,3.99,Reeds,218.00,0.83,2.20,180.94,479.60,26.42,686.96
+16024,Susan "Damnation" Fleming,MT,3.99,Packed Dirt,134.00,1.10,2.20,147.40,294.80,17.69,459.89
+16390,Mattie Grant "the Gambler",AL,1.00,Leather,201.00,11.00,19.97,2211.00,4013.97,62.25,6287.22
+17630,Helen Webb "the Dancer",KS,0.55,Cedar Planks,220.00,2.20,6.66,484.00,1465.20,19.49,1968.69
+18008,Lena Chapman "the Bully",AR,2.20,Solid Oak,167.00,5.50,6.66,918.50,1112.22,40.61,2071.33
+18563,Julia "Bandit" Chandler,TX,0.67,Solid Oak,138.00,5.50,6.66,759.00,919.08,16.78,1694.86
+18709,Betty "Happy Thinker" Watson,NM,2.93,Leather,227.00,11.00,19.97,2497.00,4533.19,210.91,7241.10
+19156,Allison "Steel Gravedigger" Douglas,TX,0.67,Pinecones,180.00,1.50,2.66,270.00,478.80,7.49,756.29
+19364,Lena Chapman "the Bully",KS,0.55,Brick,178.00,5.32,6.66,946.96,1185.48,21.32,2153.76
+21032,Susan "Damnation" Fleming,MT,4.83,Pebbles,99.00,0.88,4.84,87.12,479.16,28.31,594.59
+22030,Julia "Bandit" Chandler,OK,2.93,Leather,338.00,11.00,19.97,3718.00,6749.86,314.04,10781.90
+22196,Lena Chapman "the Bully",NV,0.31,Cedar Planks,257.00,2.20,6.66,565.40,1711.62,0.00,2277.02
+22703,Michele Watson "the Loner",CA,0.67,Packed Dirt,195.00,1.10,2.42,214.50,471.90,6.86,693.26
+22935,Kathy Murphy "the Thinker",WY,0.34,Dirt,182.00,0.55,1.00,100.10,182.00,0.00,282.10

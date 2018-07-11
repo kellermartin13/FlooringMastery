@@ -1,0 +1,19 @@
+1431,Rune Rougehate,Gifeld Castle,6.22,Shadowhell Mithril,207.00,363.00,236.70,75141.00,48996.90,7448.27,131586.17
+1806,Metalbrood,Hartshill Ward,41.98,Poison Adamant,159.00,298.00,406.38,47382.00,64614.42,47038.50,159034.92
+2579,Lord Mystery,Boiaburh Keep,16.00,Phantasmal Smokezephyr Mercury Of Men,182.00,-317.16,69.00,-57723.12,12558.00,-7226.42,-52391.54
+3055,Bonescare,The Bastion of the Vampire Duke,19.28,Fog Lavaplatinum Of Life,265.00,1078.00,17.00,285670.00,4505.00,55133.25,345308.25
+6043,Deathbrood,The Archer and Blade,9.00,Primordial Plague Mercury Of Legend,176.00,373.79,273.90,65787.04,48206.40,10259.41,124252.85
+6495,"Ariel, God of Luck",The Tower of Aces the Accursed,13.31,Foul Ice Bronze Of Life,251.00,-92.21,129.80,-23144.71,32579.80,1226.56,10661.65
+6498,Law Lionwatcher,South Brightcrown Borough,42.25,Zephyr Iron,254.00,2759.00,444.69,700786.00,112951.26,341769.65,1155506.91
+6589,Evilbrood,Archtemple District,27.76,Zephyr Iron,286.00,2759.00,444.69,789074.00,127181.34,256551.50,1172806.84
+8937,Sephiroth Drakecaster,Moor Village,57.42,Ghouls' Imperial Soulzephyr Mithril Of The Seas,364.00,4123.68,122.49,1501019.52,44586.36,880995.35,2426601.23
+9360,"Nelalwe, Lady of Fire",The Pirate's Pipe,17.60,Spectres' Shadowy Terrorglow Adamant Of Life,46.00,4694.80,205.50,215960.80,9453.00,40574.48,265988.28
+11694,"Alik, Goddess of Trickery",The Citadel of Cheno,7.33,Timeiron,105.00,1596.00,228.33,167580.00,23974.65,13408.83,204963.48
+11699,Lightning Brand,Archring Borough,17.93,Magic Adamant,276.00,1838.00,228.40,507288.00,63038.40,102658.75,672985.15
+13422,"Ingwenel, God of War",The Broken Shield,37.23,Toxic Mistlead Of The Past,301.00,1557.54,136.06,468819.54,40954.06,188616.23,698389.83
+16243,Lightning Brand,Barad Kesa,4.75,Sirens' Rockgold,252.00,-352.01,199.96,-88706.52,50389.92,-1915.83,-40232.43
+17580,Chainnail,The Grey Plains,19.97,Thunderbirds' Transcendent Dreamiron,214.00,2275.25,237.70,486903.50,50867.80,107554.26,645325.56
+18383,Springsprocket,Boiaburh Keep,17.60,Rocklava Mithril Of Revenants,318.00,2200.14,14.33,699644.52,4556.94,126756.26,830957.72
+19810,Flameshiver,Gifeld Castle,6.22,Emerald Orichalcum,173.00,-405.76,128.90,-70196.48,22299.70,-2873.81,-50770.59
+20240,Magus Felldrake,The Tomb of Hellish Ruin,16.94,Primordial False Gold,187.00,5395.80,248.60,1009014.60,46488.20,179435.48,1234938.28
+21054,Nailpiston The Grasping,South Brightcrown Borough,42.25,Devils' Falserot Silver,205.00,2220.79,182.71,455261.95,37455.55,206941.35,699658.85

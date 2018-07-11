@@ -1,0 +1,16 @@
+1564,Lucky Johnson,AL,1.00,Brick,242.00,4.00,5.00,968.00,1210.00,21.78,2199.78
+5489,Heather "Friendly Gambler" Barrett,ND,1.25,Cedar Planks,255.00,2.00,5.50,510.00,1402.50,19.12,1931.62
+5873,Renee "Hellish Empress" Banks,MT,3.00,Packed Dirt,191.00,1.00,1.50,191.00,286.50,14.32,491.82
+7287,Mabel "Vixen Cursed" King,WY,0.31,Beechwood,179.00,3.00,5.00,537.00,895.00,0.00,1432.00
+7939,"Doom" McCoy,MS,3.00,Brick,156.00,4.84,6.66,755.04,1038.96,53.82,1847.82
+8933,Stella "the Bully",AR,2.20,Brick,148.00,4.84,6.66,716.32,985.68,34.04,1736.04
+9729,Allison "Steel Gravedigger" Douglas,NM,2.20,Brick,124.00,4.84,6.66,600.16,825.84,28.52,1454.52
+11017,Helen Webb "the Dancer",MS,3.00,Brick,224.00,4.84,6.66,1084.16,1491.84,77.28,2653.28
+12895,Darlene "Loner" Ford,UT,0.00,Packed Dirt,300.00,1.00,1.82,300.00,546.00,0.00,846.00
+14022,Heather "Tornado" Newman,ID,0.00,Solid Oak,295.00,5.50,5.50,1622.50,1622.50,0.00,3245.00
+14654,Gloria "Devil" McCoy,CA,0.61,Dirt,160.00,0.50,1.00,80.00,160.00,2.40,242.40
+15330,Beth "Fortunate Shooter" Powell,WY,0.31,Dirt,199.00,0.50,1.00,99.50,199.00,0.00,298.50
+18469,Ida Russell "the Rustler",TX,0.67,Pinecones,231.00,1.50,2.66,346.50,614.46,9.61,970.57
+19273,Heather "Friendly Gambler" Barrett,WY,0.31,Leather,139.00,11.00,19.97,1529.00,2775.83,0.00,4304.83
+19695,Susan "Damnation" Fleming,WY,0.31,Brick,229.00,5.32,6.66,1218.28,1525.14,0.00,2743.42
+21191,Cynthia "the Vixen",ID,0.00,Leather,248.00,11.00,19.97,2728.00,4952.56,0.00,7680.56

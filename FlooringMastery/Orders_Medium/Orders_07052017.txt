@@ -1,0 +1,11 @@
+4571,Gloria "Devil" McCoy,MO,2.20,Packed Dirt,358.00,1.00,1.50,358.00,537.00,17.90,912.90
+6028,Jo "the Joker",IA,1.21,Cedar Planks,272.00,2.20,5.50,598.40,1496.00,20.94,2115.34
+6326,Michele Watson "the Loner",MT,3.00,Pinecones,107.00,1.50,2.66,160.50,284.62,13.35,458.47
+13099,Maureen "Cursed" Andrews,ND,1.38,Packed Dirt,167.00,1.00,1.82,167.00,303.94,4.71,475.65
+14739,Diana "Mistress" Morgan,MT,3.99,Cedar Planks,56.00,2.20,6.05,123.20,338.80,18.48,480.48
+14795,April "Thunderbird" Dunn,OK,2.42,Leather,303.00,11.00,18.15,3333.00,5499.45,176.65,9009.10
+15983,Dorothy "the Hunter",WY,0.31,Pinecones,221.00,1.50,2.66,331.50,587.86,0.00,919.36
+16466,Vengeful Montgomery,KS,0.55,Packed Dirt,268.00,1.10,2.20,294.80,589.60,8.84,893.24
+20595,Gloria "Devil" McCoy,AR,2.20,Pinecones,216.00,1.50,2.66,324.00,574.56,17.97,916.53
+21619,Heather "Friendly Gambler" Barrett,UT,0.00,Packed Dirt,265.00,1.10,2.42,291.50,641.30,0.00,932.80
+23441,Victoria "the Dancer",AL,1.00,Cedar Planks,131.00,2.20,6.66,288.20,872.46,11.61,1172.27

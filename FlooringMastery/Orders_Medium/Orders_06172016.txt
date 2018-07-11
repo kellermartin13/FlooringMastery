@@ -1,0 +1,18 @@
+2430,Vicki "Mesa" Rhodes,KS,0.50,Leather,145.00,10.00,16.50,1450.00,2392.50,0.00,3842.50
+3663,Marie "Raven" Chapman,ID,0.00,Cedar Planks,133.00,2.00,5.50,266.00,731.50,0.00,997.50
+5012,Black Beck,ND,1.25,Pinecones,39.00,1.50,2.42,58.50,94.38,1.53,154.41
+5466,Amanda Hart "the Loner",UT,0.00,Brick,102.00,4.84,6.05,493.68,617.10,0.00,1110.78
+6679,Maureen "Cursed" Andrews,AL,1.00,Beechwood,217.00,3.00,5.00,651.00,1085.00,17.36,1753.36
+7764,Darlene "Loner" Ford,OK,2.20,Leather,297.00,10.00,18.15,2970.00,5390.55,167.21,8527.76
+7982,April "Thunderbird" Dunn,OK,2.20,Reeds,199.00,0.75,2.20,149.25,437.80,11.74,598.79
+8688,Amanda Hart "the Loner",NV,0.31,Leather,144.00,10.00,18.15,1440.00,2613.60,0.00,4053.60
+10770,Heather "Friendly Gambler" Barrett,WY,0.31,Pebbles,151.00,0.88,4.84,132.88,730.84,0.00,863.72
+11528,Kathy Murphy "the Thinker",MO,2.20,Pebbles,262.00,0.88,4.84,230.56,1268.08,29.97,1528.61
+16874,Maureen "Cursed" Andrews,ID,0.00,Pebbles,209.00,0.88,4.84,183.92,1011.56,0.00,1195.48
+18941,April "Thunderbird" Dunn,NV,0.31,Dirt,226.00,0.50,1.00,113.00,226.00,0.00,339.00
+19149,Elizabeth "the Bully",AR,2.20,Reeds,338.00,0.83,2.20,280.54,743.60,20.48,1044.62
+19343,Mabel "Vixen Cursed" King,MS,3.00,Beechwood,310.00,3.63,5.50,1125.30,1705.00,84.91,2915.21
+20723,Melissa "Lonesome Stalker" Riley,AR,2.20,Leather,39.00,11.00,19.97,429.00,778.83,24.16,1231.99
+21289,Michele Watson "the Loner",MS,3.00,Beechwood,324.00,3.63,6.05,1176.12,1960.20,94.09,3230.41
+22443,Susan "Damnation" Fleming,TX,0.67,Leather,93.00,11.00,19.97,1023.00,1857.21,28.80,2909.01
+22678,Debra "Scorpion" Lane,NV,0.31,Beechwood,151.00,3.63,6.05,548.13,913.55,0.00,1461.68

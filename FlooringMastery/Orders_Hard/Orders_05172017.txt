@@ -1,0 +1,27 @@
+34,Tarot Dawn,The Grey Plains,18.15,Fairies' Supreme Mistsmoke Lead Of The Future,147.00,3045.00,324.73,447615.00,47735.31,89163.06,584513.37
+116,Rouge Tombreaper,The Grey Plains,18.15,Rainbowglitter Tin,250.00,4475.87,176.36,1118967.50,44090.00,209350.35,1372407.85
+2252,"Ingwenel, God of War",The Tomb of Hellish Ruin,14.00,Spirits' Living Wordhammer Tin Of The Trees,306.00,4343.00,26.40,1328958.00,8078.40,187185.10,1524221.50
+3649,Jericho Wolf,The Bastion of the Lich Tyrant,43.00,Litches' Fatal Mithril Of The Past,242.00,1207.25,335.50,292154.50,81191.00,160538.56,533884.06
+5317,Bronzespike,The Tower of Aramum,39.00,Ensorceled Sandmetal Of Spirits,97.00,2956.98,87.00,286827.06,8439.00,115153.76,410419.82
+6528,"Zepul, Lady of Vengeance",Grove Farthing,18.00,Unholy Poison Copper Of The Mountains,220.00,580.91,-9.24,127800.20,-2032.80,22638.13,148405.53
+8995,Shadow Gust,Minas Gilloy,39.26,Ghouls' Imperial Soulzephyr Mithril Of The Seas,313.00,4123.68,122.49,1290711.84,38339.37,518329.97,1847381.18
+9591,"Eumyan, Goddess of Law",The Pirate's Pipe,17.60,Spectres' Shadowy Terrorglow Adamant Of Life,112.00,4694.80,205.50,525817.60,23016.00,98790.05,647623.65
+10943,Valentine Lawslayer,The Forsaken Sepulcher of Sorrows,48.79,Devils' Falserot Silver,184.00,1668.51,182.71,307005.84,33618.64,166906.00,507530.48
+11498,Dawn Darkzealot,The Barrow of Malefic Ages,17.91,Icy Shock Silver,144.00,1482.98,407.00,213549.12,58608.00,48988.28,321145.40
+11572,Evilbrood,The Archer and Scroll,39.60,Magic Adamant,346.00,1838.00,228.40,635948.00,79026.40,285989.76,1000964.16
+12301,Snarepiston The Mechanical,The Glano Forest,3.00,Incubi's Iron Of The Dawn,152.00,1200.96,424.31,182545.92,64495.12,7411.23,254452.27
+13998,Wind Dire,The Dark Caverns of Woe,3.29,Shadowy Adamant,188.00,618.93,526.44,116358.84,98970.72,6459.89,221789.45
+14166,"Alik, Goddess of Trickery",The Desert of Flames,51.91,Zephyr Iron,205.00,3034.90,444.69,622154.50,91161.45,370924.29,1084240.24
+14205,Ironbrood,Gili's Delve,-6.73,Emerald Orichalcum,316.00,-405.76,128.90,-128220.16,40732.40,6124.14,-81363.62
+15086,Springcoil,The Shadow Downs,13.21,Ghostly Soul Adamant,192.00,3222.96,229.53,618808.32,44069.76,86174.15,749052.23
+15686,Slayer Claw,The Glano Forest,3.00,Shadowy Adamant,273.00,618.93,526.44,168967.89,143718.12,9380.58,322066.59
+15924,Fate Seeker,Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,262.00,370.41,32.01,97047.42,8386.62,27412.85,132846.89
+16918,"Baltha, Goddess of Knowledge",The Citadel of Lord Greywulf,33.04,Zephyr Iron,195.00,3034.90,444.69,591805.50,86714.55,223911.62,902431.67
+17110,"Iran, Lord of Nightmares",The Cracked Chalice,2.52,Djinni's Evil Sandobsidian Steel Of The Future,150.00,4208.60,172.78,631290.00,25917.00,19716.21,676923.21
+18519,Law Lionwatcher,Boiaburh Keep,17.60,Sphinxes' Opalpearl Platinum Of Legend,115.00,5805.82,390.81,667669.30,44943.15,128270.24,840882.69
+19059,Lance Knightseraph,Reyny Keep,11.00,Grayplatinum,37.00,3032.59,306.97,112205.83,11357.89,13592.01,137155.73
+19452,Spikebrood The Disinterred,North Grove Ward,7.99,Mithril Of The Tropics,279.00,4538.71,11.98,1266300.09,3342.42,101571.40,1371213.91
+19687,Bane Veil,Weke Tower,-0.07,God-touched Faterainbow Orichalcum Of Spectres,196.00,370.41,32.01,72600.36,6273.96,0.00,78874.32
+20188,Wheelspawn,Moor Village,76.43,Planar Rainfate Mithril,68.00,1185.84,320.52,80637.12,21795.36,77848.68,180281.16
+21819,Zeal Bladewitch,The Wizard's House,43.58,Ensorceled Sandmetal Of Spirits,289.00,2956.98,95.70,854567.22,27657.30,388178.79,1270403.31
+23091,Clash Lonedrake,The Lazy Sage,19.97,Timeiron,102.00,1596.00,276.28,162792.00,28180.56,38194.51,229167.07

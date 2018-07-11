@@ -1,0 +1,10 @@
+1,"Gadriel, God of Resurrection",Waleah Castle,0.77,Mistgold Of Men,133.00,2787.01,44.00,370672.33,5852.00,3765.24,380289.57
+954,Gravebone The Unspeakable,The Drunken Thief,9.50,Yellow Mistearth Copper,223.00,4159.62,-27.40,927595.26,-6110.20,92148.51,1013633.57
+1400,Jericho Wolf,Reheath Stronghold,8.00,Starlight Pearldream Bronze,207.00,242.00,134.00,50094.00,27738.00,6226.56,84058.56
+3086,"Lionare, God of the Lost",Hafeld Keep,29.00,Icy Shock Silver,69.00,1225.60,370.00,84566.40,25530.00,31927.96,142024.36
+6866,Rune Rougehate,The Lost Crypts of Sorrows,35.87,Djinni's Mind Fogiron,287.00,2301.02,74.02,660392.74,21243.74,245389.13,927025.61
+11619,"Alas, Lord of Plague",The Broken Arrow,30.07,God-touched Greengem Platinum,36.00,1281.72,-39.60,46141.92,-1425.60,13414.90,58131.22
+14538,Tarot Dawn,The Tower of Sabiesu the Awesome,5.32,Swordbronze,246.00,1485.01,447.01,365312.46,109964.46,23763.85,499040.77
+15223,Slayer Claw,Minas Gilloy,43.19,Grayplatinum,288.00,2506.27,306.97,721805.76,88407.36,348391.64,1158604.76
+19694,Wind Dire,Haukri's Hold,27.83,Emerald Orichalcum,13.00,-405.76,128.90,-5274.88,1675.70,-1007.77,-4606.95
+21443,Valentine Lawslayer,The Cuitamba Jungle,33.88,Golems' Stonesapphire Gold Of The Glacier,238.00,4444.06,128.23,1057686.28,30518.74,369989.71,1458194.73

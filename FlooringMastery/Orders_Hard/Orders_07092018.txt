@@ -1,0 +1,22 @@
+1153,Rouge Tombreaper,The Drunken Thief,9.50,Mithril Of Legend,85.00,2068.00,52.07,175780.00,4425.95,18020.60,198226.55
+2195,Fate Ivycaster,The Chuallanto Jungle,37.00,Poison Adamant,148.00,298.00,406.38,44104.00,60144.24,38571.85,142820.09
+2796,"Prusu, God of Love",The Cracked Chalice,2.29,Negative Mercury,181.00,4054.87,361.00,733931.47,65341.00,15985.45,815257.92
+3808,Cinderember,Grori's Deep,45.41,Phantasmal Tin Of The Swamps,92.00,4074.00,-6.60,374808.00,-607.20,168390.36,542591.16
+4172,"Zepul, Lady of Vengeance",Barad Cune,26.00,Ensorceled Sandmetal Of Spirits,125.00,2956.98,87.00,369622.50,10875.00,98929.35,479426.85
+4523,Boltcrank The Trapper,The Pilgrim's Cup,41.93,Planar Obsidian Mercury Of Wizards,294.00,2574.00,117.00,756756.00,34398.00,332284.68,1123438.68
+4902,Rune Rougehate,Grove Farthing,18.00,Sphinxes' Unknown Poisongold Of The Future,50.00,3554.77,23.86,177738.50,1193.00,32207.67,211139.17
+6213,Shiverflame The Freezer,The Cracked Chalice,2.29,God-touched Greengem Platinum,179.00,1281.72,-36.00,229427.88,-6444.00,4459.68,227443.56
+7521,Chillfire The Chiller,The Desert of Flames,47.19,Phantasmal Tin Of The Swamps,218.00,4074.00,-6.60,888132.00,-1438.80,416745.80,1303439.00
+7689,Tiger Mistmidnight,Minas Gilloy,39.26,Poison Adamant,146.00,1151.38,58.58,168101.48,8552.68,68895.12,245549.28
+10098,"Alik, Goddess of Trickery",The Chuallanto Jungle,37.00,Djinni's Spectral Shadowlead Of Life,288.00,3705.90,325.62,1067299.20,93778.56,429598.77,1590676.53
+12748,Sephiroth Drakecaster,South Brightcrown Borough,42.25,Imperial Fate Steel,214.00,2993.93,-44.92,640701.02,-9612.88,265057.02,896145.16
+14999,Claw Mist,The Dark Caverns of Woe,3.29,Primordial Mud Orichalcum,195.00,-387.90,85.11,-75640.50,16596.45,-1771.32,-60815.37
+16202,Spikerivet,The Bastion of Gothmog of Udun,54.84,Otherworldly Mirror Orichalcum,128.00,-298.87,526.35,-38255.36,67372.80,16014.59,45132.03
+17660,Sephiroth Drakecaster,North Arcanist's Farthing,55.18,Thunderbirds' Transcendent Dreamiron,210.00,2275.25,237.70,477802.50,49917.00,290245.72,817965.22
+18038,Storm Seraphheart,North Arcanist's Farthing,55.18,Negative Rockglitter Mercury Of Trolls,145.00,1632.29,619.42,236682.05,89815.90,179573.87,506071.82
+18544,Beamsprocket The Grasping,Archring Borough,21.69,Devils' Falserot Silver,170.00,2220.79,182.71,377534.30,31060.70,89890.90,498485.90
+19080,Claw Mist,The Drunken Thief,12.65,Incubi's Mirrorfog Iron Of The Ocean,275.00,5806.50,-26.08,1596787.50,-7172.00,206650.02,1796265.52
+20731,Fate Seeker,The Forsaken Tomb of Devastation,0.00,Sphinxes' Opalpearl Platinum Of Legend,239.00,5805.82,390.81,1387590.98,93403.59,0.00,1480994.57
+20950,Shadow Gust,The Black Barrow of Bery,-0.10,Sphinxes' Unknown Poisongold Of The Future,249.00,4301.28,23.86,1071018.72,5941.14,0.00,1076959.86
+21363,Tarot Dawn,Peley Keep,26.33,Planar Rainfate Mithril,169.00,1304.42,320.52,220446.98,54167.88,71399.86,346014.72
+22452,Lightning Brand,Khali's Delve,52.71,Mana-touched Greenglitter Gold Of Giants,257.00,1420.52,514.25,365073.64,132162.25,263535.02,760770.91

@@ -1,0 +1,14 @@
+1398,Marie "Raven" Chapman,AL,1.00,Leather,210.00,10.00,15.00,2100.00,3150.00,52.50,5302.50
+2522,Lena Chapman "the Bully",CA,0.50,Brick,78.00,4.00,5.50,312.00,429.00,0.00,741.00
+4748,Deborah "the Lady",MO,2.20,Cedar Planks,98.00,2.00,5.50,196.00,539.00,14.70,749.70
+4773,Lucky Johnson,MO,2.20,Dirt,219.00,0.50,1.00,109.50,219.00,6.57,335.07
+5848,Florence "Leather Doc" Grant,KS,0.50,Reeds,270.00,0.75,2.20,202.50,594.00,0.00,796.50
+7197,Lena Chapman "the Bully",AR,2.20,Leather,120.00,10.00,18.15,1200.00,2178.00,67.56,3445.56
+9848,Renee "Loco Tracker" Jordan,NM,2.20,Solid Oak,294.00,5.50,5.50,1617.00,1617.00,64.68,3298.68
+11035,Beth "Fortunate Shooter" Powell,AL,1.00,Solid Oak,253.00,5.50,5.50,1391.50,1391.50,27.83,2810.83
+11219,Michele Watson "the Loner",KS,0.55,Dirt,385.00,0.50,1.00,192.50,385.00,5.78,583.28
+13986,Jo "the Joker",WY,0.31,Packed Dirt,208.00,1.00,2.00,208.00,416.00,0.00,624.00
+17933,Vengeful Robertson,UT,0.00,Reeds,119.00,0.83,2.20,98.77,261.80,0.00,360.57
+20938,Cathy "Wildfire" Neal,OK,2.66,Brick,263.00,5.32,6.66,1399.16,1751.58,94.52,3245.26
+21003,"Sunrise" Miles,TX,0.67,Solid Oak,156.00,5.50,6.66,858.00,1038.96,18.97,1915.93
+22592,Mabel "Vixen Cursed" King,WY,0.34,Reeds,214.00,0.91,2.42,194.74,517.88,0.00,712.62

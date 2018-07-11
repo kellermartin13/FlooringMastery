@@ -1,0 +1,16 @@
+1969,"Bane" Jennings,MT,3.00,Leather,22.00,10.00,16.50,220.00,363.00,17.49,600.49
+3382,Renee "Loco Tracker" Jordan,NV,0.25,Leather,327.00,10.00,16.50,3270.00,5395.50,0.00,8665.50
+8458,Renee "Loco Tracker" Jordan,NV,0.31,Dirt,86.00,0.50,1.00,43.00,86.00,0.00,129.00
+9713,Heather "Tornado" Newman,NV,0.31,Dirt,154.00,0.50,1.00,77.00,154.00,0.00,231.00
+10394,Beth "Fortunate Shooter" Powell,NM,2.20,Leather,243.00,10.00,18.15,2430.00,4410.45,136.81,6977.26
+11460,Debra "Scorpion" Lane,MS,3.00,Leather,252.00,10.00,18.15,2520.00,4573.80,212.81,7306.61
+12238,Debra "Scorpion" Lane,NV,0.31,Beechwood,133.00,3.30,5.50,438.90,731.50,0.00,1170.40
+13451,Tammy Carlson "the Killer",IA,1.21,Leather,130.00,11.00,18.15,1430.00,2359.50,37.90,3827.40
+14710,Cynthia "the Vixen",UT,0.00,Cedar Planks,197.00,2.20,6.05,433.40,1191.85,0.00,1625.25
+16240,Amanda Hart "the Loner",MS,3.00,Pinecones,82.00,1.50,2.66,123.00,218.12,10.23,351.35
+16620,Vicki "Mesa" Rhodes,UT,0.00,Dirt,153.00,0.50,1.00,76.50,153.00,0.00,229.50
+18269,Gloria "Devil" McCoy,IA,1.33,Dirt,233.00,0.50,1.00,116.50,233.00,3.50,353.00
+18344,Mattie Grant "the Gambler",MT,3.99,Reeds,1.00,0.83,2.20,0.83,2.20,0.12,3.15
+18736,Vicki "Mesa" Rhodes,OK,2.42,Cedar Planks,144.00,2.20,6.66,316.80,959.04,25.52,1301.36
+19438,Cynthia "the Vixen",NV,0.31,Cedar Planks,361.00,2.20,6.66,794.20,2404.26,0.00,3198.46
+21397,Susan "Damnation" Fleming,MT,5.31,Pinecones,156.00,1.50,2.66,234.00,414.96,32.45,681.41

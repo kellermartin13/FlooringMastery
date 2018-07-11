@@ -1,0 +1,16 @@
+849,Evilfear The Horrorific,The Forsaken Tomb of Devastation,0.00,Sapphire Mindlead,139.00,1307.71,47.00,181771.69,6533.00,0.00,188304.69
+1514,Nettool The Grasping,The Lazy Sage,15.00,Grayplatinum,196.00,2071.30,279.06,405974.80,54695.76,69100.58,529771.14
+2466,Lance Knightseraph,The Grey Plains,18.15,Mana-touched Greenglitter Gold Of Giants,128.00,1173.98,425.00,150269.44,54400.00,36840.50,241509.94
+5247,Song Runetomb,Gawold Castle,5.00,Primordial Plague Mercury Of Legend,293.00,339.81,273.90,99564.33,80252.70,8990.85,188807.88
+7210,Law Lionwatcher,The Flying Witch,11.45,Poison Adamant,280.00,1151.38,58.58,322386.40,16402.40,37266.77,376055.57
+7678,Cult Godseeker,Barad Kesa,4.32,Djinni's Mind Fogiron,97.00,2301.02,74.02,223198.94,7179.94,9215.16,239594.04
+8407,"Maeglodor, God of Thieves",Mahyrst Keep,27.65,Negative Rockglitter Mercury Of Trolls,124.00,1483.90,423.07,184003.60,52460.68,66210.00,302674.28
+8741,Magus Felldrake,Moor Village,57.42,Foul Ice Bronze Of Life,218.00,-92.21,129.80,-20101.78,28296.40,4670.93,12865.55
+9469,Emberspawn,Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,149.00,4777.30,26.40,711817.70,3933.60,178937.82,894689.12
+9873,Bolttrap,The Dungeon of Dismal Terror,-3.50,Shadowy Adamant,189.00,618.93,478.58,116977.77,90451.62,-8297.18,199132.21
+10917,Tarot Dawn,Lacot Stronghold,37.37,Ghostly Soul Adamant,205.00,3222.96,229.53,660706.80,47053.65,261871.37,969631.82
+14569,Cinderember,The Tower of Aramum,42.90,Legendary Mithril Of The Moon,151.00,2707.10,125.84,408772.10,19001.84,183942.79,611716.73
+15841,Metalbrood,Barad Kesa,4.75,Unspeakable Rotsoul Mithril Of Souls,112.00,248.00,401.53,27776.00,44971.36,3637.37,76384.73
+18128,Bolttrap,Archfane District,36.16,Djinni's Spectral Shadowlead Of Life,200.00,4076.49,325.62,815298.00,65124.00,316951.92,1197373.92
+21664,Shadow Gust,The Fortress of Asmamur,-4.93,Golems' Stonesapphire Gold Of The Glacier,286.00,4444.06,128.23,1271001.16,36673.78,-65383.75,1242291.19
+21738,Gravebone,The Black Barrow of Bery,-0.10,Meteoric Mirrormuck Orichalcum Of The Forests,176.00,2374.02,185.77,417827.52,32695.52,0.00,450523.04

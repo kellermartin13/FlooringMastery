@@ -1,0 +1,15 @@
+2881,"Ahah, Goddess of Knowledge",Hafeld Keep,29.00,Phantasmal Tin Of The Swamps,288.00,4074.00,-6.60,1173312.00,-1900.80,339709.25,1511120.45
+4904,Evilember The Firey,Tradun Castle,34.24,Meteoric Mirrormuck Orichalcum Of The Forests,367.00,1962.00,185.77,720054.00,68177.59,267998.74,1056230.33
+6033,Claw Mist,The Archer and Blade,9.00,Warlocks' Timerot Mithril,272.00,2917.07,112.00,793443.04,30464.00,74151.63,898058.67
+6217,"Prusu, God of Love",The Dark Caverns of Woe,3.29,God-touched Greengem Platinum,116.00,1281.72,-36.00,148679.52,-4176.00,4335.11,148838.63
+9827,Song Runetomb,North Arcanist's Farthing,45.60,Unicorns' Fatal Magma Metal Of The Ocean,210.00,1792.04,392.70,376328.40,82467.00,211045.88,669841.28
+12963,Lance Knightseraph,The Fortress of Gama,10.16,Forgotten Mithril,277.00,1104.73,316.00,306010.21,87532.00,39354.22,432896.43
+15219,"Gono, Goddess of the Earth",The Pilgrim's Cup,46.12,Mithril Of The Tropics,332.00,4126.10,11.98,1369865.20,3977.36,631967.58,2005810.14
+15457,Blazeflare The Cremator,Lamp Borough,4.95,Unicorns' Fatal Magma Metal Of The Ocean,52.00,2168.36,431.97,112754.72,22462.44,6760.86,141978.02
+16948,Nailpiston The Grasping,Khali's Delve,52.71,Stone Soulsteel Of The Skies,123.00,1798.28,14.53,221188.44,1787.19,118177.08,341152.71
+17494,Dawn Darkzealot,Shainan's Hold,23.96,Shadowy Adamant,311.00,618.93,526.44,192487.23,163722.84,85490.42,441700.49
+17561,Lord Mystery,Reyny Keep,11.00,Meteoric Mirrormuck Orichalcum Of The Forests,203.00,2374.02,185.77,481926.06,37711.31,57160.11,576797.48
+19794,"Iran, Lord of Nightmares",Haukri's Hold,27.83,Mithril Of The Tropics,217.00,4538.71,11.98,984900.07,2599.66,276499.92,1263999.65
+21113,"Nelalwe, Lady of Fire",The Forsaken Hive of Galima the Mighty,29.89,Forgotten Mithril,110.00,1215.20,347.60,133672.00,38236.00,51572.40,223480.40
+21152,Jericho Wolf,The Cuitamba Jungle,33.88,Golems' Stonesapphire Gold Of The Glacier,247.00,4444.06,128.23,1097682.82,31672.81,383980.91,1513336.54
+21295,Shadow Gust,Pewold Keep,22.57,Angels' Smoke Adamant Of The Mountains,264.00,3427.13,260.15,904762.32,68679.60,223891.64,1197333.56

@@ -1,0 +1,20 @@
+2479,Friendly Howell,UT,0.00,Packed Dirt,105.00,1.00,1.50,105.00,157.50,0.00,262.50
+2596,Betty "Happy Thinker" Watson,AR,2.20,Pebbles,157.00,0.80,4.40,125.60,690.80,16.33,832.73
+2770,Betty "Happy Thinker" Watson,WY,0.28,Dirt,198.00,0.50,1.00,99.00,198.00,0.00,297.00
+5091,Stella "the Bully",NV,0.25,Packed Dirt,203.00,1.00,1.50,203.00,304.50,0.00,507.50
+5092,Amanda Hart "the Loner",MS,3.00,Pebbles,354.00,0.80,4.40,283.20,1557.60,55.22,1896.02
+5116,Joanne "Damned" Miles,MO,2.20,Brick,219.00,4.84,6.05,1059.96,1324.95,47.70,2432.61
+6417,Betty "Happy Thinker" Watson,KS,0.50,Cedar Planks,125.00,2.20,6.05,275.00,756.25,0.00,1031.25
+7108,Dorothy "the Hunter",ID,0.00,Cedar Planks,187.00,2.20,6.05,411.40,1131.35,0.00,1542.75
+7600,"Sunrise" Miles,NM,2.20,Reeds,336.00,0.75,2.20,252.00,739.20,19.82,1011.02
+8422,Cathy "Wildfire" Neal,MT,3.30,Brick,301.00,4.84,6.66,1456.84,2004.66,103.84,3565.34
+9774,Black Beck,CA,0.55,Packed Dirt,307.00,1.00,1.50,307.00,460.50,7.68,775.18
+11787,Mattie Grant "the Gambler",UT,0.00,Brick,67.00,4.84,6.66,324.28,446.22,0.00,770.50
+12712,Deborah "the Lady",TX,0.67,Leather,123.00,11.00,18.15,1353.00,2232.45,35.85,3621.30
+14497,Debra "Scorpion" Lane,UT,0.00,Brick,194.00,5.32,6.66,1032.08,1292.04,0.00,2324.12
+15845,Minnie Lawson "the Apostle",NV,0.31,Dirt,78.00,0.50,1.00,39.00,78.00,0.00,117.00
+16986,Ida Russell "the Rustler",TX,0.67,Cedar Planks,156.00,2.20,6.05,343.20,943.80,12.87,1299.87
+18807,Vengeful Robertson,MS,3.00,Reeds,82.00,0.83,2.20,68.06,180.40,7.45,255.91
+19199,Tina "Lady" Anderson,CA,0.67,Packed Dirt,226.00,1.10,2.20,248.60,497.20,7.46,753.26
+19643,Kathy Murphy "the Thinker",NM,2.93,Dirt,196.00,0.50,1.00,98.00,196.00,8.82,302.82
+21841,Maureen "Cursed" Andrews,ND,1.67,Pinecones,79.00,1.50,2.66,118.50,210.14,6.57,335.21

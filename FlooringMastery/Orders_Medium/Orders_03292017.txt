@@ -1,0 +1,19 @@
+114,April "Thunderbird" Dunn,WY,0.25,Packed Dirt,293.00,1.00,1.50,293.00,439.50,0.00,732.50
+167,Friendly Howell,OK,2.00,Pinecones,54.00,1.50,2.00,81.00,108.00,3.78,192.78
+2424,"Doom" McCoy,CA,0.50,Pinecones,216.00,1.50,2.20,324.00,475.20,0.00,799.20
+3312,"Bane" Jennings,MO,2.20,Packed Dirt,367.00,1.00,1.50,367.00,550.50,18.35,935.85
+3946,Theresa "Scalphunter" Romero,NV,0.25,Leather,145.00,10.00,16.50,1450.00,2392.50,0.00,3842.50
+4450,Heather "Friendly Gambler" Barrett,MT,3.00,Pinecones,142.00,1.50,2.42,213.00,343.64,16.70,573.34
+4661,Tammy Carlson "the Killer",ID,0.00,Dirt,180.00,0.50,1.00,90.00,180.00,0.00,270.00
+4800,Tina "Lady" Anderson,OK,2.00,Beechwood,293.00,3.00,5.00,879.00,1465.00,46.88,2390.88
+5523,"Bane" Jennings,IA,1.21,Cedar Planks,183.00,2.00,5.50,366.00,1006.50,13.72,1386.22
+6353,Victoria "the Dancer",IA,1.21,Brick,246.00,4.84,6.66,1190.64,1638.36,28.29,2857.29
+6769,Tina "Lady" Anderson,NV,0.28,Beechwood,254.00,3.00,5.00,762.00,1270.00,0.00,2032.00
+8262,Renee "Loco Tracker" Jordan,KS,0.50,Reeds,242.00,0.75,2.20,181.50,532.40,0.00,713.90
+11473,Amanda Hart "the Loner",NV,0.31,Packed Dirt,164.00,1.00,1.65,164.00,270.60,0.00,434.60
+11617,Darlene "Loner" Ford,CA,0.61,Cedar Planks,164.00,2.20,6.05,360.80,992.20,13.53,1366.53
+12375,Evelyn "Evil Joker" Taylor,CA,0.61,Pebbles,193.00,0.88,4.84,169.84,934.12,11.04,1115.00
+15089,Theresa "Scalphunter" Romero,MT,3.99,Solid Oak,223.00,5.50,5.50,1226.50,1226.50,98.12,2551.12
+21412,Florence "Leather Doc" Grant,AL,1.00,Brick,48.00,5.32,6.66,255.36,319.68,5.75,580.79
+22767,Mabel "Vixen Cursed" King,MO,2.20,Solid Oak,277.00,5.50,6.66,1523.50,1844.82,67.37,3435.69
+23163,Debra "Scorpion" Lane,NV,0.31,Beechwood,189.00,3.63,6.05,686.07,1143.45,0.00,1829.52

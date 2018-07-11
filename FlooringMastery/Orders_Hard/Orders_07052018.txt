@@ -1,0 +1,19 @@
+213,"Melcha, Goddess of Thieves",The Demon and Toad,23.75,Shadowhell Mithril,139.00,363.00,215.18,50457.00,29910.02,19288.08,99655.10
+384,"Byzou, God of Animals",The Tomb of Hellish Ruin,14.00,Litches' Fatal Mithril Of The Past,226.00,1207.25,305.00,272838.50,68930.00,47847.59,389616.09
+483,Gravebone,The Fortress of the Lich Queen,36.35,Nymphs' Luminous Rotmercury Of The Skies,255.00,266.00,189.00,67830.00,48195.00,41769.00,157794.00
+830,Evilember The Firey,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,129.00,4159.62,-27.40,536590.98,-3534.60,0.00,533056.38
+1015,Graveterror,The Citadel of Alammius,3.18,Primordial Mud Orichalcum,64.00,-387.90,77.37,-24825.60,4951.68,-596.22,-20470.14
+1253,Rouge Roguemist,The Broken Shield,37.23,Hidden Shadowice Lead,227.00,2729.00,-46.75,619483.00,-10612.25,225282.18,834152.93
+3989,Metalbrood,The Wizard's House,43.58,Spirits' Living Wordhammer Tin Of The Trees,148.00,4343.00,26.40,642764.00,3907.20,284535.33,931206.53
+5259,"Alik, Goddess of Trickery",The Warrior and Flagon,48.40,Sphinxes' Mistsoul Bronze Of The Past,328.00,1972.55,183.70,646996.40,60253.60,339480.00,1046730.00
+9171,Shadow Gust,Gawold Castle,5.50,White Platinum,95.00,-52.59,145.00,-4996.05,13775.00,526.74,9305.69
+10738,Metalghoul,The Citadel of Lord Greywulf,33.04,Shadow Steel,128.00,4677.78,465.30,598755.84,59558.40,217243.70,875557.94
+11586,Flora Amberslayer,The Barrow of Malefic Ages,17.91,Icy Shock Silver,123.00,1482.98,407.00,182406.54,50061.00,41844.16,274311.70
+13707,Springpulley The Binder,The Lost Crypts of Sorrows,35.87,Sphinxes' Mistsoul Bronze Of The Past,209.00,2169.81,202.07,453490.29,42232.63,178460.25,674183.17
+15458,Dawn Darkzealot,The Fortress of Asmamur,-4.93,Glittering Orichalcum,29.00,-158.51,360.23,-4596.79,10446.67,-292.49,5557.39
+16225,"Azah, Goddess of Fate",Gili's Delve,-6.73,Nymphs' Luminous Rotmercury Of The Skies,131.00,292.60,189.00,38330.60,24759.00,-4416.27,58673.33
+16610,Snarepiston The Mechanical,The Forsaken Tomb of Devastation,0.00,Fleshshock Mercury,325.00,4858.70,338.07,1579077.50,109872.75,0.00,1688950.25
+19696,Bronzespike,The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,51.00,5023.18,296.81,256182.18,15137.31,48837.51,320157.00
+20092,Rouge Tombreaper,The Warrior and Flagon,53.24,Incubi's Iron Of The Dawn,182.00,1200.96,424.31,218574.72,77224.42,156773.54,452572.68
+20926,Sephiroth Drakecaster,The Hunter and Rose,44.44,Negative Rockglitter Mercury Of Trolls,351.00,1795.52,681.36,630227.52,239157.36,382529.35,1251914.23
+22394,Storm Squallmourner,Gili's Delve,-6.73,Yellow Mistearth Copper,224.00,5536.45,-33.15,1240164.80,-7425.60,-86291.74,1146447.46

@@ -1,0 +1,20 @@
+5237,Nailpiston The Grasping,Gifeld Castle,6.22,Unicorns' Fatal Magma Metal Of The Ocean,38.00,1792.04,392.70,68097.52,14922.60,4981.21,88001.33
+5530,Zeal Bladewitch,The Vaults of the Shadow Emperor,30.00,Mithril Of The Tropics,144.00,3751.00,9.00,540144.00,1296.00,162432.00,703872.00
+5916,"Maglioneth, Lord of the Sun",The Broken Arrow,30.07,Fairies' Supreme Mistsmoke Lead Of The Future,97.00,3349.50,324.73,324901.50,31498.81,106920.09,463320.40
+6723,"Melcha, Goddess of Thieves",The Tower of Aces the Accursed,13.31,Foul Ice Bronze Of Life,153.00,-92.21,129.80,-14108.13,19859.40,747.67,6498.94
+9314,Nailpiston The Grasping,The Dancing Minstrel,21.20,Ghouls' Imperial Soulzephyr Mithril Of The Seas,218.00,4123.68,122.49,898962.24,26702.82,194389.66,1120054.72
+10005,"Penur, Lord of the Sea",The Warrior and Flagon,48.40,Djinni's Spectral Shadowlead Of Life,194.00,3705.90,325.62,718944.60,63170.28,375415.14,1157530.02
+12231,Rose Anchor,The Citadel of Alammius,3.50,Sirens' Rockgold,206.00,-352.01,199.96,-72514.06,41191.76,-1252.89,-32575.19
+12783,"Gadriel, God of Resurrection",The Hunter and Rose,40.40,Forgotten Mithril,146.00,1104.73,316.00,161290.58,46136.00,82970.63,290397.21
+13154,"Sielach, God of Fate",Eved Castle,5.09,Mithril Of Legend,302.00,2274.80,63.01,686989.60,19029.02,35300.93,741319.55
+13685,Springcoil,Arcanist's Farthing,3.00,Toxic Mistlead Of The Past,152.00,1557.54,136.06,236746.08,20681.12,7722.82,265150.02
+14485,"Baltha, Goddess of Knowledge",Grove Farthing,19.80,Phantasmal Tin Of The Swamps,251.00,4929.54,-7.26,1237314.54,-1822.26,247098.46,1482590.74
+14789,Cinderember,The Archer and Scroll,39.60,Unknown Fatelightning Steel Of The Glacier,236.00,2441.05,65.68,576087.80,15500.48,236635.31,828223.59
+14971,Freezebrood,The Shadow Downs,13.21,Violetdream Iron,247.00,1224.69,349.36,302498.43,86291.92,50542.75,439333.10
+15667,Storm Squallmourner,Lamp Borough,4.95,Shadowy Adamant,188.00,618.93,526.44,116358.84,98970.72,10766.48,226096.04
+16647,Lord Mystery,The Forsaken Sepulcher of Sorrows,53.67,Fleshshock Mercury,161.00,4858.70,338.07,782250.70,54429.27,451807.18,1288487.15
+17327,"Eumyan, Goddess of Law",North Arcanist's Farthing,55.18,Meteoric Mirrormuck Orichalcum Of The Forests,99.00,2374.02,185.77,235027.98,18391.23,139380.57,392799.78
+18101,Sunrise Godwarlock,Archfane District,36.16,Phantasmal Plague Adamant,234.00,-204.63,-7.18,-47883.42,-1680.12,-17842.87,-67406.41
+18262,Burnfreeze The Cold,Archfane District,36.16,Djinni's Spectral Shadowlead Of Life,278.00,4076.49,325.62,1133264.22,90522.36,440563.17,1664349.75
+18664,Song Runetomb,Archring Borough,21.69,Devils' Falserot Silver,231.00,2220.79,182.71,513002.49,42206.01,122145.87,677354.37
+18738,"Suriel, Lord of Animals",The Tower of Aces the Accursed,13.31,Primal Adamant,212.00,5520.99,331.42,1170449.88,70261.04,161292.42,1402003.34

@@ -1,0 +1,16 @@
+1757,"Penur, Lord of the Sea",The Dungeon of Merciless Woe,38.62,Shadowhell Mithril,118.00,363.00,236.70,42834.00,27930.60,27598.19,98362.79
+1822,Spikebrood The Disinterred,The Chuallanto Jungle,37.00,Stone Soulsteel Of The Skies,156.00,1634.80,12.01,255028.80,1873.56,95053.87,351956.23
+2480,Sunset Knightclaw,The Dismal Marsh,5.00,Phantasmal Smokezephyr Mercury Of Men,196.00,-317.16,69.00,-62163.36,13524.00,-2431.97,-51071.33
+3004,Burnbrood The Freezer,The Bastion of the Vampire Duke,19.28,Shadowhell Mithril,120.00,363.00,260.37,43560.00,31244.40,14212.84,89017.24
+4637,Seraphim Tsunami,The Khazahol Crags,-1.97,Thunderbirds' Transcendent Dreamiron,112.00,2275.25,237.70,254828.00,26622.40,-5629.01,275821.39
+4874,Lance Knightseraph,The Demon and Toad,23.75,Vampires' Hammer Emeraldmetal,193.00,379.45,25.84,73233.85,4987.12,18773.03,96994.00
+6354,Harmony Angelchild,Kada's Deep,33.00,Greenlead,189.00,793.10,148.47,149895.90,28060.83,58725.72,236682.45
+7728,Clash Lonedrake,Minas Gilloy,39.26,Mistgold Of Men,182.00,3065.71,48.40,557959.22,8808.80,221039.53,787807.55
+10296,Cult Godseeker,The Tomb of Hellish Ruin,16.94,Meteoric Dustzephyr Orichalcum,355.00,375.00,244.08,133125.00,86648.40,37361.48,257134.88
+11227,Graveterror,Eved Castle,5.09,Heavenly Dreamsilver Of The Night,364.00,2009.68,112.00,731523.52,40768.00,38614.58,810906.10
+11263,"Finarfin, God of Protection",The Dungeon of Dismal Terror,-3.50,Green Dustlightning Mercury,258.00,3517.00,35.20,907386.00,9081.60,-36658.70,879808.90
+17776,Emberspawn,Shainan's Hold,23.96,Negative Rockglitter Mercury Of Trolls,74.00,1632.29,619.42,120789.46,45837.08,39990.37,206616.91
+18137,"Penur, Lord of the Sea",The Fortress of the Lich Queen,36.35,Litches' Fatal Mithril Of The Past,225.00,1460.78,405.96,328675.50,91341.00,151205.94,571222.44
+19378,Flameshiver,The Temple of Merciless Necromancy,50.94,Toxic Mistlead Of The Past,245.00,1557.54,164.64,381597.30,40336.80,215186.39,637120.49
+19742,Gravebone,The Khazahol Crags,-2.17,Emerald Orichalcum,210.00,-405.76,128.90,-85209.60,27069.00,1162.81,-56977.79
+20005,Rune Rougehate,The Forsaken Sepulcher of Sorrows,53.67,Grayplatinum,198.00,3032.59,306.97,600452.82,60780.06,357065.76,1018298.64

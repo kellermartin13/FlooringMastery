@@ -1,0 +1,17 @@
+1900,Seraphim Tsunami,Tower Farthing,22.41,Poison Adamant,34.00,298.00,406.38,10132.00,13816.92,5268.76,29217.68
+6245,Terrorghoul The Unspeakable,The Secret Shrine of the Gargoyle Count,-2.00,Unicorns' Fatal Magma Metal Of The Ocean,259.00,1792.04,392.70,464138.36,101709.30,-11316.95,554530.71
+8159,"Ariel, God of Luck",The Lazy Sage,19.97,Planar Obsidian Mercury Of Wizards,109.00,2574.00,141.57,280566.00,15431.13,59199.43,355196.56
+8611,"Gono, Goddess of the Earth",The Wizard's House,43.58,Djinni's Spectral Shadowlead Of Life,139.00,3705.90,296.02,515120.10,41146.78,244757.43,801024.31
+9370,Bolttrap,The Tomb of Gothmog of Udun,-3.00,Spectres' Shadowy Terrorglow Adamant Of Life,122.00,4694.80,205.50,572765.60,25071.00,-17935.10,579901.50
+9429,Snowflame The Evil,Lamp Borough,4.95,Goddesses' Spectral Poison Steel,211.00,3773.99,269.83,796311.89,56934.13,42662.30,895908.32
+9613,Dagger Reaper,North Arcanist's Farthing,45.60,Ghostly Magic Adamant,325.00,4836.38,230.90,1571823.50,75042.50,757558.36,2404424.36
+10871,Snaretool The Constructed,The Hunter and Rose,40.40,Ghostly Soul Adamant,191.00,3222.96,229.53,615585.36,43840.23,263770.24,923195.83
+12034,Blazefreeze The Chiller,The Greedy Wench,,,151.00,1327.98,369.05,200524.98,55726.55,84563.00,340814.53
+14788,Cinderember,Grove Farthing,19.80,Witchs' Forbidden Rockrainbow Bronze,264.00,655.60,425.92,173078.40,112442.88,57104.26,342625.54
+15729,Emberspawn,Noble's Village,30.25,Unknown Fatelightning Steel Of The Glacier,308.00,2441.05,65.68,751843.40,20229.44,231621.85,1003694.69
+17069,"Avriel, God of Death",Castle Village,45.39,Shadowy Adamant,200.00,618.93,526.44,123786.00,105288.00,103083.30,332157.30
+17315,Chillfire The Chiller,Weke Tower,-0.07,Meteoric Mirrormuck Orichalcum Of The Forests,127.00,2374.02,185.77,301500.54,23592.79,0.00,325093.33
+17802,Claw Mist,North Arcanist's Farthing,55.18,Angels' Smoke Adamant Of The Mountains,274.00,3427.13,260.15,939033.62,71281.10,555673.10,1565987.82
+17804,Ironbrood,The Citadel of Alammius,3.85,Glowpearl Adamant Of Spirits,163.00,398.09,374.00,64888.67,60962.00,5034.03,130884.70
+17985,Spikecrank,The Fortress of the Lich Queen,36.35,Trolls' Mist Poisonplatinum Of The Twilight,316.00,567.79,434.39,179421.64,137267.24,114008.00,430696.88
+22508,Evilcoil The Machine,Tradun Castle,45.57,Fairies' Supreme Mistsmoke Lead Of The Future,95.00,3349.50,324.73,318202.50,30849.35,160563.85,509615.70

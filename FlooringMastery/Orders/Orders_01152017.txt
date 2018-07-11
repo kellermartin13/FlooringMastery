@@ -1,0 +1,18 @@
+246,Susan "Damnation" Fleming,WY,0.25,Solid Oak,155.00,5.00,5.00,775.00,775.00,0.00,1550.00
+2316,Elizabeth "the Bully",ND,1.25,Reeds,171.00,0.75,2.00,128.25,342.00,4.70,474.95
+4975,Kathy Murphy "the Thinker",CA,0.55,Solid Oak,107.00,5.50,5.50,588.50,588.50,11.77,1188.77
+5181,Jo "the Joker",IA,1.21,Solid Oak,97.00,5.50,5.50,533.50,533.50,10.67,1077.67
+6496,"Scalphunter" Kennedy,IA,1.21,Solid Oak,138.00,5.50,5.50,759.00,759.00,15.18,1533.18
+7076,Jacqueline "Riding Doc" Washington,AR,2.20,Brick,296.00,4.84,6.66,1432.64,1971.36,68.08,3472.08
+8340,Darlene "Loner" Ford,UT,0.00,Cedar Planks,232.00,2.20,6.05,510.40,1403.60,0.00,1914.00
+10094,Beth "Fortunate Shooter" Powell,KS,0.55,Dirt,217.00,0.50,1.00,108.50,217.00,3.26,328.76
+11173,Allison "Steel Gravedigger" Douglas,MS,3.00,Solid Oak,298.00,5.50,5.50,1639.00,1639.00,98.34,3376.34
+12828,Renee "Loco Tracker" Jordan,ID,0.00,Reeds,375.00,0.75,2.20,281.25,825.00,0.00,1106.25
+13424,Cathy "Loner Demon" Murray,AR,2.20,Brick,186.00,5.32,6.66,989.52,1238.76,44.57,2272.85
+15687,Melissa "Lonesome Stalker" Riley,UT,0.00,Brick,163.00,5.32,6.66,867.16,1085.58,0.00,1952.74
+19912,Surgeon Grant,NV,0.31,Pinecones,196.00,1.50,2.66,294.00,521.36,0.00,815.36
+20776,Vanessa "Scalper" Rhodes,NM,2.93,Beechwood,217.00,3.63,6.05,787.71,1312.85,63.02,2163.58
+21641,Vengeful Robertson,MT,5.31,Packed Dirt,289.00,1.10,2.42,317.90,699.38,50.86,1068.14
+21694,Joanne "Damned" Miles,NM,2.93,Brick,50.00,5.32,6.66,266.00,333.00,17.97,616.97
+22649,April "Thunderbird" Dunn,NV,0.31,Leather,283.00,11.00,19.97,3113.00,5651.51,0.00,8764.51
+22681,Theresa "Kid" Robinson,ID,0.00,Pinecones,256.00,1.50,2.93,384.00,750.08,0.00,1134.08

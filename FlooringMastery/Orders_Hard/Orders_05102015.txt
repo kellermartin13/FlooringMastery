@@ -1,0 +1,19 @@
+315,Rouge Tombreaper,The Demon and Toad,23.75,Meteoric Mirrormuck Orichalcum Of The Forests,350.00,1962.00,168.88,686700.00,59108.00,178993.92,924801.92
+1194,Fate Seeker,The Barrow of Malefic Ages,17.91,Foulopal Copper Of The Skies,283.00,1221.16,403.00,345588.28,114049.00,82734.71,542371.99
+2962,Slayer Claw,The Demon and Toad,23.75,Rocklava Mithril Of Revenants,150.00,1818.30,13.03,272745.00,1954.50,65927.88,340627.38
+3391,"Uriel, God of Fate",The Tower of Sabiesu the Awesome,4.40,Mistgold Of Men,284.00,3065.71,44.00,870661.64,12496.00,35326.31,918483.95
+6833,Cinderember,Noble's Village,27.50,Primal Adamant,56.00,4562.80,273.90,255516.80,15338.40,75839.46,346694.66
+9201,"Zepul, Lady of Vengeance",Kada's Deep,33.00,Ensorceled Gold Of The Dawn,171.00,5713.98,402.92,977090.58,68899.32,345176.67,1391166.57
+9744,Dawn Darkzealot,The Pirate's Pipe,17.60,Unicorns' Fatal Magma Metal Of The Ocean,219.00,1792.04,392.70,392456.76,86001.30,86122.45,564580.51
+11690,"Gono, Goddess of the Earth",Archring Borough,17.93,Timeiron,301.00,1596.00,228.33,480396.00,68727.33,98842.20,647965.53
+13528,Zeal Bladewitch,Arcanist's Farthing,3.00,Ghostly Soul Adamant,151.00,3222.96,229.53,486666.96,34659.03,15639.78,536965.77
+13942,"Suriel, Lord of Animals",The Dark Caverns of Woe,3.29,Spectres' Shadowy Terrorglow Adamant Of Life,249.00,5164.28,248.66,1285905.72,61916.34,40434.66,1388256.72
+14142,Gravebone The Unspeakable,Lamp Borough,4.95,Vampires' Hammer Emeraldmetal,134.00,379.45,25.84,50846.30,3462.56,2715.44,57024.30
+14199,Nailpiston The Grasping,The Secret Shrine of the Gargoyle Count,-2.00,Zephyr Iron,124.00,3034.90,444.69,376327.60,55141.56,-8629.38,422839.78
+15056,"Eumyan, Goddess of Law",The Greedy Wench,32.70,Lunar Bronze,271.00,753.86,337.70,204296.06,91516.70,97618.21,393430.97
+16653,"Uriel, God of Fate",Gena's Hold,2.66,Mistgold Of Men,107.00,4080.46,53.24,436609.22,5696.68,13269.18,455575.08
+21661,Steelterror The Blade,Pawic Keep,0.62,Phantasmal Tin Of The Swamps,286.00,5964.74,-7.99,1705915.64,-2285.14,17036.30,1720666.80
+22164,Flameshiver,The Wizard's House,43.58,Forgotten Mithril,344.00,1215.20,347.60,418028.80,119574.40,236545.41,774148.61
+22693,Zeal Bladewitch,Citadel Ward,37.80,Primal Adamant,107.00,5520.99,364.56,590745.93,39007.92,239306.46,869060.31
+22876,"Melcha, Goddess of Thieves",Citadel Ward,37.80,Incubi's Glittering Tin Of The Future,80.00,3349.54,96.64,267963.20,7731.20,104763.87,380458.27
+23162,"Ingwenel, God of War",The Beggar and Cask,25.41,White Platinum,196.00,-63.64,193.00,-12473.44,37828.00,6338.64,31693.20

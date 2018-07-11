@@ -1,0 +1,9 @@
+2316,Claw Mist,Boiaburh Keep,16.00,Ghostly Soul Adamant,306.00,2929.96,189.69,896567.76,58045.14,152738.06,1107350.96
+2629,"Gadriel, God of Resurrection",The Citadel of Lord Greywulf,30.04,Negative Mercury,107.00,4054.87,361.00,433871.09,38627.00,141749.43,614247.52
+7674,Sephiroth Drakecaster,The Tower of Aces the Accursed,13.31,Planar Obsidian Mercury Of Wizards,297.00,2574.00,141.57,764478.00,42046.29,104848.16,911372.45
+11573,Spikerivet,South Brightcrown Borough,42.25,Timeiron,96.00,1596.00,228.33,153216.00,21919.68,73556.99,248692.67
+12141,Nailpiston The Grasping,The Forsaken Delve of Lord Greywulf,39.00,Djinni's Spectral Shadowlead Of Life,140.00,3705.90,325.62,518826.00,45586.80,220120.99,784533.79
+12475,Fate Seeker,Castle Village,37.51,Rot Silver Of The Past,51.00,3784.00,359.70,192984.00,18344.70,80304.91,291633.61
+18464,Storm Seraphheart,The Lewd King,32.67,Goddesses' Spectral Poison Steel,146.00,5023.18,296.81,733384.28,43334.26,256317.12,1033035.66
+21006,Wheelspawn,Archtemple District,27.76,Forgotten Mithril,215.00,1215.20,347.60,261268.00,74734.00,94080.56,430082.56
+21180,Rune Rougehate,The Lazy Sage,19.97,Sphinxes' Opalpearl Platinum Of Legend,231.00,5805.82,429.89,1341144.42,99304.59,288089.80,1728538.81

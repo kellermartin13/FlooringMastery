@@ -1,0 +1,17 @@
+1485,Ida Russell "the Rustler",WY,0.25,Pebbles,196.00,0.80,4.40,156.80,862.40,0.00,1019.20
+1928,Jo "the Joker",OK,2.00,Brick,276.00,4.00,5.00,1104.00,1380.00,49.68,2533.68
+2580,April "Thunderbird" Dunn,ID,0.00,Cedar Planks,128.00,2.00,5.50,256.00,704.00,0.00,960.00
+5739,"Bane" Jennings,WY,0.31,Pebbles,76.00,0.80,4.40,60.80,334.40,0.00,395.20
+6397,Allison "Steel Gravedigger" Douglas,AL,1.00,Leather,275.00,10.00,18.15,2750.00,4991.25,77.41,7818.66
+6634,Amanda Hart "the Loner",MO,2.20,Cedar Planks,265.00,2.20,6.05,583.00,1603.25,43.72,2229.97
+10162,Mattie Grant "the Gambler",NM,2.20,Pebbles,133.00,0.88,4.84,117.04,643.72,15.22,775.98
+14903,Florence "Leather Doc" Grant,MO,2.20,Brick,370.00,5.32,6.66,1968.40,2464.20,88.65,4521.25
+16935,Maureen "Cursed" Andrews,OK,2.42,Solid Oak,316.00,5.50,6.05,1738.00,1911.80,73.00,3722.80
+17192,Surgeon Grant,NV,0.31,Beechwood,116.00,3.63,5.50,421.08,638.00,0.00,1059.08
+17322,Vengeful Robertson,CA,0.61,Pinecones,220.00,1.50,2.66,330.00,585.20,9.15,924.35
+18283,Debra "Scorpion" Lane,AR,2.20,Dirt,210.00,0.50,1.00,105.00,210.00,6.30,321.30
+18612,Stella "the Bully",KS,0.55,Reeds,219.00,0.83,2.20,181.77,481.80,6.64,670.21
+21279,Helen Webb "the Dancer",MO,2.20,Packed Dirt,232.00,1.10,2.42,255.20,561.44,16.33,832.97
+21375,Renee "Hellish Empress" Banks,UT,0.00,Brick,46.00,5.32,6.66,244.72,306.36,0.00,551.08
+22474,Joanne "Damned" Miles,AR,2.20,Beechwood,120.00,3.63,6.05,435.60,726.00,23.23,1184.83
+22777,Friendly Howell,IA,1.33,Cedar Planks,205.00,2.20,6.66,451.00,1365.30,18.16,1834.46

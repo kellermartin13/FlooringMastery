@@ -1,0 +1,16 @@
+1345,Spikerivet,The Broken Arrow,30.07,Foul Ice Bronze Of Life,216.00,-92.21,129.80,-19917.36,28036.80,2435.83,10555.27
+2229,"Lionare, God of the Lost",The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,92.00,3826.00,157.07,351992.00,14450.44,76952.91,443395.35
+3126,Song Runetomb,The Grey Plains,19.97,Fog Lavaplatinum Of Life,228.00,1078.00,17.00,245784.00,3876.00,49932.00,299592.00
+5944,Springsprocket,The Archer and Blade,9.00,Glowpearl Adamant Of Spirits,194.00,361.90,374.00,70208.60,72556.00,12848.81,155613.41
+7183,Emberspawn,The Bastion of Barbos,23.42,Hell Mercury Of The East,101.00,4636.34,284.60,468270.34,28744.60,114313.44,611328.38
+7298,Evilember The Firey,Palace Farthing,43.31,Unknown Fatelightning Steel Of The Glacier,167.00,2017.40,54.28,336905.80,9064.76,148767.34,494737.90
+7419,Metalghoul,The Dancing Minstrel,21.20,Meteoric Dustzephyr Orichalcum,189.00,375.00,244.08,70875.00,46131.12,24571.29,141577.41
+9350,Lord Mystery,Tower Farthing,27.12,Ghostly Magic Adamant,384.00,4836.38,230.90,1857169.92,88665.60,525375.59,2471211.11
+9997,Ironbrood,The Nulukkhath Spires,10.59,Meteoric Dustzephyr Orichalcum,177.00,375.00,244.08,66375.00,43202.16,12053.49,121630.65
+14327,"Penur, Lord of the Sea",The Chuallanto Jungle,40.70,Emerald Orichalcum,201.00,-405.76,128.90,-81557.76,25908.90,-22816.03,-78464.89
+15911,Burnbrood The Freezer,Lamp Borough,4.95,Poison Adamant,161.00,1151.38,64.44,185372.18,10374.84,9787.35,205534.37
+18261,Burnchill The Evil,Dysley Stronghold,45.98,Legendary Mithril Of The Moon,180.00,2977.81,125.84,536005.80,22651.20,256982.22,815639.22
+18434,Wheelspawn,Haukri's Hold,27.83,Venom Timegold Of Dwarves,211.00,3339.60,295.90,704655.60,62434.90,214785.34,981875.84
+19021,Springsprocket,Archfane District,36.16,Venom Timegold Of Dwarves,45.00,3339.60,295.90,150282.00,13315.50,58895.10,222492.60
+22411,Slayer Claw,The Cuitamba Jungle,33.88,Mana-touched Greenglitter Gold Of Giants,229.00,1420.52,514.25,325299.08,117763.25,150641.19,593703.52
+22603,"Lionare, God of the Lost",The Lost Crypts of Sorrows,35.87,Djinni's Mind Fogiron,193.00,2531.12,119.21,488506.16,23007.53,184144.93,695658.62

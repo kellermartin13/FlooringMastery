@@ -1,0 +1,13 @@
+452,"Maeglodor, God of Thieves",The Temple of Merciless Necromancy,42.10,Unspeakable Rotsoul Mithril Of Souls,202.00,248.00,401.53,50096.00,81109.06,55106.13,186311.19
+2868,Dawn Darkzealot,The Archer and Blade,9.00,Shadowhell Mithril,352.00,363.00,260.37,127776.00,91650.24,19748.36,239174.60
+4358,Dawn Darkzealot,Love Keep,7.00,Vampires' Fang Emeraldsilver,58.00,2283.46,455.55,132440.68,26421.90,11120.38,169982.96
+4557,Bane Veil,The Barrow of Terrible Horror,-1.10,Otherworldly Mirror Orichalcum,310.00,-247.00,478.50,-76570.00,148335.00,-717.65,71047.35
+5835,Shiverflame The Freezer,Gena's Hold,2.20,Mithril Of The Tropics,203.00,3751.00,9.00,761453.00,1827.00,15265.60,778545.60
+6694,"Nelalwe, Lady of Fire",Noble's Village,27.50,Glittering Orichalcum,267.00,-144.10,360.23,-38474.70,96181.41,16157.88,73864.59
+8544,"Byzou, God of Animals",The Barrow of Terrible Horror,-1.21,Hell Mercury Of The East,76.00,4636.34,284.60,352361.84,21629.60,-3739.91,370251.53
+9554,"Sielach, God of Fate",Tower Farthing,27.12,Spirits' Living Wordhammer Tin Of The Trees,183.00,4777.30,26.40,874245.90,4831.20,237350.82,1116427.92
+12552,Springcoil,Castle Village,37.51,Toxin Iceplatinum Of The Undead,233.00,-377.06,-59.29,-87854.98,-13814.57,-38634.43,-140303.98
+12700,Claw Mist,The Hunter and Rose,40.40,Imperial Fate Steel,232.00,2993.93,-44.92,694591.76,-10421.44,273668.13,957838.45
+16880,Blazefreeze The Chiller,The Broken Arrow,36.39,Ensorceled Sandmetal Of Spirits,290.00,2956.98,95.70,857524.20,27753.00,318699.79,1203976.99
+20787,Beamtrap,Eved Castle,5.09,Forgotten Mithril,178.00,1215.20,347.60,216305.60,61872.80,13908.92,292087.32
+20925,"Nelalwe, Lady of Fire",Eved Castle,5.09,Angels' Adamant,115.00,1434.40,197.23,164956.00,22681.45,9381.87,197019.32

@@ -1,0 +1,18 @@
+336,Wilma "Tornado" Brooks,OK,2.00,Cedar Planks,84.00,2.00,5.00,168.00,420.00,11.76,599.76
+606,"Scalphunter" Kennedy,CA,0.50,Pinecones,187.00,1.50,2.00,280.50,374.00,0.00,654.50
+689,Beth "Fortunate Shooter" Powell,CA,0.50,Reeds,104.00,0.75,2.00,78.00,208.00,0.00,286.00
+2313,Friendly Howell,CA,0.50,Reeds,272.00,0.75,2.00,204.00,544.00,0.00,748.00
+4427,Florence "Leather Doc" Grant,ID,0.00,Solid Oak,101.00,5.50,5.50,555.50,555.50,0.00,1111.00
+4730,Black Beck,MO,2.20,Packed Dirt,202.00,1.00,1.50,202.00,303.00,10.10,515.10
+5349,Friendly Howell,CA,0.55,Packed Dirt,129.00,1.00,1.50,129.00,193.50,3.22,325.72
+5880,Helen Webb "the Dancer",AR,2.20,Brick,42.00,4.84,6.66,203.28,279.72,9.66,492.66
+9436,Jacqueline "Riding Doc" Washington,CA,0.55,Solid Oak,256.00,5.50,5.50,1408.00,1408.00,28.16,2844.16
+11539,Florence "Leather Doc" Grant,ND,1.38,Packed Dirt,227.00,1.00,1.65,227.00,374.55,6.02,607.57
+13355,Gloria "Devil" McCoy,TX,0.67,Leather,123.00,11.00,18.15,1353.00,2232.45,35.85,3621.30
+13433,Florence "Leather Doc" Grant,OK,2.42,Brick,123.00,5.32,6.66,654.36,819.18,29.47,1503.01
+17146,Cathy "Wildfire" Neal,KS,0.55,Dirt,272.00,0.50,1.00,136.00,272.00,4.08,412.08
+17406,Heather "Friendly Gambler" Barrett,AL,1.00,Leather,154.00,11.00,19.97,1694.00,3075.38,47.69,4817.07
+20448,Victoria "the Dancer",CA,0.67,Pebbles,342.00,0.88,4.84,300.96,1655.28,19.56,1975.80
+20947,Victoria "the Dancer",MT,4.83,Beechwood,242.00,3.63,6.05,878.46,1464.10,117.13,2459.69
+22322,Vengeful Montgomery,CA,0.67,Beechwood,35.00,3.63,6.05,127.05,211.75,3.39,342.19
+22462,Joanne "Damned" Miles,UT,0.00,Cedar Planks,302.00,2.20,6.66,664.40,2011.32,0.00,2675.72

@@ -1,0 +1,15 @@
+1254,Lightning Brand,The Citadel of Alammius,3.18,Rainbowglitter Tin,208.00,4475.87,176.36,930980.96,36682.88,29029.92,996693.76
+1555,Rouge Roguemist,The Dungeon of Merciless Woe,38.62,Shadowhell Mithril,298.00,363.00,236.70,108174.00,70536.60,69697.13,248407.73
+1592,Icechill The Frigid,The Tower of Aces the Accursed,12.10,Unicorns' Fatal Magma Metal Of The Ocean,103.00,1792.04,357.00,184580.12,36771.00,26562.13,247913.25
+2967,Gravebone,The Bastion of the Vampire Duke,19.28,Phantasmal Tin Of The Swamps,271.00,4074.00,-6.60,1104054.00,-1788.60,209430.43,1311695.83
+5062,"Ahah, Goddess of Knowledge",Boiaburh Keep,16.00,Ensorceled Sandmetal Of Spirits,192.00,2956.98,87.00,567740.16,16704.00,93511.07,677955.23
+5102,Bedlam Spiritraven,The Bastion of Gothmog of Udun,45.32,Primordial False Gold,89.00,4459.34,226.00,396881.26,20114.00,187647.87,604643.13
+5921,Lance Knightseraph,Kada's Deep,33.00,Nymphs' Luminous Rotmercury Of The Skies,233.00,292.60,189.00,68175.80,44037.00,37030.22,149243.02
+6324,"Prusu, God of Love",Kada's Deep,33.00,Muck Orichalcum Of Ogres,246.00,3115.32,301.61,766368.72,74196.06,277386.38,1117951.16
+6519,Zeal Bladewitch,The Tower of Aces the Accursed,13.31,Timeiron,227.00,1596.00,228.33,362292.00,51830.91,53835.98,467958.89
+8427,Emberspawn,Gili's Delve,-5.05,Djinni's Spectral Shadowlead Of Life,92.00,3705.90,296.02,340942.80,27233.84,-18408.83,349767.81
+11045,Tiger Mistmidnight,Fellfen Keep,46.23,God-touched Greengem Platinum,191.00,1281.72,-39.60,244808.52,-7563.60,109132.66,346377.58
+12044,Seraphim Tsunami,The Greedy Wench,32.70,Shadowy Adamant,226.00,618.93,526.44,139878.18,118975.44,85421.69,344275.31
+12445,Metalbrood,The Glano Forest,3.00,Vampires' Fang Emeraldsilver,201.00,2762.99,455.55,555360.99,91565.55,19407.80,666334.34
+14156,Deathbrood,Gili's Delve,-6.73,Tritons' Time Stoneiron Of Legend,60.00,1760.00,204.37,105600.00,12262.20,-8250.35,109611.85
+19667,Spikecrank,The Khazahol Crags,-2.17,Emerald Orichalcum,186.00,-405.76,128.90,-75471.36,23975.40,1029.92,-50466.04

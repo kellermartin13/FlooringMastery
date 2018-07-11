@@ -1,0 +1,18 @@
+228,"Maeglodor, God of Thieves",The Bastion of Barbos,21.29,Toxic Mistlead Of The Past,218.00,1557.54,123.69,339543.72,26964.42,76966.71,443474.85
+963,Rouge Roguemist,The Broken Shield,37.23,Primordial False Gold,264.00,4459.34,226.00,1177265.76,59664.00,457664.01,1694593.77
+1128,Springsprocket,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,295.00,4159.62,-27.40,1227087.90,-8083.00,0.00,1219004.90
+1960,Magus Felldrake,The Forsaken Tomb of Devastation,0.00,Djinni's Evil Sandobsidian Steel Of The Future,265.00,3826.00,157.07,1013890.00,41623.55,0.00,1055513.55
+2987,Boltcrank The Trapper,Tradun Castle,31.13,Thunderbirds' Transcendent Dreamiron,279.00,2068.41,237.70,577086.39,66318.30,199455.45,842860.14
+3398,Snowflame The Evil,The Lewd King,27.00,Unknowable Mindsilver,321.00,3565.00,366.00,1144365.00,117486.00,340699.77,1602550.77
+7599,"Avriel, God of Death",The Lazy Sage,19.97,Rot Silver Of The Past,113.00,3440.00,327.00,388720.00,36951.00,85134.20,510805.20
+8362,Shadow Tomblion,The Barrow of Terrible Horror,-1.21,Primordial Mud Orichalcum,105.00,-387.90,77.37,-40729.50,8123.85,326.06,-32279.59
+9043,Bronzespawn,Minas Gilloy,39.26,Primordial Plague Mercury Of Legend,172.00,452.29,301.29,77793.88,51821.88,50550.15,180165.91
+10087,Dagger Reaper,The Dark Caverns of Woe,3.29,Mithril Of Legend,57.00,2274.80,63.01,129663.60,3591.57,3997.66,137252.83
+10442,Fate Seeker,The Shadow Downs,13.21,Sirens' Rockgold,228.00,-352.01,199.96,-80258.28,45590.88,-4506.76,-39174.16
+11028,Claw Mist,Dysley Stronghold,45.98,Heavenly Dreamsilver Of The Night,200.00,2009.68,112.00,401936.00,22400.00,195194.56,619530.56
+11969,Flameshiver,The Secret Catacombs of Ulfang the Black,42.90,Phantasmal Lead,275.00,-552.97,245.47,-152066.75,67504.25,-36361.88,-120924.38
+12461,Spikebrood The Disinterred,The Citadel of Alammius,3.50,Incubi's Glittering Tin Of The Future,192.00,3349.54,79.86,643111.68,15333.12,26337.79,684782.59
+12857,"Azah, Goddess of Fate",The Desert of Flames,51.91,Swordbronze,185.00,1485.01,447.01,274726.85,82696.85,185860.32,543284.02
+20896,Terrorghoul The Unspeakable,The Forsaken Hive of Galima the Mighty,29.89,Meteoric Dustzephyr Orichalcum,274.00,375.00,295.34,102750.00,80923.16,55101.95,238775.11
+21929,"Azah, Goddess of Fate",The Wizard's House,43.58,Toxic Mistlead Of The Past,222.00,1557.54,181.10,345773.88,40204.20,169830.36,555808.44
+22432,Bolttrap,Waleah Castle,0.85,Fairies' Supreme Mistsmoke Lead Of The Future,146.00,3349.50,324.73,489027.00,47410.58,5364.38,541801.96

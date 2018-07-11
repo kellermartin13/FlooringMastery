@@ -1,0 +1,15 @@
+1450,"Ahah, Goddess of Knowledge",The Tower of Aces the Accursed,12.10,Trolls' Mist Poisonplatinum Of The Twilight,255.00,516.17,394.90,131623.35,100699.50,27878.74,260201.59
+3784,Bolttrap,Barad Kesa,4.32,Violetstone Tin Of Death,33.00,2245.23,156.10,74092.59,5151.30,3169.76,82413.65
+5807,Zeal Bladewitch,Barad Kesa,4.32,Negative Rockglitter Mercury Of Trolls,213.00,1483.90,423.07,316070.70,90113.91,16247.38,422431.99
+5831,Gale Jackalguard,The Nulukkhath Spires,10.59,Stone Soulsteel Of The Skies,71.00,1798.28,13.21,127677.88,937.91,14147.74,142763.53
+6212,Tarot Dawn,Kada's Deep,33.00,Muck Orichalcum Of Ogres,113.00,3115.32,301.61,352031.16,34081.93,127417.32,513530.41
+10353,Spikerivet,The Chuallanto Jungle,37.00,Djinni's Spectral Shadowlead Of Life,245.00,3705.90,325.62,907945.50,79776.90,365457.29,1353179.69
+10783,Bane Veil,The Khazahol Crags,-1.97,Sirens' Rockgold,245.00,-352.01,199.96,-86242.45,48990.20,745.04,-36507.21
+12441,Seraphim Tsunami,The Glano Forest,3.00,Sirens' Rockgold,296.00,-352.01,199.96,-104194.96,59188.16,-1350.20,-46357.00
+12883,"Eumyan, Goddess of Law",The Hunter and Rose,40.40,Mistgold Of Men,298.00,3372.28,53.24,1004939.44,15865.52,408321.98,1429126.94
+15892,Cult Godseeker,Gifeld Castle,6.22,Unknown Fatelightning Steel Of The Glacier,275.00,2441.05,65.68,671288.75,18062.00,41361.04,730711.79
+18303,Nailpiston The Grasping,Grori's Deep,66.50,Poison Adamant,27.00,1266.52,64.44,34196.04,1739.88,23717.71,59653.63
+19541,Lightning Brand,Gifeld Castle,6.22,Witchs' Forbidden Rockrainbow Bronze,226.00,655.60,425.92,148165.60,96257.92,14665.41,259088.93
+20176,Spikerivet,The Tomb of Gothmog of Udun,-3.30,Planar Rainfate Mithril,301.00,1185.84,320.52,356937.84,96476.52,-13602.43,439811.93
+21817,Freezebrood,Tradun Castle,41.43,Phantasmal Lead,301.00,-669.10,270.02,-201399.10,81276.02,-49250.46,-169373.54
+22388,Beamtrap,Hartshill Ward,50.80,Violetstone Tin Of Death,245.00,2469.75,171.71,605088.75,42068.95,330050.43,977208.13

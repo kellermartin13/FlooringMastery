@@ -1,0 +1,19 @@
+819,Debra "Scorpion" Lane,WY,0.25,Solid Oak,123.00,5.00,5.00,615.00,615.00,0.00,1230.00
+1881,Elizabeth "the Bully",KS,0.50,Pinecones,248.00,1.50,2.00,372.00,496.00,0.00,868.00
+1904,Renee "Loco Tracker" Jordan,MT,3.00,Beechwood,219.00,3.00,5.00,657.00,1095.00,52.56,1804.56
+5139,Gloria "Devil" McCoy,AL,1.00,Reeds,151.00,0.75,2.20,113.25,332.20,4.45,449.90
+5896,Vengeful Montgomery,MS,3.00,Solid Oak,286.00,5.50,5.50,1573.00,1573.00,94.38,3240.38
+6075,Theresa "Kid" Robinson,MT,3.00,Packed Dirt,44.00,1.00,1.50,44.00,66.00,3.30,113.30
+10137,Renee "Hellish Empress" Banks,OK,2.20,Leather,238.00,10.00,18.15,2380.00,4319.70,133.99,6833.69
+10528,Renee "Hellish Empress" Banks,WY,0.31,Leather,236.00,10.00,18.15,2360.00,4283.40,0.00,6643.40
+14366,Cathy "Wildfire" Neal,MS,3.00,Pinecones,84.00,1.50,2.66,126.00,223.44,10.48,359.92
+14676,Vicki "Mesa" Rhodes,MO,2.20,Pinecones,146.00,1.50,2.66,219.00,388.36,12.15,619.51
+15990,Minnie Lawson "the Apostle",IA,1.21,Cedar Planks,98.00,2.20,6.05,215.60,592.90,8.08,816.58
+18065,"Sunrise" Miles,IA,1.21,Cedar Planks,89.00,2.20,6.66,195.80,592.74,7.89,796.43
+18355,Gladys "Locoweed" Keller,MS,3.00,Pebbles,213.00,0.88,4.84,187.44,1030.92,36.55,1254.91
+18522,Beth "Fortunate Shooter" Powell,AL,1.00,Cedar Planks,223.00,2.20,6.66,490.60,1485.18,19.76,1995.54
+20181,"Scalphunter" Kennedy,ND,1.67,Dirt,171.00,0.50,1.00,85.50,171.00,5.13,261.63
+22359,April "Thunderbird" Dunn,IA,1.33,Beechwood,262.00,3.63,6.05,951.06,1585.10,25.36,2561.52
+22933,Elizabeth "the Bully",MT,5.84,Pinecones,107.00,1.50,2.93,160.50,313.51,28.44,502.45
+23207,Florence "Leather Doc" Grant,NV,0.31,Solid Oak,258.00,5.50,6.66,1419.00,1718.28,0.00,3137.28
+23330,Jacqueline "Riding Doc" Washington,TX,0.67,Reeds,283.00,0.91,2.42,257.53,684.86,9.42,951.81

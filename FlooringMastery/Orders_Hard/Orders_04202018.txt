@@ -1,0 +1,7 @@
+4672,Flora Amberslayer,The Demon and Toad,23.75,Vampires' Hammer Emeraldmetal,211.00,379.45,25.84,80063.95,5452.24,20523.89,106040.08
+16556,Clash Lonedrake,Moor Village,76.43,Ensorceled Gold Of The Dawn,325.00,6913.92,402.92,2247024.00,130949.00,1807259.48,4185232.48
+17661,Spikesnare,North Arcanist's Farthing,55.18,Fog Lavaplatinum Of Life,195.00,1078.00,18.70,210210.00,3646.50,117621.08,331477.58
+19197,Zeal Bladewitch,The Barrow of Malefic Ages,19.70,Mistgold Of Men,191.00,4488.51,53.24,857305.41,10168.84,173494.85,1040969.10
+20339,"Avriel, God of Death",The Black Barrow of Bery,-0.10,Sphinxes' Opalpearl Platinum Of Legend,93.00,5805.82,390.81,539941.26,36345.33,0.00,576286.59
+22058,Emberfire,Barad Kesa,5.23,Unknowable Mindsilver,188.00,4313.65,402.60,810966.20,75688.80,44332.75,930987.75
+22777,Seraph Jester,The Fen of the Necromancer,72.63,Hidden Shadowice Lead,49.00,2729.00,-62.23,133721.00,-3049.27,95390.36,226062.09

@@ -1,0 +1,16 @@
+1762,Heather "Tornado" Newman,CA,0.50,Leather,205.00,10.00,15.00,2050.00,3075.00,0.00,5125.00
+2573,Tammy Carlson "the Killer",WY,0.25,Leather,158.00,10.00,16.50,1580.00,2607.00,0.00,4187.00
+5307,Lorraine "Utah" Adams,MT,3.00,Reeds,114.00,0.75,2.20,85.50,250.80,10.09,346.39
+6990,Diana "Mistress" Morgan,MS,3.00,Brick,158.00,4.84,6.66,764.72,1052.28,54.51,1871.51
+7414,Lena Chapman "the Bully",KS,0.50,Brick,193.00,4.84,6.66,934.12,1285.38,0.00,2219.50
+8867,Lena Chapman "the Bully",KS,0.50,Pinecones,161.00,1.50,2.66,241.50,428.26,0.00,669.76
+10413,Heather "Tornado" Newman,TX,0.67,Leather,261.00,10.00,18.15,2610.00,4737.15,73.47,7420.62
+11962,Vicki "Mesa" Rhodes,CA,0.61,Leather,184.00,10.00,18.15,1840.00,3339.60,51.80,5231.40
+12190,Tina "Lady" Anderson,UT,0.00,Brick,274.00,4.84,6.66,1326.16,1824.84,0.00,3151.00
+12333,Geraldine "Revenge" Warren,OK,2.42,Pebbles,131.00,0.88,4.84,115.28,634.04,14.99,764.31
+13987,Vanessa "Scalper" Rhodes,NM,2.42,Pinecones,105.00,1.50,2.66,157.50,279.30,8.74,445.54
+15653,Jacqueline "Riding Doc" Washington,TX,0.67,Cedar Planks,269.00,2.20,6.05,591.80,1627.45,22.19,2241.44
+17549,Geraldine "Revenge" Warren,OK,2.42,Beechwood,75.00,3.63,5.50,272.25,412.50,13.70,698.45
+18670,Heather "Friendly Gambler" Barrett,NM,2.93,Reeds,255.00,0.83,2.20,211.65,561.00,23.18,795.83
+21315,Julia "Bandit" Chandler,MT,5.31,Brick,261.00,5.32,6.66,1388.52,1738.26,156.34,3283.12
+22237,Michele Watson "the Loner",MT,5.84,Packed Dirt,187.00,1.10,2.42,205.70,452.54,39.49,697.73

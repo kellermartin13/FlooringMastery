@@ -1,0 +1,16 @@
+287,Evelyn "Evil Joker" Taylor,ID,0.00,Pinecones,356.00,1.50,2.00,534.00,712.00,0.00,1246.00
+584,Gloria "Devil" McCoy,UT,0.00,Pebbles,177.00,0.80,4.00,141.60,708.00,0.00,849.60
+2440,Mabel "Vixen Cursed" King,MT,3.00,Cedar Planks,376.00,2.00,5.50,752.00,2068.00,84.60,2904.60
+2877,Victoria "the Dancer",AL,1.00,Reeds,249.00,0.75,2.00,186.75,498.00,6.85,691.60
+3807,Theresa "Kid" Robinson,AR,2.20,Pinecones,251.00,1.50,2.42,376.50,607.42,19.68,1003.60
+5076,Cathy "Loner Demon" Murray,UT,0.00,Reeds,114.00,0.75,2.20,85.50,250.80,0.00,336.30
+5616,Dorothy "the Hunter",MO,2.20,Pinecones,152.00,1.50,2.66,228.00,404.32,12.65,644.97
+6555,Vanessa "Scalper" Rhodes,TX,0.50,Brick,218.00,4.84,6.66,1055.12,1451.88,0.00,2507.00
+8690,Lucky Johnson,ND,1.25,Packed Dirt,261.00,1.00,1.50,261.00,391.50,6.52,659.02
+13657,"Doom" McCoy,KS,0.55,Packed Dirt,138.00,1.00,2.00,138.00,276.00,4.14,418.14
+16376,Elizabeth "the Bully",OK,2.42,Dirt,152.00,0.50,1.00,76.00,152.00,4.56,232.56
+16992,Mattie Grant "the Gambler",ID,0.00,Reeds,244.00,0.83,2.20,202.52,536.80,0.00,739.32
+17438,Amanda Hart "the Loner",ID,0.00,Pebbles,326.00,0.88,4.84,286.88,1577.84,0.00,1864.72
+18808,Vengeful Montgomery,CA,0.61,Cedar Planks,175.00,2.20,6.66,385.00,1165.50,15.50,1566.00
+19752,Cynthia "the Vixen",IA,1.33,Beechwood,41.00,3.63,6.05,148.83,248.05,3.97,400.85
+21197,Helen Webb "the Dancer",OK,2.66,Leather,255.00,11.00,19.97,2805.00,5092.35,236.92,8134.27

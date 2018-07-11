@@ -1,0 +1,18 @@
+779,Emberspawn,Reyny Keep,11.00,Phantasmal Lead,231.00,-457.00,245.47,-105567.00,56703.57,-5374.98,-54238.41
+2968,Icechill The Frigid,The Tower of Sabiesu the Awesome,4.40,Fog Lavaplatinum Of Life,160.00,1078.00,17.00,172480.00,2720.00,7008.00,182208.00
+4514,Sunrise Godwarlock,Boiaburh Keep,16.00,Succubi's Evil Mindzephyr Adamant Of The Desert,250.00,1990.16,250.07,497540.00,62517.50,89609.20,649666.70
+6859,Lance Knightseraph,Dysley Stronghold,45.98,Spectres' Shadowy Terrorglow Adamant Of Life,71.00,4694.80,205.50,333330.80,14590.50,160043.80,507965.10
+9062,Sephiroth Drakecaster,The Dancing Minstrel,21.20,Foul Ice Bronze Of Life,134.00,-92.21,129.80,-12356.14,17393.20,1057.78,6094.84
+10531,Cinderflame,The Citadel of Lord Greywulf,33.04,Glowpearl Adamant Of Spirits,195.00,398.09,374.00,77627.55,72930.00,49683.99,200241.54
+10807,Sephiroth Drakecaster,The Khazahol Crags,-1.97,Hell Mercury Of The East,208.00,4636.34,313.06,964358.72,65116.48,-20589.50,1008885.70
+11408,Gale Jackalguard,Eved Castle,5.09,Sapphire Mindlead,52.00,1307.71,47.00,68000.92,2444.00,3522.25,73967.17
+11764,Harmony Angelchild,Unicorn's Ward,14.64,Pearl Mirrorice Steel Of Changelings,365.00,271.51,38.07,99101.15,13895.55,16949.50,129946.20
+12417,Magus Felldrake,The Glano Forest,3.00,Transcendent Gold,169.00,-193.60,282.17,-32718.40,47686.73,449.05,15417.38
+14173,Magus Felldrake,Dysley Stronghold,45.98,Emerald Orichalcum,88.00,-405.76,128.90,-35706.88,11343.20,-11207.29,-35570.97
+14435,Cult Godseeker,Archscepter Borough,3.30,Witchs' Forbidden Rockrainbow Bronze,294.00,655.60,425.92,192746.40,125220.48,9539.01,327505.89
+15402,"Lenwenye, Goddess of Travel",Gili's Delve,-6.73,Sphinxes' Unknown Poisongold Of The Future,204.00,3910.25,23.86,797691.00,4867.44,-56179.09,746379.35
+15514,Jericho Wolf,Gili's Delve,-6.73,God-touched Faterainbow Orichalcum Of Spectres,228.00,370.41,32.01,84453.48,7298.28,-6422.62,85329.14
+16833,Tarot Dawn,The Broken Arrow,36.39,Mistgold Of Men,112.00,4080.46,53.24,457011.52,5962.88,166670.78,629645.18
+19493,Emberspawn,Castle Village,49.93,Sirens' Rockgold,68.00,-352.01,199.96,-23936.68,13597.28,-5169.70,-15509.10
+19862,"Byzou, God of Animals",The Warrior and Flagon,53.24,Unicorns' Evil Mithril,173.00,4802.49,377.52,830830.77,65310.96,474955.12,1371096.85
+22856,"Suriel, Lord of Animals",Grori's Deep,66.50,Primal Adamant,146.00,5520.99,364.56,806064.54,53225.76,567131.60,1426421.90

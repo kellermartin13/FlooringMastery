@@ -1,0 +1,9 @@
+6744,Marie "Raven" Chapman,ND,1.25,Packed Dirt,149.00,1.00,1.50,149.00,223.50,3.72,376.22
+7625,Julia "Bandit" Chandler,TX,0.50,Reeds,293.00,0.75,2.20,219.75,644.60,0.00,864.35
+9410,Cathy "Wildfire" Neal,AL,1.00,Solid Oak,176.00,5.50,5.50,968.00,968.00,19.36,1955.36
+11666,Lorraine "Utah" Adams,ID,0.00,Beechwood,283.00,3.00,5.50,849.00,1556.50,0.00,2405.50
+14392,Vengeful Robertson,NM,2.42,Reeds,226.00,0.75,2.20,169.50,497.20,13.33,680.03
+14899,Melissa "Lonesome Stalker" Riley,MO,2.20,Beechwood,138.00,3.63,5.50,500.94,759.00,25.20,1285.14
+16748,Black Beck,IA,1.21,Leather,147.00,11.00,19.97,1617.00,2935.59,45.53,4598.12
+19493,Elizabeth "the Bully",TX,0.67,Pinecones,154.00,1.50,2.66,231.00,409.64,6.41,647.05
+19740,Evelyn "Evil Joker" Taylor,MS,3.00,Beechwood,118.00,3.63,6.05,428.34,713.90,34.27,1176.51

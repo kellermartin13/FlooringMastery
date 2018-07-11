@@ -1,0 +1,17 @@
+573,Sunset Knightclaw,The Citadel of Cheno,5.00,Falserainbow Lead,138.00,3215.00,233.00,443670.00,32154.00,23791.20,499615.20
+1593,Snarepiston The Mechanical,The Pilgrim's Cup,41.93,Trolls' Mist Poisonplatinum Of The Twilight,267.00,516.17,394.90,137817.39,105438.30,102167.39,345423.08
+2998,Chainnail,The Hunter and Rose,40.40,Mithril Of The Tropics,133.00,3751.00,9.00,498883.00,1197.00,200032.00,700112.00
+3779,Fate Seeker,The Wizard's House,43.58,Grayplatinum,268.00,2278.43,279.06,610619.24,74788.08,301579.22,986986.54
+4005,Wind Dire,Grori's Deep,45.41,Foulopal Copper Of The Skies,17.00,1221.16,403.00,20759.72,6851.00,12424.82,40035.54
+9338,Wheelbolt The Machine,The Secret Catacombs of Ulfang the Black,42.90,Spirits' Living Wordhammer Tin Of The Trees,185.00,4777.30,26.40,883800.50,4884.00,382134.34,1270818.84
+9532,Ironbrood,Fellfen Keep,46.23,Golems' Stonesapphire Gold Of The Glacier,235.00,3672.77,105.97,863100.95,24902.95,408481.79,1296485.69
+10014,Springsprocket,The Broken Shield,37.23,Pearl Mirrorice Steel Of Changelings,196.00,271.51,38.07,53215.96,7461.72,22450.74,83128.42
+12279,"Zepul, Lady of Vengeance",Castle Village,37.51,Toxin Iceplatinum Of The Undead,40.00,-377.06,-59.29,-15082.40,-2371.60,-6632.52,-24086.52
+12610,Chainhorror,Gawold Castle,6.05,Swordbronze,286.00,1485.01,447.01,424712.86,127844.86,33153.46,585711.18
+13089,Nettool The Grasping,Archtemple District,27.76,Primordial Plague Mercury Of Legend,162.00,452.29,301.29,73270.98,48808.98,34182.39,156262.35
+16924,Tiger Mistmidnight,The Flying Witch,12.60,Nymphs' Luminous Rotmercury Of The Skies,243.00,292.60,207.90,71101.80,50519.70,15810.80,137432.30
+17236,Spikerivet,North Arcanist's Farthing,55.18,Thunderbirds' Transcendent Dreamiron,47.00,2275.25,237.70,106936.75,11171.90,64959.76,183068.41
+18650,Clash Lonedrake,Boiaburh Keep,17.60,Meteoric Dustzephyr Orichalcum,153.00,375.00,268.49,57375.00,41078.97,17721.71,116175.68
+20058,Cult Godseeker,Unicorn's Ward,14.64,Unicorns' Evil Mithril,165.00,4802.49,377.52,792410.85,62290.80,128205.25,982906.90
+20425,Emberfire,Grori's Deep,66.50,Phantasmal Lead,140.00,-608.27,270.02,-85157.80,37802.80,-31254.30,-78609.30
+20680,"Lionare, God of the Lost",Tradun Castle,41.43,Golems' Stonesapphire Gold Of The Glacier,239.00,4444.06,116.57,1062130.34,27860.23,446896.13,1536886.70

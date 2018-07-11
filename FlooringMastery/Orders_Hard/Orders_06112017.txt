@@ -1,0 +1,15 @@
+2371,Tiger Mistmidnight,Boiaburh Keep,16.00,Forgotten Mithril,55.00,913.00,316.00,50215.00,17380.00,10815.20,78410.20
+2687,Sephiroth Drakecaster,The Bastion of Barbos,21.29,Unholy Poison Copper Of The Mountains,222.00,528.10,-9.24,117238.20,-2051.28,24189.25,139376.17
+3065,Evilbrood,The Grey Plains,19.97,Mithril Of The Tropics,185.00,3751.00,9.00,693935.00,1665.00,139120.00,834720.00
+3418,Burnfreeze The Cold,The Broken Arrow,30.07,Forgotten Mithril,96.00,913.00,316.00,87648.00,30336.00,35395.20,153379.20
+5028,Sephiroth Drakecaster,North Grove Ward,6.60,Ensorceled Sandmetal Of Spirits,189.00,2956.98,87.00,558869.22,16443.00,40271.86,615584.08
+5873,Spikerivet,Unicorn's Ward,13.31,White Platinum,67.00,-52.59,145.00,-3523.53,9715.00,804.89,6996.36
+7171,Rouge Roguemist,The Forsaken Delve of Lord Greywulf,39.00,Djinni's Mind Fogiron,196.00,2301.02,74.02,450999.92,14507.92,181548.06,647055.90
+8609,"Ahah, Goddess of Knowledge",The Khazahol Crags,-1.97,Incubi's Iron Of The Dawn,210.00,1200.96,424.31,252201.60,89105.10,-6826.13,334480.57
+11050,Chainhorror,Fellfen Keep,46.23,Primordial False Gold,127.00,5395.80,226.00,685266.60,28702.00,328425.56,1042394.16
+12766,Bedlam Spiritraven,The Dread Hive of Illfang the Kobold Lord,1.46,Imperial Fate Steel,36.00,2993.93,-44.92,107781.48,-1617.12,1061.64,107226.00
+13456,Scarechain The Unspeakable,Eved Castle,5.09,Green Dustlightning Mercury,274.00,3868.70,35.20,1060023.80,9644.80,53483.43,1123152.03
+13948,"Lionare, God of the Lost",Waleah Castle,0.77,Sphinxes' Mistsoul Bronze Of The Past,131.00,2169.81,202.07,284245.11,26471.17,3107.16,313823.44
+15478,"Melcha, Goddess of Thieves",Noble's Village,30.25,Djinni's Spectral Shadowlead Of Life,199.00,4076.49,325.62,811221.51,64798.38,262805.97,1138825.86
+18238,"Ariel, God of Luck",Boiaburh Keep,17.60,Phantasmal Plague Adamant,199.00,-204.63,-7.18,-40721.37,-1428.82,-7587.03,-49737.22
+18786,"Ingwenel, God of War",The Forsaken Sepulcher of Sorrows,53.67,Primordial Plague Mercury Of Legend,192.00,497.52,301.29,95523.84,57847.68,82820.62,236192.14

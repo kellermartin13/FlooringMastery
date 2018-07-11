@@ -1,0 +1,12 @@
+1708,Springcoil,Shainan's Hold,19.80,Incubi's Mirrorfog Iron Of The Ocean,196.00,4798.76,-19.59,940556.96,-3839.64,187343.46,1124060.78
+2418,Dawn Darkzealot,Gili's Delve,-4.59,Mana-touched Greenglitter Gold Of Giants,268.00,1173.98,425.00,314626.64,113900.00,-21426.33,407100.31
+3180,"Selik, God of Death",The Tower of Sabiesu the Awesome,4.40,Rocklava Mithril Of Revenants,97.00,1818.30,13.03,176375.10,1263.91,7105.56,184744.57
+4921,Storm Squallmourner,Tradun Castle,34.24,Thunderbirds' Transcendent Dreamiron,115.00,2275.25,237.70,261653.75,27335.50,98256.34,387245.59
+6191,"Alas, Lord of Plague",The Bastion of the Lich Tyrant,43.00,Warlocks' Timerot Mithril,230.00,2917.07,112.00,670926.10,25760.00,299575.02,996261.12
+8938,Freezebrood,The Beggar and Cask,23.10,Foul Ice Bronze Of Life,229.00,-92.21,129.80,-21116.09,29724.20,1979.87,10587.98
+10061,Rose Anchor,The Forsaken Sepulcher of Sorrows,48.79,Ensorceled Gold Of The Dawn,95.00,5713.98,402.92,542828.10,38277.40,284741.70,865847.20
+11100,Storm Squallmourner,Pawic Keep,0.56,God-touched Greengem Platinum,261.00,1281.72,-39.60,334528.92,-10335.60,3241.93,327435.25
+11915,"Alik, Goddess of Trickery",South Brightcrown Borough,42.25,Icy Shock Silver,270.00,1482.98,407.00,400404.60,109890.00,214323.73,724618.33
+12168,Dagger Reaper,Bifar's Deep,18.70,Witchs' Forbidden Rockrainbow Bronze,228.00,655.60,387.20,149476.80,88281.60,45174.10,282932.50
+12891,Bane Veil,The Fortress of Gama,10.16,Imperial Fate Steel,283.00,2993.93,-44.92,847282.19,-12712.36,83456.98,918026.81
+22275,Chainblade The Cadaverous,Gawold Castle,6.05,Foul Ice Bronze Of Life,123.00,-101.43,157.06,-12475.89,19318.38,410.55,7253.04

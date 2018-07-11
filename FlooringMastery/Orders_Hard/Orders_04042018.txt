@@ -1,0 +1,14 @@
+549,"Zepul, Lady of Vengeance",The Fortress of the Lich Queen,36.35,Tritons' Time Stoneiron Of Legend,341.00,1760.00,168.90,600160.00,57594.90,236791.76,894546.66
+594,Bedlam Spiritraven,Tradun Castle,31.13,Litches' Fatal Mithril Of The Past,206.00,1207.25,305.00,248693.50,62830.00,96572.28,408095.78
+6820,"Addon, Lord of Death",The Tower of the Demon Warlord,15.75,Glittering Orichalcum,239.00,-144.10,360.23,-34439.90,86094.97,8264.81,59919.88
+7466,Fate Ivycaster,Palace Farthing,43.31,Shadowy Adamant,236.00,618.93,478.58,146067.48,112944.88,111375.31,370387.67
+8022,Gravebone The Unspeakable,Minas Gilloy,39.26,Swordbronze,223.00,1350.01,447.01,301052.23,99683.23,156286.83,557022.29
+10315,Lightning Brand,The Forsaken Sepulcher of Sorrows,48.79,Djinni's Spectral Shadowlead Of Life,120.00,3705.90,325.62,444708.00,39074.40,237053.38,720835.78
+11688,Claw Mist,Archring Borough,17.93,Litches' Fatal Mithril Of The Past,196.00,1327.98,369.05,260284.08,72333.80,59871.22,392489.10
+12851,Emberfire,The Fortress of Gama,10.16,Nymphs' Luminous Rotmercury Of The Skies,222.00,292.60,189.00,64957.20,41958.00,10691.52,117606.72
+12997,Burnfreeze The Cold,The Fortress of Gama,10.16,Mistgold Of Men,277.00,3372.28,53.24,934121.56,14747.48,94886.90,1043755.94
+13421,Deathbrood,Eved Castle,5.09,Sphinxes' Mistsoul Bronze Of The Past,235.00,2169.81,202.07,509905.35,47486.45,27869.59,585261.39
+15189,"Zepul, Lady of Vengeance",The Forsaken Sepulcher of Sorrows,53.67,Mithril Of The Tropics,69.00,4126.10,11.98,284700.90,826.62,154184.86,439712.38
+16581,"Gadriel, God of Resurrection",The Forsaken Sepulcher of Sorrows,53.67,Shadowhell Mithril,229.00,483.15,315.05,110641.35,72146.45,98705.41,281493.21
+19454,Rouge Tombreaper,The Pirate's Pipe,17.60,Ghostly Soul Adamant,300.00,3222.96,229.53,966888.00,68859.00,186434.46,1222181.46
+20256,Terrorghoul The Unspeakable,The Cracked Chalice,2.52,Unicorns' Evil Mithril,131.00,4802.49,377.52,629126.19,49455.12,20357.44,698938.75

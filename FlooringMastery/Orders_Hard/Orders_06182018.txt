@@ -1,0 +1,14 @@
+525,Fate Ivycaster,The Tomb of Hellish Ruin,14.00,Tritons' Time Stoneiron Of Legend,182.00,1760.00,168.90,320320.00,30739.80,49148.37,400208.17
+1348,"Sielach, God of Fate",The Broken Arrow,30.07,Incubi's Glittering Tin Of The Future,326.00,2287.78,72.60,745816.28,23667.60,230845.16,1000329.04
+1673,"Penur, Lord of the Sea",Tradun Castle,31.13,Grayplatinum,252.00,2071.30,279.06,521967.60,70323.12,183610.12,775900.84
+5749,Gravebone,The Nulukkhath Spires,10.59,Angels' Adamant,117.00,1304.00,179.30,152568.00,20978.10,19090.07,192636.17
+6621,Flameshiver,The Dread Hive of Illfang the Kobold Lord,1.33,Foul Ice Bronze Of Life,136.00,-92.21,129.80,-12540.56,17652.80,51.12,5163.36
+7261,Burnchill The Evil,Palace Farthing,43.31,Fleshshock Mercury,75.00,4417.00,279.40,331275.00,20955.00,151458.90,503688.90
+11416,Evilbrood,The Forsaken Sepulcher of Sorrows,48.79,Devils' Falserot Silver,276.00,1668.51,182.71,460508.76,50427.96,250358.99,761295.71
+11543,Snaretool The Constructed,South Brightcrown Borough,42.25,God-touched Greengem Platinum,300.00,1281.72,-39.60,384516.00,-11880.00,156507.12,529143.12
+11978,Cult Godseeker,The Pirate's Pipe,17.60,Sprites' Transcendent Mud Lead Of The South,324.00,2081.80,321.86,674503.20,104282.64,140181.45,918967.29
+12240,Bedlam Spiritraven,Archscepter Borough,3.00,Rot Silver Of The Past,362.00,3784.00,359.70,1369808.00,130211.40,45000.58,1545019.98
+16593,"Byzou, God of Animals",The Forsaken Tomb of Devastation,0.00,Shadowhell Mithril,365.00,483.15,315.05,176349.75,114993.25,0.00,291343.00
+16905,Lightning Brand,Khali's Delve,52.71,Incubi's Glittering Tin Of The Future,299.00,3349.54,87.85,1001512.46,26267.15,544723.19,1572502.80
+19153,Springcoil,The Bastion of Barbos,28.34,Mana-touched Greenglitter Gold Of Giants,94.00,1291.38,514.25,121389.72,48339.50,47524.18,217253.40
+21673,Ironbrood,The Warrior and Flagon,53.24,God-touched Faterainbow Orichalcum Of Spectres,298.00,370.41,35.21,110382.18,10492.58,64063.62,184938.38

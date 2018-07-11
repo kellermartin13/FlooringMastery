@@ -1,0 +1,24 @@
+3962,Vengeful Robertson,NV,0.25,Solid Oak,81.00,5.50,5.00,445.50,405.00,0.00,850.50
+4721,"Scalphunter" Kennedy,OK,2.00,Cedar Planks,51.00,2.00,5.50,102.00,280.50,7.65,390.15
+5216,Heather "Friendly Gambler" Barrett,AR,2.20,Cedar Planks,274.00,2.00,5.50,548.00,1507.00,41.10,2096.10
+5751,Vengeful Robertson,MT,3.00,Pebbles,10.00,0.80,4.40,8.00,44.00,1.56,53.56
+6055,"Sunrise" Miles,UT,0.00,Cedar Planks,137.00,2.20,5.50,301.40,753.50,0.00,1054.90
+8386,"Bane" Jennings,NV,0.31,Beechwood,152.00,3.00,5.50,456.00,836.00,0.00,1292.00
+10149,Darlene "Loner" Ford,IA,1.21,Beechwood,201.00,3.00,5.50,603.00,1105.50,17.08,1725.58
+10382,April "Thunderbird" Dunn,ID,0.00,Pinecones,175.00,1.50,2.66,262.50,465.50,0.00,728.00
+10839,Cathy "Loner Demon" Murray,IA,1.21,Solid Oak,67.00,5.50,5.50,368.50,368.50,7.37,744.37
+10907,Beth "Fortunate Shooter" Powell,MT,3.63,Reeds,32.00,0.75,2.20,24.00,70.40,3.78,98.18
+11133,Tammy Carlson "the Killer",ND,1.25,Pinecones,332.00,1.50,2.66,498.00,883.12,13.81,1394.93
+11648,Lucky Johnson,ND,1.38,Pebbles,124.00,0.88,4.84,109.12,600.16,7.09,716.37
+12474,Helen Webb "the Dancer",NM,2.42,Pebbles,192.00,0.88,4.84,168.96,929.28,21.96,1120.20
+12531,Kathy Murphy "the Thinker",NV,0.31,Pinecones,170.00,1.50,2.66,255.00,452.20,0.00,707.20
+12656,Theresa "Kid" Robinson,MS,3.00,Cedar Planks,152.00,2.20,6.05,334.40,919.60,37.62,1291.62
+12914,Jacqueline "Riding Doc" Washington,ID,0.00,Cedar Planks,194.00,2.20,6.05,426.80,1173.70,0.00,1600.50
+14003,Theresa "Scalphunter" Romero,NM,2.42,Cedar Planks,177.00,2.20,6.05,389.40,1070.85,29.20,1489.45
+14504,Darlene "Loner" Ford,CA,0.61,Brick,296.00,5.32,6.66,1574.72,1971.36,35.46,3581.54
+16835,Evelyn "Evil Joker" Taylor,UT,0.00,Packed Dirt,206.00,1.10,2.20,226.60,453.20,0.00,679.80
+17099,Cathy "Loner Demon" Murray,AR,2.20,Brick,154.00,5.32,6.66,819.28,1025.64,36.90,1881.82
+19595,Michele Watson "the Loner",KS,0.55,Packed Dirt,224.00,1.10,2.42,246.40,542.08,7.88,796.36
+22109,"Bane" Jennings,MS,3.00,Pinecones,198.00,1.50,2.66,297.00,526.68,24.71,848.39
+22306,Mattie Grant "the Gambler",MO,2.20,Leather,302.00,11.00,19.97,3322.00,6030.94,187.06,9540.00
+22826,Betty "Happy Thinker" Watson,UT,0.00,Brick,175.00,5.32,6.66,931.00,1165.50,0.00,2096.50

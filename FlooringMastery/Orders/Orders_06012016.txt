@@ -1,0 +1,13 @@
+3021,"Sunrise" Miles,WY,0.28,Solid Oak,137.00,5.50,5.00,753.50,685.00,0.00,1438.50
+3705,Ida Russell "the Rustler",KS,0.50,Pebbles,267.00,0.80,4.40,213.60,1174.80,0.00,1388.40
+7993,Stella "the Bully",CA,0.55,Solid Oak,225.00,5.50,5.50,1237.50,1237.50,24.75,2499.75
+9803,"Scalphunter" Kennedy,MS,3.00,Solid Oak,259.00,5.50,5.50,1424.50,1424.50,85.47,2934.47
+10074,Lorraine "Utah" Adams,MT,3.63,Packed Dirt,182.00,1.00,1.50,182.00,273.00,18.20,473.20
+10522,Diana "Mistress" Morgan,UT,0.00,Leather,209.00,10.00,18.15,2090.00,3793.35,0.00,5883.35
+12275,Julia "Bandit" Chandler,WY,0.31,Reeds,199.00,0.75,2.20,149.25,437.80,0.00,587.05
+12517,Tammy Carlson "the Killer",AR,2.20,Brick,180.00,4.84,6.66,871.20,1198.80,41.40,2111.40
+14683,Dorothy "the Hunter",NV,0.31,Brick,101.00,5.32,6.66,537.32,672.66,0.00,1209.98
+16005,Wilma "Tornado" Brooks,KS,0.55,Packed Dirt,216.00,1.10,2.20,237.60,475.20,7.13,719.93
+22766,April "Thunderbird" Dunn,MS,3.00,Reeds,279.00,0.91,2.42,253.89,675.18,27.87,956.94
+23123,Heather "Friendly Gambler" Barrett,UT,0.00,Leather,163.00,11.00,19.97,1793.00,3255.11,0.00,5048.11
+23315,Victoria "the Dancer",ID,0.00,Dirt,248.00,0.55,1.00,136.40,248.00,0.00,384.40

@@ -1,0 +1,15 @@
+946,Geraldine "Revenge" Warren,WY,0.25,Dirt,55.00,0.50,1.00,27.50,55.00,0.00,82.50
+1286,Evelyn "Evil Joker" Taylor,AL,1.00,Brick,330.00,4.00,5.00,1320.00,1650.00,29.70,2999.70
+3504,Lucky Johnson,OK,2.00,Packed Dirt,143.00,1.00,1.50,143.00,214.50,7.15,364.65
+5985,Gladys "Locoweed" Keller,IA,1.21,Pinecones,281.00,1.50,2.66,421.50,747.46,11.69,1180.65
+7260,"Doom" McCoy,ID,0.00,Brick,130.00,4.84,6.66,629.20,865.80,0.00,1495.00
+12134,Susan "Damnation" Fleming,AL,1.00,Pinecones,195.00,1.50,2.66,292.50,518.70,8.11,819.31
+16498,Amanda Hart "the Loner",ND,1.38,Pebbles,284.00,0.88,4.84,249.92,1374.56,16.24,1640.72
+16714,Tammy Carlson "the Killer",CA,0.61,Brick,392.00,5.32,6.66,2085.44,2610.72,46.96,4743.12
+16761,Mabel "Vixen Cursed" King,AL,1.00,Brick,371.00,5.32,6.66,1973.72,2470.86,44.45,4489.03
+17891,Florence "Leather Doc" Grant,CA,0.61,Beechwood,167.00,3.63,5.50,606.21,918.50,15.25,1539.96
+19984,Ida Russell "the Rustler",NV,0.31,Solid Oak,323.00,5.50,6.66,1776.50,2151.18,0.00,3927.68
+20593,Lorraine "Utah" Adams,UT,0.00,Dirt,241.00,0.50,1.00,120.50,241.00,0.00,361.50
+21405,Ida Russell "the Rustler",WY,0.31,Cedar Planks,155.00,2.20,6.66,341.00,1032.30,0.00,1373.30
+23044,Beth "Fortunate Shooter" Powell,KS,0.55,Leather,271.00,11.00,19.97,2981.00,5411.87,83.93,8476.80
+23248,Lucky Johnson,AR,2.20,Solid Oak,373.00,5.50,6.66,2051.50,2484.18,90.71,4626.39

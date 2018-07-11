@@ -1,0 +1,7 @@
+2380,Magus Felldrake,The Bastion of the Lich Tyrant,43.00,Primal Adamant,171.00,4562.80,249.00,780238.80,42579.00,353811.65,1176629.45
+4539,Springsprocket,The Pilgrim's Cup,41.93,Sirens' Rockgold,212.00,-352.01,165.25,-74626.12,35033.00,-16629.11,-56222.23
+6889,"Byzou, God of Animals",Barad Kesa,4.32,Poison Adamant,185.00,1151.38,58.58,213005.30,10837.30,8953.70,232796.30
+8594,"Gadriel, God of Resurrection",The Wizard's House,43.58,Unknowable Mindsilver,117.00,3565.00,366.00,417105.00,42822.00,202367.88,662294.88
+9026,Chainhorror,The Nulukkhath Spires,10.59,Goddesses' Spectral Poison Steel,208.00,3773.99,269.83,784989.92,56124.64,92522.60,933637.16
+14184,Emberspawn,The Chuallanto Jungle,40.70,Primordial False Gold,211.00,5395.80,226.00,1138513.80,47686.00,486341.92,1672541.72
+14414,"Ingwenel, God of War",Archscepter Borough,3.30,Ensorceled Sandmetal Of Spirits,313.00,2956.98,95.70,925534.74,29954.10,28664.67,984153.51

@@ -1,0 +1,15 @@
+259,Shadow Tomblion,Gena's Hold,2.00,Rainbowglitter Tin,156.00,4475.87,176.36,698235.72,27512.16,14514.96,740262.84
+352,Chillfire The Chiller,Barad Kesa,4.32,Succubi's Evil Mindzephyr Adamant Of The Desert,135.00,1990.16,250.07,268671.60,33759.45,12097.24,314528.29
+2736,Terrorghoul The Unspeakable,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,75.00,2929.96,189.69,219747.00,14226.75,84230.55,318204.30
+5556,Dawn Darkzealot,Unicorn's Ward,13.31,Greenlead,250.00,793.10,148.47,198275.00,37117.50,30601.02,265993.52
+7063,Seraphim Tsunami,The Forsaken Delve of Lord Greywulf,39.00,Otherworldly Mirror Orichalcum,221.00,-247.00,478.50,-54587.00,105748.50,19952.98,71114.48
+7415,"Prusu, God of Love",Pawic Keep,0.56,Meteoric Dustzephyr Orichalcum,184.00,375.00,244.08,69000.00,44910.72,1139.11,115049.83
+8247,Sunset Knightclaw,Khali's Delve,52.71,Ensorceled Gold Of The Dawn,345.00,5713.98,402.92,1971323.10,139007.40,1118475.16,3228805.66
+9747,Nettool The Grasping,Fellfen Keep,46.23,Emerald Orichalcum,285.00,-368.87,128.90,-105127.95,36736.50,-31460.07,-99851.52
+10658,Burnchill The Evil,The Citadel of Lord Greywulf,33.04,Shadowhell Mithril,225.00,439.23,286.41,98826.75,64442.25,53878.77,217147.77
+15079,Rouge Roguemist,Grori's Deep,60.45,Violetdream Iron,75.00,1224.69,349.36,91851.75,26202.00,70832.25,188886.00
+15516,"Lenwenye, Goddess of Travel",Gili's Delve,-6.73,Glittering Orichalcum,217.00,-158.51,360.23,-34396.67,78169.91,-3064.13,40709.11
+16608,Dagger Reaper,Eved Castle,5.09,Ghostly Magic Adamant,290.00,4836.38,230.90,1402550.20,66961.00,73475.56,1542986.76
+17152,Jericho Wolf,The Tower of Aces the Accursed,13.31,Imperial Fate Steel,60.00,2993.93,-59.79,179635.80,-3587.40,22886.29,198934.69
+20490,"Gadriel, God of Resurrection",The Broken Arrow,36.39,Sphinxes' Opalpearl Platinum Of Legend,116.00,5805.82,390.81,673475.12,45333.96,258771.27,977580.35
+21619,Storm Seraphheart,Moor Village,76.43,Planar Rainfate Mithril,256.00,1304.42,320.52,333931.52,82053.12,316148.33,732132.97

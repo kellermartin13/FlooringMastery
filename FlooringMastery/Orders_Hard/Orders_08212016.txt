@@ -1,0 +1,17 @@
+2650,Spikesnare,The Khazahol Crags,-1.97,Negative Mercury,235.00,4054.87,361.00,952894.45,84835.00,-20754.59,1016974.86
+3320,Beamtrap,Lacot Stronghold,30.88,Evilsilver,137.00,1486.85,79.86,203698.45,10940.82,66538.17,281177.44
+3504,Clash Lonedrake,The Forsaken Hive of Galima the Mighty,22.45,Evilsilver,124.00,1486.85,79.86,184369.40,9902.64,42739.85,237011.89
+4272,Sunrise Godwarlock,Khali's Delve,52.71,Negative Rockglitter Mercury Of Trolls,235.00,1483.90,423.07,348716.50,99421.45,237513.11,685651.06
+5372,Bane Veil,The Tower of Aramum,39.00,Ghostly Soul Adamant,381.00,3222.96,229.53,1227947.76,87450.93,513005.49,1828404.18
+5749,Seraph Jester,Unicorn's Ward,13.31,Mithril Of The Tropics,35.00,3751.00,9.00,131285.00,315.00,17108.00,148708.00
+7899,Sunset Knightclaw,The Dungeon of Dismal Terror,-3.50,Poison Adamant,255.00,1151.38,58.58,293601.90,14937.90,-12341.59,296198.21
+8397,Evilfear The Horrorific,Minas Gilloy,39.26,Negative Rockglitter Mercury Of Trolls,214.00,1483.90,423.07,317554.60,90536.98,159155.72,567247.30
+10354,Jericho Wolf,The Dark Caverns of Woe,3.29,Mithril Of Legend,90.00,2274.80,63.01,204732.00,5670.90,6312.09,216714.99
+11471,Storm Squallmourner,The Barrow of Malefic Ages,17.91,Litches' Fatal Mithril Of The Past,307.00,1327.98,369.05,407689.86,113298.35,93777.88,614766.09
+14180,Bedlam Spiritraven,The Chuallanto Jungle,40.70,Ensorceled Sandmetal Of Spirits,94.00,2956.98,95.70,277956.12,8995.80,117650.29,404602.21
+14254,"Avriel, God of Death",The Desert of Flames,51.91,Sprites' Transcendent Mud Lead Of The South,223.00,2081.80,321.86,464241.40,71774.78,278728.41,814744.59
+15063,Chillfire The Chiller,The Forsaken Sepulcher of Sorrows,53.67,Muck Orichalcum Of Ogres,189.00,3769.54,401.45,712443.06,75874.05,425691.24,1214008.35
+15122,Terrorghoul The Unspeakable,The Greedy Wench,32.70,Ghostly Soul Adamant,340.00,3222.96,229.53,1095806.40,78040.20,387369.38,1561215.98
+20316,Metalghoul,Barad Cune,28.60,Zephyr Adamant,252.00,4224.00,113.22,1064448.00,28531.44,316964.04,1409943.48
+22288,Metalghoul,Khali's Delve,52.71,Magicians' Legendary Poison Metal,250.00,2991.55,252.79,747887.50,63197.50,429875.05,1240960.05
+23153,Magus Felldrake,Bergfison's Deep,57.98,Timeiron,138.00,1596.00,276.28,220248.00,38126.64,149857.29,408231.93

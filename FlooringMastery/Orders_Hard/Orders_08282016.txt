@@ -1,0 +1,13 @@
+2038,"Suriel, Lord of Animals",Barad Cune,26.00,Poison Adamant,133.00,298.00,406.38,39634.00,54048.54,24357.46,118040.00
+2420,Burnfreeze The Cold,The Cracked Chalice,2.29,Mana-touched Greenglitter Gold Of Giants,195.00,1173.98,425.00,228926.10,82875.00,6236.02,318037.12
+2841,Lance Knightseraph,The Cracked Chalice,2.29,Phantasmal Smokezephyr Mercury Of Men,245.00,-317.16,69.00,-77704.20,16905.00,-1215.98,-62015.18
+3634,Wheelbolt The Machine,The Bastion of the Lich Tyrant,43.00,Starlight Pearldream Bronze,146.00,266.20,134.00,38865.20,19564.00,25124.56,83553.76
+7969,Spikespawn,The Cuitamba Jungle,30.80,Poison Adamant,207.00,1151.38,58.58,238335.66,12126.06,77643.13,328104.85
+10845,Metalghoul,The Forsaken Sepulcher of Sorrows,48.79,Primordial False Gold,184.00,5395.80,226.00,992827.20,41584.00,506861.49,1541272.69
+11440,"Lionare, God of the Lost",Archring Borough,17.93,Ghostly Magic Adamant,223.00,4836.38,230.90,1078512.74,51490.70,203400.62,1333404.06
+11696,"Melcha, Goddess of Thieves",Archring Borough,17.93,Angels' Smoke Adamant Of The Mountains,279.00,3115.57,236.50,869244.03,65983.50,168340.96,1103568.49
+18273,Magus Felldrake,North Arcanist's Farthing,55.18,Djinni's Spectral Shadowlead Of Life,126.00,4076.49,325.62,513637.74,41028.12,305066.22,859732.08
+20153,Bronzespike,Weke Tower,-0.07,Primordial False Gold,60.00,5395.80,248.60,323748.00,14916.00,0.00,338664.00
+21049,"Maeglodor, God of Thieves",Eved Castle,5.09,Hell Mercury Of The East,163.00,4636.34,378.81,755723.42,61746.03,40873.47,858342.92
+21823,Evilcoil The Machine,Tradun Castle,41.43,Poison Adamant,248.00,1266.52,70.88,314096.96,17578.24,135986.83,467662.03
+23253,Song Runetomb,Pawic Keep,0.62,Mithril Of The Tropics,201.00,4992.58,11.98,1003508.58,2407.98,10059.17,1015975.73

@@ -1,0 +1,20 @@
+12,Evilfear The Horrorific,The Citadel of Cheno,5.00,Toxic Mistlead Of The Past,41.00,1557.54,123.69,63859.14,5071.29,3446.52,72376.95
+685,Beamsprocket The Grasping,The Forsaken Tomb of Devastation,0.00,Litches' Fatal Mithril Of The Past,165.00,1207.25,305.00,199196.25,50325.00,0.00,249521.25
+5382,"Baltha, Goddess of Knowledge",Lordsgate Farthing,37.40,Ensorceled Sandmetal Of Spirits,81.00,2956.98,87.00,239515.38,7047.00,91228.08,337790.46
+6489,"Azah, Goddess of Fate",Grove Farthing,18.00,Unholy Poison Copper Of The Mountains,151.00,580.91,-9.24,87717.41,-1395.24,15537.99,101860.16
+9155,Sephiroth Drakecaster,Minas Gilloy,39.26,Primal Adamant,341.00,5019.08,301.29,1711506.28,102739.89,707556.01,2521802.18
+9241,Gravebone,The Bastion of the Vampire Duke,19.28,Rocklava Mithril Of Revenants,205.00,1818.30,14.33,372751.50,2937.65,71380.94,447070.09
+9836,Beamsprocket The Grasping,Unicorn's Ward,14.64,Golems' Stonesapphire Gold Of The Glacier,369.00,3672.77,105.97,1355252.13,39102.93,209153.26,1603508.32
+10988,Mecharig The Living Device,Fellfen Keep,46.23,Tin Of The Tundra,206.00,2839.87,174.91,585013.22,36031.46,285680.55,906725.23
+11305,Gravebone The Unspeakable,Gena's Hold,2.66,Sapphire Mindlead,229.00,1307.71,47.00,299465.59,10763.00,9306.86,319535.45
+12719,Deathbrood,The Glano Forest,3.00,Sapphire Mindlead,121.00,1307.71,47.00,158232.91,5687.00,4917.60,168837.51
+13834,Gale Jackalguard,The Greedy Wench,32.70,Green Dustlightning Mercury,239.00,4255.57,35.20,1017081.23,8412.80,338413.03,1363907.06
+14351,Springcoil,Lamp Borough,4.95,Emerald Orichalcum,161.00,-405.76,128.90,-65327.36,20752.90,-2228.72,-46803.18
+16157,Nailpiston The Grasping,Peley Keep,26.33,Sirens' Rockgold,233.00,-352.01,199.96,-82018.33,46590.68,-9211.19,-44638.84
+19410,Burnbrood The Freezer,Gifeld Castle,6.22,Toxic Mistlead Of The Past,260.00,1557.54,164.64,404960.40,42806.40,26866.01,474632.81
+19499,Rouge Tombreaper,Fellfen Keep,61.53,Sirens' Rockgold,227.00,-352.01,199.96,-79906.27,45390.92,-21399.52,-55914.87
+19559,"Sielach, God of Fate",Weke Tower,-0.07,Witchs' Forbidden Rockrainbow Bronze,270.00,655.60,425.92,177012.00,114998.40,0.00,292010.40
+21565,Burnbrood The Freezer,The Cuitamba Jungle,33.88,Hidden Shadowice Lead,258.00,2729.00,-62.23,704082.00,-16055.34,233929.06,921955.72
+21598,Shadow Tomblion,The Warrior and Flagon,53.24,Golems' Stonesapphire Gold Of The Glacier,224.00,4444.06,128.23,995469.44,28723.52,542822.27,1567015.23
+21746,"Uriel, God of Fate",The Secret Shrine of the Gargoyle Count,-2.00,Ensorceled Sandmetal Of Spirits,225.00,2956.98,95.70,665320.50,21532.50,-13737.06,673115.94
+22307,"Zepul, Lady of Vengeance",Khali's Delve,52.71,Foul Ice Bronze Of Life,112.00,-101.43,157.06,-11360.16,17590.72,3302.20,9532.76

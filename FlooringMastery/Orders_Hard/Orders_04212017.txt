@@ -1,0 +1,13 @@
+5113,Storm Squallmourner,Gawold Castle,5.00,Magic Adamant,201.00,1838.00,188.76,369438.00,37940.76,20368.94,427747.70
+6382,"Addon, Lord of Death",Grove Farthing,18.00,Foul Ice Bronze Of Life,29.00,-92.21,129.80,-2674.09,3764.20,196.22,1286.33
+6448,Burnbrood The Freezer,Archtemple District,27.76,Emerald Orichalcum,174.00,-368.87,128.90,-64183.38,22428.60,-11691.34,-53446.12
+6979,"Zepul, Lady of Vengeance",Bergfison's Deep,39.60,Otherworldly Mirror Orichalcum,227.00,-247.00,478.50,-56069.00,108619.50,21020.20,73570.70
+8311,"Lenwenye, Goddess of Travel",Minas Gilloy,39.26,Incubi's Iron Of The Dawn,358.00,1200.96,424.31,429943.68,151902.98,226920.20,808766.86
+8925,"Azah, Goddess of Fate",Weke Tower,-0.05,Goddesses' Spectral Poison Steel,141.00,3773.99,269.83,532132.59,38046.03,0.00,570178.62
+13580,Nettool The Grasping,The Broken Shield,37.23,Toxic Mistlead Of The Past,57.00,1557.54,136.06,88779.78,7755.42,35718.02,132253.22
+15221,Rose Anchor,The Forsaken Sepulcher of Sorrows,53.67,Lunar Bronze,235.00,753.86,337.70,177157.10,79359.50,138518.96,395035.56
+17288,Bronzespawn,North Arcanist's Farthing,55.18,Thunderbirds' Transcendent Dreamiron,291.00,2275.25,237.70,662097.75,69170.70,402197.65,1133466.10
+17376,Rouge Tombreaper,Shainan's Hold,23.96,Meteoric Mirrormuck Orichalcum Of The Forests,154.00,2374.02,185.77,365599.08,28608.58,94609.84,488817.50
+21278,Gale Jackalguard,Pewold Keep,22.57,Phantasmal Tin Of The Swamps,277.00,5964.74,-7.99,1652232.98,-2213.23,379504.54,2029524.29
+21592,"Alas, Lord of Plague",Pewold Keep,22.57,Planar Rainfate Mithril,281.00,1304.42,320.52,366542.02,90066.12,105019.87,561628.01
+21724,Jericho Wolf,Pewold Keep,22.57,God-touched Faterainbow Orichalcum Of Spectres,297.00,370.41,35.21,110011.77,10457.37,27707.90,148177.04

@@ -1,0 +1,19 @@
+1297,"Doom" McCoy,UT,0.00,Cedar Planks,269.00,2.00,5.00,538.00,1345.00,0.00,1883.00
+1428,Heather "Tornado" Newman,OK,2.00,Reeds,284.00,0.75,2.00,213.00,568.00,15.62,796.62
+3073,Vengeful Robertson,ND,1.25,Dirt,88.00,0.50,1.00,44.00,88.00,1.32,133.32
+3795,Betty "Happy Thinker" Watson,MO,2.20,Dirt,92.00,0.50,1.00,46.00,92.00,2.76,140.76
+3998,Ida Russell "the Rustler",NM,2.20,Pinecones,155.00,1.50,2.42,232.50,375.10,12.15,619.75
+7089,Susan "Damnation" Fleming,TX,0.50,Solid Oak,229.00,5.50,5.50,1259.50,1259.50,0.00,2519.00
+7115,Elizabeth "the Bully",KS,0.50,Cedar Planks,130.00,2.20,6.05,286.00,786.50,0.00,1072.50
+8164,Beth "Fortunate Shooter" Powell,UT,0.00,Beechwood,143.00,3.00,5.50,429.00,786.50,0.00,1215.50
+8692,Deborah "the Lady",CA,0.55,Packed Dirt,219.00,1.00,1.50,219.00,328.50,5.48,552.98
+9262,Melissa "Lonesome Stalker" Riley,WY,0.31,Pebbles,308.00,0.88,4.84,271.04,1490.72,0.00,1761.76
+9415,Ida Russell "the Rustler",ND,1.25,Solid Oak,258.00,5.50,5.50,1419.00,1419.00,28.38,2866.38
+14388,Heather "Tornado" Newman,AL,1.00,Reeds,221.00,0.75,2.20,165.75,486.20,6.52,658.47
+14866,"Sunrise" Miles,OK,2.42,Dirt,83.00,0.50,1.00,41.50,83.00,2.49,126.99
+16640,Evelyn "Evil Joker" Taylor,UT,0.00,Leather,204.00,11.00,19.97,2244.00,4073.88,0.00,6317.88
+18562,Marie "Raven" Chapman,AR,2.20,Reeds,154.00,0.83,2.20,127.82,338.80,9.33,475.95
+18876,Vengeful Robertson,ND,1.67,Pinecones,242.00,1.50,2.66,363.00,643.72,20.13,1026.85
+19205,Betty "Happy Thinker" Watson,OK,2.42,Cedar Planks,288.00,2.20,6.66,633.60,1918.08,51.03,2602.71
+22832,Cynthia "the Vixen",ID,0.00,Cedar Planks,211.00,2.20,6.66,464.20,1405.26,0.00,1869.46
+23247,Florence "Leather Doc" Grant,ID,0.00,Beechwood,378.00,3.63,6.05,1372.14,2286.90,0.00,3659.04

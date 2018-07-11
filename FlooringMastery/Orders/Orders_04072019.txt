@@ -1,0 +1,13 @@
+1596,Tammy Carlson "the Killer",UT,0.00,Leather,157.00,10.00,15.00,1570.00,2355.00,0.00,3925.00
+9863,Debra "Scorpion" Lane,WY,0.31,Leather,179.00,10.00,18.15,1790.00,3248.85,0.00,5038.85
+10679,Diana "Mistress" Morgan,KS,0.55,Packed Dirt,25.00,1.00,1.50,25.00,37.50,0.62,63.12
+15984,Jacqueline "Riding Doc" Washington,IA,1.21,Dirt,135.00,0.50,1.00,67.50,135.00,2.02,204.52
+16507,"Bane" Jennings,ID,0.00,Brick,261.00,5.32,6.66,1388.52,1738.26,0.00,3126.78
+17642,Elizabeth "the Bully",MS,3.00,Pebbles,52.00,0.88,4.84,45.76,251.68,8.92,306.36
+17795,Stella "the Bully",MO,2.20,Packed Dirt,244.00,1.10,2.20,268.40,536.80,16.10,821.30
+18952,Betty "Happy Thinker" Watson,WY,0.31,Beechwood,166.00,3.63,5.50,602.58,913.00,0.00,1515.58
+19337,Friendly Howell,OK,2.42,Packed Dirt,215.00,1.10,2.20,236.50,473.00,14.19,723.69
+19552,Marie "Raven" Chapman,OK,2.42,Cedar Planks,263.00,2.20,6.66,578.60,1751.58,46.60,2376.78
+21256,Gladys "Locoweed" Keller,TX,0.67,Pinecones,117.00,1.50,2.66,175.50,311.22,4.87,491.59
+22115,Vengeful Robertson,OK,2.93,Leather,197.00,11.00,19.97,2167.00,3934.09,183.03,6284.12
+22704,Susan "Damnation" Fleming,ID,0.00,Cedar Planks,351.00,2.20,6.66,772.20,2337.66,0.00,3109.86

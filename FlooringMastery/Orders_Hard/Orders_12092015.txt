@@ -1,0 +1,23 @@
+511,Lord Mystery,Gifeld Castle,5.65,Tritons' Time Stoneiron Of Legend,283.00,1760.00,168.90,498080.00,47798.70,32752.72,578631.42
+1950,Chainnail,The Dancing Minstrel,21.20,Stone Soulsteel Of The Skies,275.00,1634.80,12.01,449570.00,3302.75,95103.28,547976.03
+2154,Rouge Roguemist,The Tomb of Hellish Ruin,14.00,Magicians' Legendary Poison Metal,119.00,2043.26,229.81,243147.94,27347.39,37869.35,308364.68
+3157,Blazeflare The Cremator,Hafeld Keep,29.00,Vampires' Hammer Emeraldmetal,309.00,344.95,25.84,106589.55,7984.56,33226.49,147800.60
+3317,Nettool The Grasping,Gawold Castle,5.00,Mistgold Of Men,153.00,3065.71,44.00,469053.63,6732.00,23789.28,499574.91
+3444,Emberspawn,Barad Cune,26.00,Yellow Mistearth Copper,73.00,4575.58,-27.40,334017.34,-2000.20,86324.46,418341.60
+4012,"Zepul, Lady of Vengeance",Tradun Castle,31.13,Tritons' Time Stoneiron Of Legend,263.00,1760.00,168.90,462880.00,44420.70,157263.22,664563.92
+4377,Springcoil,Kewold Stronghold,8.87,Succubi's Evil Mindzephyr Adamant Of The Desert,251.00,1990.16,250.07,499530.16,62767.57,50606.80,612904.53
+5033,Chainblade The Cadaverous,Tradun Castle,34.24,Vampires' Hammer Emeraldmetal,308.00,379.45,25.84,116870.60,7958.72,42441.97,167271.29
+7672,Fate Seeker,The Cuitamba Jungle,30.80,Violetstone Tin Of Death,100.00,2245.23,156.10,224523.00,15610.00,74441.23,314574.23
+8273,Chillfire The Chiller,Minas Gilloy,39.26,Foul Ice Bronze Of Life,249.00,-92.21,129.80,-22960.29,32320.20,3650.36,13010.27
+8826,Slayer Claw,The Archer and Scroll,39.60,Primal Adamant,332.00,5019.08,301.29,1666334.56,100028.28,706545.14,2472907.98
+10782,Lord Mystery,The Fortress of Gama,10.16,Stone Soulsteel Of The Skies,233.00,1798.28,13.21,418999.24,3077.93,42207.72,464284.89
+11660,Rouge Tombreaper,Unicorn's Ward,14.64,Pearl Mirrorice Steel Of Changelings,181.00,271.51,38.07,49143.31,6890.67,8405.10,64439.08
+11999,Sephiroth Drakecaster,The Greedy Wench,32.70,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,3349.50,324.73,582813.00,56503.02,210974.29,850290.31
+12937,Chillfire The Chiller,The Desert of Flames,51.91,Forgotten Mithril,283.00,1104.73,316.00,312638.59,89428.00,209074.63,611141.22
+15279,Gravebone,Gili's Delve,-6.73,Glittering Orichalcum,112.00,-158.51,360.23,-17753.12,40345.76,-1581.48,21011.16
+16112,"Eumyan, Goddess of Law",Barad Kesa,4.75,Meteoric Dustzephyr Orichalcum,247.00,375.00,268.49,92625.00,66317.03,7947.10,166889.13
+17612,Lord Mystery,The Cracked Chalice,2.52,Fog Lavaplatinum Of Life,133.00,1078.00,18.70,143374.00,2487.10,4375.83,150236.93
+19581,Sephiroth Drakecaster,Hafeld Keep,46.71,Goddesses' Spectral Poison Steel,310.00,5023.18,296.81,1557185.80,92011.10,775122.54,2424319.44
+20436,Emberspawn,The Broken Arrow,36.39,Golems' Stonesapphire Gold Of The Glacier,210.00,4444.06,116.57,933252.60,24479.70,344783.63,1302515.93
+22208,Snaretool The Constructed,The Bastion of the Lich Tyrant,52.03,Undeads' Mind Orichalcum Of The Twilight,207.00,-17.00,276.00,-3519.00,57132.00,27878.76,81491.76
+23120,Claw Mist,Hafeld Keep,46.71,Pearl Mirrorice Steel Of Changelings,110.00,328.53,55.75,36138.30,6132.50,19867.28,62138.08

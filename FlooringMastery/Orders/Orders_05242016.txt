@@ -1,0 +1,21 @@
+763,Surgeon Grant,WY,0.25,Cedar Planks,266.00,2.00,5.00,532.00,1330.00,0.00,1862.00
+1394,Jo "the Joker",AL,1.00,Reeds,332.00,0.75,2.00,249.00,664.00,9.13,922.13
+2088,Susan "Damnation" Fleming,NV,0.25,Dirt,167.00,0.50,1.00,83.50,167.00,0.00,250.50
+3330,Gloria "Devil" McCoy,NM,2.20,Solid Oak,282.00,5.50,5.00,1551.00,1410.00,59.22,3020.22
+3539,Darlene "Loner" Ford,UT,0.00,Reeds,282.00,0.75,2.00,211.50,564.00,0.00,775.50
+3662,Debra "Scorpion" Lane,OK,2.00,Leather,297.00,10.00,16.50,2970.00,4900.50,157.41,8027.91
+4351,"Bane" Jennings,AR,2.20,Cedar Planks,153.00,2.00,5.50,306.00,841.50,22.95,1170.45
+5021,Michele Watson "the Loner",MT,3.00,Cedar Planks,227.00,2.00,5.50,454.00,1248.50,51.08,1753.58
+5768,Gloria "Devil" McCoy,NV,0.25,Solid Oak,146.00,5.50,5.50,803.00,803.00,0.00,1606.00
+7556,Helen Webb "the Dancer",NM,2.20,Reeds,121.00,0.75,2.20,90.75,266.20,7.14,364.09
+9132,April "Thunderbird" Dunn,ID,0.00,Pinecones,166.00,1.50,2.66,249.00,441.56,0.00,690.56
+10807,Kathy Murphy "the Thinker",IA,1.21,Leather,385.00,10.00,18.15,3850.00,6987.75,108.38,10946.13
+11532,Tammy Carlson "the Killer",UT,0.00,Brick,179.00,4.84,6.66,866.36,1192.14,0.00,2058.50
+13164,Lucky Johnson,UT,0.00,Pebbles,281.00,0.88,4.84,247.28,1360.04,0.00,1607.32
+13937,Ida Russell "the Rustler",KS,0.55,Reeds,273.00,0.75,2.20,204.75,600.60,8.05,813.40
+14220,Jacqueline "Riding Doc" Washington,CA,0.61,Reeds,221.00,0.75,2.20,165.75,486.20,6.52,658.47
+15821,"Doom" McCoy,TX,0.67,Pebbles,170.00,0.88,4.84,149.60,822.80,9.72,982.12
+17872,Dorothy "the Hunter",IA,1.21,Beechwood,229.00,3.63,5.50,831.27,1259.50,20.91,2111.68
+18204,Surgeon Grant,AR,2.20,Packed Dirt,118.00,1.10,2.20,129.80,259.60,7.79,397.19
+21654,Beth "Fortunate Shooter" Powell,ND,1.67,Cedar Planks,171.00,2.20,6.66,376.20,1138.86,30.30,1545.36
+22513,Lucky Johnson,AL,1.00,Solid Oak,109.00,5.50,6.66,599.50,725.94,13.25,1338.69

@@ -1,0 +1,16 @@
+4147,Lightning Brand,The Wizard's House,43.58,Phantasmal Tin Of The Swamps,305.00,4074.00,-6.60,1242570.00,-2013.00,545845.08,1786402.08
+5374,Shadow Tomblion,Gifeld Castle,6.22,Ensorceled Sandmetal Of Spirits,226.00,2956.98,87.00,668277.48,19662.00,41276.37,729215.85
+5424,Seraph Jester,The Wizard's House,43.58,Magic Adamant,270.00,1838.00,188.76,496260.00,50965.20,240779.09,788004.29
+6165,Ironbrood,The Broken Arrow,30.07,Nymphs' Luminous Rotmercury Of The Skies,284.00,292.60,189.00,83098.40,53676.00,41032.32,177806.72
+7192,"Byzou, God of Animals",The Lost Crypts of Sorrows,35.87,Hell Mercury Of The East,273.00,4636.34,284.60,1265720.82,77695.80,483629.98,1827046.60
+7193,Sunrise Godwarlock,Dysley Stronghold,45.98,Unicorns' Evil Mithril,374.00,4802.49,312.00,1796131.26,116688.00,879896.86,2792716.12
+7898,Emberspawn,Barad Kesa,4.32,Violetstone Tin Of Death,184.00,2245.23,156.10,413122.32,28722.40,17673.79,459518.51
+8379,Flameshiver,Grori's Deep,49.95,Djinni's Spectral Shadowlead Of Life,341.00,3705.90,296.02,1263711.90,100942.82,682327.36,2046982.08
+8605,Blazeflare The Cremator,Mahyrst Keep,27.65,Djinni's Spectral Shadowlead Of Life,116.00,3705.90,296.02,429884.40,34338.32,129982.36,594205.08
+8750,"Ingwenel, God of War",The Fen of the Necromancer,54.57,Foul Ice Bronze Of Life,266.00,-92.21,129.80,-24527.86,34526.80,5499.42,15498.36
+9414,Cinderflame,Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,332.00,4777.30,26.40,1586063.60,8764.80,398707.10,1993535.50
+12188,Freezebrood,The Forsaken Tomb of Devastation,0.00,Ghostly Magic Adamant,33.00,4836.38,230.90,159600.54,7619.70,0.00,167220.24
+14944,Ironbrood,Shainan's Hold,23.96,Muck Orichalcum Of Ogres,201.00,3769.54,401.45,757677.54,80691.45,201208.56,1039577.55
+15275,Burnbrood The Freezer,The Fortress of Asmamur,-4.93,Trolls' Rubymercury Of The Sunset,140.00,556.60,217.80,77924.00,30492.00,-5420.80,102995.20
+16883,"Finarfin, God of Protection",Boiaburh Keep,16.00,Planar Rainfate Mithril,229.00,1185.84,320.52,271557.36,73399.08,55193.03,400149.47
+22686,Gravebone,The Demon and Toad,31.61,Legendary Mithril Of The Moon,251.00,3603.15,152.26,904390.65,38217.26,301634.53,1244242.44

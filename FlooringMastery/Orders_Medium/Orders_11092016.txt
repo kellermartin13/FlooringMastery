@@ -1,0 +1,24 @@
+353,Jo "the Joker",MO,2.00,Pinecones,37.00,1.50,2.00,55.50,74.00,2.59,132.09
+2133,Heather "Friendly Gambler" Barrett,MT,3.00,Pebbles,220.00,0.80,4.40,176.00,968.00,34.32,1178.32
+3492,Joanne "Damned" Miles,TX,0.50,Reeds,136.00,0.75,2.00,102.00,272.00,0.00,374.00
+3700,Kathy Murphy "the Thinker",MS,3.00,Pebbles,148.00,0.80,4.40,118.40,651.20,23.09,792.69
+3999,"Doom" McCoy,TX,0.50,Dirt,298.00,0.50,1.00,149.00,298.00,0.00,447.00
+6817,Jacqueline "Riding Doc" Washington,TX,0.50,Beechwood,258.00,3.00,5.00,774.00,1290.00,0.00,2064.00
+7557,Theresa "Kid" Robinson,NV,0.28,Cedar Planks,154.00,2.20,6.05,338.80,931.70,0.00,1270.50
+9567,"Doom" McCoy,OK,2.20,Beechwood,180.00,3.00,5.50,540.00,990.00,30.60,1560.60
+10015,Kathy Murphy "the Thinker",NM,2.20,Leather,304.00,10.00,18.15,3040.00,5517.60,171.15,8728.75
+10691,"Bane" Jennings,OK,2.42,Cedar Planks,139.00,2.20,6.05,305.80,840.95,22.94,1169.69
+11055,Betty "Happy Thinker" Watson,MS,3.00,Leather,253.00,10.00,18.15,2530.00,4591.95,213.66,7335.61
+11705,Cathy "Loner Demon" Murray,WY,0.31,Reeds,50.00,0.75,2.20,37.50,110.00,0.00,147.50
+11826,Vengeful Montgomery,IA,1.21,Packed Dirt,186.00,1.00,1.65,186.00,306.90,4.93,497.83
+12034,Surgeon Grant,AR,2.20,Cedar Planks,178.00,2.20,6.05,391.60,1076.90,29.37,1497.87
+14052,Maureen "Cursed" Andrews,MT,3.99,Brick,220.00,5.32,6.66,1170.40,1465.20,105.42,2741.02
+14794,Victoria "the Dancer",ID,0.00,Leather,144.00,11.00,18.15,1584.00,2613.60,0.00,4197.60
+16274,Theresa "Kid" Robinson,UT,0.00,Leather,147.00,11.00,19.97,1617.00,2935.59,0.00,4552.59
+18390,Geraldine "Revenge" Warren,ID,0.00,Pebbles,147.00,0.88,4.84,129.36,711.48,0.00,840.84
+18436,Vicki "Mesa" Rhodes,MO,2.20,Solid Oak,212.00,5.50,6.66,1166.00,1411.92,51.56,2629.48
+19101,Theresa "Kid" Robinson,IA,1.33,Cedar Planks,145.00,2.20,6.66,319.00,965.70,12.85,1297.55
+20090,Mabel "Vixen Cursed" King,AR,2.20,Dirt,169.00,0.50,1.00,84.50,169.00,5.07,258.57
+20610,Joanne "Damned" Miles,UT,0.00,Cedar Planks,100.00,2.20,6.66,220.00,666.00,0.00,886.00
+20974,Heather "Tornado" Newman,CA,0.67,Packed Dirt,330.00,1.10,2.42,363.00,798.60,11.62,1173.22
+22952,Cathy "Loner Demon" Murray,ND,1.67,Brick,257.00,5.32,6.66,1367.24,1711.62,61.58,3140.44

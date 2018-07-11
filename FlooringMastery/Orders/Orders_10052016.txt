@@ -1,0 +1,19 @@
+1376,Stella "the Bully",NM,2.20,Reeds,109.00,0.75,2.00,81.75,218.00,6.00,305.75
+2502,Diana "Mistress" Morgan,NM,2.20,Dirt,140.00,0.50,1.00,70.00,140.00,4.20,214.20
+5250,Mabel "Vixen Cursed" King,WY,0.31,Reeds,82.00,0.75,2.20,61.50,180.40,0.00,241.90
+6021,Wilma "Tornado" Brooks,AR,2.20,Reeds,300.00,0.75,2.20,225.00,660.00,17.70,902.70
+6718,Vicki "Mesa" Rhodes,MT,3.00,Reeds,64.00,0.75,2.20,48.00,140.80,5.66,194.46
+6857,Heather "Tornado" Newman,TX,0.50,Packed Dirt,100.00,1.00,1.50,100.00,150.00,0.00,250.00
+8380,Allison "Steel Gravedigger" Douglas,NM,2.20,Cedar Planks,130.00,2.20,6.05,286.00,786.50,21.45,1093.95
+10255,Wilma "Tornado" Brooks,TX,0.61,Cedar Planks,187.00,2.20,6.05,411.40,1131.35,15.43,1558.18
+12021,Lucky Johnson,MT,3.63,Brick,253.00,4.84,6.66,1224.52,1684.98,116.38,3025.88
+13147,Betty "Happy Thinker" Watson,IA,1.21,Pinecones,181.00,1.50,2.66,271.50,481.46,7.53,760.49
+13680,Ida Russell "the Rustler",KS,0.55,Beechwood,201.00,3.63,5.50,729.63,1105.50,18.35,1853.48
+14358,Melissa "Lonesome Stalker" Riley,AL,1.00,Brick,209.00,5.32,6.66,1111.88,1391.94,25.04,2528.86
+15219,Elizabeth "the Bully",MS,3.00,Leather,325.00,11.00,18.15,3575.00,5898.75,284.21,9757.96
+17887,Tammy Carlson "the Killer",NM,2.93,Reeds,199.00,0.83,2.20,165.17,437.80,18.09,621.06
+19402,Jacqueline "Riding Doc" Washington,UT,0.00,Pebbles,284.00,0.88,4.84,249.92,1374.56,0.00,1624.48
+21842,Surgeon Grant,MO,2.20,Dirt,192.00,0.55,1.00,105.60,192.00,5.95,303.55
+22656,Dorothy "the Hunter",MT,5.84,Dirt,129.00,0.55,1.00,70.95,129.00,12.00,211.95
+23061,Joanne "Damned" Miles,ND,1.67,Pinecones,30.00,1.50,2.93,45.00,87.90,2.66,135.56
+23230,Betty "Happy Thinker" Watson,ID,0.00,Dirt,298.00,0.55,1.00,163.90,298.00,0.00,461.90

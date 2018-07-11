@@ -1,0 +1,16 @@
+1031,Metalbrood,The Dungeon of Merciless Woe,38.62,Imperial Fate Steel,181.00,2721.75,-37.13,492636.75,-6720.53,189507.33,675423.55
+1485,Evilbrood,The Tower of Aces the Accursed,12.10,Unicorns' Fatal Magma Metal Of The Ocean,232.00,1792.04,357.00,415753.28,82824.00,59829.27,558406.55
+1614,Bronzespawn,The Pilgrim's Cup,41.93,Shadowhell Mithril,205.00,363.00,236.70,74415.00,48523.50,51634.17,174572.67
+1845,Sephiroth Drakecaster,The Forsaken Tomb of Devastation,0.00,Magicians' Legendary Poison Metal,280.00,2043.26,229.81,572112.80,64346.80,0.00,636459.60
+2058,Sunset Knightclaw,The Chuallanto Jungle,37.00,Incubi's Mirrorfog Iron Of The Ocean,220.00,4798.76,-19.59,1055727.20,-4309.80,389024.44,1440441.84
+2709,Terrorghoul The Unspeakable,The Dismal Marsh,5.00,Hell Mercury Of The East,247.00,4636.34,284.60,1145175.98,70296.20,60773.61,1276245.79
+6664,Nailpiston The Grasping,South Brightcrown Borough,42.25,Unholy Poison Copper Of The Mountains,177.00,580.91,-9.24,102821.07,-1635.48,42497.95,143683.54
+8257,"Iran, Lord of Nightmares",The Wizard's House,43.58,Primordial Mud Orichalcum,35.00,-387.90,77.37,-13576.50,2707.95,-4782.16,-15650.71
+8756,"Eumyan, Goddess of Law",Kada's Deep,33.00,Ensorceled Gold Of The Dawn,192.00,5713.98,402.92,1097084.16,77360.64,387566.78,1562011.58
+9014,Dawn Darkzealot,The Archer and Scroll,39.60,Djinni's Evil Sandobsidian Steel Of The Future,196.00,3826.00,157.07,749896.00,30785.72,312272.69,1092954.41
+10187,Sunset Knightclaw,The Broken Shield,37.23,Shadowy Adamant,228.00,618.93,478.58,141116.04,109116.24,92585.94,342818.22
+11127,"Ingwenel, God of War",The Black Barrow of Bery,-0.07,Devils' Falserot Silver,175.00,1668.51,182.71,291989.25,31974.25,0.00,323963.50
+11436,"Byzou, God of Animals",Archring Borough,17.93,Pearl Mirrorice Steel Of Changelings,199.00,271.51,38.07,54030.49,7575.93,11089.16,72695.58
+16489,Bonescare,The Citadel of Cheno,7.33,Ghostly Magic Adamant,77.00,4836.38,230.90,372401.26,17779.30,27312.64,417493.20
+17501,Lightning Brand,The Cracked Chalice,2.52,Sphinxes' Opalpearl Platinum Of Legend,153.00,5805.82,390.81,888290.46,59793.93,28442.53,976526.92
+21931,Snaretool The Constructed,The Tomb of Hellish Ruin,16.94,Ensorceled Sandmetal Of Spirits,341.00,2956.98,95.70,1008330.18,32633.70,176963.86,1217927.74

@@ -1,0 +1,24 @@
+96,"Azah, Goddess of Fate",Love Keep,7.00,Rainbowglitter Tin,137.00,4475.87,176.36,613194.19,24161.32,44614.89,681970.40
+2077,Evilbrood,Barad Cune,26.00,Violetdream Iron,202.00,1224.69,349.36,247387.38,70570.72,82669.11,400627.21
+2190,Slayer Claw,Haukri's Hold,25.30,Angels' Adamant,210.00,1304.00,179.30,273840.00,37653.00,77873.25,389366.25
+3753,Deathbrood,Barad Cune,26.00,Zephyr Iron,240.00,2759.00,404.26,662160.00,97022.40,197387.42,956569.82
+3995,Nailpiston The Grasping,The Archer and Scroll,39.60,Hidden Shadowice Lead,238.00,2729.00,-56.57,649502.00,-13463.66,254415.34,890453.68
+5429,Fate Ivycaster,The Cuitamba Jungle,28.00,Otherworldly Mirror Orichalcum,140.00,-247.00,478.50,-34580.00,66990.00,9074.80,41484.80
+5925,Lance Knightseraph,The Cuitamba Jungle,28.00,Greenlead,362.00,793.10,148.47,287102.20,53746.14,95437.54,436285.88
+6474,Cinderflame,The Dread Hive of Illfang the Kobold Lord,1.33,Magic Adamant,309.00,1838.00,207.64,567942.00,64160.76,6321.03,638423.79
+6608,Clash Lonedrake,The Tower of the Demon Warlord,15.75,Glittering Orichalcum,131.00,-144.10,360.23,-18877.10,47190.13,4530.08,32843.11
+8552,Boltcrank The Trapper,The Forsaken Tomb of Devastation,0.00,Planar Obsidian Mercury Of Wizards,323.00,2574.00,141.57,831402.00,45727.11,0.00,877129.11
+10280,Snarepiston The Mechanical,The Warrior and Flagon,48.40,Ensorceled Gold Of The Dawn,60.00,5713.98,402.92,342838.80,24175.20,176166.72,543180.72
+10666,Sunset Knightclaw,The Dread Hive of Illfang the Kobold Lord,1.33,Icy Shock Silver,140.00,1482.98,407.00,207617.20,56980.00,2645.97,267243.17
+11607,Magus Felldrake,The Bastion of the Lich Tyrant,43.00,Icy Shock Silver,139.00,1482.98,407.00,206134.22,56573.00,112964.10,375671.32
+14133,Chainblade The Cadaverous,The Lost Sanctum of Woe,3.00,Primordial False Gold,312.00,5395.80,226.00,1683489.60,70512.00,52620.05,1806621.65
+14171,Lance Knightseraph,The Citadel of Lord Greywulf,33.04,Phantasmal Lead,185.00,-552.97,245.47,-102299.45,45411.95,-18772.88,-75660.38
+14632,Evilcoil The Machine,Archscepter Borough,3.30,Phantasmal Tin Of The Swamps,251.00,4929.54,-7.26,1237314.54,-1822.26,37064.77,1272557.05
+14652,Snarepiston The Mechanical,Archscepter Borough,3.30,Legendary Mithril Of The Moon,202.00,2707.10,125.84,546834.20,25419.68,17167.62,589421.50
+16118,Tiger Mistmidnight,Haukri's Hold,27.83,Toxin Iceplatinum Of The Undead,288.00,-377.06,-59.29,-108593.28,-17075.52,-35187.26,-160856.06
+17976,Jericho Wolf,North Arcanist's Farthing,55.18,Ensorceled Gold Of The Dawn,250.00,6913.92,443.21,1728480.00,110802.50,1011605.38,2850887.88
+18410,"Maeglodor, God of Thieves",Archfane District,36.16,God-touched Faterainbow Orichalcum Of Spectres,284.00,370.41,32.01,105196.44,9090.84,41143.42,155430.70
+19163,"Gadriel, God of Resurrection",The Citadel of Tattena the Sinister,13.34,Ghostly Soul Adamant,191.00,3222.96,229.53,615585.36,43840.23,85725.33,745150.92
+20522,"Byzou, God of Animals",Tradun Castle,41.43,Undeads' Mind Orichalcum Of The Twilight,271.00,-17.00,276.00,-4607.00,74796.00,28777.49,98966.49
+21640,Cult Godseeker,Pawic Keep,0.62,Angels' Smoke Adamant Of The Mountains,200.00,3427.13,260.15,685426.00,52030.00,7374.56,744830.56
+22442,Bonescare,The Bastion of the Lich Tyrant,52.03,Magicians' Legendary Poison Metal,206.00,2991.55,252.79,616259.30,52074.74,347533.70,1015867.74

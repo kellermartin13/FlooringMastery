@@ -1,0 +1,15 @@
+820,"Doom" McCoy,ND,1.25,Pinecones,273.00,1.50,2.00,409.50,546.00,9.56,965.06
+1029,Evelyn "Evil Joker" Taylor,TX,0.50,Brick,308.00,4.00,5.00,1232.00,1540.00,0.00,2772.00
+1397,Cathy "Wildfire" Neal,OK,2.00,Pinecones,229.00,1.50,2.00,343.50,458.00,16.03,817.53
+1919,Kathy Murphy "the Thinker",NV,0.25,Dirt,156.00,0.50,1.00,78.00,156.00,0.00,234.00
+4223,Vicki "Mesa" Rhodes,ND,1.25,Brick,202.00,4.40,5.50,888.80,1111.00,20.00,2019.80
+6203,"Scalphunter" Kennedy,WY,0.31,Reeds,75.00,0.75,2.20,56.25,165.00,0.00,221.25
+6557,Susan "Damnation" Fleming,ND,1.25,Beechwood,202.00,3.00,5.00,606.00,1010.00,16.16,1632.16
+6566,Wilma "Tornado" Brooks,MS,3.00,Pebbles,270.00,0.80,4.84,216.00,1306.80,45.68,1568.48
+9578,Jacqueline "Riding Doc" Washington,NM,2.20,Beechwood,247.00,3.00,5.50,741.00,1358.50,41.99,2141.49
+10878,Deborah "the Lady",MS,3.00,Reeds,282.00,0.75,2.20,211.50,620.40,24.96,856.86
+11221,Beth "Fortunate Shooter" Powell,AL,1.00,Packed Dirt,179.00,1.00,1.50,179.00,268.50,4.48,451.98
+13289,Stella "the Bully",UT,0.00,Dirt,230.00,0.50,1.00,115.00,230.00,0.00,345.00
+16257,"Scalphunter" Kennedy,IA,1.21,Pebbles,203.00,0.88,4.84,178.64,982.52,11.61,1172.77
+19288,Kathy Murphy "the Thinker",ID,0.00,Beechwood,241.00,3.63,5.50,874.83,1325.50,0.00,2200.33
+23302,Dorothy "the Hunter",MO,2.20,Pebbles,285.00,0.88,5.32,250.80,1516.20,35.34,1802.34

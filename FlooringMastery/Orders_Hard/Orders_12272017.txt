@@ -1,0 +1,15 @@
+1144,Snaretool The Constructed,The Dungeon of Merciless Woe,38.62,Primordial Mud Orichalcum,166.00,-387.90,77.37,-64391.40,12843.42,-20103.71,-71651.69
+3301,"Eumyan, Goddess of Law",Reheath Stronghold,8.00,Unknowable Mindsilver,337.00,3565.00,366.00,1201405.00,123342.00,105979.76,1430726.76
+3407,Cult Godseeker,Barad Cune,26.00,Litches' Fatal Mithril Of The Past,227.00,1207.25,335.50,274045.75,76158.50,91053.10,441257.35
+4572,Flameshiver,The Fen of the Necromancer,45.10,Djinni's Spectral Shadowlead Of Life,173.00,3369.00,296.02,582837.00,51211.46,285321.81,919370.27
+5455,Cult Godseeker,The Dungeon of Merciless Woe,38.62,Negative Rockglitter Mercury Of Trolls,152.00,1483.90,423.07,225552.80,64306.64,113045.18,402904.62
+5503,Gravebone The Unspeakable,Barad Kesa,4.32,Greenlead,323.00,793.10,148.47,256171.30,47955.81,12165.08,316292.19
+5966,"Azah, Goddess of Fate",The Pirate's Pipe,17.60,Muck Orichalcum Of Ogres,149.00,3115.32,301.61,464182.68,44939.89,91642.06,600764.63
+8034,Snaretool The Constructed,The Dungeon of Dismal Terror,-3.50,Planar Obsidian Mercury Of Wizards,216.00,2574.00,141.57,555984.00,30579.12,-23462.52,563100.60
+9122,Springpulley The Binder,Moor Village,57.42,Foul Ice Bronze Of Life,128.00,-92.21,129.80,-11802.88,16614.40,2742.57,7554.09
+11304,"Gadriel, God of Resurrection",The Forsaken Sepulcher of Sorrows,48.79,Green Dustlightning Mercury,82.00,3517.00,35.20,288394.00,2886.40,142727.40,434007.80
+11969,Song Runetomb,Bifar's Deep,18.70,Magicians' Legendary Poison Metal,275.00,2719.59,229.81,747887.25,63197.75,154106.15,965191.15
+12174,Boltcrank The Trapper,Bifar's Deep,18.70,White Platinum,257.00,-52.59,159.50,-13515.63,40991.50,5220.42,32696.29
+17011,Nettool The Grasping,Arcanist's Farthing,3.30,Unholy Poison Copper Of The Mountains,270.00,702.90,-10.16,189783.00,-2743.20,5611.19,192650.99
+17216,Maverick Wind,Shainan's Hold,23.96,Shadowy Adamant,172.00,618.93,526.44,106455.96,90547.68,47280.87,244284.51
+18667,Snaretool The Constructed,The Tomb of Hellish Ruin,16.94,Goddesses' Spectral Poison Steel,242.00,5023.18,296.81,1215609.56,71828.02,218864.39,1506301.97

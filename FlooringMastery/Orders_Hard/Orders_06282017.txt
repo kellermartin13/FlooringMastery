@@ -1,0 +1,25 @@
+66,"Avriel, God of Death",The Citadel of Cheno,5.00,Unicorns' Evil Mithril,204.00,3969.00,312.00,809676.00,63648.00,43666.20,916990.20
+97,Law Lionwatcher,Love Keep,7.00,Green Dustlightning Mercury,182.00,3517.00,32.00,640094.00,5824.00,45214.26,691132.26
+1125,Cult Godseeker,Lamp Borough,4.95,Sapphire Mindlead,164.00,1307.71,47.00,214464.44,7708.00,11108.62,233281.06
+2570,"Ahah, Goddess of Knowledge",The Dismal Marsh,5.00,Unholy Poison Copper Of The Mountains,302.00,528.10,-9.24,159486.20,-2790.48,7834.79,164530.51
+3257,Clash Lonedrake,The Tower of Sabiesu the Awesome,4.40,Planar Mudtin Of Trolls,155.00,2304.41,335.36,357183.55,51980.80,16366.57,425530.92
+3483,Spikerivet,The Bastion of the Lich Tyrant,43.00,Unknowable Mindsilver,270.00,3565.00,366.00,962550.00,98820.00,456389.10,1517759.10
+5341,Bonescare,The Pirate's Pipe,17.60,Ensorceled Sandmetal Of Spirits,10.00,2956.98,87.00,29569.80,870.00,5479.16,35918.96
+5457,Freezebrood,Unicorn's Ward,13.31,Forgotten Mithril,246.00,913.00,316.00,224598.00,77736.00,39303.42,341637.42
+5462,Spikespawn,Gena's Hold,2.20,Mithril Of The Tropics,195.00,3751.00,9.00,731445.00,1755.00,14664.00,747864.00
+5698,"Gadriel, God of Resurrection",The Nulukkhath Spires,10.59,Otherworldly Mirror Orichalcum,117.00,-247.00,478.50,-28899.00,55984.50,2979.40,30064.90
+6556,Terrorghoul The Unspeakable,South Brightcrown Borough,42.25,Grayplatinum,187.00,2506.27,279.06,468672.49,52184.22,218759.82,739616.53
+7065,Chillfire The Chiller,Mahyrst Keep,25.14,Meteoric Dustzephyr Orichalcum,138.00,375.00,244.08,51750.00,33683.04,21358.26,106791.30
+8298,"Sielach, God of Fate",The Khazahol Crags,-1.97,Primordial Mud Orichalcum,137.00,-387.90,77.37,-53142.30,10599.69,850.85,-41691.76
+8522,Song Runetomb,Lacot Stronghold,33.97,Negative Rockglitter Mercury Of Trolls,132.00,1483.90,423.07,195874.80,55845.24,85584.81,337304.85
+9490,Springcoil,The Secret Catacombs of Ulfang the Black,42.90,Spirits' Living Wordhammer Tin Of The Trees,314.00,4777.30,26.40,1500072.20,8289.60,648595.57,2156957.37
+9546,Song Runetomb,Unicorn's Ward,14.64,Spectres' Shadowy Terrorglow Adamant Of Life,244.00,4694.80,205.50,1145531.20,50142.00,179350.98,1375024.18
+11001,"Zepul, Lady of Vengeance",Lacot Stronghold,37.37,Mana-touched Greenglitter Gold Of Giants,214.00,1173.98,467.50,251231.72,100045.00,129972.39,481249.11
+12195,Deathbrood,Gena's Hold,2.66,Unicorns' Evil Mithril,142.00,4802.49,312.00,681953.58,44304.00,21787.73,748045.31
+15055,"Baltha, Goddess of Knowledge",Shainan's Hold,23.96,Mithril Of The Tropics,191.00,4126.10,11.98,788085.10,2288.18,189689.59,980062.87
+18749,Shadow Gust,The Bastion of Barbos,28.34,Sirens' Rockgold,88.00,-352.01,199.96,-30976.88,17596.48,-3746.51,-17126.91
+18947,Ironbrood,The Bastion of Barbos,28.34,Djinni's Mind Fogiron,295.00,2301.02,89.56,678800.90,26420.20,197461.91,902683.01
+20117,Metalghoul,Archtemple District,27.76,Angels' Smoke Adamant Of The Mountains,160.00,3427.13,260.15,548340.80,41624.00,165190.14,755154.94
+21364,"Lenwenye, Goddess of Travel",Pewold Keep,22.57,God-touched Faterainbow Orichalcum Of Spectres,253.00,370.41,35.21,93713.73,8908.13,23603.03,126224.89
+22372,Lance Knightseraph,Bifar's Deep,18.70,Fairies' Supreme Mistsmoke Lead Of The Future,356.00,3349.50,324.73,1192422.00,115603.88,248524.92,1556550.80
+23082,Slayer Claw,Hafeld Keep,46.71,Yellow Mistearth Copper,298.00,6090.10,-33.15,1814849.80,-9878.70,848336.42,2653307.52

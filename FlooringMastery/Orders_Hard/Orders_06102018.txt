@@ -1,0 +1,14 @@
+836,Sunrise Godwarlock,The Broken Shield,37.23,Primordial False Gold,84.00,4459.34,226.00,374584.56,18984.00,145620.37,539188.93
+1718,"Iran, Lord of Nightmares",Gifeld Castle,6.22,Unicorns' Fatal Magma Metal Of The Ocean,44.00,1792.04,357.00,78849.76,15708.00,5673.47,100231.23
+2335,Scarechain The Unspeakable,Boiaburh Keep,16.00,Hell Mercury Of The East,50.00,4636.34,284.60,231817.00,14230.00,39367.52,285414.52
+5178,"Prusu, God of Love",The Warrior and Flagon,48.40,Unicorns' Fatal Magma Metal Of The Ocean,284.00,1792.04,392.70,508939.36,111526.80,297823.76,918289.92
+6100,Deathspike The Terrifying,The Cuitamba Jungle,28.00,Glowpearl Adamant Of Spirits,285.00,361.90,374.00,103141.50,106590.00,58724.82,268456.32
+6321,Nailpiston The Grasping,The Shadow Downs,13.21,Glowpearl Adamant Of Spirits,326.00,361.90,374.00,117979.40,121924.00,31187.44,271090.84
+6433,Flameflare The Evil,South Brightcrown Borough,42.25,Glittering Orichalcum,179.00,-144.10,360.23,-25793.90,64481.17,16248.65,54935.92
+6980,Flameshiver,The Flying Witch,11.45,Djinni's Mind Fogiron,119.00,2301.02,74.02,273821.38,8808.38,31089.27,313719.03
+9408,Cult Godseeker,North Arcanist's Farthing,45.60,Ghostly Magic Adamant,328.00,4836.38,230.90,1586332.64,75735.20,764551.21,2426619.05
+13751,Rouge Roguemist,Khali's Delve,52.71,Shadowhell Mithril,59.00,483.15,286.41,28505.85,16898.19,24064.14,69468.18
+15643,Rose Anchor,Lamp Borough,4.95,Primordial False Gold,201.00,5395.80,248.60,1084555.80,49968.60,56726.22,1191250.62
+18515,Beamsprocket The Grasping,The Forsaken Sepulcher of Sorrows,53.67,Hidden Shadowice Lead,99.00,2729.00,-62.23,270171.00,-6160.77,142565.52,406575.75
+19424,Sunset Knightclaw,The Temple of Merciless Necromancy,50.94,Emerald Orichalcum,180.00,-405.76,128.90,-73036.80,23202.00,-25415.75,-75250.55
+19593,Lightning Brand,Hafeld Keep,46.71,Mithril Of The Tropics,327.00,4538.71,11.98,1484158.17,3917.46,699395.55,2187471.18

@@ -1,0 +1,8 @@
+430,Dawn Darkzealot,Arcanist's Farthing,3.00,Trolls' Mist Poisonplatinum Of The Twilight,275.00,516.17,394.90,141946.75,108597.50,7516.33,258060.58
+5358,Cinderflame,The Warrior and Flagon,48.40,Primordial False Gold,207.00,4459.34,226.00,923083.38,46782.00,465535.38,1435400.76
+7945,Song Runetomb,Barad Kesa,4.32,Meteoric Mirrormuck Orichalcum Of The Forests,359.00,2158.20,185.77,774793.80,66691.43,33659.41,875144.64
+7992,Blazefreeze The Chiller,The Tower of Aramum,42.90,Shadowy Adamant,185.00,618.93,478.58,114502.05,88537.30,87306.92,290346.27
+10630,Claw Mist,The Khazahol Crags,-1.97,Venom Timegold Of Dwarves,275.00,3036.00,269.00,834900.00,73975.00,-18177.50,890697.50
+13683,Blazeflare The Cremator,Arcanist's Farthing,3.00,Legendary Mithril Of The Moon,341.00,2707.10,125.84,923121.10,42911.44,28980.98,995013.52
+22231,Chainhorror,Gawold Castle,6.05,Fairies' Supreme Mistsmoke Lead Of The Future,307.00,3349.50,324.73,1028296.50,99692.11,67679.32,1195667.93
+22233,Claw Mist,Waleah Castle,0.85,Mana-touched Greenglitter Gold Of Giants,205.00,1420.52,514.25,291206.60,105421.25,3966.28,400594.13

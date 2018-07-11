@@ -1,0 +1,17 @@
+3345,Kathy Murphy "the Thinker",MT,3.00,Reeds,75.00,0.75,2.00,56.25,150.00,6.19,212.44
+4371,Dorothy "the Hunter",NM,2.20,Dirt,205.00,0.50,1.00,102.50,205.00,6.15,313.65
+7177,Evelyn "Evil Joker" Taylor,WY,0.31,Packed Dirt,91.00,1.00,1.50,91.00,136.50,0.00,227.50
+9583,"Bane" Jennings,UT,0.00,Reeds,269.00,0.75,2.20,201.75,591.80,0.00,793.55
+9726,Mabel "Vixen Cursed" King,TX,0.55,Packed Dirt,85.00,1.00,1.50,85.00,127.50,2.12,214.62
+10430,Ida Russell "the Rustler",ID,0.00,Pebbles,49.00,0.88,4.84,43.12,237.16,0.00,280.28
+15098,"Bane" Jennings,TX,0.67,Solid Oak,196.00,5.50,5.50,1078.00,1078.00,21.56,2177.56
+15991,Betty "Happy Thinker" Watson,UT,0.00,Brick,274.00,5.32,6.66,1457.68,1824.84,0.00,3282.52
+16609,Vicki "Mesa" Rhodes,MO,2.20,Brick,53.00,5.32,6.66,281.96,352.98,12.70,647.64
+16631,Vengeful Robertson,MO,2.20,Cedar Planks,215.00,2.20,6.05,473.00,1300.75,35.48,1809.23
+16705,Cynthia "the Vixen",KS,0.55,Leather,264.00,11.00,19.97,2904.00,5272.08,81.76,8257.84
+17602,Darlene "Loner" Ford,KS,0.55,Reeds,71.00,0.83,2.20,58.93,156.20,2.15,217.28
+18327,Geraldine "Revenge" Warren,CA,0.61,Pinecones,204.00,1.50,2.66,306.00,542.64,8.49,857.13
+18821,Vengeful Robertson,ID,0.00,Brick,211.00,5.32,6.66,1122.52,1405.26,0.00,2527.78
+20350,Maureen "Cursed" Andrews,AR,2.20,Reeds,191.00,0.83,2.20,158.53,420.20,11.57,590.30
+21375,Diana "Mistress" Morgan,ND,1.67,Cedar Planks,227.00,2.20,6.66,499.40,1511.82,40.22,2051.44
+22183,Friendly Howell,ID,0.00,Reeds,266.00,0.83,2.20,220.78,585.20,0.00,805.98

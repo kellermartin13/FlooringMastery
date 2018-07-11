@@ -1,0 +1,15 @@
+411,Gladys "Locoweed" Keller,MO,2.00,Brick,97.00,4.00,5.00,388.00,485.00,17.46,890.46
+1942,Julia "Bandit" Chandler,NM,2.20,Beechwood,139.00,3.00,5.00,417.00,695.00,22.24,1134.24
+2195,"Sunrise" Miles,MO,2.20,Reeds,245.00,0.75,2.00,183.75,490.00,13.48,687.23
+3377,"Scalphunter" Kennedy,TX,0.50,Pinecones,142.00,1.50,2.20,213.00,312.40,0.00,525.40
+6222,"Scalphunter" Kennedy,MS,3.00,Dirt,259.00,0.50,1.00,129.50,259.00,11.66,400.16
+7881,Gladys "Locoweed" Keller,OK,2.20,Leather,145.00,10.00,18.15,1450.00,2631.75,81.64,4163.39
+9493,Surgeon Grant,TX,0.55,Solid Oak,166.00,5.50,5.50,913.00,913.00,18.26,1844.26
+9781,Vengeful Montgomery,UT,0.00,Packed Dirt,196.00,1.00,1.50,196.00,294.00,0.00,490.00
+10059,April "Thunderbird" Dunn,AL,1.00,Dirt,386.00,0.50,1.00,193.00,386.00,5.79,584.79
+12285,Mattie Grant "the Gambler",TX,0.67,Leather,188.00,11.00,18.15,2068.00,3412.20,54.80,5535.00
+12400,Mattie Grant "the Gambler",AL,1.00,Brick,77.00,4.84,6.66,372.68,512.82,8.86,894.36
+13710,Wilma "Tornado" Brooks,NV,0.31,Leather,94.00,11.00,18.15,1034.00,1706.10,0.00,2740.10
+16688,April "Thunderbird" Dunn,AR,2.20,Dirt,230.00,0.50,1.00,115.00,230.00,6.90,351.90
+21685,Julia "Bandit" Chandler,NV,0.31,Reeds,213.00,0.83,2.20,176.79,468.60,0.00,645.39
+22994,Kathy Murphy "the Thinker",NV,0.31,Beechwood,192.00,3.63,6.05,696.96,1161.60,0.00,1858.56

@@ -1,0 +1,12 @@
+2571,Magus Felldrake,The Bastion of the Lich Tyrant,43.00,Phantasmal Smokezephyr Mercury Of Men,283.00,-317.16,69.00,-89756.28,19527.00,-30198.59,-100427.87
+2668,"Ahah, Goddess of Knowledge",The Bastion of Barbos,21.29,Greenlead,273.00,721.00,134.97,196833.00,36846.81,49072.76,282752.57
+2916,Dawn Darkzealot,The Fortress of Gama,10.16,Shadowhell Mithril,122.00,363.00,260.37,44286.00,31765.14,7605.11,83656.25
+4925,Zeal Bladewitch,The Tower of Sabiesu the Awesome,4.40,Yellow Mistearth Copper,128.00,4575.58,-27.40,585674.24,-3507.20,23286.68,605453.72
+5400,Law Lionwatcher,Arcanist's Farthing,3.00,Sphinxes' Mistsoul Bronze Of The Past,300.00,1972.55,183.70,591765.00,55110.00,19406.25,666281.25
+6808,Wheelspawn,Weke Tower,-0.05,Grayplatinum,352.00,2506.27,279.06,882207.04,98229.12,0.00,980436.16
+9371,"Zepul, Lady of Vengeance",The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,48.00,-368.87,128.90,-17705.76,6187.20,345.56,-11173.00
+14231,Rouge Tombreaper,Lamp Borough,4.95,Primordial False Gold,202.00,5395.80,226.00,1089951.60,45652.00,56780.18,1192383.78
+16484,Dawn Darkzealot,The Broken Arrow,36.39,Forgotten Mithril,76.00,1104.73,347.60,83959.48,26417.60,39735.75,150112.83
+18236,Nettool The Grasping,The Fortress of the Lich Queen,36.35,Trolls' Mist Poisonplatinum Of The Twilight,183.00,567.79,434.39,103905.57,79493.37,66023.62,249422.56
+21528,"Lenwenye, Goddess of Travel",Peley Keep,26.33,Phantasmal Tin Of The Swamps,183.00,5964.74,-7.99,1091547.42,-1462.17,283422.16,1373507.41
+22287,"Finarfin, God of Protection",The Bastion of the Lich Tyrant,52.03,Foul Ice Bronze Of Life,239.00,-101.43,157.06,-24241.77,37537.34,6913.70,20209.27

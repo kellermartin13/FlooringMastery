@@ -1,0 +1,23 @@
+1491,Minnie Lawson "the Apostle",TX,0.50,Pebbles,273.00,0.80,4.40,218.40,1201.20,0.00,1419.60
+1514,Mattie Grant "the Gambler",WY,0.25,Cedar Planks,243.00,2.00,5.00,486.00,1215.00,0.00,1701.00
+3855,Geraldine "Revenge" Warren,UT,0.00,Pebbles,98.00,0.80,4.40,78.40,431.20,0.00,509.60
+4426,Tina "Lady" Anderson,NV,0.25,Brick,120.00,4.40,5.50,528.00,660.00,0.00,1188.00
+4638,Joanne "Damned" Miles,AR,2.20,Beechwood,139.00,3.00,5.00,417.00,695.00,22.24,1134.24
+6643,Tina "Lady" Anderson,KS,0.50,Pebbles,272.00,0.80,4.84,217.60,1316.48,0.00,1534.08
+8693,Michele Watson "the Loner",MT,3.30,Solid Oak,254.00,5.50,5.50,1397.00,1397.00,83.82,2877.82
+9227,Dorothy "the Hunter",NM,2.20,Dirt,100.00,0.50,1.00,50.00,100.00,3.00,153.00
+9510,Julia "Bandit" Chandler,IA,1.21,Cedar Planks,280.00,2.20,6.05,616.00,1694.00,23.10,2333.10
+10065,Tina "Lady" Anderson,AR,2.20,Pinecones,379.00,1.50,2.66,568.50,1008.14,31.53,1608.17
+10437,Marie "Raven" Chapman,AR,2.20,Reeds,79.00,0.75,2.20,59.25,173.80,4.66,237.71
+10510,Amanda Hart "the Loner",AR,2.20,Pebbles,170.00,0.88,4.84,149.60,822.80,19.45,991.85
+12159,"Sunrise" Miles,KS,0.55,Leather,197.00,10.00,18.15,1970.00,3575.55,55.46,5601.01
+12365,Theresa "Kid" Robinson,TX,0.67,Solid Oak,303.00,5.50,5.50,1666.50,1666.50,33.33,3366.33
+13542,Tammy Carlson "the Killer",AL,1.00,Pinecones,184.00,1.50,2.66,276.00,489.44,7.65,773.09
+13996,"Bane" Jennings,CA,0.61,Brick,381.00,5.32,6.66,2026.92,2537.46,45.64,4610.02
+14642,Julia "Bandit" Chandler,NV,0.31,Cedar Planks,216.00,2.20,6.05,475.20,1306.80,0.00,1782.00
+17396,Stella "the Bully",WY,0.31,Pebbles,138.00,0.88,4.84,121.44,667.92,0.00,789.36
+18379,April "Thunderbird" Dunn,ND,1.67,Packed Dirt,166.00,1.10,2.20,182.60,365.20,10.96,558.76
+19148,Amanda Hart "the Loner",OK,2.42,Brick,179.00,5.32,6.66,952.28,1192.14,42.89,2187.31
+20255,Evelyn "Evil Joker" Taylor,IA,1.33,Beechwood,105.00,3.63,6.05,381.15,635.25,10.16,1026.56
+21733,Darlene "Loner" Ford,AR,2.20,Beechwood,103.00,3.63,6.05,373.89,623.15,19.94,1016.98
+22583,Florence "Leather Doc" Grant,KS,0.55,Packed Dirt,327.00,1.10,2.42,359.70,791.34,11.51,1162.55

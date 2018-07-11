@@ -1,0 +1,19 @@
+1534,Friendly Howell,ND,1.25,Pinecones,68.00,1.50,2.00,102.00,136.00,2.38,240.38
+3033,Dorothy "the Hunter",OK,2.00,Pinecones,301.00,1.50,2.20,451.50,662.20,22.27,1135.97
+4149,Mattie Grant "the Gambler",WY,0.31,Cedar Planks,164.00,2.00,5.50,328.00,902.00,0.00,1230.00
+6627,Darlene "Loner" Ford,AL,1.00,Dirt,107.00,0.50,1.00,53.50,107.00,1.60,162.10
+7012,Vanessa "Scalper" Rhodes,MS,3.00,Cedar Planks,346.00,2.20,6.05,761.20,2093.30,85.64,2940.14
+8717,"Doom" McCoy,TX,0.50,Pinecones,66.00,1.50,2.66,99.00,175.56,0.00,274.56
+12006,Jo "the Joker",CA,0.61,Beechwood,272.00,3.30,5.50,897.60,1496.00,23.94,2417.54
+13166,Lena Chapman "the Bully",NV,0.31,Pinecones,162.00,1.50,2.66,243.00,430.92,0.00,673.92
+13182,Julia "Bandit" Chandler,MS,3.00,Packed Dirt,50.00,1.00,2.00,50.00,100.00,4.50,154.50
+14403,Renee "Loco Tracker" Jordan,AR,2.20,Packed Dirt,224.00,1.10,2.00,246.40,448.00,13.89,708.29
+14798,Helen Webb "the Dancer",CA,0.61,Leather,50.00,11.00,18.15,550.00,907.50,14.58,1472.08
+14962,"Sunrise" Miles,NM,2.42,Leather,257.00,11.00,18.15,2827.00,4664.55,149.83,7641.38
+15074,Amanda Hart "the Loner",NV,0.31,Reeds,273.00,0.83,2.20,226.59,600.60,0.00,827.19
+15541,Minnie Lawson "the Apostle",MO,2.20,Reeds,376.00,0.83,2.20,312.08,827.20,22.79,1162.07
+17448,Mattie Grant "the Gambler",TX,0.67,Pinecones,226.00,1.50,2.66,339.00,601.16,9.40,949.56
+17890,Ida Russell "the Rustler",MT,3.99,Dirt,235.00,0.50,1.00,117.50,235.00,14.10,366.60
+19261,Cathy "Wildfire" Neal,ID,0.00,Leather,261.00,11.00,19.97,2871.00,5212.17,0.00,8083.17
+20689,Lorraine "Utah" Adams,MO,2.20,Pebbles,190.00,0.88,4.84,167.20,919.60,21.74,1108.54
+20714,Joanne "Damned" Miles,AR,2.20,Leather,215.00,11.00,19.97,2365.00,4293.55,133.17,6791.72

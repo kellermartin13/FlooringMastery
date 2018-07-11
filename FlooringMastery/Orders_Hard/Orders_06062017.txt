@@ -1,0 +1,17 @@
+1016,"Finarfin, God of Protection",The Shadow Downs,13.21,Mithril Of Legend,29.00,2068.00,52.07,59972.00,1510.03,7992.66,69474.69
+4063,Bronzespike,The Archer and Scroll,39.60,Foulopal Copper Of The Skies,205.00,1221.16,403.00,250337.80,82615.00,133181.12,466133.92
+4337,"Avriel, God of Death",Peley Keep,19.78,Phantasmal Lead,256.00,-457.00,245.47,-116992.00,62840.32,-10830.34,-64982.02
+5926,Scarefear The Blade,Kada's Deep,33.00,Muck Orichalcum Of Ogres,271.00,3115.32,301.61,844251.72,81736.31,305576.05,1231564.08
+6483,Springpulley The Binder,Grove Farthing,18.00,Unholy Poison Copper Of The Mountains,309.00,580.91,-9.24,179501.19,-2855.16,31796.29,208442.32
+8698,"Baltha, Goddess of Knowledge",Unicorn's Ward,14.64,Foul Ice Bronze Of Life,239.00,-92.21,129.80,-22038.19,31022.20,1347.60,10331.61
+10179,Cult Godseeker,The Nulukkhath Spires,10.59,Pearl Mirrorice Steel Of Changelings,171.00,271.51,38.07,46428.21,6509.97,5823.20,58761.38
+10601,Law Lionwatcher,The Dread Hive of Illfang the Kobold Lord,1.33,Shadow Steel,260.00,4677.78,465.30,1216222.80,120978.00,13372.01,1350572.81
+11675,Seraph Jester,The Archer and Scroll,39.60,Thunderbirds' Transcendent Dreamiron,191.00,2275.25,237.70,434572.75,45400.70,191989.38,671962.83
+14579,Cinderflame,Archscepter Borough,3.30,Swordbronze,136.00,1485.01,447.01,201961.36,60793.36,7882.64,270637.36
+19665,Cult Godseeker,Weke Tower,-0.07,God-touched Faterainbow Orichalcum Of Spectres,71.00,370.41,32.01,26299.11,2272.71,0.00,28571.82
+19752,Dagger Reaper,Gifeld Castle,6.22,Sirens' Rockgold,200.00,-352.01,199.96,-70402.00,39992.00,-1824.60,-32234.60
+20985,Nettool The Grasping,Lordsgate Farthing,45.25,Planar Obsidian Mercury Of Wizards,274.00,2831.40,155.73,775803.60,42670.02,368313.13,1186786.75
+21117,Shiverflame The Freezer,South Brightcrown Borough,42.25,Sapphire Mindlead,65.00,1307.71,51.70,85001.15,3360.50,37111.89,125473.54
+21311,Bedlam Spiritraven,The Bastion of Sthasu the Gruesome,14.93,Phantasmal Tin Of The Swamps,257.00,5964.74,-7.99,1532938.18,-2053.43,229632.71,1760517.46
+22479,Burnchill The Evil,Waleah Castle,0.85,Phantasmal Lead,203.00,-669.10,270.02,-135827.30,54814.06,-810.13,-81823.37
+22583,Clash Lonedrake,The Lost Sanctum of Woe,3.30,Fleshshock Mercury,211.00,5879.03,338.07,1240475.33,71332.77,39354.24,1351162.34

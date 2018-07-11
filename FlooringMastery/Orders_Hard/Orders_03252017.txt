@@ -1,0 +1,11 @@
+223,Wind Dire,Gena's Hold,2.00,Unknown Fatelightning Steel Of The Glacier,167.00,1834.00,54.28,306278.00,9064.76,6306.86,321649.62
+247,"Uriel, God of Fate",Gena's Hold,2.00,Planar Obsidian Mercury Of Wizards,228.00,2574.00,117.00,586872.00,26676.00,12270.96,625818.96
+345,Shadow Gust,Tradun Castle,31.13,Unspeakable Rotsoul Mithril Of Souls,212.00,248.00,401.53,52576.00,85124.36,42687.11,180387.47
+2757,Lightning Brand,The Khazahol Crags,-1.97,Unholy Poison Copper Of The Mountains,246.00,528.10,-9.24,129912.60,-2273.04,-2552.79,125086.77
+15616,Emberspawn,The Tower of Sabiesu the Awesome,5.32,God-touched Faterainbow Orichalcum Of Spectres,250.00,370.41,32.01,92602.50,8002.50,5030.25,105635.25
+15917,Metalghoul,The Tower of Sabiesu the Awesome,5.32,Sphinxes' Unknown Poisongold Of The Future,330.00,3910.25,23.86,1290382.50,7873.80,64912.82,1363169.12
+17079,Shadow Gust,The Temple of Merciless Necromancy,50.94,Venom Jewelmetal Of The Desert,193.00,1388.00,298.14,267884.00,57541.02,165966.76,491391.78
+18906,Wind Dire,The Citadel of Tattena the Sinister,13.34,Grayplatinum,254.00,3032.59,306.97,770277.86,77970.38,110272.27,958520.51
+18917,Rune Rougehate,The Citadel of Tattena the Sinister,13.34,Ghostly Soul Adamant,183.00,3222.96,229.53,589801.68,42003.99,82134.74,713940.41
+20691,Emberspawn,The Forsaken Tomb of Devastation,0.00,Greenlead,227.00,959.65,179.65,217840.55,40780.55,0.00,258621.10
+21062,"Ariel, God of Luck",Eved Castle,5.09,Tritons' Time Stoneiron Of Legend,167.00,2129.60,224.81,355643.20,37543.27,19659.32,412845.79

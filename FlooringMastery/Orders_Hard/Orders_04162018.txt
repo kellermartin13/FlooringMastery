@@ -1,0 +1,23 @@
+1347,Metalbrood,The Lazy Sage,15.00,Unicorns' Fatal Magma Metal Of The Ocean,135.00,1792.04,357.00,241925.40,48195.00,43518.06,333638.46
+2435,Harmony Angelchild,Gili's Delve,-4.59,Hell Mercury Of The East,217.00,4636.34,284.60,1006085.78,61758.20,-53392.20,1014451.78
+3005,Rose Anchor,The Tower of Sabiesu the Awesome,4.40,Zephyr Iron,154.00,2759.00,404.26,424886.00,62256.04,19485.68,506627.72
+3099,Lightning Brand,The Archer and Blade,9.00,Zephyr Iron,226.00,2759.00,404.26,623534.00,91362.76,64340.71,779237.47
+3125,"Addon, Lord of Death",The Tower of Sabiesu the Awesome,4.40,Icy Shock Silver,230.00,1225.60,370.00,281888.00,85100.00,14679.52,381667.52
+4137,Rouge Tombreaper,The Secret Shrine of the Gargoyle Count,-2.00,Ensorceled Sandmetal Of Spirits,369.00,2956.98,87.00,1091125.62,32103.00,-22464.57,1100764.05
+5096,Spikecrank,The Warrior and Flagon,48.40,Primordial Plague Mercury Of Legend,278.00,339.81,273.90,94467.18,76144.20,81893.46,252504.84
+6394,Clash Lonedrake,South Brightcrown Borough,42.25,Unknown Fatelightning Steel Of The Glacier,234.00,2017.40,54.28,472071.60,12701.52,203604.71,688377.83
+8996,"Alas, Lord of Plague",The Fen of the Necromancer,54.57,Primal Adamant,299.00,5019.08,301.29,1500704.92,90085.71,874934.85,2465725.48
+9152,Lightning Brand,The Citadel of Tattena the Sinister,12.13,Negative Rockglitter Mercury Of Trolls,235.00,1483.90,465.38,348716.50,109364.30,54969.70,513050.50
+11464,Emberspawn,The Broken Arrow,30.07,Unicorns' Fatal Magma Metal Of The Ocean,205.00,1971.24,392.70,404104.20,80503.50,145382.31,629990.01
+11682,"Gadriel, God of Resurrection",The Barrow of Malefic Ages,17.91,Phantasmal Tin Of The Swamps,158.00,4074.00,-6.60,643692.00,-1042.80,115676.86,758326.06
+12148,Seraphim Tsunami,Ring District,35.00,Incubi's Glittering Tin Of The Future,226.00,3349.54,79.86,756996.04,18048.36,271265.54,1046309.94
+12270,Spikesnare,Archscepter Borough,3.00,Incubi's Glittering Tin Of The Future,236.00,3349.54,79.86,790491.44,18846.96,24280.15,833618.55
+14940,"Gadriel, God of Resurrection",Gena's Hold,2.66,Primordial Mud Orichalcum,302.00,-387.90,85.11,-117145.80,25703.22,-2743.28,-94185.86
+16276,Claw Mist,The Pilgrim's Cup,46.12,Nymphs' Luminous Rotmercury Of The Skies,291.00,292.60,189.00,85146.60,54999.00,64466.98,204612.58
+16332,Mecharig The Living Device,The Pilgrim's Cup,46.12,Lycanthropes' Gold,81.00,4846.18,66.14,392540.58,5357.34,183033.04,580930.96
+16604,Fate Seeker,Lacot Stronghold,45.22,Forgotten Mithril,108.00,1104.73,347.60,119310.84,37540.80,70583.24,227434.88
+18899,Bedlam Spiritraven,Hafeld Keep,46.71,Phantasmal Smokezephyr Mercury Of Men,85.00,-510.81,75.90,-43418.85,6451.50,-17374.65,-54342.00
+19628,Spikebrood The Disinterred,North Grove Ward,7.99,Emerald Orichalcum,227.00,-405.76,128.90,-92107.52,29260.30,-5027.78,-67875.00
+20413,Magus Felldrake,North Arcanist's Farthing,55.18,Toxin Iceplatinum Of The Undead,141.00,-377.06,-59.29,-53165.46,-8359.89,-33838.94,-95364.29
+20470,Jericho Wolf,Barad Kesa,5.23,Phantasmal Lead,256.00,-608.27,270.02,-155717.12,69125.12,-4329.60,-90921.60
+20727,Bronzespawn,The Warrior and Flagon,53.24,Phantasmal Lead,197.00,-608.27,270.02,-119829.19,53193.94,-35316.68,-101951.93

@@ -1,0 +1,20 @@
+154,Magus Felldrake,The Bastion of Barbos,21.29,Unholy Poison Copper Of The Mountains,188.00,528.10,-9.24,99282.80,-1737.12,20484.59,118030.27
+633,Bronzespawn,The Temple of Merciless Necromancy,42.10,Unspeakable Rotsoul Mithril Of Souls,228.00,248.00,401.53,56544.00,91548.84,62198.99,210291.83
+2480,"Lenwenye, Goddess of Travel",The Bastion of the Lich Tyrant,43.00,Mana-touched Greenglitter Gold Of Giants,221.00,1173.98,425.00,259449.58,93925.00,151951.07,505325.65
+5427,Metalbrood,Gena's Hold,2.20,Angels' Adamant,62.00,1304.00,179.30,80848.00,11116.60,1839.29,93803.89
+5532,Evilfear The Horrorific,The Dungeon of Merciless Woe,38.62,White Platinum,295.00,-52.59,145.00,-15514.05,42775.00,10631.77,37892.72
+7072,Valentine Lawslayer,The Forsaken Delve of Lord Greywulf,39.00,Hidden Shadowice Lead,131.00,2729.00,-62.23,357499.00,-8152.13,136245.28,485592.15
+7223,Lord Mystery,The Flying Witch,11.45,Hidden Shadowice Lead,228.00,2729.00,-62.23,622212.00,-14188.44,66882.59,674906.15
+7866,Grave Mistseeker,Lordsgate Farthing,41.14,Planar Obsidian Mercury Of Wizards,276.00,2574.00,141.57,710424.00,39073.32,307293.90,1056791.22
+8119,Rune Rougehate,The Grey Plains,19.97,Unknown Fatelightning Steel Of The Glacier,347.00,2017.40,54.28,700037.80,18835.16,143774.59,862647.55
+8297,"Zepul, Lady of Vengeance",The Forsaken Tomb of Devastation,0.00,Ensorceled Gold Of The Dawn,49.00,5713.98,402.92,279985.02,19743.08,0.00,299728.10
+9674,Nailpiston The Grasping,Unicorn's Ward,14.64,Unicorns' Fatal Magma Metal Of The Ocean,140.00,1792.04,392.70,250885.60,54978.00,45879.54,351743.14
+11390,Bonescare,Lacot Stronghold,37.37,Sapphire Mindlead,327.00,1307.71,47.00,427621.17,15369.00,163906.36,606896.53
+12819,Chainblade The Cadaverous,Archtemple District,27.76,Forgotten Mithril,101.00,1104.73,316.00,111577.73,31916.00,40178.24,183671.97
+13697,Snarepiston The Mechanical,Arcanist's Farthing,3.00,Mithril Of Legend,194.00,2274.80,63.01,441311.20,12223.94,13606.05,467141.19
+15008,"Suriel, Lord of Animals",The Fortress of the Lich Queen,36.35,Primordial Mud Orichalcum,316.00,-387.90,85.11,-122576.40,26894.76,-34445.39,-130127.03
+16229,Deathspike The Terrifying,Fellfen Keep,61.53,God-touched Faterainbow Orichalcum Of Spectres,271.00,370.41,32.01,100381.11,8674.71,67614.61,176670.43
+16325,Fate Seeker,The Bastion of Gothmog of Udun,54.84,Timeiron,28.00,1596.00,251.16,44688.00,7032.48,28446.26,80166.74
+19682,Song Runetomb,Haukri's Hold,27.83,Emerald Orichalcum,108.00,-405.76,128.90,-43822.08,13921.20,-8372.25,-38273.13
+22422,Shadow Gust,The Lewd King,32.67,Violetstone Tin Of Death,174.00,2469.75,171.71,429736.50,29877.54,151672.63,611286.67
+23077,Bolttrap,The Beggar and Cask,25.41,Pearl Mirrorice Steel Of Changelings,61.00,328.53,55.75,20040.33,3400.75,5860.27,29301.35

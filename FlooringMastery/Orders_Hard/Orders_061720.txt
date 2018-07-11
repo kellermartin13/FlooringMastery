@@ -1,0 +1,16 @@
+2126,Rouge Roguemist,Hartshill Ward,41.98,Magicians' Legendary Poison Metal,294.00,2043.26,229.81,600718.44,67564.14,280678.68,948961.26
+2859,Snarepiston The Mechanical,The Demon and Toad,23.75,Icy Shock Silver,377.00,1225.60,370.00,462051.20,139490.00,144369.89,745911.09
+3468,Scarefear The Blade,Lacot Stronghold,30.88,Yellow Mistearth Copper,65.00,4575.58,-27.40,297412.70,-1781.00,91645.83,387277.53
+5344,Spiketerror The Skeletal,Eved Castle,5.09,Ghostly Soul Adamant,193.00,3222.96,229.53,622031.28,44299.29,33316.53,699647.10
+6693,Beamsprocket The Grasping,Weke Tower,-0.05,Timeiron,185.00,1596.00,228.33,295260.00,42241.05,0.00,337501.05
+6778,Snowflame The Evil,Noble's Village,27.50,Foul Ice Bronze Of Life,240.00,-92.21,129.80,-22130.40,31152.00,2526.05,11547.65
+9996,Slayer Claw,The Dark Caverns of Woe,3.29,Pearl Mirrorice Steel Of Changelings,271.00,271.51,38.07,73579.21,10316.97,2516.89,86413.07
+10083,Fate Seeker,The Dismal Marsh,6.05,Meteoric Dustzephyr Orichalcum,195.00,375.00,244.08,73125.00,47595.60,7243.24,127963.84
+13280,Dagger Reaper,Castle Village,41.26,Sapphire Mindlead,227.00,1307.71,47.00,296850.17,10669.00,126082.86,433602.03
+14178,Rune Rougehate,Arcanist's Farthing,3.00,Vampires' Hammer Emeraldmetal,255.00,379.45,25.84,96759.75,6589.20,3100.47,106449.42
+14967,Fate Ivycaster,Grori's Deep,60.45,Ghostly Soul Adamant,183.00,3222.96,229.53,589801.68,42003.99,379083.40,1010889.07
+16800,"Alas, Lord of Plague",The Broken Arrow,36.39,Ensorceled Sandmetal Of Spirits,240.00,2956.98,95.70,709675.20,22968.00,263751.55,996394.75
+18012,"Gono, Goddess of the Earth",Boiaburh Keep,17.60,Litches' Fatal Mithril Of The Past,183.00,1460.78,405.96,267322.74,74290.68,61490.42,403103.84
+20310,Seraphim Tsunami,Grori's Deep,66.50,Rainbowglitter Tin,31.00,5957.39,213.40,184679.09,6615.40,126254.36,317548.85
+21190,Rouge Roguemist,The Fortress of Asmamur,-4.93,Phantasmal Tin Of The Swamps,228.00,5964.74,-7.99,1359960.72,-1821.72,-67906.95,1290232.05
+21526,Bolttrap,The Warrior and Flagon,53.24,Phantasmal Tin Of The Swamps,177.00,5964.74,-7.99,1055758.98,-1414.23,558802.72,1613147.47

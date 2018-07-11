@@ -1,0 +1,19 @@
+1814,Magus Felldrake,The Forsaken Tomb of Devastation,0.00,Incubi's Mirrorfog Iron Of The Ocean,89.00,4798.76,-19.59,427089.64,-1743.51,0.00,425346.13
+2035,Ironbrood,Barad Cune,26.00,Magicians' Legendary Poison Metal,116.00,2043.26,229.81,237018.16,26657.96,68555.79,332231.91
+4888,Blazefreeze The Chiller,The Scoundrel and Flask,-4.58,Meteoric Mirrormuck Orichalcum Of The Forests,255.00,1962.00,185.77,500310.00,47371.35,-27384.07,520297.28
+6456,Maverick Wind,The Tower of Aces the Accursed,13.31,Primal Adamant,356.00,4562.80,273.90,1624356.80,97508.40,223842.48,1945707.68
+6821,Tarot Dawn,Noble's Village,27.50,Grayplatinum,103.00,2506.27,279.06,258145.81,28743.18,80328.92,367217.91
+9603,"Byzou, God of Animals",Haukri's Hold,25.30,Ghostly Magic Adamant,147.00,4836.38,230.90,710947.86,33942.30,186222.54,931112.70
+11584,"Lenwenye, Goddess of Travel",The Archer and Scroll,39.60,Angels' Smoke Adamant Of The Mountains,169.00,3115.57,236.50,526531.33,39968.50,226599.93,793099.76
+11974,Mecharig The Living Device,Lordsgate Farthing,41.14,Magicians' Legendary Poison Metal,61.00,2719.59,229.81,165894.99,14018.41,73764.49,253677.89
+12281,Shadow Gust,The Dismal Marsh,6.05,Toxin Iceplatinum Of The Undead,149.00,-377.06,-59.29,-56181.94,-8834.21,-3900.97,-68917.12
+12413,Shadow Gust,The Citadel of Alammius,3.50,Vampires' Fang Emeraldsilver,117.00,2762.99,455.55,323269.83,53299.35,15062.77,391631.95
+13989,Seraphim Tsunami,The Dark Caverns of Woe,3.29,Shadowhell Mithril,307.00,483.15,286.41,148327.05,87927.87,7087.65,243342.57
+15418,"Zepul, Lady of Vengeance",Barad Kesa,4.75,Unspeakable Rotsoul Mithril Of Souls,22.00,248.00,401.53,5456.00,8833.66,714.48,15004.14
+18765,Beamsprocket The Grasping,The Vaults of the Shadow Emperor,33.00,Primordial Mud Orichalcum,195.00,-469.36,85.11,-91525.20,16596.45,-24726.49,-99655.24
+19871,Spiketerror The Skeletal,The Cracked Chalice,2.52,Rainbowglitter Tin,145.00,5957.39,213.40,863821.55,30943.00,26842.94,921607.49
+20312,Wheelbolt The Machine,The Tomb of Hellish Ruin,16.94,Foulopal Copper Of The Skies,307.00,1787.91,403.00,548888.37,123721.00,114343.59,786952.96
+20358,Dawn Darkzealot,Barad Kesa,5.23,Phantasmal Tin Of The Swamps,196.00,5964.74,-7.99,1169089.04,-1566.04,58376.15,1225899.15
+21104,Sephiroth Drakecaster,Lordsgate Farthing,45.25,Rocklava Mithril Of Revenants,169.00,2200.14,15.76,371823.66,2663.44,168519.20,543006.30
+21857,Lance Knightseraph,Barad Cune,28.60,Phantasmal Lead,86.00,-669.10,270.02,-57542.60,23221.72,-9953.06,-44273.94
+23075,Sunrise Godwarlock,Pawic Keep,0.62,Timeiron,274.00,1596.00,276.28,437304.00,75700.72,5130.05,518134.77

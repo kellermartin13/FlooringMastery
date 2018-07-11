@@ -1,0 +1,17 @@
+1484,Debra "Scorpion" Lane,ID,0.00,Brick,289.00,4.00,5.00,1156.00,1445.00,0.00,2601.00
+2564,Vicki "Mesa" Rhodes,MS,3.00,Pebbles,245.00,0.80,4.40,196.00,1078.00,38.22,1312.22
+2643,Theresa "Scalphunter" Romero,MO,2.20,Dirt,212.00,0.50,1.00,106.00,212.00,6.36,324.36
+3622,Gladys "Locoweed" Keller,MT,3.00,Beechwood,209.00,3.00,5.00,627.00,1045.00,50.16,1722.16
+4012,Jacqueline "Riding Doc" Washington,TX,0.50,Packed Dirt,221.00,1.00,1.50,221.00,331.50,0.00,552.50
+6351,Stella "the Bully",OK,2.20,Cedar Planks,166.00,2.20,5.50,365.20,913.00,25.56,1303.76
+11114,Susan "Damnation" Fleming,TX,0.67,Packed Dirt,186.00,1.00,1.50,186.00,279.00,4.65,469.65
+12397,Heather "Friendly Gambler" Barrett,UT,0.00,Beechwood,99.00,3.30,5.50,326.70,544.50,0.00,871.20
+12741,Mabel "Vixen Cursed" King,IA,1.21,Cedar Planks,135.00,2.20,6.05,297.00,816.75,11.14,1124.89
+13114,"Doom" McCoy,KS,0.55,Pebbles,288.00,0.88,4.84,253.44,1393.92,16.47,1663.83
+13701,Cathy "Wildfire" Neal,AL,1.00,Brick,179.00,5.32,6.66,952.28,1192.14,21.44,2165.86
+15069,Julia "Bandit" Chandler,OK,2.42,Beechwood,126.00,3.63,5.50,457.38,693.00,23.01,1173.39
+15562,Theresa "Kid" Robinson,NV,0.31,Pebbles,272.00,0.88,4.84,239.36,1316.48,0.00,1555.84
+16540,Betty "Happy Thinker" Watson,MT,3.99,Packed Dirt,162.00,1.10,2.20,178.20,356.40,21.38,555.98
+18306,Kathy Murphy "the Thinker",NV,0.31,Cedar Planks,103.00,2.20,6.66,226.60,685.98,0.00,912.58
+21110,Cathy "Loner Demon" Murray,ID,0.00,Pebbles,269.00,0.88,4.84,236.72,1301.96,0.00,1538.68
+21498,Lorraine "Utah" Adams,AR,2.20,Dirt,290.00,0.55,1.00,159.50,290.00,8.99,458.49

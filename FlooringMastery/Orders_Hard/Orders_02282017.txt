@@ -1,0 +1,20 @@
+994,Rose Anchor,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,287.00,4159.62,-27.40,1193810.94,-7863.80,0.00,1185947.14
+1069,"Melcha, Goddess of Thieves",Boiaburh Keep,16.00,Sapphire Mindlead,312.00,1307.71,47.00,408005.52,14664.00,67627.12,490296.64
+7010,Terrorghoul The Unspeakable,The Flying Witch,11.45,Unholy Poison Copper Of The Mountains,126.00,580.91,-9.24,73194.66,-1164.24,7923.35,79953.77
+8842,Sunset Knightclaw,Minas Gilloy,39.26,Djinni's Evil Sandobsidian Steel Of The Future,189.00,3826.00,157.07,723114.00,29686.23,293592.09,1046392.32
+10723,"Lenwenye, Goddess of Travel",The Shadow Downs,13.21,Witchs' Forbidden Rockrainbow Bronze,179.00,596.00,387.20,106684.00,69308.80,22879.06,198871.86
+11516,Scarefear The Blade,The Bastion of the Lich Tyrant,43.00,Unicorns' Fatal Magma Metal Of The Ocean,80.00,1971.24,392.70,157699.20,31416.00,81319.54,270434.74
+11887,Bolttrap,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,386.00,2275.25,237.70,878246.50,91752.20,407399.45,1377398.15
+13025,Dawn Darkzealot,Archtemple District,27.76,Sapphire Mindlead,104.00,1307.71,47.00,136001.84,4888.00,39449.16,180339.00
+13160,Blazefreeze The Chiller,Eved Castle,5.09,Negative Mercury,271.00,4054.87,436.81,1098869.77,118375.51,60862.26,1278107.54
+14044,"Finarfin, God of Protection",Khali's Delve,52.71,Shadowy Adamant,188.00,618.93,526.44,116358.84,98970.72,114124.67,329454.23
+15211,Song Runetomb,The Fortress of the Lich Queen,36.35,Grayplatinum,110.00,2506.27,306.97,275689.70,33766.70,111404.30,420860.70
+16425,Magus Felldrake,Gena's Hold,2.66,Ensorceled Gold Of The Dawn,322.00,6913.92,402.92,2226282.24,129740.24,70680.67,2426703.15
+16520,Bolttrap,The Fortress of Gama,10.16,Ensorceled Sandmetal Of Spirits,279.00,2956.98,95.70,824997.42,26700.30,85169.77,936867.49
+16678,Valentine Lawslayer,Moor Village,76.43,Planar Rainfate Mithril,91.00,1185.84,320.52,107911.44,29167.32,104179.86,241258.62
+17991,Zeal Bladewitch,Grori's Deep,66.50,Negative Rockglitter Mercury Of Trolls,147.00,1632.29,619.42,239946.63,91054.74,218460.90,549462.27
+18665,Tarot Dawn,The Bastion of Barbos,28.34,Primal Adamant,154.00,5520.99,331.42,850232.46,51038.68,252355.92,1153627.06
+18680,"Alik, Goddess of Trickery",The Demon and Toad,28.74,Hidden Shadowice Lead,294.00,2729.00,-62.23,802326.00,-18295.62,227368.81,1011399.19
+19134,Cinderflame,Hafeld Keep,46.71,Incubi's Iron Of The Dawn,244.00,1200.96,424.31,293034.24,103531.64,186385.96,582951.84
+19168,Zeal Bladewitch,The Secret Shrine of the Gargoyle Count,-2.00,Ensorceled Sandmetal Of Spirits,153.00,2956.98,95.70,452417.94,14642.10,-9341.20,457718.84
+20877,Chillfire The Chiller,The Forsaken Hive of Galima the Mighty,29.89,Hell Mercury Of The East,208.00,4636.34,378.81,964358.72,78792.48,312945.36,1356096.56

@@ -1,0 +1,24 @@
+69,Cathy "Wildfire" Neal,ND,1.25,Solid Oak,269.00,5.00,5.00,1345.00,1345.00,26.90,2716.90
+970,Tina "Lady" Anderson,OK,2.00,Beechwood,237.00,3.00,5.00,711.00,1185.00,37.92,1933.92
+1177,Black Beck,NM,2.20,Leather,239.00,10.00,15.00,2390.00,3585.00,119.50,6094.50
+3601,Darlene "Loner" Ford,NM,2.20,Beechwood,134.00,3.00,5.00,402.00,670.00,21.44,1093.44
+3667,Vengeful Montgomery,UT,0.00,Beechwood,57.00,3.00,5.00,171.00,285.00,0.00,456.00
+4095,Vengeful Robertson,WY,0.31,Packed Dirt,263.00,1.00,1.50,263.00,394.50,0.00,657.50
+4846,Vanessa "Scalper" Rhodes,UT,0.00,Solid Oak,333.00,5.50,5.50,1831.50,1831.50,0.00,3663.00
+8488,Debra "Scorpion" Lane,MT,3.30,Brick,231.00,4.84,6.66,1118.04,1538.46,79.70,2736.20
+8814,Michele Watson "the Loner",MO,2.20,Reeds,255.00,0.75,2.20,191.25,561.00,15.04,767.29
+9948,Florence "Leather Doc" Grant,AL,1.00,Cedar Planks,204.00,2.20,6.05,448.80,1234.20,16.83,1699.83
+10603,Jacqueline "Riding Doc" Washington,MS,3.00,Pebbles,230.00,0.88,4.84,202.40,1113.20,39.47,1355.07
+11799,Helen Webb "the Dancer",ID,0.00,Dirt,176.00,0.50,1.00,88.00,176.00,0.00,264.00
+14352,Stella "the Bully",AR,2.20,Solid Oak,54.00,5.50,5.50,297.00,297.00,11.88,605.88
+15919,Cathy "Wildfire" Neal,MT,3.99,Reeds,203.00,0.83,2.20,168.49,446.60,24.60,639.69
+16155,April "Thunderbird" Dunn,NM,2.66,Beechwood,221.00,3.63,5.50,802.23,1215.50,60.53,2078.26
+17757,Elizabeth "the Bully",MT,3.99,Dirt,139.00,0.50,1.00,69.50,139.00,8.34,216.84
+17764,Stella "the Bully",IA,1.21,Leather,243.00,11.00,19.97,2673.00,4852.71,75.26,7600.97
+18927,Michele Watson "the Loner",TX,0.67,Leather,284.00,11.00,19.97,3124.00,5671.48,87.95,8883.43
+18995,Melissa "Lonesome Stalker" Riley,AR,2.20,Packed Dirt,322.00,1.10,2.20,354.20,708.40,21.25,1083.85
+19522,"Scalphunter" Kennedy,IA,1.33,Dirt,268.00,0.50,1.00,134.00,268.00,4.02,406.02
+21873,Lena Chapman "the Bully",NV,0.31,Solid Oak,188.00,5.50,6.66,1034.00,1252.08,0.00,2286.08
+22128,Evelyn "Evil Joker" Taylor,MT,5.84,Cedar Planks,252.00,2.20,6.66,554.40,1678.32,133.96,2366.68
+22259,Evelyn "Evil Joker" Taylor,OK,2.93,Reeds,48.00,0.83,2.20,39.84,105.60,4.36,149.80
+22848,Renee "Hellish Empress" Banks,ID,0.00,Reeds,270.00,0.91,2.42,245.70,653.40,0.00,899.10

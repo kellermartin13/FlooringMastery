@@ -1,0 +1,13 @@
+532,Claw Mist,The Dread Hive of Illfang the Kobold Lord,1.00,Venom Jewelmetal Of The Desert,191.00,1388.00,224.00,265108.00,42784.00,3078.92,310970.92
+583,"Maeglodor, God of Thieves",Arcanist's Farthing,3.00,Poison Adamant,192.00,298.00,406.38,57216.00,78024.96,4057.23,139298.19
+5069,Metalghoul,Lordsgate Farthing,37.40,Rot Silver Of The Past,228.00,3440.00,327.00,784320.00,74556.00,317784.12,1176660.12
+9951,Wheelspawn,The Dismal Marsh,6.05,Djinni's Spectral Shadowlead Of Life,209.00,3705.90,325.62,774533.10,68054.58,50555.26,893142.94
+11046,Sephiroth Drakecaster,Eved Castle,5.09,Ghostly Soul Adamant,70.00,3222.96,229.53,225607.20,16067.10,12083.72,253758.02
+11233,"Melcha, Goddess of Thieves",The Dungeon of Merciless Woe,38.62,Phantasmal Plague Adamant,222.00,-186.03,-7.18,-41298.66,-1593.96,-16728.12,-59620.74
+12299,Seraphim Tsunami,The Glano Forest,3.00,Thunderbirds' Transcendent Dreamiron,306.00,2275.25,237.70,696226.50,72736.20,23068.88,792031.58
+12509,Beamsprocket The Grasping,The Glano Forest,3.00,Vampires' Fang Emeraldsilver,188.00,2762.99,455.55,519442.12,85643.40,18152.57,623238.09
+16292,"Zepul, Lady of Vengeance",Barad Kesa,4.75,Meteoric Dustzephyr Orichalcum,112.00,375.00,268.49,42000.00,30070.88,3603.54,75674.42
+17525,"Finarfin, God of Protection",North Arcanist's Farthing,55.18,Fog Lavaplatinum Of Life,175.00,1078.00,18.70,188650.00,3272.50,105557.38,297479.88
+17815,"Gadriel, God of Resurrection",North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,284.00,2169.81,222.28,616226.04,63127.52,373644.46,1052998.02
+17884,"Ingwenel, God of War",Lamp Borough,4.95,Poison Adamant,365.00,1266.52,64.44,462279.80,23520.60,24290.02,510090.42
+22684,Jericho Wolf,Boiaburh Keep,17.60,Swordbronze,222.00,1485.01,540.88,329672.22,120075.36,80954.56,530702.14

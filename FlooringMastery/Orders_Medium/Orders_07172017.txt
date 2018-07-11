@@ -1,0 +1,11 @@
+557,Renee "Loco Tracker" Jordan,AR,2.20,Cedar Planks,218.00,2.00,5.00,436.00,1090.00,30.52,1556.52
+1432,Surgeon Grant,IA,1.00,Leather,186.00,10.00,15.00,1860.00,2790.00,46.50,4696.50
+2670,Renee "Loco Tracker" Jordan,OK,2.00,Brick,259.00,4.00,5.50,1036.00,1424.50,49.21,2509.71
+3687,Allison "Steel Gravedigger" Douglas,WY,0.31,Brick,259.00,4.00,5.50,1036.00,1424.50,0.00,2460.50
+4012,Kathy Murphy "the Thinker",MT,3.00,Cedar Planks,199.00,2.00,5.50,398.00,1094.50,44.78,1537.28
+5338,"Bane" Jennings,KS,0.50,Brick,65.00,4.84,6.05,314.60,393.25,0.00,707.85
+9286,Heather "Tornado" Newman,NM,2.20,Pinecones,288.00,1.50,2.66,432.00,766.08,23.96,1222.04
+12078,Florence "Leather Doc" Grant,MS,3.00,Pebbles,48.00,0.88,4.84,42.24,232.32,8.24,282.80
+15720,Betty "Happy Thinker" Watson,ND,1.38,Dirt,223.00,0.50,1.00,111.50,223.00,3.34,337.84
+19548,Cathy "Wildfire" Neal,NM,2.93,Packed Dirt,251.00,1.10,2.42,276.10,607.42,26.51,910.03
+20308,Lena Chapman "the Bully",MO,2.20,Beechwood,199.00,3.63,6.05,722.37,1203.95,38.53,1964.85

@@ -1,0 +1,14 @@
+1027,Deathspike The Terrifying,Reyny Keep,11.00,Primordial False Gold,366.00,4459.34,226.00,1632118.44,82716.00,188631.79,1903466.23
+1732,Bolttrap,The Lazy Sage,15.00,Grayplatinum,184.00,2071.30,279.06,381119.20,51347.04,64869.94,497336.18
+3363,Rune Rougehate,Pawic Keep,0.56,Planar Mudtin Of Trolls,140.00,2304.41,335.36,322617.40,46950.40,3695.68,373263.48
+3868,Shadow Tomblion,Grori's Deep,45.41,Yellow Mistearth Copper,276.00,4575.58,-27.40,1262860.08,-7562.40,564883.96,1820181.64
+9054,Shiverflame The Freezer,Kada's Deep,33.00,Angels' Smoke Adamant Of The Mountains,260.00,2832.34,215.00,736408.40,55900.00,261461.77,1053770.17
+11661,Claw Mist,The Bastion of the Lich Tyrant,43.00,Pearl Mirrorice Steel Of Changelings,117.00,271.51,38.07,31766.67,4454.19,15574.97,51795.83
+12336,Maverick Wind,Castle Village,37.51,Transcendent Gold,177.00,-193.60,282.17,-34267.20,49944.09,5957.22,21634.11
+14156,Rune Rougehate,The Secret Shrine of the Gargoyle Count,-2.00,Primordial False Gold,111.00,5395.80,226.00,598933.80,25086.00,-12480.40,611539.40
+17712,Chainhorror,Weke Tower,-0.07,Angels' Smoke Adamant Of The Mountains,267.00,3427.13,260.15,915043.71,69460.05,0.00,984503.76
+17958,Chainblade The Cadaverous,The Nulukkhath Spires,11.65,Trolls' Mist Poisonplatinum Of The Twilight,170.00,567.79,434.39,96524.30,73846.30,20444.47,190815.07
+18068,Gravebone,North Arcanist's Farthing,55.18,Litches' Fatal Mithril Of The Past,240.00,1460.78,405.96,350587.20,97430.40,246409.68,694427.28
+19650,Lightning Brand,Weke Tower,-0.07,Planar Mudtin Of Trolls,344.00,3067.17,405.79,1055106.48,139591.76,0.00,1194698.24
+20352,Magus Felldrake,Barad Kesa,5.23,Zephyr Adamant,360.00,4224.00,113.22,1520640.00,40759.20,78069.96,1639469.16
+22459,Dawn Darkzealot,Palace Farthing,47.64,Primordial Plague Mercury Of Legend,306.00,497.52,301.29,152241.12,92194.74,117329.21,361765.07

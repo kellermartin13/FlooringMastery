@@ -1,0 +1,14 @@
+855,Spikebrood The Disinterred,The Wizard's House,43.58,Phantasmal Lead,152.00,-457.00,245.47,-69464.00,37311.44,-14147.13,-46299.69
+952,Spikecrank,The Barrow of Malefic Ages,17.91,Yellow Mistearth Copper,138.00,4159.62,-27.40,574027.56,-3781.20,102644.34,672890.70
+2022,"Ingwenel, God of War",The Forsaken Tomb of Devastation,0.00,Magicians' Legendary Poison Metal,66.00,2043.26,229.81,134855.16,15167.46,0.00,150022.62
+3739,Maverick Wind,The Wizard's House,43.58,Violetstone Tin Of Death,178.00,2245.23,156.10,399650.94,27785.80,188072.17,615508.91
+9582,Bronzespawn,Haukri's Hold,25.30,Goddesses' Spectral Poison Steel,211.00,3773.99,269.83,796311.89,56934.13,213311.50,1066557.52
+10724,Nettool The Grasping,The Demon and Toad,23.75,Magicians' Legendary Poison Metal,336.00,2472.35,229.81,830709.60,77216.16,217902.18,1125827.94
+10855,Valentine Lawslayer,Eved Castle,5.09,Unspeakable Rotsoul Mithril Of Souls,330.00,248.00,401.53,81840.00,132504.90,10717.24,225062.14
+12924,Sephiroth Drakecaster,The Desert of Flames,51.91,Primordial Plague Mercury Of Legend,83.00,452.29,301.29,37540.07,25007.07,32524.51,95071.65
+13103,Bonescare,The Cracked Chalice,2.52,Primordial Plague Mercury Of Legend,290.00,452.29,301.29,131164.10,87374.10,6556.15,225094.35
+15863,"Gadriel, God of Resurrection",Barad Kesa,4.75,God-touched Faterainbow Orichalcum Of Spectres,133.00,370.41,32.01,49264.53,4257.33,2676.09,56197.95
+17176,Snaretool The Constructed,The Tower of Aces the Accursed,13.31,Shadowy Adamant,143.00,618.93,526.44,88506.99,75280.92,21292.43,185080.34
+20076,Sephiroth Drakecaster,The Bloody Wand,15.97,Incubi's Iron Of The Dawn,209.00,1200.96,424.31,251000.64,88680.79,54349.03,394030.46
+21843,Gale Jackalguard,The Wizard's House,43.58,Meteoric Mirrormuck Orichalcum Of The Forests,332.00,2374.02,185.77,788174.64,61675.64,373934.12,1223784.40
+21849,Harmony Angelchild,The Black Barrow of Bery,-0.10,Poison Adamant,53.00,1266.52,70.88,67125.56,3756.64,0.00,70882.20

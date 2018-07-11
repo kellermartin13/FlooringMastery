@@ -1,0 +1,20 @@
+469,Beamsprocket The Grasping,The Dismal Marsh,5.00,Legendary Mithril Of The Moon,354.00,2461.00,104.00,871194.00,36816.00,45400.50,953410.50
+1377,Metalghoul,The Lazy Sage,15.00,Green Dustlightning Mercury,184.00,3517.00,32.00,647128.00,5888.00,97952.40,750968.40
+1441,"Sielach, God of Fate",The Pilgrim's Cup,41.93,Starlight Pearldream Bronze,205.00,242.00,134.00,49610.00,27470.00,32373.60,109453.60
+5252,Rose Anchor,Eved Castle,5.09,Mithril Of Legend,205.00,2274.80,63.01,466334.00,12917.05,23962.55,503213.60
+7910,"Lenwenye, Goddess of Travel",Lordsgate Farthing,41.14,Shadowy Adamant,285.00,618.93,478.58,176395.05,136395.30,128244.04,441034.39
+9297,Scarefear The Blade,The Fen of the Necromancer,54.57,Negative Rockglitter Mercury Of Trolls,176.00,1483.90,465.38,261166.40,81906.88,188690.30,531763.58
+10904,Lightning Brand,Eved Castle,5.09,God-touched Greengem Platinum,201.00,1281.72,-39.60,257625.72,-7959.60,12483.31,262149.43
+12456,Magus Felldrake,Castle Village,37.51,Incubi's Iron Of The Dawn,145.00,1200.96,424.31,174139.20,61524.95,89552.38,325216.53
+13006,Burnchill The Evil,The Dread Hive of Illfang the Kobold Lord,1.46,Mind Lead,124.00,2844.70,309.10,352742.80,38328.40,3910.71,394981.91
+14170,Jericho Wolf,Dysley Stronghold,45.98,Primordial False Gold,250.00,5395.80,226.00,1348950.00,56500.00,646507.00,2051957.00
+14736,"Zepul, Lady of Vengeance",The Archer and Blade,9.90,Unicorns' Evil Mithril,275.00,4802.49,377.52,1320684.75,103818.00,142450.28,1566953.03
+14842,Nailpiston The Grasping,The Cracked Chalice,2.52,Lunar Bronze,338.00,753.86,337.70,254804.68,114142.60,11068.42,380015.70
+14917,"Byzou, God of Animals",The Greedy Wench,32.70,Grayplatinum,104.00,2506.27,306.97,260652.08,31924.88,96550.40,389127.36
+16096,Spikebrood The Disinterred,Haukri's Hold,27.83,God-touched Faterainbow Orichalcum Of Spectres,196.00,370.41,32.01,72600.36,6273.96,22084.81,100959.13
+17754,Snowflame The Evil,The Grey Plains,19.97,Hidden Shadowice Lead,247.00,2729.00,-62.23,674063.00,-15370.81,131738.44,790430.63
+19050,"Gadriel, God of Resurrection",The Forsaken Delve of Lord Greywulf,42.90,Ensorceled Sandmetal Of Spirits,117.00,2956.98,95.70,345966.66,11196.90,153580.33,510743.89
+19065,Song Runetomb,Hafeld Keep,46.71,Mistgold Of Men,195.00,4488.51,53.24,875259.45,10381.80,416251.39,1301892.64
+19957,Terrorghoul The Unspeakable,The Tomb of Gothmog of Udun,-3.30,Pearl Mirrorice Steel Of Changelings,175.00,328.53,46.07,57492.75,8062.25,-1966.65,63588.35
+20318,Freezebrood,The Dark Caverns of Woe,3.29,Greenlead,175.00,959.65,179.65,167938.75,31438.75,5981.32,205358.82
+21850,Spikespawn,The Grey Plains,21.97,Unknowable Mindsilver,132.00,4313.65,402.60,569401.80,53143.20,136959.90,759504.90

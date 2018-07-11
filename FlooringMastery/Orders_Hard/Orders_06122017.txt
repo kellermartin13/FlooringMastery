@@ -1,0 +1,21 @@
+185,Gravebone The Unspeakable,The Grey Plains,18.15,Zephyr Adamant,147.00,3840.00,102.93,564480.00,15130.71,104329.93,683940.64
+1647,"Ingwenel, God of War",Lacot Stronghold,30.88,Falserainbow Lead,93.00,3215.00,233.00,298995.00,21669.00,99405.84,420069.84
+2509,"Lenwenye, Goddess of Travel",Boiaburh Keep,16.00,Fog Lavaplatinum Of Life,101.00,1078.00,17.00,108878.00,1717.00,17695.20,128290.20
+2930,Lance Knightseraph,The Grey Plains,19.97,Shadowhell Mithril,281.00,363.00,260.37,102003.00,73163.97,35033.39,210200.36
+4351,Beamtrap,The Wizard's House,43.58,Sphinxes' Mistsoul Bronze Of The Past,199.00,1793.23,183.70,356852.77,36556.30,173099.99,566509.06
+4981,Dawn Darkzealot,Tradun Castle,34.24,Meteoric Mirrormuck Orichalcum Of The Forests,176.00,1962.00,185.77,345312.00,32695.52,128522.56,506530.08
+6024,Spiketerror The Skeletal,The Fortress of Gama,10.16,God-touched Greengem Platinum,182.00,1281.72,-36.00,233273.04,-6552.00,22672.10,249393.14
+6486,Wind Dire,The Tower of Aces the Accursed,13.31,Magic Adamant,177.00,1838.00,207.64,325326.00,36752.28,47070.18,409148.46
+7432,Scarechain The Unspeakable,Palace Farthing,43.31,Rot Silver Of The Past,204.00,3440.00,327.00,701760.00,66708.00,330441.24,1098909.24
+7726,Wind Dire,Minas Gilloy,39.26,Mistgold Of Men,334.00,3065.71,48.40,1023947.14,16165.60,405643.97,1445756.71
+12945,Steelterror The Blade,Gawold Castle,6.05,Mind Lead,174.00,2844.70,309.10,494977.80,53783.40,32925.67,581686.87
+13053,Jericho Wolf,The Hunter and Rose,40.40,Tin Of The Tundra,267.00,3123.86,174.91,834070.62,46700.97,352308.64,1233080.23
+13812,"Sielach, God of Fate",Khali's Delve,52.71,Violetstone Tin Of Death,230.00,2469.75,171.71,568042.50,39493.30,321993.97,929529.77
+18474,Sephiroth Drakecaster,Haukri's Hold,27.83,Mana-touched Greenglitter Gold Of Giants,126.00,1291.38,514.25,162713.88,64795.50,63702.63,291212.01
+18727,Rose Anchor,The Tomb of Hellish Ruin,16.94,Primal Adamant,200.00,5520.99,331.42,1104198.00,66284.00,198981.94,1369463.94
+20420,Claw Mist,The Warrior and Flagon,53.24,Unspeakable Rotsoul Mithril Of Souls,278.00,272.80,485.85,75838.40,135066.30,111779.49,322684.19
+20644,Magus Felldrake,The Black Barrow of Zago the Possessed,30.80,Zephyr Adamant,56.00,4224.00,113.22,236544.00,6340.32,75294.14,318178.46
+21675,Evilember The Firey,The Bastion of Sthasu the Gruesome,14.93,Phantasmal Tin Of The Swamps,306.00,5964.74,-7.99,1825210.44,-2444.94,273414.82,2096180.32
+22469,Sephiroth Drakecaster,Palace Farthing,47.64,Foul Ice Bronze Of Life,167.00,-101.43,157.06,-16938.81,26229.02,4459.30,13749.51
+22476,Chainblade The Cadaverous,Palace Farthing,47.64,Foul Ice Bronze Of Life,13.00,-101.43,157.06,-1318.59,2041.78,347.13,1070.32
+22761,Spikesnare,Boiaburh Keep,17.60,Icy Shock Silver,240.00,1631.28,595.89,391507.20,143013.60,96213.74,630734.54

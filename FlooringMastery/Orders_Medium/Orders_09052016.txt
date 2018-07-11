@@ -1,0 +1,10 @@
+382,Lena Chapman "the Bully",AL,1.00,Pinecones,249.00,1.50,2.00,373.50,498.00,8.72,880.22
+2987,"Doom" McCoy,NV,0.25,Packed Dirt,269.00,1.00,1.50,269.00,403.50,0.00,672.50
+5199,Jacqueline "Riding Doc" Washington,CA,0.55,Pinecones,104.00,1.50,2.42,156.00,251.68,4.08,411.76
+10063,Victoria "the Dancer",AR,2.20,Solid Oak,146.00,5.50,5.50,803.00,803.00,32.12,1638.12
+10271,Darlene "Loner" Ford,ND,1.25,Pinecones,210.00,1.50,2.66,315.00,558.60,8.74,882.34
+10589,Marie "Raven" Chapman,NM,2.20,Packed Dirt,256.00,1.00,1.50,256.00,384.00,12.80,652.80
+13950,Tammy Carlson "the Killer",AR,2.20,Reeds,341.00,0.75,2.20,255.75,750.20,20.12,1026.07
+14740,Marie "Raven" Chapman,AR,2.20,Brick,280.00,5.32,6.66,1489.60,1864.80,67.09,3421.49
+15345,Lucky Johnson,WY,0.31,Solid Oak,324.00,5.50,5.50,1782.00,1782.00,0.00,3564.00
+22156,Diana "Mistress" Morgan,MS,3.00,Leather,363.00,11.00,19.97,3993.00,7249.11,337.26,11579.37

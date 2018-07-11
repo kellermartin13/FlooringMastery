@@ -1,0 +1,17 @@
+1009,Grave Mistseeker,The Dungeon of Merciless Woe,38.62,Mithril Of Legend,138.00,2068.00,52.07,285384.00,7185.66,114102.17,406671.83
+1059,Chillfire The Chiller,The Citadel of Alammius,3.18,Mithril Of Legend,79.00,2068.00,52.07,163372.00,4113.53,5024.57,172510.10
+1224,Bedlam Spiritraven,The Wizard's House,43.58,Rainbowglitter Tin,122.00,4475.87,176.36,546056.14,21515.92,249731.71,817303.77
+2372,Rouge Roguemist,The Fortress of the Lich Queen,36.35,Rocklava Mithril Of Revenants,231.00,1818.30,13.03,420027.30,3009.93,152293.40,575330.63
+2845,"Ariel, God of Luck",The Citadel of Lord Greywulf,30.04,Forgotten Mithril,216.00,913.00,316.00,197208.00,68256.00,79639.20,345103.20
+3529,Rouge Tombreaper,The Grey Plains,19.97,Heavenly Dreamsilver Of The Night,365.00,1826.98,112.00,666847.70,40880.00,141545.54,849273.24
+8110,Bonescare,The Dungeon of Dismal Terror,-3.50,Meteoric Mirrormuck Orichalcum Of The Forests,269.00,2158.20,185.77,580555.80,49972.13,-25221.12,605306.81
+8166,Beamsprocket The Grasping,The Forsaken Tomb of Devastation,0.00,Shadowy Adamant,163.00,618.93,478.58,100885.59,78008.54,0.00,178894.13
+10616,"Uriel, God of Fate",Barad Cune,28.60,Yellow Mistearth Copper,248.00,4575.58,-27.40,1134743.84,-6795.20,327105.11,1455053.75
+11058,Freezebrood,Shainan's Hold,23.96,Unspeakable Rotsoul Mithril Of Souls,203.00,248.00,401.53,50344.00,81510.59,31645.10,163499.69
+13801,"Selik, God of Death",Grove Farthing,19.80,Shadowy Adamant,250.00,618.93,526.44,154732.50,131610.00,57268.50,343611.00
+15142,Claw Mist,Minas Gilloy,43.19,Heavenly Dreamsilver Of The Night,43.00,2009.68,112.00,86416.24,4816.00,39229.86,130462.10
+15881,Magus Felldrake,Barad Kesa,4.75,Primordial False Gold,77.00,5395.80,248.60,415476.60,19142.20,21730.94,456349.74
+16367,Blazeflare The Cremator,The Lost Sanctum of Woe,3.30,Lycanthropes' Gold,147.00,4846.18,66.14,712388.46,9722.58,21663.33,743774.37
+17080,Tarot Dawn,The Flying Witch,12.60,Stone Soulsteel Of The Skies,111.00,1798.28,14.53,199609.08,1612.83,26158.85,227380.76
+17735,Sunrise Godwarlock,The Grey Plains,19.97,Fog Lavaplatinum Of Life,129.00,1078.00,18.70,139062.00,2412.30,28294.86,169769.16
+18018,Terrorghoul The Unspeakable,Boiaburh Keep,17.60,Goddesses' Spectral Poison Steel,129.00,4566.53,296.81,589082.37,38288.49,112926.75,740297.61

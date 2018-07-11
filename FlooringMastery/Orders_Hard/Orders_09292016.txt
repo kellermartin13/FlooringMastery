@@ -1,0 +1,20 @@
+126,Evilember The Firey,The Fortress of Asmamur,-4.48,Magicians' Legendary Poison Metal,330.00,2043.26,208.92,674275.80,68943.60,-29728.78,713490.62
+890,"Lenwenye, Goddess of Travel",The Cuitamba Jungle,28.00,Imperial Fate Steel,222.00,2721.75,-37.13,604228.50,-8242.86,166875.98,762861.62
+1933,Sephiroth Drakecaster,Hartshill Ward,41.98,Poison Adamant,76.00,298.00,406.38,22648.00,30884.88,22483.81,76016.69
+2241,Dawn Darkzealot,Tower Farthing,22.41,Djinni's Evil Sandobsidian Steel Of The Future,161.00,3826.00,157.07,615986.00,25288.27,141080.34,782354.61
+5428,Sunrise Godwarlock,Boiaburh Keep,16.00,White Platinum,347.00,-52.59,145.00,-18248.73,50315.00,5130.60,37196.87
+5615,Deathbrood,The Cuitamba Jungle,28.00,Angels' Adamant,164.00,1304.00,179.30,213856.00,29405.20,68113.14,311374.34
+8256,Springsprocket,Tradun Castle,34.24,Glowpearl Adamant Of Spirits,187.00,398.09,374.00,74442.83,69938.00,49089.48,193470.31
+9635,Claw Mist,Lamp Borough,4.95,Emerald Orichalcum,140.00,-368.87,128.90,-51641.80,18046.00,-1679.79,-35275.59
+9678,Snowflame The Evil,Tower Farthing,27.12,Golems' Stonesapphire Gold Of The Glacier,143.00,3672.77,105.97,525206.11,15153.71,145897.15,686256.97
+11640,"Lenwenye, Goddess of Travel",The Archer and Scroll,39.60,Ghostly Magic Adamant,367.00,4836.38,230.90,1774951.46,84740.30,743876.70,2603568.46
+12999,Shiverflame The Freezer,Archtemple District,27.76,Phantasmal Smokezephyr Mercury Of Men,250.00,-464.37,75.90,-116092.50,18975.00,-27192.90,-124310.40
+13529,Lance Knightseraph,Arcanist's Farthing,3.00,Muck Orichalcum Of Ogres,138.00,3426.85,364.95,472905.30,50363.10,15698.05,538966.45
+13998,"Alas, Lord of Plague",The Bastion of Gothmog of Udun,54.84,Spectres' Shadowy Terrorglow Adamant Of Life,134.00,5164.28,248.66,692013.52,33320.44,398933.68,1124267.64
+14648,Scarefear The Blade,The Citadel of Alammius,3.50,Phantasmal Tin Of The Swamps,274.00,4929.54,-7.26,1350693.96,-1989.24,53948.19,1402652.91
+14738,Burnbrood The Freezer,The Tower of Sabiesu the Awesome,5.32,Ensorceled Sandmetal Of Spirits,268.00,2956.98,95.70,792470.64,25647.60,40905.91,859024.15
+19281,Tiger Mistmidnight,Reyny Keep,11.00,Mind Lead,240.00,3442.09,374.01,826101.60,89762.40,100745.04,1016609.04
+20404,Sephiroth Drakecaster,Weke Tower,-0.07,Phantasmal Lead,157.00,-608.27,270.02,-95498.39,42393.14,0.00,-53105.25
+21161,Springcoil,Moor Village,76.43,God-touched Faterainbow Orichalcum Of Spectres,182.00,370.41,35.21,67414.62,6408.22,56105.36,129928.20
+21953,Flora Amberslayer,Lamp Borough,4.95,Otherworldly Truesoul Orichalcum Of The East,358.00,1061.78,392.65,380117.24,140568.70,26034.30,546720.24
+22580,Valentine Lawslayer,The Lost Sanctum of Woe,3.30,Hidden Shadowice Lead,175.00,2729.00,-62.23,477575.00,-10890.25,14000.54,480685.29

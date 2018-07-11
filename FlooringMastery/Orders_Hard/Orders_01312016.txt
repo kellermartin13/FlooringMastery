@@ -1,0 +1,20 @@
+322,Blazefreeze The Chiller,Barad Kesa,4.32,Nymphs' Luminous Rotmercury Of The Skies,247.00,266.00,189.00,65702.00,46683.00,4495.40,116880.40
+1649,Shiverflame The Freezer,Tradun Castle,31.13,Green Dustlightning Mercury,230.00,3517.00,32.00,808910.00,7360.00,253043.70,1069313.70
+2988,Evilbrood,The Bastion of the Vampire Duke,19.28,Vampires' Hammer Emeraldmetal,314.00,344.95,25.84,108314.30,8113.76,22121.33,138549.39
+7660,Valentine Lawslayer,Minas Gilloy,39.26,Heavenly Dreamsilver Of The Night,261.00,2009.68,112.00,524526.48,29232.00,215965.81,769724.29
+8776,Valentine Lawslayer,The Beggar and Cask,23.10,Rocklava Mithril Of Revenants,90.00,1818.30,14.33,163647.00,1289.70,37935.44,202872.14
+9521,"Selik, God of Death",Lamp Borough,4.95,Golems' Stonesapphire Gold Of The Glacier,140.00,3672.77,105.97,514187.80,14835.80,26451.18,555474.78
+9719,Bonescare,The Tomb of Gothmog of Udun,-3.00,Spirits' Living Wordhammer Tin Of The Trees,154.00,4777.30,26.40,735704.20,4065.60,-22193.09,717576.71
+9831,Freezebrood,Unicorn's Ward,14.64,Shadow Steel,297.00,4677.78,465.30,1389300.66,138194.10,229124.21,1756618.97
+10593,Metalbrood,The Citadel of Lord Greywulf,33.04,Venom Timegold Of Dwarves,147.00,3036.00,269.00,446292.00,39543.00,160325.55,646160.55
+10835,Flameshiver,Pawic Keep,0.56,Primordial False Gold,364.00,5395.80,226.00,1964071.20,82264.00,20463.35,2066798.55
+11656,Chainnail,The Archer and Scroll,39.60,Ghostly Magic Adamant,106.00,4836.38,230.90,512656.28,24475.40,214852.67,751984.35
+12604,Lightning Brand,The Cracked Chalice,2.52,Mistgold Of Men,255.00,3372.28,53.24,859931.40,13576.20,26205.23,899712.83
+13224,Spikecrank,The Warrior and Flagon,53.24,Mistgold Of Men,264.00,3709.51,53.24,979310.64,14055.36,526483.98,1519849.98
+15139,"Penur, Lord of the Sea",The Cuitamba Jungle,30.80,Legendary Mithril Of The Moon,327.00,2707.10,125.84,885221.70,41149.68,287175.13,1213546.51
+15717,Spikebrood The Disinterred,Noble's Village,30.25,Sphinxes' Unknown Poisongold Of The Future,265.00,3910.25,23.86,1036216.25,6322.90,312761.74,1355300.89
+16382,Sunrise Godwarlock,Pewold Keep,22.57,God-touched Faterainbow Orichalcum Of Spectres,125.00,370.41,32.01,46301.25,4001.25,11569.58,61872.08
+16502,Seraphim Tsunami,Lacot Stronghold,45.22,Fleshshock Mercury,172.00,4858.70,338.07,835696.40,58148.04,402230.00,1296074.44
+16519,Chainhorror,The Forsaken Tomb of Devastation,0.00,Starlight Pearldream Bronze,230.00,322.10,147.40,74083.00,33902.00,0.00,107985.00
+17266,Burnchill The Evil,The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,361.00,398.09,374.00,143710.49,135014.00,8361.73,287086.22
+18140,Jericho Wolf,The Nulukkhath Spires,11.65,Ensorceled Gold Of The Dawn,106.00,6913.92,443.21,732875.52,46980.26,93582.69,873438.47

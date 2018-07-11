@@ -1,0 +1,21 @@
+1189,Kathy Murphy "the Thinker",OK,2.00,Packed Dirt,174.00,1.00,1.50,174.00,261.00,8.70,443.70
+5185,Wilma "Tornado" Brooks,MT,3.00,Pebbles,223.00,0.80,4.40,178.40,981.20,34.79,1194.39
+6933,Cathy "Wildfire" Neal,AR,2.20,Leather,141.00,10.00,18.15,1410.00,2559.15,79.38,4048.53
+8087,Surgeon Grant,TX,0.50,Solid Oak,170.00,5.50,5.50,935.00,935.00,0.00,1870.00
+8574,Kathy Murphy "the Thinker",MT,3.30,Reeds,318.00,0.75,2.20,238.50,699.60,28.14,966.24
+8793,Marie "Raven" Chapman,MO,2.20,Pinecones,234.00,1.50,2.66,351.00,622.44,19.47,992.91
+9336,Tammy Carlson "the Killer",AL,1.00,Cedar Planks,250.00,2.20,6.05,550.00,1512.50,20.62,2083.12
+10879,Cathy "Loner Demon" Murray,MS,3.00,Pebbles,177.00,0.88,4.84,155.76,856.68,30.37,1042.81
+11404,Susan "Damnation" Fleming,MS,3.00,Beechwood,95.00,3.00,5.50,285.00,522.50,24.22,831.72
+11628,Debra "Scorpion" Lane,TX,0.67,Solid Oak,113.00,5.50,5.50,621.50,621.50,12.43,1255.43
+12498,Jacqueline "Riding Doc" Washington,NM,2.42,Cedar Planks,109.00,2.20,6.05,239.80,659.45,17.98,917.23
+13418,Stella "the Bully",IA,1.21,Dirt,170.00,0.50,1.00,85.00,170.00,2.55,257.55
+14732,Gloria "Devil" McCoy,MS,3.00,Brick,208.00,5.32,6.66,1106.56,1385.28,74.76,2566.60
+14778,Cynthia "the Vixen",TX,0.67,Dirt,173.00,0.50,1.00,86.50,173.00,2.60,262.10
+15746,Vicki "Mesa" Rhodes,UT,0.00,Brick,139.00,5.32,6.66,739.48,925.74,0.00,1665.22
+18190,Beth "Fortunate Shooter" Powell,IA,1.33,Brick,183.00,5.32,6.66,973.56,1218.78,21.92,2214.26
+19004,Joanne "Damned" Miles,AR,2.20,Pinecones,322.00,1.50,2.66,483.00,856.52,26.79,1366.31
+21462,Amanda Hart "the Loner",NV,0.31,Pebbles,201.00,0.88,4.84,176.88,972.84,0.00,1149.72
+22467,Vengeful Robertson,MT,5.84,Leather,313.00,11.00,19.97,3443.00,6250.61,581.62,10275.23
+22661,Debra "Scorpion" Lane,AL,1.00,Reeds,33.00,0.91,2.42,30.03,79.86,1.10,110.99
+22846,Friendly Howell,UT,0.00,Leather,235.00,11.00,19.97,2585.00,4692.95,0.00,7277.95

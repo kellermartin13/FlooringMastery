@@ -1,0 +1,11 @@
+2237,Evilember The Firey,Haukri's Hold,25.30,Magicians' Legendary Poison Metal,283.00,2043.26,229.81,578242.58,65036.23,160819.70,804098.51
+2270,"Azah, Goddess of Fate",The Dancing Minstrel,21.20,Stone Soulsteel Of The Skies,219.00,1634.80,12.01,358021.20,2630.19,75736.79,436388.18
+3283,Lord Mystery,The Temple of Merciless Necromancy,50.94,Heavenly Dreamsilver Of The Night,308.00,1826.98,112.00,562709.84,34496.00,304574.98,901780.82
+10339,Terrorghoul The Unspeakable,The Warrior and Flagon,48.40,Magicians' Legendary Poison Metal,353.00,2247.59,229.81,793399.27,81122.93,419770.66,1294292.86
+13432,Scarechain The Unspeakable,The Pilgrim's Cup,46.12,Toxic Mistlead Of The Past,68.00,1557.54,136.06,105912.72,9252.08,52975.81,168140.61
+14226,"Maeglodor, God of Thieves",The Lewd King,27.00,Pearl Mirrorice Steel Of Changelings,282.00,298.66,41.88,84222.12,11810.16,25928.72,121961.00
+16295,Harmony Angelchild,Haukri's Hold,27.83,Meteoric Dustzephyr Orichalcum,275.00,375.00,268.49,103125.00,73834.75,49548.73,226508.48
+20381,"Selik, God of Death",Bergfison's Deep,52.71,Vampires' Fang Emeraldsilver,207.00,3343.22,455.55,692046.54,94298.85,416763.06,1203108.45
+20858,Snarepiston The Mechanical,Lordsgate Farthing,45.25,Negative Rockglitter Mercury Of Trolls,192.00,1795.52,681.36,344739.84,130821.12,214002.43,689563.39
+22079,Seraphim Tsunami,Barad Cune,28.60,Meteoric Mirrormuck Orichalcum Of The Forests,208.00,2374.02,185.77,493796.16,38640.16,154406.53,686842.85
+22222,Springcoil,Palace Farthing,47.64,Phantasmal Lead,243.00,-669.10,270.02,-162591.30,65614.86,-46548.69,-143525.13

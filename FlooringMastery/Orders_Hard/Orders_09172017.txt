@@ -1,0 +1,10 @@
+635,"Lionare, God of the Lost",The Fortress of the Lich Queen,36.35,Litches' Fatal Mithril Of The Past,199.00,1207.25,305.00,240242.75,60695.00,108337.59,409275.34
+5942,Lightning Brand,The Archer and Blade,9.00,Fairies' Supreme Mistsmoke Lead Of The Future,377.00,3349.50,324.73,1262761.50,122423.21,124666.62,1509851.33
+6109,Valentine Lawslayer,The Bastion of the Lich Tyrant,43.00,Tritons' Time Stoneiron Of Legend,266.00,1760.00,168.90,468160.00,44927.40,220627.58,733714.98
+8419,Beamtrap,The Forsaken Tomb of Devastation,0.00,Shadowy Adamant,181.00,618.93,478.58,112026.33,86622.98,0.00,198649.31
+13084,Grave Mistseeker,Reheath Stronghold,8.00,Phantasmal Smokezephyr Mercury Of Men,189.00,-464.37,75.90,-87765.93,14345.10,-5873.67,-79294.50
+15156,Emberfire,Grori's Deep,60.45,Muck Orichalcum Of Ogres,143.00,3769.54,401.45,539044.22,57407.35,357870.94,954322.51
+18009,Deathspike The Terrifying,Boiaburh Keep,17.60,Poison Adamant,226.00,1266.52,64.44,286233.52,14563.44,54143.45,354940.41
+21184,"Gadriel, God of Resurrection",The Bastion of Sthasu the Gruesome,14.93,Golems' Stonesapphire Gold Of The Glacier,173.00,4444.06,128.23,768822.38,22183.79,118650.93,909657.10
+21628,"Selik, God of Death",Eved Castle,5.09,God-touched Faterainbow Orichalcum Of Spectres,127.00,370.41,35.21,47042.07,4471.67,2575.69,54089.43
+23112,Freezebrood,Pawic Keep,0.62,Mithril Of The Tropics,33.00,4992.58,11.98,164755.14,395.34,1651.50,166801.98

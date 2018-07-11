@@ -1,0 +1,17 @@
+785,"Lionare, God of the Lost",The Cuitamba Jungle,28.00,Sapphire Mindlead,187.00,1307.71,47.00,244541.77,8789.00,70932.62,324263.39
+2588,Burnfreeze The Cold,The Dismal Marsh,5.00,Negative Mercury,263.00,4054.87,361.00,1066430.81,94943.00,58068.69,1219442.50
+2685,Emberspawn,The Cracked Chalice,2.29,Ghostly Soul Adamant,171.00,2929.96,189.69,501023.16,32436.99,10669.20,544129.35
+2869,Slayer Claw,The Tower of Sabiesu the Awesome,4.40,Phantasmal Smokezephyr Mercury Of Men,327.00,-317.16,69.00,-103711.32,22563.00,-3245.93,-84394.25
+3176,Snarepiston The Mechanical,Kada's Deep,30.00,Phantasmal Smokezephyr Mercury Of Men,242.00,-317.16,69.00,-76752.72,16698.00,-18016.42,-78071.14
+3679,Emberspawn,North Arcanist's Farthing,41.45,Heavenly Dreamsilver Of The Night,263.00,1826.98,112.00,480495.74,29456.00,209080.21,719031.95
+5505,Flora Amberslayer,Barad Kesa,4.32,Mistgold Of Men,209.00,3065.71,44.00,640733.39,9196.00,25997.18,675926.57
+9979,Bronzespawn,The Dark Caverns of Woe,3.29,Shadowy Adamant,98.00,618.93,478.58,60655.14,46900.84,3226.68,110782.66
+11376,Tarot Dawn,Ring District,35.00,Ghostly Soul Adamant,137.00,3222.96,229.53,441545.52,31445.61,165546.90,638538.03
+12205,Burnbrood The Freezer,The Black Barrow of Bery,-0.07,Ghostly Magic Adamant,193.00,4836.38,230.90,933421.34,44563.70,0.00,977985.04
+14721,Scarefear The Blade,The Archer and Scroll,39.60,Phantasmal Tin Of The Swamps,224.00,4929.54,-7.26,1104216.96,-1626.24,441036.29,1543627.01
+15602,"Eumyan, Goddess of Law",The Glano Forest,3.00,Unicorns' Fatal Magma Metal Of The Ocean,302.00,2168.36,431.97,654844.72,130454.94,23558.99,808858.65
+16434,Wheelspawn,Reyny Keep,11.00,Shadowhell Mithril,338.00,483.15,315.05,163304.70,106486.90,29677.08,299468.68
+20102,Evilbrood,The Warrior and Flagon,53.24,Unicorns' Evil Mithril,295.00,4802.49,377.52,1416734.55,111368.40,809894.56,2337997.51
+20477,Magus Felldrake,North Arcanist's Farthing,55.18,Undeads' Mind Orichalcum Of The Twilight,226.00,-17.00,276.00,-3842.00,62376.00,32193.70,90727.70
+21544,"Ariel, God of Luck",Moor Village,76.43,Angels' Smoke Adamant Of The Mountains,296.00,3427.13,260.15,1014430.48,77004.40,829490.51,1920925.39
+22219,Rouge Roguemist,The Forsaken Delve of Lord Greywulf,42.90,Mana-touched Greenglitter Gold Of Giants,176.00,1420.52,514.25,250011.52,90508.00,146423.39,486942.91

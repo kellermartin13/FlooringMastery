@@ -1,0 +1,20 @@
+2007,Spikecrank,Barad Cune,26.00,Incubi's Mirrorfog Iron Of The Ocean,264.00,4798.76,-19.59,1266872.64,-5171.76,328042.23,1589743.11
+2121,Magus Felldrake,The Forsaken Tomb of Devastation,0.00,Planar Mudtin Of Trolls,28.00,2094.92,335.36,58657.76,9390.08,0.00,68047.84
+4026,"Lionare, God of the Lost",Gifeld Castle,6.22,Spirits' Living Wordhammer Tin Of The Trees,312.00,4343.00,26.40,1355016.00,8236.80,81795.17,1445047.97
+6163,Icechill The Frigid,The Cuitamba Jungle,28.00,Primordial Plague Mercury Of Legend,131.00,373.79,273.90,48966.49,35880.90,23757.27,108604.66
+6311,"Melcha, Goddess of Thieves",The Cuitamba Jungle,28.00,Glowpearl Adamant Of Spirits,121.00,361.90,374.00,43789.90,45254.00,24932.29,113976.19
+7250,Bedlam Spiritraven,Barad Kesa,4.32,Unicorns' Evil Mithril,28.00,4802.49,312.00,134469.72,8736.00,5728.23,148933.95
+7647,"Gadriel, God of Resurrection",The Dungeon of Dismal Terror,-3.50,Planar Obsidian Mercury Of Wizards,45.00,2574.00,141.57,115830.00,6370.65,-4888.03,117312.62
+7909,"Maglioneth, Lord of the Sun",The Dungeon of Dismal Terror,-3.50,Unknowable Mindsilver,281.00,3565.00,366.00,1001765.00,102846.00,-44184.44,1060426.56
+8837,Storm Seraphheart,Kada's Deep,33.00,Foul Ice Bronze Of Life,201.00,-92.21,129.80,-18534.21,26089.80,2493.34,10048.93
+9085,Rouge Roguemist,The Nulukkhath Spires,10.59,Negative Rockglitter Mercury Of Trolls,92.00,1483.90,465.38,136518.80,42814.96,19726.71,199060.47
+9374,Evilember The Firey,Haukri's Hold,25.30,Unicorns' Fatal Magma Metal Of The Ocean,134.00,1792.04,392.70,240133.36,52621.80,73188.79,365943.95
+11485,Valentine Lawslayer,The Bastion of the Lich Tyrant,43.00,Unicorns' Fatal Magma Metal Of The Ocean,192.00,1971.24,392.70,378478.08,75398.40,195166.89,649043.37
+11588,Chainblade The Cadaverous,South Brightcrown Borough,42.25,God-touched Greengem Platinum,245.00,1281.72,-39.60,314021.40,-9702.00,127814.15,432133.55
+12580,"Penur, Lord of the Sea",The Cracked Chalice,2.52,Mistgold Of Men,54.00,3372.28,53.24,182103.12,2874.96,5549.34,190527.42
+13445,Chainblade The Cadaverous,The Lost Crypts of Sorrows,35.87,Toxic Mistlead Of The Past,192.00,1557.54,136.06,299047.68,26123.52,117061.63,442232.83
+13873,Tarot Dawn,Archfane District,32.87,Shadowy Adamant,282.00,618.93,526.44,174538.26,148456.08,106588.13,429582.47
+15568,"Ariel, God of Luck",Cawold Castle,24.09,Incubi's Iron Of The Dawn,210.00,1200.96,424.31,252201.60,89105.10,81913.61,423220.31
+18985,Springpulley The Binder,Hafeld Keep,46.71,Dragons' Poison Glitterflesh Steel Of The North,118.00,2790.70,288.13,329302.60,33999.34,170751.91,534053.85
+20278,Burnbrood The Freezer,Weke Tower,-0.07,Primordial False Gold,120.00,5395.80,248.60,647496.00,29832.00,0.00,677328.00
+20498,Spikebrood The Disinterred,North Arcanist's Farthing,55.18,Vampires' Fang Emeraldsilver,102.00,3343.22,455.55,341008.44,46466.10,213111.00,600585.54

@@ -1,0 +1,20 @@
+1480,Seraph Jester,The Tower of Aces the Accursed,12.10,Shadowhell Mithril,76.00,363.00,236.70,27588.00,17989.20,5469.26,51046.46
+2543,Ironbrood,The Bastion of Barbos,21.29,Ghostly Soul Adamant,253.00,2929.96,189.69,741279.88,47991.57,165747.00,955018.45
+6629,Boltcrank The Trapper,The Tower of Aces the Accursed,13.31,Timeiron,153.00,1596.00,228.33,244188.00,34934.49,36285.92,315408.41
+6769,Cult Godseeker,Grove Farthing,18.00,Grayplatinum,201.00,2506.27,279.06,503760.27,56091.06,100773.24,660624.57
+7014,Sunrise Godwarlock,Mahyrst Keep,25.14,Unicorns' Evil Mithril,213.00,4802.49,312.00,1022930.37,66456.00,272346.59,1361732.96
+8059,Burnbrood The Freezer,The Grey Plains,19.97,Meteoric Mirrormuck Orichalcum Of The Forests,198.00,2158.20,185.77,427323.60,36782.46,92821.21,556927.27
+8063,"Ingwenel, God of War",The Cuitamba Jungle,30.80,Violetstone Tin Of Death,170.00,2245.23,156.10,381689.10,26537.00,126550.09,534776.19
+11428,Dagger Reaper,South Brightcrown Borough,42.25,Phantasmal Tin Of The Swamps,233.00,4074.00,-6.60,949242.00,-1537.80,398035.76,1345739.96
+12356,Song Runetomb,The Glano Forest,3.00,Unknown Fatelightning Steel Of The Glacier,75.00,2441.05,59.71,183078.75,4478.25,5626.71,193183.71
+14359,Dagger Reaper,The Chuallanto Jungle,40.70,Primordial False Gold,165.00,5395.80,226.00,890307.00,37290.00,380314.77,1307911.77
+15041,Deathbrood,The Cuitamba Jungle,30.80,Mithril Of The Tropics,263.00,4126.10,11.98,1085164.30,3150.74,337377.66,1425692.70
+15918,Wheelspawn,Fellfen Keep,61.53,God-touched Faterainbow Orichalcum Of Spectres,218.00,370.41,32.01,80749.38,6978.18,54391.09,142118.65
+18729,Scarefear The Blade,Mahyrst Keep,30.42,Hidden Shadowice Lead,375.00,2729.00,-62.23,1023375.00,-23336.25,300011.62,1300050.37
+19843,Chillfire The Chiller,The Bloody Wand,15.97,Planar Rainfate Mithril,207.00,1185.84,320.52,245468.88,66347.64,49890.64,361707.16
+20739,Spikebrood The Disinterred,The Black Barrow of Bery,-0.10,Djinni's Evil Sandobsidian Steel Of The Future,210.00,4208.60,172.78,883806.00,36283.80,0.00,920089.80
+21124,Shadow Tomblion,The Bastion of the Lich Tyrant,52.03,Sphinxes' Unknown Poisongold Of The Future,187.00,4301.28,23.86,804339.36,4461.82,420576.61,1229377.79
+21663,Cinderember,Pewold Keep,22.57,Golems' Stonesapphire Gold Of The Glacier,183.00,4444.06,128.23,813262.98,23466.09,192447.69,1029176.76
+22036,Spikespawn,Tradun Castle,41.43,Forgotten Mithril,300.00,1215.20,347.60,364560.00,104280.00,192224.40,661064.40
+22197,Scarefear The Blade,Lordsgate Farthing,45.25,Mana-touched Greenglitter Gold Of Giants,282.00,1420.52,514.25,400586.64,145018.50,245522.31,791127.45
+22348,Snowflame The Evil,Gawold Castle,6.05,Foul Ice Bronze Of Life,168.00,-101.43,157.06,-17040.24,26386.08,560.75,9906.59

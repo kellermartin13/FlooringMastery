@@ -1,0 +1,16 @@
+2613,Vicki "Mesa" Rhodes,NV,0.25,Leather,134.00,10.00,16.50,1340.00,2211.00,0.00,3551.00
+4360,Jo "the Joker",ND,1.25,Beechwood,319.00,3.00,5.00,957.00,1595.00,25.52,2577.52
+5392,Evelyn "Evil Joker" Taylor,MO,2.20,Beechwood,113.00,3.00,5.00,339.00,565.00,18.08,922.08
+6590,Tina "Lady" Anderson,AR,2.20,Packed Dirt,267.00,1.00,1.50,267.00,400.50,13.35,680.85
+6837,Stella "the Bully",AR,2.20,Beechwood,102.00,3.00,5.00,306.00,510.00,16.32,832.32
+8510,Jacqueline "Riding Doc" Washington,MS,3.00,Pebbles,184.00,0.88,4.84,161.92,890.56,31.57,1084.05
+10881,Vanessa "Scalper" Rhodes,NM,2.20,Reeds,144.00,0.75,2.20,108.00,316.80,8.50,433.30
+12390,Lucky Johnson,MO,2.20,Leather,223.00,11.00,18.15,2453.00,4047.45,130.01,6630.46
+12656,Vicki "Mesa" Rhodes,OK,2.42,Brick,134.00,4.84,6.66,648.56,892.44,30.82,1571.82
+13090,Tammy Carlson "the Killer",IA,1.21,Pebbles,130.00,0.88,4.84,114.40,629.20,7.44,751.04
+14889,Dorothy "the Hunter",CA,0.61,Cedar Planks,124.00,2.20,6.05,272.80,750.20,10.23,1033.23
+17689,Julia "Bandit" Chandler,CA,0.61,Reeds,56.00,0.83,2.20,46.48,123.20,1.70,171.38
+18380,Renee "Loco Tracker" Jordan,AL,1.00,Pinecones,346.00,1.50,2.66,519.00,920.36,14.39,1453.75
+19586,"Scalphunter" Kennedy,AR,2.20,Pinecones,191.00,1.50,2.66,286.50,508.06,15.89,810.45
+20870,Betty "Happy Thinker" Watson,OK,2.66,Dirt,235.00,0.50,1.00,117.50,235.00,10.58,363.08
+21952,Stella "the Bully",IA,1.33,Solid Oak,269.00,5.50,6.66,1479.50,1791.54,32.71,3303.75

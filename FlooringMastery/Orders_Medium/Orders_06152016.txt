@@ -1,0 +1,21 @@
+583,"Sunrise" Miles,MS,3.00,Packed Dirt,84.00,1.00,1.50,84.00,126.00,6.30,216.30
+997,Lena Chapman "the Bully",KS,0.50,Dirt,275.00,0.50,1.00,137.50,275.00,0.00,412.50
+2758,April "Thunderbird" Dunn,MT,3.00,Brick,145.00,4.00,5.50,580.00,797.50,41.32,1418.82
+4261,Friendly Howell,MO,2.20,Dirt,185.00,0.50,1.00,92.50,185.00,5.55,283.05
+6540,Victoria "the Dancer",AL,1.00,Pinecones,120.00,1.50,2.66,180.00,319.20,4.99,504.19
+6594,Renee "Hellish Empress" Banks,NM,2.20,Beechwood,109.00,3.00,5.00,327.00,545.00,17.44,889.44
+7843,Minnie Lawson "the Apostle",CA,0.55,Packed Dirt,131.00,1.00,1.50,131.00,196.50,3.28,330.78
+8325,Vengeful Robertson,MT,3.30,Pebbles,147.00,0.88,4.84,129.36,711.48,25.23,866.07
+10814,Victoria "the Dancer",AR,2.20,Solid Oak,224.00,5.50,5.50,1232.00,1232.00,49.28,2513.28
+11895,Julia "Bandit" Chandler,ND,1.38,Packed Dirt,164.00,1.00,1.65,164.00,270.60,4.35,438.95
+12226,Susan "Damnation" Fleming,MS,3.00,Beechwood,216.00,3.30,5.50,712.80,1188.00,57.02,1957.82
+14198,Heather "Tornado" Newman,KS,0.55,Beechwood,96.00,3.63,5.50,348.48,528.00,8.76,885.24
+14947,Diana "Mistress" Morgan,ND,1.38,Solid Oak,308.00,5.50,5.50,1694.00,1694.00,33.88,3421.88
+15384,Diana "Mistress" Morgan,KS,0.55,Beechwood,101.00,3.63,5.50,366.63,555.50,9.22,931.35
+16158,Lucky Johnson,NM,2.66,Cedar Planks,218.00,2.20,6.05,479.60,1318.90,53.96,1852.46
+16998,Ida Russell "the Rustler",WY,0.31,Dirt,180.00,0.50,1.00,90.00,180.00,0.00,270.00
+20599,Vicki "Mesa" Rhodes,UT,0.00,Beechwood,235.00,3.63,6.05,853.05,1421.75,0.00,2274.80
+20858,Vengeful Montgomery,MO,2.20,Dirt,159.00,0.50,1.00,79.50,159.00,4.77,243.27
+21448,Darlene "Loner" Ford,MS,3.00,Beechwood,183.00,3.63,6.05,664.29,1107.15,53.14,1824.58
+22502,Stella "the Bully",KS,0.55,Pebbles,329.00,0.88,5.32,289.52,1750.28,20.40,2060.20
+23262,Beth "Fortunate Shooter" Powell,TX,0.67,Solid Oak,219.00,5.50,6.66,1204.50,1458.54,26.63,2689.67

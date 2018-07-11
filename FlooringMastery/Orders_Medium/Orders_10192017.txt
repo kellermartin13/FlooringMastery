@@ -1,0 +1,15 @@
+1257,Theresa "Kid" Robinson,ID,0.00,Pinecones,278.00,1.50,2.00,417.00,556.00,0.00,973.00
+1856,"Bane" Jennings,AR,2.20,Pebbles,72.00,0.80,4.40,57.60,316.80,7.49,381.89
+3461,Friendly Howell,TX,0.50,Packed Dirt,145.00,1.00,1.50,145.00,217.50,0.00,362.50
+5864,Dorothy "the Hunter",AR,2.20,Solid Oak,129.00,5.50,5.50,709.50,709.50,28.38,1447.38
+9148,Amanda Hart "the Loner",TX,0.50,Leather,144.00,10.00,18.15,1440.00,2613.60,0.00,4053.60
+12905,Michele Watson "the Loner",MO,2.20,Brick,157.00,4.84,6.66,759.88,1045.62,36.11,1841.61
+14827,"Doom" McCoy,ND,1.38,Packed Dirt,194.00,1.10,2.20,213.40,426.80,6.40,646.60
+16672,Michele Watson "the Loner",AR,2.20,Brick,175.00,5.32,6.66,931.00,1165.50,41.93,2138.43
+17667,"Doom" McCoy,ID,0.00,Solid Oak,202.00,5.50,6.66,1111.00,1345.32,0.00,2456.32
+18352,Amanda Hart "the Loner",MO,2.20,Pebbles,95.00,0.88,4.84,83.60,459.80,10.87,554.27
+19941,Beth "Fortunate Shooter" Powell,TX,0.67,Leather,240.00,11.00,19.97,2640.00,4792.80,74.33,7507.13
+20571,Melissa "Lonesome Stalker" Riley,MS,3.00,Beechwood,214.00,3.63,6.05,776.82,1294.70,62.15,2133.67
+20807,Theresa "Scalphunter" Romero,MT,4.83,Packed Dirt,189.00,1.10,2.42,207.90,457.38,33.26,698.54
+22574,"Scalphunter" Kennedy,ND,1.67,Beechwood,175.00,3.63,6.05,635.25,1058.75,33.88,1727.88
+23337,"Sunrise" Miles,MT,5.84,Leather,340.00,11.00,19.97,3740.00,6789.80,631.79,11161.59

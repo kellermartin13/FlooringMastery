@@ -1,0 +1,18 @@
+247,Deborah "the Lady",MT,3.00,Beechwood,207.00,3.00,5.00,621.00,1035.00,49.68,1705.68
+1704,Mabel "Vixen Cursed" King,MO,2.20,Dirt,75.00,0.50,1.00,37.50,75.00,2.25,114.75
+2038,Renee "Hellish Empress" Banks,IA,1.00,Pebbles,136.00,0.80,4.40,108.80,598.40,7.07,714.27
+2617,Victoria "the Dancer",WY,0.25,Leather,173.00,10.00,16.50,1730.00,2854.50,0.00,4584.50
+5591,Diana "Mistress" Morgan,WY,0.31,Solid Oak,196.00,5.50,5.50,1078.00,1078.00,0.00,2156.00
+6509,Tina "Lady" Anderson,TX,0.50,Reeds,67.00,0.75,2.20,50.25,147.40,0.00,197.65
+7875,Allison "Steel Gravedigger" Douglas,TX,0.50,Pebbles,219.00,0.80,4.84,175.20,1059.96,0.00,1235.16
+9157,Heather "Tornado" Newman,WY,0.31,Solid Oak,267.00,5.50,5.50,1468.50,1468.50,0.00,2937.00
+10180,Geraldine "Revenge" Warren,MS,3.00,Reeds,197.00,0.75,2.20,147.75,433.40,17.43,598.58
+11476,Tammy Carlson "the Killer",OK,2.42,Packed Dirt,96.00,1.00,1.65,96.00,158.40,5.09,259.49
+13649,Theresa "Kid" Robinson,NM,2.42,Cedar Planks,230.00,2.20,6.05,506.00,1391.50,37.95,1935.45
+15354,Joanne "Damned" Miles,IA,1.21,Brick,375.00,5.32,6.66,1995.00,2497.50,44.92,4537.42
+16003,Theresa "Scalphunter" Romero,MO,2.20,Cedar Planks,172.00,2.20,6.05,378.40,1040.60,28.38,1447.38
+16704,Cathy "Loner Demon" Murray,ID,0.00,Leather,126.00,11.00,19.97,1386.00,2516.22,0.00,3902.22
+19601,Cathy "Wildfire" Neal,KS,0.55,Dirt,131.00,0.50,1.00,65.50,131.00,1.96,198.46
+20664,Dorothy "the Hunter",NV,0.31,Beechwood,149.00,3.63,6.05,540.87,901.45,0.00,1442.32
+22433,Vanessa "Scalper" Rhodes,WY,0.31,Cedar Planks,159.00,2.20,6.66,349.80,1058.94,0.00,1408.74
+22450,Black Beck,AR,2.20,Pebbles,235.00,0.88,4.84,206.80,1137.40,26.88,1371.08

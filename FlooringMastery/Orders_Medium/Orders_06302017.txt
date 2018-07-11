@@ -1,0 +1,15 @@
+169,Wilma "Tornado" Brooks,MT,3.00,Dirt,149.00,0.50,1.00,74.50,149.00,6.70,230.20
+357,Kathy Murphy "the Thinker",AL,1.00,Beechwood,166.00,3.00,5.00,498.00,830.00,13.28,1341.28
+615,Marie "Raven" Chapman,ID,0.00,Pebbles,112.00,0.80,4.00,89.60,448.00,0.00,537.60
+1147,Vicki "Mesa" Rhodes,TX,0.50,Reeds,189.00,0.75,2.00,141.75,378.00,0.00,519.75
+5893,Theresa "Kid" Robinson,UT,0.00,Leather,180.00,10.00,18.15,1800.00,3267.00,0.00,5067.00
+6200,Mabel "Vixen Cursed" King,KS,0.50,Packed Dirt,183.00,1.00,1.50,183.00,274.50,0.00,457.50
+6827,Ida Russell "the Rustler",NV,0.28,Cedar Planks,116.00,2.20,6.05,255.20,701.80,0.00,957.00
+9386,Kathy Murphy "the Thinker",UT,0.00,Brick,238.00,4.84,6.66,1151.92,1585.08,0.00,2737.00
+14865,Julia "Bandit" Chandler,MT,3.99,Dirt,274.00,0.50,1.00,137.00,274.00,16.44,427.44
+15784,Ida Russell "the Rustler",MS,3.00,Pinecones,248.00,1.50,2.66,372.00,659.68,30.95,1062.63
+16111,Melissa "Lonesome Stalker" Riley,AL,1.00,Solid Oak,361.00,5.50,6.05,1985.50,2184.05,41.70,4211.25
+17293,Cathy "Loner Demon" Murray,AR,2.20,Pinecones,282.00,1.50,2.66,423.00,750.12,23.46,1196.58
+19113,Allison "Steel Gravedigger" Douglas,TX,0.67,Pinecones,195.00,1.50,2.66,292.50,518.70,8.11,819.31
+20687,Ida Russell "the Rustler",MT,4.83,Pebbles,189.00,0.88,4.84,166.32,914.76,54.05,1135.13
+21854,"Bane" Jennings,OK,2.93,Leather,155.00,11.00,19.97,1705.00,3095.35,144.01,4944.36

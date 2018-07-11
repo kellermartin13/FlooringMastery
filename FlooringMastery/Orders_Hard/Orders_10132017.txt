@@ -1,0 +1,18 @@
+1104,"Iran, Lord of Nightmares",The Wizard's House,43.58,White Platinum,300.00,-47.81,145.00,-14343.00,43500.00,12829.08,41986.08
+1823,Rune Rougehate,The Chuallanto Jungle,37.00,Planar Mudtin Of Trolls,214.00,2094.92,335.36,448312.88,71767.04,192429.57,712509.49
+6335,Seraph Jester,The Pirate's Pipe,17.60,God-touched Greengem Platinum,121.00,1281.72,-36.00,155088.12,-4356.00,27131.78,177863.90
+7490,Blazeflare The Cremator,The Forsaken Hive of Galima the Mighty,24.70,Phantasmal Tin Of The Swamps,179.00,4074.00,-6.60,729246.00,-1181.40,182016.15,910080.75
+7553,Burnchill The Evil,The Desert of Flames,47.19,Fleshshock Mercury,182.00,4417.00,279.40,803894.00,50850.80,401730.06,1256474.86
+9995,Lance Knightseraph,The Dungeon of Dismal Terror,-3.50,Shadowy Adamant,317.00,618.93,478.58,196200.81,151709.86,-13916.43,333994.24
+11381,Sunset Knightclaw,Ring District,35.00,Green Dustlightning Mercury,193.00,3517.00,35.20,678781.00,6793.60,239951.11,925525.71
+14384,Snarepiston The Mechanical,The Lewd King,27.00,Glowpearl Adamant Of Spirits,86.00,398.09,374.00,34235.74,32164.00,17927.93,84327.67
+14611,Claw Mist,Haukri's Hold,27.83,Phantasmal Tin Of The Swamps,239.00,4929.54,-7.26,1178160.06,-1735.14,329398.98,1505823.90
+14656,Flora Amberslayer,Reyny Keep,11.00,Witchs' Forbidden Rockrainbow Bronze,293.00,655.60,425.92,192090.80,124794.56,34857.39,351742.75
+15486,Rune Rougehate,Gifeld Castle,6.22,Trolls' Rubymercury Of The Sunset,375.00,556.60,217.80,208725.00,81675.00,17424.00,307824.00
+15965,Magus Felldrake,Fellfen Keep,61.53,Angels' Smoke Adamant Of The Mountains,164.00,3427.13,236.50,562049.32,38786.00,372517.90,973353.22
+17217,Wind Dire,The Grey Plains,19.97,Sphinxes' Mistsoul Bronze Of The Past,275.00,2169.81,222.28,596697.75,61127.00,131564.95,789389.70
+17509,Storm Seraphheart,The Citadel of Alammius,3.85,Shadowy Adamant,354.00,618.93,526.44,219101.22,186359.76,16218.44,421679.42
+19747,Scarefear The Blade,Haukri's Hold,27.83,Planar Mudtin Of Trolls,228.00,3067.17,405.79,699314.76,92520.12,221713.77,1013548.65
+22520,Metalbrood,The Cuitamba Jungle,33.88,Fairies' Supreme Mistsmoke Lead Of The Future,81.00,3349.50,324.73,271309.50,26303.13,101188.29,398800.92
+22987,Gravebone The Unspeakable,The Khazahol Crags,-2.17,Djinni's Spectral Shadowlead Of Life,57.00,4484.14,394.00,255595.98,22458.00,-5561.08,272492.90
+23003,Seraphim Tsunami,The Secret Shrine of the Gargoyle Count,-2.00,Icy Shock Silver,106.00,1794.41,595.89,190207.46,63164.34,-5067.44,248304.36

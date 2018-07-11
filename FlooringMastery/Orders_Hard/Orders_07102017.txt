@@ -1,0 +1,14 @@
+3141,Song Runetomb,Tradun Castle,31.13,Shadowhell Mithril,168.00,363.00,260.37,60984.00,43742.16,32465.11,137191.27
+4472,Cinderember,Peley Keep,19.78,Djinni's Mind Fogiron,207.00,2301.02,67.29,476311.14,13929.03,98048.03,588288.20
+5346,Snarepiston The Mechanical,The Broken Arrow,30.07,Primordial Plague Mercury Of Legend,123.00,339.81,273.90,41796.63,33689.70,22645.90,98132.23
+9075,Magus Felldrake,Gawold Castle,5.50,Foul Ice Bronze Of Life,269.00,-92.21,129.80,-24804.49,34916.20,606.70,10718.41
+9655,Seraphim Tsunami,Lamp Borough,4.95,Goddesses' Spectral Poison Steel,209.00,3773.99,269.83,788763.91,56394.47,42257.92,887416.30
+12013,Lance Knightseraph,The Bastion of the Lich Tyrant,43.00,Phantasmal Smokezephyr Mercury Of Men,196.00,-422.15,75.90,-82741.40,14876.40,-29181.95,-97046.95
+12156,Chillfire The Chiller,The Chuallanto Jungle,37.00,White Platinum,32.00,-52.59,159.50,-1682.88,5104.00,1265.81,4686.93
+12189,Jericho Wolf,Ring District,35.00,Sprites' Transcendent Mud Lead Of The South,291.00,2081.80,321.86,605803.80,93661.26,244812.77,944277.83
+12868,Metalbrood,The Desert of Flames,51.91,Nymphs' Luminous Rotmercury Of The Skies,184.00,292.60,189.00,53838.40,34776.00,46079.49,134693.89
+15422,Mecharig The Living Device,Lamp Borough,4.95,Poison Adamant,77.00,1151.38,64.44,88656.26,4961.88,4680.91,98299.05
+16792,Chainnail,The Drunken Thief,12.65,Fleshshock Mercury,259.00,4858.70,338.07,1258403.30,87560.13,174975.25,1520938.68
+17013,Wheelbolt The Machine,Lacot Stronghold,45.22,Zephyr Iron,157.00,3034.90,444.69,476479.30,69816.33,245833.03,792128.66
+18455,Spikecrank,Boiaburh Keep,17.60,Primal Adamant,190.00,5520.99,331.42,1048988.10,62969.80,200152.42,1312110.32
+18898,Valentine Lawslayer,The Secret Shrine of the Gargoyle Count,-2.00,Ensorceled Sandmetal Of Spirits,47.00,2956.98,95.70,138978.06,4497.90,-2869.52,140606.44

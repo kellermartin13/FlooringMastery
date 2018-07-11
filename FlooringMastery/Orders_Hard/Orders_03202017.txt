@@ -1,0 +1,15 @@
+4903,Fate Ivycaster,The Tower of Sabiesu the Awesome,4.40,Otherworldly Mirror Orichalcum,170.00,-247.00,478.50,-41990.00,81345.00,1574.20,40929.20
+5404,Rouge Tombreaper,The Lewd King,27.00,Sphinxes' Mistsoul Bronze Of The Past,287.00,1972.55,183.70,566121.85,52721.90,167087.81,785931.56
+5674,Bonescare,Boiaburh Keep,16.00,Stone Soulsteel Of The Skies,256.00,1798.28,13.21,460359.68,3381.76,74198.63,537940.07
+8182,Seraph Jester,Mahyrst Keep,27.65,Djinni's Spectral Shadowlead Of Life,242.00,3705.90,296.02,896827.80,71636.84,271170.10,1239634.74
+8450,Springcoil,The Bastion of the Lich Tyrant,43.00,Glowpearl Adamant Of Spirits,307.00,398.09,374.00,122213.63,114818.00,101923.60,338955.23
+9875,Scarefear The Blade,The Warrior and Flagon,48.40,Ensorceled Gold Of The Dawn,275.00,5713.98,402.92,1571344.50,110803.00,807430.80,2489578.30
+10207,Sunrise Godwarlock,The Warrior and Flagon,48.40,Meteoric Dustzephyr Orichalcum,235.00,375.00,244.08,88125.00,57358.80,69832.22,215316.02
+11244,Tarot Dawn,Ring District,35.00,Unspeakable Rotsoul Mithril Of Souls,102.00,248.00,401.53,25296.00,40956.06,23188.22,89440.28
+11328,"Eumyan, Goddess of Law",Ring District,35.00,Devils' Falserot Silver,10.00,1668.51,182.71,16685.10,1827.10,6479.27,24991.47
+13193,Burnfreeze The Cold,The Warrior and Flagon,53.24,Sapphire Mindlead,212.00,1307.71,47.00,277234.52,9964.00,152215.22,439413.74
+14663,Beamsprocket The Grasping,The Citadel of Alammius,3.50,Unicorns' Evil Mithril,142.00,4802.49,377.52,681953.58,53607.84,29422.46,764983.88
+14939,"Maeglodor, God of Thieves",The Tower of Aces the Accursed,13.31,Primordial Mud Orichalcum,219.00,-387.90,85.11,-84950.10,18639.09,-8620.43,-74931.44
+16058,Rune Rougehate,The Pilgrim's Cup,46.12,Meteoric Dustzephyr Orichalcum,147.00,375.00,268.49,55125.00,39468.03,43512.79,138105.82
+22885,Graveterror,The Greedy Wench,43.53,Djinni's Evil Sandobsidian Steel Of The Future,150.00,4208.60,172.78,631290.00,25917.00,289171.08,946378.08
+23119,Chainnail,The Fortress of Akkun the Grim,-2.42,Unknowable Mindsilver,202.00,4313.65,402.60,871357.30,81325.20,-19053.65,933628.85

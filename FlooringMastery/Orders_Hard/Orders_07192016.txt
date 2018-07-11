@@ -1,0 +1,19 @@
+3675,Shadow Gust,The Shadow Downs,13.21,Heavenly Dreamsilver Of The Night,134.00,1826.98,112.00,244815.32,15008.00,33777.03,293600.35
+4002,"Melcha, Goddess of Thieves",Tradun Castle,31.13,Lycanthropes' Gold,265.00,4846.18,66.14,1284237.70,17527.10,403547.09,1705311.89
+5016,Storm Squallmourner,Grove Farthing,18.00,Sphinxes' Unknown Poisongold Of The Future,240.00,3554.77,23.86,853144.80,5726.40,154596.82,1013468.02
+7030,Beamsprocket The Grasping,Barad Kesa,4.32,Djinni's Mind Fogiron,74.00,2301.02,74.02,170275.48,5477.48,7030.12,182783.08
+8012,Bronzespike,The Cuitamba Jungle,30.80,Unknowable Mindsilver,104.00,3565.00,366.00,370760.00,38064.00,126735.44,535559.44
+8352,"Lionare, God of the Lost",The Forsaken Tomb of Devastation,0.00,Hell Mercury Of The East,153.00,4636.34,284.60,709360.02,43543.80,0.00,752903.82
+8644,Bronzespike,The Khazahol Crags,-1.97,Glowpearl Adamant Of Spirits,249.00,398.09,374.00,99124.41,93126.00,-3845.01,188405.40
+9534,"Iran, Lord of Nightmares",Unicorn's Ward,14.64,Spectres' Shadowy Terrorglow Adamant Of Life,219.00,4694.80,205.50,1028161.20,45004.50,160974.86,1234140.56
+9872,Beamsprocket The Grasping,The Bloody Wand,12.00,Ensorceled Gold Of The Dawn,263.00,5713.98,402.92,1502776.74,105967.96,193049.36,1801794.06
+10058,Cinderember,The Bloody Wand,12.00,Ensorceled Gold Of The Dawn,256.00,5713.98,402.92,1462778.88,103147.52,187911.17,1753837.57
+11073,Blazefreeze The Chiller,The Tower of Aces the Accursed,13.31,Mana-touched Greenglitter Gold Of Giants,191.00,1173.98,467.50,224230.18,89292.50,40757.95,354280.63
+12288,Nailpiston The Grasping,The Glano Forest,3.00,Thunderbirds' Transcendent Dreamiron,98.00,2275.25,237.70,222974.50,23294.60,7388.07,253657.17
+13765,Ironbrood,Grove Farthing,19.80,Spectres' Shadowy Terrorglow Adamant Of Life,175.00,5164.28,248.66,903749.00,43515.50,189452.90,1136717.40
+15193,Blazefreeze The Chiller,The Pilgrim's Cup,46.12,Heavenly Dreamsilver Of The Night,180.00,2009.68,112.00,361742.40,20160.00,175675.10,557577.50
+16011,Blazefreeze The Chiller,Gili's Delve,-6.73,Incubi's Mirrorfog Iron Of The Ocean,154.00,5806.50,-26.08,894201.00,-4016.32,-62312.93,827871.75
+16126,Flora Amberslayer,The Lost Sanctum of Woe,3.30,Thunderbirds' Transcendent Dreamiron,117.00,2275.25,237.70,266204.25,27810.90,8820.45,302835.60
+18146,"Nelalwe, Lady of Fire",North Arcanist's Farthing,55.18,Negative Rockglitter Mercury Of Trolls,172.00,1632.29,619.42,280753.88,106540.24,213011.77,600305.89
+21174,Shadow Gust,Unicorn's Ward,14.64,Phantasmal Tin Of The Swamps,150.00,5964.74,-7.99,894711.00,-1198.50,134026.88,1027539.38
+22977,Sephiroth Drakecaster,The Bastion of Barbos,28.34,Incubi's Iron Of The Dawn,198.00,1200.96,424.31,237790.08,84013.38,90104.97,411908.43

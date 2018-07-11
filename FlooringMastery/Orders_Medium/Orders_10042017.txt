@@ -1,0 +1,16 @@
+663,Theresa "Kid" Robinson,ND,1.25,Reeds,358.00,0.75,2.00,268.50,716.00,9.84,994.34
+3017,Julia "Bandit" Chandler,AL,1.00,Pinecones,198.00,1.50,2.20,297.00,435.60,7.33,739.93
+3302,Darlene "Loner" Ford,MS,3.00,Reeds,360.00,0.75,2.00,270.00,720.00,29.70,1019.70
+3997,Deborah "the Lady",KS,0.50,Reeds,252.00,0.75,2.00,189.00,504.00,0.00,693.00
+5795,Geraldine "Revenge" Warren,TX,0.50,Packed Dirt,181.00,1.00,1.50,181.00,271.50,0.00,452.50
+5889,Surgeon Grant,TX,0.50,Solid Oak,57.00,5.50,5.50,313.50,313.50,0.00,627.00
+8679,April "Thunderbird" Dunn,WY,0.31,Leather,305.00,10.00,18.15,3050.00,5535.75,0.00,8585.75
+9626,Amanda Hart "the Loner",MT,3.63,Solid Oak,172.00,5.50,5.50,946.00,946.00,75.68,1967.68
+10138,Michele Watson "the Loner",TX,0.61,Solid Oak,30.00,5.50,5.50,165.00,165.00,3.30,333.30
+10744,Tammy Carlson "the Killer",ND,1.25,Beechwood,233.00,3.00,5.50,699.00,1281.50,19.80,2000.30
+15630,Amanda Hart "the Loner",AR,2.20,Leather,208.00,11.00,18.15,2288.00,3775.20,121.26,6184.46
+16616,Joanne "Damned" Miles,MT,3.99,Beechwood,133.00,3.63,5.50,482.79,731.50,48.57,1262.86
+17195,Evelyn "Evil Joker" Taylor,ND,1.38,Reeds,173.00,0.83,2.20,143.59,380.60,5.24,529.43
+21345,Tina "Lady" Anderson,MT,5.31,Cedar Planks,338.00,2.20,6.66,743.60,2251.08,149.73,3144.41
+21828,Maureen "Cursed" Andrews,MS,3.00,Solid Oak,181.00,5.50,6.66,995.50,1205.46,66.03,2266.99
+22918,Cathy "Loner Demon" Murray,WY,0.34,Packed Dirt,106.00,1.10,2.42,116.60,256.52,0.00,373.12

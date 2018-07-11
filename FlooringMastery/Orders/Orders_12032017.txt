@@ -1,0 +1,12 @@
+1357,Mabel "Vixen Cursed" King,AR,2.20,Beechwood,289.00,3.00,5.00,867.00,1445.00,46.24,2358.24
+6685,Cathy "Wildfire" Neal,TX,0.50,Reeds,359.00,0.75,2.20,269.25,789.80,0.00,1059.05
+6893,"Doom" McCoy,AL,1.00,Beechwood,145.00,3.00,5.00,435.00,725.00,11.60,1171.60
+7206,Vanessa "Scalper" Rhodes,MO,2.20,Pinecones,290.00,1.50,2.66,435.00,771.40,24.13,1230.53
+9378,Melissa "Lonesome Stalker" Riley,MO,2.20,Solid Oak,50.00,5.50,5.50,275.00,275.00,11.00,561.00
+10349,Florence "Leather Doc" Grant,IA,1.21,Beechwood,184.00,3.00,5.50,552.00,1012.00,15.64,1579.64
+12033,Heather "Tornado" Newman,MS,3.00,Beechwood,121.00,3.30,5.50,399.30,665.50,31.94,1096.74
+12176,Mabel "Vixen Cursed" King,KS,0.55,Beechwood,343.00,3.30,5.50,1131.90,1886.50,30.18,3048.58
+12689,Stella "the Bully",MO,2.20,Solid Oak,278.00,5.50,5.50,1529.00,1529.00,61.16,3119.16
+16233,Dorothy "the Hunter",NV,0.31,Beechwood,327.00,3.63,5.50,1187.01,1798.50,0.00,2985.51
+16414,Black Beck,IA,1.21,Solid Oak,288.00,5.50,6.05,1584.00,1742.40,33.26,3359.66
+16937,Renee "Loco Tracker" Jordan,MT,3.99,Pebbles,340.00,0.88,4.84,299.20,1645.60,77.79,2022.59

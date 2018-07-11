@@ -1,0 +1,23 @@
+352,Springcoil,Gifeld Castle,5.65,Venom Jewelmetal Of The Desert,176.00,1388.00,224.00,244288.00,39424.00,17022.72,300734.72
+5200,Fate Ivycaster,The Wizard's House,43.58,Rot Silver Of The Past,147.00,3440.00,327.00,505680.00,48069.00,243649.56,797398.56
+5243,"Suriel, Lord of Animals",The Wizard's House,43.58,Mithril Of Legend,114.00,2274.80,63.01,259327.20,7183.14,117264.55,383774.89
+8416,Emberspawn,Minas Gilloy,39.26,Shadowy Adamant,232.00,618.93,478.58,143591.76,111030.56,99302.70,353925.02
+9028,Lance Knightseraph,The Pirate's Pipe,17.60,Violetstone Tin Of Death,379.00,2245.23,156.10,850942.17,59161.90,163818.73,1073922.80
+9216,"Zepul, Lady of Vengeance",Moor Village,57.42,Goddesses' Spectral Poison Steel,236.00,3773.99,269.83,890661.64,63679.88,543974.67,1498316.19
+9323,Song Runetomb,Haukri's Hold,25.30,Shadow Steel,139.00,4677.78,465.30,650211.42,64676.70,178722.03,893610.15
+9676,"Gadriel, God of Resurrection",Tower Farthing,27.12,Goddesses' Spectral Poison Steel,266.00,3773.99,269.83,1003881.34,71774.78,290427.15,1366083.27
+10085,"Maglioneth, Lord of the Sun",The Warrior and Flagon,48.40,Shadowy Adamant,119.00,618.93,478.58,73652.67,56951.02,62689.77,193293.46
+12749,Magus Felldrake,South Brightcrown Borough,42.25,Primordial Plague Mercury Of Legend,195.00,452.29,301.29,88196.55,58751.55,61718.20,208666.30
+12830,Blazeflare The Cremator,The Grey Plains,19.97,Phantasmal Smokezephyr Mercury Of Men,318.00,-464.37,75.90,-147669.66,24136.20,-24706.69,-148240.15
+13929,Tarot Dawn,The Bastion of Gothmog of Udun,54.84,Spectres' Shadowy Terrorglow Adamant Of Life,198.00,5164.28,248.66,1022527.44,49234.68,589469.17,1661231.29
+14007,Beamsprocket The Grasping,Tradun Castle,37.66,Ghostly Soul Adamant,227.00,3222.96,229.53,731611.92,52103.31,297811.79,1081527.02
+14678,Gravebone The Unspeakable,The Citadel of Alammius,3.50,Phantasmal Tin Of The Swamps,197.00,4929.54,-7.26,971119.38,-1430.22,38787.57,1008476.73
+14823,"Suriel, Lord of Animals",The Greedy Wench,32.70,Heavenly Dreamsilver Of The Night,167.00,2009.68,112.00,335616.56,18704.00,116925.78,471246.34
+15008,"Alas, Lord of Plague",The Pilgrim's Cup,46.12,Shadow Steel,129.00,5660.12,511.83,730155.48,66026.07,366243.51,1162425.06
+15303,"Byzou, God of Animals",The Greedy Wench,32.70,Unknown Fatelightning Steel Of The Glacier,252.00,2441.05,65.68,615144.60,16551.36,208459.67,840155.63
+16262,Spikebrood The Disinterred,The Lost Sanctum of Woe,3.30,Incubi's Mirrorfog Iron Of The Ocean,202.00,5806.50,-26.08,1172913.00,-5268.16,35029.35,1202674.19
+16646,Bane Veil,The Forsaken Sepulcher of Sorrows,53.67,Ghostly Magic Adamant,164.00,4836.38,230.90,793166.32,37867.60,448758.32,1279792.24
+17788,Nailpiston The Grasping,Shainan's Hold,23.96,Angels' Smoke Adamant Of The Mountains,226.00,3427.13,260.15,774531.38,58793.90,199998.07,1033323.35
+18514,Scarefear The Blade,The Tower of Aramum,42.90,Primordial Plague Mercury Of Legend,244.00,497.52,301.29,121394.88,73514.76,83811.15,278720.79
+22238,Rouge Tombreaper,Gili's Delve,-6.73,Ensorceled Gold Of The Dawn,195.00,6913.92,443.21,1348214.40,86425.95,-100424.82,1334215.53
+22266,Beamtrap,Waleah Castle,0.85,Primordial Plague Mercury Of Legend,112.00,497.52,301.29,55722.24,33744.48,894.67,90361.39

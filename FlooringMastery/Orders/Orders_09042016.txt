@@ -1,0 +1,17 @@
+312,Gloria "Devil" McCoy,AL,1.00,Pinecones,105.00,1.50,2.00,157.50,210.00,3.68,371.18
+1090,"Sunrise" Miles,AL,1.00,Leather,244.00,10.00,15.00,2440.00,3660.00,61.00,6161.00
+1393,Dorothy "the Hunter",UT,0.00,Pebbles,260.00,0.80,4.40,208.00,1144.00,0.00,1352.00
+5246,Vanessa "Scalper" Rhodes,TX,0.50,Leather,48.00,10.00,18.15,480.00,871.20,0.00,1351.20
+7796,Lucky Johnson,TX,0.50,Beechwood,206.00,3.00,5.50,618.00,1133.00,0.00,1751.00
+8175,Amanda Hart "the Loner",WY,0.31,Pebbles,260.00,0.80,4.84,208.00,1258.40,0.00,1466.40
+8772,"Sunrise" Miles,NV,0.31,Beechwood,359.00,3.00,5.50,1077.00,1974.50,0.00,3051.50
+8811,"Scalphunter" Kennedy,WY,0.31,Leather,245.00,10.00,18.15,2450.00,4446.75,0.00,6896.75
+9775,Mattie Grant "the Gambler",ND,1.25,Pinecones,108.00,1.50,2.66,162.00,287.28,4.49,453.77
+10508,"Sunrise" Miles,MO,2.20,Solid Oak,162.00,5.50,5.50,891.00,891.00,35.64,1817.64
+11222,Vicki "Mesa" Rhodes,ND,1.25,Dirt,233.00,0.50,1.00,116.50,233.00,3.50,353.00
+11708,Allison "Steel Gravedigger" Douglas,IA,1.21,Beechwood,382.00,3.00,5.50,1146.00,2101.00,32.47,3279.47
+11864,April "Thunderbird" Dunn,WY,0.31,Solid Oak,87.00,5.50,5.50,478.50,478.50,0.00,957.00
+14976,"Bane" Jennings,TX,0.67,Cedar Planks,116.00,2.20,6.05,255.20,701.80,9.57,966.57
+16256,Joanne "Damned" Miles,MS,3.00,Cedar Planks,176.00,2.20,6.05,387.20,1064.80,43.56,1495.56
+20274,Ida Russell "the Rustler",MT,4.39,Brick,188.00,5.32,6.66,1000.16,1252.08,90.09,2342.33
+22055,Cathy "Loner Demon" Murray,OK,2.93,Pebbles,174.00,0.88,4.84,153.12,842.16,29.86,1025.14

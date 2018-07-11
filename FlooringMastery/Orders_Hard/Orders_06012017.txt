@@ -1,0 +1,19 @@
+422,Blazeflare The Cremator,The Bastion of Gothmog of Udun,37.45,Succubi's Evil Mindzephyr Adamant Of The Desert,284.00,1990.16,250.07,565205.44,71019.88,235403.37,871628.69
+683,Claw Mist,The Bastion of Gothmog of Udun,37.45,Trolls' Mist Poisonplatinum Of The Twilight,308.00,516.17,394.90,158980.36,121629.20,103825.54,384435.10
+2074,Scarechain The Unspeakable,The Forsaken Tomb of Devastation,0.00,Stone Soulsteel Of The Skies,270.00,1634.80,12.01,441396.00,3242.70,0.00,444638.70
+2627,Metalbrood,The Bastion of the Lich Tyrant,43.00,Rocklava Mithril Of Revenants,230.00,1818.30,13.03,418209.00,2996.90,181118.54,602324.44
+4916,Metalghoul,The Tower of Sabiesu the Awesome,4.40,Thunderbirds' Transcendent Dreamiron,236.00,2275.25,237.70,536959.00,56097.20,23722.25,616778.45
+5277,Magus Felldrake,Gawold Castle,5.00,Primordial Plague Mercury Of Legend,109.00,339.81,273.90,37039.29,29855.10,3344.72,70239.11
+7970,Deathspike The Terrifying,Minas Gilloy,39.26,Poison Adamant,185.00,1151.38,58.58,213005.30,10837.30,87298.61,311141.21
+8325,Emberspawn,The Barrow of Terrible Horror,-1.21,Glowpearl Adamant Of Spirits,93.00,398.09,374.00,37022.37,34782.00,-718.04,71086.33
+8818,Claw Mist,The Pirate's Pipe,17.60,Primordial Plague Mercury Of Legend,226.00,452.29,301.29,102217.54,68091.54,30655.63,200964.71
+9895,Bronzespike,The Bloody Wand,12.00,Mithril Of Legend,156.00,2274.80,63.01,354868.80,9829.56,43763.80,408462.16
+10709,Shiverflame The Freezer,The Shadow Downs,13.21,Shadowhell Mithril,195.00,439.23,286.41,85649.85,55849.95,18394.97,159894.77
+11182,"Byzou, God of Animals",The Dungeon of Merciless Woe,38.62,Emerald Orichalcum,225.00,-368.87,128.90,-82995.75,29002.50,-21057.37,-75050.62
+13337,"Lenwenye, Goddess of Travel",The Citadel of Alammius,3.50,Legendary Mithril Of The Moon,350.00,2707.10,125.84,947485.00,44044.00,39661.16,1031190.16
+13571,"Maeglodor, God of Thieves",Arcanist's Farthing,3.00,Toxic Mistlead Of The Past,143.00,1557.54,136.06,222728.22,19456.58,7265.54,249450.34
+14952,Beamtrap,The Pilgrim's Cup,46.12,Lunar Bronze,136.00,753.86,337.70,102524.96,45927.20,68287.99,216740.15
+15191,"Alas, Lord of Plague",The Cracked Chalice,2.52,Mithril Of The Tropics,175.00,4126.10,11.98,722067.50,2096.50,21724.92,745888.92
+16151,Rune Rougehate,The Vaults of the Shadow Emperor,33.00,Toxin Iceplatinum Of The Undead,180.00,-377.06,-59.29,-67870.80,-10672.20,-25919.19,-104462.19
+18359,Cinderember,Archfane District,36.16,God-touched Faterainbow Orichalcum Of Spectres,214.00,370.41,32.01,79267.74,6850.14,31002.44,117120.32
+19196,Boltcrank The Trapper,The Pilgrim's Cup,46.12,Sirens' Rockgold,279.00,-352.01,199.96,-98210.79,55788.84,-19514.10,-61936.05

@@ -1,0 +1,13 @@
+3927,Allison "Steel Gravedigger" Douglas,IA,1.10,Dirt,188.00,0.50,1.00,94.00,188.00,2.82,284.82
+5825,Heather "Friendly Gambler" Barrett,ID,0.00,Leather,320.00,10.00,18.15,3200.00,5808.00,0.00,9008.00
+5863,Allison "Steel Gravedigger" Douglas,IA,1.21,Cedar Planks,102.00,2.00,5.50,204.00,561.00,7.65,772.65
+6680,Lorraine "Utah" Adams,WY,0.31,Cedar Planks,71.00,2.20,6.05,156.20,429.55,0.00,585.75
+9519,Debra "Scorpion" Lane,AR,2.20,Beechwood,223.00,3.00,5.50,669.00,1226.50,37.91,1933.41
+11747,Maureen "Cursed" Andrews,MO,2.20,Brick,143.00,4.84,6.66,692.12,952.38,32.89,1677.39
+11985,Mabel "Vixen Cursed" King,MO,2.20,Beechwood,177.00,3.30,5.50,584.10,973.50,31.15,1588.75
+13766,Ida Russell "the Rustler",WY,0.31,Cedar Planks,181.00,2.20,6.05,398.20,1095.05,0.00,1493.25
+14444,Vicki "Mesa" Rhodes,UT,0.00,Leather,253.00,11.00,18.15,2783.00,4591.95,0.00,7374.95
+14493,Geraldine "Revenge" Warren,MO,2.20,Cedar Planks,253.00,2.20,6.05,556.60,1530.65,41.74,2128.99
+15632,Victoria "the Dancer",CA,0.61,Pebbles,214.00,0.88,4.84,188.32,1035.76,12.24,1236.32
+16610,Jo "the Joker",OK,2.42,Solid Oak,181.00,5.50,6.05,995.50,1095.05,41.81,2132.36
+22912,Wilma "Tornado" Brooks,IA,1.33,Brick,223.00,5.32,6.66,1186.36,1485.18,26.72,2698.26

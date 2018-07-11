@@ -1,0 +1,24 @@
+1763,Lorraine "Utah" Adams,TX,0.50,Solid Oak,173.00,5.00,5.00,865.00,865.00,0.00,1730.00
+4506,Jo "the Joker",ID,0.00,Packed Dirt,270.00,1.00,1.50,270.00,405.00,0.00,675.00
+5808,"Sunrise" Miles,WY,0.31,Beechwood,219.00,3.00,5.00,657.00,1095.00,0.00,1752.00
+5840,Stella "the Bully",NV,0.25,Pebbles,140.00,0.80,4.40,112.00,616.00,0.00,728.00
+6781,Vengeful Montgomery,TX,0.50,Dirt,171.00,0.50,1.00,85.50,171.00,0.00,256.50
+7733,Melissa "Lonesome Stalker" Riley,MS,3.00,Dirt,57.00,0.50,1.00,28.50,57.00,2.56,88.06
+8806,Friendly Howell,WY,0.31,Cedar Planks,250.00,2.20,6.05,550.00,1512.50,0.00,2062.50
+9809,Surgeon Grant,NM,2.20,Reeds,223.00,0.75,2.20,167.25,490.60,13.16,671.01
+10623,Cathy "Loner Demon" Murray,OK,2.42,Reeds,285.00,0.75,2.20,213.75,627.00,16.82,857.57
+11570,Cynthia "the Vixen",NV,0.31,Cedar Planks,155.00,2.20,6.05,341.00,937.75,0.00,1278.75
+11728,Black Beck,UT,0.00,Cedar Planks,192.00,2.20,6.05,422.40,1161.60,0.00,1584.00
+12923,Victoria "the Dancer",TX,0.67,Reeds,354.00,0.75,2.20,265.50,778.80,10.44,1054.74
+13140,Amanda Hart "the Loner",CA,0.61,Packed Dirt,366.00,1.00,1.82,366.00,666.12,10.32,1042.44
+13323,Jo "the Joker",AL,1.00,Dirt,216.00,0.50,1.00,108.00,216.00,3.24,327.24
+13351,Ida Russell "the Rustler",AR,2.20,Solid Oak,181.00,5.50,5.50,995.50,995.50,39.82,2030.82
+13758,Lorraine "Utah" Adams,AR,2.20,Solid Oak,190.00,5.50,5.50,1045.00,1045.00,41.80,2131.80
+14701,Darlene "Loner" Ford,KS,0.55,Reeds,257.00,0.75,2.20,192.75,565.40,7.58,765.73
+15809,Theresa "Kid" Robinson,IA,1.21,Pinecones,372.00,1.50,2.66,558.00,989.52,15.48,1563.00
+15868,Amanda Hart "the Loner",MO,2.20,Cedar Planks,132.00,2.20,6.05,290.40,798.60,21.78,1110.78
+17875,Renee "Loco Tracker" Jordan,WY,0.31,Reeds,290.00,0.83,2.20,240.70,638.00,0.00,878.70
+20271,Cathy "Loner Demon" Murray,IA,1.33,Pinecones,76.00,1.50,2.66,114.00,202.16,3.16,319.32
+21198,Heather "Friendly Gambler" Barrett,TX,0.67,Packed Dirt,235.00,1.10,2.42,258.50,568.70,8.27,835.47
+21715,Renee "Hellish Empress" Banks,UT,0.00,Reeds,86.00,0.83,2.20,71.38,189.20,0.00,260.58
+22932,Florence "Leather Doc" Grant,KS,0.55,Solid Oak,320.00,5.50,6.66,1760.00,2131.20,38.91,3930.11

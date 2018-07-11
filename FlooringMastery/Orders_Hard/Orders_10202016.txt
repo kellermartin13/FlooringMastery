@@ -1,0 +1,14 @@
+1340,Seraphim Tsunami,The Drunken Thief,9.50,Muck Orichalcum Of Ogres,167.00,3115.32,274.19,520258.44,45789.73,56604.82,622652.99
+1731,Shadow Tomblion,Archtemple District,27.76,Unknowable Mindsilver,285.00,3565.00,366.00,1016025.00,104310.00,313693.80,1434028.80
+5011,"Selik, God of Death",The Scoundrel and Flask,-4.58,Otherworldly Mirror Orichalcum,129.00,-247.00,478.50,-31863.00,61726.50,-1493.18,28370.32
+5815,Lightning Brand,The Archer and Blade,9.00,Ensorceled Sandmetal Of Spirits,145.00,2956.98,87.00,428762.10,12615.00,39723.94,481101.04
+7971,Wheelspawn,The Grey Plains,19.97,Djinni's Mind Fogiron,126.00,2301.02,74.02,289928.52,9326.52,59851.01,359106.05
+8967,Rouge Roguemist,Kada's Deep,33.00,White Platinum,279.00,-52.59,145.00,-14672.61,40455.00,8508.19,34290.58
+12992,"Avriel, God of Death",Reheath Stronghold,8.00,Phantasmal Lead,212.00,-552.97,245.47,-117229.64,52039.64,-5215.20,-70405.20
+13051,Clash Lonedrake,The Glano Forest,3.00,Phantasmal Smokezephyr Mercury Of Men,195.00,-464.37,75.90,-90552.15,14800.50,-2272.55,-78024.20
+15893,Rose Anchor,The Tower of Sabiesu the Awesome,5.32,Glittering Orichalcum,131.00,-158.51,360.23,-20764.81,47190.13,1321.27,27746.59
+16032,Rose Anchor,The Vaults of the Shadow Emperor,33.00,Incubi's Mirrorfog Iron Of The Ocean,58.00,5806.50,-26.08,336777.00,-1512.64,110637.24,445901.60
+16286,Scarefear The Blade,The Pilgrim's Cup,46.12,Timeiron,221.00,1596.00,251.16,352716.00,55506.36,187782.29,596004.65
+16785,Lightning Brand,Reyny Keep,11.00,Ghostly Magic Adamant,52.00,4836.38,230.90,251491.76,12006.80,28984.84,292483.40
+16999,Jericho Wolf,Castle Village,45.39,Litches' Fatal Mithril Of The Past,242.00,1460.78,405.96,353508.76,98242.32,203287.99,655039.07
+17081,Song Runetomb,The Citadel of Lord Greywulf,33.04,Venom Jewelmetal Of The Desert,296.00,1388.00,298.14,410848.00,88249.44,164702.16,663799.60

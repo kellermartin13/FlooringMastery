@@ -1,0 +1,22 @@
+1326,Stella "the Bully",NM,2.20,Pebbles,86.00,0.80,4.40,68.80,378.40,8.94,456.14
+1729,Tina "Lady" Anderson,ID,0.00,Packed Dirt,272.00,1.00,1.50,272.00,408.00,0.00,680.00
+1816,Cathy "Wildfire" Neal,KS,0.50,Cedar Planks,94.00,2.00,5.00,188.00,470.00,0.00,658.00
+2695,Darlene "Loner" Ford,IA,1.00,Solid Oak,192.00,5.50,5.00,1056.00,960.00,20.16,2036.16
+3491,Julia "Bandit" Chandler,UT,0.00,Cedar Planks,326.00,2.00,5.50,652.00,1793.00,0.00,2445.00
+4185,Debra "Scorpion" Lane,MT,3.00,Beechwood,353.00,3.00,5.00,1059.00,1765.00,84.72,2908.72
+4215,Friendly Howell,AL,1.00,Pinecones,245.00,1.50,2.42,367.50,592.90,9.60,970.00
+6061,Allison "Steel Gravedigger" Douglas,CA,0.55,Packed Dirt,196.00,1.00,1.50,196.00,294.00,4.90,494.90
+6648,Dorothy "the Hunter",KS,0.50,Cedar Planks,370.00,2.20,6.05,814.00,2238.50,0.00,3052.50
+7963,Geraldine "Revenge" Warren,NM,2.20,Cedar Planks,359.00,2.20,6.05,789.80,2171.95,59.24,3020.99
+8212,Tammy Carlson "the Killer",WY,0.31,Brick,203.00,4.84,6.66,982.52,1351.98,0.00,2334.50
+9797,Vicki "Mesa" Rhodes,CA,0.55,Leather,24.00,10.00,18.15,240.00,435.60,6.76,682.36
+10293,Beth "Fortunate Shooter" Powell,UT,0.00,Leather,139.00,10.00,18.15,1390.00,2522.85,0.00,3912.85
+10396,Jacqueline "Riding Doc" Washington,AL,1.00,Pebbles,129.00,0.88,4.84,113.52,624.36,7.38,745.26
+13902,"Sunrise" Miles,TX,0.67,Cedar Planks,196.00,2.20,6.05,431.20,1185.80,16.17,1633.17
+16296,Julia "Bandit" Chandler,ID,0.00,Packed Dirt,103.00,1.10,2.20,113.30,226.60,0.00,339.90
+17436,April "Thunderbird" Dunn,NM,2.66,Brick,155.00,5.32,6.66,824.60,1032.30,55.71,1912.61
+18096,Jacqueline "Riding Doc" Washington,CA,0.61,Dirt,261.00,0.50,1.00,130.50,261.00,3.92,395.42
+18260,Heather "Tornado" Newman,MS,3.00,Packed Dirt,169.00,1.10,2.20,185.90,371.80,16.73,574.43
+20098,Amanda Hart "the Loner",NV,0.31,Beechwood,317.00,3.63,6.05,1150.71,1917.85,0.00,3068.56
+20772,Beth "Fortunate Shooter" Powell,UT,0.00,Cedar Planks,112.00,2.20,6.66,246.40,745.92,0.00,992.32
+20919,April "Thunderbird" Dunn,UT,0.00,Solid Oak,277.00,5.50,6.66,1523.50,1844.82,0.00,3368.32

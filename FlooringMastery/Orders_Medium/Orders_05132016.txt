@@ -1,0 +1,16 @@
+1777,Wilma "Tornado" Brooks,KS,0.50,Dirt,130.00,0.50,1.00,65.00,130.00,0.00,195.00
+2154,Helen Webb "the Dancer",OK,2.00,Packed Dirt,200.00,1.00,1.50,200.00,300.00,10.00,510.00
+6583,Cynthia "the Vixen",MT,3.00,Brick,136.00,4.84,6.66,658.24,905.76,46.92,1610.92
+7019,Vanessa "Scalper" Rhodes,WY,0.31,Pinecones,276.00,1.50,2.66,414.00,734.16,0.00,1148.16
+7992,Theresa "Scalphunter" Romero,ND,1.25,Packed Dirt,132.00,1.00,1.50,132.00,198.00,3.30,333.30
+10702,Lena Chapman "the Bully",AR,2.20,Brick,320.00,4.84,6.66,1548.80,2131.20,73.60,3753.60
+11039,Cathy "Wildfire" Neal,MO,2.20,Pebbles,344.00,0.88,4.84,302.72,1664.96,39.35,2007.03
+11660,Maureen "Cursed" Andrews,KS,0.55,Cedar Planks,310.00,2.20,6.05,682.00,1875.50,25.58,2583.08
+12934,Julia "Bandit" Chandler,AL,1.00,Brick,159.00,4.84,6.66,769.56,1058.94,18.28,1846.78
+15929,"Doom" McCoy,ID,0.00,Packed Dirt,133.00,1.10,2.20,146.30,292.60,0.00,438.90
+17155,Florence "Leather Doc" Grant,KS,0.55,Packed Dirt,104.00,1.10,2.20,114.40,228.80,3.43,346.63
+18610,Renee "Hellish Empress" Banks,WY,0.31,Beechwood,284.00,3.63,5.50,1030.92,1562.00,0.00,2592.92
+19312,Black Beck,TX,0.67,Cedar Planks,272.00,2.20,6.66,598.40,1811.52,24.10,2434.02
+22261,Amanda Hart "the Loner",UT,0.00,Beechwood,304.00,3.63,6.05,1103.52,1839.20,0.00,2942.72
+22338,Melissa "Lonesome Stalker" Riley,ID,0.00,Leather,161.00,11.00,19.97,1771.00,3215.17,0.00,4986.17
+22951,Renee "Loco Tracker" Jordan,WY,0.34,Pinecones,255.00,1.50,2.93,382.50,747.15,0.00,1129.65

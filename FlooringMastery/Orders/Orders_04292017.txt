@@ -1,0 +1,15 @@
+2263,Elizabeth "the Bully",NM,2.20,Packed Dirt,216.00,1.00,1.50,216.00,324.00,10.80,550.80
+2704,Victoria "the Dancer",OK,2.00,Reeds,158.00,0.75,2.00,118.50,316.00,8.69,443.19
+4866,Minnie Lawson "the Apostle",AL,1.00,Reeds,83.00,0.75,2.20,62.25,182.60,2.45,247.30
+7651,Vanessa "Scalper" Rhodes,UT,0.00,Dirt,214.00,0.50,1.00,107.00,214.00,0.00,321.00
+8309,Evelyn "Evil Joker" Taylor,UT,0.00,Solid Oak,308.00,5.50,5.50,1694.00,1694.00,0.00,3388.00
+9235,Dorothy "the Hunter",KS,0.50,Pinecones,100.00,1.50,2.66,150.00,266.00,0.00,416.00
+10046,Deborah "the Lady",CA,0.55,Cedar Planks,147.00,2.20,6.05,323.40,889.35,12.13,1224.88
+12401,Susan "Damnation" Fleming,AR,2.20,Brick,308.00,4.84,6.66,1490.72,2051.28,70.84,3612.84
+12752,Vanessa "Scalper" Rhodes,IA,1.21,Pebbles,56.00,0.88,4.84,49.28,271.04,3.20,323.52
+14994,Tammy Carlson "the Killer",MT,3.99,Leather,367.00,11.00,18.15,4037.00,6661.05,427.92,11125.97
+15322,Friendly Howell,CA,0.61,Leather,172.00,11.00,18.15,1892.00,3121.80,50.14,5063.94
+17105,Dorothy "the Hunter",KS,0.55,Leather,79.00,11.00,19.97,869.00,1577.63,24.47,2471.10
+17170,Maureen "Cursed" Andrews,UT,0.00,Reeds,64.00,0.83,2.20,53.12,140.80,0.00,193.92
+17321,Lucky Johnson,KS,0.55,Cedar Planks,23.00,2.20,6.66,50.60,153.18,2.04,205.82
+21475,Surgeon Grant,MS,3.00,Solid Oak,259.00,5.50,6.66,1424.50,1724.94,94.48,3243.92

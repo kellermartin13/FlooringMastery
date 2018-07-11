@@ -1,0 +1,18 @@
+1798,"Gadriel, God of Resurrection",Barad Cune,26.00,Djinni's Evil Sandobsidian Steel Of The Future,327.00,3826.00,157.07,1251102.00,51361.89,338640.61,1641104.50
+1813,Evilfear The Horrorific,The Forsaken Tomb of Devastation,0.00,Djinni's Evil Sandobsidian Steel Of The Future,34.00,3826.00,157.07,130084.00,5340.38,0.00,135424.38
+3453,Lance Knightseraph,Gawold Castle,5.00,Heavenly Dreamsilver Of The Night,97.00,1826.98,112.00,177217.06,10864.00,9404.05,197485.11
+4073,Clash Lonedrake,The Archer and Scroll,39.60,Grayplatinum,177.00,2278.43,279.06,403282.11,49393.62,181070.29,633746.02
+4240,Springcoil,The Lost Sanctum of Woe,3.00,Lycanthropes' Gold,239.00,4846.18,66.14,1158237.02,15807.46,35221.33,1209265.81
+5019,"Addon, Lord of Death",The Demon and Toad,23.75,Sphinxes' Unknown Poisongold Of The Future,67.00,3554.77,23.86,238169.59,1598.62,57544.37,297312.58
+6721,Steelterror The Blade,South Brightcrown Borough,42.25,Magic Adamant,32.00,1838.00,207.64,58816.00,6644.48,27493.40,92953.88
+8139,Tiger Mistmidnight,Minas Gilloy,39.26,Violetstone Tin Of Death,101.00,2245.23,156.10,226768.23,15766.10,94588.39,337122.72
+9793,Storm Squallmourner,The Tomb of Gothmog of Udun,-3.00,Unicorns' Fatal Magma Metal Of The Ocean,219.00,1792.04,392.70,392456.76,86001.30,-14353.74,464104.32
+11304,Evilbrood,The Forsaken Sepulcher of Sorrows,48.79,Phantasmal Plague Adamant,107.00,-186.03,-7.18,-19905.21,-768.26,-10130.00,-30803.47
+15019,Flora Amberslayer,The Dark Caverns of Woe,3.29,Grayplatinum,177.00,2506.27,306.97,443609.79,54333.69,14938.30,512881.78
+16446,Spikebrood The Disinterred,The Broken Arrow,36.39,Planar Rainfate Mithril,106.00,1185.84,320.52,125699.04,33975.12,57482.70,217156.86
+17153,Lightning Brand,Castle Village,45.39,Litches' Fatal Mithril Of The Past,118.00,1460.78,405.96,172372.04,47903.28,99123.89,319399.21
+18833,Storm Squallmourner,Mahyrst Keep,30.42,Sphinxes' Opalpearl Platinum Of Legend,350.00,5805.82,390.81,2032037.00,136783.50,650646.15,2819466.65
+18835,Springcoil,The Bastion of Barbos,28.34,Venom Timegold Of Dwarves,102.00,3339.60,295.90,340639.20,30181.80,103829.88,474650.88
+19562,Blazefreeze The Chiller,Fellfen Keep,61.53,Sirens' Rockgold,216.00,-352.01,199.96,-76034.16,43191.36,-20362.54,-53205.34
+20566,Springsprocket,The Black Barrow of Bery,-0.10,Golems' Stonesapphire Gold Of The Glacier,169.00,4444.06,116.57,751046.14,19700.33,0.00,770746.47
+20650,Metalghoul,Tradun Castle,41.43,Toxin Iceplatinum Of The Undead,376.00,-377.06,-59.29,-141774.56,-22293.04,-67267.72,-231335.32

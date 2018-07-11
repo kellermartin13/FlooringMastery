@@ -1,0 +1,16 @@
+90,Heather "Friendly Gambler" Barrett,AR,2.20,Pebbles,180.00,0.80,4.00,144.00,720.00,17.28,881.28
+1450,Renee "Loco Tracker" Jordan,UT,0.00,Packed Dirt,151.00,1.00,1.50,151.00,226.50,0.00,377.50
+2011,Friendly Howell,MO,2.20,Brick,254.00,4.00,5.00,1016.00,1270.00,45.72,2331.72
+2748,Theresa "Scalphunter" Romero,TX,0.50,Packed Dirt,295.00,1.00,1.50,295.00,442.50,0.00,737.50
+7743,Marie "Raven" Chapman,KS,0.50,Pinecones,51.00,1.50,2.66,76.50,135.66,0.00,212.16
+9616,Darlene "Loner" Ford,ID,0.00,Solid Oak,162.00,5.50,5.50,891.00,891.00,0.00,1782.00
+9727,Julia "Bandit" Chandler,AR,2.20,Brick,39.00,4.84,6.66,188.76,259.74,8.97,457.47
+9898,April "Thunderbird" Dunn,AR,2.20,Leather,206.00,10.00,18.15,2060.00,3738.90,115.98,5914.88
+15406,Diana "Mistress" Morgan,NV,0.31,Beechwood,103.00,3.63,5.50,373.89,566.50,0.00,940.39
+17286,Lucky Johnson,CA,0.61,Pinecones,68.00,1.50,2.66,102.00,180.88,2.83,285.71
+17880,Heather "Friendly Gambler" Barrett,KS,0.55,Leather,37.00,11.00,19.97,407.00,738.89,11.46,1157.35
+17955,Theresa "Kid" Robinson,TX,0.67,Packed Dirt,291.00,1.10,2.20,320.10,640.20,9.60,969.90
+18954,Ida Russell "the Rustler",MS,3.00,Packed Dirt,249.00,1.10,2.20,273.90,547.80,24.65,846.35
+19485,"Doom" McCoy,MS,3.00,Dirt,290.00,0.50,1.00,145.00,290.00,13.05,448.05
+19921,Lucky Johnson,AR,2.20,Solid Oak,124.00,5.50,6.66,682.00,825.84,30.16,1538.00
+21890,Cynthia "the Vixen",NM,2.93,Leather,140.00,11.00,19.97,1540.00,2795.80,130.07,4465.87

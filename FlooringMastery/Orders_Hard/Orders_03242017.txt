@@ -1,0 +1,17 @@
+438,Bronzespawn,The Dismal Marsh,5.00,Tritons' Time Stoneiron Of Legend,170.00,1760.00,168.90,299200.00,28713.00,16395.65,344308.65
+1154,Freezebrood,The Drunken Thief,9.50,Yellow Mistearth Copper,151.00,4159.62,-27.40,628102.62,-4137.40,62396.52,686361.74
+2130,Bonescare,The Chuallanto Jungle,37.00,Angels' Adamant,310.00,1304.00,179.30,404240.00,55583.00,170134.51,629957.51
+6628,Lance Knightseraph,Archtemple District,27.76,Foul Ice Bronze Of Life,68.00,-92.21,129.80,-6270.28,8826.40,715.71,3271.83
+6962,Gravebone,The Demon and Toad,23.75,Angels' Smoke Adamant Of The Mountains,85.00,2832.34,215.00,240748.90,18275.00,62165.74,321189.64
+7523,Spiketerror The Skeletal,The Dancing Minstrel,21.20,Golems' Stonesapphire Gold Of The Glacier,244.00,3672.77,105.97,896155.88,25856.68,193622.64,1115635.20
+7811,Gravebone,The Dungeon of Dismal Terror,-3.50,Poison Adamant,226.00,1151.38,58.58,260211.88,13239.08,-10938.04,262512.92
+9622,Burnfreeze The Cold,The Pirate's Pipe,17.60,Ghostly Magic Adamant,154.00,4836.38,230.90,744802.52,35558.60,140465.00,920826.12
+10676,"Suriel, Lord of Animals",The Citadel of Lord Greywulf,33.04,Shadowhell Mithril,69.00,439.23,286.41,30306.87,19762.29,16522.82,66591.98
+12043,"Ingwenel, God of War",The Black Barrow of Bery,-0.07,Incubi's Glittering Tin Of The Future,306.00,3349.54,79.86,1024959.24,24437.16,0.00,1049396.40
+12892,"Eumyan, Goddess of Law",The Nulukkhath Spires,10.59,Phantasmal Smokezephyr Mercury Of Men,197.00,-464.37,75.90,-91480.89,14952.30,-8418.14,-84946.73
+14397,Blazeflare The Cremator,The Bastion of the Lich Tyrant,43.00,Ghostly Soul Adamant,249.00,3222.96,229.53,802517.04,57152.97,369658.10,1229328.11
+14801,Deathspike The Terrifying,Reyny Keep,11.00,Ensorceled Sandmetal Of Spirits,186.00,2956.98,95.70,549998.28,17800.20,62457.83,630256.31
+17217,Graveterror,North Arcanist's Farthing,55.18,Fog Lavaplatinum Of Life,90.00,1078.00,18.70,97020.00,1683.00,54286.65,152989.65
+19746,Seraph Jester,The Temple of Merciless Necromancy,50.94,Sirens' Rockgold,288.00,-352.01,199.96,-101378.88,57588.48,-22333.10,-66123.50
+21158,"Addon, Lord of Death",Pewold Keep,22.57,God-touched Faterainbow Orichalcum Of Spectres,23.00,370.41,35.21,8519.43,809.83,2145.73,11474.99
+22412,Song Runetomb,The Cuitamba Jungle,33.88,Violetstone Tin Of Death,248.00,2469.75,171.71,612498.00,42584.08,222727.91,877809.99

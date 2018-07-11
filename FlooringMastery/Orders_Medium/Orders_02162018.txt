@@ -1,0 +1,19 @@
+801,Vanessa "Scalper" Rhodes,MO,2.20,Pebbles,357.00,0.80,4.00,285.60,1428.00,34.27,1747.87
+1122,Cynthia "the Vixen",KS,0.50,Brick,265.00,4.00,5.00,1060.00,1325.00,0.00,2385.00
+2038,Ida Russell "the Rustler",AR,2.20,Cedar Planks,119.00,2.00,5.50,238.00,654.50,17.85,910.35
+2062,Mattie Grant "the Gambler",AL,1.00,Packed Dirt,354.00,1.00,1.50,354.00,531.00,8.85,893.85
+4135,Susan "Damnation" Fleming,MO,2.20,Brick,325.00,4.40,5.50,1430.00,1787.50,64.35,3281.85
+4192,Michele Watson "the Loner",NV,0.25,Brick,221.00,4.40,5.50,972.40,1215.50,0.00,2187.90
+6088,Black Beck,NM,2.20,Reeds,213.00,0.75,2.20,159.75,468.60,12.57,640.92
+8712,Minnie Lawson "the Apostle",OK,2.20,Pebbles,176.00,0.88,4.84,154.88,851.84,20.13,1026.85
+9532,Gladys "Locoweed" Keller,ND,1.25,Brick,115.00,4.84,6.66,556.60,765.90,13.22,1335.72
+12191,Michele Watson "the Loner",UT,0.00,Dirt,282.00,0.50,1.00,141.00,282.00,0.00,423.00
+12943,Friendly Howell,ID,0.00,Brick,124.00,4.84,6.66,600.16,825.84,0.00,1426.00
+12960,Friendly Howell,KS,0.55,Dirt,268.00,0.50,1.00,134.00,268.00,4.02,406.02
+13028,Vengeful Montgomery,TX,0.67,Reeds,340.00,0.75,2.20,255.00,748.00,10.03,1013.03
+14722,April "Thunderbird" Dunn,KS,0.55,Leather,283.00,11.00,18.15,3113.00,5136.45,82.49,8331.94
+17107,Gloria "Devil" McCoy,WY,0.31,Brick,228.00,5.32,6.66,1212.96,1518.48,0.00,2731.44
+17356,Renee "Hellish Empress" Banks,MS,3.00,Dirt,108.00,0.50,1.00,54.00,108.00,4.86,166.86
+18069,Mattie Grant "the Gambler",OK,2.42,Cedar Planks,187.00,2.20,6.66,411.40,1245.42,33.14,1689.96
+19115,Tina "Lady" Anderson,WY,0.31,Beechwood,173.00,3.63,5.50,627.99,951.50,0.00,1579.49
+22913,Renee "Hellish Empress" Banks,IA,1.33,Pebbles,129.00,0.88,5.32,113.52,686.28,8.00,807.80

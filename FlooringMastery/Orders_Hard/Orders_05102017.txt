@@ -1,0 +1,23 @@
+1827,Flameflare The Evil,Tower Farthing,22.41,Djinni's Evil Sandobsidian Steel Of The Future,115.00,3826.00,157.07,439990.00,18063.05,100771.67,558824.72
+1875,Blazefreeze The Chiller,The Chuallanto Jungle,37.00,Angels' Adamant,192.00,1304.00,179.30,250368.00,34425.60,105373.63,390167.23
+2179,"Ahah, Goddess of Knowledge",Hartshill Ward,41.98,Djinni's Evil Sandobsidian Steel Of The Future,152.00,3826.00,157.07,581552.00,23874.64,254279.19,859705.83
+3170,Shadow Tomblion,Hafeld Keep,29.00,Phantasmal Tin Of The Swamps,207.00,4074.00,-6.60,843318.00,-1366.20,244166.02,1086117.82
+3222,Sunrise Godwarlock,The Archer and Blade,9.00,Violetdream Iron,152.00,1224.69,349.36,186152.88,53102.72,21533.00,260788.60
+4645,"Alik, Goddess of Trickery",Grove Farthing,18.00,Otherworldly Mirror Orichalcum,162.00,-247.00,478.50,-40014.00,77517.00,6750.54,44253.54
+5217,Deathbrood,The Wizard's House,43.58,Sphinxes' Mistsoul Bronze Of The Past,309.00,1972.55,183.70,609517.95,56763.30,293163.75,959445.00
+7615,Evilbrood,The Lazy Sage,19.97,Shadowy Adamant,230.00,618.93,478.58,142353.90,110073.40,50485.46,302912.76
+8209,Springcoil,The Lazy Sage,19.97,Foul Ice Bronze Of Life,156.00,-92.21,129.80,-14384.76,20248.80,1172.81,7036.85
+8480,Chainnail,The Bastion of the Lich Tyrant,43.00,Incubi's Iron Of The Dawn,272.00,1200.96,424.31,326661.12,115412.32,190091.58,632165.02
+10788,Scarefear The Blade,The Dread Hive of Illfang the Kobold Lord,1.33,Litches' Fatal Mithril Of The Past,126.00,1327.98,369.05,167325.48,46500.30,2138.26,215964.04
+11488,Snarepiston The Mechanical,The Citadel of Cheno,7.33,Icy Shock Silver,189.00,1482.98,407.00,280283.22,76923.00,25004.44,382210.66
+12293,Slayer Claw,The Tomb of Gothmog of Udun,-3.30,God-touched Faterainbow Orichalcum Of Spectres,78.00,370.41,32.01,28891.98,2496.78,-941.66,30447.10
+13024,"Maglioneth, Lord of the Sun",Gawold Castle,6.05,Mind Lead,151.00,2844.70,309.10,429549.70,46674.10,28573.43,504797.23
+13397,Grave Mistseeker,Arcanist's Farthing,3.00,Meteoric Dustzephyr Orichalcum,174.00,375.00,268.49,65250.00,46717.26,3359.02,115326.28
+16893,Rouge Tombreaper,Lacot Stronghold,45.22,Mistgold Of Men,183.00,4080.46,53.24,746724.18,9742.92,340410.20,1096877.30
+19607,Rouge Tombreaper,Noble's Village,33.28,God-touched Faterainbow Orichalcum Of Spectres,250.00,370.41,32.01,92602.50,8002.50,33199.65,133804.65
+20909,Rouge Roguemist,The Forsaken Hive of Galima the Mighty,29.89,Hell Mercury Of The East,281.00,4636.34,378.81,1302811.54,106445.61,422777.14,1832034.29
+21337,"Ingwenel, God of War",Eved Castle,5.09,Angels' Smoke Adamant Of The Mountains,96.00,3427.13,260.15,329004.48,24974.40,17698.94,371677.82
+21385,Snowflame The Evil,Pewold Keep,22.57,Sphinxes' Opalpearl Platinum Of Legend,85.00,5805.82,429.89,493494.70,36540.65,121908.13,651943.48
+21444,Flora Amberslayer,The Fortress of Asmamur,-4.93,Phantasmal Tin Of The Swamps,266.00,5964.74,-7.99,1586620.84,-2125.34,-79224.78,1505270.72
+21464,"Ariel, God of Luck",Pawic Keep,0.62,Hidden Shadowice Lead,186.00,2729.00,-62.23,507594.00,-11574.78,4960.19,500979.41
+23049,"Maglioneth, Lord of the Sun",The Secret Shrine of the Gargoyle Count,-2.00,Icy Shock Silver,161.00,1794.41,595.89,288900.01,95938.29,-7696.77,377141.53

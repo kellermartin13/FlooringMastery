@@ -1,0 +1,13 @@
+235,Cinderember,Waleah Castle,0.77,Venom Timegold Of Dwarves,235.00,3036.00,269.00,713460.00,63215.00,7766.75,784441.75
+4021,Storm Squallmourner,The Hunter and Rose,40.40,Tritons' Time Stoneiron Of Legend,56.00,1760.00,168.90,98560.00,9458.40,43207.36,151225.76
+7049,Gale Jackalguard,Mahyrst Keep,25.14,Spectres' Shadowy Terrorglow Adamant Of Life,110.00,4694.80,205.50,516428.00,22605.00,134758.25,673791.25
+7225,Tiger Mistmidnight,Barad Kesa,4.32,Hidden Shadowice Lead,214.00,2729.00,-62.23,584006.00,-13317.22,22827.55,593516.33
+8840,Burnfreeze The Cold,The Pirate's Pipe,17.60,Ghouls' Imperial Soulzephyr Mithril Of The Seas,61.00,4123.68,122.49,251544.48,7471.89,46622.95,305639.32
+12483,Claw Mist,Archscepter Borough,3.00,Thunderbirds' Transcendent Dreamiron,188.00,2275.25,237.70,427747.00,44687.60,14173.04,486607.64
+13359,Jericho Wolf,Arcanist's Farthing,3.00,Ghostly Soul Adamant,246.00,3222.96,229.53,792848.16,56464.38,25479.38,874791.92
+15187,Wheelspawn,The Greedy Wench,32.70,Shadow Steel,201.00,5660.12,511.83,1137684.12,102877.83,409385.44,1649947.39
+15419,Burnfreeze The Cold,Barad Kesa,4.75,Primordial False Gold,174.00,5395.80,248.60,938869.20,43256.40,49106.28,1031231.88
+16521,Graveterror,Lacot Stronghold,45.22,Ghostly Magic Adamant,226.00,4836.38,230.90,1093021.88,52183.40,515342.38,1660547.66
+17154,Burnbrood The Freezer,The Citadel of Lord Greywulf,33.04,Primordial Mud Orichalcum,236.00,-469.36,85.11,-110768.96,20085.96,-29925.39,-120608.39
+21627,"Zepul, Lady of Vengeance",Pewold Keep,22.57,Golems' Stonesapphire Gold Of The Glacier,231.00,4444.06,128.23,1026577.86,29621.13,242925.77,1299124.76
+22229,Wheelspawn,Gili's Delve,-6.73,Ensorceled Gold Of The Dawn,319.00,6913.92,443.21,2205540.48,141383.99,-164284.71,2182639.76

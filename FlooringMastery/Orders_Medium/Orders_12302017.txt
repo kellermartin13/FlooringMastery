@@ -1,0 +1,10 @@
+4641,Amanda Hart "the Loner",UT,0.00,Solid Oak,142.00,5.50,5.50,781.00,781.00,0.00,1562.00
+4708,Tina "Lady" Anderson,KS,0.50,Cedar Planks,55.00,2.00,5.50,110.00,302.50,0.00,412.50
+4937,Heather "Tornado" Newman,ID,0.00,Solid Oak,161.00,5.50,5.50,885.50,885.50,0.00,1771.00
+5567,"Bane" Jennings,MT,3.00,Cedar Planks,182.00,2.00,5.50,364.00,1001.00,40.95,1405.95
+10707,Tammy Carlson "the Killer",IA,1.21,Pinecones,120.00,1.50,2.66,180.00,319.20,4.99,504.19
+12470,Vengeful Robertson,MO,2.20,Cedar Planks,163.00,2.20,6.05,358.60,986.15,26.90,1371.65
+14939,Julia "Bandit" Chandler,MO,2.20,Cedar Planks,137.00,2.20,6.05,301.40,828.85,22.60,1152.85
+17404,"Sunrise" Miles,MS,3.00,Brick,378.00,5.32,6.66,2010.96,2517.48,135.85,4664.29
+19515,Cynthia "the Vixen",WY,0.31,Pebbles,257.00,0.88,4.84,226.16,1243.88,0.00,1470.04
+22631,Betty "Happy Thinker" Watson,WY,0.34,Reeds,53.00,0.91,2.42,48.23,128.26,0.00,176.49

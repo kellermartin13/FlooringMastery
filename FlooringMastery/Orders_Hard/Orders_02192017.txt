@@ -1,0 +1,21 @@
+1744,Spikespawn,The Pilgrim's Cup,41.93,Falserainbow Lead,204.00,3215.00,233.00,655860.00,47532.00,295424.64,998816.64
+3414,Dawn Darkzealot,Gawold Castle,5.00,Unknowable Mindsilver,161.00,3565.00,366.00,573965.00,58926.00,31644.55,664535.55
+4102,Mecharig The Living Device,Ring District,35.00,Sapphire Mindlead,257.00,1307.71,47.00,336081.47,12079.00,121856.16,470016.63
+4945,Tarot Dawn,North Grove Ward,6.60,Zephyr Adamant,81.00,4224.00,102.93,342144.00,8337.33,24533.69,375015.02
+6579,Spiketerror The Skeletal,Weke Tower,-0.05,Glittering Orichalcum,99.00,-144.10,360.23,-14265.90,35662.77,0.00,21396.87
+7200,"Penur, Lord of the Sea",The Flying Witch,11.45,Unicorns' Evil Mithril,308.00,4802.49,312.00,1479166.92,96096.00,173278.92,1748541.84
+7818,Maverick Wind,The Dungeon of Dismal Terror,-3.50,Fairies' Supreme Mistsmoke Lead Of The Future,120.00,3349.50,324.73,401940.00,38967.60,-17636.30,423271.30
+7890,"Lionare, God of the Lost",The Cuitamba Jungle,30.80,Toxin Iceplatinum Of The Undead,211.00,-342.78,-53.90,-72326.58,-11372.90,-25946.84,-109646.32
+8544,Lightning Brand,Cawold Castle,24.09,Goddesses' Spectral Poison Steel,270.00,3773.99,269.83,1018977.30,72854.10,262039.54,1353870.94
+10516,Springsprocket,Haukri's Hold,27.83,Glowpearl Adamant Of Spirits,251.00,398.09,374.00,99920.59,93874.00,54262.49,248057.08
+11223,Rouge Roguemist,The Tower of Aces the Accursed,13.31,Emerald Orichalcum,323.00,-368.87,128.90,-119145.01,41634.70,-10076.34,-87586.65
+11557,Bedlam Spiritraven,South Brightcrown Borough,42.25,Angels' Smoke Adamant Of The Mountains,229.00,3115.57,236.50,713465.53,54158.50,322402.09,1090026.12
+12648,Flameshiver,Reheath Stronghold,8.00,Forgotten Mithril,285.00,1104.73,316.00,314848.05,90060.00,32392.64,437300.69
+12864,Freezebrood,The Wizard's House,43.58,Phantasmal Lead,157.00,-552.97,245.47,-86816.29,38538.79,-21242.10,-69519.60
+13090,Lance Knightseraph,Lordsgate Farthing,45.25,Forgotten Mithril,304.00,1104.73,316.00,335837.92,96064.00,194355.86,626257.78
+17116,"Azah, Goddess of Fate",The Cracked Chalice,2.52,Primordial Mud Orichalcum,92.00,-469.36,85.11,-43181.12,7830.12,-1060.53,-36411.53
+17350,Gale Jackalguard,Shainan's Hold,23.96,Glowpearl Adamant Of Spirits,187.00,398.09,374.00,74442.83,69938.00,34651.40,179032.23
+17903,Shiverflame The Freezer,The Hunter and Rose,44.44,Phantasmal Plague Adamant,158.00,-204.63,-7.18,-32331.54,-1134.44,-14725.03,-48191.01
+18495,Spikecrank,The Tomb of Hellish Ruin,16.94,Primal Adamant,267.00,5520.99,331.42,1474104.33,88489.14,265640.89,1828234.36
+19176,Boltcrank The Trapper,The Citadel of Tattena the Sinister,13.34,Phantasmal Smokezephyr Mercury Of Men,170.00,-510.81,75.90,-86837.70,12903.00,-9611.51,-83546.21
+20597,Maverick Wind,Weke Tower,-0.07,Phantasmal Tin Of The Swamps,212.00,5964.74,-7.99,1264524.88,-1693.88,0.00,1262831.00

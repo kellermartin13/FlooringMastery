@@ -1,0 +1,13 @@
+3538,Tammy Carlson "the Killer",NV,0.25,Pinecones,143.00,1.50,2.20,214.50,314.60,0.00,529.10
+3562,Julia "Bandit" Chandler,AR,2.20,Cedar Planks,197.00,2.00,5.50,394.00,1083.50,29.55,1507.05
+3712,Susan "Damnation" Fleming,AL,1.00,Cedar Planks,81.00,2.00,5.50,162.00,445.50,6.08,613.58
+4769,Renee "Hellish Empress" Banks,NV,0.25,Brick,148.00,4.40,5.50,651.20,814.00,0.00,1465.20
+4772,Stella "the Bully",UT,0.00,Cedar Planks,200.00,2.00,5.50,400.00,1100.00,0.00,1500.00
+6991,Florence "Leather Doc" Grant,MO,2.20,Packed Dirt,209.00,1.00,1.50,209.00,313.50,10.45,532.95
+8438,Diana "Mistress" Morgan,NV,0.31,Leather,52.00,10.00,18.15,520.00,943.80,0.00,1463.80
+11813,Florence "Leather Doc" Grant,UT,0.00,Packed Dirt,206.00,1.00,1.65,206.00,339.90,0.00,545.90
+13150,Minnie Lawson "the Apostle",WY,0.31,Solid Oak,213.00,5.50,5.50,1171.50,1171.50,0.00,2343.00
+14566,Julia "Bandit" Chandler,MT,3.99,Dirt,88.00,0.50,1.00,44.00,88.00,5.28,137.28
+15985,Susan "Damnation" Fleming,AL,1.00,Cedar Planks,206.00,2.20,6.05,453.20,1246.30,17.00,1716.50
+22369,Renee "Hellish Empress" Banks,ID,0.00,Pinecones,36.00,1.50,2.66,54.00,95.76,0.00,149.76
+22520,Wilma "Tornado" Brooks,NM,2.93,Brick,146.00,5.32,6.66,776.72,972.36,52.47,1801.55

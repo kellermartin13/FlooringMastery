@@ -1,0 +1,15 @@
+473,"Sielach, God of Fate",Gifeld Castle,5.65,Fog Lavaplatinum Of Life,190.00,1078.00,17.00,204820.00,3230.00,12483.00,220533.00
+1604,"Sielach, God of Fate",Lacot Stronghold,30.88,Ensorceled Sandmetal Of Spirits,221.00,2956.98,87.00,653492.58,19227.00,208543.07,881262.65
+4858,Shadow Gust,Grove Farthing,18.00,Zephyr Adamant,59.00,4224.00,102.93,249216.00,6072.87,45952.00,301240.87
+6191,"Penur, Lord of the Sea",The Secret Shrine of the Gargoyle Count,-2.00,Tritons' Time Stoneiron Of Legend,343.00,1760.00,168.90,603680.00,57932.70,-13232.25,648380.45
+9296,Wheelbolt The Machine,The Nulukkhath Spires,10.59,Primal Adamant,181.00,5019.08,301.29,908453.48,54533.49,105928.57,1068915.54
+10411,Freezebrood,The Dungeon of Dismal Terror,-3.50,Sphinxes' Mistsoul Bronze Of The Past,257.00,2169.81,202.07,557641.17,51931.99,-24382.93,585190.23
+10942,Cult Godseeker,The Hunter and Rose,40.40,Tin Of The Tundra,221.00,2839.87,174.91,627611.27,38655.11,266506.55,932772.93
+11463,Bolttrap,South Brightcrown Borough,42.25,Litches' Fatal Mithril Of The Past,147.00,1327.98,369.05,195213.06,54250.35,104774.63,354238.04
+14134,"Maeglodor, God of Thieves",The Chuallanto Jungle,40.70,Pearl Mirrorice Steel Of Changelings,243.00,298.66,41.88,72574.38,10176.84,33928.00,116679.22
+15635,Blazefreeze The Chiller,The Tower of Sabiesu the Awesome,5.32,Incubi's Iron Of The Dawn,18.00,1200.96,424.31,21617.28,7637.58,1462.74,30717.60
+15801,Dawn Darkzealot,Cawold Castle,24.09,Unspeakable Rotsoul Mithril Of Souls,381.00,248.00,401.53,94488.00,152982.93,59393.02,306863.95
+18872,Spikerivet,The Bastion of Barbos,28.34,Ensorceled Sandmetal Of Spirits,79.00,2956.98,95.70,233601.42,7560.30,67525.28,308687.00
+19443,Flameflare The Evil,Fellfen Keep,61.53,Goddesses' Spectral Poison Steel,211.00,5023.18,296.81,1059890.98,62626.91,695961.09,1818478.98
+20710,"Sielach, God of Fate",Barad Kesa,5.23,Unspeakable Rotsoul Mithril Of Souls,167.00,272.80,485.85,45557.60,81136.95,6334.73,133029.28
+21776,Lightning Brand,The Tomb of Hellish Ruin,16.94,Starlight Pearldream Bronze,211.00,354.31,147.40,74759.41,31101.40,17996.34,123857.15

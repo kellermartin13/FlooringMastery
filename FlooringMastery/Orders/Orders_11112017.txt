@@ -1,0 +1,18 @@
+1208,Victoria "the Dancer",IA,1.00,Leather,102.00,10.00,15.00,1020.00,1530.00,25.50,2575.50
+1288,Friendly Howell,IA,1.00,Cedar Planks,298.00,2.00,5.00,596.00,1490.00,20.86,2106.86
+3250,April "Thunderbird" Dunn,AR,2.20,Brick,285.00,4.00,5.50,1140.00,1567.50,54.15,2761.65
+4880,Michele Watson "the Loner",WY,0.31,Leather,357.00,10.00,18.15,3570.00,6479.55,0.00,10049.55
+9128,Joanne "Damned" Miles,MS,3.00,Brick,97.00,4.84,6.66,469.48,646.02,33.46,1148.96
+14890,Vicki "Mesa" Rhodes,NV,0.31,Reeds,202.00,0.75,2.20,151.50,444.40,0.00,595.90
+15344,Lena Chapman "the Bully",NM,2.66,Leather,287.00,11.00,18.15,3157.00,5209.05,250.98,8617.03
+15356,Friendly Howell,TX,0.67,Pebbles,135.00,0.88,4.84,118.80,653.40,7.72,779.92
+15522,Cynthia "the Vixen",ID,0.00,Pinecones,170.00,1.50,2.66,255.00,452.20,0.00,707.20
+15934,April "Thunderbird" Dunn,WY,0.31,Solid Oak,123.00,5.50,6.05,676.50,744.15,0.00,1420.65
+16272,Susan "Damnation" Fleming,MS,3.00,Beechwood,144.00,3.63,5.50,522.72,792.00,39.44,1354.16
+17030,Heather "Tornado" Newman,WY,0.31,Pebbles,202.00,0.88,4.84,177.76,977.68,0.00,1155.44
+17810,Theresa "Scalphunter" Romero,KS,0.55,Dirt,187.00,0.50,1.00,93.50,187.00,2.80,283.30
+18377,Florence "Leather Doc" Grant,MS,3.00,Reeds,257.00,0.83,2.20,213.31,565.40,23.36,802.07
+18734,Cynthia "the Vixen",MT,3.99,Solid Oak,177.00,5.50,6.66,973.50,1178.82,86.09,2238.41
+19731,Lena Chapman "the Bully",CA,0.67,Beechwood,213.00,3.63,6.05,773.19,1288.65,20.62,2082.46
+20507,Vicki "Mesa" Rhodes,AR,2.20,Brick,311.00,5.32,6.66,1654.52,2071.26,74.52,3800.30
+20722,Theresa "Scalphunter" Romero,NV,0.31,Leather,324.00,11.00,19.97,3564.00,6470.28,0.00,10034.28

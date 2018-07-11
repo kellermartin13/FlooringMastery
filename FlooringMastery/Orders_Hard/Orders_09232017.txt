@@ -1,0 +1,17 @@
+181,Claw Mist,The Citadel of Cheno,5.00,Magicians' Legendary Poison Metal,147.00,2043.26,208.92,300359.22,30711.24,16553.52,347623.98
+1265,"Ariel, God of Luck",The Broken Shield,37.23,Primordial False Gold,257.00,4459.34,226.00,1146050.38,58082.00,445528.98,1649661.36
+1271,Sephiroth Drakecaster,Lamp Borough,4.95,Primordial Mud Orichalcum,91.00,-387.90,77.37,-35298.90,7040.67,-1412.91,-29671.14
+1286,Clash Lonedrake,Reyny Keep,11.00,Primordial False Gold,201.00,4459.34,226.00,896327.34,45426.00,103592.87,1045346.21
+3725,Deathspike The Terrifying,Reheath Stronghold,8.00,Forgotten Mithril,27.00,913.00,316.00,24651.00,8532.00,2654.64,35837.64
+6125,"Alik, Goddess of Trickery",The Archer and Blade,9.00,Greenlead,329.00,793.10,148.47,260929.90,48846.63,27879.89,337656.42
+9556,Dagger Reaper,The Pirate's Pipe,17.60,Unicorns' Fatal Magma Metal Of The Ocean,171.00,1792.04,392.70,306438.84,67151.70,67246.30,440836.84
+10290,Gravebone,The Tomb of Hellish Ruin,16.94,Djinni's Spectral Shadowlead Of Life,45.00,3705.90,325.62,166765.50,14652.90,30841.13,212259.53
+11276,Rune Rougehate,Pawic Keep,0.56,Emerald Orichalcum,41.00,-368.87,128.90,-15123.67,5284.90,-98.39,-9937.16
+12917,Rouge Tombreaper,The Hunter and Rose,40.40,Swordbronze,189.00,1485.01,447.01,280666.89,84484.89,146060.71,511212.49
+16206,"Lenwenye, Goddess of Travel",Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,149.00,370.41,32.01,55191.09,4769.49,15589.75,75550.33
+16248,Magus Felldrake,The Lost Sanctum of Woe,3.30,Meteoric Dustzephyr Orichalcum,276.00,375.00,268.49,103500.00,74103.24,5328.10,182931.34
+16614,Evilbrood,Eved Castle,5.09,Ensorceled Sandmetal Of Spirits,237.00,2956.98,95.70,700804.26,22680.90,36174.26,759659.42
+16972,Spikerivet,Lacot Stronghold,45.22,Shadowy Adamant,278.00,618.93,526.44,172062.54,146350.32,143285.79,461698.65
+18407,Burnchill The Evil,Grori's Deep,66.50,Undeads' Mind Orichalcum Of The Twilight,167.00,-17.00,276.00,-2839.00,46092.00,28546.98,71799.98
+19022,"Maglioneth, Lord of the Sun",Archfane District,36.16,Venom Timegold Of Dwarves,226.00,3339.60,295.90,754749.60,66873.40,295784.28,1117407.28
+22408,"Avriel, God of Death",The Bastion of the Lich Tyrant,52.03,Ensorceled Gold Of The Dawn,244.00,6913.92,443.21,1686996.48,108143.24,933472.65,2728612.37

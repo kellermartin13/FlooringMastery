@@ -1,0 +1,15 @@
+1207,Lorraine "Utah" Adams,CA,0.50,Reeds,172.00,0.75,2.00,129.00,344.00,0.00,473.00
+3633,Betty "Happy Thinker" Watson,ND,1.25,Pinecones,75.00,1.50,2.20,112.50,165.00,2.78,280.28
+4273,Vengeful Robertson,KS,0.50,Beechwood,246.00,3.00,5.00,738.00,1230.00,0.00,1968.00
+5215,Beth "Fortunate Shooter" Powell,ID,0.00,Solid Oak,198.00,5.50,5.50,1089.00,1089.00,0.00,2178.00
+5259,Mabel "Vixen Cursed" King,AR,2.20,Pinecones,259.00,1.50,2.42,388.50,626.78,20.31,1035.59
+5497,Tina "Lady" Anderson,NV,0.25,Packed Dirt,286.00,1.00,1.50,286.00,429.00,0.00,715.00
+5865,Ida Russell "the Rustler",TX,0.50,Pebbles,167.00,0.80,4.40,133.60,734.80,0.00,868.40
+6192,Diana "Mistress" Morgan,TX,0.50,Brick,344.00,4.84,6.66,1664.96,2291.04,0.00,3956.00
+7927,Allison "Steel Gravedigger" Douglas,MT,3.30,Reeds,220.00,0.75,2.20,165.00,484.00,19.47,668.47
+12070,Renee "Hellish Empress" Banks,ID,0.00,Dirt,157.00,0.50,1.00,78.50,157.00,0.00,235.50
+14277,Friendly Howell,TX,0.67,Reeds,125.00,0.75,2.20,93.75,275.00,3.69,372.44
+15210,"Scalphunter" Kennedy,TX,0.67,Cedar Planks,51.00,2.20,6.05,112.20,308.55,4.21,424.96
+19457,Minnie Lawson "the Apostle",AR,2.20,Pinecones,276.00,1.50,2.66,414.00,734.16,22.96,1171.12
+20562,Betty "Happy Thinker" Watson,AL,1.00,Pebbles,212.00,0.88,4.84,186.56,1026.08,12.13,1224.77
+22603,Maureen "Cursed" Andrews,NM,2.93,Solid Oak,150.00,5.50,6.66,825.00,999.00,54.72,1878.72

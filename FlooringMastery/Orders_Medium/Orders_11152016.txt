@@ -1,0 +1,15 @@
+881,Stella "the Bully",NV,0.25,Pebbles,178.00,0.80,4.00,142.40,712.00,0.00,854.40
+2132,Renee "Loco Tracker" Jordan,ID,0.00,Reeds,103.00,0.75,2.00,77.25,206.00,0.00,283.25
+2694,Diana "Mistress" Morgan,NV,0.25,Brick,205.00,4.00,5.50,820.00,1127.50,0.00,1947.50
+3318,Susan "Damnation" Fleming,ID,0.00,Pinecones,170.00,1.50,2.20,255.00,374.00,0.00,629.00
+3408,Evelyn "Evil Joker" Taylor,WY,0.31,Dirt,45.00,0.50,1.00,22.50,45.00,0.00,67.50
+3731,Vicki "Mesa" Rhodes,KS,0.50,Dirt,59.00,0.50,1.00,29.50,59.00,0.00,88.50
+3947,Betty "Happy Thinker" Watson,NM,2.20,Dirt,270.00,0.50,1.00,135.00,270.00,8.10,413.10
+6585,Gloria "Devil" McCoy,MS,3.00,Solid Oak,153.00,5.50,5.50,841.50,841.50,50.49,1733.49
+7544,Lena Chapman "the Bully",NM,2.20,Beechwood,82.00,3.00,5.00,246.00,410.00,13.12,669.12
+8616,Theresa "Kid" Robinson,IA,1.21,Brick,175.00,4.84,6.66,847.00,1165.50,20.12,2032.62
+9367,Joanne "Damned" Miles,NV,0.31,Dirt,210.00,0.50,1.00,105.00,210.00,0.00,315.00
+12442,Stella "the Bully",NM,2.42,Solid Oak,68.00,5.50,5.50,374.00,374.00,14.96,762.96
+14214,Wilma "Tornado" Brooks,AR,2.20,Packed Dirt,207.00,1.10,2.00,227.70,414.00,12.83,654.53
+21002,Heather "Tornado" Newman,MT,4.83,Solid Oak,203.00,5.50,6.66,1116.50,1351.98,123.42,2591.90
+21717,Lucky Johnson,MO,2.20,Pinecones,98.00,1.50,2.66,147.00,260.68,8.15,415.83

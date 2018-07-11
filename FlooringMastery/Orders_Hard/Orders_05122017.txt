@@ -1,0 +1,18 @@
+3146,Evilfear The Horrorific,Tradun Castle,31.13,Shadowhell Mithril,330.00,363.00,260.37,119790.00,85922.10,63770.75,269482.85
+3302,"Lenwenye, Goddess of Travel",The Grey Plains,19.97,Forgotten Mithril,230.00,913.00,316.00,209990.00,72680.00,56534.00,339204.00
+4323,Freezebrood,The Wizard's House,43.58,Sphinxes' Mistsoul Bronze Of The Past,145.00,1793.23,183.70,260018.35,26636.50,126128.13,412782.98
+4648,Seraphim Tsunami,North Grove Ward,6.60,Trolls' Rubymercury Of The Sunset,143.00,506.00,198.00,72358.00,28314.00,7047.04,107719.04
+5471,Seraphim Tsunami,Boiaburh Keep,16.00,Negative Rockglitter Mercury Of Trolls,205.00,1483.90,423.07,304199.50,86729.35,62548.62,453477.47
+7494,Sunrise Godwarlock,The Forsaken Delve of Lord Greywulf,39.00,Toxic Mistlead Of The Past,280.00,1557.54,136.06,436111.20,38096.80,184941.12,659149.12
+8071,Cult Godseeker,Barad Kesa,4.32,Planar Obsidian Mercury Of Wizards,147.00,2574.00,141.57,378378.00,20810.79,15967.55,415156.34
+10228,Rouge Roguemist,The Bloody Wand,12.00,Mithril Of Legend,78.00,2274.80,63.01,177434.40,4914.78,21881.90,204231.08
+10386,Lord Mystery,The Warrior and Flagon,48.40,Pearl Mirrorice Steel Of Changelings,124.00,271.51,38.07,33667.24,4720.68,18426.20,56814.12
+11686,"Suriel, Lord of Animals",South Brightcrown Borough,42.25,Litches' Fatal Mithril Of The Past,207.00,1327.98,369.05,274891.86,76393.35,147539.79,498825.00
+12416,Rune Rougehate,The Citadel of Alammius,3.50,Rot Silver Of The Past,102.00,3784.00,359.70,385968.00,36689.40,16906.30,439563.70
+13847,"Eumyan, Goddess of Law",The Greedy Wench,32.70,Witchs' Forbidden Rockrainbow Bronze,146.00,655.60,387.20,95717.60,56531.20,50242.10,202490.90
+19035,"Lionare, God of the Lost",The Citadel of Tattena the Sinister,13.34,Unspeakable Rotsoul Mithril Of Souls,116.00,248.00,485.85,28768.00,56358.60,11066.46,96193.06
+19077,Lance Knightseraph,Reyny Keep,11.00,Mistgold Of Men,313.00,4488.51,53.24,1404903.63,16664.12,156372.45,1577940.20
+19904,Icechill The Frigid,The Desert of Flames,57.10,Foulopal Copper Of The Skies,300.00,1787.91,403.00,536373.00,120900.00,374645.61,1031918.61
+20065,"Iran, Lord of Nightmares",The Tomb of Gothmog of Udun,-3.30,Foulopal Copper Of The Skies,80.00,1787.91,403.00,143032.80,32240.00,-5258.18,170014.62
+20901,Seraph Jester,The Secret Catacombs of Ulfang the Black,42.90,Planar Obsidian Mercury Of Wizards,125.00,2831.40,155.73,353925.00,19466.25,160558.24,533949.49
+21297,Cinderflame,The Bastion of Sthasu the Gruesome,14.93,Sphinxes' Opalpearl Platinum Of Legend,230.00,5805.82,429.89,1335338.60,98874.70,215132.00,1649345.30

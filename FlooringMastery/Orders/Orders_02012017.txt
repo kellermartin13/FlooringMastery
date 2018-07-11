@@ -1,0 +1,27 @@
+389,Minnie Lawson "the Apostle",OK,2.00,Packed Dirt,102.00,1.00,1.50,102.00,153.00,5.10,260.10
+1024,Cathy "Loner Demon" Murray,IA,1.00,Reeds,183.00,0.75,2.00,137.25,366.00,5.03,508.28
+1181,Kathy Murphy "the Thinker",NV,0.25,Brick,169.00,4.00,5.00,676.00,845.00,0.00,1521.00
+1746,Cathy "Loner Demon" Murray,WY,0.25,Pinecones,278.00,1.50,2.00,417.00,556.00,0.00,973.00
+3093,Evelyn "Evil Joker" Taylor,NV,0.25,Brick,190.00,4.00,5.50,760.00,1045.00,0.00,1805.00
+4990,Theresa "Kid" Robinson,MO,2.20,Pebbles,376.00,0.80,4.40,300.80,1654.40,39.10,1994.30
+5245,"Bane" Jennings,WY,0.31,Pebbles,198.00,0.80,4.40,158.40,871.20,0.00,1029.60
+5659,April "Thunderbird" Dunn,AR,2.20,Reeds,343.00,0.75,2.20,257.25,754.60,20.24,1032.09
+5787,Minnie Lawson "the Apostle",WY,0.31,Pinecones,274.00,1.50,2.66,411.00,728.84,0.00,1139.84
+6129,Joanne "Damned" Miles,MS,3.00,Beechwood,210.00,3.00,5.00,630.00,1050.00,50.40,1730.40
+7366,Heather "Friendly Gambler" Barrett,MS,3.00,Leather,45.00,10.00,18.15,450.00,816.75,38.00,1304.75
+7915,Minnie Lawson "the Apostle",TX,0.50,Pinecones,67.00,1.50,2.66,100.50,178.22,0.00,278.72
+9776,Heather "Friendly Gambler" Barrett,TX,0.55,Pebbles,213.00,0.88,4.84,187.44,1030.92,12.18,1230.54
+9850,Victoria "the Dancer",UT,0.00,Reeds,307.00,0.75,2.20,230.25,675.40,0.00,905.65
+13916,Theresa "Scalphunter" Romero,ND,1.38,Pebbles,99.00,0.88,4.84,87.12,479.16,5.66,571.94
+14474,Darlene "Loner" Ford,AR,2.20,Packed Dirt,273.00,1.10,2.20,300.30,600.60,18.02,918.92
+15517,Tina "Lady" Anderson,WY,0.31,Leather,188.00,11.00,18.15,2068.00,3412.20,0.00,5480.20
+16336,Elizabeth "the Bully",MT,3.99,Leather,262.00,11.00,19.97,2882.00,5232.14,324.57,8438.71
+16981,Maureen "Cursed" Andrews,NV,0.31,Solid Oak,239.00,5.50,6.05,1314.50,1445.95,0.00,2760.45
+17120,Cynthia "the Vixen",MT,3.99,Packed Dirt,49.00,1.10,2.20,53.90,107.80,6.47,168.17
+18416,Deborah "the Lady",WY,0.31,Pinecones,64.00,1.50,2.66,96.00,170.24,0.00,266.24
+18644,"Bane" Jennings,UT,0.00,Pinecones,261.00,1.50,2.66,391.50,694.26,0.00,1085.76
+18973,Susan "Damnation" Fleming,CA,0.67,Leather,361.00,11.00,19.97,3971.00,7209.17,111.80,11291.97
+18982,Susan "Damnation" Fleming,CA,0.67,Beechwood,225.00,3.63,5.50,816.75,1237.50,20.54,2074.79
+20665,Minnie Lawson "the Apostle",UT,0.00,Pinecones,272.00,1.50,2.66,408.00,723.52,0.00,1131.52
+20913,Gloria "Devil" McCoy,CA,0.67,Packed Dirt,380.00,1.10,2.42,418.00,919.60,13.38,1350.98
+21877,Friendly Howell,WY,0.31,Beechwood,133.00,3.63,6.05,482.79,804.65,0.00,1287.44

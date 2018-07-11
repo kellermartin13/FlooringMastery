@@ -1,0 +1,21 @@
+1775,"Bane" Jennings,AL,1.00,Dirt,260.00,0.50,1.00,130.00,260.00,3.90,393.90
+2387,Heather "Tornado" Newman,KS,0.50,Beechwood,95.00,3.00,5.00,285.00,475.00,0.00,760.00
+4469,Helen Webb "the Dancer",MO,2.20,Leather,130.00,10.00,16.50,1300.00,2145.00,68.90,3513.90
+4526,Surgeon Grant,UT,0.00,Solid Oak,205.00,5.50,5.50,1127.50,1127.50,0.00,2255.00
+4789,April "Thunderbird" Dunn,UT,0.00,Pinecones,97.00,1.50,2.42,145.50,234.74,0.00,380.24
+5501,Beth "Fortunate Shooter" Powell,MO,2.20,Dirt,187.00,0.50,1.00,93.50,187.00,5.61,286.11
+6439,Lucky Johnson,MT,3.00,Solid Oak,103.00,5.50,5.50,566.50,566.50,33.99,1166.99
+7207,Maureen "Cursed" Andrews,MS,3.00,Beechwood,73.00,3.00,5.00,219.00,365.00,17.52,601.52
+7892,Black Beck,UT,0.00,Pinecones,24.00,1.50,2.66,36.00,63.84,0.00,99.84
+8656,Florence "Leather Doc" Grant,OK,2.20,Solid Oak,165.00,5.50,5.50,907.50,907.50,36.30,1851.30
+9315,Allison "Steel Gravedigger" Douglas,NM,2.20,Brick,200.00,4.84,6.66,968.00,1332.00,46.00,2346.00
+11188,"Scalphunter" Kennedy,MS,3.00,Pinecones,299.00,1.50,2.66,448.50,795.34,37.32,1281.16
+11367,Florence "Leather Doc" Grant,OK,2.42,Dirt,262.00,0.50,1.00,131.00,262.00,7.86,400.86
+13133,Joanne "Damned" Miles,NM,2.42,Brick,105.00,4.84,6.66,508.20,699.30,24.15,1231.65
+13662,Vanessa "Scalper" Rhodes,AL,1.00,Solid Oak,292.00,5.50,5.50,1606.00,1606.00,32.12,3244.12
+13765,Melissa "Lonesome Stalker" Riley,ID,0.00,Packed Dirt,148.00,1.00,2.00,148.00,296.00,0.00,444.00
+15199,Vengeful Robertson,NV,0.31,Dirt,237.00,0.50,1.00,118.50,237.00,0.00,355.50
+16364,Elizabeth "the Bully",WY,0.31,Beechwood,161.00,3.63,5.50,584.43,885.50,0.00,1469.93
+16571,Heather "Tornado" Newman,KS,0.55,Brick,182.00,5.32,6.66,968.24,1212.12,21.80,2202.16
+22330,Cathy "Loner Demon" Murray,NM,2.93,Beechwood,94.00,3.63,6.05,341.22,568.70,27.30,937.22
+23493,Marie "Raven" Chapman,OK,2.93,Dirt,108.00,0.55,1.00,59.40,108.00,5.02,172.42

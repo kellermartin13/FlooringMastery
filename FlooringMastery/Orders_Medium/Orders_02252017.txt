@@ -1,0 +1,22 @@
+516,Maureen "Cursed" Andrews,MT,3.00,Pebbles,295.00,0.80,4.00,236.00,1180.00,42.48,1458.48
+998,Joanne "Damned" Miles,IA,1.00,Cedar Planks,209.00,2.00,5.00,418.00,1045.00,14.63,1477.63
+3804,"Sunrise" Miles,OK,2.00,Beechwood,214.00,3.00,5.00,642.00,1070.00,34.24,1746.24
+6818,Dorothy "the Hunter",AL,1.00,Pebbles,115.00,0.80,4.84,92.00,556.60,6.49,655.09
+9066,Darlene "Loner" Ford,AL,1.00,Pinecones,229.00,1.50,2.66,343.50,609.14,9.53,962.17
+10113,Vengeful Robertson,OK,2.20,Solid Oak,248.00,5.50,5.50,1364.00,1364.00,54.56,2782.56
+11636,Deborah "the Lady",MO,2.20,Pinecones,96.00,1.50,2.66,144.00,255.36,7.99,407.35
+12035,Friendly Howell,UT,0.00,Leather,280.00,10.00,18.15,2800.00,5082.00,0.00,7882.00
+15996,"Doom" McCoy,AR,2.20,Leather,321.00,11.00,18.15,3531.00,5826.15,187.14,9544.29
+17276,Deborah "the Lady",ND,1.52,Leather,202.00,11.00,19.97,2222.00,4033.94,125.12,6381.06
+17614,Jacqueline "Riding Doc" Washington,UT,0.00,Dirt,287.00,0.50,1.00,143.50,287.00,0.00,430.50
+18045,Renee "Loco Tracker" Jordan,NM,2.93,Beechwood,290.00,3.63,5.50,1052.70,1595.00,79.43,2727.13
+18984,Theresa "Scalphunter" Romero,TX,0.67,Cedar Planks,189.00,2.20,6.66,415.80,1258.74,16.75,1691.29
+19202,Heather "Tornado" Newman,TX,0.67,Reeds,101.00,0.83,2.20,83.83,222.20,3.06,309.09
+19665,Diana "Mistress" Morgan,KS,0.55,Brick,255.00,5.32,6.66,1356.60,1698.30,30.55,3085.45
+20508,Vanessa "Scalper" Rhodes,MT,4.39,Pinecones,61.00,1.50,2.66,91.50,162.26,10.15,263.91
+21914,"Doom" McCoy,KS,0.55,Pinecones,119.00,1.50,2.66,178.50,316.54,4.95,499.99
+22071,Victoria "the Dancer",MO,2.20,Pinecones,322.00,1.50,2.66,483.00,856.52,26.79,1366.31
+22399,Gloria "Devil" McCoy,MO,2.20,Reeds,285.00,0.83,2.20,236.55,627.00,17.27,880.82
+22434,Vanessa "Scalper" Rhodes,ID,0.00,Pinecones,329.00,1.50,2.66,493.50,875.14,0.00,1368.64
+22571,Michele Watson "the Loner",WY,0.34,Cedar Planks,338.00,2.20,6.66,743.60,2251.08,0.00,2994.68
+23419,Vanessa "Scalper" Rhodes,MT,5.84,Leather,199.00,11.00,19.97,2189.00,3974.03,369.78,6532.81

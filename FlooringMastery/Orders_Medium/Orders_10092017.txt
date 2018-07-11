@@ -1,0 +1,13 @@
+2244,Stella "the Bully",AR,2.20,Packed Dirt,319.00,1.00,1.50,319.00,478.50,15.95,813.45
+2359,"Doom" McCoy,ID,0.00,Beechwood,202.00,3.00,5.00,606.00,1010.00,0.00,1616.00
+5548,Debra "Scorpion" Lane,OK,2.20,Pebbles,86.00,0.80,4.40,68.80,378.40,8.94,456.14
+6291,Deborah "the Lady",MT,3.00,Reeds,157.00,0.75,2.20,117.75,345.40,13.89,477.04
+7546,Heather "Friendly Gambler" Barrett,AR,2.20,Dirt,213.00,0.50,1.00,106.50,213.00,6.39,325.89
+9179,Debra "Scorpion" Lane,ID,0.00,Beechwood,236.00,3.00,5.50,708.00,1298.00,0.00,2006.00
+10619,Helen Webb "the Dancer",UT,0.00,Beechwood,267.00,3.00,5.50,801.00,1468.50,0.00,2269.50
+11139,Tammy Carlson "the Killer",ID,0.00,Reeds,78.00,0.75,2.20,58.50,171.60,0.00,230.10
+12046,Vanessa "Scalper" Rhodes,AL,1.00,Beechwood,15.00,3.30,5.50,49.50,82.50,1.32,133.32
+18465,Beth "Fortunate Shooter" Powell,TX,0.67,Cedar Planks,288.00,2.20,6.66,633.60,1918.08,25.52,2577.20
+20235,Jacqueline "Riding Doc" Washington,MT,4.39,Beechwood,148.00,3.63,6.05,537.24,895.40,57.31,1489.95
+21830,Theresa "Kid" Robinson,NM,2.93,Beechwood,97.00,3.63,6.05,352.11,586.85,28.17,967.13
+22228,Dorothy "the Hunter",MO,2.20,Brick,96.00,5.32,6.66,510.72,639.36,23.00,1173.08

@@ -1,0 +1,10 @@
+90,Bane Veil,Pewold Keep,16.95,Unknown Fatelightning Steel Of The Glacier,195.00,1834.00,54.28,357630.00,10584.60,62596.48,430811.08
+1760,Dagger Reaper,The Tower of Aces the Accursed,12.10,Venom Jewelmetal Of The Desert,238.00,1388.00,224.00,330344.00,53312.00,46038.72,429694.72
+4128,Snaretool The Constructed,The Archer and Scroll,39.60,Lycanthropes' Gold,253.00,4846.18,66.14,1226083.54,16733.42,497126.78,1739943.74
+5736,Graveterror,Barad Kesa,4.32,Forgotten Mithril,84.00,913.00,316.00,76692.00,26544.00,4129.44,107365.44
+9759,"Finarfin, God of Protection",The Secret Catacombs of Ulfang the Black,42.90,Goddesses' Spectral Poison Steel,210.00,3773.99,269.83,792537.90,56664.30,365156.95,1214359.15
+11965,Ironbrood,Reheath Stronghold,8.00,Witchs' Forbidden Rockrainbow Bronze,230.00,655.60,387.20,150788.00,89056.00,19187.52,259031.52
+13458,Lance Knightseraph,The Warrior and Flagon,53.24,Legendary Mithril Of The Moon,199.00,2707.10,125.84,538712.90,25042.16,298790.18,862545.24
+14619,Rouge Roguemist,Grove Farthing,19.80,Ensorceled Sandmetal Of Spirits,346.00,2956.98,95.70,1023115.08,33112.20,211245.46,1267472.74
+16345,Deathbrood,The Pilgrim's Cup,46.12,Incubi's Mirrorfog Iron Of The Ocean,99.00,5806.50,-26.08,574843.50,-2581.92,263240.33,835501.91
+21478,"Finarfin, God of Protection",Unicorn's Ward,14.64,Sphinxes' Opalpearl Platinum Of Legend,265.00,5805.82,429.89,1538542.30,113920.85,247869.47,1900332.62

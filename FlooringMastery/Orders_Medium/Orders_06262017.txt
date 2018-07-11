@@ -1,0 +1,16 @@
+1377,Lorraine "Utah" Adams,NM,2.20,Cedar Planks,82.00,2.00,5.00,164.00,410.00,11.48,585.48
+3879,Lucky Johnson,AR,2.20,Leather,147.00,10.00,16.50,1470.00,2425.50,77.91,3973.41
+4484,Minnie Lawson "the Apostle",CA,0.55,Beechwood,248.00,3.00,5.00,744.00,1240.00,19.84,2003.84
+6284,Stella "the Bully",UT,0.00,Pebbles,175.00,0.80,4.84,140.00,847.00,0.00,987.00
+8457,Allison "Steel Gravedigger" Douglas,NV,0.31,Packed Dirt,177.00,1.00,1.50,177.00,265.50,0.00,442.50
+9628,April "Thunderbird" Dunn,CA,0.55,Brick,214.00,4.84,6.66,1035.76,1425.24,24.61,2485.61
+11816,Dorothy "the Hunter",MT,3.63,Pebbles,283.00,0.88,4.84,249.04,1369.72,64.75,1683.51
+12246,Ida Russell "the Rustler",CA,0.61,Pebbles,210.00,0.88,4.84,184.80,1016.40,12.01,1213.21
+13245,April "Thunderbird" Dunn,CA,0.61,Beechwood,185.00,3.30,5.50,610.50,1017.50,16.28,1644.28
+13644,Florence "Leather Doc" Grant,MS,3.00,Solid Oak,103.00,5.50,5.50,566.50,566.50,33.99,1166.99
+13689,"Doom" McCoy,OK,2.42,Cedar Planks,311.00,2.20,6.05,684.20,1881.55,51.32,2617.07
+14492,Amanda Hart "the Loner",MS,3.00,Brick,249.00,5.32,6.66,1324.68,1658.34,89.49,3072.51
+15151,Melissa "Lonesome Stalker" Riley,ID,0.00,Cedar Planks,178.00,2.20,6.05,391.60,1076.90,0.00,1468.50
+19236,Melissa "Lonesome Stalker" Riley,CA,0.67,Leather,360.00,11.00,19.97,3960.00,7189.20,111.49,11260.69
+22063,Mabel "Vixen Cursed" King,ID,0.00,Pinecones,147.00,1.50,2.66,220.50,391.02,0.00,611.52
+22345,Helen Webb "the Dancer",NV,0.31,Reeds,87.00,0.83,2.20,72.21,191.40,0.00,263.61

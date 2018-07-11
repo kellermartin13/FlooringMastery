@@ -1,0 +1,21 @@
+256,Renee "Loco Tracker" Jordan,TX,0.50,Reeds,313.00,0.75,2.00,234.75,626.00,0.00,860.75
+1206,"Doom" McCoy,TX,0.50,Pebbles,118.00,0.80,4.40,94.40,519.20,0.00,613.60
+2172,Darlene "Loner" Ford,AR,2.20,Pinecones,217.00,1.50,2.00,325.50,434.00,15.19,774.69
+2303,Joanne "Damned" Miles,CA,0.50,Solid Oak,217.00,5.00,5.00,1085.00,1085.00,0.00,2170.00
+3119,Darlene "Loner" Ford,MO,2.20,Dirt,168.00,0.50,1.00,84.00,168.00,5.04,257.04
+3710,Florence "Leather Doc" Grant,KS,0.50,Pebbles,181.00,0.80,4.40,144.80,796.40,0.00,941.20
+5615,Cynthia "the Vixen",MO,2.20,Reeds,353.00,0.75,2.20,264.75,776.60,20.83,1062.18
+6819,Theresa "Scalphunter" Romero,KS,0.50,Reeds,101.00,0.75,2.20,75.75,222.20,0.00,297.95
+6896,Wilma "Tornado" Brooks,IA,1.21,Pinecones,146.00,1.50,2.66,219.00,388.36,6.07,613.43
+7132,Florence "Leather Doc" Grant,ID,0.00,Pinecones,159.00,1.50,2.66,238.50,422.94,0.00,661.44
+7702,Amanda Hart "the Loner",OK,2.20,Cedar Planks,197.00,2.20,6.05,433.40,1191.85,32.50,1657.75
+8273,Gladys "Locoweed" Keller,ND,1.25,Reeds,296.00,0.75,2.20,222.00,651.20,8.73,881.93
+9081,Michele Watson "the Loner",WY,0.31,Dirt,256.00,0.50,1.00,128.00,256.00,0.00,384.00
+9273,Wilma "Tornado" Brooks,CA,0.55,Beechwood,242.00,3.00,5.50,726.00,1331.00,20.57,2077.57
+9302,Melissa "Lonesome Stalker" Riley,MT,3.63,Brick,194.00,4.84,6.66,938.96,1292.04,89.24,2320.24
+12150,Cathy "Loner Demon" Murray,WY,0.31,Beechwood,298.00,3.30,5.50,983.40,1639.00,0.00,2622.40
+16205,Helen Webb "the Dancer",ND,1.38,Dirt,110.00,0.50,1.00,55.00,110.00,1.65,166.65
+17181,Vengeful Montgomery,OK,2.42,Solid Oak,11.00,5.50,6.05,60.50,66.55,2.54,129.59
+18426,Diana "Mistress" Morgan,MO,2.20,Leather,266.00,11.00,19.97,2926.00,5312.02,164.76,8402.78
+20250,Friendly Howell,MT,4.39,Dirt,171.00,0.50,1.00,85.50,171.00,10.26,266.76
+20661,Jo "the Joker",ID,0.00,Brick,289.00,5.32,6.66,1537.48,1924.74,0.00,3462.22

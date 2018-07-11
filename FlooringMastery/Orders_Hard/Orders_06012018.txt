@@ -1,0 +1,16 @@
+1114,Evilfear The Horrorific,Reyny Keep,11.00,Primordial False Gold,137.00,4459.34,226.00,610929.58,30962.00,70608.07,712499.65
+1681,Magus Felldrake,The Tomb of Hellish Ruin,14.00,Incubi's Glittering Tin Of The Future,169.00,2287.78,72.60,386634.82,12269.40,55846.59,454750.81
+2115,"Gadriel, God of Resurrection",The Forsaken Tomb of Devastation,0.00,Poison Adamant,215.00,298.00,406.38,64070.00,87371.70,0.00,151441.70
+2775,"Gono, Goddess of the Earth",The Bastion of the Lich Tyrant,43.00,Phantasmal Smokezephyr Mercury Of Men,168.00,-317.16,69.00,-53282.88,11592.00,-17927.08,-59617.96
+3384,Rune Rougehate,Reheath Stronghold,8.00,Forgotten Mithril,206.00,913.00,316.00,188078.00,65096.00,20253.92,273427.92
+3991,Lord Mystery,Grori's Deep,45.41,Violetstone Tin Of Death,184.00,2245.23,156.10,413122.32,28722.40,198830.12,640674.84
+9260,Dagger Reaper,Weke Tower,-0.05,Primal Adamant,223.00,5019.08,301.29,1119254.84,67187.67,0.00,1186442.51
+9601,Law Lionwatcher,The Tomb of Gothmog of Udun,-3.00,Spectres' Shadowy Terrorglow Adamant Of Life,135.00,4694.80,205.50,633798.00,27742.50,-19846.22,641694.28
+11118,Rune Rougehate,The Forsaken Sepulcher of Sorrows,48.79,Emerald Orichalcum,82.00,-368.87,128.90,-30247.34,10569.80,-9641.99,-29319.53
+13474,"Penur, Lord of the Sea",The Warrior and Flagon,53.24,Emerald Orichalcum,166.00,-405.76,128.90,-67356.16,21397.40,-24358.14,-70316.90
+15394,Shadow Tomblion,Cawold Castle,24.09,Unspeakable Rotsoul Mithril Of Souls,236.00,248.00,401.53,58528.00,94761.08,36789.38,190078.46
+16735,"Ariel, God of Luck",Lacot Stronghold,45.22,Planar Rainfate Mithril,355.00,1185.84,320.52,420973.20,113784.60,240641.01,775398.81
+17671,Sephiroth Drakecaster,Weke Tower,-0.07,Thunderbirds' Transcendent Dreamiron,252.00,2275.25,237.70,573363.00,59900.40,0.00,633263.40
+18590,Flora Amberslayer,The Tower of Aramum,42.90,Lunar Bronze,236.00,829.25,337.70,195703.00,79697.20,118422.09,393822.29
+20403,Ironbrood,Barad Kesa,5.23,Toxin Iceplatinum Of The Undead,153.00,-377.06,-59.29,-57690.18,-9071.37,-3338.08,-70099.63
+22590,"Finarfin, God of Protection",The Fen of the Necromancer,72.63,Swordbronze,69.00,1485.01,540.88,102465.69,37320.72,102044.08,241830.49

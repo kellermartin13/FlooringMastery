@@ -1,0 +1,14 @@
+4422,Mabel "Vixen Cursed" King,MS,3.00,Leather,250.00,10.00,16.50,2500.00,4125.00,198.75,6823.75
+5863,Vicki "Mesa" Rhodes,CA,0.55,Dirt,248.00,0.50,1.00,124.00,248.00,3.72,375.72
+6175,Deborah "the Lady",ND,1.25,Reeds,151.00,0.75,2.20,113.25,332.20,4.45,449.90
+6982,Dorothy "the Hunter",OK,2.20,Packed Dirt,124.00,1.00,1.50,124.00,186.00,6.20,316.20
+6999,Victoria "the Dancer",UT,0.00,Pinecones,285.00,1.50,2.66,427.50,758.10,0.00,1185.60
+9830,Surgeon Grant,MO,2.20,Cedar Planks,127.00,2.20,6.05,279.40,768.35,20.96,1068.71
+10845,Mabel "Vixen Cursed" King,AL,1.00,Solid Oak,254.00,5.50,5.50,1397.00,1397.00,27.94,2821.94
+11732,Vengeful Robertson,ID,0.00,Cedar Planks,220.00,2.20,6.05,484.00,1331.00,0.00,1815.00
+12711,"Sunrise" Miles,MS,3.00,Brick,164.00,4.84,6.66,793.76,1092.24,56.58,1942.58
+13034,Stella "the Bully",NV,0.31,Reeds,220.00,0.75,2.20,165.00,484.00,0.00,649.00
+16250,Florence "Leather Doc" Grant,OK,2.42,Solid Oak,266.00,5.50,6.05,1463.00,1609.30,61.45,3133.75
+19370,Vanessa "Scalper" Rhodes,OK,2.42,Solid Oak,240.00,5.50,6.66,1320.00,1598.40,58.37,2976.77
+22175,Tammy Carlson "the Killer",AR,2.20,Leather,242.00,11.00,19.97,2662.00,4832.74,149.89,7644.63
+23154,Julia "Bandit" Chandler,UT,0.00,Pinecones,80.00,1.50,2.93,120.00,234.40,0.00,354.40

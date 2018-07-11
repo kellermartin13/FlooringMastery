@@ -1,0 +1,17 @@
+9214,Burnbrood The Freezer,Minas Gilloy,39.26,Primal Adamant,173.00,5019.08,301.29,868300.84,52123.17,358965.36,1279389.37
+9288,"Lenwenye, Goddess of Travel",The Archer and Scroll,39.60,Ghouls' Imperial Soulzephyr Mithril Of The Seas,89.00,4123.68,122.49,367007.52,10901.61,151163.65,529072.78
+10710,Sunrise Godwarlock,Barad Cune,28.60,Stone Soulsteel Of The Skies,226.00,1798.28,13.21,406411.28,2985.46,118725.05,528121.79
+11404,"Azah, Goddess of Fate",The Dungeon of Merciless Woe,38.62,God-touched Greengem Platinum,351.00,1281.72,-39.60,449883.72,-13899.60,170033.81,606017.93
+11953,Law Lionwatcher,Lordsgate Farthing,41.14,Litches' Fatal Mithril Of The Past,32.00,1327.98,369.05,42495.36,11809.60,22265.03,76569.99
+12788,"Avriel, God of Death",South Brightcrown Borough,42.25,Nymphs' Luminous Rotmercury Of The Skies,52.00,292.60,189.00,15215.20,9828.00,10518.14,35561.34
+13033,Deathspike The Terrifying,The Grey Plains,19.97,Imperial Fate Steel,126.00,2993.93,-44.92,377235.18,-5659.92,74315.05,445890.31
+16762,Evilbrood,The Fortress of Gama,10.16,Forgotten Mithril,110.00,1104.73,347.60,121520.30,38236.00,15975.63,175731.93
+17377,"Uriel, God of Fate",Reyny Keep,11.00,Grayplatinum,195.00,2506.27,306.97,488722.65,59859.15,60344.00,608925.80
+17552,Cinderember,North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,211.00,2169.81,222.28,457829.91,46901.08,277602.04,782333.03
+17566,Icechill The Frigid,Weke Tower,-0.07,Grayplatinum,291.00,2506.27,306.97,729324.57,89328.27,0.00,818652.84
+17803,Spikespawn,The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,80.00,398.09,374.00,31847.20,29920.00,1853.02,63620.22
+17853,Chainnail,The Hunter and Rose,44.44,Ensorceled Gold Of The Dawn,83.00,6913.92,443.21,573855.36,36786.43,268682.39,879324.18
+17969,Cult Godseeker,North Arcanist's Farthing,55.18,Djinni's Spectral Shadowlead Of Life,212.00,4076.49,325.62,864215.88,69031.44,513286.03,1446533.35
+20803,Cinderember,Archtemple District,27.76,Devils' Falserot Silver,83.00,2220.79,182.71,184325.57,15164.93,55857.34,255347.84
+21142,Springcoil,Waleah Castle,0.85,Sapphire Mindlead,292.00,1307.71,51.70,381851.32,15096.40,3969.48,400917.20
+21844,"Nelalwe, Lady of Fire",Barad Kesa,5.23,Unknowable Mindsilver,261.00,4313.65,402.60,1125862.65,105078.60,61547.06,1292488.31

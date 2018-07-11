@@ -1,0 +1,18 @@
+236,Freezebrood,The Fortress of Asmamur,-4.48,Planar Mudtin Of Trolls,101.00,2094.92,335.36,211586.92,33871.36,-9818.33,235639.95
+353,Mecharig The Living Device,Barad Kesa,4.32,Trolls' Mist Poisonplatinum Of The Twilight,305.00,516.17,394.90,157431.85,120444.50,11115.05,288991.40
+2235,Song Runetomb,Haukri's Hold,25.30,Planar Mudtin Of Trolls,248.00,2094.92,335.36,519540.16,83169.28,150677.36,753386.80
+4511,Zeal Bladewitch,The Barrow of Terrible Horror,-1.10,Ensorceled Gold Of The Dawn,182.00,4293.00,366.29,781326.00,66664.78,-8479.91,839510.87
+5275,Seraphim Tsunami,Gifeld Castle,6.22,Primordial Plague Mercury Of Legend,148.00,339.81,273.90,50291.88,40537.20,5449.74,96278.82
+7780,Grave Mistseeker,The Tower of Aces the Accursed,13.31,Poison Adamant,234.00,1151.38,58.58,269422.92,13707.72,36806.98,319937.62
+7970,Bronzespawn,The Grey Plains,19.97,Swordbronze,355.00,1350.01,447.01,479253.55,158688.55,127588.42,765530.52
+9548,"Ahah, Goddess of Knowledge",The Secret Catacombs of Ulfang the Black,42.90,Spirits' Living Wordhammer Tin Of The Trees,374.00,4777.30,26.40,1786710.20,9873.60,772531.03,2569114.83
+11166,Emberspawn,The Fortress of the Lich Queen,36.35,Unspeakable Rotsoul Mithril Of Souls,221.00,248.00,401.53,54808.00,88738.13,51676.61,195222.74
+12719,Cinderflame,The Hunter and Rose,40.40,Phantasmal Lead,44.00,-552.97,245.47,-24330.68,10800.68,-5412.00,-18942.00
+13181,Sephiroth Drakecaster,Eved Castle,5.09,Sapphire Mindlead,124.00,1307.71,47.00,162156.04,5828.00,8399.20,176383.24
+14443,Boltcrank The Trapper,The Citadel of Lord Greywulf,33.04,Unicorns' Evil Mithril,133.00,4802.49,377.52,638731.17,50210.16,227350.64,916291.97
+14449,"Lionare, God of the Lost",The Citadel of Alammius,3.50,Legendary Mithril Of The Moon,269.00,2707.10,125.84,728209.90,33850.96,30482.43,792543.29
+17639,Law Lionwatcher,Shainan's Hold,23.96,Hidden Shadowice Lead,199.00,2729.00,-62.23,543071.00,-12383.77,127364.94,658052.17
+17827,"Ahah, Goddess of Knowledge",Archfane District,36.16,Goddesses' Spectral Poison Steel,213.00,4566.53,296.81,972670.89,63220.53,372920.91,1408812.33
+20929,Fate Ivycaster,The Black Barrow of Bery,-0.10,Tritons' Time Stoneiron Of Legend,233.00,2129.60,224.81,496196.80,52380.73,0.00,548577.53
+21508,Lord Mystery,The Lazy Sage,19.97,Angels' Smoke Adamant Of The Mountains,298.00,3427.13,260.15,1021284.74,77524.70,219761.89,1318571.33
+21741,Bonescare,The Beggar and Cask,25.41,Sphinxes' Unknown Poisongold Of The Future,49.00,4301.28,23.86,210762.72,1169.14,52982.96,264914.82

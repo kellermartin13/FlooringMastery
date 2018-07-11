@@ -1,0 +1,22 @@
+402,Helen Webb "the Dancer",CA,0.50,Dirt,111.00,0.50,1.00,55.50,111.00,0.00,166.50
+961,Victoria "the Dancer",MO,2.20,Pebbles,113.00,0.80,4.00,90.40,452.00,10.85,553.25
+2904,Susan "Damnation" Fleming,ID,0.00,Dirt,344.00,0.50,1.00,172.00,344.00,0.00,516.00
+3748,Joanne "Damned" Miles,MO,2.20,Pinecones,200.00,1.50,2.20,300.00,440.00,14.80,754.80
+4879,Helen Webb "the Dancer",MT,3.00,Reeds,42.00,0.75,2.20,31.50,92.40,3.72,127.62
+6062,Florence "Leather Doc" Grant,ND,1.25,Solid Oak,185.00,5.50,5.50,1017.50,1017.50,20.35,2055.35
+8014,Vicki "Mesa" Rhodes,ID,0.00,Packed Dirt,266.00,1.00,1.50,266.00,399.00,0.00,665.00
+9249,Florence "Leather Doc" Grant,MO,2.20,Pebbles,190.00,0.88,4.84,167.20,919.60,21.74,1108.54
+9354,Minnie Lawson "the Apostle",AR,2.20,Cedar Planks,234.00,2.20,6.05,514.80,1415.70,38.61,1969.11
+9650,Diana "Mistress" Morgan,MS,3.00,Beechwood,47.00,3.00,5.50,141.00,258.50,11.98,411.48
+10006,Susan "Damnation" Fleming,TX,0.55,Reeds,162.00,0.75,2.20,121.50,356.40,4.78,482.68
+12182,Gloria "Devil" McCoy,UT,0.00,Packed Dirt,118.00,1.00,1.65,118.00,194.70,0.00,312.70
+13359,Vengeful Montgomery,TX,0.67,Pebbles,270.00,0.88,4.84,237.60,1306.80,15.44,1559.84
+13655,"Doom" McCoy,ND,1.38,Packed Dirt,97.00,1.00,2.00,97.00,194.00,2.91,293.91
+15441,Joanne "Damned" Miles,AL,1.00,Leather,10.00,11.00,18.15,110.00,181.50,2.92,294.42
+15628,Cynthia "the Vixen",TX,0.67,Packed Dirt,201.00,1.10,2.20,221.10,442.20,6.63,669.93
+15766,Vanessa "Scalper" Rhodes,NM,2.66,Beechwood,291.00,3.63,5.50,1056.33,1600.50,79.70,2736.53
+17511,Diana "Mistress" Morgan,AR,2.20,Brick,178.00,5.32,6.66,946.96,1185.48,42.65,2175.09
+19960,Lena Chapman "the Bully",IA,1.33,Pebbles,292.00,0.88,4.84,256.96,1413.28,16.70,1686.94
+19977,Victoria "the Dancer",CA,0.67,Pinecones,165.00,1.50,2.66,247.50,438.90,6.86,693.26
+20770,Maureen "Cursed" Andrews,UT,0.00,Cedar Planks,184.00,2.20,6.66,404.80,1225.44,0.00,1630.24
+21581,Stella "the Bully",MT,5.31,Pebbles,346.00,0.88,4.84,304.48,1674.64,98.96,2078.08

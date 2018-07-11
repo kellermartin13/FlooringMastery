@@ -1,0 +1,15 @@
+5622,Jacqueline "Riding Doc" Washington,NM,2.20,Cedar Planks,337.00,2.00,5.50,674.00,1853.50,50.55,2578.05
+8416,Cathy "Loner Demon" Murray,AL,1.00,Packed Dirt,159.00,1.00,1.50,159.00,238.50,3.98,401.48
+9470,Joanne "Damned" Miles,AR,2.20,Cedar Planks,166.00,2.20,6.05,365.20,1004.30,27.39,1396.89
+9529,"Bane" Jennings,OK,2.20,Reeds,48.00,0.75,2.20,36.00,105.60,2.83,144.43
+10601,Mattie Grant "the Gambler",MT,3.63,Packed Dirt,237.00,1.00,1.50,237.00,355.50,23.70,616.20
+10948,Maureen "Cursed" Andrews,UT,0.00,Brick,312.00,4.84,6.66,1510.08,2077.92,0.00,3588.00
+10972,Wilma "Tornado" Brooks,ND,1.25,Dirt,324.00,0.50,1.00,162.00,324.00,4.86,490.86
+11078,Cynthia "the Vixen",AR,2.20,Pinecones,126.00,1.50,2.66,189.00,335.16,10.48,534.64
+11229,Melissa "Lonesome Stalker" Riley,KS,0.55,Dirt,72.00,0.50,1.00,36.00,72.00,1.08,109.08
+11501,Debra "Scorpion" Lane,CA,0.61,Dirt,175.00,0.50,1.00,87.50,175.00,2.62,265.12
+12142,Allison "Steel Gravedigger" Douglas,TX,0.67,Brick,221.00,4.84,6.66,1069.64,1471.86,25.42,2566.92
+14871,Julia "Bandit" Chandler,NV,0.31,Pebbles,116.00,0.88,4.84,102.08,561.44,0.00,663.52
+16556,Florence "Leather Doc" Grant,IA,1.21,Pinecones,246.00,1.50,2.66,369.00,654.36,10.23,1033.59
+22926,Theresa "Kid" Robinson,ID,0.00,Pinecones,199.00,1.50,2.93,298.50,583.07,0.00,881.57
+23065,Betty "Happy Thinker" Watson,MT,5.84,Dirt,264.00,0.55,1.00,145.20,264.00,24.55,433.75

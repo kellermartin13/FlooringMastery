@@ -1,0 +1,10 @@
+6793,Beamtrap,Grove Farthing,18.00,Glittering Orichalcum,197.00,-144.10,360.23,-28387.70,70965.31,7663.97,50241.58
+7356,Sephiroth Drakecaster,The Broken Shield,37.23,Rot Silver Of The Past,100.00,3440.00,327.00,344000.00,32700.00,139379.00,516079.00
+7427,Rose Anchor,Palace Farthing,43.31,Unknown Fatelightning Steel Of The Glacier,140.00,2017.40,54.28,282436.00,7599.20,124715.14,414750.34
+8272,"Lionare, God of the Lost",Haukri's Hold,25.30,Incubi's Iron Of The Dawn,232.00,1200.96,424.31,278622.72,98439.92,94265.66,471328.30
+13068,Bronzespawn,Gawold Castle,6.05,Phantasmal Smokezephyr Mercury Of Men,190.00,-464.37,75.90,-88230.30,14421.00,-4428.56,-78237.86
+18181,Mecharig The Living Device,Archfane District,36.16,God-touched Faterainbow Orichalcum Of Spectres,36.00,370.41,32.01,13334.76,1152.36,5215.36,19702.48
+20052,Seraphim Tsunami,Tower Farthing,27.12,Djinni's Mind Fogiron,90.00,2531.12,98.52,227800.80,8866.80,63900.25,300567.85
+21404,Flameshiver,The Cuitamba Jungle,33.88,God-touched Faterainbow Orichalcum Of Spectres,335.00,370.41,35.21,124087.35,11795.35,46200.12,182082.82
+22328,Magus Felldrake,Tradun Castle,45.57,Undeads' Mind Orichalcum Of The Twilight,311.00,-17.00,276.00,-5287.00,85836.00,37052.54,117601.54
+22373,Gravebone The Unspeakable,The Bastion of the Lich Tyrant,52.03,Magicians' Legendary Poison Metal,247.00,2991.55,252.79,738912.85,62439.13,416703.03,1218055.01

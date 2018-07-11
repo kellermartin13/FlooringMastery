@@ -1,0 +1,13 @@
+630,"Penur, Lord of the Sea",The Forsaken Tomb of Devastation,0.00,Falserainbow Lead,250.00,3215.00,233.00,803750.00,58250.00,0.00,862000.00
+1634,Evilember The Firey,The Pilgrim's Cup,41.93,Shadowhell Mithril,342.00,363.00,236.70,124146.00,80951.40,86140.91,291238.31
+3711,Song Runetomb,The Dismal Marsh,5.00,Heavenly Dreamsilver Of The Night,302.00,1826.98,112.00,551747.96,33824.00,29278.60,614850.56
+6588,Maverick Wind,South Brightcrown Borough,42.25,Unholy Poison Copper Of The Mountains,148.00,580.91,-9.24,85974.68,-1367.52,35535.01,120142.17
+7410,Deathbrood,The Forsaken Delve of Lord Greywulf,39.00,Angels' Adamant,182.00,1304.00,179.30,237328.00,32632.60,105284.63,375245.23
+11380,Rose Anchor,Fellfen Keep,46.23,Phantasmal Plague Adamant,207.00,-186.03,-7.18,-38508.21,-1486.26,-18397.46,-58391.93
+12204,"Zepul, Lady of Vengeance",Fellfen Keep,46.23,Golems' Stonesapphire Gold Of The Glacier,69.00,3672.77,105.97,253421.13,7311.93,119937.21,380670.27
+13199,"Lenwenye, Goddess of Travel",The Warrior and Flagon,53.24,Emerald Orichalcum,346.00,-405.76,128.90,-140392.96,44599.40,-50770.59,-146564.15
+15262,Springcoil,The Tower of Sabiesu the Awesome,5.32,Sphinxes' Unknown Poisongold Of The Future,337.00,3910.25,23.86,1317754.25,8040.82,66289.75,1392084.82
+16267,"Iran, Lord of Nightmares",Gili's Delve,-6.73,Meteoric Dustzephyr Orichalcum,257.00,375.00,268.49,96375.00,69001.93,-11576.39,153800.54
+18351,Rouge Tombreaper,North Arcanist's Farthing,55.18,God-touched Faterainbow Orichalcum Of Spectres,230.00,370.41,32.01,85194.30,7362.30,50906.13,143462.73
+19178,Dagger Reaper,The Secret Shrine of the Gargoyle Count,-2.00,Starlight Pearldream Bronze,210.00,322.10,147.40,67641.00,30954.00,-1971.90,96623.10
+20775,"Uriel, God of Fate",The Secret Catacombs of Ulfang the Black,42.90,Rocklava Mithril Of Revenants,233.00,2200.14,15.76,512632.62,3672.08,222011.02,738315.72

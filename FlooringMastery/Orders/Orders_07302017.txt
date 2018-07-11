@@ -1,0 +1,18 @@
+775,Tammy Carlson "the Killer",UT,0.00,Dirt,176.00,0.50,1.00,88.00,176.00,0.00,264.00
+3909,April "Thunderbird" Dunn,TX,0.50,Pebbles,89.00,0.80,4.40,71.20,391.60,0.00,462.80
+4392,Julia "Bandit" Chandler,UT,0.00,Cedar Planks,318.00,2.00,5.50,636.00,1749.00,0.00,2385.00
+6162,Cynthia "the Vixen",MS,3.00,Brick,22.00,4.84,6.66,106.48,146.52,7.59,260.59
+7586,Joanne "Damned" Miles,NV,0.28,Beechwood,327.00,3.00,5.00,981.00,1635.00,0.00,2616.00
+7996,"Doom" McCoy,CA,0.55,Dirt,151.00,0.50,1.00,75.50,151.00,2.26,228.76
+8269,Jo "the Joker",WY,0.31,Reeds,149.00,0.75,2.20,111.75,327.80,0.00,439.55
+10620,Julia "Bandit" Chandler,ND,1.25,Brick,234.00,4.84,6.66,1132.56,1558.44,26.91,2717.91
+10916,Helen Webb "the Dancer",ND,1.25,Packed Dirt,190.00,1.00,1.50,190.00,285.00,4.75,479.75
+11622,Gloria "Devil" McCoy,KS,0.55,Beechwood,227.00,3.00,5.50,681.00,1248.50,19.30,1948.80
+13262,Wilma "Tornado" Brooks,MT,3.63,Leather,229.00,11.00,18.15,2519.00,4156.35,267.01,6942.36
+14092,Allison "Steel Gravedigger" Douglas,ID,0.00,Pebbles,171.00,0.88,4.84,150.48,827.64,0.00,978.12
+14433,Mabel "Vixen Cursed" King,MT,3.99,Reeds,311.00,0.75,2.20,233.25,684.20,36.70,954.15
+14641,Ida Russell "the Rustler",NV,0.31,Solid Oak,272.00,5.50,5.50,1496.00,1496.00,0.00,2992.00
+14691,Jacqueline "Riding Doc" Washington,TX,0.67,Reeds,120.00,0.75,2.20,90.00,264.00,3.54,357.54
+17923,Cathy "Loner Demon" Murray,MS,3.00,Cedar Planks,48.00,2.20,6.66,105.60,319.68,12.76,438.04
+22217,Cathy "Loner Demon" Murray,CA,0.67,Cedar Planks,229.00,2.20,6.66,503.80,1525.14,20.29,2049.23
+23412,Black Beck,AL,1.00,Solid Oak,244.00,5.50,6.66,1342.00,1625.04,29.67,2996.71

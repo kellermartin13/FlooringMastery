@@ -1,0 +1,27 @@
+938,April "Thunderbird" Dunn,KS,0.50,Packed Dirt,154.00,1.00,1.50,154.00,231.00,0.00,385.00
+1049,Marie "Raven" Chapman,ID,0.00,Packed Dirt,372.00,1.00,1.50,372.00,558.00,0.00,930.00
+1155,Beth "Fortunate Shooter" Powell,MO,2.20,Solid Oak,132.00,5.00,5.00,660.00,660.00,26.40,1346.40
+1223,Maureen "Cursed" Andrews,MT,3.00,Pinecones,318.00,1.50,2.00,477.00,636.00,33.39,1146.39
+1605,"Scalphunter" Kennedy,IA,1.00,Cedar Planks,147.00,2.00,5.00,294.00,735.00,10.29,1039.29
+1641,"Bane" Jennings,KS,0.50,Solid Oak,218.00,5.00,5.00,1090.00,1090.00,0.00,2180.00
+2079,Kathy Murphy "the Thinker",IA,1.00,Leather,161.00,10.00,16.50,1610.00,2656.50,42.66,4309.16
+4136,Allison "Steel Gravedigger" Douglas,KS,0.50,Packed Dirt,82.00,1.00,1.50,82.00,123.00,0.00,205.00
+6056,Vengeful Robertson,MT,3.00,Solid Oak,275.00,5.50,5.50,1512.50,1512.50,90.75,3115.75
+6534,Jacqueline "Riding Doc" Washington,CA,0.55,Cedar Planks,343.00,2.20,6.05,754.60,2075.15,28.30,2858.05
+8417,"Doom" McCoy,MO,2.20,Pebbles,156.00,0.88,4.84,137.28,755.04,17.85,910.17
+8857,Gladys "Locoweed" Keller,TX,0.50,Pinecones,53.00,1.50,2.66,79.50,140.98,0.00,220.48
+9165,"Bane" Jennings,IA,1.21,Packed Dirt,228.00,1.00,1.50,228.00,342.00,5.70,575.70
+9411,Cathy "Loner Demon" Murray,MO,2.20,Dirt,147.00,0.50,1.00,73.50,147.00,4.41,224.91
+10487,Diana "Mistress" Morgan,MT,3.63,Dirt,155.00,0.50,1.00,77.50,155.00,9.30,241.80
+11706,Mabel "Vixen Cursed" King,AL,1.00,Reeds,291.00,0.75,2.20,218.25,640.20,8.58,867.03
+12098,Allison "Steel Gravedigger" Douglas,MT,3.63,Packed Dirt,193.00,1.00,1.65,193.00,318.45,20.46,531.91
+12970,Maureen "Cursed" Andrews,ID,0.00,Solid Oak,154.00,5.50,5.50,847.00,847.00,0.00,1694.00
+13566,Vanessa "Scalper" Rhodes,KS,0.55,Cedar Planks,306.00,2.20,6.05,673.20,1851.30,25.24,2549.74
+13604,Elizabeth "the Bully",ID,0.00,Reeds,293.00,0.75,2.20,219.75,644.60,0.00,864.35
+14826,Cynthia "the Vixen",KS,0.55,Dirt,57.00,0.50,1.00,28.50,57.00,0.86,86.36
+14974,Deborah "the Lady",ID,0.00,Brick,367.00,5.32,6.66,1952.44,2444.22,0.00,4396.66
+17262,Theresa "Kid" Robinson,AL,1.00,Pinecones,167.00,1.50,2.66,250.50,444.22,6.95,701.67
+18166,Theresa "Kid" Robinson,AL,1.00,Beechwood,106.00,3.63,5.50,384.78,583.00,9.68,977.46
+18804,Gloria "Devil" McCoy,TX,0.67,Pebbles,248.00,0.88,4.84,218.24,1200.32,14.19,1432.75
+19863,Evelyn "Evil Joker" Taylor,NM,2.93,Cedar Planks,132.00,2.20,6.66,290.40,879.12,35.09,1204.61
+21158,Debra "Scorpion" Lane,CA,0.67,Leather,188.00,11.00,19.97,2068.00,3754.36,58.22,5880.58

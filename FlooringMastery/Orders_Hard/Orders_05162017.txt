@@ -1,0 +1,14 @@
+1979,"Zepul, Lady of Vengeance",The Chuallanto Jungle,37.00,Poison Adamant,113.00,298.00,406.38,33674.00,45920.94,29450.13,109045.07
+2081,"Alik, Goddess of Trickery",Haukri's Hold,25.30,Planar Mudtin Of Trolls,321.00,2094.92,335.36,672469.32,107650.56,195029.97,975149.85
+2290,Dagger Reaper,The Forsaken Tomb of Devastation,0.00,Angels' Adamant,214.00,1304.00,179.30,279056.00,38370.20,0.00,317426.20
+4070,Cult Godseeker,Barad Cune,26.00,Glittering Orichalcum,115.00,-131.00,360.23,-15065.00,41426.45,6853.98,33215.43
+7516,"Azah, Goddess of Fate",The Forsaken Delve of Lord Greywulf,39.00,Zephyr Adamant,268.00,4224.00,102.93,1132032.00,27585.24,452250.72,1611867.96
+7628,Scarefear The Blade,Tradun Castle,34.24,Meteoric Dustzephyr Orichalcum,222.00,375.00,244.08,83250.00,54185.76,46728.16,184163.92
+9713,"Selik, God of Death",The Secret Catacombs of Ulfang the Black,42.90,Emerald Orichalcum,211.00,-368.87,128.90,-77831.57,27197.90,-21772.48,-72406.15
+11889,Bonescare,The Barrow of Malefic Ages,17.91,Unicorns' Fatal Magma Metal Of The Ocean,195.00,1971.24,392.70,384391.80,76576.50,82974.29,543942.59
+13063,Sunrise Godwarlock,The Grey Plains,19.97,Forgotten Mithril,81.00,1104.73,316.00,89483.13,25596.00,23015.83,138094.96
+15856,Springsprocket,The Fortress of Asmamur,-4.93,Glittering Orichalcum,57.00,-158.51,360.23,-9035.07,20533.11,-574.90,10923.14
+16812,Sunrise Godwarlock,Lacot Stronghold,45.22,Starlight Pearldream Bronze,255.00,322.10,147.40,82135.50,37587.00,53875.12,173597.62
+19851,Storm Seraphheart,The Tomb of Gothmog of Udun,-3.30,Foulopal Copper Of The Skies,90.00,1787.91,403.00,160911.90,36270.00,-5915.46,191266.44
+21407,Flameflare The Evil,The Warrior and Flagon,53.24,Golems' Stonesapphire Gold Of The Glacier,254.00,4444.06,128.23,1128791.24,32570.42,615521.68,1776883.34
+22540,"Byzou, God of Animals",The Cuitamba Jungle,33.88,Legendary Mithril Of The Moon,249.00,3603.15,152.26,897184.35,37912.74,317933.01,1253030.10

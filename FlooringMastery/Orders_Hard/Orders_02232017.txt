@@ -1,0 +1,13 @@
+4869,Mecharig The Living Device,Archring Borough,17.93,Sphinxes' Unknown Poisongold Of The Future,118.00,3554.77,23.86,419462.86,2815.48,76010.10,498288.44
+5310,"Alas, Lord of Plague",Lordsgate Farthing,37.40,Hell Mercury Of The East,76.00,4636.34,284.60,352361.84,21629.60,138376.83,512368.27
+5891,Bane Veil,Barad Kesa,4.32,Otherworldly Mirror Orichalcum,246.00,-247.00,478.50,-60762.00,117711.00,2277.96,59226.96
+5906,Mecharig The Living Device,The Dark Caverns of Woe,3.29,Trolls' Mist Poisonplatinum Of The Twilight,183.00,516.17,394.90,94459.11,72266.70,5001.77,171727.58
+8717,Burnfreeze The Cold,The Bastion of the Vampire Duke,19.28,Primordial Plague Mercury Of Legend,108.00,452.29,301.29,48847.32,32539.32,15463.46,96850.10
+0,Blazeflare The Cremator,North Arcanist's Farthing,45.60,Goddesses' Spectral Poison Steel,188.00,3773.99,269.83,709510.12,50728.04,349709.55,1109947.71
+   11013,    Cult Godseeker,      Eved Castle,    5.09,     Emerald Orichalcum,      277.00,     -368.87,     128.90,      -102176.99,   35705.30,      -3323.58,    -69795.27
+15386,Song Runetomb,The Fortress of Asmamur,-4.93,Sphinxes' Unknown Poisongold Of The Future,348.00,3910.25,23.86,1360767.00,8303.28,-68453.51,1300616.77
+19087,Lance Knightseraph,Reyny Keep,11.00,Grayplatinum,213.00,3032.59,306.97,645941.67,65384.61,78245.89,789572.17
+20608,Metalghoul,Barad Kesa,5.23,Toxin Iceplatinum Of The Undead,388.00,-377.06,-59.29,-146299.28,-23004.52,-8465.19,-177768.99
+22249,"Alas, Lord of Plague",The Forsaken Delve of Lord Greywulf,42.90,Toxin Iceplatinum Of The Undead,216.00,-377.06,-59.29,-81444.96,-12806.64,-40528.19,-134779.79
+22529,Emberfire,The Lewd King,32.67,Mana-touched Greenglitter Gold Of Giants,110.00,1420.52,514.25,156257.20,56567.50,70232.15,283056.85
+22776,Clash Lonedrake,Eved Castle,5.09,Violetdream Iron,282.00,1630.07,349.36,459679.74,98519.52,27909.96,586109.22

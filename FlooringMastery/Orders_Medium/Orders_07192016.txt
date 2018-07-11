@@ -1,0 +1,8 @@
+4372,Wilma "Tornado" Brooks,AL,1.00,Beechwood,179.00,3.00,5.00,537.00,895.00,14.32,1446.32
+5798,Mattie Grant "the Gambler",MO,2.20,Pebbles,76.00,0.80,4.40,60.80,334.40,7.90,403.10
+7555,Lorraine "Utah" Adams,OK,2.20,Packed Dirt,185.00,1.00,1.50,185.00,277.50,9.25,471.75
+7586,Renee "Loco Tracker" Jordan,NM,2.20,Leather,311.00,10.00,18.15,3110.00,5644.65,175.09,8929.74
+8529,Victoria "the Dancer",OK,2.20,Reeds,227.00,0.75,2.20,170.25,499.40,13.39,683.04
+11965,Cynthia "the Vixen",CA,0.61,Dirt,336.00,0.50,1.00,168.00,336.00,5.04,509.04
+14873,Julia "Bandit" Chandler,TX,0.67,Cedar Planks,151.00,2.20,6.05,332.20,913.55,12.46,1258.21
+23201,Lorraine "Utah" Adams,NM,2.93,Beechwood,252.00,3.63,6.05,914.76,1524.60,73.18,2512.54

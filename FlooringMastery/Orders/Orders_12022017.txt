@@ -1,0 +1,14 @@
+454,Renee "Hellish Empress" Banks,TX,0.50,Reeds,316.00,0.75,2.00,237.00,632.00,0.00,869.00
+520,Jacqueline "Riding Doc" Washington,TX,0.50,Brick,222.00,4.00,5.00,888.00,1110.00,0.00,1998.00
+4935,Beth "Fortunate Shooter" Powell,ID,0.00,Cedar Planks,148.00,2.00,5.50,296.00,814.00,0.00,1110.00
+4988,Maureen "Cursed" Andrews,TX,0.50,Cedar Planks,40.00,2.00,5.50,80.00,220.00,0.00,300.00
+5657,Betty "Happy Thinker" Watson,MS,3.00,Dirt,303.00,0.50,1.00,151.50,303.00,13.64,468.14
+6773,Lena Chapman "the Bully",MO,2.20,Dirt,309.00,0.50,1.00,154.50,309.00,9.27,472.77
+7226,Jo "the Joker",UT,0.00,Pinecones,229.00,1.50,2.66,343.50,609.14,0.00,952.64
+8263,Beth "Fortunate Shooter" Powell,AR,2.20,Dirt,300.00,0.50,1.00,150.00,300.00,9.00,459.00
+9412,Debra "Scorpion" Lane,NM,2.20,Dirt,164.00,0.50,1.00,82.00,164.00,4.92,250.92
+9489,"Doom" McCoy,MT,3.63,Cedar Planks,156.00,2.20,6.05,343.20,943.80,51.48,1338.48
+11575,Susan "Damnation" Fleming,AL,1.00,Brick,222.00,4.84,6.66,1074.48,1478.52,25.53,2578.53
+16738,Vengeful Robertson,NM,2.66,Packed Dirt,87.00,1.10,2.20,95.70,191.40,8.61,295.71
+17255,Jacqueline "Riding Doc" Washington,IA,1.21,Beechwood,294.00,3.63,5.50,1067.22,1617.00,26.84,2711.06
+22487,Helen Webb "the Dancer",IA,1.33,Reeds,266.00,0.91,2.42,242.06,643.72,8.86,894.64

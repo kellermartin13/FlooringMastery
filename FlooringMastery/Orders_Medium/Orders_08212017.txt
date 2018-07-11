@@ -1,0 +1,20 @@
+1685,Tina "Lady" Anderson,MS,3.00,Pebbles,267.00,0.80,4.40,213.60,1174.80,41.65,1430.05
+2332,Jacqueline "Riding Doc" Washington,MS,3.00,Pinecones,181.00,1.50,2.20,271.50,398.20,20.09,689.79
+3787,Debra "Scorpion" Lane,ND,1.25,Pebbles,271.00,0.80,4.40,216.80,1192.40,14.09,1423.29
+9246,Renee "Loco Tracker" Jordan,CA,0.55,Pebbles,301.00,0.88,4.84,264.88,1456.84,17.22,1738.94
+10161,Allison "Steel Gravedigger" Douglas,UT,0.00,Brick,187.00,4.84,6.66,905.08,1245.42,0.00,2150.50
+10877,Dorothy "the Hunter",ND,1.25,Pebbles,50.00,0.88,4.84,44.00,242.00,2.86,288.86
+12036,Beth "Fortunate Shooter" Powell,ID,0.00,Brick,150.00,4.84,6.66,726.00,999.00,0.00,1725.00
+12821,Joanne "Damned" Miles,CA,0.61,Reeds,251.00,0.75,2.20,188.25,552.20,7.40,747.85
+13533,Allison "Steel Gravedigger" Douglas,UT,0.00,Brick,209.00,5.32,6.66,1111.88,1391.94,0.00,2503.82
+14200,Kathy Murphy "the Thinker",ID,0.00,Solid Oak,129.00,5.50,5.50,709.50,709.50,0.00,1419.00
+14384,Cynthia "the Vixen",ID,0.00,Beechwood,200.00,3.63,5.50,726.00,1100.00,0.00,1826.00
+15398,Michele Watson "the Loner",AR,2.20,Brick,142.00,5.32,6.66,755.44,945.72,34.02,1735.18
+17064,Vicki "Mesa" Rhodes,NV,0.31,Pebbles,305.00,0.88,4.84,268.40,1476.20,0.00,1744.60
+18213,Kathy Murphy "the Thinker",WY,0.31,Solid Oak,198.00,5.50,6.66,1089.00,1318.68,0.00,2407.68
+18985,Cynthia "the Vixen",ID,0.00,Reeds,142.00,0.83,2.20,117.86,312.40,0.00,430.26
+19375,Renee "Hellish Empress" Banks,UT,0.00,Solid Oak,189.00,5.50,6.66,1039.50,1258.74,0.00,2298.24
+19664,Stella "the Bully",KS,0.55,Reeds,184.00,0.83,2.20,152.72,404.80,5.58,563.10
+22329,Theresa "Scalphunter" Romero,ID,0.00,Beechwood,267.00,3.63,6.05,969.21,1615.35,0.00,2584.56
+23032,Theresa "Kid" Robinson,WY,0.34,Pebbles,84.00,0.88,5.32,73.92,446.88,0.00,520.80
+23306,Darlene "Loner" Ford,AL,1.00,Packed Dirt,144.00,1.10,2.42,158.40,348.48,5.07,511.95

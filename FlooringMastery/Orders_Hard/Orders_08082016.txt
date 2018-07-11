@@ -1,0 +1,16 @@
+705,Wind Dire,The Citadel of Cheno,5.00,Litches' Fatal Mithril Of The Past,211.00,1207.25,305.00,254729.75,64355.00,15954.24,335038.99
+2945,"Iran, Lord of Nightmares",The Hunter and Rose,40.40,Mithril Of The Tropics,178.00,3751.00,9.00,667678.00,1602.00,267712.00,936992.00
+3188,Nettool The Grasping,Hafeld Keep,29.00,Icy Shock Silver,222.00,1225.60,370.00,272083.20,82140.00,102724.73,456947.93
+6798,Harmony Angelchild,Archtemple District,27.76,Emerald Orichalcum,100.00,-368.87,128.90,-36887.00,12890.00,-6719.16,-30716.16
+7666,"Lenwenye, Goddess of Travel",The Tower of Aramum,42.90,Toxin Iceplatinum Of The Undead,120.00,-342.78,-53.90,-41133.60,-6468.00,-20468.69,-68070.29
+7963,Chillfire The Chiller,The Cuitamba Jungle,30.80,Mistgold Of Men,156.00,3065.71,48.40,478250.76,7550.40,150598.36,636399.52
+8193,Burnfreeze The Cold,Minas Gilloy,39.26,Glowpearl Adamant Of Spirits,184.00,398.09,374.00,73248.56,68816.00,55405.18,197469.74
+8529,Claw Mist,The Black Barrow of Bery,-0.07,Goddesses' Spectral Poison Steel,174.00,3773.99,269.83,656674.26,46950.42,0.00,703624.68
+10806,Flameshiver,The Fortress of Gama,10.16,Glowpearl Adamant Of Spirits,317.00,398.09,374.00,126194.53,118558.00,24475.25,269227.78
+13214,Chainhorror,The Fortress of Asmamur,-4.48,Mithril Of Legend,212.00,2274.80,63.01,482257.60,13358.12,-19824.63,475791.09
+14405,Gravebone,The Citadel of Lord Greywulf,33.04,Zephyr Iron,247.00,3034.90,444.69,749620.30,109838.43,283621.38,1143080.11
+14502,"Azah, Goddess of Fate",Barad Kesa,4.75,Swordbronze,238.00,1485.01,447.01,353432.38,106388.38,22991.04,482811.80
+15095,Lance Knightseraph,The Fortress of the Lich Queen,36.35,Primordial Mud Orichalcum,261.00,-387.90,85.11,-101241.90,22213.71,-28450.15,-107478.34
+17198,Dagger Reaper,The Cracked Chalice,2.52,Thunderbirds' Transcendent Dreamiron,169.00,2275.25,237.70,384517.25,40171.30,12740.66,437429.21
+18672,Snaretool The Constructed,The Bastion of Barbos,28.34,Lunar Bronze,217.00,829.25,337.70,179947.25,73280.90,70903.88,324132.03
+19079,Scarechain The Unspeakable,Reyny Keep,11.00,Incubi's Iron Of The Dawn,211.00,1200.96,424.31,253402.56,89529.41,37722.52,380654.49

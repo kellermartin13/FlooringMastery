@@ -1,0 +1,17 @@
+26,Maverick Wind,The Grey Plains,18.15,Shadowhell Mithril,142.00,363.00,215.18,51546.00,30555.56,14778.28,96879.84
+271,Harmony Angelchild,The Glano Forest,3.00,Shadowhell Mithril,179.00,363.00,215.18,64977.00,38517.22,3104.83,106599.05
+1985,Terrorghoul The Unspeakable,Hartshill Ward,41.98,Spirits' Living Wordhammer Tin Of The Trees,300.00,4343.00,26.40,1302900.00,7920.00,550544.40,1861364.40
+2880,"Penur, Lord of the Sea",Kada's Deep,30.00,Rocklava Mithril Of Revenants,163.00,1818.30,13.03,296382.90,2123.89,89552.04,388058.83
+3750,"Eumyan, Goddess of Law",The Dungeon of Merciless Woe,38.62,Hidden Shadowice Lead,84.00,2729.00,-56.57,229236.00,-4751.88,87548.81,312032.93
+4922,"Penur, Lord of the Sea",Archring Borough,17.93,Thunderbirds' Transcendent Dreamiron,289.00,2275.25,237.70,657547.25,68695.30,130723.66,856966.21
+6209,Wind Dire,The Cracked Chalice,2.29,Poison Adamant,215.00,1151.38,58.58,247546.70,12594.70,5202.83,265344.23
+6761,Bonescare,Grove Farthing,18.00,Magic Adamant,217.00,1838.00,207.64,398846.00,45057.88,79902.70,523806.58
+8281,Evilcoil The Machine,The Broken Arrow,30.07,Djinni's Spectral Shadowlead Of Life,237.00,3705.90,296.02,878298.30,70156.74,284536.51,1232991.55
+11566,Dawn Darkzealot,The Barrow of Malefic Ages,17.91,Litches' Fatal Mithril Of The Past,375.00,1327.98,369.05,497992.50,138393.75,114549.52,750935.77
+11806,Flora Amberslayer,The Broken Arrow,30.07,Angels' Smoke Adamant Of The Mountains,210.00,3115.57,236.50,654269.70,49665.00,211180.41,915115.11
+12224,Graveterror,The Glano Forest,3.00,Thunderbirds' Transcendent Dreamiron,334.00,2275.25,237.70,759933.50,79391.80,25179.76,864505.06
+17755,Icechill The Frigid,Shainan's Hold,23.96,Thunderbirds' Transcendent Dreamiron,220.00,2275.25,237.70,500555.00,52294.00,132683.76,685532.76
+18054,Metalbrood,Grori's Deep,66.50,Goddesses' Spectral Poison Steel,78.00,4566.53,296.81,356189.34,23151.18,250364.74,629705.26
+19109,"Byzou, God of Animals",The Forsaken Delve of Lord Greywulf,42.90,Grayplatinum,81.00,3032.59,306.97,245639.79,24864.57,116316.87,386821.23
+19793,Lightning Brand,Gifeld Castle,6.22,Planar Mudtin Of Trolls,99.00,3067.17,405.79,303649.83,40173.21,20629.38,364452.42
+20841,Shadow Gust,The Black Barrow of Bery,-0.10,Hell Mercury Of The East,208.00,4636.34,378.81,964358.72,78792.48,0.00,1043151.20

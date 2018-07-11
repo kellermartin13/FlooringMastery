@@ -1,0 +1,17 @@
+2496,Surgeon Grant,IA,1.00,Solid Oak,134.00,5.50,5.00,737.00,670.00,14.07,1421.07
+3410,Vengeful Robertson,AL,1.00,Dirt,100.00,0.50,1.00,50.00,100.00,1.50,151.50
+4186,"Scalphunter" Kennedy,NV,0.25,Cedar Planks,279.00,2.00,5.50,558.00,1534.50,0.00,2092.50
+5566,Mabel "Vixen Cursed" King,IA,1.21,Cedar Planks,202.00,2.00,5.50,404.00,1111.00,15.15,1530.15
+7719,Vengeful Montgomery,KS,0.50,Pebbles,85.00,0.80,4.84,68.00,411.40,0.00,479.40
+9438,Vengeful Montgomery,MS,3.00,Solid Oak,226.00,5.50,5.50,1243.00,1243.00,74.58,2560.58
+11855,"Bane" Jennings,ND,1.38,Pinecones,275.00,1.50,2.66,412.50,731.50,11.44,1155.44
+13545,Beth "Fortunate Shooter" Powell,MS,3.00,Beechwood,167.00,3.30,5.50,551.10,918.50,44.09,1513.69
+14272,Wilma "Tornado" Brooks,UT,0.00,Reeds,238.00,0.75,2.20,178.50,523.60,0.00,702.10
+14350,Wilma "Tornado" Brooks,TX,0.67,Cedar Planks,61.00,2.20,6.05,134.20,369.05,5.03,508.28
+15949,Stella "the Bully",TX,0.67,Pebbles,220.00,0.88,4.84,193.60,1064.80,12.58,1270.98
+17495,Gladys "Locoweed" Keller,NV,0.31,Leather,142.00,11.00,19.97,1562.00,2835.74,0.00,4397.74
+17756,Vengeful Montgomery,ID,0.00,Pinecones,174.00,1.50,2.66,261.00,462.84,0.00,723.84
+18814,Elizabeth "the Bully",WY,0.31,Leather,198.00,11.00,19.97,2178.00,3954.06,0.00,6132.06
+21326,Friendly Howell,ID,0.00,Reeds,184.00,0.83,2.20,152.72,404.80,0.00,557.52
+22817,Florence "Leather Doc" Grant,UT,0.00,Dirt,211.00,0.55,1.00,116.05,211.00,0.00,327.05
+22996,Geraldine "Revenge" Warren,CA,0.67,Pebbles,191.00,0.88,5.32,168.08,1016.12,11.84,1196.04

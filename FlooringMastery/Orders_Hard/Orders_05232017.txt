@@ -1,0 +1,16 @@
+920,Ironbrood,The Shadow Downs,13.21,Imperial Fate Steel,186.00,2721.75,-37.13,506245.50,-6906.18,64914.11,564253.43
+1543,Lightning Brand,The Dungeon of Merciless Woe,38.62,Incubi's Iron Of The Dawn,303.00,1200.96,385.74,363890.88,116879.22,187500.34,668270.44
+2609,"Prusu, God of Love",Gili's Delve,-4.59,Primal Adamant,204.00,4562.80,249.00,930811.20,50796.00,-49080.36,932526.84
+3369,Evilbrood,The Dismal Marsh,5.00,Evilsilver,85.00,1486.85,79.86,126382.25,6788.10,6658.52,139828.87
+6334,Evilfear The Horrorific,The Pirate's Pipe,17.60,Poison Adamant,236.00,1151.38,58.58,271725.68,13824.88,51399.10,336949.66
+6542,Scarefear The Blade,The Dread Hive of Illfang the Kobold Lord,1.33,Unholy Poison Copper Of The Mountains,158.00,580.91,-9.24,91783.78,-1459.92,903.24,91227.10
+7717,Snarepiston The Mechanical,The Grey Plains,19.97,Swordbronze,204.00,1350.01,447.01,275402.04,91190.04,73318.42,439910.50
+8979,Steelterror The Blade,The Pirate's Pipe,17.60,Ensorceled Gold Of The Dawn,186.00,5713.98,402.92,1062800.28,74943.12,204793.81,1342537.21
+10920,Spikecrank,The Dungeon of Merciless Woe,38.62,Tin Of The Tundra,283.00,2839.87,174.91,803683.21,49499.53,332741.27,1185924.01
+11698,Cult Godseeker,Unicorn's Ward,14.64,Pearl Mirrorice Steel Of Changelings,126.00,271.51,38.07,34210.26,4796.82,5851.06,44858.14
+12150,Tarot Dawn,The Bastion of the Lich Tyrant,43.00,Phantasmal Smokezephyr Mercury Of Men,171.00,-422.15,75.90,-72187.65,12978.90,-25459.76,-84668.51
+12570,Seraphim Tsunami,The Dismal Marsh,6.05,Vampires' Fang Emeraldsilver,190.00,2762.99,455.55,524968.10,86554.50,36691.36,648213.96
+14067,"Finarfin, God of Protection",The Chuallanto Jungle,40.70,Ensorceled Sandmetal Of Spirits,270.00,2956.98,95.70,798384.60,25839.00,337931.68,1162155.28
+16047,"Nelalwe, Lady of Fire",Pewold Keep,22.57,Thunderbirds' Transcendent Dreamiron,322.00,2275.25,237.70,732630.50,76539.40,186109.08,995278.98
+18123,Seraphim Tsunami,The Hunter and Rose,44.44,Rocklava Mithril Of Revenants,58.00,2200.14,14.33,127608.12,831.14,56513.27,184952.53
+21134,"Ahah, Goddess of Knowledge",The Secret Catacombs of Ulfang the Black,42.90,Unknowable Mindsilver,212.00,4313.65,402.60,914493.80,85351.20,429933.35,1429778.35

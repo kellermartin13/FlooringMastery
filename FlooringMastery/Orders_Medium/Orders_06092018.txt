@@ -1,0 +1,14 @@
+932,Jo "the Joker",NV,0.25,Reeds,314.00,0.75,2.00,235.50,628.00,0.00,863.50
+1235,Friendly Howell,KS,0.50,Cedar Planks,151.00,2.00,5.00,302.00,755.00,0.00,1057.00
+3046,Heather "Friendly Gambler" Barrett,MO,2.20,Solid Oak,141.00,5.50,5.00,775.50,705.00,29.61,1510.11
+3446,Julia "Bandit" Chandler,MS,3.00,Brick,219.00,4.00,5.50,876.00,1204.50,62.42,2142.92
+9865,Gladys "Locoweed" Keller,TX,0.55,Pebbles,53.00,0.88,4.84,46.64,256.52,3.03,306.19
+12572,Michele Watson "the Loner",WY,0.31,Dirt,388.00,0.50,1.00,194.00,388.00,0.00,582.00
+13463,Kathy Murphy "the Thinker",MO,2.20,Packed Dirt,59.00,1.00,2.00,59.00,118.00,3.54,180.54
+14217,Gloria "Devil" McCoy,AR,2.20,Dirt,162.00,0.50,1.00,81.00,162.00,4.86,247.86
+14595,Cathy "Wildfire" Neal,ND,1.38,Leather,275.00,11.00,18.15,3025.00,4991.25,80.16,8096.41
+16034,Julia "Bandit" Chandler,WY,0.31,Cedar Planks,294.00,2.20,6.05,646.80,1778.70,0.00,2425.50
+16429,Stella "the Bully",ND,1.38,Beechwood,310.00,3.63,5.50,1125.30,1705.00,28.30,2858.60
+16569,Renee "Hellish Empress" Banks,ND,1.38,Brick,155.00,5.32,6.66,824.60,1032.30,18.57,1875.47
+21598,Theresa "Kid" Robinson,AR,2.20,Cedar Planks,386.00,2.20,6.66,849.20,2570.76,68.40,3488.36
+23207,Michele Watson "the Loner",CA,0.67,Reeds,168.00,0.91,2.42,152.88,406.56,5.59,565.03

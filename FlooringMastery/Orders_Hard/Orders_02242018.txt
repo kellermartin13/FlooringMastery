@@ -1,0 +1,19 @@
+194,"Byzou, God of Animals",The Bastion of Barbos,21.29,Planar Mudtin Of Trolls,271.00,2094.92,335.36,567723.32,90882.56,138307.23,796913.11
+679,Flora Amberslayer,The Forsaken Tomb of Devastation,0.00,Falserainbow Lead,150.00,3215.00,233.00,482250.00,34950.00,0.00,517200.00
+3603,Song Runetomb,Reheath Stronghold,8.00,Negative Rockglitter Mercury Of Trolls,239.00,1349.00,423.07,322411.00,101113.73,33881.98,457406.71
+5629,Evilcoil The Machine,Gena's Hold,2.20,White Platinum,69.00,-52.59,145.00,-3628.71,10005.00,127.53,6503.82
+6852,Deathspike The Terrifying,Weke Tower,-0.05,Timeiron,141.00,1596.00,228.33,225036.00,32194.53,0.00,257230.53
+7207,Spikecrank,Dysley Stronghold,45.98,Otherworldly Mirror Orichalcum,225.00,-247.00,478.50,-55575.00,107662.50,23960.25,76047.75
+8701,Chainnail,The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,69.00,3826.00,157.07,263994.00,10837.83,57714.68,332546.51
+8724,Nailpiston The Grasping,Weke Tower,-0.05,Ensorceled Gold Of The Dawn,217.00,5713.98,402.92,1239933.66,87433.64,0.00,1327367.30
+10255,Flameflare The Evil,The Broken Shield,37.23,Meteoric Dustzephyr Orichalcum,108.00,375.00,244.08,40500.00,26360.64,24738.44,91599.08
+10280,Rune Rougehate,The Tomb of Hellish Ruin,16.94,Pearl Mirrorice Steel Of Changelings,58.00,271.51,38.07,15747.58,2208.06,3052.46,21008.10
+10417,Evilfear The Horrorific,The Broken Shield,37.23,Ensorceled Gold Of The Dawn,297.00,5713.98,402.92,1697052.06,119667.24,672186.14,2488905.44
+12821,Spikecrank,Reheath Stronghold,8.00,Mistgold Of Men,287.00,3372.28,53.24,967844.36,15279.88,78649.94,1061774.18
+13820,Rouge Roguemist,Waleah Castle,0.77,Violetstone Tin Of Death,180.00,2469.75,171.71,444555.00,30907.80,4754.63,480217.43
+16755,Rouge Tombreaper,The Forsaken Sepulcher of Sorrows,53.67,Shadowhell Mithril,265.00,483.15,315.05,128034.75,83488.25,114222.42,325745.42
+18454,Spikecrank,Archring Borough,21.69,Primal Adamant,315.00,5520.99,331.42,1739111.85,104397.30,405572.01,2249081.16
+18731,Sephiroth Drakecaster,South Brightcrown Borough,42.25,Devils' Falserot Silver,306.00,2220.79,182.71,679561.74,55909.26,308897.82,1044368.82
+21032,Scarefear The Blade,South Brightcrown Borough,42.25,Unknowable Mindsilver,163.00,4313.65,402.60,703124.95,65623.80,322874.48,1091623.23
+21892,"Melcha, Goddess of Thieves",The Tomb of Hellish Ruin,16.94,Trolls' Rubymercury Of The Sunset,202.00,740.84,239.58,149649.68,48395.16,33667.62,231712.46
+22516,Sunset Knightclaw,Lordsgate Farthing,45.25,Violetstone Tin Of Death,235.00,2469.75,171.71,580391.25,40351.85,279334.40,900077.50

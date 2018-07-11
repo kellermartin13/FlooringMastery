@@ -1,0 +1,62 @@
+Carpet,2.25,2.10
+Laminate,1.75,2.10
+Tile,3.50,4.15
+Wood,5.15,4.75
+Sheet Plastic,2.00,0.50
+Reclaimed Wood,0.00,49.99
+Linoleum,7.50,5.00
+Marble Tile,15.00,25.00
+Shag Carpet,10.00,15.50
+Bamboo,35.00,12.50
+Beechwood,3.63,6.05
+Dirt,0.55,1
+Packed Dirt,1.10,2.42
+Cedar Planks,2.20,6.66
+Leather,11.00,19.97
+Pinecones,1.5,2.93
+Reeds,0.91,2.42
+Pebbles,0.88,5.32
+Brick,5.32,6.66
+Solid Oak,5.50,6.66
+Venom Timegold Of Dwarves,3339.60,295.90
+Violetstone Tin Of Death,2469.75,171.71
+Fairies' Supreme Mistsmoke Lead Of The Future,3349.50,324.73
+Foulopal Copper Of The Skies,1787.91,403.00
+Green Dustlightning Mercury,4681.13,35.20
+Incubi's Glittering Tin Of The Future,3349.54,96.64
+Magicians' Legendary Poison Metal,2991.55,252.79
+Meteoric Dustzephyr Orichalcum,375.00,324.87
+Meteoric Mirrormuck Orichalcum Of The Forests,2374.02,185.77
+Nymphs' Luminous Rotmercury Of The Skies,292.60,207.90
+Otherworldly Truesoul Orichalcum Of The East,1061.78,392.65
+Phantasmal Plague Adamant,-204.63,-7.18
+Primordial False Gold,5935.38,273.46
+Sirens' Rockgold,-352.01,199.96
+Sphinxes' Mistsoul Bronze Of The Past,2386.79,244.51
+Sphinxes' Opalpearl Platinum Of Legend,5805.82,472.88
+Spirits' Living Wordhammer Tin Of The Trees,5780.53,26.40
+Starsmoke Bronze Of Life,3459.27,367.44
+Vampires' Hammer Emeraldmetal,379.45,28.42
+Warlocks' Timerot Mithril,3208.78,112.00
+Yellow Mistearth Copper,6090.10,-33.15
+Zephyr Iron,3034.90,489.16
+Djinni's Mind Fogiron,2531.12,119.21
+Ensorceled Gold Of The Dawn,6913.92,443.21
+Fleshshock Mercury,5879.03,371.88
+Fog Lavaplatinum Of Life,1078.00,18.70
+Foul Ice Bronze Of Life,-101.43,157.06
+Goddesses' Spectral Poison Steel,5525.50,296.81
+Hell Mercury Of The East,4636.34,378.81
+Incubi's Iron Of The Dawn,1200.96,424.31
+Litches' Fatal Mithril Of The Past,1460.78,491.22
+Magic Adamant,2021.80,228.40
+Mithril Of The Tropics,4992.58,13.18
+Muck Orichalcum Of Ogres,4561.14,485.76
+Phantasmal Smokezephyr Mercury Of Men,-561.89,75.90
+Phantasmal Tin Of The Swamps,5964.74,-7.99
+Poison Adamant,1393.17,70.88
+Timeiron,1596.00,276.28
+Toxic Mistlead Of The Past,1557.54,181.10
+Unknown Fatelightning Steel Of The Glacier,2441.05,87.43
+Unspeakable Rotsoul Mithril Of Souls,272.80,587.88
+Violetdream Iron,1630.07,349.36

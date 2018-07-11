@@ -1,0 +1,17 @@
+915,Storm Squallmourner,The Broken Shield,37.23,Phantasmal Lead,272.00,-457.00,245.47,-124304.00,66767.84,-21288.38,-78824.54
+3435,Claw Mist,The Flying Witch,11.45,Negative Rockglitter Mercury Of Trolls,128.00,1349.00,423.07,172672.00,54152.96,24950.75,251775.71
+4327,Sephiroth Drakecaster,Khali's Delve,52.71,Phantasmal Lead,188.00,-457.00,245.47,-85916.00,46148.36,-21076.85,-60844.49
+5527,Shadow Tomblion,The Vaults of the Shadow Emperor,30.00,Negative Rockglitter Mercury Of Trolls,282.00,1483.90,423.07,418459.80,119305.74,161329.66,699095.20
+7124,Spikerivet,Barad Kesa,4.32,Djinni's Mind Fogiron,205.00,2301.02,74.02,471709.10,15174.10,19475.33,506358.53
+9332,Flora Amberslayer,Fellfen Keep,46.23,Golems' Stonesapphire Gold Of The Glacier,235.00,3672.77,105.97,863100.95,24902.95,408481.79,1296485.69
+10446,Grave Mistseeker,The Dismal Marsh,6.05,Tritons' Time Stoneiron Of Legend,80.00,1760.00,204.37,140800.00,16349.60,9428.98,166578.58
+10810,Burnbrood The Freezer,Barad Cune,28.60,Glowpearl Adamant Of Spirits,264.00,398.09,374.00,105095.76,98736.00,59111.21,262942.97
+13074,"Finarfin, God of Protection",The Tomb of Hellish Ruin,16.94,Timeiron,239.00,1596.00,228.33,381444.00,54570.87,74122.53,510137.40
+14692,Chainblade The Cadaverous,Archscepter Borough,3.30,Ensorceled Sandmetal Of Spirits,184.00,2956.98,95.70,544084.32,17608.80,16850.79,578543.91
+16839,"Prusu, God of Love",Gena's Hold,2.66,Ghostly Magic Adamant,71.00,4836.38,230.90,343382.98,16393.90,10793.31,370570.19
+18071,Sephiroth Drakecaster,North Arcanist's Farthing,55.18,God-touched Faterainbow Orichalcum Of Spectres,224.00,370.41,32.01,82971.84,7170.24,49578.14,139720.22
+18697,"Gadriel, God of Resurrection",The Bastion of Barbos,28.34,Hidden Shadowice Lead,198.00,2729.00,-62.23,540342.00,-12321.54,147845.73,675866.19
+19350,"Gadriel, God of Resurrection",The Pilgrim's Cup,46.12,Ghostly Soul Adamant,99.00,3222.96,229.53,319073.04,22723.47,157226.39,499022.90
+20119,"Alik, Goddess of Trickery",The Tomb of Gothmog of Udun,-3.30,Foulopal Copper Of The Skies,270.00,1787.91,403.00,482735.70,108810.00,-17746.37,573799.33
+21381,Chillfire The Chiller,Unicorn's Ward,14.64,Phantasmal Tin Of The Swamps,189.00,5964.74,-7.99,1127335.86,-1510.11,168873.86,1294699.61
+21688,Lance Knightseraph,The Fortress of Asmamur,-4.93,Phantasmal Tin Of The Swamps,101.00,5964.74,-7.99,602438.74,-806.99,-30081.59,571550.16

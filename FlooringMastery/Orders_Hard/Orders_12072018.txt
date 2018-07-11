@@ -1,0 +1,16 @@
+1733,Shadow Gust,The Lazy Sage,15.00,Foul Ice Bronze Of Life,71.00,-92.21,129.80,-6546.91,9215.80,400.33,3069.22
+2290,Evilcoil The Machine,Hartshill Ward,41.98,Spirits' Living Wordhammer Tin Of The Trees,148.00,4343.00,26.40,642764.00,3907.20,271601.90,918273.10
+4031,"Alas, Lord of Plague",Citadel Ward,25.82,Yellow Mistearth Copper,165.00,4575.58,-27.40,754970.70,-4521.00,195116.92,945566.62
+6091,Burnbrood The Freezer,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,222.00,3115.32,301.61,691601.04,66957.42,98612.60,857171.06
+7705,Gravebone The Unspeakable,Grori's Deep,49.95,Shadowy Adamant,207.00,618.93,478.58,128118.51,99066.06,113592.28,340776.85
+8869,Mecharig The Living Device,The Fen of the Necromancer,54.57,Goddesses' Spectral Poison Steel,287.00,3773.99,269.83,1083135.13,77441.21,638316.99,1798893.33
+10500,Spikebrood The Disinterred,The Fortress of Gama,10.16,Magicians' Legendary Poison Metal,246.00,2472.35,229.81,608198.10,56533.26,66473.14,731204.50
+13550,Spikerivet,The Warrior and Flagon,53.24,Ghostly Soul Adamant,264.00,3222.96,229.53,850861.44,60595.92,483072.40,1394529.76
+13646,Icechill The Frigid,The Warrior and Flagon,53.24,Negative Mercury,183.00,4054.87,436.81,742041.21,79936.23,435648.04,1257625.48
+13889,Deathbrood,Archfane District,32.87,Shadowhell Mithril,219.00,483.15,286.41,105809.85,62723.79,55616.10,224149.74
+15192,Fate Ivycaster,Gena's Hold,2.66,Grayplatinum,216.00,2506.27,306.97,541354.32,66305.52,18229.80,625889.64
+16791,Lance Knightseraph,Gena's Hold,2.66,Ghostly Magic Adamant,185.00,4836.38,230.90,894730.30,42716.50,28123.40,965570.20
+16990,"Ariel, God of Luck",The Flying Witch,12.60,Sprites' Transcendent Mud Lead Of The South,280.00,2081.80,321.86,582904.00,90120.80,87493.22,760518.02
+22088,Cinderflame,The Wizard's House,43.58,Ensorceled Sandmetal Of Spirits,109.00,2956.98,95.70,322310.82,10431.30,146406.53,479148.65
+22953,Deathspike The Terrifying,The Demon and Toad,31.61,Falserainbow Lead,222.00,3215.00,256.30,713730.00,56898.60,246601.15,1017229.75
+23007,Evilbrood,The Bastion of Barbos,28.34,White Platinum,167.00,-63.64,193.00,-10627.88,32231.00,6048.87,27651.99

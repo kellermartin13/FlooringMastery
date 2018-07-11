@@ -1,0 +1,21 @@
+5537,Metalghoul,The Dungeon of Merciless Woe,38.62,Vampires' Hammer Emeraldmetal,227.00,379.45,25.84,86135.15,5865.68,35880.32,127881.15
+7613,"Azah, Goddess of Fate",Pawic Keep,0.56,Shadowy Adamant,223.00,618.93,478.58,138021.39,106723.34,2447.45,247192.18
+9269,Terrorghoul The Unspeakable,The Fen of the Necromancer,54.57,Violetstone Tin Of Death,206.00,2245.23,156.10,462517.38,32156.60,272070.69,766744.67
+9516,Chainblade The Cadaverous,The Forsaken Sepulcher of Sorrows,48.79,Shadow Steel,263.00,4677.78,465.30,1230256.14,122373.90,662788.72,2015418.76
+10544,Storm Seraphheart,The Shadow Downs,13.21,Shadowhell Mithril,259.00,439.23,286.41,113760.57,74180.19,24432.30,212373.06
+10923,Burnfreeze The Cold,Gena's Hold,2.66,Heavenly Dreamsilver Of The Night,233.00,2009.68,112.00,468255.44,26096.00,14830.54,509181.98
+11662,Rouge Tombreaper,Archring Borough,17.93,Unicorns' Fatal Magma Metal Of The Ocean,85.00,1971.24,392.70,167555.40,33379.50,36168.28,237103.18
+11836,Deathspike The Terrifying,Archring Borough,17.93,Icy Shock Silver,223.00,1482.98,407.00,330704.54,90761.00,75863.80,497329.34
+13736,Fate Seeker,Grove Farthing,19.80,Sphinxes' Mistsoul Bronze Of The Past,236.00,2169.81,202.07,512075.16,47688.52,111952.74,671716.42
+16250,Spikerivet,Gili's Delve,-6.73,Lycanthropes' Gold,320.00,4846.18,66.14,1550777.60,21164.80,-110035.97,1461906.43
+16927,Rouge Tombreaper,The Cracked Chalice,2.52,Warlocks' Timerot Mithril,198.00,2917.07,112.00,577579.86,22176.00,17992.68,617748.54
+19036,Sunset Knightclaw,Archfane District,36.16,Otherworldly Mirror Orichalcum,114.00,-328.76,526.35,-37478.64,60003.90,8109.09,30634.35
+19520,Mecharig The Living Device,Hafeld Keep,46.71,God-touched Faterainbow Orichalcum Of Spectres,114.00,370.41,32.01,42226.74,3649.14,21561.66,67437.54
+20159,Evilcoil The Machine,Weke Tower,-0.07,Rainbowglitter Tin,254.00,5957.39,213.40,1513177.06,54203.60,0.00,1567380.66
+20254,"Gono, Goddess of the Earth",Grori's Deep,66.50,Pearl Mirrorice Steel Of Changelings,119.00,328.53,46.07,39095.07,5482.33,29421.08,73998.48
+21681,"Ingwenel, God of War",Pewold Keep,22.57,Golems' Stonesapphire Gold Of The Glacier,226.00,4444.06,128.23,1004357.56,28979.98,237667.63,1271005.17
+21841,Claw Mist,Barad Cune,28.60,Ensorceled Sandmetal Of Spirits,243.00,2956.98,95.70,718546.14,23255.10,215122.36,956923.60
+22336,Chainnail,The Lewd King,32.67,Toxin Iceplatinum Of The Undead,259.00,-377.06,-59.29,-97658.54,-15356.11,-37294.83,-150309.48
+22424,Deathspike The Terrifying,Waleah Castle,0.85,Undeads' Mind Orichalcum Of The Twilight,32.00,-17.00,276.00,-544.00,8832.00,82.88,8370.88
+22456,Song Runetomb,Gawold Castle,6.05,Fairies' Supreme Mistsmoke Lead Of The Future,270.00,3349.50,324.73,904365.00,87677.10,59522.53,1051564.63
+22598,Dawn Darkzealot,Boiaburh Keep,17.60,Incubi's Glittering Tin Of The Future,175.00,3349.54,96.64,586169.50,16912.00,108554.67,711636.17

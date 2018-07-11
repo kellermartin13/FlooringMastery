@@ -1,0 +1,20 @@
+1163,Claw Mist,Reyny Keep,11.00,Mithril Of Legend,342.00,2068.00,52.07,707256.00,17807.94,79757.03,804820.97
+1375,Graveterror,The Beggar and Cask,21.00,Venom Jewelmetal Of The Desert,239.00,1388.00,224.00,331732.00,53536.00,80906.28,466174.28
+1851,Seraphim Tsunami,Tower Farthing,22.41,Planar Mudtin Of Trolls,189.00,2094.92,335.36,395939.88,63383.04,101051.04,560373.96
+2760,Bronzespawn,Gili's Delve,-4.59,Rocklava Mithril Of Revenants,39.00,1818.30,13.03,70913.70,508.17,-3571.09,67850.78
+3158,Spikecrank,The Desert of Flames,39.00,Violetdream Iron,172.00,1224.69,349.36,210646.68,60089.92,105587.27,376323.87
+3416,Flameshiver,The Temple of Merciless Necromancy,50.94,Evilsilver,180.00,1486.85,79.86,267633.00,14374.80,143823.98,425831.78
+4058,Emberspawn,The Pilgrim's Cup,41.93,Spirits' Living Wordhammer Tin Of The Trees,299.00,4343.00,26.40,1298557.00,7893.60,548709.25,1855159.85
+4840,Tiger Mistmidnight,The Khazahol Crags,-1.97,Legendary Mithril Of The Moon,234.00,2461.00,114.40,575874.00,26769.60,-12052.87,590590.73
+5052,Bronzespike,The Broken Arrow,30.07,Hell Mercury Of The East,109.00,4636.34,284.60,505361.06,31021.40,160914.74,697297.20
+11478,Nettool The Grasping,Unicorn's Ward,14.64,Unicorns' Fatal Magma Metal Of The Ocean,214.00,1971.24,392.70,421845.36,84037.80,75882.47,581765.63
+11517,Magus Felldrake,The Citadel of Cheno,7.33,Pearl Mirrorice Steel Of Changelings,213.00,271.51,38.07,57831.63,8108.91,4615.84,70556.38
+14276,Law Lionwatcher,The Chuallanto Jungle,40.70,Primordial False Gold,138.00,5395.80,226.00,744620.40,31188.00,318081.44,1093889.84
+14518,"Gadriel, God of Resurrection",The Archer and Blade,9.90,Swordbronze,155.00,1485.01,447.01,230176.55,69286.55,29946.31,329409.41
+15523,Storm Squallmourner,The Tower of Sabiesu the Awesome,5.32,Trolls' Rubymercury Of The Sunset,175.00,556.60,217.80,97405.00,38115.00,6776.00,142296.00
+15781,"Gadriel, God of Resurrection",The Desert of Flames,51.91,Djinni's Spectral Shadowlead Of Life,216.00,4076.49,325.62,880521.84,70333.92,494445.00,1445300.76
+16151,Clash Lonedrake,The Citadel of Cheno,7.33,Lycanthropes' Gold,273.00,4846.18,66.14,1323007.14,18056.22,93874.44,1434937.80
+17712,Snaretool The Constructed,Reyny Keep,11.00,Angels' Smoke Adamant Of The Mountains,173.00,3427.13,260.15,592893.49,45005.95,70168.94,708068.38
+19412,Chainnail,Gifeld Castle,6.22,Witchs' Forbidden Rockrainbow Bronze,309.00,655.60,425.92,202580.40,131609.28,20051.38,354241.06
+22749,Jericho Wolf,Boiaburh Keep,17.60,Primal Adamant,173.00,5520.99,364.56,955131.27,63068.88,183276.03,1201476.18
+22946,Sunrise Godwarlock,The Demon and Toad,31.61,Incubi's Glittering Tin Of The Future,235.00,3349.54,96.64,787141.90,22710.40,259152.74,1069005.04

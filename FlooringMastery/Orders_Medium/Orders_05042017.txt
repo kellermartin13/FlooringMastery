@@ -1,0 +1,22 @@
+1449,Beth "Fortunate Shooter" Powell,UT,0.00,Cedar Planks,225.00,2.00,5.00,450.00,1125.00,0.00,1575.00
+2441,Cynthia "the Vixen",NV,0.25,Pinecones,95.00,1.50,2.20,142.50,209.00,0.00,351.50
+3666,Helen Webb "the Dancer",TX,0.50,Leather,114.00,10.00,16.50,1140.00,1881.00,0.00,3021.00
+4035,Mabel "Vixen Cursed" King,MO,2.20,Solid Oak,239.00,5.50,5.00,1314.50,1195.00,50.19,2559.69
+5248,Lorraine "Utah" Adams,ID,0.00,Cedar Planks,206.00,2.00,5.50,412.00,1133.00,0.00,1545.00
+5369,Lorraine "Utah" Adams,NM,2.20,Beechwood,93.00,3.00,5.00,279.00,465.00,14.88,758.88
+6216,Diana "Mistress" Morgan,KS,0.50,Solid Oak,204.00,5.50,5.50,1122.00,1122.00,0.00,2244.00
+6240,Susan "Damnation" Fleming,ND,1.25,Dirt,248.00,0.50,1.00,124.00,248.00,3.72,375.72
+7122,Evelyn "Evil Joker" Taylor,NV,0.28,Pebbles,255.00,0.80,4.84,204.00,1234.20,0.00,1438.20
+7905,Allison "Steel Gravedigger" Douglas,CA,0.55,Beechwood,70.00,3.00,5.50,210.00,385.00,5.95,600.95
+9237,April "Thunderbird" Dunn,AL,1.00,Solid Oak,259.00,5.50,5.50,1424.50,1424.50,28.49,2877.49
+9678,Melissa "Lonesome Stalker" Riley,IA,1.21,Cedar Planks,241.00,2.20,6.05,530.20,1458.05,19.88,2008.13
+11586,Tammy Carlson "the Killer",MO,2.20,Cedar Planks,68.00,2.20,6.05,149.60,411.40,11.22,572.22
+14772,Deborah "the Lady",MO,2.20,Beechwood,198.00,3.63,5.50,718.74,1089.00,36.15,1843.89
+15400,Mabel "Vixen Cursed" King,KS,0.55,Leather,295.00,11.00,18.15,3245.00,5354.25,85.99,8685.24
+15722,Mattie Grant "the Gambler",WY,0.31,Brick,333.00,5.32,6.66,1771.56,2217.78,0.00,3989.34
+15869,Cathy "Loner Demon" Murray,KS,0.55,Leather,174.00,11.00,18.15,1914.00,3158.10,50.72,5122.82
+17997,Ida Russell "the Rustler",AR,2.20,Beechwood,288.00,3.63,5.50,1045.44,1584.00,52.59,2682.03
+18337,Allison "Steel Gravedigger" Douglas,AL,1.00,Cedar Planks,117.00,2.20,6.66,257.40,779.22,10.37,1046.99
+18508,Jacqueline "Riding Doc" Washington,UT,0.00,Brick,205.00,5.32,6.66,1090.60,1365.30,0.00,2455.90
+19266,Dorothy "the Hunter",IA,1.33,Solid Oak,276.00,5.50,6.66,1518.00,1838.16,33.56,3389.72
+20270,Black Beck,ND,1.67,Pinecones,250.00,1.50,2.66,375.00,665.00,20.80,1060.80

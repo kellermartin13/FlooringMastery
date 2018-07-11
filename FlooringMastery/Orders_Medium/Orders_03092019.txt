@@ -1,0 +1,18 @@
+332,Wilma "Tornado" Brooks,TX,0.50,Pebbles,243.00,0.80,4.00,194.40,972.00,0.00,1166.40
+1521,Ida Russell "the Rustler",NV,0.25,Solid Oak,99.00,5.00,5.00,495.00,495.00,0.00,990.00
+3100,Minnie Lawson "the Apostle",UT,0.00,Pinecones,167.00,1.50,2.20,250.50,367.40,0.00,617.90
+3747,Mabel "Vixen Cursed" King,WY,0.31,Beechwood,127.00,3.00,5.00,381.00,635.00,0.00,1016.00
+4915,Theresa "Kid" Robinson,ND,1.25,Pebbles,162.00,0.80,4.40,129.60,712.80,8.42,850.82
+8421,"Bane" Jennings,KS,0.50,Reeds,183.00,0.75,2.20,137.25,402.60,0.00,539.85
+10125,Helen Webb "the Dancer",AR,2.20,Reeds,156.00,0.75,2.20,117.00,343.20,9.20,469.40
+12896,Geraldine "Revenge" Warren,OK,2.42,Dirt,271.00,0.50,1.00,135.50,271.00,8.13,414.63
+13464,Diana "Mistress" Morgan,MT,3.63,Cedar Planks,218.00,2.20,6.05,479.60,1318.90,71.94,1870.44
+16127,Betty "Happy Thinker" Watson,NM,2.66,Dirt,244.00,0.50,1.00,122.00,244.00,10.98,376.98
+17601,Amanda Hart "the Loner",AR,2.20,Packed Dirt,218.00,1.10,2.20,239.80,479.60,14.39,733.79
+17663,Minnie Lawson "the Apostle",MO,2.20,Dirt,153.00,0.50,1.00,76.50,153.00,4.59,234.09
+18320,Minnie Lawson "the Apostle",NV,0.31,Dirt,175.00,0.50,1.00,87.50,175.00,0.00,262.50
+18569,Gladys "Locoweed" Keller,WY,0.31,Dirt,132.00,0.50,1.00,66.00,132.00,0.00,198.00
+20272,Maureen "Cursed" Andrews,NV,0.31,Solid Oak,40.00,5.50,6.66,220.00,266.40,0.00,486.40
+21929,Heather "Tornado" Newman,TX,0.67,Leather,120.00,11.00,19.97,1320.00,2396.40,37.16,3753.56
+23474,Renee "Hellish Empress" Banks,IA,1.33,Beechwood,314.00,3.63,6.05,1139.82,1899.70,30.40,3069.92
+23530,Dorothy "the Hunter",ND,1.67,Leather,100.00,11.00,19.97,1100.00,1997.00,61.94,3158.94

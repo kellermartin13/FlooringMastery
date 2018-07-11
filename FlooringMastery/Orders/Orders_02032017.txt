@@ -1,0 +1,13 @@
+288,April "Thunderbird" Dunn,CA,0.50,Cedar Planks,229.00,2.00,5.00,458.00,1145.00,0.00,1603.00
+1268,Renee "Loco Tracker" Jordan,KS,0.50,Brick,151.00,4.00,5.00,604.00,755.00,0.00,1359.00
+5921,"Doom" McCoy,NV,0.25,Dirt,106.00,0.50,1.00,53.00,106.00,0.00,159.00
+6359,Geraldine "Revenge" Warren,MO,2.20,Solid Oak,65.00,5.50,5.50,357.50,357.50,14.30,729.30
+10023,Evelyn "Evil Joker" Taylor,UT,0.00,Packed Dirt,205.00,1.00,1.50,205.00,307.50,0.00,512.50
+11143,Betty "Happy Thinker" Watson,NV,0.31,Leather,333.00,10.00,18.15,3330.00,6043.95,0.00,9373.95
+11550,Lorraine "Utah" Adams,UT,0.00,Reeds,254.00,0.75,2.20,190.50,558.80,0.00,749.30
+11587,Mabel "Vixen Cursed" King,ND,1.38,Beechwood,125.00,3.00,5.50,375.00,687.50,10.62,1073.12
+14774,Betty "Happy Thinker" Watson,MS,3.00,Brick,366.00,5.32,6.66,1947.12,2437.56,131.54,4516.22
+19262,"Sunrise" Miles,AL,1.00,Solid Oak,275.00,5.50,6.66,1512.50,1831.50,33.44,3377.44
+20496,April "Thunderbird" Dunn,KS,0.55,Dirt,253.00,0.50,1.00,126.50,253.00,3.80,383.30
+22008,Debra "Scorpion" Lane,UT,0.00,Beechwood,214.00,3.63,6.05,776.82,1294.70,0.00,2071.52
+23357,Theresa "Scalphunter" Romero,MT,5.84,Brick,300.00,5.32,6.66,1596.00,1998.00,215.64,3809.64

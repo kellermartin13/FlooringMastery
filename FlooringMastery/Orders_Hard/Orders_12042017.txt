@@ -1,0 +1,19 @@
+122,"Baltha, Goddess of Knowledge",Love Keep,7.00,Meteoric Mirrormuck Orichalcum Of The Forests,294.00,1962.00,168.88,576828.00,49650.72,43853.51,670332.23
+3208,Lord Mystery,Kada's Deep,30.00,Swordbronze,256.00,1350.01,447.01,345602.56,114434.56,138011.14,598048.26
+3671,Lightning Brand,North Arcanist's Farthing,41.45,Unknowable Mindsilver,321.00,3565.00,366.00,1144365.00,117486.00,517358.91,1779209.91
+4165,Snarepiston The Mechanical,Ring District,35.00,Grayplatinum,232.00,2278.43,279.06,528595.76,64741.92,207668.19,801005.87
+8208,Flameshiver,The Broken Arrow,30.07,Planar Obsidian Mercury Of Wizards,188.00,2574.00,141.57,483912.00,26615.16,153158.15,663685.31
+9107,Sunrise Godwarlock,The Bastion of the Vampire Duke,19.28,Ensorceled Gold Of The Dawn,107.00,5713.98,402.92,611395.86,43112.44,124356.58,778864.88
+10617,Sunrise Godwarlock,The Citadel of Lord Greywulf,33.04,Icy Shock Silver,208.00,1482.98,407.00,308459.84,84656.00,129728.23,522844.07
+11212,Dawn Darkzealot,The Hunter and Rose,40.40,Primordial False Gold,204.00,5395.80,226.00,1100743.20,46104.00,458738.88,1605586.08
+12995,Storm Seraphheart,The Tomb of Hellish Ruin,16.94,Tin Of The Tundra,338.00,3123.86,174.91,1055864.68,59119.58,189547.32,1304531.58
+15975,"Gono, Goddess of the Earth",The Citadel of Cheno,7.33,Lycanthropes' Gold,292.00,4846.18,66.14,1415084.56,19312.88,100407.82,1534805.26
+16234,Rose Anchor,The Lost Sanctum of Woe,3.30,Incubi's Mirrorfog Iron Of The Ocean,264.00,5806.50,-26.08,1532916.00,-6885.12,45780.93,1571811.81
+16283,Law Lionwatcher,The Citadel of Cheno,7.33,Nymphs' Luminous Rotmercury Of The Skies,361.00,292.60,189.00,105628.60,68229.00,12170.03,186027.63
+17056,Terrorghoul The Unspeakable,Lacot Stronghold,45.22,Venom Jewelmetal Of The Desert,108.00,1388.00,298.14,149904.00,32199.12,81946.40,264049.52
+17125,Burnfreeze The Cold,The Citadel of Lord Greywulf,33.04,Sprites' Transcendent Mud Lead Of The South,126.00,2081.80,321.86,262306.80,40554.36,99944.18,402805.34
+17880,Song Runetomb,Lamp Borough,4.95,God-touched Faterainbow Orichalcum Of Spectres,89.00,370.41,32.01,32966.49,2848.89,1790.77,37606.15
+18805,Spikesnare,Mahyrst Keep,30.42,Lunar Bronze,298.00,829.25,337.70,247116.50,100634.60,104325.33,452076.43
+19313,Spikerivet,The Secret Shrine of the Gargoyle Count,-2.00,Sirens' Rockgold,197.00,-352.01,199.96,-69345.97,39392.12,599.08,-29354.77
+21312,Emberfire,Peley Keep,26.33,Golems' Stonesapphire Gold Of The Glacier,205.00,4444.06,128.23,911032.30,26287.15,243703.06,1181022.51
+21990,Tiger Mistmidnight,Tradun Castle,41.43,Poison Adamant,279.00,1266.52,70.88,353359.08,19775.52,152985.19,526119.79

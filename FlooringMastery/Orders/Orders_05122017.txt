@@ -1,0 +1,11 @@
+3311,Heather "Tornado" Newman,UT,0.00,Leather,98.00,10.00,16.50,980.00,1617.00,0.00,2597.00
+6096,April "Thunderbird" Dunn,MS,3.00,Pinecones,369.00,1.50,2.66,553.50,981.54,46.05,1581.09
+6719,Tina "Lady" Anderson,MO,2.20,Solid Oak,97.00,5.50,5.50,533.50,533.50,21.34,1088.34
+7092,Joanne "Damned" Miles,ND,1.25,Pebbles,226.00,0.80,4.84,180.80,1093.84,12.75,1287.39
+9787,Renee "Loco Tracker" Jordan,MT,3.63,Cedar Planks,341.00,2.20,6.05,750.20,2063.05,112.53,2925.78
+9839,Renee "Hellish Empress" Banks,UT,0.00,Pebbles,168.00,0.88,4.84,147.84,813.12,0.00,960.96
+14155,Lucky Johnson,MS,3.00,Dirt,205.00,0.50,1.00,102.50,205.00,9.22,316.72
+16164,Cathy "Loner Demon" Murray,KS,0.55,Reeds,69.00,0.83,2.20,57.27,151.80,2.09,211.16
+19315,Betty "Happy Thinker" Watson,TX,0.67,Pebbles,130.00,0.88,4.84,114.40,629.20,7.44,751.04
+20666,Victoria "the Dancer",MO,2.20,Solid Oak,320.00,5.50,6.66,1760.00,2131.20,77.82,3969.02
+22248,Gloria "Devil" McCoy,MO,2.20,Beechwood,324.00,3.63,6.05,1176.12,1960.20,62.73,3199.05

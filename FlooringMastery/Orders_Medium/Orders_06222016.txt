@@ -1,0 +1,18 @@
+285,Victoria "the Dancer",CA,0.50,Pinecones,168.00,1.50,2.00,252.00,336.00,0.00,588.00
+753,Surgeon Grant,WY,0.25,Solid Oak,215.00,5.00,5.00,1075.00,1075.00,0.00,2150.00
+866,Florence "Leather Doc" Grant,NM,2.20,Packed Dirt,165.00,1.00,1.50,165.00,247.50,8.25,420.75
+3057,Darlene "Loner" Ford,MO,2.20,Dirt,296.00,0.50,1.00,148.00,296.00,8.88,452.88
+4126,Vicki "Mesa" Rhodes,AR,2.20,Solid Oak,228.00,5.50,5.00,1254.00,1140.00,47.88,2441.88
+4673,"Sunrise" Miles,AR,2.20,Pebbles,279.00,0.80,4.40,223.20,1227.60,29.02,1479.82
+4924,Geraldine "Revenge" Warren,IA,1.10,Solid Oak,262.00,5.50,5.50,1441.00,1441.00,28.82,2910.82
+5565,Gloria "Devil" McCoy,AR,2.20,Cedar Planks,200.00,2.00,5.50,400.00,1100.00,30.00,1530.00
+6831,Surgeon Grant,NV,0.28,Beechwood,142.00,3.00,5.00,426.00,710.00,0.00,1136.00
+7972,Jo "the Joker",KS,0.50,Cedar Planks,285.00,2.20,6.05,627.00,1724.25,0.00,2351.25
+8177,April "Thunderbird" Dunn,WY,0.31,Packed Dirt,245.00,1.00,1.50,245.00,367.50,0.00,612.50
+11160,Jacqueline "Riding Doc" Washington,OK,2.42,Leather,381.00,10.00,18.15,3810.00,6915.15,214.50,10939.65
+12814,Theresa "Kid" Robinson,CA,0.61,Brick,228.00,4.84,6.66,1103.52,1518.48,26.22,2648.22
+13282,Wilma "Tornado" Brooks,AL,1.00,Pebbles,34.00,0.88,4.84,29.92,164.56,1.94,196.42
+14613,"Bane" Jennings,TX,0.67,Reeds,144.00,0.75,2.20,108.00,316.80,4.25,429.05
+18445,Mattie Grant "the Gambler",KS,0.55,Beechwood,337.00,3.63,5.50,1223.31,1853.50,30.77,3107.58
+18749,Melissa "Lonesome Stalker" Riley,WY,0.31,Pinecones,173.00,1.50,2.66,259.50,460.18,0.00,719.68
+21167,Mabel "Vixen Cursed" King,MT,5.31,Solid Oak,238.00,5.50,6.66,1309.00,1585.08,144.70,3038.78

@@ -1,0 +1,19 @@
+280,Jericho Wolf,Gena's Hold,2.00,Magicians' Legendary Poison Metal,140.00,2043.26,208.92,286056.40,29248.80,6306.10,321611.30
+464,Harmony Angelchild,The Fen of the Necromancer,41.00,Poison Adamant,288.00,298.00,406.38,85824.00,117037.44,83173.19,286034.63
+973,Lord Mystery,Reyny Keep,11.00,Mithril Of Legend,159.00,2068.00,52.07,328812.00,8279.13,37080.02,374171.15
+1494,Nettool The Grasping,The Pilgrim's Cup,41.93,Foul Ice Bronze Of Life,251.00,-92.21,129.80,-23144.71,32579.80,3962.74,13397.83
+2136,Emberfire,The Chuallanto Jungle,37.00,Violetdream Iron,277.00,1224.69,349.36,339239.13,96772.72,161324.38,597336.23
+5137,Fate Seeker,Eved Castle,5.09,Magic Adamant,216.00,1838.00,188.76,397008.00,40772.16,21889.01,459669.17
+6267,"Suriel, Lord of Animals",The Cracked Chalice,2.29,Primordial Plague Mercury Of Legend,246.00,373.79,273.90,91952.34,67379.40,3186.63,162518.37
+9386,Springcoil,The Pirate's Pipe,17.60,Shadow Steel,167.00,4677.78,465.30,781189.26,77705.10,154600.98,1013495.34
+9643,Freezebrood,The Forsaken Sepulcher of Sorrows,48.79,Unicorns' Fatal Magma Metal Of The Ocean,116.00,1792.04,392.70,207876.64,45553.20,124180.62,377610.46
+9720,Rouge Tombreaper,Unicorn's Ward,14.64,Spectres' Shadowy Terrorglow Adamant Of Life,221.00,4694.80,205.50,1037550.80,45415.50,162444.94,1245411.24
+11442,Sunrise Godwarlock,The Broken Arrow,30.07,Lycanthropes' Gold,201.00,4846.18,66.14,974082.18,13294.14,296212.90,1283589.22
+13128,Rune Rougehate,The Fortress of Gama,10.16,Sapphire Mindlead,195.00,1307.71,47.00,255003.45,9165.00,26416.84,290585.29
+13774,Song Runetomb,Grove Farthing,19.80,Witchs' Forbidden Rockrainbow Bronze,255.00,655.60,387.20,167178.00,98736.00,53182.80,319096.80
+17445,Claw Mist,North Arcanist's Farthing,55.18,Sphinxes' Opalpearl Platinum Of Legend,192.00,5805.82,390.81,1114717.44,75035.52,654364.13,1844117.09
+17708,Evilember The Firey,Reyny Keep,11.00,Meteoric Mirrormuck Orichalcum Of The Forests,317.00,2374.02,185.77,752564.34,58889.09,89259.88,900713.31
+18726,Evilember The Firey,The Bastion of Barbos,28.34,Ensorceled Sandmetal Of Spirits,95.00,2956.98,95.70,280913.10,9091.50,81201.29,371205.89
+20255,"Lenwenye, Goddess of Travel",The Tomb of Hellish Ruin,16.94,Unicorns' Evil Mithril,203.00,4802.49,377.52,974905.47,76636.56,178762.15,1230304.18
+22665,Wheelbolt The Machine,The Lost Crypts of Sorrows,35.87,Legendary Mithril Of The Moon,275.00,3603.15,152.26,990866.25,41871.50,371785.59,1404523.34
+22890,Lord Mystery,The Greedy Wench,43.53,Thunderbirds' Transcendent Dreamiron,116.00,2275.25,237.70,263929.00,27573.20,128260.97,419763.17

@@ -1,0 +1,21 @@
+400,"Ariel, God of Luck",The Dread Hive of Illfang the Kobold Lord,1.00,Poison Adamant,281.00,298.00,406.38,83738.00,114192.78,1979.31,199910.09
+581,Grave Mistseeker,The Bastion of Gothmog of Udun,37.45,Poison Adamant,187.00,298.00,406.38,55726.00,75993.06,48736.05,180455.11
+854,Jericho Wolf,Boiaburh Keep,16.00,Foulopal Copper Of The Skies,131.00,1221.16,403.00,159971.96,52793.00,34042.39,246807.35
+3578,Beamsprocket The Grasping,Lacot Stronghold,30.88,Mistgold Of Men,190.00,3065.71,44.00,582484.90,8360.00,183161.92,774006.82
+5085,"Ahah, Goddess of Knowledge",The Bastion of Gothmog of Udun,45.32,Mithril Of Legend,346.00,2274.80,63.01,787080.80,21801.46,363997.02,1172879.28
+5866,Lord Mystery,The Archer and Blade,9.00,Ensorceled Sandmetal Of Spirits,161.00,2956.98,87.00,476073.78,14007.00,44107.27,534188.05
+7696,Spikerivet,Lordsgate Farthing,41.14,Mithril Of Legend,217.00,2274.80,63.01,493631.60,13673.17,207994.96,715299.73
+8070,Shadow Gust,The Grey Plains,19.97,Swordbronze,158.00,1350.01,447.01,213301.58,70627.58,56785.83,340714.99
+8744,Evilfear The Horrorific,The Nulukkhath Spires,10.59,Angels' Smoke Adamant Of The Mountains,307.00,2832.34,215.00,869528.38,66005.00,102908.67,1038442.05
+9104,Shadow Gust,The Fen of the Necromancer,54.57,Primordial Plague Mercury Of Legend,193.00,452.29,301.29,87291.97,58148.97,79992.52,225433.46
+9540,Evilember The Firey,Lamp Borough,4.95,Goddesses' Spectral Poison Steel,268.00,3773.99,269.83,1011429.32,72314.44,54187.19,1137930.95
+9880,Nettool The Grasping,The Dungeon of Dismal Terror,-3.50,Pearl Mirrorice Steel Of Changelings,120.00,271.51,38.07,32581.20,4568.40,-1485.98,35663.62
+12443,"Baltha, Goddess of Knowledge",Castle Village,37.51,Incubi's Glittering Tin Of The Future,303.00,3349.54,79.86,1014910.62,24197.58,394861.12,1433969.32
+13513,Dawn Darkzealot,The Broken Shield,37.23,Muck Orichalcum Of Ogres,123.00,3426.85,364.95,421502.55,44888.85,172564.82,638956.22
+13571,Rouge Tombreaper,The Pilgrim's Cup,46.12,Muck Orichalcum Of Ogres,342.00,3426.85,364.95,1171982.70,124812.90,596525.98,1893321.58
+13616,"Azah, Goddess of Fate",The Lost Crypts of Sorrows,35.87,Toxic Mistlead Of The Past,282.00,1557.54,136.06,439226.28,38368.92,171934.27,649529.47
+15536,"Gono, Goddess of the Earth",The Desert of Flames,51.91,God-touched Faterainbow Orichalcum Of Spectres,207.00,370.41,32.01,76674.87,6626.07,43316.49,126617.43
+16535,Emberfire,Moor Village,76.43,Fleshshock Mercury,33.00,4858.70,338.07,160337.10,11156.31,130334.99,301828.40
+20491,"Suriel, Lord of Animals",The Secret Catacombs of Ulfang the Black,42.90,Vampires' Fang Emeraldsilver,241.00,3343.22,455.55,805716.02,109787.55,393666.54,1309170.11
+22325,Scarechain The Unspeakable,Gawold Castle,6.05,Magicians' Legendary Poison Metal,151.00,2991.55,252.79,451724.05,38171.29,29393.72,519289.06
+23208,Freezebrood,Bergfison's Deep,57.98,Ensorceled Gold Of The Dawn,84.00,6913.92,443.21,580769.28,37229.64,358439.37,976438.29

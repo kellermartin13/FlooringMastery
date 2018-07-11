@@ -1,0 +1,13 @@
+338,Seraphim Tsunami,The Fortress of the Lich Queen,36.35,Litches' Fatal Mithril Of The Past,124.00,1207.25,305.00,149699.00,37820.00,67506.84,255025.84
+2737,"Alas, Lord of Plague",The Cracked Chalice,2.29,Fog Lavaplatinum Of Life,96.00,1078.00,17.00,103488.00,1632.00,2102.40,107222.40
+2906,Shadow Tomblion,The Bastion of the Vampire Duke,19.28,Phantasmal Tin Of The Swamps,296.00,4074.00,-6.60,1205904.00,-1953.60,228750.58,1432700.98
+4440,Spikebrood The Disinterred,The Fen of the Necromancer,45.10,Djinni's Spectral Shadowlead Of Life,125.00,3369.00,296.02,421125.00,37002.50,206157.38,664284.88
+5689,Shiverflame The Freezer,Gena's Hold,2.20,Stone Soulsteel Of The Skies,103.00,1798.28,13.21,185222.84,1360.63,3731.67,190315.14
+6532,Chainnail,Archtemple District,27.76,Foul Ice Bronze Of Life,300.00,-92.21,129.80,-27663.00,38940.00,3157.56,14434.56
+7508,Burnbrood The Freezer,Pawic Keep,0.56,Meteoric Dustzephyr Orichalcum,315.00,375.00,244.08,118125.00,76885.20,1950.10,196960.30
+11452,Chainnail,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,265.00,2275.25,237.70,602941.25,62990.50,279691.34,945623.09
+12242,"Eumyan, Goddess of Law",The Dismal Marsh,6.05,Thunderbirds' Transcendent Dreamiron,275.00,2275.25,237.70,625693.75,65367.50,41463.68,732524.93
+12419,Wheelspawn,Archscepter Borough,3.00,Transcendent Gold,119.00,-193.60,282.17,-23038.40,33578.23,316.19,10856.02
+14042,"Maglioneth, Lord of the Sun",Tradun Castle,37.66,Spectres' Shadowy Terrorglow Adamant Of Life,87.00,5164.28,248.66,449292.36,21633.42,178951.80,649877.58
+19915,Scarechain The Unspeakable,The Bastion of Gothmog of Udun,54.84,Incubi's Iron Of The Dawn,265.00,1200.96,424.31,318254.40,112442.15,236883.10,667579.65
+21599,Magus Felldrake,Unicorn's Ward,14.64,God-touched Faterainbow Orichalcum Of Spectres,255.00,370.41,35.21,94454.55,8978.55,15514.96,118948.06

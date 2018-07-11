@@ -1,0 +1,19 @@
+2207,Valentine Lawslayer,Tower Farthing,22.41,Poison Adamant,174.00,298.00,406.38,51852.00,70710.12,26963.67,149525.79
+4484,Cinderember,Peley Keep,19.78,Djinni's Spectral Shadowlead Of Life,74.00,3369.00,296.02,249306.00,21905.48,54242.30,325453.78
+6345,Shadow Gust,The Lost Sanctum of Woe,3.00,Muck Orichalcum Of Ogres,260.00,3115.32,301.61,809983.20,78418.60,26652.05,915053.85
+7641,Seraph Jester,The Tower of Aramum,42.90,Meteoric Mirrormuck Orichalcum Of The Forests,246.00,2158.20,185.77,530917.20,45699.42,247945.15,824561.77
+8711,Seraph Jester,The Beggar and Cask,23.10,Foul Ice Bronze Of Life,276.00,-92.21,129.80,-25449.96,35824.80,2386.21,12761.05
+9103,Beamsprocket The Grasping,The Pirate's Pipe,17.60,Djinni's Evil Sandobsidian Steel Of The Future,212.00,3826.00,157.07,811112.00,33298.84,151993.95,996404.79
+11601,Lord Mystery,The Archer and Scroll,39.60,Timeiron,140.00,1596.00,228.33,223440.00,31966.20,102162.48,357568.68
+11666,Gravebone The Unspeakable,South Brightcrown Borough,42.25,Ghostly Magic Adamant,295.00,4836.38,230.90,1426732.10,68115.50,627835.99,2122683.59
+11907,Spikebrood The Disinterred,The Archer and Scroll,39.60,Pearl Mirrorice Steel Of Changelings,309.00,271.51,38.07,83896.59,11763.63,38264.09,133924.31
+14673,"Azah, Goddess of Fate",Grove Farthing,19.80,Witchs' Forbidden Rockrainbow Bronze,231.00,655.60,425.92,151443.60,98387.52,49966.22,299797.34
+15163,Valentine Lawslayer,The Greedy Wench,32.70,Muck Orichalcum Of Ogres,229.00,3769.54,401.45,863224.66,91932.05,315201.71,1270358.42
+15477,"Prusu, God of Love",Cawold Castle,24.09,God-touched Faterainbow Orichalcum Of Spectres,337.00,370.41,32.01,124828.17,10787.37,32547.73,168163.27
+15720,Evilcoil The Machine,The Fortress of Asmamur,-4.93,Poison Adamant,160.00,1151.38,64.44,184220.80,10310.40,-9726.56,184804.64
+16580,Flora Amberslayer,Reyny Keep,11.00,Planar Rainfate Mithril,44.00,1185.84,320.52,52176.96,14102.88,7290.78,73570.62
+17758,Rune Rougehate,The Citadel of Alammius,3.85,Hidden Shadowice Lead,204.00,2729.00,-62.23,556716.00,-12694.92,21760.84,565781.92
+18570,"Prusu, God of Love",South Brightcrown Borough,42.25,Primal Adamant,260.00,5520.99,331.42,1435457.40,86169.20,639083.17,2160709.77
+19571,Graveterror,Hafeld Keep,46.71,Witchs' Forbidden Rockrainbow Bronze,194.00,655.60,425.92,127186.40,82628.48,98612.99,308427.87
+21265,Gravebone The Unspeakable,The Cuitamba Jungle,33.88,Hidden Shadowice Lead,305.00,2729.00,-62.23,832345.00,-18980.15,276544.05,1089908.90
+21986,Snaretool The Constructed,The Tomb of Hellish Ruin,16.94,Phantasmal Lead,244.00,-669.10,270.02,-163260.40,65884.88,-16553.84,-113929.36

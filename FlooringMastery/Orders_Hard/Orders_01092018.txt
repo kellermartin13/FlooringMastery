@@ -1,0 +1,21 @@
+778,Tarot Dawn,The Drunken Thief,9.50,Phantasmal Lead,260.00,-457.00,245.47,-118820.00,63822.20,-5499.78,-60497.58
+1172,"Ahah, Goddess of Knowledge",Boiaburh Keep,16.00,Imperial Fate Steel,337.00,2721.75,-37.13,917229.75,-12512.81,144754.71,1049471.65
+2452,Shadow Gust,The Khazahol Crags,-1.97,Negative Mercury,297.00,4054.87,361.00,1204296.39,107217.00,-26230.27,1285283.12
+2492,Lord Mystery,Gili's Delve,-4.59,Mana-touched Greenglitter Gold Of Giants,53.00,1173.98,425.00,62220.94,22525.00,-4237.30,80508.64
+5654,"Gono, Goddess of the Earth",The Dungeon of Merciless Woe,38.62,White Platinum,231.00,-52.59,145.00,-12148.29,33495.00,8325.22,29671.93
+6382,"Nelalwe, Lady of Fire",The Tower of Aces the Accursed,13.31,Magic Adamant,193.00,1838.00,207.64,354734.00,40074.52,51325.11,446133.63
+7158,Sephiroth Drakecaster,The Bastion of Barbos,23.42,Negative Rockglitter Mercury Of Trolls,349.00,1483.90,423.07,517881.10,147651.43,153072.48,818605.01
+7377,Bane Veil,The Broken Shield,37.23,Golems' Stonesapphire Gold Of The Glacier,161.00,3672.77,105.97,591315.97,17061.17,225099.54,833476.68
+8679,"Alas, Lord of Plague",Haukri's Hold,25.30,Djinni's Spectral Shadowlead Of Life,344.00,3705.90,296.02,1274829.60,101830.88,344165.12,1720825.60
+8995,Sunset Knightclaw,The Beggar and Cask,23.10,Violetstone Tin Of Death,166.00,2245.23,156.10,372708.18,25912.60,91682.78,490303.56
+9106,Storm Seraphheart,Moor Village,57.42,Phantasmal Smokezephyr Mercury Of Men,101.00,-383.77,75.90,-38760.77,7665.90,-17724.08,-48818.95
+9677,"Baltha, Goddess of Knowledge",North Arcanist's Farthing,45.60,Unicorns' Fatal Magma Metal Of The Ocean,202.00,1792.04,392.70,361992.08,79325.40,203006.04,644323.52
+10769,Bane Veil,The Shadow Downs,13.21,Witchs' Forbidden Rockrainbow Bronze,197.00,596.00,387.20,117412.00,76278.40,25179.75,218870.15
+13239,Claw Mist,The Lost Crypts of Sorrows,35.87,Mistgold Of Men,41.00,3709.51,53.24,152089.91,2182.84,55538.19,209810.94
+13487,Spikespawn,The Lost Crypts of Sorrows,35.87,Sapphire Mindlead,208.00,1307.71,47.00,272003.68,9776.00,101440.68,383220.36
+14938,Shadow Gust,The Fortress of the Lich Queen,36.35,Mithril Of The Tropics,173.00,4126.10,11.98,713815.30,2072.54,257719.62,973607.46
+18763,Deathspike The Terrifying,Boiaburh Keep,17.60,Primordial Mud Orichalcum,46.00,-469.36,85.11,-21590.56,3915.06,-3181.59,-20857.09
+18946,Snaretool The Constructed,The Citadel of Tattena the Sinister,13.34,Incubi's Iron Of The Dawn,210.00,1200.96,424.31,252201.60,89105.10,44369.87,385676.57
+19402,Metalbrood,Castle Village,49.93,Witchs' Forbidden Rockrainbow Bronze,201.00,655.60,425.92,131775.60,85609.92,108692.76,326078.28
+21139,Bolttrap,Eved Castle,5.09,Forgotten Mithril,264.00,1215.20,347.60,320812.80,91766.40,20628.96,433208.16
+22381,Shadow Gust,Bifar's Deep,18.70,Yellow Mistearth Copper,235.00,5536.45,-33.15,1301065.75,-7790.25,245722.34,1538997.84

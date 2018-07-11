@@ -1,0 +1,9 @@
+2033,Claw Mist,Haukri's Hold,25.30,Violetdream Iron,304.00,1224.69,349.36,372305.76,106205.44,119627.80,598139.00
+3475,Cinderember,The Tower of Sabiesu the Awesome,4.40,Ensorceled Sandmetal Of Spirits,222.00,2956.98,87.00,656449.56,19314.00,27030.54,702794.10
+4414,"Zepul, Lady of Vengeance",Kewold Stronghold,8.87,Incubi's Glittering Tin Of The Future,273.00,2516.56,72.60,687020.88,19819.80,63615.66,770456.34
+6901,Song Runetomb,Barad Kesa,4.32,Djinni's Mind Fogiron,80.00,2301.02,74.02,184081.60,5921.60,7600.13,197603.33
+11260,"Alik, Goddess of Trickery",Pawic Keep,0.56,Devils' Falserot Silver,122.00,1668.51,182.71,203558.22,22290.62,2258.49,228107.33
+18641,Law Lionwatcher,The Lewd King,32.67,Meteoric Dustzephyr Orichalcum,107.00,375.00,268.49,40125.00,28728.43,22721.63,91575.06
+21445,"Gadriel, God of Resurrection",Moor Village,76.43,God-touched Faterainbow Orichalcum Of Spectres,198.00,370.41,35.21,73341.18,6971.58,61037.70,141350.46
+22966,"Ingwenel, God of War",The Fortress of Akkun the Grim,-2.42,Icy Shock Silver,255.00,1794.41,595.89,457574.55,151951.95,-12190.53,597335.97
+23239,Magus Felldrake,The Khazahol Crags,-2.17,Timeiron,152.00,1596.00,276.28,242592.00,41994.56,-5691.73,278894.83

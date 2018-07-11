@@ -1,0 +1,10 @@
+539,Ida Russell "the Rustler",ID,0.00,Dirt,146.00,0.50,1.00,73.00,146.00,0.00,219.00
+812,April "Thunderbird" Dunn,AR,2.20,Leather,164.00,10.00,15.00,1640.00,2460.00,82.00,4182.00
+1916,Mattie Grant "the Gambler",MO,2.20,Pebbles,171.00,0.80,4.40,136.80,752.40,17.78,906.98
+5329,Renee "Loco Tracker" Jordan,TX,0.50,Leather,233.00,10.00,18.15,2330.00,4228.95,0.00,6558.95
+9621,Maureen "Cursed" Andrews,MT,3.63,Brick,168.00,4.84,6.66,813.12,1118.88,77.28,2009.28
+14241,Marie "Raven" Chapman,IA,1.21,Reeds,170.00,0.75,2.20,127.50,374.00,5.02,506.52
+17481,Victoria "the Dancer",TX,0.67,Pebbles,253.00,0.88,4.84,222.64,1224.52,14.47,1461.63
+19565,Cynthia "the Vixen",MT,3.99,Beechwood,165.00,3.63,6.05,598.95,998.25,63.89,1661.09
+20275,Vengeful Robertson,UT,0.00,Packed Dirt,288.00,1.10,2.42,316.80,696.96,0.00,1013.76
+21190,Debra "Scorpion" Lane,AR,2.20,Leather,37.00,11.00,19.97,407.00,738.89,22.92,1168.81

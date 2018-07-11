@@ -1,0 +1,22 @@
+1115,Gravebone The Unspeakable,The Wizard's House,43.58,Primordial False Gold,340.00,4459.34,226.00,1516175.60,76840.00,700926.86,2293942.46
+3387,Bolttrap,Barad Cune,26.00,Starlight Pearldream Bronze,264.00,266.20,134.00,70276.80,35376.00,27469.73,133122.53
+3968,Clash Lonedrake,Grori's Deep,45.41,Foulopal Copper Of The Skies,313.00,1221.16,403.00,382223.08,126139.00,228762.94,737125.02
+4453,Jericho Wolf,Boiaburh Keep,16.00,Vampires' Fang Emeraldsilver,293.00,2283.46,455.55,669053.78,133476.15,128404.79,930934.72
+5342,Storm Squallmourner,Gifeld Castle,6.22,Primordial False Gold,254.00,4459.34,226.00,1132672.36,57404.00,71404.58,1261480.94
+5452,Nettool The Grasping,The Vaults of the Shadow Emperor,30.00,Negative Rockglitter Mercury Of Trolls,167.00,1483.90,423.07,247811.30,70652.69,95539.20,414003.19
+6281,Shadow Gust,The Citadel of Alammius,3.50,Unicorns' Fatal Magma Metal Of The Ocean,224.00,1792.04,392.70,401416.96,87964.80,19575.27,508957.03
+6563,Chainnail,Archtemple District,27.76,Unholy Poison Copper Of The Mountains,323.00,580.91,-9.24,187633.93,-2984.52,51701.83,236351.24
+10604,Spikerivet,The Dismal Marsh,6.05,Icy Shock Silver,177.00,1482.98,407.00,262487.46,72039.00,20071.59,354598.05
+12120,Magus Felldrake,The Secret Catacombs of Ulfang the Black,42.90,White Platinum,308.00,-52.59,159.50,-16197.72,49126.00,14159.16,47087.44
+13569,"Sielach, God of Fate",The Pilgrim's Cup,46.12,Toxic Mistlead Of The Past,323.00,1557.54,136.06,503085.42,43947.38,251635.09,798667.89
+13587,Rune Rougehate,The Broken Shield,37.23,Sphinxes' Mistsoul Bronze Of The Past,332.00,2169.81,202.07,720376.92,67087.24,291361.74,1078825.90
+13780,"Ingwenel, God of War",The Dark Caverns of Woe,3.29,Shadowy Adamant,275.00,618.93,526.44,170205.75,144771.00,9449.30,324426.05
+14278,"Finarfin, God of Protection",The Lewd King,27.00,Tritons' Time Stoneiron Of Legend,164.00,1760.00,204.37,288640.00,33516.68,86982.30,409138.98
+14314,"Finarfin, God of Protection",The Desert of Flames,51.91,Ghostly Soul Adamant,171.00,3222.96,229.53,551126.16,39249.63,306995.41,897371.20
+20134,"Maglioneth, Lord of the Sun",Tower Farthing,27.12,Primordial False Gold,206.00,5395.80,248.60,1111534.80,51211.60,313941.53,1476687.93
+20243,Magus Felldrake,The Bastion of Gothmog of Udun,54.84,Unicorns' Evil Mithril,217.00,4802.49,377.52,1042140.33,81921.84,618234.19,1742296.36
+21999,Chainnail,Barad Kesa,5.23,Ensorceled Sandmetal Of Spirits,320.00,2956.98,95.70,946233.60,30624.00,48842.88,1025700.48
+22000,Evilember The Firey,Tradun Castle,41.43,Poison Adamant,356.00,1266.52,70.88,450881.12,25233.28,195206.90,671321.30
+22566,Lord Mystery,Grove Farthing,19.80,Swordbronze,245.00,1485.01,540.88,363827.45,132515.60,99268.61,595611.66
+22983,Seraphim Tsunami,Bergfison's Deep,57.98,Incubi's Glittering Tin Of The Future,261.00,3349.54,96.64,874229.94,25223.04,521682.73,1421135.71
+23261,"Ingwenel, God of War",The Secret Shrine of the Gargoyle Count,-2.00,Planar Rainfate Mithril,211.00,1304.42,320.52,275232.62,67629.72,-6857.25,336005.09

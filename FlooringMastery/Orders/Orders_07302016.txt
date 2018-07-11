@@ -1,0 +1,13 @@
+2644,Beth "Fortunate Shooter" Powell,MS,3.00,Leather,255.00,10.00,16.50,2550.00,4207.50,202.72,6960.22
+4187,Julia "Bandit" Chandler,MT,3.00,Solid Oak,123.00,5.50,5.00,676.50,615.00,38.74,1330.24
+4999,Beth "Fortunate Shooter" Powell,OK,2.00,Reeds,216.00,0.75,2.20,162.00,475.20,12.74,649.94
+11683,Kathy Murphy "the Thinker",IA,1.21,Packed Dirt,257.00,1.00,1.65,257.00,424.05,6.81,687.86
+12728,Darlene "Loner" Ford,MT,3.63,Brick,213.00,4.84,6.66,1030.92,1418.58,97.98,2547.48
+13149,Vicki "Mesa" Rhodes,MT,3.63,Beechwood,298.00,3.30,5.50,983.40,1639.00,104.90,2727.30
+15393,Theresa "Kid" Robinson,MS,3.00,Brick,108.00,5.32,6.66,574.56,719.28,38.82,1332.66
+16283,Michele Watson "the Loner",NM,2.66,Cedar Planks,143.00,2.20,6.05,314.60,865.15,35.39,1215.14
+17011,April "Thunderbird" Dunn,TX,0.67,Leather,136.00,11.00,19.97,1496.00,2715.92,42.12,4254.04
+18221,Florence "Leather Doc" Grant,MO,2.20,Packed Dirt,373.00,1.10,2.20,410.30,820.60,24.62,1255.52
+18418,Renee "Loco Tracker" Jordan,OK,2.42,Brick,227.00,5.32,6.66,1207.64,1511.82,54.39,2773.85
+20432,Geraldine "Revenge" Warren,NV,0.31,Brick,164.00,5.32,6.66,872.48,1092.24,0.00,1964.72
+20631,Beth "Fortunate Shooter" Powell,TX,0.67,Solid Oak,225.00,5.50,6.66,1237.50,1498.50,27.36,2763.36

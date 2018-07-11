@@ -1,0 +1,16 @@
+256,"Lenwenye, Goddess of Travel",Love Keep,7.00,Meteoric Mirrormuck Orichalcum Of The Forests,156.00,1962.00,168.88,306072.00,26345.28,23269.21,355686.49
+1643,Metalbrood,Archtemple District,27.76,Ensorceled Sandmetal Of Spirits,197.00,2956.98,87.00,582525.06,17139.00,167905.94,767570.00
+4050,Springcoil,The Dungeon of Merciless Woe,38.62,Glittering Orichalcum,202.00,-131.00,360.23,-26462.00,72766.46,18058.74,64363.20
+5244,"Azah, Goddess of Fate",The Broken Arrow,30.07,Hell Mercury Of The East,11.00,4636.34,284.60,50999.74,3130.60,16239.10,70369.44
+9166,Scarechain The Unspeakable,The Bastion of the Vampire Duke,19.28,Djinni's Evil Sandobsidian Steel Of The Future,291.00,3826.00,157.07,1113366.00,45707.37,220223.94,1379297.31
+9520,Storm Seraphheart,The Tomb of Gothmog of Udun,-3.00,Spectres' Shadowy Terrorglow Adamant Of Life,54.00,4694.80,205.50,253519.20,11097.00,-7938.49,256677.71
+9755,Sephiroth Drakecaster,Lamp Borough,4.95,Spectres' Shadowy Terrorglow Adamant Of Life,109.00,4694.80,205.50,511733.20,22399.50,26706.64,560839.34
+10452,"Gono, Goddess of the Earth",The Dread Hive of Illfang the Kobold Lord,1.33,Phantasmal Tin Of The Swamps,294.00,4074.00,-6.60,1197756.00,-1940.40,11958.16,1207773.76
+13289,Freezebrood,The Pilgrim's Cup,46.12,Sphinxes' Mistsoul Bronze Of The Past,65.00,2169.81,202.07,141037.65,13134.55,70919.21,225091.41
+15080,Rouge Roguemist,The Forsaken Sepulcher of Sorrows,53.67,Grayplatinum,33.00,2506.27,306.97,82706.91,10130.01,50131.94,142968.86
+15801,Cult Godseeker,Gili's Delve,-6.73,Primordial False Gold,76.00,5395.80,248.60,410080.80,18893.60,-30028.21,398946.19
+16230,Flameshiver,Fellfen Keep,61.53,Timeiron,120.00,1596.00,251.16,191520.00,30139.20,137428.70,359087.90
+18691,Emberspawn,The Glano Forest,3.00,Primal Adamant,291.00,5520.99,331.42,1606608.09,96443.22,51091.54,1754142.85
+19805,"Lionare, God of the Lost",Gifeld Castle,6.22,Toxic Mistlead Of The Past,73.00,1557.54,164.64,113700.42,12018.72,7543.15,133262.29
+20064,Tiger Mistmidnight,Boiaburh Keep,17.60,Foulopal Copper Of The Skies,212.00,1787.91,403.00,379036.92,85436.00,83605.13,548078.05
+22762,"Ahah, Goddess of Knowledge",The Cuitamba Jungle,33.88,Magic Adamant,247.00,2021.80,228.40,499384.60,56414.80,188971.80,744771.20

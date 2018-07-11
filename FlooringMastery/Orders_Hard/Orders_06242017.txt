@@ -1,0 +1,13 @@
+1030,Shadow Gust,Reyny Keep,11.00,Primordial False Gold,94.00,4459.34,226.00,419177.96,21244.00,48446.42,488868.38
+3471,Flora Amberslayer,Reheath Stronghold,8.00,Starlight Pearldream Bronze,125.00,266.20,134.00,33275.00,16750.00,4002.00,54027.00
+4003,Graveterror,Citadel Ward,25.82,Grayplatinum,206.00,2278.43,279.06,469356.58,57486.36,136979.16,663822.10
+4647,"Maeglodor, God of Thieves",Archring Borough,17.93,Trolls' Rubymercury Of The Sunset,271.00,506.00,198.00,137126.00,53658.00,34341.12,225125.12
+8033,Lightning Brand,The Grey Plains,19.97,Heavenly Dreamsilver Of The Night,111.00,2009.68,112.00,223074.48,12432.00,47101.30,282607.78
+11489,Gale Jackalguard,The Bastion of the Lich Tyrant,43.00,Angels' Smoke Adamant Of The Mountains,86.00,3115.57,236.50,267939.02,20339.00,123959.55,412237.57
+13042,Graveterror,Archtemple District,27.76,Sapphire Mindlead,238.00,1307.71,47.00,311234.98,11186.00,90277.87,412698.85
+14279,"Finarfin, God of Protection",The Bastion of the Lich Tyrant,43.00,Zephyr Iron,74.00,3034.90,444.69,224582.60,32907.06,110720.55,368210.21
+15149,Bronzespike,Minas Gilloy,43.19,Violetdream Iron,215.00,1224.69,349.36,263308.35,75112.40,145520.92,483941.67
+18976,Magus Felldrake,Hafeld Keep,46.71,Incubi's Mirrorfog Iron Of The Ocean,264.00,5806.50,-26.08,1532916.00,-6885.12,717234.51,2243265.39
+19551,"Maglioneth, Lord of the Sun",Noble's Village,33.28,Goddesses' Spectral Poison Steel,55.00,5023.18,296.81,276274.90,16324.55,96557.82,389157.27
+20734,Flameflare The Evil,North Arcanist's Farthing,55.18,Unspeakable Rotsoul Mithril Of Souls,165.00,272.80,485.85,45012.00,80165.25,68847.49,194024.74
+23024,Chainhorror,Barad Kesa,5.23,Mithril Of The Tropics,250.00,4992.58,11.98,1248145.00,2995.00,62557.00,1313697.00

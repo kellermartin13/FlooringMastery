@@ -1,0 +1,12 @@
+585,Fate Seeker,Tradun Castle,31.13,Unspeakable Rotsoul Mithril Of Souls,308.00,248.00,401.53,76384.00,123671.24,62017.12,262072.36
+3547,Shadow Tomblion,Barad Cune,26.00,Planar Mudtin Of Trolls,219.00,2304.41,335.36,504665.79,73443.84,150308.50,728418.13
+11814,Blazeflare The Cremator,Unicorn's Ward,14.64,Litches' Fatal Mithril Of The Past,184.00,1327.98,369.05,244348.32,67905.20,46838.03,359091.55
+12805,"Eumyan, Goddess of Law",The Fortress of Gama,10.16,Mind Lead,144.00,2844.70,309.10,409636.80,44510.40,45414.72,499561.92
+13741,Bane Veil,Grove Farthing,19.80,Shadowy Adamant,193.00,618.93,526.44,119453.49,101602.92,44211.28,265267.69
+14630,Lance Knightseraph,Reyny Keep,11.00,Legendary Mithril Of The Moon,251.00,2707.10,125.84,679482.10,31585.84,78217.47,789285.41
+16416,Jericho Wolf,Love Keep,9.32,Mistgold Of Men,55.00,4080.46,53.24,224425.30,2928.20,20461.82,247815.32
+16615,Wheelspawn,The Drunken Thief,12.65,Ensorceled Gold Of The Dawn,310.00,6913.92,402.92,2143315.20,124905.20,294868.65,2563089.05
+18014,"Ahah, Goddess of Knowledge",Archfane District,36.16,Ensorceled Gold Of The Dawn,343.00,6913.92,443.21,2371474.56,152021.03,908458.41,3431954.00
+19183,Fate Ivycaster,The Barrow of Malefic Ages,19.70,Phantasmal Smokezephyr Mercury Of Men,132.00,-510.81,75.90,-67426.92,10018.80,-11481.62,-68889.74
+19476,Graveterror,Gifeld Castle,6.22,Mithril Of The Tropics,200.00,4538.71,11.98,907742.00,2396.00,54608.28,964746.28
+21204,Flameflare The Evil,Moor Village,76.43,Planar Rainfate Mithril,253.00,1304.42,320.52,330018.26,81091.56,312443.46,723553.28

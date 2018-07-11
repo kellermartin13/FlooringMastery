@@ -1,0 +1,18 @@
+473,Wilma "Tornado" Brooks,AR,2.20,Pebbles,100.00,0.80,4.00,80.00,400.00,9.60,489.60
+2190,Renee "Hellish Empress" Banks,MS,3.00,Solid Oak,140.00,5.00,5.00,700.00,700.00,42.00,1442.00
+3948,Surgeon Grant,TX,0.50,Pinecones,236.00,1.50,2.42,354.00,571.12,0.00,925.12
+5481,"Sunrise" Miles,WY,0.31,Solid Oak,183.00,5.50,5.50,1006.50,1006.50,0.00,2013.00
+6296,Marie "Raven" Chapman,NV,0.25,Solid Oak,183.00,5.50,5.50,1006.50,1006.50,0.00,2013.00
+7347,Theresa "Scalphunter" Romero,TX,0.50,Reeds,175.00,0.75,2.20,131.25,385.00,0.00,516.25
+9490,Jo "the Joker",MT,3.63,Packed Dirt,121.00,1.00,1.50,121.00,181.50,12.10,314.60
+14328,Helen Webb "the Dancer",IA,1.21,Cedar Planks,179.00,2.20,6.05,393.80,1082.95,14.77,1491.52
+15011,Dorothy "the Hunter",KS,0.55,Dirt,32.00,0.50,1.00,16.00,32.00,0.48,48.48
+16467,Jacqueline "Riding Doc" Washington,AR,2.20,Packed Dirt,325.00,1.10,2.20,357.50,715.00,21.45,1093.95
+16925,Susan "Damnation" Fleming,ID,0.00,Solid Oak,239.00,5.50,6.05,1314.50,1445.95,0.00,2760.45
+17512,Elizabeth "the Bully",KS,0.55,Pinecones,326.00,1.50,2.66,489.00,867.16,13.56,1369.72
+18639,Darlene "Loner" Ford,KS,0.55,Reeds,113.00,0.83,2.20,93.79,248.60,3.42,345.81
+18889,Maureen "Cursed" Andrews,AR,2.20,Pebbles,182.00,0.88,4.84,160.16,880.88,20.82,1061.86
+20096,April "Thunderbird" Dunn,MT,4.39,Leather,146.00,11.00,19.97,1606.00,2915.62,180.86,4702.48
+20469,Cathy "Loner Demon" Murray,CA,0.67,Pinecones,233.00,1.50,2.66,349.50,619.78,9.69,978.97
+20908,Wilma "Tornado" Brooks,NM,2.93,Brick,216.00,5.32,6.66,1149.12,1438.56,77.63,2665.31
+22123,Vicki "Mesa" Rhodes,ND,1.67,Pinecones,182.00,1.50,2.66,273.00,484.12,15.14,772.26

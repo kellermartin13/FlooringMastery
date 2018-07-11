@@ -1,0 +1,14 @@
+1805,Geraldine "Revenge" Warren,CA,0.50,Pinecones,240.00,1.50,2.00,360.00,480.00,0.00,840.00
+2698,Betty "Happy Thinker" Watson,MT,3.00,Pebbles,211.00,0.80,4.40,168.80,928.40,32.92,1130.12
+3246,Beth "Fortunate Shooter" Powell,MO,2.20,Pinecones,173.00,1.50,2.20,259.50,380.60,12.80,652.90
+4770,Ida Russell "the Rustler",WY,0.31,Pebbles,141.00,0.80,4.40,112.80,620.40,0.00,733.20
+5399,Marie "Raven" Chapman,NV,0.25,Solid Oak,178.00,5.50,5.50,979.00,979.00,0.00,1958.00
+6251,Evelyn "Evil Joker" Taylor,AR,2.20,Reeds,32.00,0.75,2.20,24.00,70.40,1.89,96.29
+9934,Vengeful Robertson,KS,0.50,Dirt,81.00,0.50,1.00,40.50,81.00,0.00,121.50
+11131,Allison "Steel Gravedigger" Douglas,MS,3.00,Beechwood,320.00,3.00,5.50,960.00,1760.00,81.60,2801.60
+11242,Lena Chapman "the Bully",ID,0.00,Leather,251.00,10.00,18.15,2510.00,4555.65,0.00,7065.65
+14096,Theresa "Kid" Robinson,CA,0.61,Leather,259.00,11.00,18.15,2849.00,4700.85,75.50,7625.35
+21994,"Bane" Jennings,MT,5.84,Solid Oak,345.00,5.50,6.66,1897.50,2297.70,251.71,4446.91
+22089,Julia "Bandit" Chandler,UT,0.00,Packed Dirt,70.00,1.10,2.42,77.00,169.40,0.00,246.40
+22136,Beth "Fortunate Shooter" Powell,TX,0.67,Packed Dirt,147.00,1.10,2.42,161.70,355.74,5.17,522.61
+22283,Betty "Happy Thinker" Watson,NM,2.93,Reeds,220.00,0.83,2.20,182.60,484.00,20.00,686.60

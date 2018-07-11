@@ -1,0 +1,18 @@
+682,Michele Watson "the Loner",MO,2.20,Leather,331.00,10.00,15.00,3310.00,4965.00,165.50,8440.50
+1347,Dorothy "the Hunter",ID,0.00,Brick,86.00,4.00,5.00,344.00,430.00,0.00,774.00
+3717,Cathy "Wildfire" Neal,MO,2.20,Pinecones,203.00,1.50,2.20,304.50,446.60,15.02,766.12
+4296,Allison "Steel Gravedigger" Douglas,UT,0.00,Reeds,246.00,0.75,2.00,184.50,492.00,0.00,676.50
+5702,Amanda Hart "the Loner",OK,2.20,Reeds,219.00,0.75,2.20,164.25,481.80,12.92,658.97
+6292,"Scalphunter" Kennedy,ND,1.25,Packed Dirt,200.00,1.00,1.50,200.00,300.00,5.00,505.00
+7254,Tammy Carlson "the Killer",TX,0.50,Pinecones,132.00,1.50,2.66,198.00,351.12,0.00,549.12
+7452,Vengeful Robertson,KS,0.50,Leather,207.00,10.00,18.15,2070.00,3757.05,0.00,5827.05
+7483,Stella "the Bully",MO,2.20,Leather,211.00,10.00,18.15,2110.00,3829.65,118.79,6058.44
+10511,Evelyn "Evil Joker" Taylor,WY,0.31,Cedar Planks,262.00,2.20,6.05,576.40,1585.10,0.00,2161.50
+14406,Marie "Raven" Chapman,OK,2.42,Leather,233.00,11.00,18.15,2563.00,4228.95,135.84,6927.79
+15201,Kathy Murphy "the Thinker",ND,1.38,Pinecones,75.00,1.50,2.66,112.50,199.50,3.12,315.12
+17625,Dorothy "the Hunter",CA,0.61,Cedar Planks,236.00,2.20,6.66,519.20,1571.76,20.91,2111.87
+17863,Diana "Mistress" Morgan,AL,1.00,Packed Dirt,220.00,1.10,2.20,242.00,484.00,7.26,733.26
+19540,Lucky Johnson,MO,2.20,Brick,64.00,5.32,6.66,340.48,426.24,15.33,782.05
+19631,Michele Watson "the Loner",ND,1.67,Pinecones,24.00,1.50,2.66,36.00,63.84,2.00,101.84
+21520,Joanne "Damned" Miles,AR,2.20,Pinecones,73.00,1.50,2.66,109.50,194.18,6.07,309.75
+22950,Heather "Friendly Gambler" Barrett,IA,1.33,Beechwood,8.00,3.63,6.05,29.04,48.40,0.77,78.21

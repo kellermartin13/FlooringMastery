@@ -1,0 +1,16 @@
+3659,Renee "Loco Tracker" Jordan,KS,0.50,Reeds,240.00,0.75,2.00,180.00,480.00,0.00,660.00
+3753,Helen Webb "the Dancer",ND,1.25,Brick,97.00,4.00,5.50,388.00,533.50,9.22,930.72
+4369,Geraldine "Revenge" Warren,TX,0.50,Leather,245.00,10.00,16.50,2450.00,4042.50,0.00,6492.50
+5582,Joanne "Damned" Miles,CA,0.55,Solid Oak,194.00,5.50,5.50,1067.00,1067.00,21.34,2155.34
+6782,Betty "Happy Thinker" Watson,NM,2.20,Leather,222.00,10.00,18.15,2220.00,4029.30,124.99,6374.29
+7705,Evelyn "Evil Joker" Taylor,IA,1.21,Cedar Planks,272.00,2.20,6.05,598.40,1645.60,22.44,2266.44
+10136,Allison "Steel Gravedigger" Douglas,MT,3.63,Leather,200.00,10.00,18.15,2000.00,3630.00,225.20,5855.20
+11203,Stella "the Bully",MT,3.63,Beechwood,66.00,3.00,5.50,198.00,363.00,22.44,583.44
+11763,"Doom" McCoy,AL,1.00,Pebbles,65.00,0.88,4.84,57.20,314.60,3.72,375.52
+12137,Kathy Murphy "the Thinker",IA,1.21,Reeds,240.00,0.75,2.20,180.00,528.00,7.08,715.08
+15693,Wilma "Tornado" Brooks,MO,2.20,Beechwood,341.00,3.63,5.50,1237.83,1875.50,62.27,3175.60
+17838,Lorraine "Utah" Adams,AL,1.00,Solid Oak,226.00,5.50,6.66,1243.00,1505.16,27.48,2775.64
+19121,Vengeful Montgomery,ND,1.67,Pebbles,157.00,0.88,4.84,138.16,759.88,17.96,916.00
+21041,Marie "Raven" Chapman,NM,2.93,Pebbles,87.00,0.88,4.84,76.56,421.08,14.93,512.57
+22838,Tina "Lady" Anderson,NM,2.93,Beechwood,189.00,3.63,6.05,686.07,1143.45,54.89,1884.41
+23045,Theresa "Kid" Robinson,KS,0.55,Cedar Planks,166.00,2.20,6.66,365.20,1105.56,14.71,1485.47

@@ -1,0 +1,19 @@
+428,"Ingwenel, God of War",Barad Kesa,4.32,Venom Jewelmetal Of The Desert,121.00,1388.00,224.00,167948.00,27104.00,7802.08,202854.08
+488,Tiger Mistmidnight,The Tomb of Hellish Ruin,14.00,Fog Lavaplatinum Of Life,265.00,1078.00,17.00,285670.00,4505.00,40624.50,330799.50
+1891,Magus Felldrake,Haukri's Hold,25.30,Stone Soulsteel Of The Skies,380.00,1634.80,12.01,621224.00,4563.80,156446.95,782234.75
+2212,Magus Felldrake,Haukri's Hold,25.30,Angels' Adamant,350.00,1304.00,179.30,456400.00,62755.00,129788.75,648943.75
+5233,Tarot Dawn,The Bastion of Gothmog of Udun,45.32,Ghostly Soul Adamant,248.00,3222.96,229.53,799294.08,56923.44,385297.88,1241515.40
+6037,Bronzespawn,The Secret Shrine of the Gargoyle Count,-2.00,Greenlead,44.00,793.10,148.47,34896.40,6532.68,-828.58,40600.50
+6544,Blazeflare The Cremator,Archtemple District,27.76,Magic Adamant,282.00,1838.00,207.64,518316.00,58554.48,161523.73,738394.21
+7336,Beamsprocket The Grasping,The Dancing Minstrel,21.20,Rot Silver Of The Past,189.00,3440.00,327.00,650160.00,61803.00,149512.23,861475.23
+13143,Burnchill The Evil,The Nulukkhath Spires,10.59,Forgotten Mithril,196.00,1104.73,316.00,216527.08,61936.00,30630.94,309094.02
+16346,Rouge Roguemist,The Pilgrim's Cup,46.12,Incubi's Mirrorfog Iron Of The Ocean,335.00,5806.50,-26.08,1945177.50,-8736.80,890762.72,2827203.42
+17959,Tarot Dawn,Dysley Stronghold,45.98,Rocklava Mithril Of Revenants,138.00,2200.14,14.33,303619.32,1977.54,140574.56,446171.42
+18211,Scarechain The Unspeakable,The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,383.00,2977.81,125.84,1140501.23,48196.72,427931.26,1616629.21
+19659,Bronzespawn,The Temple of Merciless Necromancy,50.94,Witchs' Forbidden Rockrainbow Bronze,235.00,655.60,425.92,154066.00,100091.20,129620.17,383777.37
+19678,Snowflame The Evil,The Pirate's Pipe,17.60,Ghostly Soul Adamant,159.00,3222.96,229.53,512450.64,36495.27,98810.26,647756.17
+19809,Lord Mystery,Noble's Village,33.28,Mithril Of The Tropics,83.00,4538.71,11.98,376712.93,994.34,124643.40,502350.67
+21251,Cinderember,Pewold Keep,22.57,Phantasmal Tin Of The Swamps,157.00,5964.74,-7.99,936464.18,-1254.43,215098.24,1150307.99
+21423,Deathbrood,Eved Castle,5.09,Planar Rainfate Mithril,116.00,1304.42,320.52,151312.72,37180.32,9424.65,197917.69
+22001,Magus Felldrake,Barad Kesa,5.23,Forgotten Mithril,135.00,1215.20,347.60,164052.00,46926.00,10548.90,221526.90
+22825,"Penur, Lord of the Sea",The Fortress of the Lich Queen,36.35,Thunderbirds' Transcendent Dreamiron,277.00,2275.25,237.70,630244.25,65842.90,250591.37,946678.52

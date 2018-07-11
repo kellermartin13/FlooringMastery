@@ -1,0 +1,13 @@
+1497,Lorraine "Utah" Adams,ID,0.00,Leather,248.00,10.00,15.00,2480.00,3720.00,0.00,6200.00
+2931,Lorraine "Utah" Adams,ID,0.00,Brick,205.00,4.00,5.50,820.00,1127.50,0.00,1947.50
+3499,Victoria "the Dancer",KS,0.50,Cedar Planks,318.00,2.00,5.50,636.00,1749.00,0.00,2385.00
+7969,Vicki "Mesa" Rhodes,ID,0.00,Reeds,320.00,0.75,2.20,240.00,704.00,0.00,944.00
+9857,Geraldine "Revenge" Warren,NM,2.20,Cedar Planks,272.00,2.20,6.05,598.40,1645.60,44.88,2288.88
+10121,Victoria "the Dancer",IA,1.21,Packed Dirt,251.00,1.00,1.50,251.00,376.50,6.28,633.78
+16727,Lorraine "Utah" Adams,MO,2.20,Beechwood,164.00,3.63,5.50,595.32,902.00,29.95,1527.27
+16980,Renee "Loco Tracker" Jordan,CA,0.61,Pinecones,169.00,1.50,2.66,253.50,449.54,7.03,710.07
+19798,Jo "the Joker",MS,3.00,Cedar Planks,318.00,2.20,6.66,699.60,2117.88,84.52,2902.00
+19995,"Bane" Jennings,WY,0.31,Pinecones,231.00,1.50,2.66,346.50,614.46,0.00,960.96
+20026,"Bane" Jennings,KS,0.55,Leather,250.00,11.00,19.97,2750.00,4992.50,77.42,7819.92
+21436,Stella "the Bully",TX,0.67,Solid Oak,147.00,5.50,6.66,808.50,979.02,17.88,1805.40
+22670,Evelyn "Evil Joker" Taylor,AR,2.20,Pinecones,19.00,1.50,2.93,28.50,55.67,1.68,85.85

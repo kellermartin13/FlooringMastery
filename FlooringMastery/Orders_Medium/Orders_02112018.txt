@@ -1,0 +1,17 @@
+415,April "Thunderbird" Dunn,CA,0.50,Packed Dirt,246.00,1.00,1.50,246.00,369.00,0.00,615.00
+838,Melissa "Lonesome Stalker" Riley,CA,0.50,Pebbles,93.00,0.80,4.00,74.40,372.00,0.00,446.40
+2374,Ida Russell "the Rustler",KS,0.50,Reeds,314.00,0.75,2.00,235.50,628.00,0.00,863.50
+7985,Renee "Loco Tracker" Jordan,NM,2.20,Dirt,86.00,0.50,1.00,43.00,86.00,2.58,131.58
+8093,Diana "Mistress" Morgan,UT,0.00,Leather,315.00,10.00,18.15,3150.00,5717.25,0.00,8867.25
+9293,April "Thunderbird" Dunn,MS,3.00,Cedar Planks,207.00,2.20,6.05,455.40,1252.35,51.23,1758.98
+9441,Darlene "Loner" Ford,CA,0.55,Pebbles,178.00,0.88,4.84,156.64,861.52,10.18,1028.34
+9903,Evelyn "Evil Joker" Taylor,CA,0.55,Pebbles,249.00,0.88,4.84,219.12,1205.16,14.24,1438.52
+10945,Ida Russell "the Rustler",MT,3.63,Pebbles,135.00,0.88,4.84,118.80,653.40,30.89,803.09
+10971,Jo "the Joker",KS,0.55,Beechwood,90.00,3.00,5.50,270.00,495.00,7.65,772.65
+11267,Elizabeth "the Bully",AR,2.20,Leather,268.00,10.00,18.15,2680.00,4864.20,150.88,7695.08
+12451,Susan "Damnation" Fleming,WY,0.31,Cedar Planks,264.00,2.20,6.05,580.80,1597.20,0.00,2178.00
+14116,April "Thunderbird" Dunn,KS,0.55,Solid Oak,282.00,5.50,5.50,1551.00,1551.00,31.02,3133.02
+15657,Joanne "Damned" Miles,AR,2.20,Pinecones,351.00,1.50,2.66,526.50,933.66,29.20,1489.36
+16119,Susan "Damnation" Fleming,ID,0.00,Reeds,193.00,0.83,2.20,160.19,424.60,0.00,584.79
+18214,Lorraine "Utah" Adams,NM,2.93,Solid Oak,225.00,5.50,6.66,1237.50,1498.50,82.08,2818.08
+20176,Mattie Grant "the Gambler",KS,0.55,Packed Dirt,221.00,1.10,2.42,243.10,534.82,7.78,785.70

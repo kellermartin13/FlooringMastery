@@ -1,0 +1,16 @@
+117,"Gono, Goddess of the Earth",The Grey Plains,18.15,Unknown Fatelightning Steel Of The Glacier,148.00,1834.00,54.28,271432.00,8033.44,50303.78,329769.22
+546,Scarechain The Unspeakable,The Citadel of Cheno,5.00,Poison Adamant,146.00,298.00,406.38,43508.00,59331.48,5141.97,107981.45
+1648,Shiverflame The Freezer,The Pirate's Pipe,16.00,Phantasmal Tin Of The Swamps,185.00,4074.00,-6.60,753690.00,-1221.00,120395.04,872864.04
+4493,Dawn Darkzealot,The Wizard's House,43.58,Phantasmal Lead,199.00,-457.00,245.47,-90943.00,48848.53,-18521.57,-60616.04
+6770,Lance Knightseraph,Weke Tower,-0.05,Emerald Orichalcum,197.00,-368.87,128.90,-72667.39,25393.30,0.00,-47274.09
+8561,Lance Knightseraph,The Forsaken Tomb of Devastation,0.00,Foul Ice Bronze Of Life,99.00,-92.21,129.80,-9128.79,12850.20,0.00,3721.41
+9456,Deathspike The Terrifying,The Forsaken Sepulcher of Sorrows,48.79,Ghostly Magic Adamant,174.00,4836.38,230.90,841530.12,40176.60,432036.29,1313743.01
+9717,Dagger Reaper,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,160.00,3773.99,269.83,603838.40,43172.80,97051.68,744062.88
+12006,Lightning Brand,The Greedy Wench,32.70,Unicorns' Evil Mithril,160.00,4802.49,312.00,768398.40,49920.00,270045.07,1088363.47
+12091,"Gadriel, God of Resurrection",Shainan's Hold,23.96,Unicorns' Evil Mithril,229.00,4802.49,312.00,1099770.21,71448.00,281092.37,1452310.58
+15849,"Nelalwe, Lady of Fire",The Fortress of Asmamur,-4.93,Shadowy Adamant,198.00,618.93,526.44,122548.14,104235.12,-11339.16,215444.10
+17164,"Baltha, Goddess of Knowledge",The Tower of Aces the Accursed,13.31,Magicians' Legendary Poison Metal,287.00,2719.59,252.79,780522.33,72550.73,110899.50,963972.56
+18243,Rose Anchor,The Hunter and Rose,44.44,Ensorceled Gold Of The Dawn,230.00,6913.92,443.21,1590201.60,101938.30,744541.56,2436681.46
+20042,Bedlam Spiritraven,Grori's Deep,66.50,Grayplatinum,251.00,3032.59,306.97,761180.09,77049.47,553231.51,1391461.07
+20326,Evilcoil The Machine,The Broken Shield,40.95,Zephyr Adamant,311.00,4224.00,113.22,1313664.00,35211.42,553038.92,1901914.34
+22045,Slayer Claw,The Tomb of Hellish Ruin,16.94,Unknowable Mindsilver,156.00,4313.65,402.60,672929.40,62805.60,125074.95,860809.95

@@ -1,0 +1,21 @@
+2684,Rouge Tombreaper,Pawic Keep,0.56,Negative Mercury,278.00,4054.87,361.00,1127253.86,100358.00,12276.12,1239887.98
+2772,Boltcrank The Trapper,The Nulukkhath Spires,9.63,Hell Mercury Of The East,216.00,4636.34,284.60,1001449.44,61473.60,106292.30,1169215.34
+2798,Spikerivet,The Khazahol Crags,-1.97,Primal Adamant,194.00,4562.80,249.00,885183.20,48306.00,-18669.78,914819.42
+5859,Deathspike The Terrifying,Barad Kesa,4.32,Vampires' Hammer Emeraldmetal,258.00,379.45,25.84,97898.10,6666.72,4182.59,108747.41
+6622,Grave Mistseeker,The Tower of Aces the Accursed,13.31,Unknown Fatelightning Steel Of The Glacier,178.00,2017.40,54.28,359097.20,9661.84,47938.68,416697.72
+6851,"Prusu, God of Love",Grove Farthing,18.00,Grayplatinum,227.00,2506.27,279.06,568923.29,63346.62,113808.58,746078.49
+7677,"Gono, Goddess of the Earth",Barad Kesa,4.32,Violetstone Tin Of Death,186.00,2245.23,156.10,417612.78,29034.60,17865.90,464513.28
+7820,Valentine Lawslayer,Minas Gilloy,39.26,Mistgold Of Men,295.00,3065.71,48.40,904384.45,14278.00,358278.36,1276940.81
+9001,Nailpiston The Grasping,The Pirate's Pipe,17.60,Phantasmal Smokezephyr Mercury Of Men,295.00,-383.77,75.90,-113212.15,22390.50,-16347.90,-107169.55
+10010,Bronzespawn,The Bloody Wand,12.00,Magicians' Legendary Poison Metal,128.00,2247.59,229.81,287691.52,29415.68,38052.86,355160.06
+10183,Dagger Reaper,The Dark Caverns of Woe,3.29,Ensorceled Gold Of The Dawn,188.00,5713.98,402.92,1074228.24,75748.96,34499.32,1184476.52
+10514,Bronzespike,The Dismal Marsh,6.05,Magicians' Legendary Poison Metal,220.00,2472.35,229.81,543917.00,50558.20,35668.51,630143.71
+10629,Deathspike The Terrifying,The Greedy Wench,32.70,Stone Soulsteel Of The Skies,319.00,1798.28,13.21,573651.32,4213.99,190695.55,768560.86
+12096,Evilbrood,The Forsaken Delve of Lord Greywulf,39.00,Unicorns' Evil Mithril,138.00,4802.49,312.00,662743.62,43056.00,275261.85,981061.47
+14985,Bedlam Spiritraven,The Pilgrim's Cup,46.12,Violetdream Iron,191.00,1224.69,349.36,233915.79,66727.76,138296.03,438939.58
+16968,Emberfire,Lacot Stronghold,45.22,Magicians' Legendary Poison Metal,274.00,2719.59,252.79,745167.66,69264.46,366494.45,1180926.57
+17184,"Suriel, Lord of Animals",The Tower of Aces the Accursed,13.31,Stone Soulsteel Of The Skies,208.00,1798.28,14.53,374042.24,3022.24,49018.38,426082.86
+19366,Chillfire The Chiller,The Pirate's Pipe,17.60,Witchs' Forbidden Rockrainbow Bronze,70.00,655.60,425.92,45892.00,29814.40,13627.15,89333.55
+20612,Grave Mistseeker,The Dark Caverns of Woe,3.29,Phantasmal Tin Of The Swamps,294.00,5964.74,-7.99,1753633.56,-2349.06,52538.54,1803823.04
+20757,"Gadriel, God of Resurrection",Waleah Castle,0.85,Unknowable Mindsilver,74.00,4313.65,402.60,319210.10,29792.40,3490.02,352492.52
+22311,Blazefreeze The Chiller,The Bastion of the Lich Tyrant,52.03,Primordial Plague Mercury Of Legend,91.00,497.52,301.29,45274.32,27417.39,37799.69,110491.40

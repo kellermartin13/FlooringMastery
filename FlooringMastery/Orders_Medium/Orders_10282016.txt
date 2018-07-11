@@ -1,0 +1,22 @@
+1505,Black Beck,NV,0.25,Beechwood,190.00,3.00,5.00,570.00,950.00,0.00,1520.00
+1848,Ida Russell "the Rustler",NV,0.25,Beechwood,222.00,3.00,5.00,666.00,1110.00,0.00,1776.00
+2261,Wilma "Tornado" Brooks,NM,2.20,Pinecones,273.00,1.50,2.00,409.50,546.00,19.11,974.61
+2481,Vengeful Montgomery,TX,0.50,Dirt,209.00,0.50,1.00,104.50,209.00,0.00,313.50
+2796,Melissa "Lonesome Stalker" Riley,MS,3.00,Leather,181.00,10.00,16.50,1810.00,2986.50,143.90,4940.40
+2995,Amanda Hart "the Loner",KS,0.50,Cedar Planks,99.00,2.00,5.50,198.00,544.50,0.00,742.50
+5556,Surgeon Grant,IA,1.21,Beechwood,203.00,3.00,5.00,609.00,1015.00,16.24,1640.24
+6334,Lorraine "Utah" Adams,OK,2.20,Leather,272.00,10.00,18.15,2720.00,4936.80,153.14,7809.94
+7548,"Scalphunter" Kennedy,ID,0.00,Leather,228.00,10.00,18.15,2280.00,4138.20,0.00,6418.20
+7835,Theresa "Kid" Robinson,WY,0.31,Beechwood,189.00,3.00,5.50,567.00,1039.50,0.00,1606.50
+9063,Susan "Damnation" Fleming,NV,0.31,Packed Dirt,160.00,1.00,1.50,160.00,240.00,0.00,400.00
+9139,Kathy Murphy "the Thinker",MO,2.20,Cedar Planks,313.00,2.20,6.05,688.60,1893.65,51.64,2633.89
+10764,Black Beck,MS,3.00,Reeds,136.00,0.75,2.20,102.00,299.20,12.04,413.24
+10934,Debra "Scorpion" Lane,UT,0.00,Pinecones,145.00,1.50,2.66,217.50,385.70,0.00,603.20
+11544,Heather "Tornado" Newman,NM,2.20,Reeds,139.00,0.75,2.20,104.25,305.80,8.20,418.25
+11635,Dorothy "the Hunter",ND,1.38,Brick,276.00,4.84,6.66,1335.84,1838.16,31.74,3205.74
+12543,Gladys "Locoweed" Keller,AL,1.00,Pinecones,33.00,1.50,2.66,49.50,87.78,1.37,138.65
+12885,Debra "Scorpion" Lane,UT,0.00,Cedar Planks,256.00,2.20,6.05,563.20,1548.80,0.00,2112.00
+14324,"Scalphunter" Kennedy,AR,2.20,Leather,98.00,11.00,18.15,1078.00,1778.70,57.13,2913.83
+14513,Debra "Scorpion" Lane,NV,0.31,Leather,271.00,11.00,18.15,2981.00,4918.65,0.00,7899.65
+15160,Ida Russell "the Rustler",AL,1.00,Pebbles,217.00,0.88,4.84,190.96,1050.28,12.41,1253.65
+15397,Diana "Mistress" Morgan,MT,3.99,Dirt,142.00,0.50,1.00,71.00,142.00,8.52,221.52

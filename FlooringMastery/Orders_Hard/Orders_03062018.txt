@@ -1,0 +1,19 @@
+527,Bolttrap,The Dread Hive of Illfang the Kobold Lord,1.00,Unspeakable Rotsoul Mithril Of Souls,214.00,248.00,401.53,53072.00,85927.42,1389.99,140389.41
+632,Valentine Lawslayer,The Dread Hive of Illfang the Kobold Lord,1.00,Falserainbow Lead,44.00,3215.00,233.00,141460.00,10252.00,1517.12,153229.12
+4381,Cinderflame,Kewold Stronghold,8.87,Planar Obsidian Mercury Of Wizards,144.00,2574.00,117.00,370656.00,16848.00,34875.36,422379.36
+5102,Rune Rougehate,Unicorn's Ward,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,221.00,4123.68,122.49,911333.28,27070.29,121992.46,1060396.03
+5469,Flameshiver,The Archer and Blade,9.00,Mistgold Of Men,237.00,3065.71,44.00,726573.27,10428.00,66330.11,803331.38
+5717,Deathspike The Terrifying,Barad Kesa,4.32,Negative Rockglitter Mercury Of Trolls,83.00,1483.90,423.07,123163.70,35114.81,6331.14,164609.65
+8049,"Selik, God of Death",Barad Kesa,4.32,Shadowy Adamant,170.00,618.93,478.58,105218.10,81358.60,7463.07,194039.77
+9691,Tarot Dawn,Tower Farthing,27.12,Unicorns' Fatal Magma Metal Of The Ocean,193.00,1792.04,392.70,345863.72,75791.10,113846.80,535501.62
+9852,Slayer Claw,Haukri's Hold,25.30,Golems' Stonesapphire Gold Of The Glacier,184.00,3672.77,105.97,675789.68,19498.48,173822.04,869110.20
+10548,Chillfire The Chiller,The Dread Hive of Illfang the Kobold Lord,1.33,Icy Shock Silver,238.00,1482.98,407.00,352949.24,96866.00,4498.15,454313.39
+11419,Seraph Jester,The Barrow of Malefic Ages,17.91,Icy Shock Silver,159.00,1482.98,407.00,235793.82,64713.00,54091.23,354598.05
+11582,Bronzespike,The Archer and Scroll,39.60,Pearl Mirrorice Steel Of Changelings,125.00,271.51,38.07,33938.75,4758.75,15479.00,54176.50
+11951,Terrorghoul The Unspeakable,Gena's Hold,2.66,Unicorns' Evil Mithril,91.00,4802.49,312.00,437026.59,28392.00,13962.56,479381.15
+13698,Chillfire The Chiller,The Pilgrim's Cup,46.12,Mithril Of Legend,226.00,2274.80,63.01,514104.80,14240.26,243038.73,771383.79
+13750,Evilember The Firey,Gili's Delve,-6.73,Spectres' Shadowy Terrorglow Adamant Of Life,64.00,5164.28,248.66,330513.92,15914.24,-24249.97,322178.19
+16304,Bronzespawn,The Lost Sanctum of Woe,3.30,Otherworldly Mirror Orichalcum,224.00,-298.87,526.35,-66946.88,117902.40,1528.67,52484.19
+18571,Sephiroth Drakecaster,The Bastion of Barbos,28.34,Venom Timegold Of Dwarves,202.00,3339.60,295.90,674599.20,59771.80,205623.88,939994.88
+21226,"Prusu, God of Love",The Bastion of Sthasu the Gruesome,14.93,Phantasmal Tin Of The Swamps,235.00,5964.74,-7.99,1401713.90,-1877.65,209975.44,1609811.69
+22726,Shadow Gust,Grori's Deep,66.50,Djinni's Evil Sandobsidian Steel Of The Future,227.00,4208.60,172.78,955352.20,39221.06,656418.35,1650991.61

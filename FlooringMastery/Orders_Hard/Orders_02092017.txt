@@ -1,0 +1,16 @@
+2795,Bane Veil,Gili's Delve,-4.59,Toxin Iceplatinum Of The Undead,162.00,-283.29,-49.00,-45892.98,-7938.00,2691.55,-51139.43
+2896,Tarot Dawn,The Desert of Flames,39.00,Zephyr Iron,175.00,2759.00,404.26,482825.00,70745.50,215892.50,769463.00
+3062,Song Runetomb,The Demon and Toad,23.75,Icy Shock Silver,242.00,1225.60,370.00,296595.20,89540.00,92672.45,478807.65
+6192,Magus Felldrake,The Shadow Downs,13.21,Icy Shock Silver,215.00,1348.16,407.00,289854.40,87505.00,49056.72,426416.12
+11047,"Penur, Lord of the Sea",Gili's Delve,-5.56,God-touched Greengem Platinum,319.00,1281.72,-39.60,408868.68,-12632.40,-23774.18,372462.10
+12394,"Melcha, Goddess of Thieves",The Citadel of Alammius,3.50,Thunderbirds' Transcendent Dreamiron,95.00,2275.25,237.70,216148.75,22581.50,9549.21,248279.46
+12561,Sunset Knightclaw,Castle Village,37.51,Transcendent Gold,382.00,-193.60,282.17,-73955.20,107788.94,12856.82,46690.56
+13408,Sunrise Godwarlock,The Citadel of Alammius,3.50,Ghostly Soul Adamant,77.00,3222.96,229.53,248167.92,17673.81,10633.67,276475.40
+14873,Sunset Knightclaw,Shainan's Hold,23.96,Muck Orichalcum Of Ogres,248.00,3769.54,401.45,934845.92,99559.60,248257.32,1282662.84
+15371,"Sielach, God of Fate",Noble's Village,30.25,Unicorns' Fatal Magma Metal Of The Ocean,189.00,2168.36,431.97,409820.04,81642.33,147438.71,638901.08
+15437,"Addon, Lord of Death",Lamp Borough,4.95,Shadowy Adamant,253.00,618.93,526.44,156589.29,133189.32,14488.93,304267.54
+15924,Bonescare,Fellfen Keep,61.53,Angels' Smoke Adamant Of The Mountains,81.00,3427.13,236.50,277597.53,19156.50,183987.50,480741.53
+20661,Mecharig The Living Device,Grori's Deep,66.50,Phantasmal Lead,274.00,-608.27,270.02,-166665.98,73985.48,-61169.13,-153849.63
+20902,Flameflare The Evil,The Secret Catacombs of Ulfang the Black,42.90,Tritons' Time Stoneiron Of Legend,128.00,2129.60,224.81,272588.80,28775.68,129586.73,430951.21
+20947,Tarot Dawn,South Brightcrown Borough,42.25,Yellow Mistearth Copper,117.00,5536.45,-33.15,647764.65,-3878.55,270432.16,914318.26
+21706,Seraph Jester,The Cuitamba Jungle,33.88,Phantasmal Tin Of The Swamps,149.00,5964.74,-7.99,888746.26,-1190.51,301768.96,1189324.71

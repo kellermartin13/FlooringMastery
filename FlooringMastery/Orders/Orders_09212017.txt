@@ -1,0 +1,18 @@
+3578,Michele Watson "the Loner",ID,0.00,Pebbles,364.00,0.80,4.40,291.20,1601.60,0.00,1892.80
+4337,Deborah "the Lady",WY,0.31,Cedar Planks,98.00,2.00,5.50,196.00,539.00,0.00,735.00
+4964,Cathy "Wildfire" Neal,OK,2.00,Cedar Planks,116.00,2.00,5.50,232.00,638.00,17.40,887.40
+5583,"Scalphunter" Kennedy,WY,0.31,Pinecones,129.00,1.50,2.66,193.50,343.14,0.00,536.64
+7077,Victoria "the Dancer",OK,2.20,Dirt,102.00,0.50,1.00,51.00,102.00,3.06,156.06
+7359,"Sunrise" Miles,ID,0.00,Solid Oak,234.00,5.50,5.50,1287.00,1287.00,0.00,2574.00
+7941,Cynthia "the Vixen",CA,0.55,Beechwood,352.00,3.00,5.50,1056.00,1936.00,29.92,3021.92
+8323,Cathy "Wildfire" Neal,OK,2.20,Solid Oak,143.00,5.50,5.50,786.50,786.50,31.46,1604.46
+11465,Theresa "Kid" Robinson,KS,0.55,Cedar Planks,146.00,2.20,6.05,321.20,883.30,12.04,1216.54
+13068,"Bane" Jennings,AL,1.00,Brick,84.00,4.84,6.66,406.56,559.44,9.66,975.66
+13712,Cathy "Wildfire" Neal,UT,0.00,Dirt,269.00,0.50,1.00,134.50,269.00,0.00,403.50
+14118,Jo "the Joker",ND,1.38,Brick,310.00,5.32,6.66,1649.20,2064.60,37.14,3750.94
+14475,Ida Russell "the Rustler",NM,2.42,Cedar Planks,111.00,2.20,6.05,244.20,671.55,18.32,934.07
+15450,Tammy Carlson "the Killer",NV,0.31,Solid Oak,114.00,5.50,5.50,627.00,627.00,0.00,1254.00
+16430,Michele Watson "the Loner",UT,0.00,Reeds,187.00,0.83,2.20,155.21,411.40,0.00,566.61
+17275,Vengeful Robertson,NV,0.31,Reeds,372.00,0.83,2.20,308.76,818.40,0.00,1127.16
+18783,Maureen "Cursed" Andrews,CA,0.61,Pebbles,184.00,0.88,4.84,161.92,890.56,10.52,1063.00
+20295,Diana "Mistress" Morgan,MT,4.39,Dirt,160.00,0.50,1.00,80.00,160.00,9.60,249.60

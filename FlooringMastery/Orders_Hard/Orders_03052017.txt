@@ -1,0 +1,17 @@
+76,Seraphim Tsunami,The Grey Plains,18.15,Fairies' Supreme Mistsmoke Lead Of The Future,135.00,3045.00,324.73,411075.00,43838.55,81884.44,536797.99
+940,Metalghoul,Boiaburh Keep,16.00,Muck Orichalcum Of Ogres,284.00,3115.32,274.19,884750.88,77869.96,154019.33,1116640.17
+1686,Tarot Dawn,Reheath Stronghold,8.00,Greenlead,321.00,721.00,134.97,231441.00,43325.37,21981.31,296747.68
+2955,Bane Veil,The Archer and Blade,9.00,Phantasmal Smokezephyr Mercury Of Men,225.00,-317.16,69.00,-71361.00,15525.00,-5025.24,-60861.24
+2986,Snaretool The Constructed,The Demon and Toad,23.75,Vampires' Hammer Emeraldmetal,216.00,344.95,25.84,74509.20,5581.44,19221.75,99312.39
+3491,Springpulley The Binder,The Forsaken Hive of Galima the Mighty,22.45,Negative Rockglitter Mercury Of Trolls,263.00,1349.00,423.07,354787.00,111267.41,102531.97,568586.38
+6246,"Gono, Goddess of the Earth",The Archer and Blade,9.00,Icy Shock Silver,266.00,1348.16,407.00,358610.56,108262.00,42018.53,508891.09
+11029,Claw Mist,Gena's Hold,2.66,Devils' Falserot Silver,312.00,1668.51,182.71,520575.12,57005.52,17327.42,594908.06
+13001,"Selik, God of Death",Gawold Castle,6.05,Mind Lead,147.00,2844.70,309.10,418170.90,45437.70,27816.52,491425.12
+13015,Gravebone,The Grey Plains,19.97,Mistgold Of Men,76.00,3372.28,53.24,256293.28,4046.24,52067.90,312407.42
+14857,Rune Rougehate,The Dark Caverns of Woe,3.29,Grayplatinum,292.00,2506.27,306.97,731830.84,89635.24,24643.98,846110.06
+15469,Spikebrood The Disinterred,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,120.00,4076.49,325.62,489178.80,39074.40,26412.66,554665.86
+16359,Gravebone The Unspeakable,Fellfen Keep,61.53,Incubi's Mirrorfog Iron Of The Ocean,86.00,5806.50,-26.08,499359.00,-2242.88,308211.99,805328.11
+16569,Wheelspawn,The Broken Arrow,36.39,Forgotten Mithril,193.00,1104.73,347.60,213212.89,67086.80,100907.89,381207.58
+17883,Bonescare,North Arcanist's Farthing,55.18,Poison Adamant,104.00,1266.52,64.44,131718.08,6701.76,76130.91,214550.75
+21183,Deathspike The Terrifying,Eved Castle,5.09,Hidden Shadowice Lead,206.00,2729.00,-62.23,562174.00,-12819.38,27467.73,576822.35
+21272,Dawn Darkzealot,Peley Keep,26.33,Angels' Smoke Adamant Of The Mountains,110.00,3427.13,260.15,376984.30,28616.50,105456.21,511057.01

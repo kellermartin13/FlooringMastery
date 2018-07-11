@@ -1,0 +1,10 @@
+179,Blazeflare The Cremator,The Demon and Toad,23.75,Unholy Poison Copper Of The Mountains,114.00,528.10,-9.24,60203.40,-1053.36,14196.01,73346.05
+3413,Seraph Jester,The Tower of Sabiesu the Awesome,4.40,Mistgold Of Men,257.00,3065.71,44.00,787887.47,11308.00,31967.82,831163.29
+13930,Chillfire The Chiller,Archfane District,32.87,Green Dustlightning Mercury,180.00,4255.57,35.20,766002.60,6336.00,254871.74,1027210.34
+16301,"Iran, Lord of Nightmares",Peley Keep,26.33,Meteoric Dustzephyr Orichalcum,161.00,375.00,268.49,60375.00,43226.89,26936.49,130538.38
+16881,Shadow Gust,Moor Village,76.43,Starlight Pearldream Bronze,168.00,322.10,147.40,54112.80,24763.20,59945.76,138821.76
+20280,Rouge Tombreaper,Moor Village,76.43,Rainbowglitter Tin,321.00,5957.39,213.40,1912322.19,68501.40,1505425.93,3486249.52
+20317,Lightning Brand,Grori's Deep,66.50,Greenlead,182.00,959.65,179.65,174656.30,32696.30,136852.72,344205.32
+20494,"Melcha, Goddess of Thieves",The Warrior and Flagon,53.24,Phantasmal Lead,274.00,-608.27,270.02,-166665.98,73985.48,-49120.66,-141801.16
+20935,Fate Seeker,South Brightcrown Borough,42.25,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,3349.50,324.73,629706.00,61049.24,290117.20,980872.44
+21457,Spikesnare,Moor Village,76.43,Hidden Shadowice Lead,206.00,2729.00,-62.23,562174.00,-12819.38,417509.51,966864.13

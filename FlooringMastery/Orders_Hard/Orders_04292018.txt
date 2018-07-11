@@ -1,0 +1,17 @@
+3994,Flora Amberslayer,Tradun Castle,31.13,Sapphire Mindlead,146.00,1307.71,47.00,190925.66,6862.00,61314.17,259101.83
+4136,Shiverflame The Freezer,The Archer and Scroll,39.60,Violetstone Tin Of Death,158.00,2245.23,156.10,354746.34,24663.80,151764.06,531174.20
+5248,Claw Mist,Haukri's Hold,25.30,Ensorceled Sandmetal Of Spirits,312.00,2956.98,87.00,922577.76,27144.00,237430.44,1187152.20
+5735,Spikespawn,Barad Kesa,4.32,Greenlead,57.00,793.10,148.47,45206.70,8462.79,2146.78,55816.27
+6244,Cinderflame,The Cracked Chalice,2.29,Poison Adamant,192.00,1151.38,58.58,221064.96,11247.36,4646.25,236958.57
+7280,Tarot Dawn,The Forsaken Delve of Lord Greywulf,39.00,Angels' Adamant,140.00,1304.00,179.30,182560.00,25102.00,80988.18,288650.18
+8545,"Uriel, God of Fate",The Fortress of Gama,10.16,Negative Rockglitter Mercury Of Trolls,162.00,1483.90,423.07,240391.80,68537.34,30892.91,339822.05
+8570,Lance Knightseraph,The Lazy Sage,19.97,Djinni's Spectral Shadowlead Of Life,105.00,3705.90,296.02,389119.50,31082.10,84040.32,504241.92
+9718,"Azah, Goddess of Fate",Unicorn's Ward,14.64,Spirits' Living Wordhammer Tin Of The Trees,238.00,4777.30,26.40,1136997.40,6283.20,171492.09,1314772.69
+12370,"Baltha, Goddess of Knowledge",The Citadel of Alammius,3.50,Thunderbirds' Transcendent Dreamiron,170.00,2275.25,237.70,386792.50,40409.00,17088.06,444289.56
+17090,Chillfire The Chiller,The Citadel of Lord Greywulf,33.04,Primordial Mud Orichalcum,252.00,-469.36,85.11,-118278.72,21447.72,-31954.23,-128785.23
+17700,"Alik, Goddess of Trickery",Lamp Borough,4.95,Grayplatinum,340.00,2506.27,306.97,852131.80,104369.80,47825.08,1004326.68
+17787,"Byzou, God of Animals",North Arcanist's Farthing,55.18,Witchs' Forbidden Rockrainbow Bronze,99.00,655.60,425.92,64904.40,42166.08,58888.76,165959.24
+17939,Emberspawn,The Nulukkhath Spires,11.65,Litches' Fatal Mithril Of The Past,202.00,1460.78,405.96,295077.56,82003.92,45249.78,422331.26
+18194,Dawn Darkzealot,The Fortress of the Lich Queen,36.35,Goddesses' Spectral Poison Steel,194.00,4566.53,296.81,885906.82,57581.14,339655.67,1283143.63
+18545,Snaretool The Constructed,Archring Borough,21.69,Nymphs' Luminous Rotmercury Of The Skies,172.00,292.60,207.90,50327.20,35758.80,18938.92,105024.92
+20749,Gale Jackalguard,Archtemple District,27.76,Angels' Adamant,282.00,1434.40,197.23,404500.80,55618.86,128833.50,588953.16

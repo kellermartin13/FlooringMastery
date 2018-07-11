@@ -1,0 +1,19 @@
+821,Rune Rougehate,Reyny Keep,11.00,Sapphire Mindlead,29.00,1307.71,47.00,37923.59,1363.00,4321.52,43608.11
+1745,Grave Mistseeker,The Beggar and Cask,21.00,Greenlead,116.00,721.00,134.97,83636.00,15656.52,20851.43,120143.95
+3237,Spikerivet,Lacot Stronghold,30.88,Planar Mudtin Of Trolls,273.00,2304.41,335.36,629103.93,91553.28,223403.74,944060.95
+6080,"Prusu, God of Love",Kada's Deep,33.00,God-touched Greengem Platinum,205.00,1281.72,-36.00,262752.60,-7380.00,84272.96,339645.56
+7526,Bedlam Spiritraven,Tradun Castle,34.24,Phantasmal Tin Of The Swamps,332.00,4074.00,-6.60,1352568.00,-2191.20,459128.11,1809504.91
+7584,Snarepiston The Mechanical,Palace Farthing,43.31,Unknown Fatelightning Steel Of The Glacier,62.00,2017.40,54.28,125078.80,3365.36,55230.99,183675.15
+7854,Snaretool The Constructed,The Cuitamba Jungle,30.80,Swordbronze,161.00,1350.01,447.01,217351.61,71968.61,89689.27,379009.49
+9614,Lance Knightseraph,North Arcanist's Farthing,45.60,Shadow Steel,214.00,4677.78,465.30,1001044.92,99574.20,506284.80,1606903.92
+11480,Magus Felldrake,The Broken Arrow,30.07,Magic Adamant,131.00,1838.00,228.40,240778.00,29920.40,81209.52,351907.92
+11586,Burnfreeze The Cold,The Broken Arrow,30.07,Ghostly Magic Adamant,138.00,4836.38,230.90,667420.44,31864.20,209785.39,909070.03
+12819,Rouge Roguemist,The Dread Hive of Illfang the Kobold Lord,1.46,Sapphire Mindlead,183.00,1307.71,47.00,239310.93,8601.00,2479.12,250391.05
+14413,"Ariel, God of Luck",The Archer and Blade,9.90,Unknown Fatelightning Steel Of The Glacier,172.00,2441.05,65.68,419860.60,11296.96,43115.76,474273.32
+14529,"Lenwenye, Goddess of Travel",Reyny Keep,11.00,Unknown Fatelightning Steel Of The Glacier,111.00,2441.05,65.68,270956.55,7290.48,30607.17,308854.20
+14816,Spikespawn,The Tower of Aces the Accursed,13.31,Grayplatinum,207.00,2506.27,306.97,518797.89,63542.79,75704.29,658044.97
+17871,Lord Mystery,The Hunter and Rose,44.44,Trolls' Mist Poisonplatinum Of The Twilight,347.00,567.79,434.39,197023.13,150733.33,153012.84,500769.30
+18201,Cinderflame,North Arcanist's Farthing,55.18,Legendary Mithril Of The Moon,50.00,2977.81,125.84,148890.50,6292.00,85350.38,240532.88
+18741,Evilbrood,The Dark Caverns of Woe,3.29,Mana-touched Greenglitter Gold Of Giants,176.00,1291.38,514.25,227282.88,90508.00,9533.73,327324.61
+19056,Dawn Darkzealot,The Secret Shrine of the Gargoyle Count,-2.00,Incubi's Mirrorfog Iron Of The Ocean,212.00,5806.50,-26.08,1230978.00,-5528.96,-24508.98,1200940.06
+21493,Evilcoil The Machine,Peley Keep,26.33,Sphinxes' Opalpearl Platinum Of Legend,276.00,5805.82,429.89,1602406.32,118649.64,447474.55,2168530.51

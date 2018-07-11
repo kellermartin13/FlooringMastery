@@ -1,0 +1,18 @@
+974,Sunrise Godwarlock,The Forsaken Tomb of Devastation,0.00,Primordial False Gold,338.00,4459.34,226.00,1507256.92,76388.00,0.00,1583644.92
+1089,Grave Mistseeker,Reyny Keep,11.00,White Platinum,274.00,-47.81,145.00,-13099.94,39730.00,2929.31,29559.37
+2075,"Gadriel, God of Resurrection",The Tomb of Hellish Ruin,14.00,Stone Soulsteel Of The Skies,305.00,1634.80,12.01,498614.00,3663.05,70318.79,572595.84
+3525,Lightning Brand,Lacot Stronghold,30.88,Ensorceled Sandmetal Of Spirits,276.00,2956.98,87.00,816126.48,24012.00,260442.93,1100581.41
+7477,"Ahah, Goddess of Knowledge",The Forsaken Hive of Galima the Mighty,24.70,Phantasmal Tin Of The Swamps,264.00,4074.00,-6.60,1075536.00,-1742.40,268448.40,1342242.00
+10400,Deathspike The Terrifying,The Dungeon of Dismal Terror,-3.50,Shadowy Adamant,265.00,618.93,478.58,164016.45,126823.70,-11633.61,279206.54
+12309,"Finarfin, God of Protection",Castle Village,37.51,Toxin Iceplatinum Of The Undead,324.00,-377.06,-59.29,-122167.44,-19209.96,-53723.41,-195100.81
+13738,Bolttrap,Gili's Delve,-6.73,Violetstone Tin Of Death,198.00,2469.75,171.71,489010.50,33998.58,-36610.64,486398.44
+14553,Chainnail,The Tower of Sabiesu the Awesome,5.32,Legendary Mithril Of The Moon,245.00,2707.10,125.84,663239.50,30830.80,34703.52,728773.82
+15179,Rouge Roguemist,The Tower of Aces the Accursed,13.31,Lunar Bronze,114.00,753.86,337.70,85940.04,38497.80,16176.92,140614.76
+15701,"Gono, Goddess of the Earth",Lamp Borough,4.95,Shadowy Adamant,215.00,618.93,526.44,133069.95,113184.60,12312.73,258567.28
+16802,Rouge Roguemist,Lacot Stronghold,45.22,Forgotten Mithril,147.00,1104.73,347.60,162395.31,51097.20,96071.63,309564.14
+17454,Flora Amberslayer,Reyny Keep,11.00,Witchs' Forbidden Rockrainbow Bronze,5.00,655.60,425.92,3278.00,2129.60,594.84,6002.44
+18621,Graveterror,The Tower of Aramum,42.90,Primordial Plague Mercury Of Legend,177.00,497.52,301.29,88061.04,53328.33,60797.43,202186.80
+20253,Metalghoul,The Dismal Marsh,6.66,Angels' Smoke Adamant Of The Mountains,107.00,3427.13,260.15,366702.91,27836.05,27617.73,422156.69
+20910,Evilbrood,South Brightcrown Borough,42.25,Rocklava Mithril Of Revenants,340.00,2200.14,15.76,748047.60,5358.40,316430.52,1069836.52
+21858,Nettool The Grasping,The Black Barrow of Bery,-0.10,Ensorceled Sandmetal Of Spirits,264.00,2956.98,95.70,780642.72,25264.80,0.00,805907.52
+23188,Sunrise Godwarlock,The Fortress of Akkun the Grim,-2.42,Incubi's Iron Of The Dawn,119.00,1200.96,424.31,142914.24,50492.89,-3868.14,189538.99

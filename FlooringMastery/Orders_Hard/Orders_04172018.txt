@@ -1,0 +1,21 @@
+1645,"Zepul, Lady of Vengeance",The Pilgrim's Cup,41.93,Shadowhell Mithril,247.00,363.00,236.70,89661.00,58464.90,62212.88,210338.78
+2378,Evilfear The Horrorific,Pawic Keep,0.56,Phantasmal Smokezephyr Mercury Of Men,287.00,-317.16,69.00,-91024.92,19803.00,-712.22,-71934.14
+2851,"Alik, Goddess of Trickery",The Bastion of the Lich Tyrant,43.00,Greenlead,363.00,721.00,134.97,261723.00,48994.11,133608.36,444325.47
+4821,Deathspike The Terrifying,The Demon and Toad,23.75,Vampires' Hammer Emeraldmetal,271.00,379.45,25.84,102830.95,7002.64,26360.06,136193.65
+4884,Rouge Tombreaper,The Khazahol Crags,-1.97,Legendary Mithril Of The Moon,140.00,2461.00,114.40,344540.00,16016.00,-7211.12,353344.88
+6010,Snarepiston The Mechanical,The Pirate's Pipe,17.60,Greenlead,262.00,793.10,148.47,207792.20,38899.14,44404.44,291095.78
+7204,Spikebrood The Disinterred,The Lost Crypts of Sorrows,35.87,Hell Mercury Of The East,239.00,4636.34,284.60,1108085.26,68019.40,423397.68,1599502.34
+7379,Ironbrood,The Dancing Minstrel,21.20,Shadowy Adamant,111.00,618.93,478.58,68701.23,53122.38,25582.96,147406.57
+9544,Spikerivet,Unicorn's Ward,14.64,Ghostly Magic Adamant,225.00,4836.38,230.90,1088185.50,51952.50,171020.70,1311158.70
+10057,Sephiroth Drakecaster,The Dungeon of Dismal Terror,-3.50,Ensorceled Gold Of The Dawn,203.00,5713.98,402.92,1159937.94,81792.76,-49669.23,1192061.47
+10101,Evilbrood,The Warrior and Flagon,48.40,Mithril Of Legend,152.00,2274.80,63.01,345769.60,9577.52,170566.62,525913.74
+11849,Clash Lonedrake,South Brightcrown Borough,42.25,God-touched Greengem Platinum,339.00,1281.72,-39.60,434503.08,-13424.40,176853.05,597931.73
+12213,Deathbrood,The Black Barrow of Bery,-0.07,Toxic Mistlead Of The Past,217.00,1557.54,136.06,337986.18,29525.02,0.00,367511.20
+18339,Bronzespike,The Fortress of the Lich Queen,36.35,Rocklava Mithril Of Revenants,246.00,2200.14,14.33,541234.44,3525.18,196113.46,740873.08
+18438,Maverick Wind,The Glano Forest,3.00,Devils' Falserot Silver,255.00,2220.79,182.71,566301.45,46591.05,18386.78,631279.28
+18863,"Gadriel, God of Resurrection",The Bastion of Barbos,28.34,Dragons' Poison Glitterflesh Steel Of The North,152.00,2790.70,288.13,424186.40,43795.76,131035.00,599017.16
+18897,"Gono, Goddess of the Earth",The Drunken Thief,12.65,Ensorceled Sandmetal Of Spirits,358.00,2956.98,95.70,1058598.84,34260.60,142071.73,1234931.17
+18982,Deathspike The Terrifying,Archfane District,36.16,Dragons' Poison Glitterflesh Steel Of The North,282.00,2790.70,288.13,786977.40,81252.66,312562.82,1180792.88
+20230,Burnchill The Evil,The Bloody Wand,15.97,Grayplatinum,194.00,3032.59,306.97,588322.46,59552.18,103659.94,751534.58
+21403,Freezebrood,Peley Keep,26.33,Hidden Shadowice Lead,156.00,2729.00,-62.23,425724.00,-9707.88,108164.19,524180.31
+22180,Flora Amberslayer,Tradun Castle,41.43,Starlight Pearldream Bronze,180.00,354.31,147.40,63775.80,26532.00,37026.20,127334.00

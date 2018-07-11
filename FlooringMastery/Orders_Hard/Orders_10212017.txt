@@ -1,0 +1,16 @@
+86,Seraphim Tsunami,Pewold Keep,16.95,Unknown Fatelightning Steel Of The Glacier,190.00,1834.00,54.28,348460.00,10313.20,60991.44,419764.64
+3630,Emberfire,The Forsaken Hive of Galima the Mighty,22.45,Ensorceled Sandmetal Of Spirits,219.00,2956.98,87.00,647578.62,19053.00,146658.96,813290.58
+4367,"Lenwenye, Goddess of Travel",Khali's Delve,52.71,Planar Obsidian Mercury Of Wizards,200.00,2574.00,117.00,514800.00,23400.00,285246.00,823446.00
+7879,Claw Mist,The Dungeon of Dismal Terror,-3.50,Poison Adamant,115.00,1151.38,58.58,132408.70,6736.70,-5565.82,133579.58
+8501,"Suriel, Lord of Animals",The Barrow of Terrible Horror,-1.21,Hell Mercury Of The East,27.00,4636.34,284.60,125181.18,7684.20,-1328.65,131536.73
+9409,Burnchill The Evil,Lamp Borough,4.95,Spectres' Shadowy Terrorglow Adamant Of Life,186.00,4694.80,205.50,873232.80,38223.00,45572.79,957028.59
+11484,Rune Rougehate,The Bastion of the Lich Tyrant,43.00,Icy Shock Silver,171.00,1482.98,407.00,253589.58,69597.00,138970.23,462156.81
+17030,Rouge Tombreaper,Lacot Stronghold,45.22,Unholy Poison Copper Of The Mountains,122.00,702.90,-10.16,85753.80,-1239.52,38031.43,122545.71
+17327,Fate Seeker,Reyny Keep,11.00,Thunderbirds' Transcendent Dreamiron,275.00,2275.25,237.70,625693.75,65367.50,76016.74,767077.99
+17987,Sunrise Godwarlock,Dysley Stronghold,45.98,God-touched Faterainbow Orichalcum Of Spectres,345.00,370.41,32.01,127791.45,11043.45,63864.05,202698.95
+18733,Rose Anchor,The Bastion of Barbos,28.34,Primordial Mud Orichalcum,351.00,-469.36,85.11,-164745.36,29873.61,-37764.09,-172635.84
+20740,Icechill The Frigid,Archtemple District,27.76,Negative Rockglitter Mercury Of Trolls,249.00,1795.52,681.36,447084.48,169658.64,172688.07,789431.19
+21105,Steelterror The Blade,Eved Castle,5.09,Devils' Falserot Silver,293.00,2220.79,182.71,650691.47,53534.03,35211.28,739436.78
+21450,Tarot Dawn,The Cuitamba Jungle,33.88,Sphinxes' Opalpearl Platinum Of Legend,55.00,5805.82,429.89,319320.10,23643.95,116607.78,459571.83
+21977,Rose Anchor,The Black Barrow of Bery,-0.10,Mana-touched Greenglitter Gold Of Giants,253.00,1420.52,514.25,359391.56,130105.25,0.00,489496.81
+22875,Sunrise Godwarlock,The Fen of the Necromancer,72.63,Violetdream Iron,317.00,1630.07,349.36,516732.19,110747.12,458059.90,1085539.21

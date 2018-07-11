@@ -1,0 +1,20 @@
+442,"Iran, Lord of Nightmares",Shainan's Hold,18.00,Poison Adamant,199.00,298.00,406.38,59302.00,80869.62,25230.89,165402.51
+555,Shiverflame The Freezer,The Forsaken Tomb of Devastation,0.00,Unspeakable Rotsoul Mithril Of Souls,162.00,248.00,401.53,40176.00,65047.86,0.00,105223.86
+3025,Slayer Claw,The Hunter and Rose,40.40,Violetdream Iron,277.00,1224.69,349.36,339239.13,96772.72,174404.74,610416.59
+3969,Sunrise Godwarlock,The Lost Sanctum of Woe,3.00,Incubi's Iron Of The Dawn,231.00,1200.96,385.74,277421.76,89105.94,10995.83,377523.53
+5031,Rune Rougehate,Archring Borough,17.93,Venom Timegold Of Dwarves,204.00,3036.00,269.00,619344.00,54876.00,121359.60,795579.60
+5496,"Gono, Goddess of the Earth",The Cuitamba Jungle,28.00,Otherworldly Mirror Orichalcum,303.00,-247.00,478.50,-74841.00,144985.50,19640.46,89784.96
+5884,"Iran, Lord of Nightmares",The Nulukkhath Spires,10.59,Otherworldly Mirror Orichalcum,215.00,-247.00,478.50,-53105.00,102877.50,5474.98,55247.48
+6111,Emberspawn,The Dark Caverns of Woe,3.29,Poison Adamant,244.00,1151.38,58.58,280936.72,14293.52,8856.91,304087.15
+6159,Magus Felldrake,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,143.00,3115.32,301.61,445490.76,43130.23,63520.73,552141.72
+7718,"Gadriel, God of Resurrection",The Grey Plains,19.97,Unknowable Mindsilver,228.00,3565.00,366.00,812820.00,83448.00,179253.60,1075521.60
+12383,Bedlam Spiritraven,The Dismal Marsh,6.05,Rot Silver Of The Past,152.00,3784.00,359.70,575168.00,54674.40,37790.54,667632.94
+13984,Shadow Tomblion,Waleah Castle,0.77,Ghostly Soul Adamant,369.00,3222.96,229.53,1189272.24,84696.57,12739.69,1286708.50
+14100,Lord Mystery,The Chuallanto Jungle,40.70,Ghostly Soul Adamant,137.00,3222.96,229.53,441545.52,31445.61,193926.36,666917.49
+14540,Law Lionwatcher,The Tower of Aramum,42.90,Unicorns' Evil Mithril,37.00,4802.49,377.52,177692.13,13968.24,82413.96,274074.33
+14662,Bronzespawn,The Tower of Sabiesu the Awesome,5.32,Ensorceled Sandmetal Of Spirits,97.00,2956.98,95.70,286827.06,9282.90,14805.50,310915.46
+15577,Jericho Wolf,The Tower of Sabiesu the Awesome,5.32,Poison Adamant,258.00,1151.38,64.44,297056.04,16625.52,15684.08,329365.64
+19376,Shadow Gust,Noble's Village,33.28,Witchs' Forbidden Rockrainbow Bronze,158.00,655.60,425.92,103584.80,67295.36,56390.45,227270.61
+20772,Lord Mystery,Lordsgate Farthing,45.25,Meteoric Dustzephyr Orichalcum,219.00,375.00,295.34,82125.00,64679.46,66062.01,212866.47
+21212,Freezebrood,The Bastion of Sthasu the Gruesome,14.93,Phantasmal Tin Of The Swamps,268.00,5964.74,-7.99,1598550.32,-2141.32,239461.35,1835870.35
+22879,Deathbrood,The Lost Crypts of Sorrows,35.87,Falserainbow Lead,216.00,3215.00,256.30,694440.00,55360.80,269928.29,1019729.09

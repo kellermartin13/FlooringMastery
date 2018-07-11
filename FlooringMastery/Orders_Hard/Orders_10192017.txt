@@ -1,0 +1,17 @@
+628,Rune Rougehate,Barad Kesa,4.32,Poison Adamant,48.00,298.00,406.38,14304.00,19506.24,1352.41,35162.65
+1097,Evilbrood,The Shadow Downs,13.21,Primordial False Gold,333.00,4459.34,226.00,1484960.22,75258.00,202828.37,1763046.59
+1974,Ironbrood,Barad Cune,26.00,Violetdream Iron,308.00,1224.69,349.36,377204.52,107602.88,126049.92,610857.32
+3547,"Iran, Lord of Nightmares",The Flying Witch,11.45,Yellow Mistearth Copper,134.00,4575.58,-27.40,613127.72,-3671.60,67040.17,676496.29
+5874,Burnbrood The Freezer,The Dungeon of Merciless Woe,38.62,Mithril Of The Tropics,280.00,3751.00,9.00,1050280.00,2520.00,410592.00,1463392.00
+6519,Lightning Brand,South Brightcrown Borough,42.25,Primal Adamant,319.00,4562.80,273.90,1455533.20,87374.10,648021.07,2190928.37
+7201,Jericho Wolf,The Bastion of Barbos,23.42,Poison Adamant,219.00,1151.38,58.58,252152.22,12829.02,60945.69,325926.93
+7878,Nettool The Grasping,Grori's Deep,49.95,Planar Obsidian Mercury Of Wizards,261.00,2574.00,141.57,671814.00,36949.77,354381.88,1063145.65
+9147,Storm Squallmourner,The Beggar and Cask,23.10,Angels' Smoke Adamant Of The Mountains,47.00,2832.34,215.00,133119.98,10105.00,32941.75,176166.73
+10924,Wind Dire,The Dungeon of Merciless Woe,38.62,Mana-touched Greenglitter Gold Of Giants,354.00,1173.98,467.50,415588.92,165495.00,226622.73,807706.65
+11441,Rouge Tombreaper,The Citadel of Cheno,7.33,Thunderbirds' Transcendent Dreamiron,322.00,2275.25,237.70,732630.50,76539.40,56641.89,865811.79
+14080,Flameshiver,The Citadel of Lord Greywulf,33.04,Zephyr Iron,261.00,3034.90,444.69,792108.90,116064.09,299697.09,1207870.08
+14128,Fate Seeker,The Lost Sanctum of Woe,3.00,Ensorceled Sandmetal Of Spirits,203.00,2956.98,95.70,600266.94,19427.10,18590.82,638284.86
+14437,Springsprocket,Haukri's Hold,27.83,Phantasmal Tin Of The Swamps,228.00,4929.54,-7.26,1123935.12,-1655.28,314238.36,1436518.20
+16719,Jericho Wolf,The Broken Arrow,36.39,Fleshshock Mercury,315.00,4858.70,338.07,1530490.50,106492.05,589313.72,2226296.27
+18276,Dawn Darkzealot,Dysley Stronghold,45.98,Djinni's Spectral Shadowlead Of Life,43.00,4076.49,325.62,175289.07,14001.66,87073.74,276364.47
+22052,Dawn Darkzealot,Barad Kesa,5.23,Otherworldly Truesoul Orichalcum Of The East,308.00,1061.78,392.65,327028.24,120936.20,22398.22,470362.66

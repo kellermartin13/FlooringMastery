@@ -1,0 +1,15 @@
+1005,Ironbrood,The Broken Shield,37.23,Imperial Fate Steel,333.00,2721.75,-37.13,906342.75,-12364.29,330772.03,1224750.49
+1663,"Gadriel, God of Resurrection",The Lazy Sage,15.00,Foul Ice Bronze Of Life,182.00,-92.21,129.80,-16782.22,23623.60,1026.21,7867.59
+1922,Jericho Wolf,The Chuallanto Jungle,37.00,Incubi's Mirrorfog Iron Of The Ocean,213.00,4798.76,-19.59,1022135.88,-4172.67,376646.39,1394609.60
+3578,Zeal Bladewitch,The Flying Witch,11.45,Ensorceled Sandmetal Of Spirits,180.00,2956.98,87.00,532256.40,15660.00,60270.80,608187.20
+4844,"Ariel, God of Luck",The Archer and Scroll,39.60,Zephyr Adamant,184.00,4224.00,102.93,777216.00,18939.12,318462.05,1114617.17
+6333,Valentine Lawslayer,The Dark Caverns of Woe,3.29,Tritons' Time Stoneiron Of Legend,316.00,1760.00,168.90,556160.00,53372.40,18285.97,627818.37
+6800,Flora Amberslayer,Weke Tower,-0.05,Zephyr Iron,169.00,2759.00,444.69,466271.00,75152.61,0.00,541423.61
+7431,Burnchill The Evil,Pawic Keep,0.56,Fleshshock Mercury,115.00,4417.00,279.40,507955.00,32131.00,5400.86,545486.86
+9864,Gale Jackalguard,The Broken Shield,37.23,Djinni's Spectral Shadowlead Of Life,278.00,3705.90,325.62,1030240.20,90522.36,414682.15,1535444.71
+10163,Flameshiver,The Forsaken Sepulcher of Sorrows,48.79,Sphinxes' Mistsoul Bronze Of The Past,131.00,2169.81,202.07,284245.11,26471.17,152250.98,462967.26
+10890,"Avriel, God of Death",Eved Castle,5.09,Sapphire Mindlead,245.00,1307.71,47.00,320388.95,11515.00,16595.20,348499.15
+11342,Tarot Dawn,Dysley Stronghold,45.98,Heavenly Dreamsilver Of The Night,142.00,2009.68,112.00,285374.56,15904.00,138588.14,439866.70
+19332,Burnbrood The Freezer,The Barrow of Malefic Ages,19.70,Ensorceled Sandmetal Of Spirits,105.00,2956.98,95.70,310482.90,10048.50,64106.28,384637.68
+22078,"Lenwenye, Goddess of Travel",The Grey Plains,21.97,Phantasmal Lead,297.00,-669.10,270.02,-198722.70,80195.94,-26075.89,-144602.65
+22577,Ironbrood,The Demon and Toad,31.61,Devils' Falserot Silver,296.00,2220.79,182.71,657353.84,54082.16,227659.52,939095.52

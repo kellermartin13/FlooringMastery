@@ -1,0 +1,11 @@
+3808,Rouge Roguemist,Citadel Ward,25.82,Ensorceled Sandmetal Of Spirits,159.00,2956.98,87.00,470159.82,13833.00,125838.13,609830.95
+4886,Shadow Tomblion,The Demon and Toad,23.75,Otherworldly Mirror Orichalcum,169.00,-247.00,478.50,-41743.00,80866.50,9389.64,48513.14
+6291,"Ahah, Goddess of Knowledge",Kada's Deep,33.00,Primal Adamant,118.00,4562.80,273.90,538410.40,32320.20,188341.10,759071.70
+6958,Fate Seeker,The Forsaken Delve of Lord Greywulf,39.00,Meteoric Dustzephyr Orichalcum,190.00,375.00,244.08,71250.00,46375.20,45873.83,163499.03
+8229,Tarot Dawn,Cawold Castle,24.09,Djinni's Spectral Shadowlead Of Life,151.00,3705.90,296.02,559590.90,44699.02,145029.58,749319.50
+10978,Storm Seraphheart,Dysley Stronghold,45.98,Primordial False Gold,93.00,5395.80,226.00,501809.40,21018.00,240500.60,763328.00
+13792,Cult Godseeker,The Dark Caverns of Woe,3.29,Ghostly Soul Adamant,312.00,3222.96,229.53,1005563.52,71613.36,32315.31,1109492.19
+14185,Shadow Tomblion,The Citadel of Lord Greywulf,33.04,Zephyr Iron,63.00,3034.90,444.69,191198.70,28015.47,72340.68,291554.85
+14991,"Gadriel, God of Resurrection",The Tower of Aces the Accursed,13.31,Grayplatinum,208.00,2506.27,306.97,521304.16,63849.76,76070.01,661223.93
+16436,Storm Seraphheart,The Fortress of Gama,10.16,Planar Rainfate Mithril,106.00,1185.84,320.52,125699.04,33975.12,15967.42,175641.58
+19126,"Ahah, Goddess of Knowledge",The Barrow of Malefic Ages,19.70,Sirens' Rockgold,139.00,-352.01,199.96,-48929.39,27794.44,-4226.99,-25361.94

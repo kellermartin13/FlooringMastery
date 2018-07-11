@@ -1,0 +1,14 @@
+82,Claw Mist,Pewold Keep,16.95,Planar Mudtin Of Trolls,155.00,2094.92,335.36,324712.60,51980.80,64037.88,440731.28
+961,"Maeglodor, God of Thieves",The Cuitamba Jungle,28.00,Muck Orichalcum Of Ogres,257.00,3115.32,274.19,800637.24,70466.83,243909.14,1115013.21
+3622,Icechill The Frigid,The Flying Witch,11.45,Heavenly Dreamsilver Of The Night,134.00,1826.98,112.00,244815.32,15008.00,28580.57,288403.89
+7617,"Suriel, Lord of Animals",Tradun Castle,34.24,Unknown Fatelightning Steel Of The Glacier,164.00,2017.40,54.28,330853.60,8901.92,115516.88,455272.40
+7687,Grave Mistseeker,Lordsgate Farthing,41.14,Mithril Of Legend,279.00,2274.80,63.01,634669.20,17579.79,267422.09,919671.08
+8325,Bane Veil,The Broken Arrow,30.07,Shadowy Adamant,27.00,618.93,478.58,16711.11,12921.66,8889.83,38522.60
+11074,Rouge Tombreaper,The Black Barrow of Bery,-0.07,Tin Of The Tundra,324.00,2839.87,174.91,920117.88,56670.84,0.00,976788.72
+12501,Evilfear The Horrorific,The Citadel of Alammius,3.50,Incubi's Iron Of The Dawn,324.00,1200.96,424.31,389111.04,137476.44,21063.50,547650.98
+16350,Spikesnare,The Bastion of Gothmog of Udun,54.84,Nymphs' Luminous Rotmercury Of The Skies,233.00,292.60,189.00,68175.80,44037.00,61717.04,173929.84
+17169,Deathbrood,The Tower of Aces the Accursed,13.31,Succubi's Evil Mindzephyr Adamant Of The Desert,172.00,2189.18,250.07,376538.96,43012.04,54541.63,474092.63
+17322,Rune Rougehate,The Citadel of Alammius,3.85,Thunderbirds' Transcendent Dreamiron,180.00,2275.25,237.70,409545.00,42786.00,18093.24,470424.24
+18282,Maverick Wind,Boiaburh Keep,17.60,Litches' Fatal Mithril Of The Past,193.00,1460.78,405.96,281930.54,78350.28,64850.55,425131.37
+18704,Lance Knightseraph,South Brightcrown Borough,42.25,Lunar Bronze,297.00,829.25,337.70,246287.25,100296.90,145565.34,492149.49
+19048,Bane Veil,The Drunken Thief,12.65,Mistgold Of Men,230.00,4488.51,53.24,1032357.30,12245.20,135798.32,1180400.82

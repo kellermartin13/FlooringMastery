@@ -1,0 +1,13 @@
+4473,Magus Felldrake,The Wizard's House,43.58,Incubi's Glittering Tin Of The Future,294.00,2516.56,72.60,739868.64,21344.40,334933.74,1096146.78
+5593,Lord Mystery,The Nulukkhath Spires,10.59,Stone Soulsteel Of The Skies,296.00,1798.28,13.21,532290.88,3910.16,58982.11,595183.15
+6280,Metalghoul,The Fortress of Gama,10.16,Fairies' Supreme Mistsmoke Lead Of The Future,345.00,3349.50,324.73,1155577.50,112031.85,126760.94,1394370.29
+6780,Magus Felldrake,The Tower of the Demon Warlord,15.75,Zephyr Iron,108.00,2759.00,444.69,297972.00,48026.52,55359.76,401358.28
+7683,Song Runetomb,Barad Kesa,4.32,Planar Obsidian Mercury Of Wizards,324.00,2574.00,141.57,833976.00,45868.68,35193.79,915038.47
+11523,"Lenwenye, Goddess of Travel",The Bastion of the Lich Tyrant,43.00,Angels' Smoke Adamant Of The Mountains,195.00,3115.57,236.50,607536.15,46117.50,281071.07,934724.72
+12126,"Alik, Goddess of Trickery",The Wizard's House,43.58,White Platinum,297.00,-52.59,159.50,-15619.23,47371.50,13971.00,45723.27
+12512,Gale Jackalguard,The Dismal Marsh,6.05,Spectres' Shadowy Terrorglow Adamant Of Life,93.00,5164.28,226.05,480278.04,21022.65,30078.04,531378.73
+13123,Shadow Tomblion,The Fortress of Gama,10.16,Nymphs' Luminous Rotmercury Of The Skies,149.00,292.60,189.00,43597.40,28161.00,7175.84,78934.24
+17707,Springsprocket,The Cracked Chalice,2.52,Hidden Shadowice Lead,240.00,2729.00,-62.23,654960.00,-14935.20,19200.74,659225.54
+18653,Lance Knightseraph,The Lewd King,32.67,Sirens' Rockgold,137.00,-352.01,199.96,-48225.37,27394.52,-6874.18,-27705.03
+18703,Beamtrap,South Brightcrown Borough,42.25,Starlight Pearldream Bronze,140.00,322.10,147.40,45094.00,20636.00,27606.60,93336.60
+19078,Tarot Dawn,Archfane District,36.16,Violetdream Iron,145.00,1347.16,349.36,195338.20,50657.20,88558.34,334553.74

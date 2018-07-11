@@ -1,0 +1,21 @@
+196,Renee "Hellish Empress" Banks,WY,0.25,Pinecones,199.00,1.50,2.00,298.50,398.00,0.00,696.50
+1267,Victoria "the Dancer",IA,1.00,Pinecones,203.00,1.50,2.00,304.50,406.00,7.10,717.60
+1619,Debra "Scorpion" Lane,IA,1.00,Reeds,255.00,0.75,2.00,191.25,510.00,7.01,708.26
+3960,Geraldine "Revenge" Warren,IA,1.10,Beechwood,208.00,3.00,5.00,624.00,1040.00,16.64,1680.64
+3961,Friendly Howell,TX,0.50,Dirt,107.00,0.50,1.00,53.50,107.00,0.00,160.50
+6132,Theresa "Scalphunter" Romero,AR,2.20,Packed Dirt,268.00,1.00,1.50,268.00,402.00,13.40,683.40
+7623,Florence "Leather Doc" Grant,MS,3.00,Beechwood,131.00,3.00,5.00,393.00,655.00,31.44,1079.44
+7824,Renee "Loco Tracker" Jordan,ND,1.25,Pinecones,267.00,1.50,2.66,400.50,710.22,11.11,1121.83
+7844,Lucky Johnson,NV,0.31,Packed Dirt,211.00,1.00,1.50,211.00,316.50,0.00,527.50
+8011,Lorraine "Utah" Adams,ND,1.25,Beechwood,247.00,3.00,5.50,741.00,1358.50,21.00,2120.50
+11551,Stella "the Bully",TX,0.67,Reeds,256.00,0.75,2.20,192.00,563.20,7.55,762.75
+13659,"Bane" Jennings,KS,0.55,Reeds,366.00,0.75,2.20,274.50,805.20,10.80,1090.50
+15304,Gloria "Devil" McCoy,OK,2.42,Solid Oak,208.00,5.50,5.50,1144.00,1144.00,45.76,2333.76
+15713,Cathy "Loner Demon" Murray,MO,2.20,Pebbles,237.00,0.88,4.84,208.56,1147.08,27.11,1382.75
+16137,"Bane" Jennings,UT,0.00,Pebbles,148.00,0.88,4.84,130.24,716.32,0.00,846.56
+21216,Jacqueline "Riding Doc" Washington,CA,0.67,Pebbles,140.00,0.88,4.84,123.20,677.60,8.01,808.81
+21482,"Sunrise" Miles,KS,0.55,Pebbles,139.00,0.88,4.84,122.32,672.76,7.95,803.03
+22140,Theresa "Scalphunter" Romero,TX,0.67,Brick,274.00,5.32,6.66,1457.68,1824.84,32.83,3315.35
+22348,Jo "the Joker",CA,0.67,Leather,213.00,11.00,19.97,2343.00,4253.61,65.97,6662.58
+22385,Mabel "Vixen Cursed" King,IA,1.33,Pinecones,247.00,1.50,2.66,370.50,657.02,10.28,1037.80
+22829,Geraldine "Revenge" Warren,MO,2.20,Dirt,100.00,0.55,1.00,55.00,100.00,3.10,158.10

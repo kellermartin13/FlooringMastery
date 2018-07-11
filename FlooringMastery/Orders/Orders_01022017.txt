@@ -1,0 +1,17 @@
+1112,Lena Chapman "the Bully",ID,0.00,Dirt,133.00,0.50,1.00,66.50,133.00,0.00,199.50
+1429,Vicki "Mesa" Rhodes,TX,0.50,Reeds,108.00,0.75,2.00,81.00,216.00,0.00,297.00
+1889,Cathy "Wildfire" Neal,NM,2.20,Cedar Planks,264.00,2.00,5.00,528.00,1320.00,36.96,1884.96
+3075,Maureen "Cursed" Andrews,WY,0.28,Cedar Planks,337.00,2.00,5.50,674.00,1853.50,0.00,2527.50
+4555,Diana "Mistress" Morgan,KS,0.50,Brick,26.00,4.40,5.50,114.40,143.00,0.00,257.40
+5776,Heather "Tornado" Newman,CA,0.55,Packed Dirt,194.00,1.00,1.50,194.00,291.00,4.85,489.85
+10871,"Doom" McCoy,UT,0.00,Brick,88.00,4.84,6.66,425.92,586.08,0.00,1012.00
+11549,Deborah "the Lady",MS,3.00,Pebbles,222.00,0.88,4.84,195.36,1074.48,38.10,1307.94
+11655,Geraldine "Revenge" Warren,NM,2.20,Pebbles,123.00,0.88,4.84,108.24,595.32,14.07,717.63
+11936,Gloria "Devil" McCoy,AL,1.00,Brick,156.00,4.84,6.66,755.04,1038.96,17.94,1811.94
+12004,Evelyn "Evil Joker" Taylor,IA,1.21,Pinecones,209.00,1.50,2.66,313.50,555.94,8.69,878.13
+16679,Victoria "the Dancer",ND,1.38,Dirt,264.00,0.50,1.00,132.00,264.00,3.96,399.96
+17267,Mattie Grant "the Gambler",WY,0.31,Brick,313.00,5.32,6.66,1665.16,2084.58,0.00,3749.74
+17421,Amanda Hart "the Loner",WY,0.31,Dirt,348.00,0.50,1.00,174.00,348.00,0.00,522.00
+18293,Vanessa "Scalper" Rhodes,MS,3.00,Pinecones,121.00,1.50,2.66,181.50,321.86,15.10,518.46
+21626,Darlene "Loner" Ford,MS,3.00,Leather,212.00,11.00,19.97,2332.00,4233.64,196.97,6762.61
+22967,Maureen "Cursed" Andrews,TX,0.67,Leather,315.00,11.00,19.97,3465.00,6290.55,97.56,9853.11

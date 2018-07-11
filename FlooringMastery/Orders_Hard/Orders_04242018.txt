@@ -1,0 +1,16 @@
+668,Evilember The Firey,The Black Barrow of Bery,-0.07,Falserainbow Lead,62.00,3215.00,233.00,199330.00,14446.00,0.00,213776.00
+925,Rouge Roguemist,The Wizard's House,43.58,Hidden Shadowice Lead,238.00,2729.00,-46.75,649502.00,-11126.50,280885.22,919260.72
+3293,"Maglioneth, Lord of the Sun",The Forsaken Hive of Galima the Mighty,22.45,Heavenly Dreamsilver Of The Night,289.00,1826.98,112.00,527997.22,32368.00,123280.35,683645.57
+4314,Rune Rougehate,Khali's Delve,52.71,Incubi's Glittering Tin Of The Future,336.00,2516.56,72.60,845564.16,24393.60,461077.61,1331035.37
+4534,Cinderember,The Wizard's House,43.58,Succubi's Evil Mindzephyr Adamant Of The Desert,50.00,1990.16,250.07,99508.00,12503.50,49285.06,161296.56
+4742,"Lionare, God of the Lost",The Demon and Toad,23.75,Ensorceled Sandmetal Of Spirits,322.00,2956.98,87.00,952147.56,28014.00,235238.77,1215400.33
+5806,Scarefear The Blade,Barad Kesa,4.32,Mithril Of The Tropics,186.00,3751.00,9.00,697686.00,1674.00,27974.40,727334.40
+6512,Law Lionwatcher,The Tower of Aces the Accursed,13.31,Zephyr Iron,268.00,2759.00,444.69,739412.00,119176.92,111616.56,970205.48
+7454,Scarechain The Unspeakable,Palace Farthing,43.31,Angels' Adamant,219.00,1304.00,179.30,285576.00,39266.70,139682.36,464525.06
+7663,Snarepiston The Mechanical,The Grey Plains,19.97,Swordbronze,133.00,1350.01,447.01,179551.33,59452.33,47800.73,286804.39
+7921,"Suriel, Lord of Animals",Minas Gilloy,39.26,Djinni's Mind Fogiron,72.00,2301.02,74.02,165673.44,5329.44,66691.12,237694.00
+13343,"Lionare, God of the Lost",The Lost Crypts of Sorrows,35.87,Sapphire Mindlead,246.00,1307.71,47.00,321696.66,11562.00,119973.12,453231.78
+13574,Dawn Darkzealot,The Citadel of Alammius,3.50,Sphinxes' Mistsoul Bronze Of The Past,245.00,2169.81,202.07,531603.45,49507.15,23244.42,604355.02
+16603,"Nelalwe, Lady of Fire",Gena's Hold,2.66,Starlight Pearldream Bronze,170.00,322.10,147.40,54757.00,25058.00,2394.45,82209.45
+18601,Freezebrood,The Bastion of Barbos,28.34,Lunar Bronze,196.00,829.25,337.70,162533.00,66189.20,64042.22,292764.42
+22499,"Alik, Goddess of Trickery",The Beggar and Cask,25.41,Primordial Plague Mercury Of Legend,215.00,497.52,301.29,106966.80,64777.35,42936.04,214680.19

@@ -1,0 +1,15 @@
+349,"Alik, Goddess of Trickery",The Bastion of Gothmog of Udun,37.45,Ghostly Magic Adamant,206.00,3997.01,230.90,823384.06,47565.40,322251.30,1193200.76
+627,Burnfreeze The Cold,The Tower of Sheshbazzu,3.00,Falserainbow Lead,346.00,3215.00,233.00,1112390.00,80618.00,35790.24,1228798.24
+4191,Metalghoul,The Archer and Scroll,39.60,Sapphire Mindlead,155.00,1307.71,47.00,202695.05,7285.00,83992.02,293972.07
+5901,"Maeglodor, God of Thieves",The Pirate's Pipe,17.60,Pearl Mirrorice Steel Of Changelings,278.00,271.51,38.07,75479.78,10583.46,15491.38,101554.62
+6310,Chillfire The Chiller,The Bastion of the Lich Tyrant,43.00,Warlocks' Timerot Mithril,268.00,2917.07,112.00,781774.76,30016.00,349070.03,1160860.79
+6839,Flameshiver,Noble's Village,27.50,Timeiron,261.00,1596.00,228.33,416556.00,59594.13,133322.04,609472.17
+7144,Bolttrap,Mahyrst Keep,25.14,Poison Adamant,238.00,1151.38,58.58,274028.44,13942.04,71992.62,359963.10
+11089,Valentine Lawslayer,The Tower of Aces the Accursed,13.31,Devils' Falserot Silver,315.00,1668.51,182.71,525580.65,57553.65,75807.46,658941.76
+14323,Chainnail,Gili's Delve,-6.73,Emerald Orichalcum,331.00,-405.76,128.90,-134306.56,42665.90,6414.85,-85225.81
+14375,Deathspike The Terrifying,The Secret Shrine of the Gargoyle Count,-2.00,Phantasmal Lead,344.00,-552.97,245.47,-190221.68,84441.68,2115.60,-103664.40
+14380,Zeal Bladewitch,Lamp Borough,4.95,Tritons' Time Stoneiron Of Legend,175.00,1760.00,204.37,308000.00,35764.75,17188.24,360952.99
+19549,Valentine Lawslayer,Gifeld Castle,6.22,Ghostly Soul Adamant,99.00,3222.96,229.53,319073.04,22723.47,20507.79,362304.30
+19865,Gravebone The Unspeakable,The Dismal Marsh,6.66,Unicorns' Evil Mithril,341.00,4802.49,377.52,1637649.09,128734.32,123646.84,1890030.25
+20911,Jericho Wolf,Lordsgate Farthing,45.25,Unknowable Mindsilver,121.00,4313.65,402.60,521951.65,48714.60,256799.81,827466.06
+22403,"Nelalwe, Lady of Fire",Gawold Castle,6.05,Primordial Plague Mercury Of Legend,235.00,497.52,301.29,116917.20,70803.15,11263.22,198983.57

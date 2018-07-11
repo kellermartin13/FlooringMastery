@@ -1,0 +1,14 @@
+1281,Claw Mist,Lamp Borough,4.95,Muck Orichalcum Of Ogres,209.00,3115.32,274.19,651101.88,57305.71,35420.38,743827.97
+1854,Claw Mist,Hartshill Ward,41.98,Planar Mudtin Of Trolls,335.00,2094.92,335.36,701798.20,112345.60,341940.40,1156084.20
+2305,"Alik, Goddess of Trickery",The Khazahol Crags,-1.97,Unholy Poison Copper Of The Mountains,259.00,528.10,-9.24,136777.90,-2393.16,-2687.69,131697.05
+2334,Storm Seraphheart,The Khazahol Crags,-1.97,Phantasmal Smokezephyr Mercury Of Men,284.00,-317.16,69.00,-90073.44,19596.00,1409.55,-69067.89
+2603,"Nelalwe, Lady of Fire",Boiaburh Keep,16.00,Rocklava Mithril Of Revenants,129.00,1818.30,13.03,234560.70,1680.87,37798.65,274040.22
+4410,Chainnail,The Fen of the Necromancer,45.10,Succubi's Evil Mindzephyr Adamant Of The Desert,3.00,1990.16,250.07,5970.48,750.21,3024.31,9745.00
+6812,Emberspawn,The Tower of the Demon Warlord,15.75,Zephyr Iron,144.00,2759.00,444.69,397296.00,64035.36,73813.02,535144.38
+9027,Emberspawn,Weke Tower,-0.05,Negative Rockglitter Mercury Of Trolls,315.00,1483.90,465.38,467428.50,146594.70,0.00,614023.20
+12798,Flora Amberslayer,South Brightcrown Borough,42.25,Mistgold Of Men,48.00,3372.28,53.24,161869.44,2555.52,69058.48,233483.44
+16523,Flameshiver,Reyny Keep,11.00,Ensorceled Sandmetal Of Spirits,110.00,2956.98,95.70,325267.80,10527.00,36937.43,372732.23
+16555,Valentine Lawslayer,The Drunken Thief,12.65,Ensorceled Gold Of The Dawn,175.00,6913.92,402.92,1209936.00,70511.00,166458.11,1446905.11
+17545,Song Runetomb,North Arcanist's Farthing,55.18,Witchs' Forbidden Rockrainbow Bronze,221.00,655.60,425.92,144887.60,94128.32,131458.76,370474.68
+18256,"Suriel, Lord of Animals",Boiaburh Keep,17.60,Undeads' Mind Orichalcum Of The Twilight,182.00,-17.00,276.00,-3094.00,50232.00,8484.84,55622.84
+21140,Burnbrood The Freezer,The Black Barrow of Bery,-0.10,Rocklava Mithril Of Revenants,69.00,2200.14,15.76,151809.66,1087.44,0.00,152897.10

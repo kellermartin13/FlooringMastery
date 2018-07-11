@@ -1,0 +1,12 @@
+271,Black Beck,NV,0.25,Packed Dirt,249.00,1.00,1.50,249.00,373.50,0.00,622.50
+303,Deborah "the Lady",WY,0.25,Packed Dirt,240.00,1.00,1.50,240.00,360.00,0.00,600.00
+4052,Jo "the Joker",MS,3.00,Pebbles,220.00,0.80,4.40,176.00,968.00,34.32,1178.32
+7991,Susan "Damnation" Fleming,AR,2.20,Reeds,174.00,0.75,2.20,130.50,382.80,10.27,523.57
+8027,Jacqueline "Riding Doc" Washington,CA,0.55,Pebbles,280.00,0.80,4.84,224.00,1355.20,15.79,1594.99
+8968,Helen Webb "the Dancer",CA,0.55,Cedar Planks,116.00,2.20,6.05,255.20,701.80,9.57,966.57
+11724,Jacqueline "Riding Doc" Washington,WY,0.31,Leather,158.00,10.00,18.15,1580.00,2867.70,0.00,4447.70
+16653,Diana "Mistress" Morgan,AL,1.00,Beechwood,222.00,3.63,5.50,805.86,1221.00,20.27,2047.13
+17740,Renee "Loco Tracker" Jordan,IA,1.21,Pinecones,141.00,1.50,2.66,211.50,375.06,5.87,592.43
+21882,Cathy "Loner Demon" Murray,AL,1.00,Cedar Planks,238.00,2.20,6.66,523.60,1585.08,21.09,2129.77
+22674,Stella "the Bully",NM,2.93,Reeds,298.00,0.91,2.42,271.18,721.16,29.77,1022.11
+22786,Heather "Tornado" Newman,WY,0.34,Reeds,212.00,0.91,2.42,192.92,513.04,0.00,705.96

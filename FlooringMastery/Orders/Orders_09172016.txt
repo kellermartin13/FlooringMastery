@@ -1,0 +1,15 @@
+115,Gladys "Locoweed" Keller,AR,2.20,Dirt,100.00,0.50,1.00,50.00,100.00,3.00,153.00
+222,"Bane" Jennings,AR,2.20,Cedar Planks,115.00,2.00,5.00,230.00,575.00,16.10,821.10
+1140,Lucky Johnson,NM,2.20,Cedar Planks,59.00,2.00,5.00,118.00,295.00,8.26,421.26
+2157,Elizabeth "the Bully",WY,0.25,Beechwood,99.00,3.00,5.00,297.00,495.00,0.00,792.00
+3176,Jacqueline "Riding Doc" Washington,ND,1.25,Pinecones,245.00,1.50,2.20,367.50,539.00,9.06,915.56
+3290,Jo "the Joker",UT,0.00,Packed Dirt,264.00,1.00,1.50,264.00,396.00,0.00,660.00
+5299,Susan "Damnation" Fleming,ND,1.25,Beechwood,289.00,3.00,5.00,867.00,1445.00,23.12,2335.12
+5720,"Sunrise" Miles,CA,0.55,Pebbles,105.00,0.80,4.40,84.00,462.00,5.46,551.46
+5770,Black Beck,NV,0.25,Reeds,289.00,0.75,2.20,216.75,635.80,0.00,852.55
+6835,Ida Russell "the Rustler",OK,2.20,Cedar Planks,45.00,2.20,6.05,99.00,272.25,7.42,378.67
+7823,Jacqueline "Riding Doc" Washington,AL,1.00,Pinecones,142.00,1.50,2.66,213.00,377.72,5.91,596.63
+12015,Victoria "the Dancer",CA,0.61,Beechwood,256.00,3.30,5.50,844.80,1408.00,22.53,2275.33
+20721,Darlene "Loner" Ford,AR,2.20,Dirt,274.00,0.50,1.00,137.00,274.00,8.22,419.22
+22713,"Bane" Jennings,CA,0.67,Leather,349.00,11.00,19.97,3839.00,6969.53,108.09,10916.62
+23115,Stella "the Bully",KS,0.55,Brick,379.00,5.32,6.66,2016.28,2524.14,45.40,4585.82

@@ -1,0 +1,13 @@
+1723,Susan "Damnation" Fleming,TX,0.50,Solid Oak,302.00,5.00,5.00,1510.00,1510.00,0.00,3020.00
+9316,Friendly Howell,CA,0.55,Packed Dirt,209.00,1.00,1.50,209.00,313.50,5.22,527.72
+9599,Maureen "Cursed" Andrews,NV,0.31,Packed Dirt,320.00,1.00,1.50,320.00,480.00,0.00,800.00
+9805,Susan "Damnation" Fleming,KS,0.50,Leather,49.00,10.00,18.15,490.00,889.35,0.00,1379.35
+11224,Gladys "Locoweed" Keller,OK,2.42,Beechwood,52.00,3.00,5.50,156.00,286.00,8.84,450.84
+12913,Maureen "Cursed" Andrews,AR,2.20,Cedar Planks,244.00,2.20,6.05,536.80,1476.20,40.26,2053.26
+15897,Kathy Murphy "the Thinker",OK,2.42,Dirt,163.00,0.50,1.00,81.50,163.00,4.89,249.39
+18194,Dorothy "the Hunter",AR,2.20,Solid Oak,254.00,5.50,6.66,1397.00,1691.64,61.77,3150.41
+19910,Diana "Mistress" Morgan,MO,2.20,Leather,219.00,11.00,19.97,2409.00,4373.43,135.65,6918.08
+21128,Melissa "Lonesome Stalker" Riley,MT,5.31,Brick,163.00,5.32,6.66,867.16,1085.58,97.64,2050.38
+21664,Marie "Raven" Chapman,AR,2.20,Pinecones,100.00,1.50,2.66,150.00,266.00,8.32,424.32
+22052,Beth "Fortunate Shooter" Powell,ID,0.00,Cedar Planks,252.00,2.20,6.66,554.40,1678.32,0.00,2232.72
+23128,Darlene "Loner" Ford,MO,2.20,Beechwood,217.00,3.63,6.05,787.71,1312.85,42.01,2142.57

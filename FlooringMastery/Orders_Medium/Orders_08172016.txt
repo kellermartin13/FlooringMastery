@@ -1,0 +1,23 @@
+531,"Bane" Jennings,CA,0.50,Dirt,301.00,0.50,1.00,150.50,301.00,0.00,451.50
+543,April "Thunderbird" Dunn,TX,0.50,Dirt,129.00,0.50,1.00,64.50,129.00,0.00,193.50
+831,Lena Chapman "the Bully",AL,1.00,Cedar Planks,236.00,2.00,5.00,472.00,1180.00,16.52,1668.52
+1855,Cathy "Wildfire" Neal,MS,3.00,Dirt,275.00,0.50,1.00,137.50,275.00,12.38,424.88
+4186,Black Beck,MO,2.20,Leather,151.00,10.00,16.50,1510.00,2491.50,80.03,4081.53
+5350,Kathy Murphy "the Thinker",AR,2.20,Packed Dirt,154.00,1.00,1.50,154.00,231.00,7.70,392.70
+5903,Tammy Carlson "the Killer",CA,0.55,Leather,259.00,10.00,18.15,2590.00,4700.85,72.91,7363.76
+7747,Lorraine "Utah" Adams,UT,0.00,Brick,131.00,4.84,6.66,634.04,872.46,0.00,1506.50
+8617,Elizabeth "the Bully",MO,2.20,Reeds,248.00,0.75,2.20,186.00,545.60,14.63,746.23
+9704,April "Thunderbird" Dunn,KS,0.50,Pebbles,61.00,0.88,4.84,53.68,295.24,0.00,348.92
+11315,Renee "Loco Tracker" Jordan,KS,0.55,Pebbles,335.00,0.88,4.84,294.80,1621.40,19.16,1935.36
+11913,Joanne "Damned" Miles,WY,0.31,Leather,320.00,10.00,18.15,3200.00,5808.00,0.00,9008.00
+13287,Diana "Mistress" Morgan,UT,0.00,Pinecones,333.00,1.50,2.66,499.50,885.78,0.00,1385.28
+14254,Ida Russell "the Rustler",CA,0.61,Packed Dirt,279.00,1.10,2.00,306.90,558.00,8.65,873.55
+16732,Susan "Damnation" Fleming,AR,2.20,Dirt,288.00,0.50,1.00,144.00,288.00,8.64,440.64
+18718,Mattie Grant "the Gambler",MS,3.00,Pebbles,244.00,0.88,4.84,214.72,1180.96,41.87,1437.55
+20118,Wilma "Tornado" Brooks,MS,3.00,Cedar Planks,205.00,2.20,6.66,451.00,1365.30,54.49,1870.79
+20179,Cynthia "the Vixen",AL,1.00,Solid Oak,270.00,5.50,6.66,1485.00,1798.20,32.83,3316.03
+20428,Victoria "the Dancer",MS,3.00,Leather,203.00,11.00,19.97,2233.00,4053.91,188.61,6475.52
+21050,Friendly Howell,AL,1.00,Packed Dirt,223.00,1.10,2.42,245.30,539.66,7.85,792.81
+21388,Wilma "Tornado" Brooks,MS,3.00,Reeds,199.00,0.83,2.20,165.17,437.80,18.09,621.06
+22753,Friendly Howell,UT,0.00,Packed Dirt,280.00,1.10,2.42,308.00,677.60,0.00,985.60
+23321,"Scalphunter" Kennedy,OK,2.93,Pinecones,175.00,1.50,2.93,262.50,512.75,23.26,798.51

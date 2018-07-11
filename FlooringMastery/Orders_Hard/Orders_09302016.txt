@@ -1,0 +1,18 @@
+1424,Cinderember,Tradun Castle,31.13,Foul Ice Bronze Of Life,48.00,-92.21,129.80,-4426.08,6230.40,559.34,2363.66
+1632,Fate Seeker,Lacot Stronghold,30.88,Phantasmal Plague Adamant,75.00,-186.03,-6.53,-13952.25,-489.75,-4477.02,-18919.02
+1651,Maverick Wind,The Dungeon of Merciless Woe,38.62,Phantasmal Tin Of The Swamps,320.00,4074.00,-6.60,1303680.00,-2112.00,507611.52,1809179.52
+2163,Icechill The Frigid,The Forsaken Tomb of Devastation,0.00,Poison Adamant,151.00,298.00,406.38,44998.00,61363.38,0.00,106361.38
+3904,Burnbrood The Freezer,Ring District,35.00,Glittering Orichalcum,250.00,-131.00,360.23,-32750.00,90057.50,20057.62,77365.12
+5851,"Maglioneth, Lord of the Sun",The Archer and Blade,9.00,White Platinum,64.00,-52.59,145.00,-3365.76,9280.00,532.28,6446.52
+8390,Sunrise Godwarlock,Minas Gilloy,39.26,Primordial Mud Orichalcum,99.00,-387.90,77.37,-38402.10,7659.63,-11989.56,-42732.03
+9369,Rouge Tombreaper,North Arcanist's Farthing,45.60,Unicorns' Fatal Magma Metal Of The Ocean,160.00,1792.04,392.70,286726.40,62832.00,160796.86,510355.26
+9800,Springsprocket,The Pirate's Pipe,17.60,Spectres' Shadowy Terrorglow Adamant Of Life,274.00,4694.80,205.50,1286375.20,56307.00,241682.80,1584365.00
+10427,"Byzou, God of Animals",The Shadow Downs,13.21,Shadowhell Mithril,52.00,439.23,286.41,22839.96,14893.32,4905.33,42638.61
+10916,Rose Anchor,The Black Barrow of Bery,-0.07,Green Dustlightning Mercury,374.00,3517.00,35.20,1315358.00,13164.80,0.00,1328522.80
+12578,"Alik, Goddess of Trickery",Castle Village,37.51,Unknown Fatelightning Steel Of The Glacier,199.00,2441.05,59.71,485768.95,11882.29,189107.47,686758.71
+13001,"Alik, Goddess of Trickery",The Desert of Flames,51.91,Timeiron,250.00,1596.00,228.33,399000.00,57082.50,237162.90,693245.40
+14025,Spikerivet,Tradun Castle,37.66,Spectres' Shadowy Terrorglow Adamant Of Life,174.00,5164.28,248.66,898584.72,43266.84,357903.59,1299755.15
+14385,Dawn Darkzealot,The Lewd King,27.00,Phantasmal Lead,208.00,-552.97,245.47,-115017.76,51057.76,-17269.20,-81229.20
+17712,Metalbrood,Weke Tower,-0.07,Sphinxes' Opalpearl Platinum Of Legend,210.00,5805.82,390.81,1219222.20,82070.10,0.00,1301292.30
+19612,Flameflare The Evil,Castle Village,49.93,Sirens' Rockgold,229.00,-352.01,199.96,-80610.29,45790.84,-17409.72,-52229.17
+19808,Sunrise Godwarlock,The Temple of Merciless Necromancy,50.94,Goddesses' Spectral Poison Steel,233.00,5023.18,296.81,1170400.94,69156.73,632174.41,1871732.08

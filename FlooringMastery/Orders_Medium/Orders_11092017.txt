@@ -1,0 +1,14 @@
+145,Lorraine "Utah" Adams,TX,0.50,Pinecones,80.00,1.50,2.00,120.00,160.00,0.00,280.00
+2098,Cathy "Wildfire" Neal,MT,3.00,Pinecones,116.00,1.50,2.00,174.00,232.00,12.18,418.18
+5800,Beth "Fortunate Shooter" Powell,IA,1.21,Pinecones,188.00,1.50,2.66,282.00,500.08,7.82,789.90
+6695,Michele Watson "the Loner",MT,3.00,Solid Oak,90.00,5.50,5.50,495.00,495.00,29.70,1019.70
+10360,"Doom" McCoy,MT,3.63,Dirt,254.00,0.50,1.00,127.00,254.00,15.24,396.24
+10668,Stella "the Bully",MO,2.20,Packed Dirt,265.00,1.00,1.50,265.00,397.50,13.25,675.75
+10718,Black Beck,IA,1.21,Packed Dirt,120.00,1.00,1.50,120.00,180.00,3.00,303.00
+13890,Minnie Lawson "the Apostle",TX,0.67,Packed Dirt,282.00,1.00,2.00,282.00,564.00,8.46,854.46
+16157,Gladys "Locoweed" Keller,AR,2.20,Cedar Planks,143.00,2.20,6.05,314.60,865.15,23.60,1203.35
+16461,Deborah "the Lady",AL,1.00,Leather,65.00,11.00,19.97,715.00,1298.05,20.13,2033.18
+18273,Vengeful Robertson,AR,2.20,Pinecones,179.00,1.50,2.66,268.50,476.14,14.89,759.53
+18515,Renee "Hellish Empress" Banks,AR,2.20,Pebbles,100.00,0.88,4.84,88.00,484.00,11.44,583.44
+19754,Jo "the Joker",TX,0.67,Beechwood,200.00,3.63,6.05,726.00,1210.00,19.36,1955.36
+21843,Helen Webb "the Dancer",ND,1.67,Pinecones,265.00,1.50,2.66,397.50,704.90,22.05,1124.45

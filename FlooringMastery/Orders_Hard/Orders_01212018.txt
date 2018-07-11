@@ -1,0 +1,18 @@
+1205,Metalghoul,The Citadel of Alammius,3.18,Primordial False Gold,275.00,4459.34,226.00,1226318.50,62150.00,38654.06,1327122.56
+1961,Cinderember,The Forsaken Tomb of Devastation,0.00,Angels' Adamant,283.00,1304.00,179.30,369032.00,50741.90,0.00,419773.90
+2840,Sunrise Godwarlock,The Bastion of the Lich Tyrant,43.00,Rocklava Mithril Of Revenants,285.00,1818.30,13.03,518215.50,3713.55,224429.49,746358.54
+6820,Emberspawn,Noble's Village,27.50,Primal Adamant,276.00,4562.80,273.90,1259332.80,75596.40,373780.18,1708709.38
+7878,"Maeglodor, God of Thieves",Barad Kesa,4.32,Meteoric Mirrormuck Orichalcum Of The Forests,165.00,2158.20,185.77,356103.00,30652.05,15470.20,402225.25
+8726,Chainnail,The Fen of the Necromancer,54.57,Ghouls' Imperial Soulzephyr Mithril Of The Seas,338.00,4123.68,122.49,1393803.84,41401.62,789363.00,2224568.46
+9628,Jericho Wolf,Fellfen Keep,46.23,Shadow Steel,95.00,4677.78,465.30,444389.10,44203.50,224752.60,713345.20
+12977,Burnchill The Evil,The Fortress of Gama,10.16,Mistgold Of Men,104.00,3372.28,53.24,350717.12,5536.96,35625.41,391879.49
+14387,Magus Felldrake,The Secret Shrine of the Gargoyle Count,-2.00,Sprites' Transcendent Mud Lead Of The South,293.00,2081.80,321.86,609967.40,94304.98,-14085.45,690186.93
+15223,Dawn Darkzealot,The Dark Caverns of Woe,3.29,Violetdream Iron,272.00,1224.69,349.36,333115.68,95025.92,12844.25,440985.85
+18560,Spikerivet,Boiaburh Keep,17.60,Meteoric Dustzephyr Orichalcum,386.00,375.00,268.49,144750.00,103637.14,44709.69,293096.83
+18563,Evilbrood,The Lewd King,32.67,Sirens' Rockgold,302.00,-352.01,199.96,-106307.02,60387.92,-15153.30,-61072.40
+19110,Rose Anchor,Hafeld Keep,46.71,Unspeakable Rotsoul Mithril Of Souls,294.00,248.00,485.85,72912.00,142839.90,101403.39,317155.29
+19182,Bane Veil,The Forsaken Delve of Lord Greywulf,42.90,Ghostly Soul Adamant,301.00,3222.96,229.53,970110.96,69088.53,446855.78,1486055.27
+19427,"Ariel, God of Luck",Noble's Village,33.28,Witchs' Forbidden Rockrainbow Bronze,232.00,655.60,425.92,152099.20,98813.44,82801.17,333713.81
+19825,"Baltha, Goddess of Knowledge",Weke Tower,-0.07,Grayplatinum,244.00,3032.59,306.97,739951.96,74900.68,0.00,814852.64
+21088,"Melcha, Goddess of Thieves",South Brightcrown Borough,42.25,Yellow Mistearth Copper,202.00,5536.45,-33.15,1118362.90,-6696.30,466899.97,1578566.57
+23008,Law Lionwatcher,Kewold Stronghold,10.74,Djinni's Spectral Shadowlead Of Life,388.00,4484.14,394.00,1739846.32,152872.00,208199.02,2100917.34

@@ -1,0 +1,18 @@
+777,Mecharig The Living Device,Boiaburh Keep,16.00,Muck Orichalcum Of Ogres,260.00,3115.32,274.19,809983.20,71289.40,141003.62,1022276.22
+4970,Law Lionwatcher,Tradun Castle,34.24,Yellow Mistearth Copper,189.00,4575.58,-27.40,864784.62,-5178.60,292266.05,1151872.07
+5446,Spiketerror The Skeletal,The Dungeon of Merciless Woe,38.62,Stone Soulsteel Of The Skies,266.00,1798.28,13.21,478342.48,3513.86,187923.97,669780.31
+5745,Fate Ivycaster,Bergfison's Deep,36.00,White Platinum,107.00,-52.59,145.00,-5627.13,15515.00,3559.63,13447.50
+6430,Sunset Knightclaw,The Tower of the Demon Warlord,15.75,Unholy Poison Copper Of The Mountains,250.00,580.91,-9.24,145227.50,-2310.00,22866.80,165784.30
+6602,Icechill The Frigid,Noble's Village,27.50,Primal Adamant,88.00,4562.80,273.90,401526.40,24103.20,119176.29,544805.89
+8027,Rouge Tombreaper,The Cuitamba Jungle,30.80,Poison Adamant,234.00,1151.38,58.58,269422.92,13707.72,87770.50,370901.14
+9881,"Maglioneth, Lord of the Sun",The Broken Shield,37.23,Ensorceled Gold Of The Dawn,117.00,5713.98,402.92,668535.66,47141.64,264800.60,980477.90
+10053,"Suriel, Lord of Animals",The Forsaken Sepulcher of Sorrows,48.79,Djinni's Spectral Shadowlead Of Life,162.00,3705.90,325.62,600355.80,52750.44,320022.06,973128.30
+12728,Nailpiston The Grasping,South Brightcrown Borough,42.25,Forgotten Mithril,163.00,1104.73,316.00,180070.99,51508.00,97263.18,328842.17
+12786,Wind Dire,The Glano Forest,3.00,Mind Lead,196.00,2844.70,309.10,557561.20,60583.60,18544.34,636689.14
+12797,"Nelalwe, Lady of Fire",The Cracked Chalice,2.52,Swordbronze,284.00,1485.01,447.01,421742.84,126950.84,16460.81,565154.49
+14023,"Maeglodor, God of Thieves",The Cracked Chalice,2.52,Witchs' Forbidden Rockrainbow Bronze,228.00,655.60,387.20,149476.80,88281.60,7132.75,244891.15
+19215,Nailpiston The Grasping,The Barrow of Malefic Ages,19.70,Otherworldly Mirror Orichalcum,217.00,-328.76,526.35,-71340.92,114217.95,8575.41,51452.44
+19392,Zeal Bladewitch,Archfane District,36.16,Sirens' Rockgold,212.00,-352.01,199.96,-74626.12,42391.52,-11604.46,-43839.06
+20543,Fate Seeker,The Forsaken Tomb of Devastation,0.00,Phantasmal Tin Of The Swamps,92.00,5964.74,-7.99,548756.08,-735.08,0.00,548021.00
+20667,Springsprocket,The Black Barrow of Zago the Possessed,30.80,Greenlead,100.00,959.65,179.65,95965.00,17965.00,35318.30,149248.30
+21564,Seraphim Tsunami,Pawic Keep,0.62,Planar Rainfate Mithril,313.00,1304.42,320.52,408283.46,100322.76,5086.06,513692.28

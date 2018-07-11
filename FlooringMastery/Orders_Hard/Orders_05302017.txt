@@ -1,0 +1,20 @@
+1116,Claw Mist,The Citadel of Alammius,3.18,Mithril Of Legend,126.00,2068.00,52.07,260568.00,6560.82,8013.86,275142.68
+2127,Bronzespawn,The Forsaken Tomb of Devastation,0.00,Angels' Adamant,114.00,1304.00,179.30,148656.00,20440.20,0.00,169096.20
+2206,Fate Seeker,Barad Cune,26.00,Magicians' Legendary Poison Metal,237.00,2043.26,229.81,484252.62,54464.97,140066.57,678784.16
+2648,Seraph Jester,The Grey Plains,18.15,Greenlead,271.00,721.00,134.97,195391.00,36576.87,41754.22,273722.09
+3732,Chainnail,The Pilgrim's Cup,41.93,Ensorceled Sandmetal Of Spirits,202.00,2956.98,87.00,597309.96,17574.00,258251.26,873135.22
+4218,Springcoil,Ring District,35.00,Phantasmal Tin Of The Swamps,265.00,4074.00,-6.60,1079610.00,-1749.00,377251.35,1455112.35
+4276,"Nelalwe, Lady of Fire",Peley Keep,19.78,Foul Ice Bronze Of Life,267.00,-92.21,129.80,-24620.07,34656.60,2007.31,12043.84
+4845,Graveterror,Grove Farthing,18.00,Zephyr Adamant,248.00,4224.00,102.93,1047552.00,25526.64,193154.16,1266232.80
+6854,"Lionare, God of the Lost",Dysley Stronghold,45.98,Ghostly Soul Adamant,294.00,3222.96,229.53,947550.24,67481.82,466914.75,1481946.81
+10094,Lightning Brand,The Warrior and Flagon,48.40,Mithril Of Legend,212.00,2274.80,63.01,482257.60,13358.12,237895.55,733511.27
+11129,Lance Knightseraph,Gili's Delve,-5.56,Primordial False Gold,84.00,5395.80,226.00,453247.20,18984.00,-28333.87,443897.33
+13968,Emberfire,Tradun Castle,37.66,Green Dustlightning Mercury,180.00,4255.57,35.20,766002.60,6336.00,293488.67,1065827.27
+14328,Cinderember,The Lost Sanctum of Woe,3.00,Glowpearl Adamant Of Spirits,203.00,398.09,374.00,80812.27,75922.00,4702.03,161436.30
+14617,Jericho Wolf,Archscepter Borough,3.30,Witchs' Forbidden Rockrainbow Bronze,332.00,655.60,425.92,217659.20,141405.44,10771.94,369836.58
+16942,"Ariel, God of Luck",The Citadel of Lord Greywulf,33.04,Unspeakable Rotsoul Mithril Of Souls,189.00,248.00,441.68,46872.00,83477.52,43015.34,173364.86
+17801,Metalbrood,The Citadel of Alammius,3.85,Hidden Shadowice Lead,18.00,2729.00,-62.23,49122.00,-1120.14,1920.07,49921.93
+18738,Claw Mist,The Demon and Toad,28.74,Sirens' Rockgold,135.00,-352.01,199.96,-47521.35,26994.60,-5952.76,-26479.51
+18861,Cinderflame,Hafeld Keep,46.71,Mana-touched Greenglitter Gold Of Giants,287.00,1291.38,514.25,370626.06,147589.75,243561.43,761777.24
+22569,Snowflame The Evil,Eved Castle,5.09,Djinni's Mind Fogiron,132.00,2531.12,119.21,334107.84,15735.72,17492.18,367335.74
+22889,"Baltha, Goddess of Knowledge",Citadel Ward,37.80,Falserainbow Lead,273.00,3215.00,256.30,877695.00,69969.90,360112.66,1307777.56

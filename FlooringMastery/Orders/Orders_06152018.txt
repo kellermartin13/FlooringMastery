@@ -1,0 +1,24 @@
+3837,Surgeon Grant,WY,0.31,Leather,234.00,10.00,16.50,2340.00,3861.00,0.00,6201.00
+4646,Kathy Murphy "the Thinker",NM,2.20,Packed Dirt,265.00,1.00,1.50,265.00,397.50,13.25,675.75
+4833,Joanne "Damned" Miles,TX,0.50,Reeds,300.00,0.75,2.20,225.00,660.00,0.00,885.00
+4956,Maureen "Cursed" Andrews,NM,2.20,Brick,226.00,4.84,6.05,1093.84,1367.30,49.22,2510.36
+6629,Stella "the Bully",NM,2.20,Pinecones,130.00,1.50,2.66,195.00,345.80,10.82,551.62
+9849,Gloria "Devil" McCoy,ND,1.25,Reeds,128.00,0.75,2.20,96.00,281.60,3.78,381.38
+10399,Gladys "Locoweed" Keller,OK,2.20,Reeds,235.00,0.75,2.20,176.25,517.00,13.86,707.11
+11256,Allison "Steel Gravedigger" Douglas,NM,2.20,Brick,169.00,4.84,6.66,817.96,1125.54,38.87,1982.37
+11818,Kathy Murphy "the Thinker",IA,1.21,Dirt,92.00,0.50,1.00,46.00,92.00,1.38,139.38
+13105,Mabel "Vixen Cursed" King,AR,2.20,Pebbles,124.00,0.88,4.84,109.12,600.16,14.19,723.47
+14525,Vicki "Mesa" Rhodes,AR,2.20,Cedar Planks,338.00,2.20,6.05,743.60,2044.90,55.77,2844.27
+14792,Surgeon Grant,ID,0.00,Pebbles,129.00,0.88,4.84,113.52,624.36,0.00,737.88
+15630,Victoria "the Dancer",ID,0.00,Packed Dirt,213.00,1.10,2.20,234.30,468.60,0.00,702.90
+16054,Melissa "Lonesome Stalker" Riley,IA,1.21,Cedar Planks,23.00,2.20,6.05,50.60,139.15,1.90,191.65
+16637,Friendly Howell,AL,1.00,Solid Oak,97.00,5.50,6.05,533.50,586.85,11.20,1131.55
+18048,Cathy "Wildfire" Neal,TX,0.67,Dirt,135.00,0.50,1.00,67.50,135.00,2.02,204.52
+18246,Beth "Fortunate Shooter" Powell,NM,2.93,Solid Oak,182.00,5.50,6.66,1001.00,1212.12,66.39,2279.51
+19138,Kathy Murphy "the Thinker",MT,3.99,Beechwood,148.00,3.63,5.50,537.24,814.00,54.05,1405.29
+19203,Lorraine "Utah" Adams,IA,1.33,Pebbles,182.00,0.88,4.84,160.16,880.88,10.41,1051.45
+19826,Heather "Friendly Gambler" Barrett,TX,0.67,Cedar Planks,272.00,2.20,6.66,598.40,1811.52,24.10,2434.02
+20125,Vicki "Mesa" Rhodes,KS,0.55,Packed Dirt,204.00,1.10,2.42,224.40,493.68,7.18,725.26
+21149,Cathy "Wildfire" Neal,AR,2.20,Cedar Planks,185.00,2.20,6.66,407.00,1232.10,32.78,1671.88
+22476,April "Thunderbird" Dunn,AL,1.00,Brick,231.00,5.32,6.66,1228.92,1538.46,27.67,2795.05
+22671,Black Beck,CA,0.67,Solid Oak,345.00,5.50,6.66,1897.50,2297.70,41.95,4237.15

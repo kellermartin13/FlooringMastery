@@ -1,0 +1,15 @@
+554,"Alas, Lord of Plague",The Forsaken Tomb of Devastation,0.00,Trolls' Mist Poisonplatinum Of The Twilight,224.00,516.17,394.90,115622.08,88457.60,0.00,204079.68
+1003,Sunset Knightclaw,The Wizard's House,43.58,Imperial Fate Steel,302.00,2721.75,-37.13,821968.50,-11213.26,356732.31,1167487.55
+1062,Spikerivet,Lamp Borough,4.95,Primordial Mud Orichalcum,165.00,-387.90,77.37,-64003.50,12766.05,-2561.87,-53799.32
+1486,Icechill The Frigid,Gifeld Castle,6.22,Venom Jewelmetal Of The Desert,143.00,1388.00,224.00,198484.00,32032.00,13830.96,244346.96
+1945,Cult Godseeker,Hartshill Ward,41.98,Incubi's Mirrorfog Iron Of The Ocean,53.00,4798.76,-19.59,254334.28,-1038.27,106384.32,359680.33
+4845,Spikesnare,The Archer and Scroll,39.60,Primordial Mud Orichalcum,214.00,-387.90,77.37,-83010.60,16557.18,-26581.37,-93034.79
+4999,Beamtrap,Archring Borough,17.93,Devils' Falserot Silver,273.00,1668.51,182.71,455503.23,49879.83,90968.95,596352.01
+5687,Seraph Jester,Gena's Hold,2.20,White Platinum,118.00,-52.59,145.00,-6205.62,17110.00,218.09,11122.47
+9359,Rouge Tombreaper,The Forsaken Sepulcher of Sorrows,48.79,Golems' Stonesapphire Gold Of The Glacier,221.00,3672.77,105.97,811682.17,23419.37,409199.75,1244301.29
+9989,Evilfear The Horrorific,The Chuallanto Jungle,37.00,Magicians' Legendary Poison Metal,267.00,2247.59,229.81,600106.53,61359.27,244742.35,906208.15
+13465,Spikesnare,The Broken Shield,37.23,Green Dustlightning Mercury,244.00,3868.70,35.20,943962.80,8588.80,352444.09,1304995.69
+16896,Tarot Dawn,Gena's Hold,2.66,Mistgold Of Men,295.00,4080.46,53.24,1203735.70,15705.80,36583.24,1256024.74
+16914,"Avriel, God of Death",The Temple of Merciless Necromancy,50.94,Warlocks' Timerot Mithril,342.00,2917.07,112.00,997637.94,38304.00,528330.39,1564272.33
+18281,"Ingwenel, God of War",The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,216.00,2977.81,125.84,643206.96,27181.44,241339.82,911728.22
+18606,"Byzou, God of Animals",Haukri's Hold,27.83,Sirens' Rockgold,254.00,-352.01,199.96,-89410.54,50789.84,-10813.80,-49434.50

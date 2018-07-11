@@ -1,0 +1,18 @@
+513,"Selik, God of Death",The Bastion of Gothmog of Udun,37.45,Falserainbow Lead,175.00,3215.00,233.00,562625.00,40775.00,223258.00,826658.00
+4264,Springsprocket,The Pilgrim's Cup,41.93,Vampires' Fang Emeraldsilver,176.00,2283.46,455.55,401888.96,80176.80,202467.62,684533.38
+5055,Steelterror The Blade,The Chuallanto Jungle,37.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas,194.00,4123.68,122.49,799993.92,23763.06,304790.08,1128547.06
+5230,Rune Rougehate,The Tower of Sheshbazzu,3.30,Ghostly Soul Adamant,151.00,3222.96,229.53,486666.96,34659.03,15639.78,536965.77
+7262,Emberspawn,The Broken Shield,37.23,Toxic Mistlead Of The Past,321.00,1557.54,136.06,499970.34,43675.26,201148.87,744794.47
+8047,"Ahah, Goddess of Knowledge",The Cuitamba Jungle,30.80,Djinni's Mind Fogiron,221.00,2301.02,74.02,508525.42,16358.42,162713.99,687597.83
+8739,"Penur, Lord of the Sea",The Citadel of Tattena the Sinister,12.13,Ghouls' Imperial Soulzephyr Mithril Of The Seas,102.00,4123.68,122.49,420615.36,12493.98,51973.12,485082.46
+9839,"Baltha, Goddess of Knowledge",The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,216.00,-368.87,128.90,-79675.92,27842.40,1555.01,-50278.51
+9982,Song Runetomb,The Dungeon of Dismal Terror,-3.50,Pearl Mirrorice Steel Of Changelings,50.00,271.51,38.07,13575.50,1903.50,-619.16,14859.84
+10732,Tarot Dawn,The Dismal Marsh,6.05,Litches' Fatal Mithril Of The Past,280.00,1327.98,369.05,371834.40,103334.00,28510.10,503678.50
+10756,Dagger Reaper,Barad Cune,28.60,Venom Timegold Of Dwarves,189.00,3036.00,269.00,573804.00,50841.00,181147.05,805792.05
+11237,"Gadriel, God of Resurrection",Eved Castle,5.09,God-touched Greengem Platinum,136.00,1281.72,-39.60,174313.92,-5385.60,8446.42,177374.74
+14846,Clash Lonedrake,The Shadow Downs,13.21,Shadow Steel,12.00,5660.12,511.83,67921.44,6141.96,9628.24,83691.64
+16609,Rouge Roguemist,The Fortress of Gama,10.16,Planar Rainfate Mithril,89.00,1185.84,320.52,105539.76,28526.28,13406.60,147472.64
+16786,"Sielach, God of Fate",Love Keep,9.32,Ghostly Magic Adamant,197.00,4836.38,230.90,952766.86,45487.30,89842.87,1088097.03
+18394,Sunrise Godwarlock,Lamp Borough,4.95,Phantasmal Plague Adamant,285.00,-204.63,-7.18,-58319.55,-2046.30,-3018.29,-63384.14
+22054,"Iran, Lord of Nightmares",The Black Barrow of Bery,-0.10,Mana-touched Greenglitter Gold Of Giants,245.00,1420.52,514.25,348027.40,125991.25,0.00,474018.65
+22194,Fate Seeker,The Secret Shrine of the Gargoyle Count,-2.00,Starlight Pearldream Bronze,250.00,354.31,147.40,88577.50,36850.00,-2508.55,122918.95

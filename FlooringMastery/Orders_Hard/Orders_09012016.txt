@@ -1,0 +1,17 @@
+1719,Beamsprocket The Grasping,Tradun Castle,31.13,Grayplatinum,123.00,2071.30,279.06,254769.90,34324.38,89619.23,378713.51
+2174,Sunrise Godwarlock,The Tomb of Hellish Ruin,14.00,Incubi's Mirrorfog Iron Of The Ocean,230.00,4798.76,-19.59,1103714.80,-4505.70,153889.27,1253098.37
+2306,Cinderflame,The Grey Plains,18.15,Toxin Iceplatinum Of The Undead,150.00,-283.29,-49.00,-42493.50,-7350.00,-8971.83,-58815.33
+4052,Zeal Bladewitch,The Hunter and Rose,40.40,Sapphire Mindlead,291.00,1307.71,47.00,380543.61,13677.00,157688.24,551908.85
+4703,"Melcha, Goddess of Thieves",Tradun Castle,34.24,Primordial Mud Orichalcum,107.00,-387.90,77.37,-41505.30,8278.59,-11297.08,-44523.79
+6458,Icechill The Frigid,South Brightcrown Borough,42.25,Grayplatinum,160.00,2506.27,279.06,401003.20,44649.60,187174.18,632826.98
+7055,Gravebone,The Forsaken Delve of Lord Greywulf,39.00,Unholy Poison Copper Of The Mountains,209.00,580.91,-9.24,121410.19,-1931.16,46596.82,166075.85
+9568,Claw Mist,The Forsaken Sepulcher of Sorrows,48.79,Spectres' Shadowy Terrorglow Adamant Of Life,201.00,4694.80,205.50,943654.80,41305.50,482630.55,1467590.85
+9629,Spikespawn,Tower Farthing,27.12,Goddesses' Spectral Poison Steel,155.00,3773.99,269.83,584968.45,41823.65,169233.87,796025.97
+10540,Lightning Brand,The Dread Hive of Illfang the Kobold Lord,1.33,Venom Timegold Of Dwarves,339.00,3036.00,269.00,1029204.00,91191.00,11203.95,1131598.95
+11849,Lance Knightseraph,Archring Borough,17.93,Phantasmal Tin Of The Swamps,214.00,4074.00,-6.60,871836.00,-1412.40,156676.25,1027099.85
+18666,Boltcrank The Trapper,The Dark Caverns of Woe,3.29,Ensorceled Sandmetal Of Spirits,95.00,2956.98,95.70,280913.10,9091.50,8700.14,298704.74
+19315,Lance Knightseraph,The Pilgrim's Cup,46.12,Otherworldly Mirror Orichalcum,367.00,-328.76,526.35,-120654.92,193170.45,33357.14,105872.67
+19814,Wheelbolt The Machine,Fellfen Keep,61.53,Goddesses' Spectral Poison Steel,196.00,5023.18,296.81,984543.28,58174.76,646485.18,1689203.22
+19855,Zeal Bladewitch,The Tomb of Hellish Ruin,16.94,Djinni's Mind Fogiron,363.00,2531.12,98.52,918796.56,35762.76,162275.08,1116834.40
+21660,Bane Veil,Pewold Keep,22.57,Hidden Shadowice Lead,164.00,2729.00,-62.23,447556.00,-10205.72,100590.56,537940.84
+22757,Claw Mist,The Lost Sanctum of Woe,3.30,Devils' Falserot Silver,140.00,2220.79,182.71,310910.60,25579.40,10094.70,346584.70

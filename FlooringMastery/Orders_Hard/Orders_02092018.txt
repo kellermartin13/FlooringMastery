@@ -1,0 +1,20 @@
+909,"Azah, Goddess of Fate",The Shadow Downs,13.21,Yellow Mistearth Copper,243.00,4159.62,-27.40,1010787.66,-6658.20,130536.83,1134666.29
+970,Burnbrood The Freezer,The Citadel of Alammius,3.18,Muck Orichalcum Of Ogres,216.00,3115.32,274.19,672909.12,59225.04,21964.02,754098.18
+2553,Valentine Lawslayer,The Citadel of Lord Greywulf,30.04,Unholy Poison Copper Of The Mountains,209.00,528.10,-9.24,110372.90,-1931.16,32532.52,140974.26
+2914,Maverick Wind,The Archer and Blade,9.00,Rocklava Mithril Of Revenants,121.00,1818.30,13.03,220014.30,1576.63,19943.18,241534.11
+3061,"Iran, Lord of Nightmares",The Desert of Flames,39.00,Thunderbirds' Transcendent Dreamiron,57.00,2068.41,237.70,117899.37,13548.90,51264.83,182713.10
+3140,Shiverflame The Freezer,The Grey Plains,19.97,Phantasmal Smokezephyr Mercury Of Men,279.00,-317.16,69.00,-88487.64,19251.00,-13847.33,-83083.97
+4129,Flameshiver,The Dungeon of Merciless Woe,38.62,Ensorceled Sandmetal Of Spirits,281.00,2956.98,87.00,830911.38,24447.00,333589.77,1188948.15
+6235,Nailpiston The Grasping,The Broken Arrow,30.07,Greenlead,235.00,793.10,148.47,186378.50,34890.45,66380.68,287649.63
+6268,Gravebone The Unspeakable,The Archer and Blade,9.00,God-touched Greengem Platinum,28.00,1281.72,-36.00,35888.16,-1008.00,3139.21,38019.37
+6320,Evilbrood,The Cuitamba Jungle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,176.00,3349.50,324.73,589512.00,57152.48,181066.05,827730.53
+7756,Lightning Brand,Lordsgate Farthing,41.14,Fairies' Supreme Mistsmoke Lead Of The Future,341.00,3349.50,324.73,1142179.50,110732.93,513694.10,1766606.53
+9053,Seraph Jester,Weke Tower,-0.05,Foul Ice Bronze Of Life,261.00,-92.21,129.80,-24066.81,33877.80,0.00,9810.99
+9955,Seraphim Tsunami,The Dungeon of Dismal Terror,-3.50,Shadowy Adamant,221.00,618.93,478.58,136783.53,105766.18,-9701.99,232847.72
+15978,Fate Ivycaster,The Vaults of the Shadow Emperor,33.00,Toxin Iceplatinum Of The Undead,104.00,-377.06,-59.29,-39214.24,-6166.16,-14975.53,-60355.93
+16125,"Sielach, God of Fate",The Lost Sanctum of Woe,3.30,Thunderbirds' Transcendent Dreamiron,381.00,2275.25,237.70,866870.25,90563.70,28723.02,986156.97
+16404,Cinderember,Pewold Keep,22.57,God-touched Faterainbow Orichalcum Of Spectres,97.00,370.41,32.01,35929.77,3104.97,8977.99,48012.73
+20220,Rouge Roguemist,The Warrior and Flagon,53.24,Planar Rainfate Mithril,158.00,1185.84,320.52,187362.72,50642.16,126142.59,364147.47
+21739,Steelterror The Blade,Barad Cune,28.60,Poison Adamant,141.00,1266.52,70.88,178579.32,9994.08,54686.29,243259.69
+22256,Storm Seraphheart,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,351.00,5536.45,-33.15,1943293.95,-11635.65,0.00,1931658.30
+23023,"Baltha, Goddess of Knowledge",Barad Kesa,5.23,Mithril Of The Tropics,283.00,4992.58,11.98,1412900.14,3390.34,70814.52,1487105.00

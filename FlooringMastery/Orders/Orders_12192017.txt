@@ -1,0 +1,19 @@
+830,Lorraine "Utah" Adams,ID,0.00,Brick,239.00,4.00,5.00,956.00,1195.00,0.00,2151.00
+1080,Lorraine "Utah" Adams,MO,2.20,Reeds,240.00,0.75,2.00,180.00,480.00,13.20,673.20
+2097,Vengeful Robertson,IA,1.00,Brick,317.00,4.00,5.00,1268.00,1585.00,28.53,2881.53
+2219,Cynthia "the Vixen",UT,0.00,Cedar Planks,160.00,2.00,5.50,320.00,880.00,0.00,1200.00
+3435,"Scalphunter" Kennedy,KS,0.50,Pinecones,266.00,1.50,2.20,399.00,585.20,0.00,984.20
+5692,Tina "Lady" Anderson,OK,2.20,Cedar Planks,165.00,2.00,5.50,330.00,907.50,24.75,1262.25
+5834,Surgeon Grant,MS,3.00,Cedar Planks,201.00,2.00,5.50,402.00,1105.50,45.22,1552.72
+6268,Allison "Steel Gravedigger" Douglas,MT,3.00,Reeds,109.00,0.75,2.20,81.75,239.80,9.65,331.20
+7443,Melissa "Lonesome Stalker" Riley,KS,0.50,Cedar Planks,109.00,2.20,6.05,239.80,659.45,0.00,899.25
+8862,Lucky Johnson,IA,1.21,Beechwood,292.00,3.00,5.50,876.00,1606.00,24.82,2506.82
+9339,Cynthia "the Vixen",NV,0.31,Beechwood,292.00,3.00,5.50,876.00,1606.00,0.00,2482.00
+10085,Theresa "Kid" Robinson,NM,2.20,Pinecones,289.00,1.50,2.66,433.50,768.74,24.04,1226.28
+12018,"Scalphunter" Kennedy,NM,2.42,Reeds,281.00,0.75,2.20,210.75,618.20,16.58,845.53
+13529,"Doom" McCoy,MS,3.00,Packed Dirt,168.00,1.00,2.00,168.00,336.00,15.12,519.12
+14461,Vanessa "Scalper" Rhodes,ND,1.38,Brick,95.00,5.32,6.66,505.40,632.70,11.38,1149.48
+15822,Theresa "Kid" Robinson,IA,1.21,Brick,263.00,5.32,6.66,1399.16,1751.58,31.51,3182.25
+17656,Tina "Lady" Anderson,MO,2.20,Reeds,352.00,0.83,2.20,292.16,774.40,21.33,1087.89
+19776,Theresa "Scalphunter" Romero,WY,0.31,Pebbles,255.00,0.88,4.84,224.40,1234.20,0.00,1458.60
+22734,Jo "the Joker",MS,3.00,Pebbles,224.00,0.88,5.32,197.12,1191.68,41.66,1430.46

@@ -1,0 +1,17 @@
+3945,Susan "Damnation" Fleming,NV,0.25,Packed Dirt,224.00,1.00,1.50,224.00,336.00,0.00,560.00
+4607,Maureen "Cursed" Andrews,ND,1.25,Solid Oak,80.00,5.50,5.50,440.00,440.00,8.80,888.80
+5131,Marie "Raven" Chapman,MO,2.20,Brick,177.00,4.84,6.05,856.68,1070.85,38.55,1966.08
+5508,Cathy "Wildfire" Neal,TX,0.50,Solid Oak,174.00,5.50,5.50,957.00,957.00,0.00,1914.00
+6508,Dorothy "the Hunter",MT,3.00,Brick,284.00,4.84,6.66,1374.56,1891.44,97.98,3363.98
+6610,Susan "Damnation" Fleming,ID,0.00,Brick,102.00,4.84,6.66,493.68,679.32,0.00,1173.00
+7654,Mabel "Vixen Cursed" King,AL,1.00,Pebbles,186.00,0.80,4.84,148.80,900.24,10.49,1059.53
+9187,"Bane" Jennings,MS,3.00,Reeds,255.00,0.75,2.20,191.25,561.00,22.57,774.82
+12618,Friendly Howell,TX,0.67,Beechwood,149.00,3.30,5.50,491.70,819.50,13.11,1324.31
+14021,Theresa "Scalphunter" Romero,CA,0.61,Leather,210.00,11.00,18.15,2310.00,3811.50,61.22,6182.72
+16408,"Sunrise" Miles,TX,0.67,Dirt,192.00,0.50,1.00,96.00,192.00,2.88,290.88
+17285,April "Thunderbird" Dunn,AR,2.20,Cedar Planks,286.00,2.20,6.66,629.20,1904.76,50.68,2584.64
+20198,Cathy "Wildfire" Neal,NM,2.93,Dirt,322.00,0.50,1.00,161.00,322.00,14.49,497.49
+21014,Theresa "Scalphunter" Romero,ND,1.67,Solid Oak,171.00,5.50,6.66,940.50,1138.86,41.59,2120.95
+22069,Elizabeth "the Bully",KS,0.55,Packed Dirt,297.00,1.10,2.42,326.70,718.74,10.45,1055.89
+22503,Geraldine "Revenge" Warren,ID,0.00,Cedar Planks,261.00,2.20,6.66,574.20,1738.26,0.00,2312.46
+23353,Vengeful Montgomery,MS,3.00,Brick,59.00,5.32,6.66,313.88,392.94,21.20,728.02

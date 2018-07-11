@@ -1,0 +1,18 @@
+248,Cynthia "the Vixen",OK,2.00,Packed Dirt,156.00,1.00,1.50,156.00,234.00,7.80,397.80
+2381,Black Beck,TX,0.50,Brick,94.00,4.00,5.50,376.00,517.00,0.00,893.00
+4167,Helen Webb "the Dancer",MT,3.00,Pinecones,81.00,1.50,2.42,121.50,196.02,9.53,327.05
+5118,Lena Chapman "the Bully",UT,0.00,Dirt,180.00,0.50,1.00,90.00,180.00,0.00,270.00
+5308,Friendly Howell,ID,0.00,Cedar Planks,187.00,2.00,5.50,374.00,1028.50,0.00,1402.50
+5744,Maureen "Cursed" Andrews,MO,2.20,Leather,114.00,10.00,18.15,1140.00,2069.10,64.18,3273.28
+8539,Mattie Grant "the Gambler",IA,1.21,Leather,183.00,10.00,18.15,1830.00,3321.45,51.51,5202.96
+9377,Marie "Raven" Chapman,OK,2.20,Packed Dirt,232.00,1.00,1.50,232.00,348.00,11.60,591.60
+10256,Renee "Loco Tracker" Jordan,TX,0.61,Pebbles,315.00,0.88,4.84,277.20,1524.60,18.02,1819.82
+12158,Theresa "Scalphunter" Romero,AL,1.00,Pinecones,115.00,1.50,2.66,172.50,305.90,4.78,483.18
+12871,Vicki "Mesa" Rhodes,WY,0.31,Packed Dirt,203.00,1.00,1.82,203.00,369.46,0.00,572.46
+15418,Friendly Howell,MS,3.00,Pinecones,51.00,1.50,2.66,76.50,135.66,6.36,218.52
+16524,Jacqueline "Riding Doc" Washington,NV,0.31,Pebbles,301.00,0.88,4.84,264.88,1456.84,0.00,1721.72
+16913,Mabel "Vixen Cursed" King,ID,0.00,Leather,114.00,11.00,19.97,1254.00,2276.58,0.00,3530.58
+17310,Vicki "Mesa" Rhodes,MO,2.20,Pinecones,147.00,1.50,2.66,220.50,391.02,12.23,623.75
+18243,Minnie Lawson "the Apostle",AL,1.00,Packed Dirt,217.00,1.10,2.20,238.70,477.40,7.16,723.26
+20035,Ida Russell "the Rustler",OK,2.66,Packed Dirt,245.00,1.10,2.42,269.50,592.90,25.87,888.27
+20220,Ida Russell "the Rustler",AL,1.00,Leather,181.00,11.00,19.97,1991.00,3614.57,56.06,5661.63

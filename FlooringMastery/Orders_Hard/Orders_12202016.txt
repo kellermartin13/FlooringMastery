@@ -1,0 +1,23 @@
+4766,"Alas, Lord of Plague",The Tower of Sabiesu the Awesome,4.40,Trolls' Rubymercury Of The Sunset,270.00,506.00,198.00,136620.00,53460.00,7603.20,197683.20
+4901,Fate Seeker,Archring Borough,17.93,Venom Timegold Of Dwarves,197.00,3036.00,269.00,598092.00,52993.00,117195.30,768280.30
+6092,"Lionare, God of the Lost",The Shadow Downs,13.21,Greenlead,190.00,793.10,148.47,150689.00,28209.30,23256.78,202155.08
+6404,Flora Amberslayer,The Tower of Aces the Accursed,13.31,Timeiron,235.00,1596.00,228.33,375060.00,53657.55,55733.28,484450.83
+7107,Sunrise Godwarlock,The Lost Crypts of Sorrows,35.87,Poison Adamant,231.00,1151.38,58.58,265968.78,13531.98,100620.27,380121.03
+8804,Storm Seraphheart,The Bastion of the Vampire Duke,19.28,Rocklava Mithril Of Revenants,316.00,1818.30,14.33,574582.80,4528.28,110031.11,689142.19
+9313,Bedlam Spiritraven,The Bastion of the Vampire Duke,19.28,Phantasmal Smokezephyr Mercury Of Men,226.00,-383.77,75.90,-86732.02,17153.40,-13219.94,-82798.56
+10646,Blazefreeze The Chiller,The Citadel of Lord Greywulf,33.04,Witchs' Forbidden Rockrainbow Bronze,334.00,596.00,387.20,199064.00,129324.80,108368.30,436757.10
+10693,"Ahah, Goddess of Knowledge",The Fortress of Gama,10.16,Witchs' Forbidden Rockrainbow Bronze,155.00,596.00,387.20,92380.00,60016.00,15239.60,167635.60
+11835,"Ariel, God of Luck",Archring Borough,17.93,Angels' Smoke Adamant Of The Mountains,91.00,3115.57,236.50,283516.87,21521.50,54906.91,359945.28
+11848,Evilember The Firey,The Bastion of the Lich Tyrant,43.00,Pearl Mirrorice Steel Of Changelings,90.00,271.51,38.07,24435.90,3426.30,11980.75,39842.95
+12291,Wheelspawn,The Tomb of Gothmog of Udun,-3.30,Incubi's Glittering Tin Of The Future,287.00,3349.54,79.86,961317.98,22919.82,-29527.13,954710.67
+12469,Harmony Angelchild,The Tomb of Gothmog of Udun,-3.30,Vampires' Fang Emeraldsilver,83.00,2762.99,455.55,229328.17,37810.65,-8014.16,259124.66
+12782,Flameshiver,Gawold Castle,6.05,Tin Of The Tundra,39.00,3123.86,174.91,121830.54,6821.49,7719.12,136371.15
+13230,Springpulley The Binder,The Lost Crypts of Sorrows,35.87,White Platinum,174.00,-63.64,159.50,-11073.36,27753.00,6004.67,22684.31
+14203,Deathspike The Terrifying,The Lewd King,27.00,Vampires' Hammer Emeraldmetal,125.00,379.45,25.84,47431.25,3230.00,13678.54,64339.79
+16176,"Selik, God of Death",The Lost Sanctum of Woe,3.30,Meteoric Dustzephyr Orichalcum,160.00,375.00,268.49,60000.00,42958.40,3088.75,106047.15
+17316,Freezebrood,The Cracked Chalice,2.52,Witchs' Forbidden Rockrainbow Bronze,301.00,655.60,425.92,197335.60,128201.92,9766.13,335303.65
+19431,Icechill The Frigid,North Grove Ward,7.99,Witchs' Forbidden Rockrainbow Bronze,266.00,655.60,425.92,174389.60,113294.72,23014.75,310699.07
+20002,Scarechain The Unspeakable,Boiaburh Keep,17.60,Angels' Smoke Adamant Of The Mountains,95.00,3427.13,260.15,325577.35,24714.25,63052.49,413344.09
+20382,Storm Seraphheart,Grori's Deep,66.50,Greenlead,267.00,959.65,179.65,256226.55,47966.55,200767.45,504960.55
+20583,Sunrise Godwarlock,The Dark Caverns of Woe,3.29,Vampires' Fang Emeraldsilver,110.00,3343.22,455.55,367754.20,50110.50,12535.94,430400.64
+20758,Flameflare The Evil,The Black Barrow of Bery,-0.10,Fairies' Supreme Mistsmoke Lead Of The Future,244.00,3349.50,324.73,817278.00,79234.12,0.00,896512.12

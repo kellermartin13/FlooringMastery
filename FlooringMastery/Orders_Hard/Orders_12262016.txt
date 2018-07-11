@@ -1,0 +1,15 @@
+53,Wheelbolt The Machine,Pewold Keep,16.95,Rainbowglitter Tin,100.00,4475.87,176.36,447587.00,17636.00,79087.91,544310.91
+487,Dawn Darkzealot,The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,137.00,2461.00,104.00,337157.00,14248.00,126505.80,477910.80
+4190,Bronzespike,Gifeld Castle,6.22,Yellow Mistearth Copper,246.00,4575.58,-27.40,1125592.68,-6740.40,67131.14,1185983.42
+5326,Jericho Wolf,The Lewd King,27.00,Ensorceled Sandmetal Of Spirits,203.00,2956.98,87.00,600266.94,17661.00,166840.54,784768.48
+7177,Spikesnare,Dysley Stronghold,45.98,Hidden Shadowice Lead,155.00,2729.00,-62.23,422995.00,-9645.65,190140.70,603490.05
+8226,Harmony Angelchild,Khali's Delve,52.71,Ensorceled Gold Of The Dawn,151.00,5713.98,402.92,862810.98,60840.92,489535.51,1413187.41
+8909,Bedlam Spiritraven,Gawold Castle,5.50,Violetstone Tin Of Death,296.00,2245.23,156.10,664588.08,46205.60,42647.62,753441.30
+12750,"Ingwenel, God of War",The Fortress of Gama,10.16,Phantasmal Smokezephyr Mercury Of Men,222.00,-464.37,75.90,-103090.14,16849.80,-8624.03,-94864.37
+13435,Snarepiston The Mechanical,The Broken Shield,37.23,Sapphire Mindlead,305.00,1307.71,47.00,398851.55,14335.00,152879.02,566065.57
+13623,Snaretool The Constructed,The Broken Shield,37.23,Toxic Mistlead Of The Past,109.00,1557.54,136.06,169771.86,14830.54,68302.89,252905.29
+15455,Evilfear The Horrorific,The Glano Forest,3.00,Rainbowglitter Tin,159.00,5957.39,213.40,947225.01,33930.60,29434.67,1010590.28
+16361,Wind Dire,The Lost Sanctum of Woe,3.30,Swordbronze,86.00,1485.01,447.01,127710.86,38442.86,4984.61,171138.33
+16925,"Addon, Lord of Death",Lacot Stronghold,45.22,Unspeakable Rotsoul Mithril Of Souls,233.00,248.00,441.68,57784.00,102911.44,72312.95,233008.39
+17878,Nailpiston The Grasping,Dysley Stronghold,45.98,Negative Rockglitter Mercury Of Trolls,89.00,1632.29,619.42,145273.81,55128.38,92185.01,292587.20
+18215,Shadow Tomblion,Grori's Deep,66.50,Negative Rockglitter Mercury Of Trolls,161.00,1632.29,619.42,262798.69,99726.62,239266.70,601792.01

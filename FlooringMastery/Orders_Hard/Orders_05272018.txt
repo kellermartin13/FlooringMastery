@@ -1,0 +1,16 @@
+1500,Snaretool The Constructed,The Pirate's Pipe,16.00,Hidden Shadowice Lead,213.00,2729.00,-46.75,581277.00,-9957.75,91411.08,662730.33
+1766,"Gono, Goddess of the Earth",The Beggar and Cask,21.00,Phantasmal Plague Adamant,81.00,-186.03,-6.53,-15068.43,-528.93,-3275.45,-18872.81
+2178,"Gono, Goddess of the Earth",The Forsaken Tomb of Devastation,0.00,Angels' Adamant,172.00,1304.00,179.30,224288.00,30839.60,0.00,255127.60
+4256,Clash Lonedrake,Khali's Delve,52.71,Vampires' Fang Emeraldsilver,322.00,2283.46,455.55,735274.12,146687.10,467439.45,1349400.67
+9487,"Penur, Lord of the Sea",North Arcanist's Farthing,45.60,Shadow Steel,213.00,4677.78,465.30,996367.14,99108.90,503918.98,1599395.02
+11755,Snaretool The Constructed,Archring Borough,17.93,Magic Adamant,215.00,1838.00,228.40,395170.00,49106.00,79969.68,524245.68
+12206,Sunrise Godwarlock,The Tomb of Hellish Ruin,16.94,Litches' Fatal Mithril Of The Past,200.00,1327.98,369.05,265596.00,73810.00,57699.02,397105.02
+13924,"Uriel, God of Fate",Khali's Delve,52.71,Spectres' Shadowy Terrorglow Adamant Of Life,143.00,5164.28,248.66,738492.04,35558.38,410246.72,1184297.14
+14840,Rouge Tombreaper,The Tower of Aces the Accursed,13.31,Lunar Bronze,279.00,753.86,337.70,210326.94,94218.30,39590.88,344136.12
+17438,Cult Godseeker,The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,197.00,398.09,374.00,78423.73,73678.00,4563.05,156664.78
+17946,"Zepul, Lady of Vengeance",Lamp Borough,4.95,Ensorceled Gold Of The Dawn,299.00,6913.92,443.21,2067262.08,132519.79,109989.09,2309770.96
+18017,Fate Seeker,Lamp Borough,4.95,Negative Rockglitter Mercury Of Trolls,114.00,1632.29,619.42,186081.06,70613.88,12834.75,269529.69
+18163,"Avriel, God of Death",The Hunter and Rose,44.44,Ensorceled Gold Of The Dawn,223.00,6913.92,443.21,1541804.16,98835.83,721881.60,2362521.59
+18739,Snowflame The Evil,The Forsaken Sepulcher of Sorrows,53.67,Sphinxes' Opalpearl Platinum Of Legend,221.00,5805.82,390.81,1283086.22,86369.01,739505.82,2108961.05
+21909,Gale Jackalguard,The Black Barrow of Bery,-0.10,Unknowable Mindsilver,259.00,4313.65,402.60,1117235.35,104273.40,0.00,1221508.75
+22342,Flora Amberslayer,The Forsaken Tomb of Devastation,0.00,Magicians' Legendary Poison Metal,151.00,2991.55,252.79,451724.05,38171.29,0.00,489895.34

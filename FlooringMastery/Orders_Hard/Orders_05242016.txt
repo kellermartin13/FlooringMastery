@@ -1,0 +1,17 @@
+321,Rouge Roguemist,The Citadel of Cheno,5.00,Evilsilver,116.00,1351.68,66.00,156794.88,7656.00,8222.54,172673.42
+3960,Bolttrap,Citadel Ward,25.82,Sapphire Mindlead,151.00,1307.71,47.00,197464.21,7097.00,53185.91,257747.12
+4005,Freezebrood,The Hunter and Rose,40.40,Tritons' Time Stoneiron Of Legend,93.00,1760.00,168.90,163680.00,15707.70,71755.08,251142.78
+4889,Song Runetomb,The Archer and Scroll,39.60,Trolls' Rubymercury Of The Sunset,286.00,506.00,198.00,144716.00,56628.00,80537.60,281881.60
+5195,Fate Ivycaster,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,122.00,3222.96,229.53,393201.12,28002.66,151633.36,572837.14
+5650,Metalbrood,The Cuitamba Jungle,28.00,Ensorceled Sandmetal Of Spirits,164.00,2956.98,87.00,484944.72,14268.00,139779.56,638992.28
+6913,Bronzespike,Kada's Deep,33.00,Unholy Poison Copper Of The Mountains,256.00,580.91,-9.24,148712.96,-2365.44,48294.68,194642.20
+7644,Blazeflare The Cremator,The Dungeon of Dismal Terror,-3.50,Heavenly Dreamsilver Of The Night,193.00,2009.68,112.00,387868.24,21616.00,-16379.37,393104.87
+9440,Lightning Brand,Fellfen Keep,46.23,Unicorns' Fatal Magma Metal Of The Ocean,241.00,1792.04,392.70,431881.64,94640.70,242200.28,768722.62
+10711,Flameshiver,Haukri's Hold,27.83,Sirens' Rockgold,280.00,-352.01,199.96,-98562.80,55988.80,-11920.72,-54494.72
+13706,Claw Mist,The Warrior and Flagon,53.24,Toxic Mistlead Of The Past,194.00,1557.54,136.06,302162.76,26395.64,174135.95,502694.35
+16460,Springsprocket,Reyny Keep,11.00,Fleshshock Mercury,151.00,4858.70,338.07,733663.70,51048.57,86318.35,871030.62
+18486,Shadow Gust,The Forsaken Sepulcher of Sorrows,53.67,Mana-touched Greenglitter Gold Of Giants,139.00,1291.38,514.25,179501.82,71480.75,135530.59,386513.16
+18632,Freezebrood,The Tower of Aramum,42.90,Meteoric Dustzephyr Orichalcum,265.00,375.00,268.49,99375.00,71149.85,73325.69,243850.54
+19490,Sephiroth Drakecaster,Noble's Village,33.28,Goddesses' Spectral Poison Steel,228.00,5023.18,296.81,1145285.04,67672.68,400276.05,1613233.77
+19944,Tiger Mistmidnight,The Warrior and Flagon,53.24,Primordial False Gold,230.00,5395.80,248.60,1241034.00,57178.00,688052.36,1986264.36
+22949,Beamsprocket The Grasping,The Lost Sanctum of Woe,3.30,Magic Adamant,194.00,2021.80,228.40,392229.20,44309.60,13096.16,449634.96

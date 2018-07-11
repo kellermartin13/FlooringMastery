@@ -1,0 +1,19 @@
+1674,Diana "Mistress" Morgan,MS,3.00,Reeds,274.00,0.75,2.00,205.50,548.00,22.60,776.10
+2438,Theresa "Scalphunter" Romero,TX,0.50,Dirt,192.00,0.50,1.00,96.00,192.00,0.00,288.00
+2705,Black Beck,IA,1.00,Beechwood,289.00,3.00,5.00,867.00,1445.00,23.12,2335.12
+3240,Allison "Steel Gravedigger" Douglas,AR,2.20,Beechwood,151.00,3.00,5.00,453.00,755.00,24.16,1232.16
+5639,Heather "Friendly Gambler" Barrett,OK,2.20,Brick,313.00,4.84,6.66,1514.92,2084.58,71.99,3671.49
+6896,Gloria "Devil" McCoy,ID,0.00,Solid Oak,170.00,5.50,5.50,935.00,935.00,0.00,1870.00
+7036,Vengeful Montgomery,NV,0.28,Cedar Planks,351.00,2.20,6.05,772.20,2123.55,0.00,2895.75
+8339,Melissa "Lonesome Stalker" Riley,TX,0.50,Reeds,259.00,0.75,2.20,194.25,569.80,0.00,764.05
+8346,Vengeful Robertson,ND,1.25,Dirt,324.00,0.50,1.00,162.00,324.00,4.86,490.86
+10689,Mabel "Vixen Cursed" King,NV,0.31,Beechwood,278.00,3.00,5.50,834.00,1529.00,0.00,2363.00
+11877,Mabel "Vixen Cursed" King,IA,1.21,Cedar Planks,274.00,2.20,6.05,602.80,1657.70,22.60,2283.10
+13848,"Scalphunter" Kennedy,UT,0.00,Cedar Planks,43.00,2.20,6.05,94.60,260.15,0.00,354.75
+14297,Kathy Murphy "the Thinker",MT,3.99,Leather,195.00,11.00,18.15,2145.00,3539.25,227.37,5911.62
+14305,Julia "Bandit" Chandler,ND,1.38,Pinecones,183.00,1.50,2.66,274.50,486.78,7.61,768.89
+16781,Stella "the Bully",MS,3.00,Pinecones,262.00,1.50,2.66,393.00,696.92,32.70,1122.62
+17013,Jacqueline "Riding Doc" Washington,OK,2.42,Beechwood,130.00,3.63,5.50,471.90,715.00,23.74,1210.64
+17090,Lucky Johnson,WY,0.31,Leather,136.00,11.00,19.97,1496.00,2715.92,0.00,4211.92
+17501,Lorraine "Utah" Adams,IA,1.21,Dirt,197.00,0.50,1.00,98.50,197.00,2.96,298.46
+17671,Cynthia "the Vixen",MS,3.00,Reeds,160.00,0.83,2.20,132.80,352.00,14.54,499.34

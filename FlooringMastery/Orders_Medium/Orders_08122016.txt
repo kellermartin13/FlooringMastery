@@ -1,0 +1,12 @@
+5180,Minnie Lawson "the Apostle",UT,0.00,Pinecones,131.00,1.50,2.42,196.50,317.02,0.00,513.52
+14431,Gladys "Locoweed" Keller,ND,1.38,Pinecones,127.00,1.50,2.66,190.50,337.82,5.28,533.60
+15086,Ida Russell "the Rustler",UT,0.00,Cedar Planks,43.00,2.20,6.05,94.60,260.15,0.00,354.75
+16497,Marie "Raven" Chapman,ND,1.38,Leather,330.00,11.00,19.97,3630.00,6590.10,102.20,10322.30
+17046,Vicki "Mesa" Rhodes,UT,0.00,Dirt,306.00,0.50,1.00,153.00,306.00,0.00,459.00
+17697,Dorothy "the Hunter",WY,0.31,Packed Dirt,122.00,1.10,2.20,134.20,268.40,0.00,402.60
+18023,"Sunrise" Miles,WY,0.31,Reeds,197.00,0.83,2.20,163.51,433.40,0.00,596.91
+19054,Jo "the Joker",UT,0.00,Dirt,190.00,0.50,1.00,95.00,190.00,0.00,285.00
+19490,Vanessa "Scalper" Rhodes,MO,2.20,Pinecones,180.00,1.50,2.66,270.00,478.80,14.98,763.78
+21013,Maureen "Cursed" Andrews,CA,0.67,Solid Oak,354.00,5.50,6.66,1947.00,2357.64,43.05,4347.69
+21165,Victoria "the Dancer",NM,2.93,Brick,317.00,5.32,6.66,1686.44,2111.22,113.93,3911.59
+22425,Tammy Carlson "the Killer",MT,5.84,Solid Oak,54.00,5.50,6.66,297.00,359.64,39.40,696.04

@@ -1,0 +1,33 @@
+218,"Scalphunter" Kennedy,NV,0.25,Leather,47.00,10.00,15.00,470.00,705.00,0.00,1175.00
+278,Ida Russell "the Rustler",NM,2.00,Pebbles,127.00,0.80,4.00,101.60,508.00,12.19,621.79
+877,Black Beck,IA,1.00,Brick,14.00,4.00,5.00,56.00,70.00,1.26,127.26
+1519,Michele Watson "the Loner",AR,2.20,Brick,331.00,4.00,5.00,1324.00,1655.00,59.58,3038.58
+1771,Friendly Howell,MT,3.00,Pebbles,236.00,0.80,4.40,188.80,1038.40,36.82,1264.02
+2155,Maureen "Cursed" Andrews,MT,3.00,Solid Oak,119.00,5.00,5.00,595.00,595.00,35.70,1225.70
+2987,Heather "Tornado" Newman,AL,1.00,Cedar Planks,177.00,2.00,5.50,354.00,973.50,13.28,1340.78
+3937,Cynthia "the Vixen",OK,2.00,Pinecones,394.00,1.50,2.42,591.00,953.48,30.89,1575.37
+4628,Minnie Lawson "the Apostle",CA,0.55,Cedar Planks,142.00,2.00,5.50,284.00,781.00,10.65,1075.65
+4640,Kathy Murphy "the Thinker",OK,2.00,Cedar Planks,359.00,2.00,5.50,718.00,1974.50,53.85,2746.35
+6593,Cynthia "the Vixen",IA,1.21,Reeds,209.00,0.75,2.20,156.75,459.80,6.17,622.72
+7468,Melissa "Lonesome Stalker" Riley,MO,2.20,Solid Oak,266.00,5.50,5.50,1463.00,1463.00,58.52,2984.52
+7566,"Bane" Jennings,NV,0.28,Pinecones,184.00,1.50,2.66,276.00,489.44,0.00,765.44
+9376,Evelyn "Evil Joker" Taylor,MO,2.20,Dirt,78.00,0.50,1.00,39.00,78.00,2.34,119.34
+10015,Cathy "Wildfire" Neal,MT,3.63,Pinecones,191.00,1.50,2.66,286.50,508.06,31.78,826.34
+11033,Jacqueline "Riding Doc" Washington,MT,3.63,Solid Oak,154.00,5.50,5.50,847.00,847.00,67.76,1761.76
+11273,Cynthia "the Vixen",KS,0.55,Leather,220.00,10.00,18.15,2200.00,3993.00,61.93,6254.93
+12298,Melissa "Lonesome Stalker" Riley,WY,0.31,Pebbles,93.00,0.88,4.84,81.84,450.12,0.00,531.96
+12660,Helen Webb "the Dancer",ID,0.00,Pinecones,201.00,1.50,2.66,301.50,534.66,0.00,836.16
+13682,Mattie Grant "the Gambler",MO,2.20,Pinecones,220.00,1.50,2.66,330.00,585.20,18.30,933.50
+13717,Surgeon Grant,CA,0.61,Reeds,31.00,0.75,2.20,23.25,68.20,0.91,92.36
+15346,Joanne "Damned" Miles,AL,1.00,Reeds,239.00,0.83,2.20,198.37,525.80,7.24,731.41
+15641,Vicki "Mesa" Rhodes,AR,2.20,Pinecones,230.00,1.50,2.66,345.00,611.80,19.14,975.94
+16543,Tammy Carlson "the Killer",OK,2.42,Brick,290.00,5.32,6.66,1542.80,1931.40,69.48,3543.68
+19171,Jacqueline "Riding Doc" Washington,ID,0.00,Brick,347.00,5.32,6.66,1846.04,2311.02,0.00,4157.06
+19543,Vicki "Mesa" Rhodes,MS,3.00,Beechwood,104.00,3.63,6.05,377.52,629.20,30.20,1036.92
+19725,Julia "Bandit" Chandler,MS,3.00,Pebbles,200.00,0.88,4.84,176.00,968.00,34.32,1178.32
+19922,Dorothy "the Hunter",MT,3.99,Beechwood,256.00,3.63,6.05,929.28,1548.80,99.12,2577.20
+19935,Ida Russell "the Rustler",UT,0.00,Leather,61.00,11.00,19.97,671.00,1218.17,0.00,1889.17
+20093,Gloria "Devil" McCoy,ND,1.67,Packed Dirt,204.00,1.10,2.42,224.40,493.68,14.36,732.44
+20850,Dorothy "the Hunter",MO,2.20,Brick,160.00,5.32,6.66,851.20,1065.60,38.34,1955.14
+21530,Gloria "Devil" McCoy,NM,2.93,Cedar Planks,135.00,2.20,6.66,297.00,899.10,35.88,1231.98
+22929,April "Thunderbird" Dunn,AL,1.00,Beechwood,145.00,3.63,6.05,526.35,877.25,14.04,1417.64

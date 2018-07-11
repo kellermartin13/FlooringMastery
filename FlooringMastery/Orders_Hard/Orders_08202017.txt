@@ -1,0 +1,16 @@
+1515,"Finarfin, God of Protection",Archtemple District,27.76,Incubi's Glittering Tin Of The Future,216.00,2287.78,72.60,494160.48,15681.60,142755.78,652597.86
+2376,"Finarfin, God of Protection",Boiaburh Keep,16.00,Unholy Poison Copper Of The Mountains,144.00,528.10,-9.24,76046.40,-1330.56,11954.53,86670.37
+4550,Flora Amberslayer,Fellfen Keep,42.03,Hidden Shadowice Lead,331.00,2729.00,-62.23,903299.00,-20598.13,370734.37,1253435.24
+5097,Deathbrood,The Bastion of Gothmog of Udun,45.32,Primordial False Gold,99.00,4459.34,226.00,441474.66,22374.00,208731.90,672580.56
+9778,Mecharig The Living Device,The Forsaken Sepulcher of Sorrows,48.79,Unicorns' Fatal Magma Metal Of The Ocean,127.00,1792.04,392.70,227589.08,49872.90,135956.37,413418.35
+9874,Evilcoil The Machine,The Forsaken Sepulcher of Sorrows,48.79,Djinni's Spectral Shadowlead Of Life,91.00,3705.90,325.62,337236.90,29631.42,179765.48,546633.80
+10967,"Lionare, God of the Lost",Eved Castle,5.09,Phantasmal Plague Adamant,247.00,-186.03,-7.18,-45949.41,-1773.46,-2386.14,-50109.01
+11766,"Penur, Lord of the Sea",The Archer and Scroll,39.60,God-touched Greengem Platinum,151.00,1281.72,-39.60,193539.72,-5979.60,75024.05,262584.17
+11916,Valentine Lawslayer,The Barrow of Malefic Ages,17.91,Ghostly Magic Adamant,323.00,4836.38,230.90,1562150.74,74580.70,294611.66,1931343.10
+15964,Rune Rougehate,Fellfen Keep,61.53,Thunderbirds' Transcendent Dreamiron,82.00,2275.25,237.70,186570.50,19491.40,127758.38,333820.28
+16163,Freezebrood,Pewold Keep,22.57,Thunderbirds' Transcendent Dreamiron,251.00,2275.25,237.70,571087.75,59662.70,145072.60,775823.05
+18315,"Baltha, Goddess of Knowledge",The Hunter and Rose,44.44,Ensorceled Gold Of The Dawn,84.00,6913.92,443.21,580769.28,37229.64,271919.52,889918.44
+18439,Storm Squallmourner,The Forsaken Sepulcher of Sorrows,53.67,Nymphs' Luminous Rotmercury Of The Skies,347.00,292.60,207.90,101532.20,72141.30,93783.69,267457.19
+19695,Rouge Tombreaper,The Temple of Merciless Necromancy,50.94,Toxic Mistlead Of The Past,278.00,1557.54,164.64,432996.12,45769.92,244170.68,722936.72
+21928,Bonescare,The Tower of the Demon Warlord,20.97,Toxic Mistlead Of The Past,69.00,1557.54,181.10,107470.26,12495.90,25192.89,145159.05
+23201,"Nelalwe, Lady of Fire",The Fortress of Akkun the Grim,-2.42,Mithril Of The Tropics,157.00,4992.58,11.98,783835.06,1880.86,-15714.32,770001.60

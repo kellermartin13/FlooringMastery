@@ -1,0 +1,13 @@
+4787,Theresa "Kid" Robinson,ND,1.25,Pebbles,186.00,0.80,4.40,148.80,818.40,9.67,976.87
+6295,Jacqueline "Riding Doc" Washington,AL,1.00,Solid Oak,154.00,5.50,5.50,847.00,847.00,16.94,1710.94
+7098,Geraldine "Revenge" Warren,NM,2.20,Packed Dirt,195.00,1.00,1.50,195.00,292.50,9.75,497.25
+8178,Vengeful Montgomery,TX,0.50,Leather,237.00,10.00,18.15,2370.00,4301.55,0.00,6671.55
+10947,Florence "Leather Doc" Grant,UT,0.00,Pinecones,228.00,1.50,2.66,342.00,606.48,0.00,948.48
+11960,Mabel "Vixen Cursed" King,MS,3.00,Pinecones,316.00,1.50,2.66,474.00,840.56,39.44,1354.00
+12539,Black Beck,MT,3.63,Dirt,212.00,0.50,1.00,106.00,212.00,12.72,330.72
+15767,Vengeful Montgomery,NM,2.66,Brick,102.00,5.32,6.66,542.64,679.32,36.66,1258.62
+17502,"Scalphunter" Kennedy,ND,1.52,Packed Dirt,218.00,1.10,2.20,239.80,479.60,14.39,733.79
+19335,Theresa "Scalphunter" Romero,NM,2.93,Beechwood,96.00,3.63,5.50,348.48,528.00,26.29,902.77
+19959,Cathy "Loner Demon" Murray,UT,0.00,Leather,259.00,11.00,19.97,2849.00,5172.23,0.00,8021.23
+21523,Jo "the Joker",CA,0.67,Beechwood,273.00,3.63,6.05,990.99,1651.65,26.43,2669.07
+22486,"Doom" McCoy,CA,0.67,Solid Oak,293.00,5.50,6.66,1611.50,1951.38,35.63,3598.51

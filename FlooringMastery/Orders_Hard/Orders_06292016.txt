@@ -1,0 +1,21 @@
+1218,Rouge Tombreaper,The Broken Shield,37.23,Yellow Mistearth Copper,246.00,4159.62,-27.40,1023266.52,-6740.40,376114.66,1392640.78
+3631,Harmony Angelchild,The Shadow Downs,13.21,Forgotten Mithril,161.00,913.00,316.00,146993.00,50876.00,25722.97,223591.97
+3971,Seraph Jester,The Wizard's House,43.58,Incubi's Iron Of The Dawn,8.00,1200.96,385.74,9607.68,3085.92,5585.18,18278.78
+5325,Icechill The Frigid,The Tower of Sheshbazzu,3.30,Ghostly Soul Adamant,232.00,3222.96,229.53,747726.72,53250.96,24029.33,825007.01
+5603,Zeal Bladewitch,Boiaburh Keep,16.00,Otherworldly Mirror Orichalcum,362.00,-247.00,478.50,-89414.00,173217.00,13408.48,97211.48
+6427,Snaretool The Constructed,Weke Tower,-0.05,Unknown Fatelightning Steel Of The Glacier,285.00,2017.40,54.28,574959.00,15469.80,0.00,590428.80
+6860,"Alas, Lord of Plague",The Flying Witch,11.45,Unicorns' Evil Mithril,42.00,4802.49,312.00,201704.58,13104.00,23628.94,238437.52
+8243,"Maeglodor, God of Thieves",The Lazy Sage,19.97,Negative Rockglitter Mercury Of Trolls,306.00,1483.90,423.07,454073.40,129459.42,116706.56,700239.38
+9015,"Ariel, God of Luck",The Bastion of the Vampire Duke,19.28,Primal Adamant,236.00,5019.08,301.29,1184502.88,71104.44,238565.39,1494172.71
+9492,Sephiroth Drakecaster,North Arcanist's Farthing,45.60,Emerald Orichalcum,304.00,-368.87,128.90,-112136.48,39185.60,-33557.40,-106508.28
+10258,Bedlam Spiritraven,The Dismal Marsh,6.05,Ensorceled Gold Of The Dawn,246.00,5713.98,402.92,1405639.08,99118.32,90285.44,1595042.84
+11378,Tiger Mistmidnight,Gili's Delve,-5.56,Emerald Orichalcum,264.00,-368.87,128.90,-97381.68,34029.60,3801.12,-59550.96
+11678,Gravebone,The Broken Arrow,30.07,Thunderbirds' Transcendent Dreamiron,210.00,2275.25,237.70,477802.50,49917.00,158315.85,686035.35
+13863,Metalbrood,Grove Farthing,19.80,Ghostly Soul Adamant,211.00,3222.96,229.53,680044.56,48430.83,145695.08,874170.47
+14386,"Gono, Goddess of the Earth",The Citadel of Lord Greywulf,33.04,Zephyr Iron,129.00,3034.90,444.69,391502.10,57365.01,148126.15,596993.26
+16928,Lord Mystery,Arcanist's Farthing,3.30,Venom Jewelmetal Of The Desert,243.00,1388.00,298.14,337284.00,72448.02,12291.96,422023.98
+18379,Emberfire,Dysley Stronghold,45.98,God-touched Faterainbow Orichalcum Of Spectres,200.00,370.41,32.01,74082.00,6402.00,37022.64,117506.64
+18511,"Finarfin, God of Protection",Boiaburh Keep,17.60,Hidden Shadowice Lead,166.00,2729.00,-62.23,453014.00,-10330.18,79683.09,522366.91
+19629,Chainnail,Castle Village,49.93,Emerald Orichalcum,178.00,-405.76,128.90,-72225.28,22944.20,-24640.54,-73921.62
+19799,Chillfire The Chiller,Weke Tower,-0.07,Mithril Of The Tropics,261.00,4538.71,11.98,1184603.31,3126.78,0.00,1187730.09
+20712,Dawn Darkzealot,North Arcanist's Farthing,55.18,Vampires' Fang Emeraldsilver,87.00,3343.22,455.55,290860.14,39632.85,181771.14,512264.13

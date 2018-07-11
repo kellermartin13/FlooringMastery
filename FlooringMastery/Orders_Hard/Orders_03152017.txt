@@ -1,0 +1,13 @@
+524,"Gadriel, God of Resurrection",The Forsaken Tomb of Devastation,0.00,Ghostly Magic Adamant,253.00,3997.01,230.90,1011243.53,58417.70,0.00,1069661.23
+2015,Lord Mystery,The Dancing Minstrel,21.20,Violetdream Iron,135.00,1224.69,349.36,165333.15,47163.60,44624.32,257121.07
+4632,Steelterror The Blade,The Demon and Toad,23.75,Otherworldly Mirror Orichalcum,144.00,-247.00,478.50,-35568.00,68904.00,8000.64,41336.64
+8014,Bolttrap,The Dungeon of Dismal Terror,-3.50,Mithril Of Legend,218.00,2274.80,63.01,495906.40,13736.18,-20385.70,489256.88
+12659,"Alas, Lord of Plague",Gawold Castle,6.05,Phantasmal Lead,229.00,-552.97,245.47,-126630.13,56212.63,-4225.05,-74642.55
+12863,Shadow Gust,The Grey Plains,19.97,Imperial Fate Steel,118.00,2993.93,-44.92,353283.74,-5300.56,69596.64,417579.82
+12869,Spiketerror The Skeletal,The Desert of Flames,51.91,Tin Of The Tundra,308.00,3123.86,174.91,962148.88,53872.28,528331.00,1544352.16
+16486,Chainblade The Cadaverous,Moor Village,76.43,Ghostly Magic Adamant,145.00,4836.38,230.90,701275.10,33480.50,558414.26,1293169.86
+17655,Spikerivet,The Grey Plains,19.97,Shadowy Adamant,92.00,618.93,526.44,56941.56,48432.48,21074.81,126448.85
+18072,Evilfear The Horrorific,The Hunter and Rose,44.44,Phantasmal Plague Adamant,154.00,-204.63,-7.18,-31513.02,-1105.72,-14352.25,-46970.99
+18742,Nailpiston The Grasping,The Forsaken Sepulcher of Sorrows,53.67,Meteoric Dustzephyr Orichalcum,38.00,375.00,268.49,14250.00,10202.62,13204.41,37657.03
+21680,"Penur, Lord of the Sea",Eved Castle,5.09,Sphinxes' Opalpearl Platinum Of Legend,69.00,5805.82,429.89,400601.58,29662.41,21513.20,451777.19
+22069,Chainblade The Cadaverous,The Wizard's House,43.58,Sprites' Transcendent Mud Lead Of The South,335.00,2081.80,321.86,697403.00,107823.10,354299.48,1159525.58

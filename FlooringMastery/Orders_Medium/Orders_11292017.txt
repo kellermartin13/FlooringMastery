@@ -1,0 +1,15 @@
+160,"Bane" Jennings,IA,1.00,Solid Oak,151.00,5.00,5.00,755.00,755.00,15.10,1525.10
+2060,Wilma "Tornado" Brooks,ND,1.25,Beechwood,370.00,3.00,5.00,1110.00,1850.00,29.60,2989.60
+4342,April "Thunderbird" Dunn,TX,0.50,Packed Dirt,192.00,1.00,1.50,192.00,288.00,0.00,480.00
+4501,Gloria "Devil" McCoy,OK,2.00,Brick,202.00,4.40,5.50,888.80,1111.00,40.00,2039.80
+5944,Vicki "Mesa" Rhodes,ND,1.25,Reeds,253.00,0.75,2.20,189.75,556.60,7.46,753.81
+7206,Tammy Carlson "the Killer",AL,1.00,Solid Oak,302.00,5.50,5.50,1661.00,1661.00,33.22,3355.22
+8672,"Sunrise" Miles,TX,0.50,Pinecones,259.00,1.50,2.66,388.50,688.94,0.00,1077.44
+9609,Tina "Lady" Anderson,AL,1.00,Pinecones,198.00,1.50,2.66,297.00,526.68,8.24,831.92
+13011,Heather "Friendly Gambler" Barrett,NV,0.31,Leather,8.00,11.00,18.15,88.00,145.20,0.00,233.20
+13567,Betty "Happy Thinker" Watson,CA,0.61,Reeds,238.00,0.75,2.20,178.50,523.60,7.02,709.12
+13734,Minnie Lawson "the Apostle",IA,1.21,Packed Dirt,250.00,1.00,2.00,250.00,500.00,7.50,757.50
+16118,Cynthia "the Vixen",OK,2.42,Pinecones,246.00,1.50,2.66,369.00,654.36,20.47,1043.83
+18191,Victoria "the Dancer",NM,2.93,Pebbles,247.00,0.88,4.84,217.36,1195.48,42.39,1455.23
+19087,Evelyn "Evil Joker" Taylor,MO,2.20,Reeds,128.00,0.83,2.20,106.24,281.60,7.76,395.60
+22317,Gloria "Devil" McCoy,IA,1.33,Reeds,339.00,0.83,2.20,281.37,745.80,10.27,1037.44

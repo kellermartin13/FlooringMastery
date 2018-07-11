@@ -1,0 +1,14 @@
+1751,Wilma "Tornado" Brooks,TX,0.50,Leather,306.00,10.00,15.00,3060.00,4590.00,0.00,7650.00
+3119,Vengeful Montgomery,TX,0.50,Packed Dirt,148.00,1.00,1.50,148.00,222.00,0.00,370.00
+4122,Diana "Mistress" Morgan,ND,1.25,Cedar Planks,267.00,2.00,5.50,534.00,1468.50,20.02,2022.52
+4863,Cathy "Wildfire" Neal,TX,0.50,Beechwood,66.00,3.00,5.00,198.00,330.00,0.00,528.00
+5345,Amanda Hart "the Loner",TX,0.50,Brick,163.00,4.84,6.05,788.92,986.15,0.00,1775.07
+7961,Heather "Friendly Gambler" Barrett,CA,0.55,Reeds,192.00,0.75,2.20,144.00,422.40,5.66,572.06
+9102,Ida Russell "the Rustler",WY,0.31,Pinecones,101.00,1.50,2.66,151.50,268.66,0.00,420.16
+10881,Heather "Friendly Gambler" Barrett,WY,0.31,Packed Dirt,190.00,1.00,1.50,190.00,285.00,0.00,475.00
+12697,Ida Russell "the Rustler",WY,0.31,Pebbles,182.00,0.88,4.84,160.16,880.88,0.00,1041.04
+13890,Evelyn "Evil Joker" Taylor,MT,3.99,Packed Dirt,235.00,1.00,2.00,235.00,470.00,28.20,733.20
+15254,Maureen "Cursed" Andrews,NV,0.31,Reeds,69.00,0.83,2.20,57.27,151.80,0.00,209.07
+16110,Jacqueline "Riding Doc" Washington,MT,3.99,Cedar Planks,235.00,2.20,6.05,517.00,1421.75,77.55,2016.30
+21020,Maureen "Cursed" Andrews,AR,2.20,Pinecones,183.00,1.50,2.66,274.50,486.78,15.23,776.51
+21577,Kathy Murphy "the Thinker",UT,0.00,Solid Oak,257.00,5.50,6.66,1413.50,1711.62,0.00,3125.12

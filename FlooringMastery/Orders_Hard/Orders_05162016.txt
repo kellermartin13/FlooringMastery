@@ -1,0 +1,17 @@
+815,"Iran, Lord of Nightmares",The Shadow Downs,13.21,Imperial Fate Steel,205.00,2721.75,-37.13,557958.75,-7611.65,71545.12,621892.22
+1070,Lord Mystery,The Forsaken Tomb of Devastation,0.00,Primordial Mud Orichalcum,258.00,-387.90,77.37,-100078.20,19961.46,0.00,-80116.74
+3925,Rouge Roguemist,The Wizard's House,43.58,Hidden Shadowice Lead,105.00,2729.00,-56.57,286545.00,-5939.85,123466.27,404071.42
+4439,Chainblade The Cadaverous,Citadel Ward,28.40,Planar Obsidian Mercury Of Wizards,223.00,2574.00,117.00,574002.00,26091.00,168026.04,768119.04
+7029,Lightning Brand,Mahyrst Keep,25.14,Djinni's Mind Fogiron,154.00,2301.02,74.02,354357.08,11399.08,91439.04,457195.20
+9872,Evilfear The Horrorific,The Nulukkhath Spires,10.59,Pearl Mirrorice Steel Of Changelings,31.00,271.51,38.07,8416.81,1180.17,1055.67,10652.65
+11963,Burnfreeze The Cold,Bifar's Deep,18.70,Heavenly Dreamsilver Of The Night,168.00,2009.68,112.00,337626.24,18816.00,67724.03,424166.27
+13982,Chillfire The Chiller,Gili's Delve,-6.73,Violetstone Tin Of Death,226.00,2469.75,171.71,558163.50,38806.46,-41787.90,555182.06
+14024,"Byzou, God of Animals",Gili's Delve,-6.73,Violetstone Tin Of Death,171.00,2469.75,171.71,422327.25,29362.41,-31618.28,420071.38
+15591,Blazeflare The Cremator,Lamp Borough,4.95,Trolls' Rubymercury Of The Sunset,244.00,556.60,217.80,135810.40,53143.20,9447.68,198401.28
+16290,Tarot Dawn,The Pilgrim's Cup,46.12,Incubi's Mirrorfog Iron Of The Ocean,165.00,5806.50,-26.08,958072.50,-4303.20,438733.88,1392503.18
+17215,Grave Mistseeker,The Citadel of Alammius,3.85,Shadowy Adamant,108.00,618.93,526.44,66844.44,56855.52,4948.00,128647.96
+19057,Magus Felldrake,Reyny Keep,11.00,Djinni's Mind Fogiron,202.00,2301.02,89.56,464806.04,18091.12,53118.69,536015.85
+19465,Flameshiver,Gifeld Castle,6.22,God-touched Faterainbow Orichalcum Of Spectres,152.00,370.41,32.01,56302.32,4865.52,3670.07,64837.91
+21987,Lightning Brand,The Tomb of Hellish Ruin,16.94,Sprites' Transcendent Mud Lead Of The South,176.00,2081.80,321.86,366396.80,56647.36,71917.51,494961.67
+22365,Seraphim Tsunami,The Lewd King,32.67,Mana-touched Greenglitter Gold Of Giants,27.00,1420.52,514.25,38354.04,13884.75,17238.80,69477.59
+22532,Ironbrood,Boiaburh Keep,17.60,Djinni's Mind Fogiron,191.00,2531.12,119.21,483443.92,22769.11,91118.35,597331.38

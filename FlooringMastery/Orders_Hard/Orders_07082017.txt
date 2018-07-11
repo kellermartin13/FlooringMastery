@@ -1,0 +1,12 @@
+484,Tiger Mistmidnight,The Citadel of Cheno,5.00,Poison Adamant,182.00,298.00,406.38,54236.00,73961.16,6409.86,134607.02
+1692,Chainhorror,The Pilgrim's Cup,41.93,Incubi's Iron Of The Dawn,109.00,1200.96,385.74,130904.64,42045.66,72639.13,245589.43
+2431,Cinderflame,The Nulukkhath Spires,9.63,Ghostly Soul Adamant,213.00,2929.96,189.69,624081.48,40403.97,66448.54,730933.99
+3473,Song Runetomb,Gawold Castle,5.00,Evilsilver,157.00,1486.85,79.86,233435.45,12538.02,12298.67,258272.14
+5398,Maverick Wind,The Wizard's House,43.58,Ghostly Soul Adamant,288.00,3222.96,229.53,928212.48,66104.64,437499.53,1431816.65
+8544,"Byzou, God of Animals",The Khazahol Crags,-1.97,Unknowable Mindsilver,319.00,3565.00,366.00,1137235.00,116754.00,-25079.78,1228909.22
+12243,"Uriel, God of Fate",The Dismal Marsh,6.05,Incubi's Iron Of The Dawn,271.00,1200.96,424.31,325460.16,114988.01,26426.89,466875.06
+13767,Claw Mist,Waleah Castle,0.77,Shadowhell Mithril,271.00,483.15,286.41,130933.65,77617.11,2085.51,210636.27
+18179,Ironbrood,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,240.00,4076.49,325.62,978357.60,78148.80,52825.32,1109331.72
+18599,Emberspawn,The Tower of Aramum,42.90,Lunar Bronze,301.00,829.25,337.70,249604.25,101647.70,151038.34,502290.29
+18760,Cinderflame,Boiaburh Keep,17.60,Primordial Plague Mercury Of Legend,127.00,497.52,301.29,63185.04,38263.83,18260.80,119709.67
+22468,Flora Amberslayer,Palace Farthing,47.64,Violetstone Tin Of Death,291.00,2469.75,171.71,718697.25,49967.61,368959.13,1137623.99

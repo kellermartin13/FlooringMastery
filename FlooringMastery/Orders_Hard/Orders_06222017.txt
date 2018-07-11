@@ -1,0 +1,10 @@
+1729,Bronzespike,The Tower of Aces the Accursed,12.10,Starlight Pearldream Bronze,125.00,242.00,134.00,30250.00,16750.00,5640.00,52640.00
+3629,Blazefreeze The Chiller,The Broken Arrow,30.07,Yellow Mistearth Copper,301.00,4575.58,-27.40,1377249.58,-8247.40,410700.65,1779702.83
+3793,Grave Mistseeker,Barad Kesa,4.32,Spirits' Living Wordhammer Tin Of The Trees,169.00,4343.00,26.40,733967.00,4461.60,29537.14,767965.74
+12134,Graveterror,The Tomb of Hellish Ruin,16.94,Toxic Mistlead Of The Past,98.00,1557.54,136.06,152638.92,13333.88,28215.38,194188.18
+12629,"Alik, Goddess of Trickery",South Brightcrown Borough,42.25,Nymphs' Luminous Rotmercury Of The Skies,259.00,292.60,189.00,75783.40,48951.00,52388.45,177122.85
+14011,Song Runetomb,Grove Farthing,19.80,Spectres' Shadowy Terrorglow Adamant Of Life,290.00,5164.28,248.66,1497641.20,72111.40,313950.52,1883703.12
+14406,Slayer Claw,Barad Kesa,4.75,Unknown Fatelightning Steel Of The Glacier,189.00,2441.05,65.68,461358.45,12413.52,23688.60,497460.57
+16501,"Uriel, God of Fate",Lacot Stronghold,45.22,Forgotten Mithril,244.00,1104.73,347.60,269554.12,84814.40,159465.83,513834.35
+17187,Magus Felldrake,North Arcanist's Farthing,55.18,Glowpearl Adamant Of Spirits,290.00,398.09,374.00,115446.10,108460.00,123148.36,347054.46
+19762,Storm Squallmourner,Haukri's Hold,27.83,Planar Mudtin Of Trolls,332.00,3067.17,405.79,1018300.44,134722.28,322846.36,1475869.08

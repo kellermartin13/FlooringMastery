@@ -1,0 +1,16 @@
+996,Beth "Fortunate Shooter" Powell,CA,0.50,Leather,194.00,10.00,15.00,1940.00,2910.00,0.00,4850.00
+3064,Elizabeth "the Bully",CA,0.55,Pebbles,69.00,0.80,4.40,55.20,303.60,3.59,362.39
+3919,Helen Webb "the Dancer",IA,1.10,Brick,148.00,4.40,5.50,651.20,814.00,14.65,1479.85
+4987,Mabel "Vixen Cursed" King,MO,2.20,Reeds,255.00,0.75,2.20,191.25,561.00,15.04,767.29
+5306,Theresa "Scalphunter" Romero,UT,0.00,Pinecones,76.00,1.50,2.42,114.00,183.92,0.00,297.92
+5470,Theresa "Scalphunter" Romero,NM,2.20,Brick,247.00,4.84,6.05,1195.48,1494.35,53.80,2743.63
+8287,Tina "Lady" Anderson,CA,0.55,Leather,97.00,10.00,18.15,970.00,1760.55,27.31,2757.86
+11069,Surgeon Grant,IA,1.21,Packed Dirt,253.00,1.00,1.50,253.00,379.50,6.32,638.82
+11452,Theresa "Scalphunter" Romero,WY,0.31,Packed Dirt,180.00,1.00,1.65,180.00,297.00,0.00,477.00
+14630,Geraldine "Revenge" Warren,WY,0.31,Cedar Planks,133.00,2.20,6.05,292.60,804.65,0.00,1097.25
+15236,Kathy Murphy "the Thinker",ND,1.38,Brick,332.00,5.32,6.66,1766.24,2211.12,39.77,4017.13
+17798,Mabel "Vixen Cursed" King,CA,0.61,Packed Dirt,378.00,1.10,2.20,415.80,831.60,12.47,1259.87
+18621,Beth "Fortunate Shooter" Powell,MS,3.00,Pebbles,60.00,0.88,4.84,52.80,290.40,10.30,353.50
+18962,Helen Webb "the Dancer",NV,0.31,Packed Dirt,187.00,1.10,2.20,205.70,411.40,0.00,617.10
+19824,Vengeful Robertson,ID,0.00,Dirt,292.00,0.50,1.00,146.00,292.00,0.00,438.00
+21376,Cathy "Loner Demon" Murray,AL,1.00,Pebbles,233.00,0.88,4.84,205.04,1127.72,13.33,1346.09

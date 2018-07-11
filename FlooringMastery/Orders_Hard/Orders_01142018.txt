@@ -1,0 +1,19 @@
+162,Springcoil,Pewold Keep,16.95,Shadowhell Mithril,95.00,363.00,215.18,34485.00,20442.10,9337.61,64264.71
+364,Gravebone,The Forsaken Tomb of Devastation,0.00,Trolls' Mist Poisonplatinum Of The Twilight,309.00,516.17,394.90,159496.53,122024.10,0.00,281520.63
+593,Magus Felldrake,The Bastion of Gothmog of Udun,37.45,Falserainbow Lead,249.00,3215.00,233.00,800535.00,58017.00,317664.24,1176216.24
+2646,Cinderember,The Bastion of the Lich Tyrant,43.00,Rocklava Mithril Of Revenants,234.00,1818.30,13.03,425482.20,3049.02,184268.42,612799.64
+6656,"Byzou, God of Animals",The Tower of Aces the Accursed,13.31,Foul Ice Bronze Of Life,322.00,-92.21,129.80,-29691.62,41795.60,1573.52,13677.50
+8447,Wind Dire,The Bastion of the Lich Tyrant,43.00,Foul Ice Bronze Of Life,298.00,-92.21,129.80,-27478.58,38680.40,4816.78,16018.60
+8908,Cinderflame,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,189.00,3773.99,269.83,713284.11,50997.87,114642.30,878924.28
+10977,"Maeglodor, God of Thieves",The Tower of Aces the Accursed,13.31,Tin Of The Tundra,291.00,2839.87,174.91,826402.17,50898.81,114049.13,991350.11
+11048,Lightning Brand,Gena's Hold,2.66,Emerald Orichalcum,289.00,-368.87,128.90,-106603.43,37252.10,-2080.54,-71431.87
+12364,"Alik, Goddess of Trickery",The Citadel of Alammius,3.50,Thunderbirds' Transcendent Dreamiron,99.00,2275.25,237.70,225249.75,23532.30,9951.28,258733.33
+14193,Spikesnare,Gili's Delve,-6.73,Emerald Orichalcum,139.00,-405.76,128.90,-56400.64,17917.10,2693.85,-35789.69
+14279,Emberspawn,Pewold Keep,20.52,Primordial Plague Mercury Of Legend,144.00,452.29,301.29,65129.76,43385.76,22788.26,131303.78
+14431,Fate Seeker,The Archer and Scroll,39.60,Ensorceled Sandmetal Of Spirits,94.00,2956.98,95.70,277956.12,8995.80,114780.77,401732.69
+15215,"Alas, Lord of Plague",The Pilgrim's Cup,46.12,Heavenly Dreamsilver Of The Night,105.00,2009.68,112.00,211016.40,11760.00,102477.14,325253.54
+15812,Lance Knightseraph,Gifeld Castle,6.22,Sphinxes' Unknown Poisongold Of The Future,299.00,3910.25,23.86,1169164.75,7134.14,70577.93,1246876.82
+16830,Dawn Darkzealot,The Fortress of Gama,10.16,Ensorceled Gold Of The Dawn,35.00,6913.92,402.92,241987.20,14102.20,25608.94,281698.34
+19651,"Lionare, God of the Lost",North Grove Ward,7.99,Emerald Orichalcum,293.00,-405.76,128.90,-118887.68,37767.70,-6489.60,-87609.58
+21072,Claw Mist,The Secret Catacombs of Ulfang the Black,42.90,Negative Rockglitter Mercury Of Trolls,121.00,1795.52,681.36,217257.92,82444.56,128872.07,428574.55
+22114,Emberfire,Lamp Borough,4.95,Meteoric Mirrormuck Orichalcum Of The Forests,242.00,2374.02,185.77,574512.84,44956.34,30973.46,650442.64

@@ -1,0 +1,26 @@
+174,Dorothy "the Hunter",UT,0.00,Pebbles,96.00,0.80,4.00,76.80,384.00,0.00,460.80
+1831,Melissa "Lonesome Stalker" Riley,ND,1.25,Pinecones,198.00,1.50,2.00,297.00,396.00,6.93,699.93
+5038,Stella "the Bully",KS,0.50,Brick,320.00,4.84,6.05,1548.80,1936.00,0.00,3484.80
+5268,Renee "Hellish Empress" Banks,NV,0.25,Brick,255.00,4.84,6.05,1234.20,1542.75,0.00,2776.95
+5794,Vicki "Mesa" Rhodes,MT,3.00,Pinecones,280.00,1.50,2.66,420.00,744.80,34.94,1199.74
+5816,Julia "Bandit" Chandler,MO,2.20,Beechwood,358.00,3.00,5.00,1074.00,1790.00,57.28,2921.28
+6974,Darlene "Loner" Ford,UT,0.00,Beechwood,218.00,3.00,5.00,654.00,1090.00,0.00,1744.00
+7142,Maureen "Cursed" Andrews,TX,0.50,Packed Dirt,205.00,1.00,1.50,205.00,307.50,0.00,512.50
+7491,Black Beck,MT,3.30,Beechwood,370.00,3.00,5.00,1110.00,1850.00,88.80,3048.80
+8158,Wilma "Tornado" Brooks,OK,2.20,Solid Oak,72.00,5.50,5.50,396.00,396.00,15.84,807.84
+9975,Amanda Hart "the Loner",NV,0.31,Beechwood,147.00,3.00,5.50,441.00,808.50,0.00,1249.50
+10151,"Doom" McCoy,OK,2.20,Reeds,319.00,0.75,2.20,239.25,701.80,18.82,959.87
+12097,Amanda Hart "the Loner",IA,1.21,Dirt,221.00,0.50,1.00,110.50,221.00,3.32,334.82
+12334,Renee "Loco Tracker" Jordan,NV,0.31,Leather,225.00,11.00,18.15,2475.00,4083.75,0.00,6558.75
+14432,Amanda Hart "the Loner",NM,2.42,Dirt,237.00,0.50,1.00,118.50,237.00,7.11,362.61
+15063,Gloria "Devil" McCoy,CA,0.61,Pebbles,265.00,0.88,4.84,233.20,1282.60,15.16,1530.96
+16070,Mattie Grant "the Gambler",ND,1.38,Dirt,202.00,0.50,1.00,101.00,202.00,3.03,306.03
+16071,Michele Watson "the Loner",MS,3.00,Brick,317.00,5.32,6.66,1686.44,2111.22,113.93,3911.59
+16749,Gloria "Devil" McCoy,KS,0.55,Pinecones,237.00,1.50,2.66,355.50,630.42,9.86,995.78
+17270,Black Beck,CA,0.61,Pinecones,69.00,1.50,2.66,103.50,183.54,2.87,289.91
+18244,Minnie Lawson "the Apostle",NV,0.31,Beechwood,181.00,3.63,5.50,657.03,995.50,0.00,1652.53
+18864,Gladys "Locoweed" Keller,AR,2.20,Pinecones,340.00,1.50,2.66,510.00,904.40,28.29,1442.69
+20103,Betty "Happy Thinker" Watson,AL,1.00,Cedar Planks,379.00,2.20,6.66,833.80,2524.14,33.58,3391.52
+22978,Evelyn "Evil Joker" Taylor,TX,0.67,Packed Dirt,100.00,1.10,2.42,110.00,242.00,3.52,355.52
+23214,Evelyn "Evil Joker" Taylor,IA,1.33,Leather,315.00,11.00,19.97,3465.00,6290.55,97.56,9853.11
+23538,Renee "Loco Tracker" Jordan,ID,0.00,Solid Oak,303.00,5.50,6.66,1666.50,2017.98,0.00,3684.48

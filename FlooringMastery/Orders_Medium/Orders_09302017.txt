@@ -1,0 +1,29 @@
+792,Gladys "Locoweed" Keller,NM,2.20,Solid Oak,66.00,5.00,5.00,330.00,330.00,13.20,673.20
+2932,Amanda Hart "the Loner",ND,1.25,Reeds,255.00,0.75,2.00,191.25,510.00,7.01,708.26
+3185,Minnie Lawson "the Apostle",AR,2.20,Dirt,139.00,0.50,1.00,69.50,139.00,4.17,212.67
+3428,"Sunrise" Miles,ND,1.25,Pebbles,197.00,0.80,4.40,157.60,866.80,10.24,1034.64
+3436,Mattie Grant "the Gambler",MS,3.00,Beechwood,158.00,3.00,5.00,474.00,790.00,37.92,1301.92
+3561,Ida Russell "the Rustler",CA,0.55,Solid Oak,136.00,5.50,5.00,748.00,680.00,14.28,1442.28
+4168,"Doom" McCoy,UT,0.00,Reeds,259.00,0.75,2.00,194.25,518.00,0.00,712.25
+5683,"Scalphunter" Kennedy,MO,2.20,Cedar Planks,260.00,2.00,5.50,520.00,1430.00,39.00,1989.00
+6456,Cathy "Wildfire" Neal,NV,0.28,Beechwood,104.00,3.00,5.00,312.00,520.00,0.00,832.00
+6960,Heather "Friendly Gambler" Barrett,IA,1.21,Cedar Planks,234.00,2.20,6.05,514.80,1415.70,19.30,1949.80
+7545,Mabel "Vixen Cursed" King,ND,1.25,Reeds,122.00,0.75,2.20,91.50,268.40,3.60,363.50
+8708,Mabel "Vixen Cursed" King,AL,1.00,Beechwood,221.00,3.00,5.50,663.00,1215.50,18.78,1897.28
+13661,Betty "Happy Thinker" Watson,AR,2.20,Pinecones,252.00,1.50,2.66,378.00,670.32,20.97,1069.29
+14288,Beth "Fortunate Shooter" Powell,CA,0.61,Packed Dirt,220.00,1.10,2.00,242.00,440.00,6.82,688.82
+14692,Maureen "Cursed" Andrews,ID,0.00,Dirt,101.00,0.50,1.00,50.50,101.00,0.00,151.50
+16167,Cynthia "the Vixen",MS,3.00,Solid Oak,236.00,5.50,6.05,1298.00,1427.80,81.77,2807.57
+16811,Black Beck,IA,1.21,Brick,299.00,5.32,6.66,1590.68,1991.34,35.82,3617.84
+16813,Lena Chapman "the Bully",ND,1.38,Cedar Planks,150.00,2.20,6.05,330.00,907.50,12.38,1249.88
+17352,Vengeful Robertson,WY,0.31,Reeds,233.00,0.83,2.20,193.39,512.60,0.00,705.99
+17989,Darlene "Loner" Ford,TX,0.67,Brick,269.00,5.32,6.66,1431.08,1791.54,32.23,3254.85
+18366,Black Beck,UT,0.00,Pinecones,93.00,1.50,2.66,139.50,247.38,0.00,386.88
+18558,Jo "the Joker",TX,0.67,Cedar Planks,341.00,2.20,6.66,750.20,2271.06,30.21,3051.47
+19147,Jacqueline "Riding Doc" Washington,AL,1.00,Leather,246.00,11.00,19.97,2706.00,4912.62,76.19,7694.81
+19693,Gloria "Devil" McCoy,MO,2.20,Leather,145.00,11.00,19.97,1595.00,2895.65,89.81,4580.46
+20746,Deborah "the Lady",UT,0.00,Cedar Planks,361.00,2.20,6.66,794.20,2404.26,0.00,3198.46
+20966,Melissa "Lonesome Stalker" Riley,TX,0.67,Leather,222.00,11.00,19.97,2442.00,4433.34,68.75,6944.09
+21119,Betty "Happy Thinker" Watson,AL,1.00,Leather,211.00,11.00,19.97,2321.00,4213.67,65.35,6600.02
+23127,Marie "Raven" Chapman,TX,0.67,Solid Oak,265.00,5.50,6.66,1457.50,1764.90,32.22,3254.62
+23464,Helen Webb "the Dancer",MT,5.84,Reeds,326.00,0.91,2.42,296.66,788.92,65.13,1150.71

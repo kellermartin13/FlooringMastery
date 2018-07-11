@@ -1,0 +1,19 @@
+3948,Valentine Lawslayer,Gifeld Castle,6.22,Tritons' Time Stoneiron Of Legend,317.00,1760.00,168.90,557920.00,53541.30,36687.68,648148.98
+4359,Lord Mystery,Citadel Ward,28.40,Pearl Mirrorice Steel Of Changelings,86.00,271.51,34.61,23349.86,2976.46,7371.37,33697.69
+5008,Lord Mystery,The Tower of Sabiesu the Awesome,4.40,Sphinxes' Unknown Poisongold Of The Future,227.00,3554.77,23.86,806932.79,5416.22,32493.96,844842.97
+6289,Burnbrood The Freezer,Kada's Deep,33.00,Primordial Plague Mercury Of Legend,149.00,373.79,273.90,55694.71,40811.10,31846.92,128352.73
+6890,"Alas, Lord of Plague",Barad Kesa,4.32,Hidden Shadowice Lead,348.00,2729.00,-62.23,949692.00,-21656.04,37121.44,965157.40
+7143,Sunset Knightclaw,The Forsaken Delve of Lord Greywulf,39.00,Hell Mercury Of The East,259.00,4636.34,284.60,1200812.06,73711.40,497064.15,1771587.61
+8813,Blazefreeze The Chiller,The Beggar and Cask,23.10,Primordial Plague Mercury Of Legend,308.00,452.29,301.29,139305.32,92797.32,53383.61,285486.25
+9392,Sunset Knightclaw,Lamp Borough,4.95,Shadow Steel,149.00,4677.78,465.30,696989.22,69329.70,38315.95,804634.87
+9924,Rouge Roguemist,The Tomb of Hellish Ruin,16.94,Ensorceled Gold Of The Dawn,89.00,5713.98,402.92,508544.22,35859.88,92548.70,636952.80
+10238,Storm Squallmourner,The Tomb of Hellish Ruin,16.94,Magicians' Legendary Poison Metal,64.00,2247.59,229.81,143845.76,14707.84,26954.11,185507.71
+14275,Snaretool The Constructed,The Chuallanto Jungle,40.70,Shadow Steel,189.00,5660.12,511.83,1069762.68,96735.87,478264.41,1644762.96
+17739,Burnbrood The Freezer,The Citadel of Alammius,3.85,Shadowy Adamant,188.00,618.93,526.44,116358.84,98970.72,8613.18,223942.74
+20115,Lance Knightseraph,The Fen of the Necromancer,72.63,Planar Rainfate Mithril,142.00,1185.84,320.52,168389.28,45513.84,156149.28,370052.40
+20437,Flameshiver,Grori's Deep,66.50,Zephyr Adamant,281.00,4224.00,113.22,1186944.00,31814.82,804380.82,2023139.64
+20472,Wheelbolt The Machine,The Broken Arrow,36.39,Sphinxes' Opalpearl Platinum Of Legend,230.00,5805.82,390.81,1335338.60,89886.30,513080.96,1938305.86
+21502,Wheelspawn,Unicorn's Ward,14.64,Hidden Shadowice Lead,47.00,2729.00,-62.23,128263.00,-2924.81,18800.73,144138.92
+21552,"Ariel, God of Luck",Pewold Keep,22.57,Hidden Shadowice Lead,155.00,2729.00,-62.23,422995.00,-9645.65,95070.35,508419.70
+21679,Bane Veil,The Fortress of Asmamur,-4.93,Hidden Shadowice Lead,35.00,2729.00,-62.23,95515.00,-2178.05,-4666.85,88670.10
+22687,Gale Jackalguard,Eved Castle,5.09,Stone Soulsteel Of The Skies,255.00,1798.28,14.53,458561.40,3705.15,23113.33,485379.88

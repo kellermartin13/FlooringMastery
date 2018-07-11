@@ -1,0 +1,22 @@
+4097,Magus Felldrake,The Hunter and Rose,40.40,Spirits' Living Wordhammer Tin Of The Trees,292.00,4343.00,26.40,1268156.00,7708.80,510345.92,1786210.72
+5616,Cult Godseeker,The Dungeon of Merciless Woe,38.62,Djinni's Mind Fogiron,293.00,2301.02,67.29,674198.86,19715.97,270626.78,964541.61
+6173,Snowflame The Evil,The Pirate's Pipe,17.60,Nymphs' Luminous Rotmercury Of The Skies,309.00,292.60,189.00,90413.40,58401.00,26786.59,175600.99
+6839,Spikerivet,Archtemple District,27.76,Zephyr Iron,316.00,2759.00,444.69,871844.00,140522.04,283462.49,1295828.53
+7938,"Selik, God of Death",The Tower of Aces the Accursed,13.31,Heavenly Dreamsilver Of The Night,64.00,2009.68,112.00,128619.52,7168.00,17652.38,153439.90
+9494,Mecharig The Living Device,The Pirate's Pipe,17.60,Spirits' Living Wordhammer Tin Of The Trees,235.00,4777.30,26.40,1122665.50,6204.00,203196.51,1332066.01
+10685,Bane Veil,The Shadow Downs,13.21,Shadow Steel,327.00,4677.78,465.30,1529634.06,152153.10,218632.33,1900419.49
+10692,Chainblade The Cadaverous,The Dismal Marsh,6.05,Sirens' Rockgold,260.00,-352.01,199.96,-91522.60,51989.60,-2371.98,-41904.98
+10951,Lord Mystery,Pawic Keep,0.56,Tin Of The Tundra,256.00,2839.87,174.91,727006.72,44776.96,7717.84,779501.52
+11554,Storm Seraphheart,Unicorn's Ward,14.64,Ghostly Magic Adamant,218.00,4836.38,230.90,1054330.84,50336.20,165700.06,1270367.10
+12045,Beamsprocket The Grasping,Fellfen Keep,46.23,Sprites' Transcendent Mud Lead Of The South,162.00,2081.80,321.86,337251.60,52141.32,179120.74,568513.66
+12873,Valentine Lawslayer,The Dread Hive of Illfang the Kobold Lord,1.46,Mind Lead,317.00,2844.70,309.10,901769.90,97984.70,9997.55,1009752.15
+13860,Beamtrap,The Dark Caverns of Woe,3.29,Shadowy Adamant,123.00,618.93,526.44,76128.39,64752.12,4226.42,145106.93
+14245,Clash Lonedrake,The Chuallanto Jungle,40.70,Tritons' Time Stoneiron Of Legend,162.00,1760.00,204.37,285120.00,33107.94,130473.46,448701.40
+14456,Dawn Darkzealot,The Archer and Scroll,39.60,Unicorns' Evil Mithril,233.00,4802.49,377.52,1118980.17,87962.16,482776.93,1689719.26
+16189,Bronzespawn,The Lost Sanctum of Woe,3.30,Swordbronze,305.00,1485.01,447.01,452928.05,136338.05,17677.98,606944.08
+16870,Dagger Reaper,The Forsaken Tomb of Devastation,0.00,Forgotten Mithril,332.00,1104.73,347.60,366770.36,115403.20,0.00,482173.56
+18891,Jericho Wolf,The Pilgrim's Cup,46.12,Phantasmal Smokezephyr Mercury Of Men,214.00,-510.81,75.90,-109313.34,16242.60,-42812.54,-135883.28
+20462,"Gono, Goddess of the Earth",Grori's Deep,66.50,Phantasmal Lead,282.00,-608.27,270.02,-171532.14,76145.64,-62955.09,-158341.59
+21114,"Ariel, God of Luck",The Bastion of the Lich Tyrant,52.03,Unknowable Mindsilver,104.00,4313.65,402.60,448619.60,41870.40,255054.80,745544.80
+22976,Shadow Gust,The Bastion of Barbos,28.34,Incubi's Iron Of The Dawn,172.00,1200.96,424.31,206565.12,72981.32,78273.00,357819.44
+23251,Dagger Reaper,Barad Kesa,5.23,Timeiron,348.00,1596.00,276.28,555408.00,96145.44,32577.67,684131.11

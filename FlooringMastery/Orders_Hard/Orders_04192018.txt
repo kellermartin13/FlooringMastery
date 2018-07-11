@@ -1,0 +1,14 @@
+1780,"Avriel, God of Death",Haukri's Hold,25.30,Magicians' Legendary Poison Metal,172.00,2043.26,229.81,351440.72,39527.32,97742.01,488710.05
+3256,Cult Godseeker,Reheath Stronghold,8.00,Ensorceled Sandmetal Of Spirits,300.00,2956.98,87.00,887094.00,26100.00,73055.52,986249.52
+6247,Bedlam Spiritraven,The Lazy Sage,19.97,Primordial Plague Mercury Of Legend,111.00,373.79,273.90,41490.69,30402.90,14378.72,86272.31
+7274,"Alas, Lord of Plague",The Broken Shield,37.23,Phantasmal Tin Of The Swamps,343.00,4074.00,-6.60,1397382.00,-2263.80,516193.73,1911311.93
+9956,Tarot Dawn,The Citadel of Lord Greywulf,33.04,Meteoric Dustzephyr Orichalcum,239.00,375.00,244.08,89625.00,58335.12,48826.84,196786.96
+10086,Spikespawn,The Chuallanto Jungle,37.00,Ensorceled Gold Of The Dawn,185.00,5713.98,402.92,1057086.30,74540.20,418701.80,1550328.30
+10451,Tarot Dawn,The Khazahol Crags,-1.97,Yellow Mistearth Copper,344.00,4575.58,-27.40,1573999.52,-9425.60,-31291.48,1533282.44
+10932,Snaretool The Constructed,The Dungeon of Merciless Woe,38.62,God-touched Greengem Platinum,96.00,1281.72,-39.60,123045.12,-3801.60,46504.97,165748.49
+11111,Shadow Gust,The Hunter and Rose,40.40,Emerald Orichalcum,240.00,-368.87,128.90,-88528.80,30936.00,-23037.12,-80629.92
+21225,Lightning Brand,Peley Keep,26.33,Golems' Stonesapphire Gold Of The Glacier,80.00,4444.06,128.23,355524.80,10258.40,95103.63,460886.83
+21973,Steelterror The Blade,The Wizard's House,43.58,Trolls' Rubymercury Of The Sunset,284.00,740.84,239.58,210398.56,68040.72,122513.28,400952.56
+22677,Cult Godseeker,The Cuitamba Jungle,33.88,Thunderbirds' Transcendent Dreamiron,259.00,2275.25,237.70,589289.75,61564.30,221290.38,872144.43
+23137,Storm Squallmourner,Kewold Stronghold,10.74,Pearl Mirrorice Steel Of Changelings,142.00,328.53,55.75,46651.26,7916.50,6002.45,60570.21
+23147,Deathspike The Terrifying,Pawic Keep,0.62,White Platinum,143.00,-63.64,193.00,-9100.52,27599.00,184.98,18683.46

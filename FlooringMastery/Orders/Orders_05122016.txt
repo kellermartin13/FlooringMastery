@@ -1,0 +1,7 @@
+2081,Victoria "the Dancer",MS,3.00,Leather,154.00,10.00,16.50,1540.00,2541.00,122.43,4203.43
+2886,Deborah "the Lady",CA,0.55,Cedar Planks,261.00,2.00,5.50,522.00,1435.50,19.58,1977.08
+4428,Florence "Leather Doc" Grant,ND,1.25,Solid Oak,350.00,5.50,5.50,1925.00,1925.00,38.50,3888.50
+4918,Kathy Murphy "the Thinker",NM,2.20,Brick,239.00,4.84,6.05,1156.76,1445.95,52.05,2654.76
+12817,Betty "Happy Thinker" Watson,IA,1.21,Leather,343.00,11.00,18.15,3773.00,6225.45,99.98,10098.43
+14094,Diana "Mistress" Morgan,MT,3.99,Pinecones,123.00,1.50,2.66,184.50,327.18,20.47,532.15
+23130,Stella "the Bully",NV,0.31,Reeds,255.00,0.91,2.42,232.05,617.10,0.00,849.15

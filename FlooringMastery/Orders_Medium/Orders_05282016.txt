@@ -1,0 +1,11 @@
+4089,Allison "Steel Gravedigger" Douglas,CA,0.55,Cedar Planks,89.00,2.00,5.50,178.00,489.50,6.68,674.18
+4616,Julia "Bandit" Chandler,ND,1.25,Cedar Planks,268.00,2.00,5.50,536.00,1474.00,20.10,2030.10
+10792,Jo "the Joker",NM,2.20,Leather,190.00,10.00,18.15,1900.00,3448.50,106.97,5455.47
+12396,Heather "Tornado" Newman,AL,1.00,Pinecones,235.00,1.50,2.66,352.50,625.10,9.78,987.38
+12461,Julia "Bandit" Chandler,NV,0.31,Beechwood,84.00,3.30,5.50,277.20,462.00,0.00,739.20
+12483,Lorraine "Utah" Adams,IA,1.21,Brick,187.00,4.84,6.66,905.08,1245.42,21.50,2172.00
+13043,Vengeful Montgomery,WY,0.31,Solid Oak,170.00,5.50,5.50,935.00,935.00,0.00,1870.00
+14587,Heather "Tornado" Newman,ID,0.00,Pinecones,256.00,1.50,2.66,384.00,680.96,0.00,1064.96
+16002,Deborah "the Lady",AL,1.00,Beechwood,87.00,3.63,5.50,315.81,478.50,7.94,802.25
+23131,Minnie Lawson "the Apostle",KS,0.55,Packed Dirt,81.00,1.10,2.42,89.10,196.02,2.85,287.97
+23221,Helen Webb "the Dancer",MS,3.00,Reeds,228.00,0.91,2.42,207.48,551.76,22.78,782.02

@@ -1,0 +1,17 @@
+178,Rune Rougehate,The Bastion of Barbos,21.29,Evilsilver,303.00,1351.68,66.00,409559.04,19998.00,90206.98,519764.02
+1185,Rouge Tombreaper,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,134.00,4159.62,-27.40,557389.08,-3671.60,0.00,553717.48
+3385,Chainnail,The Tower of Sabiesu the Awesome,4.40,Heavenly Dreamsilver Of The Night,104.00,1826.98,112.00,190005.92,11648.00,8066.16,209720.08
+6640,Evilbrood,The Tower of the Demon Warlord,15.75,Grayplatinum,356.00,2506.27,279.06,892232.12,99345.36,158652.40,1150229.88
+8352,Shadow Gust,Cawold Castle,24.09,Shadowy Adamant,194.00,618.93,478.58,120072.42,92844.52,51100.07,264017.01
+8575,Spikesnare,Minas Gilloy,39.26,Foul Ice Bronze Of Life,248.00,-92.21,129.80,-22868.08,32190.40,3635.70,12958.02
+10060,"Finarfin, God of Protection",The Warrior and Flagon,48.40,Ensorceled Gold Of The Dawn,142.00,5713.98,402.92,811385.16,57214.64,416927.90,1285527.70
+11451,Burnchill The Evil,Archring Borough,17.93,Ghostly Magic Adamant,43.00,4836.38,230.90,207964.34,9928.70,39220.75,257113.79
+17330,Cinderflame,Weke Tower,-0.07,Sphinxes' Opalpearl Platinum Of Legend,299.00,5805.82,390.81,1735940.18,116852.19,0.00,1852792.37
+17779,Fate Ivycaster,Reyny Keep,11.00,Meteoric Mirrormuck Orichalcum Of The Forests,74.00,2374.02,185.77,175677.48,13746.98,20836.69,210261.15
+18692,"Baltha, Goddess of Knowledge",The Tower of Aces the Accursed,13.31,Primordial Plague Mercury Of Legend,225.00,497.52,301.29,111942.00,67790.25,23365.19,203097.44
+19471,Scarechain The Unspeakable,Fellfen Keep,61.53,Planar Mudtin Of Trolls,125.00,3067.17,405.79,383396.25,50723.75,269154.40,703274.40
+19941,"Ingwenel, God of War",The Cracked Chalice,2.52,Planar Rainfate Mithril,168.00,1185.84,320.52,199221.12,53847.36,7592.05,260660.53
+21503,Nettool The Grasping,The Lazy Sage,19.97,Phantasmal Tin Of The Swamps,114.00,5964.74,-7.99,679980.36,-910.86,135813.90,814883.40
+21700,Snowflame The Evil,The Bastion of Sthasu the Gruesome,14.93,Planar Rainfate Mithril,67.00,1304.42,320.52,87396.14,21474.84,16330.65,125201.63
+22685,Fate Seeker,Grori's Deep,66.50,Devils' Falserot Silver,144.00,2220.79,182.71,319793.76,26310.24,228428.64,574532.64
+23076,"Byzou, God of Animals",The Fortress of Akkun the Grim,-2.42,Djinni's Spectral Shadowlead Of Life,260.00,4484.14,394.00,1165876.40,102440.00,-25366.33,1242950.07

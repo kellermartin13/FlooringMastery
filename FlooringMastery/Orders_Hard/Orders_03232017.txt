@@ -1,0 +1,17 @@
+547,Evilember The Firey,The Black Barrow of Bery,-0.07,Tritons' Time Stoneiron Of Legend,234.00,1760.00,168.90,411840.00,39522.60,0.00,451362.60
+993,Evilember The Firey,The Wizard's House,43.58,Hidden Shadowice Lead,177.00,2729.00,-46.75,483033.00,-8274.75,208893.63,683651.88
+3869,Chillfire The Chiller,The Secret Shrine of the Gargoyle Count,-2.00,Sapphire Mindlead,163.00,1307.71,47.00,213156.73,7661.00,-4416.35,216401.38
+5199,Shadow Gust,The Warrior and Flagon,48.40,Ensorceled Sandmetal Of Spirits,153.00,2956.98,87.00,452417.94,13311.00,223549.89,689278.83
+9243,Valentine Lawslayer,The Citadel of Tattena the Sinister,12.13,Phantasmal Smokezephyr Mercury Of Men,308.00,-383.77,75.90,-118201.16,23377.20,-11378.88,-106202.84
+9826,Jericho Wolf,Haukri's Hold,25.30,Emerald Orichalcum,212.00,-368.87,128.90,-78200.44,27326.80,-12718.41,-63592.05
+10686,Beamtrap,The Greedy Wench,32.70,Magicians' Legendary Poison Metal,376.00,2472.35,229.81,929603.60,86408.56,335284.01,1351296.17
+12187,"Ariel, God of Luck",The Forsaken Delve of Lord Greywulf,39.00,Angels' Smoke Adamant Of The Mountains,215.00,3115.57,236.50,669847.55,50847.50,281071.07,1001766.12
+13370,Rouge Tombreaper,Eved Castle,5.09,Muck Orichalcum Of Ogres,165.00,3426.85,364.95,565430.25,60216.75,31282.35,656929.35
+14009,Storm Seraphheart,The Bastion of Gothmog of Udun,54.84,Ghostly Soul Adamant,307.00,3222.96,229.53,989448.72,70465.71,582952.94,1642867.37
+15240,Chillfire The Chiller,Shainan's Hold,23.96,Heavenly Dreamsilver Of The Night,299.00,2009.68,112.00,600894.32,33488.00,152251.76,786634.08
+19462,Cinderember,Noble's Village,33.28,Toxic Mistlead Of The Past,175.00,1557.54,164.64,272569.50,28812.00,99455.90,400837.40
+19488,"Uriel, God of Fate",North Grove Ward,7.99,Sirens' Rockgold,215.00,-352.01,199.96,-75682.15,42991.40,-2615.26,-35306.01
+20222,Spikebrood The Disinterred,Unicorn's Ward,14.64,Primordial False Gold,246.00,5395.80,248.60,1327366.80,61155.60,208278.36,1596800.76
+20611,Lightning Brand,North Arcanist's Farthing,55.18,Greenlead,331.00,959.65,179.65,317644.15,59464.15,207409.56,584517.86
+22326,Wheelbolt The Machine,The Forsaken Tomb of Devastation,0.00,Fairies' Supreme Mistsmoke Lead Of The Future,65.00,3349.50,324.73,217717.50,21107.45,0.00,238824.95
+23104,"Ahah, Goddess of Knowledge",The Bastion of Sthasu the Gruesome,14.93,Timeiron,272.00,1596.00,276.28,434112.00,75148.16,76389.02,585649.18

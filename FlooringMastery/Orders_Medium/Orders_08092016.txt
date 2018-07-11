@@ -1,0 +1,10 @@
+405,Renee "Hellish Empress" Banks,MO,2.00,Pinecones,168.00,1.50,2.00,252.00,336.00,11.76,599.76
+1767,Mattie Grant "the Gambler",MO,2.20,Pinecones,205.00,1.50,2.00,307.50,410.00,14.35,731.85
+4325,Mabel "Vixen Cursed" King,KS,0.50,Pebbles,251.00,0.80,4.40,200.80,1104.40,0.00,1305.20
+5164,Florence "Leather Doc" Grant,AL,1.00,Dirt,161.00,0.50,1.00,80.50,161.00,2.42,243.92
+9940,Renee "Loco Tracker" Jordan,CA,0.55,Solid Oak,274.00,5.50,5.50,1507.00,1507.00,30.14,3044.14
+11912,Theresa "Kid" Robinson,MT,3.63,Pinecones,237.00,1.50,2.66,355.50,630.42,39.44,1025.36
+14524,Julia "Bandit" Chandler,WY,0.31,Pinecones,278.00,1.50,2.66,417.00,739.48,0.00,1156.48
+15779,Tammy Carlson "the Killer",IA,1.21,Leather,195.00,11.00,18.15,2145.00,3539.25,56.84,5741.09
+21332,Ida Russell "the Rustler",UT,0.00,Packed Dirt,173.00,1.10,2.42,190.30,418.66,0.00,608.96
+23162,Renee "Hellish Empress" Banks,NV,0.31,Packed Dirt,211.00,1.10,2.42,232.10,510.62,0.00,742.72

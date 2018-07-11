@@ -1,0 +1,21 @@
+626,Bonescare,Barad Kesa,4.32,Unspeakable Rotsoul Mithril Of Souls,109.00,248.00,401.53,27032.00,43766.77,2831.95,73630.72
+1396,Tarot Dawn,Archtemple District,27.76,Incubi's Iron Of The Dawn,86.00,1200.96,385.74,103282.56,33173.64,38207.74,174663.94
+1910,Rune Rougehate,Barad Cune,26.00,Planar Mudtin Of Trolls,172.00,2094.92,335.36,360326.24,57681.92,108682.12,526690.28
+3641,Seraphim Tsunami,The Dismal Marsh,5.00,Evilsilver,204.00,1486.85,79.86,303317.40,16291.44,15980.44,335589.28
+4820,Rouge Tombreaper,Tradun Castle,34.24,Zephyr Adamant,212.00,4224.00,102.93,895488.00,21821.16,311885.11,1229194.27
+7275,Scarechain The Unspeakable,Palace Farthing,43.31,Angels' Adamant,181.00,1304.00,179.30,236024.00,32453.30,115445.24,383922.54
+10084,"Suriel, Lord of Animals",The Broken Shield,37.23,Djinni's Spectral Shadowlead Of Life,171.00,3705.90,325.62,633708.90,55681.02,255074.27,944464.19
+10206,Wheelspawn,The Warrior and Flagon,48.40,Mithril Of Legend,228.00,2274.80,63.01,518654.40,14366.28,255849.93,788870.61
+10852,Flameflare The Evil,Peley Keep,23.94,Devils' Falserot Silver,266.00,1668.51,182.71,443823.66,48600.86,118181.88,610606.40
+10916,"Gadriel, God of Resurrection",Shainan's Hold,23.96,Unspeakable Rotsoul Mithril Of Souls,143.00,248.00,401.53,35464.00,57418.79,22291.87,115174.66
+11179,"Ariel, God of Luck",Fellfen Keep,46.23,Unspeakable Rotsoul Mithril Of Souls,16.00,248.00,401.53,3968.00,6424.48,4780.54,15173.02
+12179,Rouge Roguemist,Shainan's Hold,23.96,Witchs' Forbidden Rockrainbow Bronze,143.00,655.60,387.20,93750.80,55369.60,35788.90,184909.30
+16034,Boltcrank The Trapper,Gili's Delve,-6.73,Otherworldly Mirror Orichalcum,155.00,-298.87,526.35,-46324.85,81584.25,-2468.16,32791.24
+16632,Terrorghoul The Unspeakable,The Fortress of Gama,10.16,Starlight Pearldream Bronze,67.00,322.10,147.40,21580.70,9875.80,3145.65,34602.15
+16778,Terrorghoul The Unspeakable,Eved Castle,5.09,Starlight Pearldream Bronze,47.00,322.10,147.40,15138.70,6927.80,1103.32,23169.82
+17214,Rouge Roguemist,The Grey Plains,19.97,Sphinxes' Mistsoul Bronze Of The Past,100.00,2169.81,222.28,216981.00,22228.00,47841.80,287050.80
+19165,Clash Lonedrake,Reyny Keep,11.00,Djinni's Mind Fogiron,365.00,2301.02,89.56,839872.30,32689.40,95981.79,968543.49
+19532,Song Runetomb,Weke Tower,-0.07,Ghostly Soul Adamant,111.00,3222.96,229.53,357748.56,25477.83,0.00,383226.39
+20165,Storm Seraphheart,The Forsaken Sepulcher of Sorrows,53.67,Planar Rainfate Mithril,202.00,1185.84,320.52,239539.68,64745.04,164313.75,468598.47
+20877,"Byzou, God of Animals",The Secret Catacombs of Ulfang the Black,42.90,Yellow Mistearth Copper,128.00,5536.45,-33.15,708665.60,-4243.20,302901.63,1007324.03
+22555,"Eumyan, Goddess of Law",The Desert of Flames,57.10,Djinni's Mind Fogiron,186.00,2531.12,119.21,470788.32,22173.06,280987.99,773949.37

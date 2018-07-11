@@ -1,0 +1,17 @@
+235,Sephiroth Drakecaster,The Glano Forest,3.00,Planar Obsidian Mercury Of Wizards,133.00,2574.00,117.00,342342.00,15561.00,10737.09,368640.09
+2000,"Sielach, God of Fate",Haukri's Hold,25.30,Djinni's Evil Sandobsidian Steel Of The Future,198.00,3826.00,157.07,757548.00,31099.86,197161.96,985809.82
+2104,Chainhorror,Hartshill Ward,41.98,Spirits' Living Wordhammer Tin Of The Trees,127.00,4343.00,26.40,551561.00,3352.80,233063.80,787977.60
+2926,Rouge Tombreaper,The Fortress of Gama,10.16,Mithril Of The Tropics,349.00,3751.00,9.00,1309099.00,3141.00,131224.00,1443464.00
+6135,Clash Lonedrake,The Fortress of Gama,10.16,Tritons' Time Stoneiron Of Legend,220.00,1760.00,168.90,387200.00,37158.00,42435.80,466793.80
+6521,Mecharig The Living Device,The Dread Hive of Illfang the Kobold Lord,1.33,Foul Ice Bronze Of Life,250.00,-92.21,129.80,-23052.50,32450.00,93.98,9491.48
+10811,Chillfire The Chiller,The Dismal Marsh,6.05,Venom Timegold Of Dwarves,227.00,3036.00,269.00,689172.00,61063.00,45014.10,795249.10
+11693,Lance Knightseraph,South Brightcrown Borough,42.25,Pearl Mirrorice Steel Of Changelings,125.00,271.51,38.07,33938.75,4758.75,16252.95,54950.45
+17002,Slayer Claw,The Citadel of Lord Greywulf,33.04,Zephyr Iron,126.00,3034.90,444.69,382397.40,56030.94,144681.35,583109.69
+17054,Shiverflame The Freezer,The Tower of Aces the Accursed,13.31,Djinni's Evil Sandobsidian Steel Of The Future,329.00,4208.60,172.78,1384629.40,56844.62,187391.62,1628865.64
+17104,Beamtrap,The Temple of Merciless Necromancy,50.94,Djinni's Evil Sandobsidian Steel Of The Future,240.00,4208.60,172.78,1010064.00,41467.20,536280.91,1587812.11
+17597,Seraphim Tsunami,Reyny Keep,11.00,Angels' Smoke Adamant Of The Mountains,288.00,3427.13,260.15,987013.44,74923.20,116813.03,1178749.67
+18393,Slayer Claw,The Hunter and Rose,44.44,Rocklava Mithril Of Revenants,120.00,2200.14,14.33,264016.80,1719.60,116924.02,382660.42
+19914,Beamsprocket The Grasping,The Fen of the Necromancer,72.63,Timeiron,332.00,1596.00,251.16,529872.00,83385.12,447677.70,1060934.82
+20257,Shiverflame The Freezer,Archtemple District,27.76,Rainbowglitter Tin,125.00,5957.39,213.40,744673.75,26675.00,215977.65,987326.40
+21135,Nailpiston The Grasping,South Brightcrown Borough,42.25,Forgotten Mithril,257.00,1215.20,347.60,312306.40,89333.20,168688.63,570328.23
+21661,Bolttrap,The Cuitamba Jungle,33.88,God-touched Faterainbow Orichalcum Of Spectres,237.00,370.41,35.21,87787.17,8344.77,32684.86,128816.80

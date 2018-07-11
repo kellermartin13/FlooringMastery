@@ -1,0 +1,23 @@
+564,Jericho Wolf,The Dismal Marsh,5.00,Venom Jewelmetal Of The Desert,361.00,1388.00,224.00,501068.00,80864.00,29096.60,611028.60
+891,Freezebrood,The Wizard's House,43.58,Foulopal Copper Of The Skies,308.00,1221.16,403.00,376117.28,124124.00,220106.16,720347.44
+1096,Law Lionwatcher,The Forsaken Tomb of Devastation,0.00,Mithril Of Legend,314.00,2068.00,52.07,649352.00,16349.98,0.00,665701.98
+1344,"Nelalwe, Lady of Fire",Lamp Borough,4.95,Primordial False Gold,190.00,4459.34,226.00,847274.60,42940.00,44510.73,934725.33
+4598,"Gadriel, God of Resurrection",Minas Gilloy,39.26,Djinni's Spectral Shadowlead Of Life,94.00,3369.00,296.02,316686.00,27825.88,134359.63,478871.51
+5333,Chillfire The Chiller,Ring District,35.00,Mithril Of Legend,229.00,2274.80,63.01,520929.20,14429.29,187375.47,722733.96
+6011,Snowflame The Evil,The Citadel of Alammius,3.50,God-touched Greengem Platinum,338.00,1281.72,-36.00,433221.36,-12168.00,16842.13,437895.49
+6296,Lord Mystery,The Tower of Aramum,39.00,Greenlead,175.00,793.10,148.47,138792.50,25982.25,64262.15,229036.90
+8023,Nailpiston The Grasping,Barad Kesa,4.32,Djinni's Mind Fogiron,304.00,2301.02,74.02,699510.08,22502.08,28880.49,750892.65
+8264,Lance Knightseraph,North Grove Ward,6.60,Primordial Mud Orichalcum,186.00,-387.90,77.37,-72149.40,14390.82,-4043.10,-61801.68
+8398,Blazeflare The Cremator,Grori's Deep,49.95,Foul Ice Bronze Of Life,170.00,-92.21,129.80,-15675.70,22066.00,3195.15,9585.45
+9251,Emberspawn,Unicorn's Ward,14.64,Djinni's Evil Sandobsidian Steel Of The Future,118.00,3826.00,157.07,451468.00,18534.26,70500.34,540502.60
+10245,"Melcha, Goddess of Thieves",The Chuallanto Jungle,37.00,Mithril Of Legend,287.00,2274.80,63.01,652867.60,18083.87,248252.04,919203.51
+12470,Rouge Tombreaper,The Tomb of Gothmog of Udun,-3.30,Incubi's Glittering Tin Of The Future,171.00,3349.54,79.86,572771.34,13656.06,-17592.82,568834.58
+13052,Flameflare The Evil,The Glano Forest,3.00,Mind Lead,76.00,2844.70,309.10,216197.20,23491.60,7190.66,246879.46
+13433,Law Lionwatcher,The Citadel of Alammius,3.50,Negative Mercury,167.00,4054.87,436.81,677163.29,72947.27,30004.42,780114.98
+15314,Snowflame The Evil,Gifeld Castle,6.22,Sphinxes' Unknown Poisongold Of The Future,288.00,3910.25,23.86,1126152.00,6871.68,67981.42,1201005.10
+16265,Sephiroth Drakecaster,Peley Keep,26.33,Incubi's Mirrorfog Iron Of The Ocean,261.00,5806.50,-26.08,1515496.50,-6806.88,392259.30,1900948.92
+16757,Spiketerror The Skeletal,The Forsaken Sepulcher of Sorrows,53.67,Ghostly Magic Adamant,103.00,4836.38,230.90,498147.14,23782.70,281842.11,803771.95
+16908,Shadow Gust,Castle Village,45.39,Djinni's Evil Sandobsidian Steel Of The Future,131.00,4208.60,172.78,551326.60,22634.18,258282.35,832243.13
+20513,Snowflame The Evil,Weke Tower,-0.07,Phantasmal Tin Of The Swamps,192.00,5964.74,-7.99,1145230.08,-1534.08,0.00,1143696.00
+22009,Chillfire The Chiller,Tradun Castle,41.43,Meteoric Mirrormuck Orichalcum Of The Forests,248.00,2374.02,185.77,588756.96,46070.96,260279.45,895107.37
+22461,"Byzou, God of Animals",Bifar's Deep,18.70,Primordial Plague Mercury Of Legend,328.00,497.52,301.29,163186.56,98823.12,49781.84,311791.52

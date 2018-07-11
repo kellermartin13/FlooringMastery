@@ -1,0 +1,20 @@
+1218,Lena Chapman "the Bully",KS,0.50,Solid Oak,251.00,5.00,5.00,1255.00,1255.00,0.00,2510.00
+1289,Heather "Friendly Gambler" Barrett,MT,3.00,Pinecones,311.00,1.50,2.00,466.50,622.00,32.66,1121.16
+1401,Elizabeth "the Bully",MT,3.00,Dirt,231.00,0.50,1.00,115.50,231.00,10.40,356.90
+1790,Cathy "Wildfire" Neal,NV,0.25,Solid Oak,144.00,5.00,5.00,720.00,720.00,0.00,1440.00
+2290,Vengeful Robertson,ID,0.00,Pebbles,42.00,0.80,4.40,33.60,184.80,0.00,218.40
+5430,April "Thunderbird" Dunn,TX,0.50,Packed Dirt,123.00,1.00,1.50,123.00,184.50,0.00,307.50
+6703,"Bane" Jennings,TX,0.50,Cedar Planks,238.00,2.20,6.05,523.60,1439.90,0.00,1963.50
+7038,Tammy Carlson "the Killer",MS,3.00,Solid Oak,257.00,5.50,5.50,1413.50,1413.50,84.81,2911.81
+7195,"Bane" Jennings,AR,2.20,Pebbles,314.00,0.80,4.84,251.20,1519.76,35.42,1806.38
+7431,Kathy Murphy "the Thinker",NV,0.28,Brick,262.00,4.84,6.66,1268.08,1744.92,0.00,3013.00
+7820,Joanne "Damned" Miles,IA,1.21,Dirt,301.00,0.50,1.00,150.50,301.00,4.52,456.02
+11437,Gladys "Locoweed" Keller,CA,0.61,Brick,184.00,4.84,6.66,890.56,1225.44,21.16,2137.16
+12282,Vanessa "Scalper" Rhodes,MT,3.63,Dirt,267.00,0.50,1.00,133.50,267.00,16.02,416.52
+12324,Susan "Damnation" Fleming,MO,2.20,Solid Oak,374.00,5.50,5.50,2057.00,2057.00,82.28,4196.28
+16923,Elizabeth "the Bully",WY,0.31,Pinecones,284.00,1.50,2.66,426.00,755.44,0.00,1181.44
+18357,Tammy Carlson "the Killer",NM,2.93,Beechwood,334.00,3.63,5.50,1212.42,1837.00,91.48,3140.90
+20184,Florence "Leather Doc" Grant,CA,0.67,Pebbles,122.00,0.88,4.84,107.36,590.48,6.98,704.82
+20791,Julia "Bandit" Chandler,OK,2.66,Dirt,118.00,0.50,1.00,59.00,118.00,5.31,182.31
+20949,Lorraine "Utah" Adams,AR,2.20,Beechwood,261.00,3.63,6.05,947.43,1579.05,50.53,2577.01
+23420,Helen Webb "the Dancer",OK,2.93,Leather,43.00,11.00,19.97,473.00,858.71,39.95,1371.66

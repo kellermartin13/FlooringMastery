@@ -1,0 +1,14 @@
+2051,Rune Rougehate,Hartshill Ward,41.98,Incubi's Mirrorfog Iron Of The Ocean,188.00,4798.76,-19.59,902166.88,-3682.92,377363.26,1275847.22
+2608,Deathbrood,The Fortress of the Lich Queen,36.35,Negative Mercury,197.00,4054.87,361.00,798809.39,71117.00,313173.50,1183099.89
+4189,Jericho Wolf,Barad Cune,26.00,Tritons' Time Stoneiron Of Legend,305.00,1760.00,168.90,536800.00,51514.50,152961.77,741276.27
+4822,Bronzespike,Grove Farthing,18.00,Meteoric Mirrormuck Orichalcum Of The Forests,282.00,1962.00,185.77,553284.00,52387.14,109020.81,714691.95
+5044,Slayer Claw,Boiaburh Keep,16.00,Hell Mercury Of The East,151.00,4636.34,284.60,700087.34,42974.60,118889.91,861951.85
+6759,Dawn Darkzealot,The Tower of Aces the Accursed,13.31,Emerald Orichalcum,215.00,-368.87,128.90,-79307.05,27713.50,-6707.16,-58300.71
+7636,Blazeflare The Cremator,The Tower of Aramum,42.90,Poison Adamant,328.00,1151.38,58.58,377652.64,19214.24,170652.76,567519.64
+11968,Sunset Knightclaw,Ring District,35.00,Shadowy Adamant,111.00,618.93,526.44,68701.23,58434.84,44497.62,171633.69
+12280,Springsprocket,Archscepter Borough,3.00,Toxin Iceplatinum Of The Undead,186.00,-377.06,-59.29,-70133.16,-11027.94,-2434.83,-83595.93
+15751,"Gono, Goddess of the Earth",Cawold Castle,24.09,Incubi's Iron Of The Dawn,198.00,1200.96,424.31,237790.08,84013.38,77232.83,399036.29
+16525,Flora Amberslayer,The Drunken Thief,12.65,Fleshshock Mercury,207.00,4858.70,338.07,1005750.90,69980.49,139845.08,1215576.47
+16777,Nailpiston The Grasping,The Forsaken Sepulcher of Sorrows,53.67,Mistgold Of Men,161.00,4080.46,53.24,656954.06,8571.64,359383.88,1024909.58
+18620,Lightning Brand,The Tower of Aramum,42.90,Lunar Bronze,124.00,829.25,337.70,102827.00,41874.80,62221.77,206923.57
+19960,"Lionare, God of the Lost",The Tomb of Hellish Ruin,16.94,Incubi's Iron Of The Dawn,285.00,1200.96,424.31,342273.60,120928.35,78744.33,541946.28

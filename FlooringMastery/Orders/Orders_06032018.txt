@@ -1,0 +1,23 @@
+596,Wilma "Tornado" Brooks,KS,0.50,Dirt,143.00,0.50,1.00,71.50,143.00,0.00,214.50
+1560,Heather "Tornado" Newman,IA,1.00,Leather,304.00,10.00,15.00,3040.00,4560.00,76.00,7676.00
+2229,Theresa "Kid" Robinson,UT,0.00,Dirt,233.00,0.50,1.00,116.50,233.00,0.00,349.50
+3870,Cathy "Loner Demon" Murray,CA,0.55,Leather,112.00,10.00,16.50,1120.00,1848.00,29.68,2997.68
+5719,Florence "Leather Doc" Grant,AR,2.20,Brick,161.00,4.84,6.66,779.24,1072.26,37.03,1888.53
+5826,Allison "Steel Gravedigger" Douglas,NV,0.25,Packed Dirt,326.00,1.00,1.50,326.00,489.00,0.00,815.00
+6393,Susan "Damnation" Fleming,MT,3.00,Packed Dirt,270.00,1.00,1.50,270.00,405.00,20.25,695.25
+6465,Heather "Tornado" Newman,AL,1.00,Reeds,153.00,0.75,2.20,114.75,336.60,4.51,455.86
+6482,Helen Webb "the Dancer",AR,2.20,Dirt,287.00,0.50,1.00,143.50,287.00,8.61,439.11
+6940,"Sunrise" Miles,MS,3.00,Packed Dirt,319.00,1.00,1.50,319.00,478.50,23.92,821.42
+7922,"Sunrise" Miles,NM,2.20,Leather,158.00,10.00,18.15,1580.00,2867.70,88.95,4536.65
+9074,Allison "Steel Gravedigger" Douglas,MO,2.20,Cedar Planks,144.00,2.20,6.05,316.80,871.20,23.76,1211.76
+9677,Gladys "Locoweed" Keller,OK,2.20,Solid Oak,195.00,5.50,5.50,1072.50,1072.50,42.90,2187.90
+9991,Tammy Carlson "the Killer",MO,2.20,Beechwood,158.00,3.00,5.50,474.00,869.00,26.86,1369.86
+12358,Friendly Howell,MO,2.20,Cedar Planks,83.00,2.20,6.05,182.60,502.15,13.70,698.45
+15195,Beth "Fortunate Shooter" Powell,CA,0.61,Brick,111.00,5.32,6.66,590.52,739.26,13.30,1343.08
+17525,Gloria "Devil" McCoy,NM,2.66,Dirt,290.00,0.50,1.00,145.00,290.00,13.05,448.05
+17809,Dorothy "the Hunter",TX,0.67,Solid Oak,115.00,5.50,6.66,632.50,765.90,13.98,1412.38
+18097,Maureen "Cursed" Andrews,UT,0.00,Dirt,116.00,0.50,1.00,58.00,116.00,0.00,174.00
+19632,Gladys "Locoweed" Keller,AL,1.00,Leather,253.00,11.00,19.97,2783.00,5052.41,78.35,7913.76
+21741,"Doom" McCoy,WY,0.31,Dirt,300.00,0.55,1.00,165.00,300.00,0.00,465.00
+23052,Helen Webb "the Dancer",OK,2.93,Cedar Planks,364.00,2.20,6.66,800.80,2424.24,96.75,3321.79
+23336,Renee "Hellish Empress" Banks,MT,5.84,Pinecones,83.00,1.50,2.93,124.50,243.19,22.06,389.75

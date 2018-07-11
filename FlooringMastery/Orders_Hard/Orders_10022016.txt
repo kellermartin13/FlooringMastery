@@ -1,0 +1,15 @@
+1470,Wheelbolt The Machine,The Beggar and Cask,21.00,Grayplatinum,135.00,2071.30,279.06,279625.50,37673.10,66632.71,383931.31
+2691,Freezebrood,Boiaburh Keep,16.00,Negative Mercury,82.00,4054.87,361.00,332499.34,29602.00,57936.21,420037.55
+4673,Sunrise Godwarlock,Tradun Castle,34.24,Legendary Mithril Of The Moon,89.00,2461.00,114.40,219029.00,10181.60,77931.60,307142.20
+6019,Wheelspawn,The Tower of Aramum,39.00,Trolls' Mist Poisonplatinum Of The Twilight,240.00,516.17,394.90,123880.80,94776.00,85276.15,303932.95
+7085,Rune Rougehate,Barad Kesa,4.32,Hell Mercury Of The East,219.00,4636.34,284.60,1015358.46,62327.40,43107.43,1120793.29
+9980,"Ingwenel, God of War",The Dark Caverns of Woe,3.29,Shadowy Adamant,103.00,618.93,478.58,63749.79,49293.74,3391.31,116434.84
+13656,Spikesnare,Castle Village,41.26,Toxic Mistlead Of The Past,279.00,1557.54,136.06,434553.66,37960.74,193730.90,666245.30
+16268,Spikebrood The Disinterred,The Lost Sanctum of Woe,3.30,Nymphs' Luminous Rotmercury Of The Skies,90.00,292.60,189.00,26334.00,17010.00,1300.32,44644.32
+18380,Deathbrood,Boiaburh Keep,17.60,Undeads' Mind Orichalcum Of The Twilight,244.00,-17.00,276.00,-4148.00,67344.00,11375.28,74571.28
+18714,Claw Mist,The Tower of Aces the Accursed,13.31,Venom Timegold Of Dwarves,129.00,3339.60,295.90,430808.40,38171.10,60967.34,529946.84
+18752,Spikerivet,The Glano Forest,3.00,Nymphs' Luminous Rotmercury Of The Skies,140.00,292.60,207.90,40964.00,29106.00,2102.10,72172.10
+18981,Spikespawn,The Bastion of Barbos,28.34,Sirens' Rockgold,147.00,-352.01,199.96,-51745.47,29394.12,-6258.38,-28609.73
+19932,Blazeflare The Cremator,Unicorn's Ward,14.64,Primordial False Gold,282.00,5395.80,248.60,1521615.60,70105.20,238758.12,1830478.92
+20262,"Finarfin, God of Protection",The Bastion of Gothmog of Udun,54.84,Primordial False Gold,353.00,5395.80,248.60,1904717.40,87755.80,1095860.26,3088333.46
+21296,Rune Rougehate,Pawic Keep,0.62,Angels' Smoke Adamant Of The Mountains,265.00,3427.13,260.15,908189.45,68939.75,9771.29,986900.49

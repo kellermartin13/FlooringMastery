@@ -1,0 +1,18 @@
+2137,Bedlam Spiritraven,Barad Cune,26.00,Spirits' Living Wordhammer Tin Of The Trees,244.00,4343.00,26.40,1059692.00,6441.60,277194.74,1343328.34
+2546,Lightning Brand,The Dismal Marsh,5.00,Phantasmal Smokezephyr Mercury Of Men,193.00,-317.16,69.00,-61211.88,13317.00,-2394.74,-50289.62
+2554,Flora Amberslayer,The Bastion of Barbos,21.29,Fog Lavaplatinum Of Life,168.00,1078.00,17.00,181104.00,2856.00,38631.60,222591.60
+2774,Flameflare The Evil,The Khazahol Crags,-1.97,Negative Mercury,161.00,4054.87,361.00,652834.07,58121.00,-14219.10,696735.97
+4098,Snarepiston The Mechanical,The Archer and Scroll,39.60,Tritons' Time Stoneiron Of Legend,281.00,1760.00,168.90,494560.00,47460.90,216808.36,758829.26
+5000,Zeal Bladewitch,Grove Farthing,18.00,Thunderbirds' Transcendent Dreamiron,227.00,2275.25,237.70,516481.75,53957.90,102679.14,673118.79
+9410,"Ariel, God of Luck",The Pirate's Pipe,17.60,Spectres' Shadowy Terrorglow Adamant Of Life,133.00,4694.80,205.50,624408.40,27331.50,117313.18,769053.08
+10022,Shiverflame The Freezer,The Nulukkhath Spires,10.59,Meteoric Dustzephyr Orichalcum,208.00,375.00,244.08,78000.00,50768.64,14164.55,142933.19
+10712,Ironbrood,The Dread Hive of Illfang the Kobold Lord,1.33,Litches' Fatal Mithril Of The Past,262.00,1327.98,369.05,347930.76,96691.10,4446.22,449068.08
+10780,"Lionare, God of the Lost",Haukri's Hold,27.83,Icy Shock Silver,192.00,1482.98,407.00,284732.16,78144.00,101605.32,464481.48
+14238,Bronzespawn,Dysley Stronghold,45.98,Pearl Mirrorice Steel Of Changelings,241.00,298.66,41.88,71977.06,10093.08,37752.26,119822.40
+14554,Rouge Tombreaper,Barad Kesa,4.75,Unicorns' Evil Mithril,101.00,4802.49,377.52,485051.49,38129.52,26159.05,549340.06
+15199,"Iran, Lord of Nightmares",Gena's Hold,2.66,Ghostly Soul Adamant,215.00,3222.96,229.53,692936.40,49348.95,22268.56,764553.91
+17208,Magus Felldrake,Weke Tower,-0.07,Meteoric Mirrormuck Orichalcum Of The Forests,180.00,2374.02,185.77,427323.60,33438.60,0.00,460762.20
+17435,Dawn Darkzealot,Lamp Borough,4.95,Angels' Smoke Adamant Of The Mountains,158.00,3427.13,260.15,541486.54,41103.70,29129.51,611719.75
+19870,Burnfreeze The Cold,The Bastion of Gothmog of Udun,54.84,Angels' Smoke Adamant Of The Mountains,161.00,3427.13,260.15,551767.93,41884.15,326508.64,920160.72
+21122,Metalbrood,Eved Castle,5.09,Planar Obsidian Mercury Of Wizards,312.00,2831.40,155.73,883396.80,48587.76,46599.23,978583.79
+21509,Spikebrood The Disinterred,The Fortress of Asmamur,-4.93,God-touched Faterainbow Orichalcum Of Spectres,217.00,370.41,35.21,80378.97,7640.57,-4400.98,83618.56

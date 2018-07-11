@@ -1,0 +1,14 @@
+323,Maverick Wind,The Temple of Merciless Necromancy,42.10,Legendary Mithril Of The Moon,266.00,2461.00,104.00,654626.00,27664.00,286561.80,968851.80
+1623,Bolttrap,The Hunter and Rose,36.73,Incubi's Glittering Tin Of The Future,85.00,2287.78,72.60,194461.30,6171.00,74233.95,274866.25
+2568,Sunrise Godwarlock,Pawic Keep,0.56,Fog Lavaplatinum Of Life,164.00,1078.00,17.00,176792.00,2788.00,1795.80,181375.80
+7975,"Ariel, God of Luck",Grori's Deep,49.95,Venom Timegold Of Dwarves,382.00,3036.00,269.00,1159752.00,102758.00,631255.00,1893765.00
+9699,Zeal Bladewitch,Lamp Borough,4.95,Golems' Stonesapphire Gold Of The Glacier,109.00,3672.77,105.97,400331.93,11550.73,20594.13,432476.79
+10539,"Ahah, Goddess of Knowledge",The Fortress of Gama,10.16,Shadow Steel,206.00,4677.78,465.30,963622.68,95851.80,105947.45,1165421.93
+12207,"Iran, Lord of Nightmares",Lordsgate Farthing,41.14,Unicorns' Evil Mithril,135.00,4802.49,312.00,648336.15,42120.00,283087.02,973543.17
+12327,Shadow Gust,The Dismal Marsh,6.05,Unknown Fatelightning Steel Of The Glacier,186.00,2441.05,59.71,454035.30,11106.06,27908.48,493049.84
+14200,Lord Mystery,The Chuallanto Jungle,40.70,Sprites' Transcendent Mud Lead Of The South,161.00,2081.80,321.86,335169.80,51819.46,158665.60,545654.86
+15644,Bronzespawn,The Fortress of Asmamur,-4.93,Rainbowglitter Tin,93.00,5957.39,213.40,554037.27,19846.20,-28694.17,545189.30
+18298,Blazeflare The Cremator,Lamp Borough,4.95,God-touched Faterainbow Orichalcum Of Spectres,203.00,370.41,32.01,75193.23,6498.03,4084.56,85775.82
+19020,"Selik, God of Death",The Drunken Thief,12.65,Grayplatinum,190.00,3032.59,306.97,576192.10,58324.30,82487.13,717003.53
+19294,Shadow Tomblion,Hafeld Keep,46.71,Unspeakable Rotsoul Mithril Of Souls,234.00,248.00,485.85,58032.00,113688.90,80708.82,252429.72
+19896,"Sielach, God of Fate",The Tomb of Hellish Ruin,16.94,Angels' Smoke Adamant Of The Mountains,281.00,3427.13,260.15,963023.53,73102.15,176141.37,1212267.05

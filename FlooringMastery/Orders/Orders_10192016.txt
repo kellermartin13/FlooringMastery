@@ -1,0 +1,21 @@
+648,Renee "Hellish Empress" Banks,WY,0.25,Dirt,189.00,0.50,1.00,94.50,189.00,0.00,283.50
+2414,Helen Webb "the Dancer",NV,0.25,Reeds,176.00,0.75,2.00,132.00,352.00,0.00,484.00
+3264,Jo "the Joker",TX,0.50,Brick,177.00,4.00,5.50,708.00,973.50,0.00,1681.50
+4320,Theresa "Scalphunter" Romero,NV,0.25,Cedar Planks,217.00,2.00,5.50,434.00,1193.50,0.00,1627.50
+4339,Tammy Carlson "the Killer",NM,2.20,Solid Oak,198.00,5.50,5.50,1089.00,1089.00,43.56,2221.56
+4379,Joanne "Damned" Miles,MO,2.20,Brick,220.00,4.40,5.50,968.00,1210.00,43.56,2221.56
+4691,Gloria "Devil" McCoy,ID,0.00,Beechwood,145.00,3.00,5.00,435.00,725.00,0.00,1160.00
+5009,Maureen "Cursed" Andrews,MS,3.00,Packed Dirt,154.00,1.00,1.50,154.00,231.00,11.55,396.55
+5522,April "Thunderbird" Dunn,NM,2.20,Brick,244.00,4.84,6.66,1180.96,1625.04,56.12,2862.12
+5747,Gloria "Devil" McCoy,OK,2.20,Packed Dirt,55.00,1.00,1.50,55.00,82.50,2.75,140.25
+10342,Vengeful Montgomery,ND,1.25,Pinecones,303.00,1.50,2.66,454.50,805.98,12.60,1273.08
+10846,Cathy "Wildfire" Neal,NM,2.20,Beechwood,225.00,3.00,5.50,675.00,1237.50,38.25,1950.75
+10848,Renee "Loco Tracker" Jordan,IA,1.21,Leather,238.00,10.00,18.15,2380.00,4319.70,67.00,6766.70
+12443,Betty "Happy Thinker" Watson,ND,1.38,Brick,199.00,4.84,6.66,963.16,1325.34,22.88,2311.38
+17268,Tammy Carlson "the Killer",CA,0.61,Pinecones,290.00,1.50,2.66,435.00,771.40,12.06,1218.46
+19901,Friendly Howell,CA,0.67,Beechwood,165.00,3.63,6.05,598.95,998.25,15.97,1613.17
+19978,Jo "the Joker",UT,0.00,Solid Oak,138.00,5.50,6.66,759.00,919.08,0.00,1678.08
+21396,Evelyn "Evil Joker" Taylor,OK,2.66,Pebbles,232.00,0.88,4.84,204.16,1122.88,39.81,1366.85
+23009,Renee "Loco Tracker" Jordan,KS,0.55,Leather,215.00,11.00,19.97,2365.00,4293.55,66.59,6725.14
+23132,Dorothy "the Hunter",CA,0.67,Pebbles,278.00,0.88,5.32,244.64,1478.96,17.24,1740.84
+23480,Tammy Carlson "the Killer",NV,0.31,Reeds,210.00,0.91,2.42,191.10,508.20,0.00,699.30

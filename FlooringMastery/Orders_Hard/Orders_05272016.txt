@@ -1,0 +1,20 @@
+1471,Bonescare,Archtemple District,27.76,Venom Jewelmetal Of The Desert,329.00,1388.00,224.00,456652.00,73696.00,148497.44,678845.44
+1564,"Lionare, God of the Lost",The Beggar and Cask,21.00,Starlight Pearldream Bronze,81.00,242.00,134.00,19602.00,10854.00,6395.76,36851.76
+1768,Law Lionwatcher,The Lazy Sage,15.00,Venom Jewelmetal Of The Desert,117.00,1388.00,224.00,162396.00,26208.00,28290.60,216894.60
+4241,Cinderember,Citadel Ward,25.82,Sapphire Mindlead,190.00,1307.71,47.00,248464.90,8930.00,66922.67,324317.57
+5611,"Zepul, Lady of Vengeance",Gena's Hold,2.20,Greenlead,200.00,793.10,148.47,158620.00,29694.00,3766.28,192080.28
+6459,Blazefreeze The Chiller,South Brightcrown Borough,42.25,Grayplatinum,63.00,2506.27,279.06,157895.01,17580.78,73699.83,249175.62
+7981,Cinderember,The Tower of Aramum,42.90,Planar Obsidian Mercury Of Wizards,263.00,2574.00,141.57,676962.00,37232.91,307103.81,1021298.72
+10523,Springpulley The Binder,The Shadow Downs,13.21,Shadow Steel,136.00,4677.78,465.30,636178.08,63280.80,90929.65,790388.53
+13117,"Penur, Lord of the Sea",The Grey Plains,19.97,Phantasmal Lead,238.00,-552.97,245.47,-131606.86,58421.86,-14637.00,-87822.00
+14843,Deathspike The Terrifying,The Forsaken Sepulcher of Sorrows,53.67,Primordial Mud Orichalcum,119.00,-387.90,85.11,-46160.10,10128.09,-19457.29,-55489.30
+14907,Beamtrap,The Tower of Aces the Accursed,13.31,Grayplatinum,306.00,2506.27,306.97,766918.62,93932.82,111910.69,972762.13
+15570,Song Runetomb,Gili's Delve,-6.73,Incubi's Iron Of The Dawn,112.00,1200.96,424.31,134507.52,47522.72,-12742.12,169288.12
+15601,"Gono, Goddess of the Earth",The Fortress of Asmamur,-4.93,Djinni's Spectral Shadowlead Of Life,328.00,4076.49,325.62,1337088.72,106803.36,-72194.60,1371697.48
+15625,Scarechain The Unspeakable,The Desert of Flames,51.91,Plague Tin,180.00,4767.02,342.10,858063.60,61578.00,478213.63,1397855.23
+18228,Lord Mystery,Grori's Deep,66.50,Trolls' Mist Poisonplatinum Of The Twilight,66.00,567.79,434.39,37474.14,28669.74,43654.96,109798.84
+18729,Rouge Roguemist,The Tower of Aramum,42.90,Primordial Plague Mercury Of Legend,242.00,497.52,301.29,120399.84,72912.18,83124.17,276436.19
+19290,Rose Anchor,The Secret Shrine of the Gargoyle Count,-2.00,Unicorns' Evil Mithril,162.00,4802.49,377.52,778003.38,61158.24,-16783.23,822378.39
+19500,Snarepiston The Mechanical,Archfane District,36.16,Witchs' Forbidden Rockrainbow Bronze,269.00,655.60,425.92,176356.40,114572.48,104734.40,395663.28
+19638,Jericho Wolf,Noble's Village,33.28,Toxic Mistlead Of The Past,151.00,1557.54,164.64,235188.54,24860.64,85816.23,345865.41
+21556,Harmony Angelchild,Unicorn's Ward,14.64,Phantasmal Tin Of The Swamps,250.00,5964.74,-7.99,1491185.00,-1997.50,223378.12,1712565.62

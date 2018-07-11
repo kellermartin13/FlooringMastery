@@ -1,0 +1,20 @@
+1410,"Gadriel, God of Resurrection",Archtemple District,27.76,Ensorceled Sandmetal Of Spirits,200.00,2956.98,87.00,591396.00,17400.00,170462.88,779258.88
+2005,Rune Rougehate,Haukri's Hold,25.30,Violetdream Iron,141.00,1224.69,349.36,172681.29,49259.76,55485.26,277426.31
+2858,Fate Seeker,The Grey Plains,19.97,Phantasmal Tin Of The Swamps,208.00,4074.00,-6.60,847392.00,-1372.80,169203.84,1015223.04
+9256,"Alas, Lord of Plague",The Dancing Minstrel,21.20,Negative Rockglitter Mercury Of Trolls,287.00,1483.90,465.38,425879.30,133564.06,117483.11,676926.47
+10097,Bane Veil,The Warrior and Flagon,48.40,Meteoric Dustzephyr Orichalcum,257.00,375.00,244.08,96375.00,62728.56,76369.71,235473.27
+10558,Claw Mist,The Khazahol Crags,-1.97,Litches' Fatal Mithril Of The Past,288.00,1327.98,369.05,382458.24,106286.40,-9774.89,478969.75
+10832,"Lenwenye, Goddess of Travel",The Khazahol Crags,-1.97,Witchs' Forbidden Rockrainbow Bronze,192.00,596.00,387.20,114432.00,74342.40,-3775.49,184998.91
+11888,Steelterror The Blade,The Archer and Scroll,39.60,Icy Shock Silver,157.00,1482.98,407.00,232827.86,63899.00,118690.74,415417.60
+14035,Burnbrood The Freezer,The Cracked Chalice,2.52,Ghostly Soul Adamant,247.00,3222.96,229.53,796071.12,56693.91,25582.95,878347.98
+14577,"Melcha, Goddess of Thieves",The Tower of Sabiesu the Awesome,5.32,Witchs' Forbidden Rockrainbow Bronze,161.00,655.60,425.92,105551.60,68573.12,8706.24,182830.96
+15213,Lightning Brand,The Greedy Wench,32.70,Legendary Mithril Of The Moon,348.00,2707.10,125.84,942070.80,43792.32,325334.83,1311197.95
+16015,Shadow Tomblion,Haukri's Hold,27.83,Swordbronze,77.00,1485.01,447.01,114345.77,34419.77,41654.35,190419.89
+16376,Rouge Tombreaper,Barad Kesa,4.75,Lycanthropes' Gold,138.00,4846.18,66.14,668772.84,9127.32,33895.01,711795.17
+17068,Icechill The Frigid,The Temple of Merciless Necromancy,50.94,Warlocks' Timerot Mithril,238.00,2917.07,112.00,694262.66,26656.00,367668.52,1088587.18
+17185,Clash Lonedrake,Castle Village,45.39,Incubi's Glittering Tin Of The Future,130.00,3349.54,87.85,435440.20,11420.50,201087.32,647948.02
+18252,Emberspawn,The Fortress of the Lich Queen,36.35,Negative Rockglitter Mercury Of Trolls,366.00,1632.29,619.42,597418.14,226707.72,296685.31,1120811.17
+18520,Chillfire The Chiller,Archring Borough,21.69,Goddesses' Spectral Poison Steel,222.00,5023.18,296.81,1115145.96,65891.82,259828.31,1440866.09
+20258,Sunset Knightclaw,Moor Village,76.43,Grayplatinum,286.00,3032.59,306.97,867320.74,87793.42,725886.76,1681000.92
+21469,Graveterror,Eved Castle,5.09,Planar Rainfate Mithril,119.00,1304.42,320.52,155225.98,38141.88,9668.39,203036.25
+22053,Metalbrood,The Grey Plains,21.97,Poison Adamant,280.00,1266.52,70.88,354625.60,19846.40,82383.84,456855.84

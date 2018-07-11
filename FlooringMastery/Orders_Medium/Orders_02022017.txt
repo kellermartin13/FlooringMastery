@@ -1,0 +1,15 @@
+2716,Vengeful Montgomery,AR,2.20,Packed Dirt,209.00,1.00,1.50,209.00,313.50,10.45,532.95
+3211,Surgeon Grant,AL,1.00,Solid Oak,271.00,5.50,5.00,1490.50,1355.00,28.46,2873.96
+4937,Black Beck,NM,2.20,Reeds,175.00,0.75,2.20,131.25,385.00,10.32,526.57
+6867,Debra "Scorpion" Lane,MT,3.00,Cedar Planks,113.00,2.20,6.05,248.60,683.65,27.97,960.22
+7970,Jacqueline "Riding Doc" Washington,NM,2.20,Pinecones,209.00,1.50,2.66,313.50,555.94,17.39,886.83
+9240,Deborah "the Lady",ND,1.25,Brick,217.00,4.84,6.66,1050.28,1445.22,24.96,2520.46
+9802,Evelyn "Evil Joker" Taylor,AR,2.20,Packed Dirt,102.00,1.00,1.50,102.00,153.00,5.10,260.10
+9889,Darlene "Loner" Ford,AL,1.00,Pebbles,235.00,0.88,4.84,206.80,1137.40,13.44,1357.64
+12136,Helen Webb "the Dancer",NV,0.31,Dirt,95.00,0.50,1.00,47.50,95.00,0.00,142.50
+13138,Amanda Hart "the Loner",MT,3.63,Cedar Planks,114.00,2.20,6.05,250.80,689.70,37.62,978.12
+13443,Kathy Murphy "the Thinker",ND,1.38,Dirt,178.00,0.50,1.00,89.00,178.00,2.67,269.67
+14413,Melissa "Lonesome Stalker" Riley,AR,2.20,Dirt,226.00,0.50,1.00,113.00,226.00,6.78,345.78
+18681,Vicki "Mesa" Rhodes,AL,1.00,Pinecones,227.00,1.50,2.66,340.50,603.82,9.44,953.76
+18755,Debra "Scorpion" Lane,OK,2.42,Leather,104.00,11.00,19.97,1144.00,2076.88,64.42,3285.30
+18835,Evelyn "Evil Joker" Taylor,NV,0.31,Pebbles,239.00,0.88,4.84,210.32,1156.76,0.00,1367.08

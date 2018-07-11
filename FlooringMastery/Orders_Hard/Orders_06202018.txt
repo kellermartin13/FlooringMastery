@@ -1,0 +1,21 @@
+423,Burnfreeze The Cold,The Forsaken Tomb of Devastation,0.00,Trolls' Mist Poisonplatinum Of The Twilight,246.00,516.17,394.90,126977.82,97145.40,0.00,224123.22
+1874,Maverick Wind,The Forsaken Tomb of Devastation,0.00,Spirits' Living Wordhammer Tin Of The Trees,286.00,4343.00,26.40,1242098.00,7550.40,0.00,1249648.40
+2307,"Alas, Lord of Plague",The Nulukkhath Spires,9.63,Unholy Poison Copper Of The Mountains,70.00,528.10,-9.24,36967.00,-646.80,3632.02,39952.22
+2410,Flameshiver,The Nulukkhath Spires,9.63,Fog Lavaplatinum Of Life,274.00,1078.00,17.00,295372.00,4658.00,30003.00,330033.00
+3216,Sephiroth Drakecaster,The Fortress of Gama,10.16,Rainbowglitter Tin,336.00,4923.46,176.36,1654282.56,59256.96,171353.95,1884893.47
+3776,"Zepul, Lady of Vengeance",Grori's Deep,45.41,Violetstone Tin Of Death,195.00,2245.23,156.10,437819.85,30439.50,210716.71,678976.06
+5105,Rouge Tombreaper,The Pirate's Pipe,17.60,Ensorceled Sandmetal Of Spirits,179.00,2956.98,87.00,529299.42,15573.00,98077.04,642949.46
+6969,Fate Seeker,The Forsaken Delve of Lord Greywulf,39.00,Djinni's Mind Fogiron,9.00,2301.02,74.02,20709.18,666.18,8336.39,29711.75
+9419,Tarot Dawn,The Forsaken Sepulcher of Sorrows,48.79,Unicorns' Fatal Magma Metal Of The Ocean,259.00,1792.04,392.70,464138.36,101709.30,277265.35,843113.01
+11807,Seraph Jester,The Broken Arrow,30.07,Unicorns' Fatal Magma Metal Of The Ocean,263.00,1971.24,392.70,518436.12,103280.10,186514.87,808231.09
+11966,"Ariel, God of Luck",The Secret Catacombs of Ulfang the Black,42.90,Angels' Adamant,234.00,1304.00,179.30,305136.00,41956.20,149249.65,496341.85
+12186,Steelterror The Blade,Lordsgate Farthing,41.14,White Platinum,286.00,-52.59,159.50,-15040.74,45617.00,12536.27,43112.53
+14684,Evilfear The Horrorific,Grove Farthing,19.80,Witchs' Forbidden Rockrainbow Bronze,112.00,655.60,425.92,73427.20,47703.04,24226.05,145356.29
+15128,Wind Dire,The Pilgrim's Cup,46.12,Grayplatinum,225.00,2506.27,306.97,563910.75,69068.25,291170.34,924149.34
+15157,Spikebrood The Disinterred,Shainan's Hold,23.96,Grayplatinum,254.00,2506.27,306.97,636592.58,77970.38,171495.11,886058.07
+15642,"Byzou, God of Animals",Cawold Castle,24.09,Sphinxes' Unknown Poisongold Of The Future,368.00,3910.25,23.86,1438972.00,8780.48,347460.60,1795213.08
+17902,"Eumyan, Goddess of Law",Grori's Deep,66.50,Trolls' Mist Poisonplatinum Of The Twilight,311.00,567.79,434.39,176582.69,135095.29,205707.47,517385.45
+19241,Spikebrood The Disinterred,The Bastion of Barbos,28.34,Violetdream Iron,279.00,1347.16,349.36,375857.64,97471.44,132532.14,605861.22
+20081,"Alik, Goddess of Trickery",The Dismal Marsh,6.66,Timeiron,172.00,1596.00,251.16,274512.00,43199.52,22239.81,339951.33
+20261,"Addon, Lord of Death",The Fen of the Necromancer,72.63,Angels' Smoke Adamant Of The Mountains,266.00,3427.13,260.15,911616.58,69199.90,715996.03,1696812.51
+22198,Tarot Dawn,The Beggar and Cask,25.41,Toxin Iceplatinum Of The Undead,278.00,-377.06,-59.29,-104822.68,-16482.62,-30326.32,-151631.62

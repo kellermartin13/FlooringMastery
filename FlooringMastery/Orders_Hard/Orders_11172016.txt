@@ -1,0 +1,19 @@
+76,Rouge Roguemist,The Demon and Toad,23.75,Meteoric Mirrormuck Orichalcum Of The Forests,79.00,1962.00,168.88,154998.00,13341.52,40401.48,208741.00
+1839,Mecharig The Living Device,The Tomb of Hellish Ruin,14.00,Stone Soulsteel Of The Skies,100.00,1634.80,12.01,163480.00,1201.00,23055.34,187736.34
+2194,"Iran, Lord of Nightmares",Hartshill Ward,41.98,Stone Soulsteel Of The Skies,341.00,1634.80,12.01,557466.80,4095.41,235856.13,797418.34
+2197,Jericho Wolf,Tower Farthing,22.41,Violetdream Iron,187.00,1224.69,349.36,229017.03,65330.32,64756.42,359103.77
+3072,Snarepiston The Mechanical,The Hunter and Rose,40.40,Mithril Of The Tropics,94.00,3751.00,9.00,352594.00,846.00,141376.00,494816.00
+3801,Gravebone,Grori's Deep,45.41,Ensorceled Sandmetal Of Spirits,185.00,2956.98,87.00,547041.30,16095.00,253411.34,816547.64
+6307,Rose Anchor,The Dark Caverns of Woe,3.29,Unicorns' Fatal Magma Metal Of The Ocean,79.00,1792.04,392.70,141571.16,31023.30,5177.83,177772.29
+8827,Blazeflare The Cremator,The Bastion of the Vampire Duke,19.28,Negative Rockglitter Mercury Of Trolls,204.00,1483.90,465.38,302715.60,94937.52,75554.09,473207.21
+9430,"Avriel, God of Death",Tower Farthing,27.12,Golems' Stonesapphire Gold Of The Glacier,302.00,3672.77,105.97,1109176.54,32002.94,308118.46,1449297.94
+11620,Tarot Dawn,South Brightcrown Borough,42.25,Magic Adamant,293.00,1838.00,228.40,538534.00,66921.20,254291.18,859746.38
+12091,Steelterror The Blade,The Tomb of Hellish Ruin,16.94,Witchs' Forbidden Rockrainbow Bronze,185.00,655.60,387.20,121286.00,71632.00,32796.06,225714.06
+12938,Wheelbolt The Machine,The Fortress of Gama,10.16,Sapphire Mindlead,131.00,1307.71,47.00,171310.01,6157.00,17746.70,195213.71
+14246,"Penur, Lord of the Sea",The Citadel of Lord Greywulf,33.04,Sprites' Transcendent Mud Lead Of The South,185.00,2081.80,321.86,385133.00,59544.10,146743.44,591420.54
+14461,"Alik, Goddess of Trickery",Reyny Keep,11.00,Swordbronze,227.00,1485.01,447.01,337097.27,101471.27,48242.54,486811.08
+14551,Cinderember,Barad Kesa,4.75,Phantasmal Tin Of The Swamps,107.00,4929.54,-7.26,527460.78,-776.82,26334.20,553018.16
+17746,Fate Seeker,Weke Tower,-0.07,Negative Rockglitter Mercury Of Trolls,284.00,1632.29,619.42,463570.36,175915.28,0.00,639485.64
+18216,Sephiroth Drakecaster,Lamp Borough,4.95,Goddesses' Spectral Poison Steel,263.00,4566.53,296.81,1200997.39,78061.03,63952.92,1343011.34
+20197,Shadow Gust,The Tomb of Gothmog of Udun,-3.30,Grayplatinum,154.00,3032.59,306.97,467018.86,47273.38,-15428.77,498863.47
+20308,"Suriel, Lord of Animals",The Dismal Marsh,6.66,Angels' Smoke Adamant Of The Mountains,200.00,3427.13,260.15,685426.00,52030.00,51621.92,789077.92

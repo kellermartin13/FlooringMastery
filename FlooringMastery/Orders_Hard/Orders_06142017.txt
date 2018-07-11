@@ -1,0 +1,17 @@
+872,Sunrise Godwarlock,The Forsaken Tomb of Devastation,0.00,Hidden Shadowice Lead,301.00,2729.00,-46.75,821429.00,-14071.75,0.00,807357.25
+5415,Claw Mist,The Fortress of the Lich Queen,36.35,Rot Silver Of The Past,118.00,3440.00,327.00,405920.00,38586.00,160022.16,604528.16
+8699,Wheelbolt The Machine,The Nulukkhath Spires,10.59,Goddesses' Spectral Poison Steel,205.00,3773.99,269.83,773667.95,55315.15,91188.14,920171.24
+8861,Tarot Dawn,Weke Tower,-0.05,Rocklava Mithril Of Revenants,181.00,1818.30,14.33,329112.30,2593.73,0.00,331706.03
+9553,Sephiroth Drakecaster,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,213.00,3773.99,269.83,803859.87,57473.79,129200.05,990533.71
+11064,Flora Amberslayer,Pawic Keep,0.56,Phantasmal Plague Adamant,98.00,-186.03,-7.18,-18230.94,-703.64,-189.35,-19123.93
+12658,"Finarfin, God of Protection",The Wizard's House,43.58,Phantasmal Smokezephyr Mercury Of Men,255.00,-464.37,75.90,-118414.35,19354.50,-43586.33,-142646.18
+12894,Blazeflare The Cremator,Reheath Stronghold,8.00,Tin Of The Tundra,272.00,3123.86,174.91,849689.92,47575.52,71781.24,969046.68
+14056,Lightning Brand,Lacot Stronghold,37.37,Shadowhell Mithril,81.00,483.15,286.41,39135.15,23199.21,23063.71,85398.07
+14306,Gravebone The Unspeakable,The Lost Sanctum of Woe,3.00,Emerald Orichalcum,264.00,-405.76,128.90,-107120.64,34029.60,-2192.73,-75283.77
+14586,Chainnail,The Archer and Blade,9.90,Unknown Fatelightning Steel Of The Glacier,283.00,2441.05,65.68,690817.15,18587.44,70940.46,780345.05
+17437,"Gadriel, God of Resurrection",The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,185.00,398.09,374.00,73646.65,69190.00,4285.10,147121.75
+17542,Springpulley The Binder,Reyny Keep,11.00,Witchs' Forbidden Rockrainbow Bronze,135.00,655.60,425.92,88506.00,57499.20,16060.57,162065.77
+18644,Lord Mystery,The Glano Forest,3.00,Meteoric Dustzephyr Orichalcum,165.00,375.00,268.49,61875.00,44300.85,3185.28,109361.13
+20066,"Ariel, God of Luck",The Bloody Wand,15.97,Foulopal Copper Of The Skies,115.00,1787.91,403.00,205609.65,46345.00,40312.74,292267.39
+20821,"Lionare, God of the Lost",The Forsaken Hive of Galima the Mighty,29.89,Negative Rockglitter Mercury Of Trolls,98.00,1795.52,681.36,175960.96,66773.28,72820.27,315554.51
+21050,"Ingwenel, God of War",The Black Barrow of Bery,-0.10,Hell Mercury Of The East,217.00,4636.34,378.81,1006085.78,82201.77,0.00,1088287.55

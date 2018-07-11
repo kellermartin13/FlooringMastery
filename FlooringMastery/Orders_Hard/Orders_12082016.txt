@@ -1,0 +1,16 @@
+1873,"Uriel, God of Fate",Hartshill Ward,41.98,Violetdream Iron,196.00,1224.69,349.36,240039.24,68474.56,129575.80,438089.60
+2131,Grave Mistseeker,Haukri's Hold,25.30,Incubi's Mirrorfog Iron Of The Ocean,330.00,4798.76,-19.59,1583590.80,-6464.70,394281.52,1971407.62
+3903,Shadow Gust,Tradun Castle,31.13,Violetstone Tin Of Death,208.00,2245.23,156.10,467007.84,32468.80,154837.76,654314.40
+4401,Cult Godseeker,The Barrow of Terrible Horror,-1.10,Sirens' Rockgold,193.00,-352.01,165.25,-67937.93,31893.25,360.45,-35684.23
+5167,Rouge Tombreaper,Arcanist's Farthing,3.00,Mithril Of Legend,204.00,2274.80,63.01,464059.20,12854.04,14307.40,491220.64
+5396,"Ahah, Goddess of Knowledge",The Tower of Sheshbazzu,3.30,Ensorceled Sandmetal Of Spirits,274.00,2956.98,87.00,810212.52,23838.00,25021.52,859072.04
+10229,Lance Knightseraph,The Bloody Wand,12.00,Magicians' Legendary Poison Metal,210.00,2247.59,229.81,471993.90,48260.10,62430.48,582684.48
+11309,Bolttrap,The Tower of Aces the Accursed,13.31,Tin Of The Tundra,282.00,2839.87,174.91,800843.34,49324.62,110521.83,960689.79
+13956,Mecharig The Living Device,Grove Farthing,19.80,Shadowhell Mithril,268.00,483.15,286.41,129484.20,76757.88,41248.42,247490.50
+14244,Chainhorror,The Citadel of Lord Greywulf,33.04,Tritons' Time Stoneiron Of Legend,210.00,1760.00,204.37,369600.00,42917.70,136130.84,548648.54
+14760,"Melcha, Goddess of Thieves",The Archer and Blade,9.90,Witchs' Forbidden Rockrainbow Bronze,178.00,655.60,425.92,116696.80,75813.76,19251.06,211761.62
+18168,Claw Mist,Lamp Borough,4.95,Legendary Mithril Of The Moon,181.00,2977.81,125.84,538983.61,22777.04,28088.03,589848.68
+18224,Deathspike The Terrifying,The Nulukkhath Spires,11.65,Litches' Fatal Mithril Of The Past,251.00,1460.78,405.96,366655.78,101895.96,56226.21,524777.95
+20438,Lightning Brand,Bergfison's Deep,52.71,Phantasmal Tin Of The Swamps,283.00,5964.74,-7.99,1688021.42,-2261.17,893452.93,2579213.18
+21136,Lightning Brand,The Forsaken Hive of Galima the Mighty,29.89,Hell Mercury Of The East,224.00,4636.34,378.81,1038540.16,84853.44,337018.08,1460411.68
+23058,Burnbrood The Freezer,The Bastion of Sthasu the Gruesome,14.93,Icy Shock Silver,224.00,1794.41,595.89,401947.84,133479.36,80314.08,615741.28

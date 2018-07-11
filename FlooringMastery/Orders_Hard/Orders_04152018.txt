@@ -1,0 +1,18 @@
+2236,"Suriel, Lord of Animals",The Forsaken Tomb of Devastation,0.00,Poison Adamant,230.00,298.00,406.38,68540.00,93467.40,0.00,162007.40
+2363,Seraph Jester,The Cracked Chalice,2.29,Primal Adamant,141.00,4562.80,249.00,643354.80,35109.00,13569.28,692033.08
+4212,"Maglioneth, Lord of the Sun",The Pilgrim's Cup,41.93,Sapphire Mindlead,181.00,1307.71,47.00,236695.51,8507.00,102985.05,348187.56
+4295,"Gadriel, God of Resurrection",Khali's Delve,52.71,Djinni's Mind Fogiron,124.00,2301.02,67.29,285326.48,8343.96,155645.33,449315.77
+4789,"Gadriel, God of Resurrection",North Grove Ward,6.60,Negative Mercury,277.00,4054.87,361.00,1123198.99,99997.00,85623.72,1308819.71
+5659,Blazeflare The Cremator,Boiaburh Keep,16.00,Forgotten Mithril,260.00,913.00,316.00,237380.00,82160.00,51126.40,370666.40
+6822,Bolttrap,The Tower of Aces the Accursed,13.31,Thunderbirds' Transcendent Dreamiron,281.00,2275.25,237.70,639345.25,66793.70,91798.06,797937.01
+8242,Evilbrood,Lacot Stronghold,33.97,Ensorceled Gold Of The Dawn,97.00,5713.98,402.92,554256.06,39083.24,201735.36,795074.66
+9031,Cinderember,The Citadel of Tattena the Sinister,12.13,Rocklava Mithril Of Revenants,270.00,1818.30,14.33,490941.00,3869.10,59377.21,554187.31
+9757,Deathspike The Terrifying,Haukri's Hold,25.30,Spectres' Shadowy Terrorglow Adamant Of Life,350.00,4694.80,205.50,1643180.00,71925.00,428776.25,2143881.25
+11193,Cinderflame,The Tower of Aces the Accursed,13.31,Primordial False Gold,296.00,5395.80,226.00,1597156.80,66896.00,216326.86,1880379.66
+13523,Dawn Darkzealot,The Warrior and Flagon,53.24,Legendary Mithril Of The Moon,151.00,2707.10,125.84,408772.10,19001.84,226720.19,654494.13
+14444,"Maeglodor, God of Thieves",Barad Kesa,4.75,Unicorns' Evil Mithril,109.00,4802.49,377.52,523471.41,41149.68,28231.05,592852.14
+15612,Spikerivet,Barad Kesa,4.75,God-touched Faterainbow Orichalcum Of Spectres,89.00,370.41,32.01,32966.49,2848.89,1790.77,37606.15
+17508,Dawn Darkzealot,The Grey Plains,19.97,Negative Rockglitter Mercury Of Trolls,248.00,1632.29,619.42,404807.92,153616.16,111684.82,670108.90
+17850,Magus Felldrake,The Nulukkhath Spires,11.65,Goddesses' Spectral Poison Steel,268.00,4566.53,296.81,1223830.04,79545.08,156405.01,1459780.13
+18846,"Maglioneth, Lord of the Sun",Bifar's Deep,18.70,Phantasmal Smokezephyr Mercury Of Men,213.00,-510.81,75.90,-108802.53,16166.70,-17600.81,-110236.64
+23069,Springcoil,The Beggar and Cask,25.41,Pearl Mirrorice Steel Of Changelings,196.00,328.53,55.75,64391.88,10927.00,18829.72,94148.60

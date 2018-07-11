@@ -1,0 +1,21 @@
+2366,Victoria "the Dancer",ND,1.25,Cedar Planks,64.00,2.00,5.50,128.00,352.00,4.80,484.80
+3267,Mattie Grant "the Gambler",AR,2.20,Dirt,73.00,0.50,1.00,36.50,73.00,2.19,111.69
+4439,Minnie Lawson "the Apostle",MO,2.20,Packed Dirt,266.00,1.00,1.50,266.00,399.00,13.30,678.30
+5801,Vanessa "Scalper" Rhodes,AR,2.20,Beechwood,101.00,3.00,5.00,303.00,505.00,16.16,824.16
+6564,Theresa "Scalphunter" Romero,ID,0.00,Beechwood,313.00,3.00,5.00,939.00,1565.00,0.00,2504.00
+9725,Surgeon Grant,IA,1.21,Solid Oak,317.00,5.50,5.50,1743.50,1743.50,34.87,3521.87
+11518,Renee "Loco Tracker" Jordan,WY,0.31,Brick,217.00,4.84,6.66,1050.28,1445.22,0.00,2495.50
+11537,Victoria "the Dancer",UT,0.00,Dirt,165.00,0.50,1.00,82.50,165.00,0.00,247.50
+13097,April "Thunderbird" Dunn,ID,0.00,Beechwood,19.00,3.30,5.50,62.70,104.50,0.00,167.20
+13191,Theresa "Scalphunter" Romero,WY,0.31,Beechwood,57.00,3.30,5.50,188.10,313.50,0.00,501.60
+15159,Susan "Damnation" Fleming,NV,0.31,Cedar Planks,156.00,2.20,6.05,343.20,943.80,0.00,1287.00
+15910,April "Thunderbird" Dunn,OK,2.42,Beechwood,141.00,3.63,5.50,511.83,775.50,25.75,1313.08
+16801,Dorothy "the Hunter",AR,2.20,Reeds,244.00,0.83,2.20,202.52,536.80,14.79,754.11
+18141,Vengeful Robertson,AL,1.00,Pinecones,354.00,1.50,2.66,531.00,941.64,14.73,1487.37
+18928,Theresa "Kid" Robinson,TX,0.67,Dirt,39.00,0.50,1.00,19.50,39.00,0.58,59.08
+19159,Darlene "Loner" Ford,AL,1.00,Solid Oak,110.00,5.50,6.66,605.00,732.60,13.38,1350.98
+19416,Michele Watson "the Loner",AR,2.20,Dirt,156.00,0.50,1.00,78.00,156.00,4.68,238.68
+19845,Deborah "the Lady",OK,2.42,Cedar Planks,200.00,2.20,6.66,440.00,1332.00,35.44,1807.44
+20814,Susan "Damnation" Fleming,MT,4.83,Solid Oak,57.00,5.50,6.66,313.50,379.62,34.66,727.78
+21377,Cathy "Wildfire" Neal,UT,0.00,Leather,205.00,11.00,19.97,2255.00,4093.85,0.00,6348.85
+22204,Heather "Friendly Gambler" Barrett,TX,0.67,Dirt,85.00,0.55,1.00,46.75,85.00,1.32,133.07

@@ -1,0 +1,20 @@
+2,Evilember The Firey,Waleah Castle,0.77,Fairies' Supreme Mistsmoke Lead Of The Future,293.00,3045.00,324.73,892185.00,95145.89,9873.31,997204.20
+690,"Nelalwe, Lady of Fire",The Bastion of Gothmog of Udun,37.45,Fog Lavaplatinum Of Life,200.00,1078.00,17.00,215600.00,3400.00,81030.00,300030.00
+892,Magus Felldrake,The Shadow Downs,13.21,Mithril Of Legend,374.00,2068.00,52.07,773432.00,19474.18,103077.80,895983.98
+1460,"Prusu, God of Love",Lacot Stronghold,30.88,Incubi's Mirrorfog Iron Of The Ocean,278.00,4798.76,-19.59,1334055.28,-5446.02,411868.87,1740478.13
+2145,"Melcha, Goddess of Thieves",Tower Farthing,22.41,Stone Soulsteel Of The Skies,182.00,1634.80,12.01,297533.60,2185.82,65938.27,365657.69
+3108,Rune Rougehate,The Fortress of Gama,10.16,Rocklava Mithril Of Revenants,123.00,1818.30,13.03,223650.90,1602.69,22525.36,247778.95
+3282,Zeal Bladewitch,The Forsaken Hive of Galima the Mighty,22.45,Ensorceled Sandmetal Of Spirits,146.00,2956.98,87.00,431719.08,12702.00,97772.64,542193.72
+4477,"Gadriel, God of Resurrection",Peley Keep,19.78,Sphinxes' Mistsoul Bronze Of The Past,181.00,1793.23,183.70,324574.63,33249.70,71564.87,429389.20
+6984,Storm Squallmourner,The Forsaken Delve of Lord Greywulf,39.00,Hidden Shadowice Lead,295.00,2729.00,-62.23,805055.00,-18357.85,306811.89,1093509.04
+7281,Spikesnare,The Lazy Sage,19.97,Toxic Mistlead Of The Past,133.00,1557.54,136.06,207152.82,18095.98,45049.76,270298.56
+7719,Shiverflame The Freezer,The Tower of Aramum,42.90,Planar Obsidian Mercury Of Wizards,286.00,2574.00,141.57,736164.00,40489.02,333960.80,1110613.82
+9197,"Byzou, God of Animals",The Bastion of the Vampire Duke,19.28,Primordial Plague Mercury Of Legend,272.00,452.29,301.29,123022.88,81950.88,38945.01,243918.77
+10966,Flameflare The Evil,The Fortress of the Lich Queen,36.35,Primordial False Gold,185.00,5395.80,226.00,998223.00,41810.00,374411.88,1414444.88
+11973,Springcoil,The Greedy Wench,32.70,Unicorns' Evil Mithril,112.00,4802.49,312.00,537878.88,34944.00,189031.55,761854.43
+12677,"Lenwenye, Goddess of Travel",The Fortress of Gama,10.16,Swordbronze,101.00,1485.01,447.01,149986.01,45148.01,19513.40,214647.42
+12822,"Lionare, God of the Lost",The Grey Plains,19.97,Mistgold Of Men,189.00,3372.28,53.24,637360.92,10062.36,129484.66,776907.94
+13648,Mecharig The Living Device,Arcanist's Farthing,3.00,Green Dustlightning Mercury,240.00,3868.70,35.20,928488.00,8448.00,28108.08,965044.08
+19961,Scarechain The Unspeakable,Archtemple District,27.76,Incubi's Iron Of The Dawn,199.00,1200.96,424.31,238991.04,84437.69,90560.04,413988.77
+20662,Song Runetomb,The Broken Arrow,36.39,Greenlead,280.00,959.65,179.65,268702.00,50302.00,114841.44,433845.44
+22658,Gale Jackalguard,The Greedy Wench,43.53,Falserainbow Lead,204.00,3215.00,256.30,655860.00,52285.20,311583.89,1019729.09

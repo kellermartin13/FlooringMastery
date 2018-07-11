@@ -1,0 +1,18 @@
+463,"Penur, Lord of the Sea",The Dismal Marsh,5.00,Succubi's Evil Mindzephyr Adamant Of The Desert,150.00,1990.16,250.07,298524.00,37510.50,16801.72,352836.22
+4597,Seraphim Tsunami,The Secret Shrine of the Gargoyle Count,-2.00,Planar Obsidian Mercury Of Wizards,162.00,2574.00,117.00,416988.00,18954.00,-8718.84,427223.16
+4807,Sunrise Godwarlock,Tradun Castle,34.24,Planar Rainfate Mithril,262.00,1185.84,320.52,310690.08,83976.24,134186.55,528852.87
+4900,Metalbrood,The Archer and Scroll,39.60,Vampires' Hammer Emeraldmetal,346.00,379.45,25.84,131289.70,8940.64,56092.14,196322.48
+7132,Springsprocket,The Lost Crypts of Sorrows,35.87,Angels' Smoke Adamant Of The Mountains,207.00,2832.34,215.00,586294.38,44505.00,227087.78,857887.16
+7165,"Maglioneth, Lord of the Sun",Kada's Deep,33.00,Meteoric Dustzephyr Orichalcum,91.00,375.00,244.08,34125.00,22211.28,18590.97,74927.25
+8499,Cinderember,Khali's Delve,52.71,Djinni's Spectral Shadowlead Of Life,89.00,3705.90,296.02,329825.10,26345.78,188770.57,544941.45
+8663,Sephiroth Drakecaster,Cawold Castle,24.09,Foul Ice Bronze Of Life,148.00,-92.21,129.80,-13647.08,19210.40,1335.20,6898.52
+10524,Harmony Angelchild,Haukri's Hold,27.83,Venom Timegold Of Dwarves,248.00,3036.00,269.00,752928.00,66712.00,229499.20,1049139.20
+11418,Fate Ivycaster,Gena's Hold,2.66,Green Dustlightning Mercury,365.00,3517.00,35.20,1283705.00,12848.00,38896.59,1335449.59
+12249,Blazefreeze The Chiller,The Tomb of Gothmog of Udun,-3.30,Vampires' Fang Emeraldsilver,49.00,2762.99,455.55,135386.51,22321.95,-4731.25,152977.21
+16054,Bane Veil,Haukri's Hold,27.83,God-touched Faterainbow Orichalcum Of Spectres,132.00,370.41,32.01,48894.12,4225.32,14873.44,67992.88
+17287,Ironbrood,North Arcanist's Farthing,55.18,Glowpearl Adamant Of Spirits,332.00,398.09,374.00,132165.88,124168.00,140983.63,397317.51
+18013,Metalghoul,Boiaburh Keep,17.60,Rocklava Mithril Of Revenants,137.00,2200.14,14.33,301419.18,1963.21,54608.83,357991.22
+19075,Zeal Bladewitch,Reyny Keep,11.00,Djinni's Mind Fogiron,251.00,2301.02,89.56,577556.02,22479.56,66003.91,666039.49
+19208,"Zepul, Lady of Vengeance",The Citadel of Tattena the Sinister,13.34,Otherworldly Mirror Orichalcum,298.00,-328.76,526.35,-97970.48,156852.30,7654.64,66536.46
+19511,Shadow Tomblion,Fellfen Keep,61.53,Planar Mudtin Of Trolls,175.00,3067.17,405.79,536754.75,71013.25,376816.16,984584.16
+20651,"Suriel, Lord of Animals",The Broken Shield,40.95,Golems' Stonesapphire Gold Of The Glacier,109.00,4444.06,116.57,484402.54,12706.13,203814.55,700923.22

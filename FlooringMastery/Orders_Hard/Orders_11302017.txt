@@ -1,0 +1,17 @@
+87,"Avriel, God of Death",The Demon and Toad,23.75,Muck Orichalcum Of Ogres,72.00,3115.32,274.19,224303.04,19741.68,58570.73,302615.45
+933,Clash Lonedrake,The Forsaken Tomb of Devastation,0.00,Rainbowglitter Tin,194.00,4475.87,176.36,868318.78,34213.84,0.00,902532.62
+1497,Fate Seeker,The Tower of Aces the Accursed,12.10,Ensorceled Sandmetal Of Spirits,200.00,2956.98,87.00,591396.00,17400.00,73055.52,681851.52
+4200,Blazeflare The Cremator,The Wizard's House,43.58,Grayplatinum,73.00,2278.43,279.06,166325.39,20371.38,82146.58,268843.35
+5482,Shadow Gust,The Dungeon of Merciless Woe,38.62,Vampires' Hammer Emeraldmetal,113.00,379.45,25.84,42877.85,2919.92,17861.13,63658.90
+6399,"Sielach, God of Fate",Archtemple District,27.76,Glittering Orichalcum,294.00,-144.10,360.23,-42365.40,105907.62,17791.82,81334.04
+6623,Chainblade The Cadaverous,The Tower of Aces the Accursed,13.31,Emerald Orichalcum,169.00,-368.87,128.90,-62339.03,21784.10,-5272.14,-45827.07
+9103,"Alas, Lord of Plague",The Bastion of the Vampire Duke,19.28,Negative Rockglitter Mercury Of Trolls,209.00,1483.90,465.38,310135.10,97264.42,77405.91,484805.43
+9832,"Uriel, God of Fate",Lamp Borough,4.95,Shadow Steel,155.00,4677.78,465.30,725055.90,72121.50,39858.87,837036.27
+9834,Nettool The Grasping,The Secret Catacombs of Ulfang the Black,42.90,Shadow Steel,116.00,4677.78,465.30,542622.48,53974.80,256536.83,853134.11
+11362,Sunset Knightclaw,Pawic Keep,0.56,God-touched Greengem Platinum,72.00,1281.72,-39.60,92283.84,-2851.20,894.33,90326.97
+15387,Wheelbolt The Machine,Noble's Village,30.25,Shadowy Adamant,121.00,618.93,526.44,74890.53,63699.24,41576.93,180166.70
+16501,Claw Mist,The Forsaken Tomb of Devastation,0.00,Shadowhell Mithril,150.00,483.15,315.05,72472.50,47257.50,0.00,119730.00
+17127,Bolttrap,Lacot Stronghold,45.22,Nymphs' Luminous Rotmercury Of The Skies,296.00,292.60,207.90,86609.60,61538.40,66666.60,214814.60
+19049,Emberfire,The Barrow of Malefic Ages,19.70,Sirens' Rockgold,323.00,-352.01,199.96,-113699.23,64587.08,-9822.43,-58934.58
+20357,Lord Mystery,The Warrior and Flagon,53.24,Phantasmal Tin Of The Swamps,106.00,5964.74,-7.99,632262.44,-846.94,334650.22,966065.72
+22602,Sunset Knightclaw,Citadel Ward,37.80,Primal Adamant,76.00,5520.99,364.56,419595.24,27706.56,169974.68,617276.48

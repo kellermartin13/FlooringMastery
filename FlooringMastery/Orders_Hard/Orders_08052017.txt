@@ -1,0 +1,16 @@
+2784,Springsprocket,The Khazahol Crags,-1.97,Forgotten Mithril,146.00,913.00,316.00,133298.00,46136.00,-3588.68,175845.32
+2957,Snarepiston The Mechanical,The Hunter and Rose,40.40,Rainbowglitter Tin,241.00,4923.46,176.36,1186553.86,42502.76,491622.65,1720679.27
+4765,"Penur, Lord of the Sea",Grove Farthing,18.00,Legendary Mithril Of The Moon,345.00,2461.00,114.40,849045.00,39468.00,159932.34,1048445.34
+7665,Boltcrank The Trapper,Lordsgate Farthing,41.14,Mistgold Of Men,262.00,3065.71,48.40,803216.02,12680.80,334517.70,1150414.52
+11261,Rouge Roguemist,Gena's Hold,2.66,Devils' Falserot Silver,175.00,1668.51,182.71,291989.25,31974.25,9718.90,333682.40
+11507,Lord Mystery,The Bastion of the Lich Tyrant,43.00,Thunderbirds' Transcendent Dreamiron,294.00,2275.25,237.70,668923.50,69883.80,317687.14,1056494.44
+12203,Sunrise Godwarlock,The Black Barrow of Bery,-0.07,Incubi's Glittering Tin Of The Future,117.00,3349.54,79.86,391896.18,9343.62,0.00,401239.80
+14094,Scarechain The Unspeakable,The Secret Shrine of the Gargoyle Count,-2.00,Primordial False Gold,351.00,5395.80,226.00,1893925.80,79326.00,-39465.04,1933786.76
+15102,Spikespawn,The Dark Caverns of Woe,3.29,Mithril Of The Tropics,100.00,4126.10,11.98,412610.00,1198.00,12414.24,426222.24
+16142,Grave Mistseeker,The Citadel of Cheno,7.33,Otherworldly Mirror Orichalcum,155.00,-298.87,526.35,-46324.85,81584.25,2468.16,37727.56
+17431,Beamsprocket The Grasping,Lamp Borough,4.95,Thunderbirds' Transcendent Dreamiron,360.00,2275.25,237.70,819090.00,85572.00,45233.10,949895.10
+18815,Jericho Wolf,The Bastion of Barbos,28.34,Devils' Falserot Silver,119.00,2220.79,182.71,264274.01,21742.49,80084.62,366101.12
+19105,"Addon, Lord of Death",The Drunken Thief,12.65,Dragons' Poison Glitterflesh Steel Of The North,156.00,2790.70,288.13,435349.20,44948.28,62438.67,542736.15
+20720,Snarepiston The Mechanical,The Forsaken Tomb of Devastation,0.00,Phantasmal Tin Of The Swamps,184.00,5964.74,-7.99,1097512.16,-1470.16,0.00,1096042.00
+22213,Sephiroth Drakecaster,Bifar's Deep,18.70,Primordial Plague Mercury Of Legend,42.00,497.52,301.29,20895.84,12654.18,6374.50,39924.52
+22742,"Finarfin, God of Protection",The Lost Crypts of Sorrows,35.87,Legendary Mithril Of The Moon,149.00,3603.15,152.26,536869.35,22686.74,201440.19,760996.28

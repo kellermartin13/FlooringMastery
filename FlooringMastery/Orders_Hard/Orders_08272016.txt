@@ -1,0 +1,14 @@
+55,"Prusu, God of Love",Pewold Keep,16.95,Shadowhell Mithril,341.00,363.00,215.18,123783.00,73376.38,33517.09,230676.47
+3932,Lord Mystery,Grori's Deep,45.41,Sapphire Mindlead,254.00,1307.71,47.00,332158.34,11938.00,154843.35,498939.69
+4923,Metalbrood,Archring Borough,17.93,Legendary Mithril Of The Moon,36.00,2461.00,114.40,88596.00,4118.40,16688.59,109402.99
+6434,Burnfreeze The Cold,Archtemple District,27.76,Unknown Fatelightning Steel Of The Glacier,182.00,2017.40,54.28,367166.80,9878.96,105572.81,482618.57
+6663,"Suriel, Lord of Animals",The Tower of the Demon Warlord,15.75,Foul Ice Bronze Of Life,278.00,-92.21,129.80,-25634.38,36084.40,1672.00,12122.02
+7091,Evilember The Firey,The Forsaken Delve of Lord Greywulf,39.00,Spectres' Shadowy Terrorglow Adamant Of Life,88.00,4694.80,205.50,413142.40,18084.00,168178.30,599404.70
+14633,Rose Anchor,The Archer and Scroll,39.60,Swordbronze,276.00,1485.01,447.01,409862.76,123374.76,213295.01,746532.53
+15919,Nailpiston The Grasping,Haukri's Hold,27.83,Timeiron,334.00,1596.00,251.16,533064.00,83887.44,172746.40,789697.84
+16482,"Selik, God of Death",Gena's Hold,2.66,Ensorceled Sandmetal Of Spirits,154.00,2956.98,95.70,455374.92,14737.80,14103.38,484216.10
+17009,"Alik, Goddess of Trickery",Khali's Delve,52.71,Imperial Fate Steel,262.00,2993.93,-59.79,784409.66,-15664.98,407434.68,1176179.36
+17074,"Alik, Goddess of Trickery",The Cracked Chalice,2.52,Nymphs' Luminous Rotmercury Of The Skies,185.00,292.60,207.90,54131.00,38461.50,2777.78,95370.28
+18045,Storm Seraphheart,Archfane District,36.16,Trolls' Mist Poisonplatinum Of The Twilight,295.00,567.79,434.39,167498.05,128145.05,106431.52,402074.62
+18251,Bronzespawn,The Nulukkhath Spires,11.65,Poison Adamant,288.00,1266.52,64.44,364757.76,18558.72,45997.98,429314.46
+21714,Flameflare The Evil,Pewold Keep,22.57,Planar Rainfate Mithril,260.00,1304.42,320.52,339149.20,83335.20,97171.41,519655.81

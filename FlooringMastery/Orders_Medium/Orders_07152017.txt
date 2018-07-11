@@ -1,0 +1,22 @@
+2472,Marie "Raven" Chapman,MO,2.20,Reeds,303.00,0.75,2.00,227.25,606.00,16.66,849.91
+2858,Elizabeth "the Bully",TX,0.50,Pinecones,340.00,1.50,2.20,510.00,748.00,0.00,1258.00
+2994,Julia "Bandit" Chandler,NM,2.20,Leather,246.00,10.00,16.50,2460.00,4059.00,130.38,6649.38
+4067,Gloria "Devil" McCoy,CA,0.55,Solid Oak,158.00,5.50,5.00,869.00,790.00,16.59,1675.59
+4224,Tina "Lady" Anderson,NM,2.20,Reeds,317.00,0.75,2.00,237.75,634.00,17.44,889.19
+5036,Theresa "Scalphunter" Romero,AR,2.20,Solid Oak,285.00,5.50,5.50,1567.50,1567.50,62.70,3197.70
+7756,Helen Webb "the Dancer",NM,2.20,Leather,110.00,10.00,18.15,1100.00,1996.50,61.93,3158.43
+8184,Renee "Hellish Empress" Banks,AL,1.00,Pebbles,229.00,0.80,4.84,183.20,1108.36,12.92,1304.48
+8242,Vanessa "Scalper" Rhodes,MT,3.30,Pebbles,108.00,0.80,4.84,86.40,522.72,18.27,627.39
+8463,Lena Chapman "the Bully",AR,2.20,Packed Dirt,333.00,1.00,1.50,333.00,499.50,16.65,849.15
+8643,Cathy "Wildfire" Neal,CA,0.55,Brick,94.00,4.84,6.66,454.96,626.04,10.81,1091.81
+9390,Minnie Lawson "the Apostle",AR,2.20,Brick,344.00,4.84,6.66,1664.96,2291.04,79.12,4035.12
+9411,Julia "Bandit" Chandler,NM,2.20,Pebbles,179.00,0.88,4.84,157.52,866.36,20.48,1044.36
+10621,Lorraine "Utah" Adams,WY,0.31,Packed Dirt,228.00,1.00,1.50,228.00,342.00,0.00,570.00
+13631,Diana "Mistress" Morgan,WY,0.31,Packed Dirt,173.00,1.00,2.00,173.00,346.00,0.00,519.00
+13894,Jo "the Joker",NM,2.42,Dirt,235.00,0.50,1.00,117.50,235.00,7.05,359.55
+14275,April "Thunderbird" Dunn,MT,3.99,Reeds,69.00,0.75,2.20,51.75,151.80,8.14,211.69
+15171,Ida Russell "the Rustler",KS,0.55,Leather,14.00,11.00,18.15,154.00,254.10,4.08,412.18
+15905,Amanda Hart "the Loner",TX,0.67,Solid Oak,140.00,5.50,6.05,770.00,847.00,16.17,1633.17
+18149,Evelyn "Evil Joker" Taylor,UT,0.00,Leather,218.00,11.00,19.97,2398.00,4353.46,0.00,6751.46
+20704,Elizabeth "the Bully",KS,0.55,Reeds,297.00,0.83,2.20,246.51,653.40,9.00,908.91
+21040,Cathy "Loner Demon" Murray,MT,4.83,Beechwood,311.00,3.63,6.05,1128.93,1881.55,150.52,3161.00

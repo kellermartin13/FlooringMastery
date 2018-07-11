@@ -1,0 +1,16 @@
+3746,Allison "Steel Gravedigger" Douglas,CA,0.55,Beechwood,235.00,3.00,5.00,705.00,1175.00,18.80,1898.80
+5220,Theresa "Scalphunter" Romero,KS,0.50,Pinecones,323.00,1.50,2.42,484.50,781.66,0.00,1266.16
+5282,Gladys "Locoweed" Keller,MO,2.20,Leather,193.00,10.00,18.15,1930.00,3502.95,108.66,5541.61
+7421,Cynthia "the Vixen",UT,0.00,Pinecones,212.00,1.50,2.66,318.00,563.92,0.00,881.92
+7785,Elizabeth "the Bully",MO,2.20,Leather,64.00,10.00,18.15,640.00,1161.60,36.03,1837.63
+7836,Stella "the Bully",NM,2.20,Reeds,112.00,0.75,2.20,84.00,246.40,6.61,337.01
+9984,Vengeful Robertson,NV,0.31,Dirt,184.00,0.50,1.00,92.00,184.00,0.00,276.00
+12661,Ida Russell "the Rustler",WY,0.31,Reeds,237.00,0.75,2.20,177.75,521.40,0.00,699.15
+13249,Elizabeth "the Bully",CA,0.61,Leather,204.00,11.00,18.15,2244.00,3702.60,59.47,6006.07
+14928,Renee "Hellish Empress" Banks,WY,0.31,Pebbles,190.00,0.88,4.84,167.20,919.60,0.00,1086.80
+16814,Heather "Friendly Gambler" Barrett,WY,0.31,Solid Oak,205.00,5.50,6.05,1127.50,1240.25,0.00,2367.75
+17357,Black Beck,ND,1.52,Beechwood,182.00,3.63,5.50,660.66,1001.00,33.23,1694.89
+19020,Dorothy "the Hunter",ND,1.67,Dirt,234.00,0.50,1.00,117.00,234.00,7.02,358.02
+20461,Cathy "Loner Demon" Murray,IA,1.33,Leather,176.00,11.00,19.97,1936.00,3514.72,54.51,5505.23
+21953,Melissa "Lonesome Stalker" Riley,NV,0.31,Beechwood,115.00,3.63,6.05,417.45,695.75,0.00,1113.20
+23393,"Doom" McCoy,MT,5.84,Cedar Planks,162.00,2.20,6.66,356.40,1078.92,86.12,1521.44

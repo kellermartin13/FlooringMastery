@@ -1,0 +1,22 @@
+2434,Black Beck,ID,0.00,Dirt,147.00,0.50,1.00,73.50,147.00,0.00,220.50
+4355,Cathy "Loner Demon" Murray,ND,1.25,Beechwood,238.00,3.00,5.00,714.00,1190.00,19.04,1923.04
+6227,Minnie Lawson "the Apostle",OK,2.20,Solid Oak,185.00,5.50,5.50,1017.50,1017.50,40.70,2075.70
+8825,Tammy Carlson "the Killer",OK,2.20,Reeds,215.00,0.75,2.20,161.25,473.00,12.68,646.93
+9156,"Bane" Jennings,AR,2.20,Pinecones,72.00,1.50,2.66,108.00,191.52,5.99,305.51
+9287,Vengeful Montgomery,MT,3.63,Dirt,195.00,0.50,1.00,97.50,195.00,11.70,304.20
+9477,Cathy "Loner Demon" Murray,TX,0.55,Pinecones,273.00,1.50,2.66,409.50,726.18,11.36,1147.04
+9717,Maureen "Cursed" Andrews,AL,1.00,Beechwood,242.00,3.00,5.50,726.00,1331.00,20.57,2077.57
+10214,Maureen "Cursed" Andrews,MS,3.00,Cedar Planks,298.00,2.20,6.05,655.60,1802.90,73.76,2532.26
+10305,Allison "Steel Gravedigger" Douglas,WY,0.31,Dirt,203.00,0.50,1.00,101.50,203.00,0.00,304.50
+10412,Kathy Murphy "the Thinker",MT,3.63,Pinecones,96.00,1.50,2.66,144.00,255.36,15.97,415.33
+11135,Renee "Loco Tracker" Jordan,OK,2.42,Cedar Planks,249.00,2.20,6.05,547.80,1506.45,41.08,2095.33
+11230,Vanessa "Scalper" Rhodes,AL,1.00,Solid Oak,316.00,5.50,5.50,1738.00,1738.00,34.76,3510.76
+11451,Deborah "the Lady",ID,0.00,Pinecones,285.00,1.50,2.66,427.50,758.10,0.00,1185.60
+11660,Amanda Hart "the Loner",AL,1.00,Cedar Planks,111.00,2.20,6.05,244.20,671.55,9.16,924.91
+12502,Joanne "Damned" Miles,OK,2.42,Leather,235.00,11.00,18.15,2585.00,4265.25,137.00,6987.25
+12739,Geraldine "Revenge" Warren,ND,1.38,Pinecones,336.00,1.50,2.66,504.00,893.76,13.98,1411.74
+13694,Cynthia "the Vixen",MO,2.20,Cedar Planks,329.00,2.20,6.05,723.80,1990.45,54.28,2768.53
+14623,Deborah "the Lady",MS,3.00,Leather,121.00,11.00,18.15,1331.00,2196.15,105.81,3632.96
+15765,Gladys "Locoweed" Keller,TX,0.67,Packed Dirt,161.00,1.10,2.20,177.10,354.20,5.31,536.61
+16951,Mattie Grant "the Gambler",AL,1.00,Packed Dirt,203.00,1.10,2.20,223.30,446.60,6.70,676.60
+17081,"Doom" McCoy,AL,1.00,Reeds,169.00,0.83,2.20,140.27,371.80,5.12,517.19

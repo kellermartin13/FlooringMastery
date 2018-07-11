@@ -1,0 +1,18 @@
+422,Tammy Carlson "the Killer",ND,1.25,Brick,78.00,4.00,5.00,312.00,390.00,7.02,709.02
+680,Debra "Scorpion" Lane,MT,3.00,Brick,275.00,4.00,5.00,1100.00,1375.00,74.25,2549.25
+865,Cathy "Wildfire" Neal,TX,0.50,Reeds,61.00,0.75,2.00,45.75,122.00,0.00,167.75
+965,Mattie Grant "the Gambler",AR,2.20,Leather,171.00,10.00,15.00,1710.00,2565.00,85.50,4360.50
+3814,Black Beck,AR,2.20,Cedar Planks,154.00,2.00,5.50,308.00,847.00,23.10,1178.10
+5082,Vicki "Mesa" Rhodes,TX,0.50,Solid Oak,53.00,5.50,5.50,291.50,291.50,0.00,583.00
+9437,Vanessa "Scalper" Rhodes,MT,3.63,Leather,175.00,10.00,18.15,1750.00,3176.25,197.05,5123.30
+9486,"Scalphunter" Kennedy,NV,0.31,Pinecones,196.00,1.50,2.66,294.00,521.36,0.00,815.36
+9546,Theresa "Kid" Robinson,ID,0.00,Pinecones,212.00,1.50,2.66,318.00,563.92,0.00,881.92
+9590,Florence "Leather Doc" Grant,KS,0.50,Brick,108.00,4.84,6.66,522.72,719.28,0.00,1242.00
+10624,Jacqueline "Riding Doc" Washington,KS,0.55,Brick,211.00,4.84,6.66,1021.24,1405.26,24.26,2450.76
+11422,Vanessa "Scalper" Rhodes,AL,1.00,Dirt,105.00,0.50,1.00,52.50,105.00,1.58,159.08
+14385,Theresa "Scalphunter" Romero,AL,1.00,Leather,233.00,11.00,18.15,2563.00,4228.95,67.92,6859.87
+17062,Susan "Damnation" Fleming,NM,2.66,Leather,91.00,11.00,19.97,1001.00,1817.27,84.55,2902.82
+19092,Elizabeth "the Bully",TX,0.67,Packed Dirt,275.00,1.10,2.20,302.50,605.00,9.08,916.58
+19704,Heather "Tornado" Newman,OK,2.42,Dirt,261.00,0.50,1.00,130.50,261.00,7.83,399.33
+21288,Mabel "Vixen Cursed" King,WY,0.31,Dirt,327.00,0.55,1.00,179.85,327.00,0.00,506.85
+22396,Heather "Friendly Gambler" Barrett,CA,0.67,Pebbles,318.00,0.88,4.84,279.84,1539.12,18.19,1837.15

@@ -1,0 +1,11 @@
+924,Evilbrood,The Barrow of Malefic Ages,17.91,White Platinum,185.00,-47.81,145.00,-8844.85,26825.00,3236.43,21216.58
+4770,"Byzou, God of Animals",The Scoundrel and Flask,-4.58,Meteoric Mirrormuck Orichalcum Of The Forests,389.00,1962.00,185.77,763218.00,72264.53,-41774.13,793708.40
+8475,Grave Mistseeker,Cawold Castle,24.09,Incubi's Iron Of The Dawn,304.00,1200.96,424.31,365091.84,128990.24,118579.70,612661.78
+10404,Zeal Bladewitch,The Forsaken Sepulcher of Sorrows,48.79,Magicians' Legendary Poison Metal,202.00,2247.59,229.81,454013.18,46421.62,245213.05,745647.85
+11746,Terrorghoul The Unspeakable,South Brightcrown Borough,42.25,Phantasmal Tin Of The Swamps,30.00,4074.00,-6.60,122220.00,-198.00,51249.24,173271.24
+13526,Snowflame The Evil,The Broken Shield,37.23,Sphinxes' Mistsoul Bronze Of The Past,323.00,2169.81,202.07,700848.63,65268.61,283463.38,1049580.62
+15885,"Gono, Goddess of the Earth",The Glano Forest,3.00,Djinni's Spectral Shadowlead Of Life,92.00,4076.49,325.62,375037.08,29957.04,12149.82,417143.94
+16560,"Melcha, Goddess of Thieves",Reyny Keep,11.00,Starlight Pearldream Bronze,324.00,322.10,147.40,104360.40,47757.60,16732.98,168850.98
+18145,Shadow Gust,Archfane District,36.16,Ensorceled Gold Of The Dawn,46.00,6913.92,443.21,318040.32,20387.66,121834.07,460262.05
+22163,Bolttrap,The Tower of the Demon Warlord,20.97,Phantasmal Lead,251.00,-669.10,270.02,-167944.10,67775.02,-21035.51,-121204.59
+23102,Jericho Wolf,Bergfison's Deep,57.98,Incubi's Glittering Tin Of The Future,325.00,3349.54,96.64,1088600.50,31408.00,649604.93,1769613.43

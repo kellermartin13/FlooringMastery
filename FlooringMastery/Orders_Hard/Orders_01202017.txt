@@ -1,0 +1,13 @@
+991,Bronzespike,Reyny Keep,11.00,Hidden Shadowice Lead,178.00,2729.00,-46.75,485762.00,-8321.50,52518.46,529958.96
+3702,Nettool The Grasping,Reheath Stronghold,8.00,Unknowable Mindsilver,254.00,3565.00,366.00,905510.00,92964.00,79877.92,1078351.92
+4150,"Uriel, God of Fate",Gifeld Castle,6.22,Hidden Shadowice Lead,132.00,2729.00,-56.57,360228.00,-7467.24,21165.65,373926.41
+5399,Evilcoil The Machine,The Tower of Sheshbazzu,3.30,Magic Adamant,347.00,1838.00,188.76,637786.00,65499.72,21098.57,724384.29
+13455,Seraph Jester,Arcanist's Farthing,3.00,Ghostly Soul Adamant,105.00,3222.96,229.53,338410.80,24100.65,10875.34,373386.79
+13843,"Eumyan, Goddess of Law",Khali's Delve,52.71,Spectres' Shadowy Terrorglow Adamant Of Life,249.00,5164.28,248.66,1285905.72,61916.34,714345.69,2062167.75
+14468,"Uriel, God of Fate",The Archer and Scroll,39.60,Unknown Fatelightning Steel Of The Glacier,281.00,2441.05,65.68,685935.05,18456.08,281756.45,986147.58
+14778,Clash Lonedrake,Archfane District,32.87,Unknown Fatelightning Steel Of The Glacier,282.00,2441.05,65.68,688376.10,18521.76,233276.29,940174.15
+16465,Song Runetomb,Gena's Hold,2.66,Ensorceled Sandmetal Of Spirits,160.00,2956.98,95.70,473116.80,15312.00,14652.86,503081.66
+18561,Fate Seeker,The Lewd King,32.67,Lunar Bronze,233.00,829.25,337.70,193215.25,78684.10,89726.79,361626.14
+19487,"Gadriel, God of Resurrection",Weke Tower,-0.07,Goddesses' Spectral Poison Steel,179.00,5023.18,296.81,899149.22,53128.99,0.00,952278.21
+20867,Burnchill The Evil,The Forsaken Hive of Galima the Mighty,29.89,Djinni's Evil Sandobsidian Steel Of The Future,168.00,4208.60,172.78,707044.80,29027.04,220821.55,956893.39
+21417,Tarot Dawn,The Bastion of Sthasu the Gruesome,14.93,Sphinxes' Opalpearl Platinum Of Legend,255.00,5805.82,429.89,1480484.10,109621.95,238515.91,1828621.96

@@ -1,0 +1,25 @@
+435,Vengeful Robertson,ID,0.00,Pinecones,164.00,1.50,2.00,246.00,328.00,0.00,574.00
+616,Friendly Howell,OK,2.00,Reeds,275.00,0.75,2.00,206.25,550.00,15.12,771.37
+1487,Vengeful Robertson,UT,0.00,Leather,221.00,10.00,15.00,2210.00,3315.00,0.00,5525.00
+1769,Geraldine "Revenge" Warren,AR,2.20,Solid Oak,322.00,5.00,5.00,1610.00,1610.00,64.40,3284.40
+2181,Florence "Leather Doc" Grant,OK,2.00,Pebbles,290.00,0.80,4.40,232.00,1276.00,30.16,1538.16
+3040,Helen Webb "the Dancer",IA,1.00,Packed Dirt,216.00,1.00,1.50,216.00,324.00,5.40,545.40
+6300,Heather "Tornado" Newman,IA,1.21,Cedar Planks,59.00,2.20,5.50,129.80,324.50,4.54,458.84
+6502,Betty "Happy Thinker" Watson,CA,0.55,Pinecones,330.00,1.50,2.66,495.00,877.80,13.73,1386.53
+7997,Stella "the Bully",AR,2.20,Pebbles,74.00,0.80,4.84,59.20,358.16,8.35,425.71
+8603,Renee "Hellish Empress" Banks,KS,0.50,Pebbles,279.00,0.88,4.84,245.52,1350.36,0.00,1595.88
+8906,Jo "the Joker",OK,2.20,Pebbles,380.00,0.88,4.84,334.40,1839.20,43.47,2217.07
+9424,Mattie Grant "the Gambler",WY,0.31,Pinecones,126.00,1.50,2.66,189.00,335.16,0.00,524.16
+10721,Renee "Loco Tracker" Jordan,TX,0.67,Pebbles,299.00,0.88,4.84,263.12,1447.16,17.10,1727.38
+11150,April "Thunderbird" Dunn,IA,1.21,Solid Oak,371.00,5.50,5.50,2040.50,2040.50,40.81,4121.81
+12591,Stella "the Bully",TX,0.67,Cedar Planks,171.00,2.20,6.05,376.20,1034.55,14.11,1424.86
+15184,Jo "the Joker",NM,2.66,Dirt,124.00,0.50,1.00,62.00,124.00,5.58,191.58
+16265,Stella "the Bully",ID,0.00,Brick,338.00,5.32,6.66,1798.16,2251.08,0.00,4049.24
+18461,Heather "Friendly Gambler" Barrett,CA,0.61,Dirt,122.00,0.50,1.00,61.00,122.00,1.83,184.83
+19048,Darlene "Loner" Ford,ND,1.67,Packed Dirt,216.00,1.10,2.20,237.60,475.20,14.26,727.06
+19805,Victoria "the Dancer",IA,1.33,Cedar Planks,245.00,2.20,6.66,539.00,1631.70,21.71,2192.41
+19807,Julia "Bandit" Chandler,KS,0.55,Dirt,202.00,0.50,1.00,101.00,202.00,3.03,306.03
+20061,Renee "Loco Tracker" Jordan,OK,2.66,Solid Oak,162.00,5.50,6.66,891.00,1078.92,59.10,2029.02
+21236,April "Thunderbird" Dunn,TX,0.67,Packed Dirt,202.00,1.10,2.42,222.20,488.84,7.11,718.15
+22684,Mattie Grant "the Gambler",KS,0.55,Leather,269.00,11.00,19.97,2959.00,5371.93,83.31,8414.24
+22940,Black Beck,ID,0.00,Solid Oak,84.00,5.50,6.66,462.00,559.44,0.00,1021.44

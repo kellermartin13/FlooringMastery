@@ -1,0 +1,12 @@
+1124,Magus Felldrake,Lamp Borough,4.95,Dragons' Poison Glitterflesh Steel Of The North,306.00,2790.70,216.48,853954.20,66242.88,46009.85,966206.93
+8071,Blazefreeze The Chiller,Minas Gilloy,39.26,Meteoric Mirrormuck Orichalcum Of The Forests,160.00,2158.20,185.77,345312.00,29723.20,146263.73,521298.93
+8780,Sunrise Godwarlock,The Fen of the Necromancer,54.57,Rocklava Mithril Of Revenants,194.00,1818.30,14.33,352750.20,2780.02,195541.62,551071.84
+9615,Flora Amberslayer,Haukri's Hold,25.30,Spectres' Shadowy Terrorglow Adamant Of Life,269.00,4694.80,205.50,1262901.20,55279.50,329545.18,1647725.88
+13575,Chainhorror,The Fortress of Asmamur,-4.48,Meteoric Dustzephyr Orichalcum,133.00,375.00,268.49,49875.00,35709.17,-3423.37,82160.80
+13727,Sephiroth Drakecaster,The Dark Caverns of Woe,3.29,Shadowy Adamant,252.00,618.93,526.44,155970.36,132662.88,8659.00,297292.24
+17208,Cult Godseeker,Reyny Keep,11.00,Thunderbirds' Transcendent Dreamiron,28.00,2275.25,237.70,63707.00,6655.60,7739.89,78102.49
+18962,Dagger Reaper,Bifar's Deep,18.70,Unicorns' Evil Mithril,273.00,4802.49,377.52,1311079.77,103062.96,268687.12,1682829.85
+19111,Rouge Roguemist,The Forsaken Delve of Lord Greywulf,42.90,Incubi's Mirrorfog Iron Of The Ocean,303.00,5806.50,-26.08,1759369.50,-7902.24,753130.92,2504598.18
+19854,Burnfreeze The Cold,The Bastion of Gothmog of Udun,54.84,Incubi's Iron Of The Dawn,218.00,1200.96,424.31,261809.28,92499.58,194869.87,549178.73
+21422,Lord Mystery,Unicorn's Ward,14.64,Phantasmal Tin Of The Swamps,20.00,5964.74,-7.99,119294.80,-159.80,17870.25,137005.25
+23218,Wheelbolt The Machine,Barad Kesa,5.23,Planar Rainfate Mithril,201.00,1304.42,320.52,262188.42,64424.52,16330.65,342943.59

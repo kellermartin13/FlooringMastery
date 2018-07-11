@@ -1,0 +1,22 @@
+519,Heather "Friendly Gambler" Barrett,NV,0.25,Cedar Planks,175.00,2.00,5.00,350.00,875.00,0.00,1225.00
+541,Wilma "Tornado" Brooks,OK,2.00,Leather,237.00,10.00,15.00,2370.00,3555.00,118.50,6043.50
+1199,Elizabeth "the Bully",KS,0.50,Brick,58.00,4.00,5.00,232.00,290.00,0.00,522.00
+3716,Mabel "Vixen Cursed" King,MS,3.00,Dirt,287.00,0.50,1.00,143.50,287.00,12.92,443.42
+3839,Mattie Grant "the Gambler",IA,1.10,Pebbles,184.00,0.80,4.40,147.20,809.60,9.57,966.37
+3987,Dorothy "the Hunter",NV,0.25,Packed Dirt,353.00,1.00,1.50,353.00,529.50,0.00,882.50
+4513,Susan "Damnation" Fleming,UT,0.00,Dirt,293.00,0.50,1.00,146.50,293.00,0.00,439.50
+6442,Melissa "Lonesome Stalker" Riley,MT,3.00,Pebbles,343.00,0.80,4.84,274.40,1660.12,58.04,1992.56
+6565,Debra "Scorpion" Lane,CA,0.55,Packed Dirt,111.00,1.00,1.50,111.00,166.50,2.78,280.28
+6636,April "Thunderbird" Dunn,NM,2.20,Brick,141.00,4.84,6.66,682.44,939.06,32.43,1653.93
+7608,Joanne "Damned" Miles,OK,2.20,Packed Dirt,136.00,1.00,1.50,136.00,204.00,6.80,346.80
+11616,Vengeful Robertson,OK,2.42,Leather,217.00,10.00,18.15,2170.00,3938.55,122.17,6230.72
+11811,Maureen "Cursed" Andrews,ID,0.00,Solid Oak,346.00,5.50,5.50,1903.00,1903.00,0.00,3806.00
+13513,Melissa "Lonesome Stalker" Riley,NV,0.31,Pebbles,232.00,0.88,4.84,204.16,1122.88,0.00,1327.04
+15467,Helen Webb "the Dancer",TX,0.67,Cedar Planks,132.00,2.20,6.05,290.40,798.60,10.89,1099.89
+15962,Lucky Johnson,MO,2.20,Leather,80.00,11.00,18.15,880.00,1452.00,46.64,2378.64
+16885,Jo "the Joker",MT,3.99,Dirt,117.00,0.50,1.00,58.50,117.00,7.02,182.52
+18382,Gloria "Devil" McCoy,MT,3.99,Reeds,298.00,0.83,2.20,247.34,655.60,36.12,939.06
+20771,Cathy "Wildfire" Neal,AL,1.00,Pebbles,131.00,0.88,4.84,115.28,634.04,7.49,756.81
+21049,Joanne "Damned" Miles,TX,0.67,Pebbles,229.00,0.88,4.84,201.52,1108.36,13.10,1322.98
+21734,Lucky Johnson,NV,0.31,Cedar Planks,71.00,2.20,6.66,156.20,472.86,0.00,629.06
+23450,Elizabeth "the Bully",CA,0.67,Beechwood,251.00,3.63,6.05,911.13,1518.55,24.30,2453.98

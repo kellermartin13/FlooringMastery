@@ -1,0 +1,18 @@
+1695,Cynthia "the Vixen",CA,0.50,Cedar Planks,139.00,2.00,5.00,278.00,695.00,0.00,973.00
+1996,Jacqueline "Riding Doc" Washington,TX,0.50,Pinecones,117.00,1.50,2.00,175.50,234.00,0.00,409.50
+5737,Wilma "Tornado" Brooks,MS,3.00,Pebbles,79.00,0.80,4.40,63.20,347.60,12.32,423.12
+6290,Joanne "Damned" Miles,NV,0.25,Packed Dirt,152.00,1.00,1.50,152.00,228.00,0.00,380.00
+8540,Evelyn "Evil Joker" Taylor,IA,1.21,Beechwood,178.00,3.00,5.50,534.00,979.00,15.13,1528.13
+8607,Darlene "Loner" Ford,IA,1.21,Leather,182.00,10.00,18.15,1820.00,3303.30,51.23,5174.53
+9484,Elizabeth "the Bully",ID,0.00,Reeds,224.00,0.75,2.20,168.00,492.80,0.00,660.80
+10297,Maureen "Cursed" Andrews,NM,2.20,Pinecones,176.00,1.50,2.66,264.00,468.16,14.64,746.80
+11255,Julia "Bandit" Chandler,MO,2.20,Brick,73.00,4.84,6.66,353.32,486.18,16.79,856.29
+17027,Heather "Tornado" Newman,AL,1.00,Leather,229.00,11.00,19.97,2519.00,4573.13,70.92,7163.05
+17264,Mattie Grant "the Gambler",MT,3.99,Pinecones,172.00,1.50,2.66,258.00,457.52,28.62,744.14
+17817,Gladys "Locoweed" Keller,CA,0.61,Brick,160.00,5.32,6.66,851.20,1065.60,19.17,1935.97
+17956,Elizabeth "the Bully",MT,3.99,Pinecones,45.00,1.50,2.66,67.50,119.70,7.49,194.69
+18582,Evelyn "Evil Joker" Taylor,UT,0.00,Packed Dirt,113.00,1.10,2.20,124.30,248.60,0.00,372.90
+20127,Jacqueline "Riding Doc" Washington,ND,1.67,Solid Oak,188.00,5.50,6.66,1034.00,1252.08,45.72,2331.80
+20215,Jo "the Joker",KS,0.55,Packed Dirt,313.00,1.10,2.42,344.30,757.46,11.02,1112.78
+21423,Black Beck,NV,0.31,Reeds,243.00,0.83,2.20,201.69,534.60,0.00,736.29
+23178,Theresa "Scalphunter" Romero,OK,2.93,Solid Oak,237.00,5.50,6.66,1303.50,1578.42,86.46,2968.38

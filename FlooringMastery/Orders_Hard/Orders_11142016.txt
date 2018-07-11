@@ -1,0 +1,14 @@
+375,"Ingwenel, God of War",Gifeld Castle,5.65,Fog Lavaplatinum Of Life,297.00,1078.00,17.00,320166.00,5049.00,19512.90,344727.90
+3742,Rouge Tombreaper,The Lost Sanctum of Woe,3.00,Ensorceled Sandmetal Of Spirits,52.00,2956.98,87.00,153762.96,4524.00,4748.61,163035.57
+3817,Nailpiston The Grasping,Grori's Deep,45.41,Grayplatinum,109.00,2278.43,279.06,248348.87,30417.54,125444.88,404211.29
+4148,Gravebone The Unspeakable,Tradun Castle,31.13,Yellow Mistearth Copper,87.00,4575.58,-27.40,398075.46,-2383.80,122664.41,518356.07
+5287,Fate Ivycaster,Eved Castle,5.09,Sphinxes' Mistsoul Bronze Of The Past,83.00,1972.55,183.70,163721.65,15247.10,8948.44,187917.19
+10062,Lance Knightseraph,The Dismal Marsh,6.05,Sphinxes' Mistsoul Bronze Of The Past,22.00,2169.81,202.07,47735.82,4445.54,3130.88,55312.24
+12066,Beamsprocket The Grasping,Lordsgate Farthing,41.14,Incubi's Glittering Tin Of The Future,155.00,3349.54,79.86,519178.70,12378.30,217938.37,749495.37
+13062,"Eumyan, Goddess of Law",The Glano Forest,3.00,Primordial Plague Mercury Of Legend,218.00,452.29,301.29,98599.22,65681.22,4928.41,169208.85
+13240,Wheelspawn,Arcanist's Farthing,3.00,Muck Orichalcum Of Ogres,174.00,3426.85,364.95,596271.90,63501.30,19793.20,679566.40
+13319,Springcoil,The Pilgrim's Cup,46.12,Mistgold Of Men,178.00,3709.51,53.24,660292.78,9476.72,308093.97,977863.47
+17713,Zeal Bladewitch,The Grey Plains,19.97,Sphinxes' Opalpearl Platinum Of Legend,356.00,5805.82,390.81,2066871.92,139128.36,441200.06,2647200.34
+18141,Fate Seeker,The Hunter and Rose,44.44,Litches' Fatal Mithril Of The Past,115.00,1460.78,405.96,167989.70,46685.40,94457.04,309132.14
+20313,Mecharig The Living Device,The Black Barrow of Zago the Possessed,30.80,Phantasmal Tin Of The Swamps,142.00,5964.74,-7.99,846993.08,-1134.58,262216.14,1108074.64
+22688,Snarepiston The Mechanical,The Greedy Wench,43.53,Thunderbirds' Transcendent Dreamiron,31.00,2275.25,237.70,70532.75,7368.70,34276.64,112178.09

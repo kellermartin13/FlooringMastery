@@ -1,0 +1,13 @@
+685,Amanda Hart "the Loner",ID,0.00,Reeds,89.00,0.75,2.00,66.75,178.00,0.00,244.75
+8200,Cynthia "the Vixen",MS,3.00,Reeds,154.00,0.75,2.20,115.50,338.80,13.63,467.93
+8353,Elizabeth "the Bully",UT,0.00,Leather,239.00,10.00,18.15,2390.00,4337.85,0.00,6727.85
+9330,Vicki "Mesa" Rhodes,TX,0.55,Solid Oak,196.00,5.50,5.50,1078.00,1078.00,21.56,2177.56
+11552,Mattie Grant "the Gambler",MO,2.20,Solid Oak,202.00,5.50,5.50,1111.00,1111.00,44.44,2266.44
+13352,Theresa "Kid" Robinson,AR,2.20,Beechwood,113.00,3.30,5.50,372.90,621.50,19.89,1014.29
+14405,Gladys "Locoweed" Keller,NV,0.31,Dirt,56.00,0.50,1.00,28.00,56.00,0.00,84.00
+15424,Wilma "Tornado" Brooks,KS,0.55,Leather,66.00,11.00,18.15,726.00,1197.90,19.24,1943.14
+16132,Renee "Loco Tracker" Jordan,AR,2.20,Beechwood,272.00,3.63,5.50,987.36,1496.00,49.67,2533.03
+16147,Renee "Hellish Empress" Banks,UT,0.00,Solid Oak,252.00,5.50,6.05,1386.00,1524.60,0.00,2910.60
+17290,Renee "Hellish Empress" Banks,MS,3.00,Solid Oak,61.00,5.50,6.66,335.50,406.26,22.25,764.01
+18754,Susan "Damnation" Fleming,NM,2.93,Brick,305.00,5.32,6.66,1622.60,2031.30,109.62,3763.52
+22221,Kathy Murphy "the Thinker",MS,3.00,Cedar Planks,321.00,2.20,6.66,706.20,2137.86,85.32,2929.38

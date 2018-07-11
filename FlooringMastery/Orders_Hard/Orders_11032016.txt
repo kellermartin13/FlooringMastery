@@ -1,0 +1,18 @@
+2095,Rouge Roguemist,The Forsaken Tomb of Devastation,0.00,Spirits' Living Wordhammer Tin Of The Trees,243.00,4343.00,26.40,1055349.00,6415.20,0.00,1061764.20
+3321,Chainnail,Reheath Stronghold,8.00,Starlight Pearldream Bronze,223.00,266.20,134.00,59362.60,29882.00,7139.57,96384.17
+3827,Terrorghoul The Unspeakable,The Dungeon of Merciless Woe,38.62,Violetstone Tin Of Death,225.00,2245.23,156.10,505176.75,35122.50,210716.71,751015.96
+6726,Fate Seeker,South Brightcrown Borough,42.25,Foul Ice Bronze Of Life,266.00,-92.21,129.80,-24527.86,34526.80,4199.55,14198.49
+6832,Shadow Tomblion,The Tower of Aces the Accursed,13.31,Magic Adamant,80.00,1838.00,207.64,147040.00,16611.20,21274.66,184925.86
+9191,Rune Rougehate,Unicorn's Ward,14.64,Rocklava Mithril Of Revenants,171.00,1818.30,14.33,310929.30,2450.43,47006.96,360386.69
+9640,Flora Amberslayer,Lamp Borough,4.95,Ghostly Magic Adamant,136.00,4836.38,230.90,657747.68,31402.40,34457.50,723607.58
+9809,"Gono, Goddess of the Earth",Fellfen Keep,46.23,Ghostly Magic Adamant,254.00,4836.38,230.90,1228440.52,58648.60,592061.00,1879150.12
+10362,Seraph Jester,The Dark Caverns of Woe,3.29,Mithril Of Legend,229.00,2274.80,63.01,520929.20,14429.29,16060.75,551419.24
+11423,Rouge Tombreaper,The Archer and Scroll,39.60,Lycanthropes' Gold,188.00,4846.18,66.14,911081.84,12434.32,369406.46,1292922.62
+12834,Metalghoul,The Dread Hive of Illfang the Kobold Lord,1.46,Swordbronze,177.00,1485.01,447.01,262846.77,79120.77,3419.68,345387.22
+14379,Spikespawn,The Lost Sanctum of Woe,3.00,Glowpearl Adamant Of Spirits,353.00,398.09,374.00,140525.77,132022.00,8176.43,280724.20
+16881,Burnchill The Evil,Lacot Stronghold,45.22,Mistgold Of Men,195.00,4080.46,53.24,795689.70,10381.80,362732.18,1168803.68
+18845,Lance Knightseraph,Reyny Keep,11.00,Grayplatinum,238.00,3032.59,306.97,721756.42,73058.86,87429.68,882244.96
+19681,Claw Mist,North Grove Ward,7.99,Goddesses' Spectral Poison Steel,299.00,5023.18,296.81,1501930.82,88746.19,127254.16,1717931.17
+20719,"Gadriel, God of Resurrection",Bergfison's Deep,52.71,Unspeakable Rotsoul Mithril Of Souls,179.00,272.80,485.85,48831.20,86967.15,71973.13,207771.48
+21121,Flameshiver,The Hunter and Rose,44.44,Meteoric Dustzephyr Orichalcum,119.00,375.00,295.34,44625.00,35145.46,35099.00,114869.46
+21350,Cult Godseeker,Pawic Keep,0.62,Golems' Stonesapphire Gold Of The Glacier,157.00,4444.06,128.23,697717.42,20132.11,7178.50,725028.03

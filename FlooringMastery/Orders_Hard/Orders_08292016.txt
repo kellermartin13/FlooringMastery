@@ -1,0 +1,17 @@
+461,Claw Mist,The Bastion of Gothmog of Udun,37.45,Unspeakable Rotsoul Mithril Of Souls,351.00,248.00,401.53,87048.00,140937.03,84354.46,312339.49
+1631,Law Lionwatcher,The Tower of Aces the Accursed,12.10,Foul Ice Bronze Of Life,291.00,-92.21,129.80,-26833.11,37771.80,1312.64,12251.33
+2223,Cult Godseeker,Barad Cune,26.00,Angels' Adamant,108.00,1304.00,179.30,140832.00,19364.40,41651.06,201847.46
+2224,Slayer Claw,Hartshill Ward,41.98,Angels' Adamant,204.00,1304.00,179.30,266016.00,36577.20,127089.14,429682.34
+5381,Sephiroth Drakecaster,Boiaburh Keep,16.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas,108.00,4123.68,122.49,445357.44,13228.92,73373.82,531960.18
+5907,Ironbrood,The Tower of Aramum,39.00,Primordial Plague Mercury Of Legend,58.00,373.79,273.90,21679.82,15886.20,14650.75,52216.77
+9441,Shadow Tomblion,The Tomb of Gothmog of Udun,-3.00,Goddesses' Spectral Poison Steel,185.00,3773.99,269.83,698188.15,49918.55,-22443.20,725663.50
+10077,"Baltha, Goddess of Knowledge",The Broken Shield,37.23,Meteoric Dustzephyr Orichalcum,224.00,375.00,244.08,84000.00,54673.92,51309.35,189983.27
+12946,Metalghoul,The Hunter and Rose,40.40,Timeiron,74.00,1596.00,228.33,118104.00,16896.42,54000.17,189000.59
+12957,Evilbrood,The Wizard's House,43.58,Timeiron,66.00,1596.00,228.33,105336.00,15069.78,52978.54,173384.32
+14628,Bane Veil,Barad Kesa,4.75,Legendary Mithril Of The Moon,151.00,2707.10,125.84,408772.10,19001.84,21388.70,449162.64
+16983,Chainhorror,Castle Village,45.39,Warlocks' Timerot Mithril,214.00,2917.07,112.00,624252.98,23968.00,291699.44,939920.42
+18546,Steelterror The Blade,Boiaburh Keep,17.60,Primordial Mud Orichalcum,362.00,-469.36,85.11,-169908.32,30809.82,-25037.73,-164136.23
+18583,Wheelspawn,Boiaburh Keep,17.60,Primordial Plague Mercury Of Legend,144.00,497.52,301.29,71642.88,43385.76,20705.16,135733.80
+20126,"Lionare, God of the Lost",The Cracked Chalice,2.52,Timeiron,314.00,1596.00,251.16,501144.00,78864.24,17400.25,597408.49
+21033,"Lenwenye, Goddess of Travel",The Forsaken Hive of Galima the Mighty,29.89,Hell Mercury Of The East,26.00,4636.34,378.81,120544.84,9849.06,39118.17,169512.07
+21639,Spikespawn,The Cuitamba Jungle,33.88,Golems' Stonesapphire Gold Of The Glacier,114.00,4444.06,128.23,506622.84,14618.22,177221.96,698463.02

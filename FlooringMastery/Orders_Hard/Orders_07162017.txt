@@ -1,0 +1,12 @@
+799,Burnchill The Evil,Reyny Keep,11.00,Yellow Mistearth Copper,294.00,4159.62,-27.40,1222928.28,-8055.60,133635.99,1348508.67
+1944,Ironbrood,The Forsaken Tomb of Devastation,0.00,Planar Mudtin Of Trolls,137.00,2094.92,335.36,287004.04,45944.32,0.00,332948.36
+4044,Claw Mist,The Pilgrim's Cup,41.93,Phantasmal Tin Of The Swamps,218.00,4074.00,-6.60,888132.00,-1438.80,372411.14,1259104.34
+5334,Rune Rougehate,The Tower of Sheshbazzu,3.30,Ghouls' Imperial Soulzephyr Mithril Of The Seas,305.00,4123.68,122.49,1257722.40,37359.45,38852.46,1333934.31
+7380,"Gono, Goddess of the Earth",Tradun Castle,34.24,Zephyr Adamant,158.00,4224.00,102.93,667392.00,16262.94,232442.68,916097.62
+8256,Lightning Brand,The Lazy Sage,19.97,Djinni's Spectral Shadowlead Of Life,84.00,3705.90,296.02,311295.60,24865.68,67232.26,403393.54
+8712,"Eumyan, Goddess of Law",The Pirate's Pipe,17.60,White Platinum,140.00,-52.59,145.00,-7362.60,20300.00,2328.73,15266.13
+11725,Burnbrood The Freezer,South Brightcrown Borough,42.25,Lycanthropes' Gold,277.00,4846.18,66.14,1342391.86,18320.78,571499.31,1932211.95
+12785,Nettool The Grasping,The Grey Plains,19.97,Phantasmal Smokezephyr Mercury Of Men,138.00,-464.37,75.90,-64083.06,10474.20,-10721.77,-64330.63
+14095,Rune Rougehate,The Lewd King,27.00,Glowpearl Adamant Of Spirits,312.00,398.09,374.00,124204.08,116688.00,65040.86,305932.94
+19630,Gravebone,Weke Tower,-0.07,Mithril Of The Tropics,268.00,4538.71,11.98,1216374.28,3210.64,0.00,1219584.92
+21074,Spikebrood The Disinterred,Archtemple District,27.76,Negative Rockglitter Mercury Of Trolls,128.00,1795.52,681.36,229826.56,87214.08,88771.38,405812.02

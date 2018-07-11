@@ -1,0 +1,12 @@
+6115,Betty "Happy Thinker" Watson,MO,2.20,Pebbles,236.00,0.80,4.84,188.80,1142.24,26.62,1357.66
+10239,Evelyn "Evil Joker" Taylor,TX,0.61,Pinecones,102.00,1.50,2.66,153.00,271.32,4.24,428.56
+12979,Renee "Hellish Empress" Banks,MS,3.00,Pebbles,179.00,0.88,4.84,157.52,866.36,30.72,1054.60
+14421,Vengeful Montgomery,ID,0.00,Brick,169.00,5.32,6.66,899.08,1125.54,0.00,2024.62
+15483,Diana "Mistress" Morgan,UT,0.00,Dirt,162.00,0.50,1.00,81.00,162.00,0.00,243.00
+16055,Mabel "Vixen Cursed" King,ND,1.38,Packed Dirt,298.00,1.10,2.20,327.80,655.60,9.83,993.23
+16723,"Bane" Jennings,WY,0.31,Cedar Planks,145.00,2.20,6.05,319.00,877.25,0.00,1196.25
+17179,Betty "Happy Thinker" Watson,MS,3.00,Pinecones,184.00,1.50,2.66,276.00,489.44,22.96,788.40
+17266,Vicki "Mesa" Rhodes,MO,2.20,Cedar Planks,300.00,2.20,6.66,660.00,1998.00,53.16,2711.16
+17508,Victoria "the Dancer",KS,0.55,Beechwood,151.00,3.63,5.50,548.13,830.50,13.79,1392.42
+22137,Diana "Mistress" Morgan,WY,0.31,Packed Dirt,113.00,1.10,2.42,124.30,273.46,0.00,397.76
+23019,Heather "Friendly Gambler" Barrett,MT,5.84,Dirt,195.00,0.55,1.00,107.25,195.00,18.14,320.39

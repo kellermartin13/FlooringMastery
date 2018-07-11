@@ -1,0 +1,12 @@
+2517,"Baltha, Goddess of Knowledge",The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,104.00,2929.96,189.69,304715.84,19727.76,116799.70,441243.30
+2988,Bedlam Spiritraven,The Archer and Blade,9.00,Phantasmal Smokezephyr Mercury Of Men,289.00,-317.16,69.00,-91659.24,19941.00,-6454.64,-78172.88
+4806,Freezebrood,The Archer and Scroll,39.60,Planar Rainfate Mithril,91.00,1185.84,320.52,107911.44,29167.32,54831.50,191910.26
+5871,Claw Mist,Boiaburh Keep,16.00,Mistgold Of Men,292.00,3065.71,44.00,895187.32,12848.00,145285.65,1053320.97
+6620,Gravebone,The Tower of Aces the Accursed,13.31,Emerald Orichalcum,195.00,-368.87,128.90,-71929.65,25135.50,-6083.24,-52877.39
+11286,Chillfire The Chiller,The Dungeon of Dismal Terror,-3.50,God-touched Greengem Platinum,195.00,1281.72,-39.60,249935.40,-7722.00,-9688.54,232524.86
+13207,Scarechain The Unspeakable,The Lost Crypts of Sorrows,35.87,Muck Orichalcum Of Ogres,183.00,3426.85,364.95,627113.55,66785.85,249803.78,943703.18
+18603,Evilember The Firey,The Glano Forest,3.00,Primordial Mud Orichalcum,119.00,-469.36,85.11,-55853.84,10128.09,-1371.77,-47097.52
+18606,Seraphim Tsunami,Mahyrst Keep,30.42,Ensorceled Sandmetal Of Spirits,305.00,2956.98,95.70,901878.90,29188.50,279320.22,1210387.62
+20287,Metalghoul,The Dismal Marsh,6.66,Grayplatinum,195.00,3032.59,306.97,591355.05,59859.15,45584.99,696799.19
+21590,Cinderflame,Unicorn's Ward,14.64,Planar Rainfate Mithril,354.00,1304.42,320.52,461764.68,113464.08,86284.31,661513.07
+22578,Grave Mistseeker,The Pilgrim's Cup,46.12,Djinni's Evil Sandobsidian Steel Of The Future,226.00,4208.60,172.78,951143.60,39048.28,455488.26,1445680.14

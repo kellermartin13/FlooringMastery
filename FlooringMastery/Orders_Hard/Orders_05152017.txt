@@ -1,0 +1,17 @@
+1223,Cinderember,The Wizard's House,43.58,Imperial Fate Steel,106.00,2721.75,-37.13,288505.50,-3935.78,125210.68,409780.40
+3546,Harmony Angelchild,Pawic Keep,0.56,Forgotten Mithril,207.00,913.00,316.00,188991.00,65412.00,2544.03,256947.03
+5814,Storm Squallmourner,Barad Kesa,4.32,Stone Soulsteel Of The Skies,212.00,1798.28,13.21,381235.36,2800.52,15361.44,399397.32
+6376,Grave Mistseeker,South Brightcrown Borough,42.25,Zephyr Iron,201.00,2759.00,444.69,554559.00,89382.69,270455.51,914397.20
+8155,Sunrise Godwarlock,Tradun Castle,34.24,Planar Obsidian Mercury Of Wizards,380.00,2574.00,141.57,978120.00,53796.60,350851.64,1382768.24
+8553,Rouge Roguemist,Mahyrst Keep,27.65,Primordial Mud Orichalcum,293.00,-387.90,77.37,-113654.70,22669.41,-25475.88,-116461.17
+9519,Spikespawn,Tower Farthing,27.12,Emerald Orichalcum,93.00,-368.87,128.90,-34304.91,11987.70,-6025.65,-28342.86
+10474,Evilember The Firey,The Demon and Toad,23.75,Litches' Fatal Mithril Of The Past,127.00,1327.98,369.05,168653.46,46869.35,51725.47,267248.28
+10577,Cinderember,The Demon and Toad,23.75,Shadowhell Mithril,202.00,439.23,286.41,88724.46,57854.82,35179.03,181758.31
+11906,Freezebrood,The Citadel of Cheno,7.33,Lycanthropes' Gold,142.00,4846.18,66.14,688157.56,9391.88,48828.46,746377.90
+12178,"Gadriel, God of Resurrection",The Tomb of Hellish Ruin,16.94,Sprites' Transcendent Mud Lead Of The South,211.00,2081.80,321.86,439259.80,67912.46,86219.28,593391.54
+12230,Rune Rougehate,The Glano Forest,3.00,Sirens' Rockgold,255.00,-352.01,199.96,-89762.55,50989.80,-1163.18,-39935.93
+18300,Shadow Gust,Archfane District,36.16,Poison Adamant,280.00,1266.52,64.44,354625.60,18043.20,134160.77,506829.57
+18485,Snaretool The Constructed,The Tomb of Hellish Ruin,16.94,Primal Adamant,346.00,5520.99,331.42,1910262.54,114671.32,344238.76,2369172.62
+18948,"Suriel, Lord of Animals",Bifar's Deep,18.70,Unspeakable Rotsoul Mithril Of Souls,279.00,248.00,485.85,69192.00,135552.15,38901.39,243645.54
+20759,"Maglioneth, Lord of the Sun",Waleah Castle,0.85,Negative Rockglitter Mercury Of Trolls,139.00,1795.52,681.36,249577.28,94709.04,3442.86,347729.18
+22329,Rose Anchor,Hartshill Ward,50.80,Magicians' Legendary Poison Metal,70.00,2991.55,252.79,209408.50,17695.30,115822.94,342926.74

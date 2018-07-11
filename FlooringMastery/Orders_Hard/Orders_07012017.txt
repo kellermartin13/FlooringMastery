@@ -1,0 +1,14 @@
+1206,Shadow Gust,Lamp Borough,4.95,Hidden Shadowice Lead,163.00,2729.00,-46.75,444827.00,-7620.25,21860.34,459067.09
+3860,"Gadriel, God of Resurrection",The Hunter and Rose,40.40,Grayplatinum,142.00,2278.43,279.06,323537.06,39626.52,145265.43,508429.01
+3913,"Prusu, God of Love",The Lost Sanctum of Woe,3.00,Spirits' Living Wordhammer Tin Of The Trees,116.00,4343.00,26.40,503788.00,3062.40,15205.51,522055.91
+4971,Sunrise Godwarlock,The Scoundrel and Flask,-4.58,Zephyr Adamant,227.00,4224.00,102.93,958848.00,23365.11,-49110.66,933102.45
+10379,Lance Knightseraph,The Forsaken Sepulcher of Sorrows,48.79,Mithril Of Legend,395.00,2274.80,63.01,898546.00,24888.95,452483.13,1375918.08
+11170,Freezebrood,The Forsaken Sepulcher of Sorrows,48.79,God-touched Greengem Platinum,29.00,1281.72,-39.60,37169.88,-1148.40,17650.53,53672.01
+12952,Evilfear The Horrorific,Gawold Castle,6.05,Swordbronze,170.00,1485.01,447.01,252451.70,75991.70,19706.60,348150.00
+13857,Tarot Dawn,Gili's Delve,-6.73,Shadowhell Mithril,313.00,483.15,286.41,151225.95,89646.33,-16861.06,224011.22
+14370,Lightning Brand,Gili's Delve,-6.73,Sprites' Transcendent Mud Lead Of The South,260.00,2081.80,321.86,541268.00,83683.60,-43746.61,581204.99
+15824,Valentine Lawslayer,Noble's Village,30.25,Poison Adamant,234.00,1151.38,64.44,269422.92,15078.96,85350.56,369852.44
+16312,Jericho Wolf,Haukri's Hold,27.83,Thunderbirds' Transcendent Dreamiron,170.00,2275.25,237.70,386792.50,40409.00,119616.42,546817.92
+17155,"Iran, Lord of Nightmares",Castle Village,45.39,Succubi's Evil Mindzephyr Adamant Of The Desert,190.00,2189.18,250.07,415944.20,47513.30,208555.88,672013.38
+17624,"Eumyan, Goddess of Law",Weke Tower,-0.07,Hidden Shadowice Lead,303.00,2729.00,-62.23,826887.00,-18855.69,0.00,808031.31
+21411,Shadow Gust,Peley Keep,26.33,Hidden Shadowice Lead,352.00,2729.00,-62.23,960608.00,-21904.96,244062.79,1182765.83

@@ -1,0 +1,16 @@
+2911,April "Thunderbird" Dunn,ND,1.25,Pinecones,266.00,1.50,2.20,399.00,585.20,9.84,994.04
+7081,Lena Chapman "the Bully",UT,0.00,Beechwood,142.00,3.00,5.00,426.00,710.00,0.00,1136.00
+7351,Allison "Steel Gravedigger" Douglas,MT,3.30,Packed Dirt,126.00,1.00,1.50,126.00,189.00,9.45,324.45
+8145,Michele Watson "the Loner",MT,3.30,Dirt,97.00,0.50,1.00,48.50,97.00,4.36,149.86
+8615,Florence "Leather Doc" Grant,MO,2.20,Pebbles,141.00,0.88,4.84,124.08,682.44,16.13,822.65
+10202,Lena Chapman "the Bully",KS,0.55,Beechwood,204.00,3.00,5.50,612.00,1122.00,17.34,1751.34
+12607,Gladys "Locoweed" Keller,TX,0.67,Dirt,48.00,0.50,1.00,24.00,48.00,0.72,72.72
+15747,Vengeful Robertson,WY,0.31,Solid Oak,55.00,5.50,6.05,302.50,332.75,0.00,635.25
+19258,Vengeful Robertson,AL,1.00,Dirt,335.00,0.50,1.00,167.50,335.00,5.02,507.52
+20926,Susan "Damnation" Fleming,NV,0.31,Packed Dirt,226.00,1.10,2.42,248.60,546.92,0.00,795.52
+21837,Friendly Howell,NM,2.93,Leather,195.00,11.00,19.97,2145.00,3894.15,181.17,6220.32
+21965,Cynthia "the Vixen",ND,1.67,Pebbles,183.00,0.88,4.84,161.04,885.72,20.94,1067.70
+22088,Theresa "Scalphunter" Romero,ID,0.00,Leather,227.00,11.00,19.97,2497.00,4533.19,0.00,7030.19
+22768,Heather "Tornado" Newman,KS,0.55,Pebbles,261.00,0.88,5.32,229.68,1388.52,16.18,1634.38
+22966,Vengeful Montgomery,NM,2.93,Pinecones,148.00,1.50,2.93,222.00,433.64,19.67,675.31
+23451,Ida Russell "the Rustler",AL,1.00,Cedar Planks,370.00,2.20,6.66,814.00,2464.20,32.78,3310.98

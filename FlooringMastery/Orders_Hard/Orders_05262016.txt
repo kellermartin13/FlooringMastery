@@ -1,0 +1,20 @@
+1906,Evilbrood,Hartshill Ward,41.98,Djinni's Evil Sandobsidian Steel Of The Future,228.00,3826.00,157.07,872328.00,35811.96,381418.78,1289558.74
+2261,Sephiroth Drakecaster,The Chuallanto Jungle,37.00,Incubi's Mirrorfog Iron Of The Ocean,280.00,4798.76,-19.59,1343652.80,-5485.20,495122.01,1833289.61
+3508,"Penur, Lord of the Sea",Pawic Keep,0.56,Yellow Mistearth Copper,230.00,4575.58,-27.40,1052383.40,-6302.00,10460.81,1056542.21
+4906,Claw Mist,Archring Borough,17.93,Yellow Mistearth Copper,163.00,4575.58,-27.40,745819.54,-4466.20,133443.60,874796.94
+5943,Sunrise Godwarlock,The Cuitamba Jungle,28.00,Icy Shock Silver,217.00,1348.16,407.00,292550.72,88319.00,106643.52,487513.24
+6088,Law Lionwatcher,The Cuitamba Jungle,28.00,Primal Adamant,68.00,4562.80,273.90,310270.40,18625.20,92090.77,420986.37
+7492,Nailpiston The Grasping,The Broken Shield,37.23,Angels' Adamant,146.00,1304.00,179.30,190384.00,26177.80,80127.87,296689.67
+8194,Bedlam Spiritraven,Haukri's Hold,25.30,Planar Obsidian Mercury Of Wizards,131.00,2574.00,141.57,337194.00,18545.67,88934.92,444674.59
+11142,Fate Seeker,Eved Castle,5.09,Heavenly Dreamsilver Of The Night,292.00,2009.68,112.00,586826.56,32704.00,30976.53,650507.09
+12270,Zeal Bladewitch,Archscepter Borough,3.00,God-touched Faterainbow Orichalcum Of Spectres,255.00,370.41,32.01,94454.55,8162.55,3078.51,105695.61
+13184,Evilcoil The Machine,The Fortress of Asmamur,-4.48,Mithril Of Legend,241.00,2274.80,63.01,548226.80,15185.41,-22536.49,540875.72
+13573,"Gadriel, God of Resurrection",The Pilgrim's Cup,46.12,Mistgold Of Men,155.00,3709.51,53.24,574974.05,8252.20,268284.08,851510.33
+15587,"Penur, Lord of the Sea",The Glano Forest,3.00,Unknown Fatelightning Steel Of The Glacier,18.00,2441.05,65.68,43938.90,1182.24,1353.63,46474.77
+15592,Metalghoul,The Greedy Wench,32.70,Plague Tin,187.00,4767.02,342.10,891432.74,63972.70,315283.80,1270689.24
+16903,"Zepul, Lady of Vengeance",The Cracked Chalice,2.52,Magicians' Legendary Poison Metal,177.00,2719.59,252.79,481367.43,44743.83,15783.34,541894.60
+17048,Song Runetomb,Arcanist's Farthing,3.30,Magicians' Legendary Poison Metal,284.00,2719.59,252.79,772363.56,71792.36,25324.68,869480.60
+17155,Dagger Reaper,Lacot Stronghold,45.22,Sprites' Transcendent Mud Lead Of The South,199.00,2081.80,321.86,414278.20,64050.14,215247.75,693576.09
+19892,Wheelspawn,The Bloody Wand,15.97,Djinni's Mind Fogiron,224.00,2531.12,98.52,566970.88,22068.48,94246.30,683285.66
+20690,Zeal Bladewitch,The Warrior and Flagon,53.24,Greenlead,223.00,959.65,179.65,214001.95,40061.95,134653.87,388717.77
+20773,Lance Knightseraph,Archtemple District,27.76,Yellow Mistearth Copper,216.00,5536.45,-33.15,1195873.20,-7160.40,332839.58,1521552.38

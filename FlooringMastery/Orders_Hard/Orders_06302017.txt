@@ -1,0 +1,22 @@
+2008,Shadow Gust,The Tomb of Hellish Ruin,14.00,Spirits' Living Wordhammer Tin Of The Trees,251.00,4343.00,26.40,1090093.00,6626.40,153540.72,1250260.12
+3799,Rune Rougehate,The Lost Sanctum of Woe,3.00,Plague Tin,182.00,4333.65,342.10,788724.30,62262.20,25529.60,876516.10
+7205,Icechill The Frigid,Barad Kesa,4.32,Spectres' Shadowy Terrorglow Adamant Of Life,125.00,4694.80,205.50,586850.00,25687.50,24501.50,637039.00
+9941,Shadow Gust,The Broken Shield,37.23,Djinni's Spectral Shadowlead Of Life,166.00,3705.90,325.62,615179.40,54052.92,247615.96,916848.28
+10883,"Ariel, God of Luck",Dysley Stronghold,45.98,God-touched Greengem Platinum,191.00,1281.72,-39.60,244808.52,-7563.60,109132.66,346377.58
+11036,Lord Mystery,The Tower of Aces the Accursed,13.31,Emerald Orichalcum,188.00,-368.87,128.90,-69347.56,24233.20,-5864.87,-50979.23
+11940,"Lenwenye, Goddess of Travel",South Brightcrown Borough,42.25,Phantasmal Tin Of The Swamps,167.00,4074.00,-6.60,680358.00,-1102.20,285287.44,964543.24
+12319,Magus Felldrake,The Glano Forest,3.00,God-touched Faterainbow Orichalcum Of Spectres,225.00,370.41,32.01,83342.25,7202.25,2716.34,93260.84
+12625,Mecharig The Living Device,Lordsgate Farthing,45.25,Mistgold Of Men,360.00,3372.28,53.24,1214020.80,19166.40,554934.24,1788121.44
+15018,Claw Mist,The Cuitamba Jungle,30.80,Muck Orichalcum Of Ogres,255.00,3769.54,401.45,961232.70,102369.75,329716.76,1393319.21
+17010,Cult Godseeker,The Flying Witch,12.60,Zephyr Iron,241.00,3034.90,444.69,731410.90,107170.29,109015.55,947596.74
+17187,Valentine Lawslayer,Lamp Borough,4.95,Negative Rockglitter Mercury Of Trolls,45.00,1632.29,619.42,73453.05,27873.90,5066.35,106393.30
+17629,Bedlam Spiritraven,Shainan's Hold,23.96,Glowpearl Adamant Of Spirits,177.00,398.09,374.00,70461.93,66198.00,32798.38,169458.31
+20426,Wheelspawn,North Arcanist's Farthing,55.18,Zephyr Adamant,231.00,4224.00,113.22,975744.00,26153.82,551043.80,1552941.62
+20681,"Penur, Lord of the Sea",The Warrior and Flagon,53.24,Vampires' Fang Emeraldsilver,251.00,3343.22,455.55,839148.22,114343.05,505350.37,1458841.64
+21373,Spikerivet,Moor Village,76.43,Angels' Smoke Adamant Of The Mountains,214.00,3427.13,260.15,733405.82,55672.10,599699.22,1388777.14
+22010,Song Runetomb,Barad Kesa,5.23,Otherworldly Truesoul Orichalcum Of The East,204.00,1061.78,392.65,216603.12,80100.60,14835.19,311538.91
+22416,"Lionare, God of the Lost",Gili's Delve,-6.73,Yellow Mistearth Copper,191.00,5536.45,-33.15,1057461.95,-6331.65,-73579.12,977551.18
+22649,Metalbrood,Grove Farthing,19.80,Icy Shock Silver,171.00,1631.28,595.89,278948.88,101897.19,76169.21,457015.28
+22713,Clash Lonedrake,The Desert of Flames,57.10,Incubi's Glittering Tin Of The Future,134.00,3349.54,96.64,448838.36,12949.76,263219.23,725007.35
+22955,Gravebone The Unspeakable,The Pilgrim's Cup,46.12,Djinni's Evil Sandobsidian Steel Of The Future,154.00,4208.60,172.78,648124.40,26608.12,310376.96,985109.48
+23090,Lord Mystery,Pawic Keep,0.62,Timeiron,276.00,1596.00,276.28,440496.00,76253.28,5167.49,521916.77

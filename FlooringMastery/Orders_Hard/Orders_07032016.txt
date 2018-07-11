@@ -1,0 +1,10 @@
+602,"Azah, Goddess of Fate",The Tomb of Hellish Ruin,14.00,Venom Jewelmetal Of The Desert,126.00,1388.00,224.00,174888.00,28224.00,28435.68,231547.68
+4082,Law Lionwatcher,Citadel Ward,25.82,Tritons' Time Stoneiron Of Legend,237.00,1760.00,168.90,417120.00,40029.30,118858.82,576008.12
+8562,Deathbrood,The Lazy Sage,19.97,Incubi's Iron Of The Dawn,195.00,1200.96,424.31,234187.20,82740.45,63385.53,380313.18
+8755,Gravebone The Unspeakable,The Dancing Minstrel,21.20,Ghouls' Imperial Soulzephyr Mithril Of The Seas,204.00,4123.68,122.49,841230.72,24987.96,181905.92,1048124.60
+9735,"Lenwenye, Goddess of Travel",The Secret Catacombs of Ulfang the Black,42.90,Spirits' Living Wordhammer Tin Of The Trees,77.00,4777.30,26.40,367852.10,2032.80,159050.51,528935.41
+14708,Shadow Tomblion,Archscepter Borough,3.30,Unknown Fatelightning Steel Of The Glacier,295.00,2441.05,65.68,720109.75,19375.60,22184.56,761669.91
+17163,Burnbrood The Freezer,The Cracked Chalice,2.52,Zephyr Iron,295.00,3034.90,444.69,895295.50,131183.55,30794.37,1057273.42
+18945,Lightning Brand,The Secret Shrine of the Gargoyle Count,-2.00,Incubi's Iron Of The Dawn,151.00,1200.96,424.31,181344.96,64070.81,-4908.32,240507.45
+19192,Shadow Gust,Reyny Keep,11.00,Ghostly Soul Adamant,187.00,3222.96,229.53,602693.52,42922.11,71017.72,716633.35
+22613,"Gono, Goddess of the Earth",The Desert of Flames,57.10,Devils' Falserot Silver,215.00,2220.79,182.71,477469.85,39282.65,294548.92,811301.42

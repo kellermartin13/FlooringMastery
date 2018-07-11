@@ -1,0 +1,20 @@
+3681,Melissa "Lonesome Stalker" Riley,AL,1.00,Cedar Planks,282.00,2.00,5.50,564.00,1551.00,21.15,2136.15
+4559,Wilma "Tornado" Brooks,CA,0.55,Cedar Planks,348.00,2.00,5.50,696.00,1914.00,26.10,2636.10
+5043,Jo "the Joker",ND,1.25,Cedar Planks,207.00,2.00,5.50,414.00,1138.50,15.52,1568.02
+6259,Maureen "Cursed" Andrews,TX,0.50,Beechwood,67.00,3.00,5.00,201.00,335.00,0.00,536.00
+7328,Joanne "Damned" Miles,ID,0.00,Reeds,133.00,0.75,2.20,99.75,292.60,0.00,392.35
+8699,Maureen "Cursed" Andrews,WY,0.31,Beechwood,205.00,3.00,5.50,615.00,1127.50,0.00,1742.50
+8827,Tammy Carlson "the Killer",OK,2.20,Beechwood,180.00,3.00,5.50,540.00,990.00,30.60,1560.60
+9463,Renee "Hellish Empress" Banks,WY,0.31,Packed Dirt,287.00,1.00,1.50,287.00,430.50,0.00,717.50
+10769,Ida Russell "the Rustler",AR,2.20,Solid Oak,129.00,5.50,5.50,709.50,709.50,28.38,1447.38
+12951,Florence "Leather Doc" Grant,NM,2.42,Brick,280.00,4.84,6.66,1355.20,1864.80,64.40,3284.40
+13876,Evelyn "Evil Joker" Taylor,CA,0.61,Leather,95.00,11.00,18.15,1045.00,1724.25,27.69,2796.94
+14086,Wilma "Tornado" Brooks,MT,3.99,Pinecones,200.00,1.50,2.66,300.00,532.00,33.28,865.28
+17480,Gloria "Devil" McCoy,NM,2.66,Beechwood,213.00,3.63,5.50,773.19,1171.50,58.34,2003.03
+17992,Vanessa "Scalper" Rhodes,CA,0.61,Brick,333.00,5.32,6.66,1771.56,2217.78,39.89,4029.23
+18282,Melissa "Lonesome Stalker" Riley,IA,1.33,Reeds,299.00,0.83,2.20,248.17,657.80,9.06,915.03
+18496,Dorothy "the Hunter",UT,0.00,Beechwood,68.00,3.63,5.50,246.84,374.00,0.00,620.84
+20343,Cathy "Loner Demon" Murray,AL,1.00,Cedar Planks,247.00,2.20,6.66,543.40,1645.02,21.88,2210.30
+20471,Elizabeth "the Bully",AL,1.00,Cedar Planks,187.00,2.20,6.66,411.40,1245.42,16.57,1673.39
+21366,Darlene "Loner" Ford,WY,0.31,Beechwood,198.00,3.63,6.05,718.74,1197.90,0.00,1916.64
+22230,Gladys "Locoweed" Keller,ID,0.00,Brick,260.00,5.32,6.66,1383.20,1731.60,0.00,3114.80

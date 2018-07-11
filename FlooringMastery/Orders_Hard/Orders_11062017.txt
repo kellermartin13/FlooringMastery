@@ -1,0 +1,14 @@
+5809,Spiketerror The Skeletal,The Vaults of the Shadow Emperor,30.00,Mithril Of The Tropics,224.00,3751.00,9.00,840224.00,2016.00,252672.00,1094912.00
+5995,Lance Knightseraph,The Pirate's Pipe,17.60,Poison Adamant,110.00,1151.38,58.58,126651.80,6443.80,23957.21,157052.81
+7002,"Nelalwe, Lady of Fire",Barad Kesa,4.32,Meteoric Dustzephyr Orichalcum,317.00,375.00,244.08,118875.00,77373.36,7849.93,204098.29
+7271,Spikebrood The Disinterred,The Forsaken Hive of Galima the Mighty,24.70,Angels' Adamant,243.00,1304.00,179.30,316872.00,43569.90,90110.48,450552.38
+7999,Flameshiver,The Grey Plains,19.97,Unknowable Mindsilver,189.00,3565.00,366.00,673785.00,69174.00,148591.80,891550.80
+8116,Gale Jackalguard,The Tower of Aces the Accursed,13.31,Unknown Fatelightning Steel Of The Glacier,133.00,2017.40,54.28,268314.20,7219.24,35819.35,311352.79
+8374,Snaretool The Constructed,The Broken Arrow,30.07,Incubi's Iron Of The Dawn,198.00,1200.96,424.31,237790.08,84013.38,96541.04,418344.50
+8742,Deathbrood,The Nulukkhath Spires,10.59,White Platinum,217.00,-52.59,145.00,-11412.03,31465.00,2205.83,22258.80
+18622,"Melcha, Goddess of Thieves",The Bastion of Barbos,28.34,Primordial Mud Orichalcum,298.00,-469.36,85.11,-139869.28,25362.78,-32061.82,-146568.32
+18697,"Lionare, God of the Lost",The Tower of Aramum,42.90,Sphinxes' Opalpearl Platinum Of Legend,250.00,5805.82,390.81,1451455.00,97702.50,666137.72,2215295.22
+18916,Ironbrood,The Pilgrim's Cup,46.12,Djinni's Mind Fogiron,145.00,2301.02,89.56,333647.90,12986.20,159451.69,506085.79
+19227,Song Runetomb,The Bastion of Barbos,28.34,Unicorns' Evil Mithril,339.00,4802.49,377.52,1628044.11,127979.28,491686.55,2247709.94
+22748,Seraphim Tsunami,The Demon and Toad,31.61,Violetdream Iron,289.00,1630.07,349.36,471090.23,100965.04,183057.69,755112.96
+23002,Lance Knightseraph,The Lazy Sage,19.97,Mithril Of The Tropics,352.00,4992.58,11.98,1757388.16,4216.96,352321.02,2113926.14

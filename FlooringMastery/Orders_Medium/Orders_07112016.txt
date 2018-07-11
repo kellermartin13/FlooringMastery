@@ -1,0 +1,18 @@
+2014,Jacqueline "Riding Doc" Washington,WY,0.25,Dirt,95.00,0.50,1.00,47.50,95.00,0.00,142.50
+4260,Minnie Lawson "the Apostle",MS,3.00,Dirt,218.00,0.50,1.00,109.00,218.00,9.81,336.81
+4487,Mabel "Vixen Cursed" King,ND,1.25,Beechwood,199.00,3.00,5.00,597.00,995.00,15.92,1607.92
+5607,Evelyn "Evil Joker" Taylor,ND,1.25,Solid Oak,152.00,5.50,5.50,836.00,836.00,16.72,1688.72
+6086,Deborah "the Lady",KS,0.50,Cedar Planks,279.00,2.20,5.50,613.80,1534.50,0.00,2148.30
+6683,Renee "Loco Tracker" Jordan,WY,0.31,Reeds,146.00,0.75,2.20,109.50,321.20,0.00,430.70
+7489,Gloria "Devil" McCoy,TX,0.50,Beechwood,279.00,3.00,5.00,837.00,1395.00,0.00,2232.00
+7882,Kathy Murphy "the Thinker",MO,2.20,Beechwood,130.00,3.00,5.50,390.00,715.00,22.10,1127.10
+8240,Debra "Scorpion" Lane,WY,0.31,Solid Oak,299.00,5.50,5.50,1644.50,1644.50,0.00,3289.00
+9460,"Scalphunter" Kennedy,TX,0.55,Reeds,196.00,0.75,2.20,147.00,431.20,5.78,583.98
+11607,Mabel "Vixen Cursed" King,ND,1.38,Beechwood,196.00,3.00,5.50,588.00,1078.00,16.66,1682.66
+13666,Amanda Hart "the Loner",CA,0.61,Packed Dirt,348.00,1.00,2.00,348.00,696.00,10.44,1054.44
+19518,"Doom" McCoy,UT,0.00,Packed Dirt,258.00,1.10,2.42,283.80,624.36,0.00,908.16
+22384,Mabel "Vixen Cursed" King,IA,1.33,Solid Oak,323.00,5.50,6.66,1776.50,2151.18,39.28,3966.96
+22556,Cathy "Loner Demon" Murray,CA,0.67,Solid Oak,264.00,5.50,6.66,1452.00,1758.24,32.10,3242.34
+22624,Renee "Loco Tracker" Jordan,CA,0.67,Pebbles,257.00,0.88,5.32,226.16,1367.24,15.93,1609.33
+22695,Heather "Tornado" Newman,WY,0.34,Reeds,160.00,0.91,2.42,145.60,387.20,0.00,532.80
+22810,Heather "Friendly Gambler" Barrett,ND,1.67,Beechwood,124.00,3.63,6.05,450.12,750.20,24.01,1224.33

@@ -1,0 +1,10 @@
+3087,"Ahah, Goddess of Knowledge",The Archer and Blade,9.00,Rainbowglitter Tin,219.00,4923.46,176.36,1078237.74,38622.84,100517.45,1217378.03
+5049,Lord Mystery,The Lewd King,27.00,Rot Silver Of The Past,58.00,3440.00,327.00,199520.00,18966.00,58991.22,277477.22
+7373,Chainhorror,The Lazy Sage,19.97,Golems' Stonesapphire Gold Of The Glacier,110.00,3672.77,105.97,404004.70,11656.70,83132.28,498793.68
+8990,Bane Veil,The Beggar and Cask,23.10,Angels' Smoke Adamant Of The Mountains,235.00,2832.34,215.00,665599.90,50525.00,164708.73,880833.63
+12743,"Maeglodor, God of Thieves",The Desert of Flames,51.91,Imperial Fate Steel,217.00,2993.93,-44.92,649682.81,-9747.64,332766.29,972701.46
+13802,Chainnail,Khali's Delve,52.71,Ghostly Soul Adamant,251.00,3222.96,229.53,808962.96,57612.03,459284.74,1325859.73
+16381,"Alas, Lord of Plague",Haukri's Hold,27.83,Nymphs' Luminous Rotmercury Of The Skies,201.00,292.60,189.00,58812.60,37989.00,27104.45,123906.05
+16721,Song Runetomb,Boiaburh Keep,16.00,Fleshshock Mercury,166.00,4858.70,338.07,806544.20,56119.62,138026.21,1000690.03
+18590,Tarot Dawn,The Lewd King,32.67,Starlight Pearldream Bronze,260.00,322.10,147.40,83746.00,38324.00,40283.10,162353.10
+21578,Spikecrank,Pewold Keep,22.57,Angels' Smoke Adamant Of The Mountains,62.00,3427.13,260.15,212482.06,16129.30,52580.61,281191.97

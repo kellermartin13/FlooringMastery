@@ -1,0 +1,14 @@
+1387,Spikespawn,The Tomb of Hellish Ruin,14.00,Foul Ice Bronze Of Life,301.00,-92.21,129.80,-27755.21,39069.80,1584.04,12898.63
+2693,Ironbrood,The Nulukkhath Spires,9.63,Ghostly Soul Adamant,299.00,2929.96,189.69,876058.04,56717.31,93277.54,1026052.89
+3461,Dawn Darkzealot,The Forsaken Hive of Galima the Mighty,22.45,Litches' Fatal Mithril Of The Past,91.00,1207.25,335.50,109859.75,30530.50,30885.86,171276.11
+9838,"Ariel, God of Luck",North Arcanist's Farthing,45.60,Emerald Orichalcum,85.00,-368.87,128.90,-31353.95,10956.50,-9382.83,-29780.28
+11070,Beamsprocket The Grasping,The Fortress of the Lich Queen,36.35,Green Dustlightning Mercury,180.00,3517.00,35.20,633060.00,6336.00,230182.56,869578.56
+11736,Metalbrood,The Barrow of Malefic Ages,17.91,Timeiron,164.00,1596.00,228.33,261744.00,37446.12,53854.22,353044.34
+12125,Sunset Knightclaw,Bifar's Deep,18.70,Incubi's Glittering Tin Of The Future,149.00,3349.54,79.86,499081.46,11899.14,97086.31,608066.91
+16113,"Sielach, God of Fate",Peley Keep,26.33,Incubi's Mirrorfog Iron Of The Ocean,189.00,5806.50,-26.08,1097428.50,-4929.12,284049.84,1376549.22
+17499,Claw Mist,Lamp Borough,4.95,Hidden Shadowice Lead,256.00,2729.00,-62.23,698624.00,-15930.88,34134.66,716827.78
+18375,Storm Seraphheart,Lamp Borough,4.95,Poison Adamant,192.00,1266.52,64.44,243171.84,12372.48,12777.22,268321.54
+22591,"Melcha, Goddess of Thieves",The Lost Sanctum of Woe,3.30,Djinni's Evil Sandobsidian Steel Of The Future,163.00,4208.60,172.78,686001.80,28163.14,21424.95,735589.89
+22669,"Maeglodor, God of Thieves",The Fortress of the Lich Queen,36.35,Icy Shock Silver,205.00,1631.28,595.89,334412.40,122157.45,164365.15,620935.00
+22865,Jericho Wolf,Citadel Ward,37.80,Falserainbow Lead,184.00,3215.00,256.30,591560.00,47159.20,242713.30,881432.50
+23217,"Finarfin, God of Protection",The Bastion of Sthasu the Gruesome,14.93,Icy Shock Silver,134.00,1794.41,595.89,240450.94,79849.26,48045.03,368345.23

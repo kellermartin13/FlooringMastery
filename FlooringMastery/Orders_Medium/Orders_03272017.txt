@@ -1,0 +1,16 @@
+1322,Lucky Johnson,MT,3.00,Reeds,264.00,0.75,2.00,198.00,528.00,21.78,747.78
+2009,Stella "the Bully",IA,1.00,Leather,193.00,10.00,16.50,1930.00,3184.50,51.14,5165.64
+2080,Stella "the Bully",ND,1.25,Beechwood,104.00,3.00,5.00,312.00,520.00,8.32,840.32
+4466,Vanessa "Scalper" Rhodes,IA,1.10,Packed Dirt,224.00,1.00,1.50,224.00,336.00,5.60,565.60
+7867,Florence "Leather Doc" Grant,IA,1.21,Cedar Planks,268.00,2.20,6.05,589.60,1621.40,22.11,2233.11
+9058,Kathy Murphy "the Thinker",AL,1.00,Dirt,173.00,0.50,1.00,86.50,173.00,2.60,262.10
+10667,Jo "the Joker",CA,0.55,Dirt,336.00,0.50,1.00,168.00,336.00,5.04,509.04
+11667,April "Thunderbird" Dunn,CA,0.61,Cedar Planks,188.00,2.20,6.05,413.60,1137.40,15.51,1566.51
+13311,Renee "Hellish Empress" Banks,MT,3.63,Reeds,179.00,0.75,2.20,134.25,393.80,21.12,549.17
+13960,Mattie Grant "the Gambler",KS,0.55,Pebbles,126.00,0.88,4.84,110.88,609.84,7.21,727.93
+14051,Black Beck,CA,0.61,Pinecones,351.00,1.50,2.66,526.50,933.66,14.60,1474.76
+17988,April "Thunderbird" Dunn,MT,3.99,Reeds,172.00,0.83,2.20,142.76,378.40,20.85,542.01
+18538,Darlene "Loner" Ford,KS,0.55,Solid Oak,162.00,5.50,6.66,891.00,1078.92,19.70,1989.62
+19012,Amanda Hart "the Loner",CA,0.67,Beechwood,43.00,3.63,5.50,156.09,236.50,3.93,396.52
+20293,"Scalphunter" Kennedy,IA,1.33,Cedar Planks,375.00,2.20,6.66,825.00,2497.50,33.22,3355.72
+20688,Evelyn "Evil Joker" Taylor,UT,0.00,Beechwood,234.00,3.63,6.05,849.42,1415.70,0.00,2265.12

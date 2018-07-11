@@ -1,0 +1,22 @@
+235,Dorothy "the Hunter",MT,3.00,Dirt,160.00,0.50,1.00,80.00,160.00,7.20,247.20
+1075,Mattie Grant "the Gambler",IA,1.00,Pinecones,267.00,1.50,2.00,400.50,534.00,9.34,943.84
+1123,Lucky Johnson,IA,1.00,Dirt,344.00,0.50,1.00,172.00,344.00,5.16,521.16
+1581,Gladys "Locoweed" Keller,AL,1.00,Reeds,166.00,0.75,2.00,124.50,332.00,4.56,461.06
+4382,Minnie Lawson "the Apostle",IA,1.10,Leather,205.00,10.00,16.50,2050.00,3382.50,54.32,5486.82
+5909,April "Thunderbird" Dunn,AL,1.00,Reeds,157.00,0.75,2.20,117.75,345.40,4.63,467.78
+6089,Minnie Lawson "the Apostle",ID,0.00,Beechwood,145.00,3.00,5.00,435.00,725.00,0.00,1160.00
+6597,Julia "Bandit" Chandler,MS,3.00,Leather,228.00,10.00,18.15,2280.00,4138.20,192.55,6610.75
+8341,Heather "Tornado" Newman,MT,3.30,Dirt,234.00,0.50,1.00,117.00,234.00,10.53,361.53
+10209,Jacqueline "Riding Doc" Washington,WY,0.31,Packed Dirt,200.00,1.00,1.50,200.00,300.00,0.00,500.00
+10217,Melissa "Lonesome Stalker" Riley,ID,0.00,Packed Dirt,354.00,1.00,1.50,354.00,531.00,0.00,885.00
+13382,Evelyn "Evil Joker" Taylor,MT,3.63,Packed Dirt,197.00,1.00,2.00,197.00,394.00,23.64,614.64
+13736,Marie "Raven" Chapman,KS,0.55,Brick,167.00,5.32,6.66,888.44,1112.22,20.01,2020.67
+14044,Melissa "Lonesome Stalker" Riley,IA,1.21,Beechwood,276.00,3.63,5.50,1001.88,1518.00,25.20,2545.08
+15231,Wilma "Tornado" Brooks,NV,0.31,Beechwood,248.00,3.63,5.50,900.24,1364.00,0.00,2264.24
+17668,Wilma "Tornado" Brooks,MS,3.00,Beechwood,167.00,3.63,5.50,606.21,918.50,45.74,1570.45
+17769,Julia "Bandit" Chandler,TX,0.67,Reeds,175.00,0.83,2.20,145.25,385.00,5.30,535.55
+19251,Lena Chapman "the Bully",AL,1.00,Packed Dirt,255.00,1.10,2.20,280.50,561.00,8.42,849.92
+19514,Gloria "Devil" McCoy,NV,0.31,Cedar Planks,227.00,2.20,6.66,499.40,1511.82,0.00,2011.22
+19544,Debra "Scorpion" Lane,MT,3.99,Brick,144.00,5.32,6.66,766.08,959.04,69.00,1794.12
+20227,Allison "Steel Gravedigger" Douglas,TX,0.67,Brick,270.00,5.32,6.66,1436.40,1798.20,32.35,3266.95
+20802,Debra "Scorpion" Lane,UT,0.00,Pinecones,279.00,1.50,2.66,418.50,742.14,0.00,1160.64

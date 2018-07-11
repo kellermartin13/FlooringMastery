@@ -1,0 +1,14 @@
+332,Lance Knightseraph,The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,365.00,2461.00,104.00,898265.00,37960.00,337041.00,1273266.00
+1006,Rouge Tombreaper,The Barrow of Malefic Ages,17.91,Muck Orichalcum Of Ogres,155.00,3115.32,274.19,482874.60,42499.45,94567.33,619941.38
+2897,Rose Anchor,The Hunter and Rose,40.40,Rocklava Mithril Of Revenants,185.00,1818.30,13.03,336385.50,2410.55,135518.42,474314.47
+11567,"Ahah, Goddess of Knowledge",South Brightcrown Borough,42.25,Lycanthropes' Gold,216.00,4846.18,66.14,1046774.88,14286.24,445645.67,1506706.79
+11818,"Gono, Goddess of the Earth",The Citadel of Cheno,7.33,Icy Shock Silver,102.00,1482.98,407.00,151263.96,41514.00,13494.46,206272.42
+11857,Clash Lonedrake,The Citadel of Cheno,7.33,Unicorns' Fatal Magma Metal Of The Ocean,234.00,1971.24,392.70,461270.16,91891.80,38721.34,591883.30
+14081,Fate Ivycaster,The Lewd King,27.00,Emerald Orichalcum,178.00,-405.76,128.90,-72225.28,22944.20,-13305.89,-62586.97
+16665,Emberspawn,Lacot Stronghold,45.22,Fleshshock Mercury,188.00,4858.70,338.07,913435.60,63557.16,439646.74,1416639.50
+17219,Sunset Knightclaw,The Cracked Chalice,2.52,Sphinxes' Mistsoul Bronze Of The Past,215.00,2169.81,222.28,466509.15,47790.20,15428.98,529728.33
+17675,Burnfreeze The Cold,Shainan's Hold,23.96,Hidden Shadowice Lead,261.00,2729.00,-62.23,712269.00,-16242.03,167046.47,863073.44
+17995,"Maeglodor, God of Thieves",The Nulukkhath Spires,11.65,Trolls' Mist Poisonplatinum Of The Twilight,188.00,567.79,434.39,106744.52,81665.32,22609.18,211019.02
+19702,"Prusu, God of Love",Haukri's Hold,27.83,Ghostly Soul Adamant,67.00,3222.96,229.53,215938.32,15378.51,64768.71,296085.54
+19823,Springpulley The Binder,Weke Tower,-0.07,Primordial False Gold,206.00,5395.80,248.60,1111534.80,51211.60,0.00,1162746.40
+20479,Lord Mystery,The Black Barrow of Bery,-0.10,Undeads' Mind Orichalcum Of The Twilight,139.00,-17.00,276.00,-2363.00,38364.00,0.00,36001.00

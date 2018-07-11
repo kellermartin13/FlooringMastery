@@ -1,0 +1,18 @@
+2345,Rouge Tombreaper,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,308.00,2929.96,189.69,902427.68,58424.52,345906.79,1306758.99
+8246,Shadow Gust,The Lazy Sage,19.97,Incubi's Iron Of The Dawn,211.00,1200.96,424.31,253402.56,89529.41,68586.39,411518.36
+8875,Nettool The Grasping,The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,208.00,3826.00,157.07,795808.00,32670.56,173980.50,1002459.06
+10879,Sephiroth Drakecaster,The Hunter and Rose,40.40,Devils' Falserot Silver,174.00,1668.51,182.71,290320.74,31791.54,128844.91,450957.19
+11246,"Azah, Goddess of Fate",The Dungeon of Merciless Woe,38.62,Unspeakable Rotsoul Mithril Of Souls,189.00,248.00,401.53,46872.00,75889.17,47876.86,170638.03
+12355,Sephiroth Drakecaster,The Tomb of Gothmog of Udun,-3.30,Vampires' Fang Emeraldsilver,182.00,2762.99,455.55,502864.18,82910.10,-17573.23,568201.05
+12440,Law Lionwatcher,The Glano Forest,3.00,Incubi's Iron Of The Dawn,188.00,1200.96,424.31,225780.48,79770.28,9166.52,314717.28
+12650,Fate Seeker,The Desert of Flames,51.91,Nymphs' Luminous Rotmercury Of The Skies,135.00,292.60,189.00,39501.00,25515.00,33808.32,98824.32
+13088,"Avriel, God of Death",The Desert of Flames,51.91,Phantasmal Smokezephyr Mercury Of Men,245.00,-464.37,75.90,-113770.65,18595.50,-49491.08,-144666.23
+14508,Seraphim Tsunami,The Beggar and Cask,25.41,Witchs' Forbidden Rockrainbow Bronze,303.00,655.60,425.92,198646.80,129053.76,81925.14,409625.70
+14796,"Lionare, God of the Lost",Barad Kesa,4.75,Witchs' Forbidden Rockrainbow Bronze,327.00,655.60,425.92,214381.20,139275.84,17682.85,371339.89
+15420,Cult Godseeker,The Fortress of Asmamur,-4.93,Unspeakable Rotsoul Mithril Of Souls,339.00,248.00,401.53,84072.00,136118.67,-11009.53,209181.14
+16131,Lightning Brand,Haukri's Hold,27.83,Thunderbirds' Transcendent Dreamiron,333.00,2275.25,237.70,757658.25,79154.10,234307.46,1071119.81
+16976,Burnfreeze The Cold,The Tower of Aces the Accursed,13.31,Incubi's Glittering Tin Of The Future,240.00,3349.54,87.85,803889.60,21084.00,107246.57,932220.17
+18090,"Maglioneth, Lord of the Sun",Dysley Stronghold,45.98,Trolls' Mist Poisonplatinum Of The Twilight,137.00,567.79,434.39,77787.23,59511.43,63157.38,200456.04
+20198,Shadow Gust,Moor Village,76.43,Pearl Mirrorice Steel Of Changelings,159.00,328.53,46.07,52236.27,7325.13,45266.66,104828.06
+21095,Cinderember,Waleah Castle,0.85,Sphinxes' Unknown Poisongold Of The Future,79.00,4301.28,23.86,339801.12,1884.94,3416.86,345102.92
+22791,Lance Knightseraph,Citadel Ward,37.80,Devils' Falserot Silver,131.00,2220.79,182.71,290923.49,23935.01,119646.23,434504.73

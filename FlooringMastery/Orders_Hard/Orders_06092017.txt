@@ -1,0 +1,42 @@
+105,Spikebrood The Disinterred,The Glano Forest,3.00,Lunar Bronze,274.00,753.86,307.00,206557.64,84118.00,8720.27,299395.91
+737,Maverick Wind,The Citadel of Alammius,3.18,Primordial False Gold,315.00,4459.34,226.00,1404692.10,71190.00,44276.46,1520158.56
+836,Blazeflare The Cremator,The Wizard's House,43.58,Hidden Shadowice Lead,86.00,2729.00,-46.75,234694.00,-4020.50,101496.34,332169.84
+837,Rouge Roguemist,Boiaburh Keep,16.00,Foulopal Copper Of The Skies,157.00,1221.16,403.00,191722.12,63271.00,40798.90,295792.02
+1447,Sunrise Godwarlock,The Lazy Sage,15.00,Unicorns' Fatal Magma Metal Of The Ocean,343.00,1792.04,357.00,614669.72,122451.00,110568.11,847688.83
+1662,"Maeglodor, God of Thieves",The Pirate's Pipe,16.00,Unknowable Mindsilver,227.00,3565.00,366.00,809255.00,83082.00,142773.92,1035110.92
+3034,Seraphim Tsunami,Kada's Deep,30.00,Shadowhell Mithril,217.00,363.00,260.37,78771.00,56500.29,40581.39,175852.68
+3036,Ironbrood,The Desert of Flames,39.00,Zephyr Iron,125.00,2759.00,404.26,344875.00,50532.50,154208.92,549616.42
+3096,Icechill The Frigid,Kada's Deep,30.00,Shadowhell Mithril,212.00,363.00,260.37,76956.00,55198.44,39646.33,171800.77
+3527,Zeal Bladewitch,Pawic Keep,0.56,Starlight Pearldream Bronze,275.00,266.20,134.00,73205.00,36850.00,1100.55,111155.55
+3836,Clash Lonedrake,Barad Cune,26.00,Lycanthropes' Gold,309.00,4846.18,66.14,1497469.62,20437.26,394655.79,1912562.67
+6110,Ironbrood,The Archer and Blade,9.00,Greenlead,358.00,793.10,148.47,283929.80,53152.26,30337.39,367419.45
+7268,Bronzespawn,The Lazy Sage,19.97,Zephyr Adamant,31.00,4224.00,102.93,130944.00,3190.83,26826.97,160961.80
+7364,"Zepul, Lady of Vengeance",The Forsaken Hive of Galima the Mighty,24.70,Toxic Mistlead Of The Past,170.00,1557.54,136.06,264781.80,23130.20,71978.00,359890.00
+7737,Nailpiston The Grasping,Barad Kesa,4.32,Poison Adamant,236.00,1151.38,58.58,271725.68,13824.88,11422.02,296972.58
+8382,Gale Jackalguard,The Wizard's House,43.58,Hell Mercury Of The East,271.00,4636.34,284.60,1256448.14,77126.60,586772.89,1920347.63
+9438,Song Runetomb,Fellfen Keep,46.23,Spectres' Shadowy Terrorglow Adamant Of Life,223.00,4694.80,205.50,1046940.40,45826.50,502672.77,1595439.67
+9641,Cult Godseeker,Haukri's Hold,25.30,Emerald Orichalcum,130.00,-368.87,128.90,-47953.10,16757.00,-7799.02,-38995.12
+10009,Flora Amberslayer,The Nulukkhath Spires,10.59,Magicians' Legendary Poison Metal,292.00,2247.59,229.81,656296.28,67104.52,79574.09,802974.89
+10771,Lightning Brand,The Dismal Marsh,6.05,Shadow Steel,137.00,4677.78,465.30,640855.86,63746.10,42276.12,746878.08
+11377,Fate Seeker,Fellfen Keep,46.23,Phantasmal Plague Adamant,215.00,-186.03,-7.18,-39996.45,-1543.70,-19108.47,-60648.62
+11534,Nailpiston The Grasping,Archring Borough,17.93,Unicorns' Fatal Magma Metal Of The Ocean,96.00,1971.24,392.70,189239.04,37699.20,40848.88,267787.12
+11884,Boltcrank The Trapper,The Broken Arrow,30.07,God-touched Greengem Platinum,173.00,1281.72,-39.60,221737.56,-6850.80,64466.03,279352.79
+12744,Claw Mist,The Grey Plains,19.97,Imperial Fate Steel,240.00,2993.93,-44.92,718543.20,-10780.80,141552.48,849314.88
+13349,Rouge Tombreaper,The Warrior and Flagon,53.24,Emerald Orichalcum,113.00,-405.76,128.90,-45850.88,14565.70,-16581.15,-47866.33
+13512,Emberspawn,The Pilgrim's Cup,46.12,Legendary Mithril Of The Moon,275.00,2707.10,125.84,744452.50,34606.00,358366.91,1137425.41
+13557,Metalghoul,Arcanist's Farthing,3.00,Green Dustlightning Mercury,110.00,3868.70,35.20,425557.00,3872.00,12882.87,442311.87
+13817,Metalbrood,Grove Farthing,19.80,Plague Tin,122.00,4767.02,342.10,581576.44,41736.20,124662.53,747975.17
+14093,Metalghoul,The Citadel of Lord Greywulf,33.04,Shadow Steel,158.00,5660.12,511.83,894298.96,80869.14,321805.47,1296973.57
+14700,Seraphim Tsunami,Archfane District,32.87,Swordbronze,274.00,1485.01,447.01,406892.74,122480.74,174693.25,704066.73
+15459,Cult Godseeker,The Fortress of Asmamur,-4.93,Sphinxes' Unknown Poisongold Of The Future,176.00,3910.25,23.86,688204.00,4199.36,-34620.17,657783.19
+17247,Icechill The Frigid,Shainan's Hold,23.96,Sphinxes' Opalpearl Platinum Of Legend,253.00,5805.82,390.81,1468872.46,98874.93,376259.37,1944006.76
+17428,Lightning Brand,Lamp Borough,4.95,Grayplatinum,128.00,2506.27,306.97,320802.56,39292.16,18004.74,378099.46
+18497,Shadow Tomblion,The Glano Forest,3.00,Meteoric Dustzephyr Orichalcum,22.00,375.00,268.49,8250.00,5906.78,424.70,14581.48
+18893,Bane Veil,Reyny Keep,11.00,Fog Lavaplatinum Of Life,265.00,1078.00,18.70,285670.00,4955.50,31968.80,322594.30
+19012,"Gadriel, God of Resurrection",The Barrow of Malefic Ages,19.70,Venom Timegold Of Dwarves,221.00,3339.60,295.90,738051.60,65393.90,160689.10,964134.60
+19498,Flameflare The Evil,The Temple of Merciless Necromancy,50.94,Witchs' Forbidden Rockrainbow Bronze,138.00,655.60,425.92,90472.80,58776.96,76117.38,225367.14
+20191,"Lionare, God of the Lost",The Warrior and Flagon,53.24,Grayplatinum,197.00,3032.59,306.97,597420.23,60473.09,348683.46,1006576.78
+20985,Sunset Knightclaw,South Brightcrown Borough,42.25,Unknowable Mindsilver,85.00,4313.65,402.60,366660.25,34221.00,168370.12,569251.37
+21247,Lance Knightseraph,Pewold Keep,22.57,Sphinxes' Opalpearl Platinum Of Legend,79.00,5805.82,429.89,458659.78,33961.31,113302.85,605923.94
+21775,"Alas, Lord of Plague",The Secret Shrine of the Gargoyle Count,-2.00,Unknowable Mindsilver,163.00,4313.65,402.60,703124.95,65623.80,-15374.98,753373.77
+21780,"Eumyan, Goddess of Law",The Grey Plains,21.97,Forgotten Mithril,346.00,1215.20,347.60,420459.20,120269.60,118960.34,659689.14

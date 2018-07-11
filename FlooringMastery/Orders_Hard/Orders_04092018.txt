@@ -1,0 +1,17 @@
+159,"Iran, Lord of Nightmares",The Grey Plains,18.15,Unknown Fatelightning Steel Of The Glacier,257.00,1834.00,54.28,471338.00,13949.96,87351.83,572639.79
+1601,Claw Mist,The Hunter and Rose,36.73,Incubi's Iron Of The Dawn,84.00,1200.96,385.74,100880.64,32402.16,49314.64,182597.44
+4335,Claw Mist,The Barrow of Terrible Horror,-1.10,Pearl Mirrorice Steel Of Changelings,65.00,271.51,34.61,17648.15,2249.65,-198.98,19698.82
+6664,Blazefreeze The Chiller,The Tower of Aces the Accursed,13.31,Magic Adamant,185.00,1838.00,207.64,340030.00,38413.40,49197.64,427641.04
+8064,"Azah, Goddess of Fate",The Tower of Aces the Accursed,13.31,Unknowable Mindsilver,336.00,3565.00,366.00,1197840.00,122976.00,171706.08,1492522.08
+8634,Shiverflame The Freezer,The Wizard's House,43.58,Hell Mercury Of The East,45.00,4636.34,284.60,208635.30,12807.00,97434.61,318876.91
+8708,Tiger Mistmidnight,Gawold Castle,5.50,Phantasmal Smokezephyr Mercury Of Men,254.00,-383.77,75.90,-97477.58,19278.60,-4691.94,-82890.92
+8778,Seraphim Tsunami,The Beggar and Cask,23.10,Negative Rockglitter Mercury Of Trolls,199.00,1483.90,465.38,295296.10,92610.62,89218.55,477125.27
+9371,Shadow Gust,The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,259.00,-368.87,128.90,-95537.33,33385.10,1864.57,-60287.66
+9939,Clash Lonedrake,The Dismal Marsh,6.05,Mithril Of Legend,220.00,2274.80,63.01,500456.00,13862.20,30859.09,545177.29
+13316,Cult Godseeker,The Citadel of Alammius,3.50,Ghostly Soul Adamant,204.00,3222.96,229.53,657483.84,46824.12,28172.32,732480.28
+14674,"Gadriel, God of Resurrection",The Archer and Scroll,39.60,Witchs' Forbidden Rockrainbow Bronze,86.00,655.60,425.92,56381.60,36629.12,37204.29,130215.01
+14875,Bolttrap,Gena's Hold,2.66,Heavenly Dreamsilver Of The Night,166.00,2009.68,112.00,333606.88,18592.00,10565.97,362764.85
+16734,Bronzespawn,The Citadel of Cheno,7.33,Shadowhell Mithril,313.00,483.15,315.05,151225.95,98610.65,17488.56,267325.16
+18155,Mecharig The Living Device,Grori's Deep,66.50,Trolls' Mist Poisonplatinum Of The Twilight,72.00,567.79,434.39,40880.88,31276.08,47623.59,119780.55
+18189,"Iran, Lord of Nightmares",Lamp Borough,4.95,Rocklava Mithril Of Revenants,130.00,2200.14,14.33,286018.20,1862.90,14394.06,302275.16
+20827,"Finarfin, God of Protection",Eved Castle,5.09,Forgotten Mithril,316.00,1215.20,347.60,384003.20,109841.60,24692.24,518537.04

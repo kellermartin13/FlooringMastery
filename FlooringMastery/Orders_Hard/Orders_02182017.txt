@@ -1,0 +1,16 @@
+2777,"Byzou, God of Animals",The Cracked Chalice,2.29,Unholy Poison Copper Of The Mountains,164.00,528.10,-9.24,86608.40,-1515.36,1701.86,86794.90
+2851,Snaretool The Constructed,The Fortress of the Lich Queen,36.35,Fog Lavaplatinum Of Life,227.00,1078.00,17.00,244706.00,3859.00,89483.40,338048.40
+3891,Bronzespike,Ring District,35.00,Violetstone Tin Of Death,209.00,2245.23,156.10,469253.07,32624.90,175657.29,677535.26
+4083,Tiger Mistmidnight,Barad Cune,26.00,Glittering Orichalcum,279.00,-131.00,360.23,-36549.00,100504.17,16628.34,80583.51
+8052,Bronzespike,Lordsgate Farthing,41.14,Fairies' Supreme Mistsmoke Lead Of The Future,141.00,3349.50,324.73,472279.50,45786.93,212407.24,730473.67
+9375,Nettool The Grasping,Unicorn's Ward,14.64,Shadow Steel,176.00,4677.78,465.30,823289.28,81892.80,135777.31,1040959.39
+10892,Snaretool The Constructed,The Tower of Aces the Accursed,13.31,Devils' Falserot Silver,227.00,1668.51,182.71,378751.77,41475.17,54629.50,474856.44
+11134,Claw Mist,The Dungeon of Dismal Terror,-3.50,Emerald Orichalcum,130.00,-368.87,128.90,-47953.10,16757.00,1247.84,-29948.26
+12991,Snowflame The Evil,The Tomb of Hellish Ruin,16.94,Phantasmal Lead,42.00,-552.97,245.47,-23224.74,10309.74,-2195.55,-15110.55
+13052,Song Runetomb,The Grey Plains,19.97,Nymphs' Luminous Rotmercury Of The Skies,165.00,292.60,189.00,48279.00,31185.00,15892.80,95356.80
+13980,Bronzespike,The Bastion of Gothmog of Udun,54.84,Ghostly Soul Adamant,175.00,3222.96,229.53,564018.00,40167.75,332302.16,936487.91
+14913,Zeal Bladewitch,The Tower of Aces the Accursed,13.31,Primordial Mud Orichalcum,285.00,-387.90,85.11,-110551.50,24256.35,-11218.37,-97513.52
+17766,Rose Anchor,The Grey Plains,19.97,Fog Lavaplatinum Of Life,293.00,1078.00,18.70,315854.00,5479.10,64266.62,385599.72
+19560,Emberspawn,The Pirate's Pipe,17.60,Toxic Mistlead Of The Past,148.00,1557.54,164.64,230515.92,24366.72,45878.88,300761.52
+21063,Rune Rougehate,Lordsgate Farthing,45.25,Djinni's Evil Sandobsidian Steel Of The Future,66.00,4208.60,172.78,277767.60,11403.48,130126.99,419298.07
+21125,Mecharig The Living Device,The Forsaken Hive of Galima the Mighty,29.89,Angels' Adamant,197.00,1434.40,197.23,282576.80,38854.31,96429.33,417860.44

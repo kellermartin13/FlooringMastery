@@ -1,0 +1,15 @@
+2347,Betty "Happy Thinker" Watson,CA,0.50,Solid Oak,142.00,5.50,5.00,781.00,710.00,0.00,1491.00
+5581,Renee "Hellish Empress" Banks,OK,2.20,Packed Dirt,257.00,1.00,1.50,257.00,385.50,12.85,655.35
+6060,Debra "Scorpion" Lane,MS,3.00,Brick,43.00,4.84,6.66,208.12,286.38,14.84,509.34
+6879,Michele Watson "the Loner",ID,0.00,Solid Oak,34.00,5.50,5.50,187.00,187.00,0.00,374.00
+7118,Mattie Grant "the Gambler",MO,2.20,Pinecones,198.00,1.50,2.66,297.00,526.68,16.47,840.15
+10020,Theresa "Scalphunter" Romero,WY,0.31,Reeds,296.00,0.75,2.20,222.00,651.20,0.00,873.20
+10506,Vengeful Robertson,NM,2.20,Solid Oak,183.00,5.50,5.50,1006.50,1006.50,40.26,2053.26
+10517,Mattie Grant "the Gambler",UT,0.00,Beechwood,104.00,3.00,5.50,312.00,572.00,0.00,884.00
+11169,Stella "the Bully",OK,2.42,Packed Dirt,119.00,1.00,1.50,119.00,178.50,5.95,303.45
+13084,April "Thunderbird" Dunn,NV,0.31,Pinecones,155.00,1.50,2.66,232.50,412.30,0.00,644.80
+14658,Evelyn "Evil Joker" Taylor,MT,3.99,Packed Dirt,211.00,1.10,2.20,232.10,464.20,27.85,724.15
+15264,Dorothy "the Hunter",CA,0.61,Leather,148.00,11.00,18.15,1628.00,2686.20,43.14,4357.34
+18133,Victoria "the Dancer",TX,0.67,Packed Dirt,225.00,1.10,2.20,247.50,495.00,7.42,749.92
+18748,Cathy "Loner Demon" Murray,NV,0.31,Dirt,185.00,0.50,1.00,92.50,185.00,0.00,277.50
+21408,Tina "Lady" Anderson,ND,1.67,Beechwood,116.00,3.63,6.05,421.08,701.80,22.46,1145.34

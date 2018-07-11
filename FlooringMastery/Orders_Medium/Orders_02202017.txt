@@ -1,0 +1,23 @@
+870,Florence "Leather Doc" Grant,OK,2.00,Reeds,61.00,0.75,2.00,45.75,122.00,3.36,171.11
+2523,Theresa "Kid" Robinson,MT,3.00,Beechwood,302.00,3.00,5.00,906.00,1510.00,72.48,2488.48
+3287,Gladys "Locoweed" Keller,MO,2.20,Cedar Planks,187.00,2.00,5.50,374.00,1028.50,28.05,1430.55
+4402,Victoria "the Dancer",KS,0.50,Brick,123.00,4.40,5.50,541.20,676.50,0.00,1217.70
+5270,Tammy Carlson "the Killer",CA,0.55,Brick,239.00,4.84,6.05,1156.76,1445.95,26.03,2628.74
+5495,Stella "the Bully",UT,0.00,Pebbles,307.00,0.80,4.40,245.60,1350.80,0.00,1596.40
+5576,Victoria "the Dancer",KS,0.50,Leather,33.00,10.00,18.15,330.00,598.95,0.00,928.95
+6209,Mattie Grant "the Gambler",CA,0.55,Leather,193.00,10.00,18.15,1930.00,3502.95,54.33,5487.28
+6647,Jacqueline "Riding Doc" Washington,OK,2.20,Packed Dirt,236.00,1.00,1.50,236.00,354.00,11.80,601.80
+6953,Evelyn "Evil Joker" Taylor,WY,0.31,Dirt,237.00,0.50,1.00,118.50,237.00,0.00,355.50
+7318,Cathy "Loner Demon" Murray,KS,0.50,Beechwood,24.00,3.00,5.00,72.00,120.00,0.00,192.00
+8022,Julia "Bandit" Chandler,NM,2.20,Cedar Planks,257.00,2.20,6.05,565.40,1554.85,42.40,2162.65
+9221,Mabel "Vixen Cursed" King,NV,0.31,Solid Oak,176.00,5.50,5.50,968.00,968.00,0.00,1936.00
+9622,Beth "Fortunate Shooter" Powell,MT,3.63,Packed Dirt,139.00,1.00,1.50,139.00,208.50,13.90,361.40
+10130,Tammy Carlson "the Killer",MT,3.63,Packed Dirt,344.00,1.00,1.50,344.00,516.00,34.40,894.40
+11140,Elizabeth "the Bully",AL,1.00,Cedar Planks,112.00,2.20,6.05,246.40,677.60,9.24,933.24
+14298,Vengeful Montgomery,TX,0.67,Dirt,191.00,0.50,1.00,95.50,191.00,2.86,289.36
+17896,Victoria "the Dancer",TX,0.67,Dirt,244.00,0.50,1.00,122.00,244.00,3.66,369.66
+18395,Melissa "Lonesome Stalker" Riley,ND,1.67,Reeds,171.00,0.83,2.20,141.93,376.20,10.36,528.49
+19035,Dorothy "the Hunter",OK,2.42,Dirt,113.00,0.50,1.00,56.50,113.00,3.39,172.89
+19680,Mabel "Vixen Cursed" King,MS,3.00,Solid Oak,280.00,5.50,6.66,1540.00,1864.80,102.14,3506.94
+22270,Maureen "Cursed" Andrews,WY,0.31,Dirt,109.00,0.55,1.00,59.95,109.00,0.00,168.95
+23025,Vicki "Mesa" Rhodes,ND,1.67,Pinecones,119.00,1.50,2.93,178.50,348.67,10.54,537.71

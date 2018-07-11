@@ -1,0 +1,21 @@
+31,"Finarfin, God of Protection",Love Keep,7.00,Planar Obsidian Mercury Of Wizards,326.00,2574.00,117.00,839124.00,38142.00,61408.62,938674.62
+103,Scarechain The Unspeakable,Pewold Keep,16.95,Planar Mudtin Of Trolls,206.00,2094.92,335.36,431553.52,69084.16,85108.41,585746.09
+2867,Sunrise Godwarlock,The Demon and Toad,23.75,Rainbowglitter Tin,226.00,4923.46,176.36,1112701.96,39857.36,276614.24,1429173.56
+3686,"Ingwenel, God of War",Reheath Stronghold,8.00,Forgotten Mithril,289.00,913.00,316.00,263857.00,91324.00,28414.48,383595.48
+4556,Springsprocket,The Fen of the Necromancer,45.10,Phantasmal Lead,36.00,-457.00,245.47,-16452.00,8836.92,-3426.79,-11041.87
+5288,Tarot Dawn,The Broken Arrow,30.07,Magic Adamant,234.00,1838.00,188.76,430092.00,44169.84,142278.55,616540.39
+5975,Burnbrood The Freezer,The Cracked Chalice,2.29,Nymphs' Luminous Rotmercury Of The Skies,128.00,292.60,189.00,37452.80,24192.00,1232.90,62877.70
+6188,Gale Jackalguard,The Lazy Sage,19.97,Nymphs' Luminous Rotmercury Of The Skies,231.00,292.60,189.00,67590.60,43659.00,22249.92,133499.52
+6266,Blazeflare The Cremator,The Lazy Sage,19.97,Fairies' Supreme Mistsmoke Lead Of The Future,222.00,3349.50,324.73,743589.00,72090.06,163135.81,978814.87
+7074,Tiger Mistmidnight,Kada's Deep,33.00,Unholy Poison Copper Of The Mountains,250.00,580.91,-9.24,145227.50,-2310.00,47162.78,190080.28
+8444,Shiverflame The Freezer,Haukri's Hold,25.30,Djinni's Spectral Shadowlead Of Life,150.00,3705.90,296.02,555885.00,44403.00,150072.00,750360.00
+8757,Spikerivet,Weke Tower,-0.05,Primordial Plague Mercury Of Legend,194.00,452.29,301.29,87744.26,58450.26,0.00,146194.52
+11814,Storm Squallmourner,Unicorn's Ward,14.64,Angels' Smoke Adamant Of The Mountains,252.00,3115.57,236.50,785123.64,59598.00,126708.25,971429.89
+12194,Flora Amberslayer,Reheath Stronghold,8.00,Fairies' Supreme Mistsmoke Lead Of The Future,202.00,3349.50,324.73,676599.00,65595.46,59375.56,801570.02
+14371,"Gono, Goddess of the Earth",The Secret Shrine of the Gargoyle Count,-2.00,Glowpearl Adamant Of Spirits,261.00,398.09,374.00,103901.49,97614.00,-4030.31,197485.18
+15362,Burnbrood The Freezer,Gifeld Castle,6.22,Plague Tin,271.00,4767.02,342.10,1291862.42,92709.10,83074.29,1467645.81
+18572,Nettool The Grasping,The Vaults of the Shadow Emperor,33.00,Venom Timegold Of Dwarves,269.00,3339.60,295.90,898352.40,79597.10,322723.34,1300672.84
+19753,"Ariel, God of Luck",The Pirate's Pipe,17.60,Toxic Mistlead Of The Past,178.00,1557.54,164.64,277242.12,29305.92,55178.65,361726.69
+21713,Evilember The Firey,Pewold Keep,22.57,Sphinxes' Opalpearl Platinum Of Legend,219.00,5805.82,429.89,1271474.58,94145.91,314092.71,1679713.20
+22173,Wheelspawn,Tradun Castle,41.43,Sprites' Transcendent Mud Lead Of The South,342.00,2081.80,321.86,711975.60,110076.12,337041.21,1159092.93
+22836,"Melcha, Goddess of Thieves",Eved Castle,5.09,Thunderbirds' Transcendent Dreamiron,89.00,2275.25,237.70,202497.25,21155.30,11182.63,234835.18

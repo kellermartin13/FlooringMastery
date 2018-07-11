@@ -1,0 +1,22 @@
+3000,Wilma "Tornado" Brooks,TX,0.50,Pebbles,177.00,0.80,4.40,141.60,778.80,0.00,920.40
+3918,Joanne "Damned" Miles,OK,2.00,Reeds,150.00,0.75,2.00,112.50,300.00,8.25,420.75
+4104,Vengeful Robertson,NV,0.25,Solid Oak,212.00,5.50,5.00,1166.00,1060.00,0.00,2226.00
+4864,Marie "Raven" Chapman,IA,1.10,Cedar Planks,204.00,2.00,5.50,408.00,1122.00,15.30,1545.30
+6412,Heather "Friendly Gambler" Barrett,AR,2.20,Leather,48.00,10.00,18.15,480.00,871.20,27.02,1378.22
+7317,Maureen "Cursed" Andrews,MT,3.30,Reeds,222.00,0.75,2.20,166.50,488.40,19.65,674.55
+7957,Kathy Murphy "the Thinker",MT,3.30,Dirt,287.00,0.50,1.00,143.50,287.00,12.92,443.42
+12037,Darlene "Loner" Ford,AR,2.20,Pebbles,217.00,0.88,4.84,190.96,1050.28,24.82,1266.06
+12513,Wilma "Tornado" Brooks,NM,2.42,Packed Dirt,221.00,1.00,1.65,221.00,364.65,11.71,597.36
+13735,Vengeful Robertson,OK,2.42,Reeds,173.00,0.75,2.20,129.75,380.60,10.21,520.56
+13810,Renee "Loco Tracker" Jordan,ID,0.00,Beechwood,211.00,3.63,5.50,765.93,1160.50,0.00,1926.43
+15038,Friendly Howell,CA,0.61,Pinecones,98.00,1.50,2.66,147.00,260.68,4.08,411.76
+15312,Heather "Friendly Gambler" Barrett,ND,1.38,Cedar Planks,301.00,2.20,6.05,662.20,1821.05,24.83,2508.08
+15909,April "Thunderbird" Dunn,MS,3.00,Beechwood,268.00,3.63,5.50,972.84,1474.00,73.41,2520.25
+15978,Geraldine "Revenge" Warren,AL,1.00,Dirt,182.00,0.50,1.00,91.00,182.00,2.73,275.73
+16166,Theresa "Scalphunter" Romero,NM,2.66,Dirt,312.00,0.50,1.00,156.00,312.00,14.04,482.04
+16717,Joanne "Damned" Miles,MS,3.00,Leather,153.00,11.00,19.97,1683.00,3055.41,142.15,4880.56
+17062,Beth "Fortunate Shooter" Powell,ID,0.00,Pebbles,163.00,0.88,4.84,143.44,788.92,0.00,932.36
+21083,Deborah "the Lady",AL,1.00,Pebbles,189.00,0.88,4.84,166.32,914.76,10.81,1091.89
+21699,Friendly Howell,NM,2.93,Packed Dirt,380.00,1.10,2.42,418.00,919.60,40.13,1377.73
+23051,Theresa "Kid" Robinson,OK,2.93,Dirt,320.00,0.55,1.00,176.00,320.00,14.88,510.88
+23289,Geraldine "Revenge" Warren,NM,2.93,Dirt,243.00,0.55,1.00,133.65,243.00,11.30,387.95

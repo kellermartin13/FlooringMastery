@@ -1,0 +1,21 @@
+2768,Evelyn "Evil Joker" Taylor,MS,3.00,Packed Dirt,222.00,1.00,1.50,222.00,333.00,16.65,571.65
+2875,Gloria "Devil" McCoy,IA,1.00,Brick,166.00,4.00,5.50,664.00,913.00,15.77,1592.77
+6082,"Bane" Jennings,MS,3.00,Pebbles,75.00,0.80,4.84,60.00,363.00,12.69,435.69
+7358,Florence "Leather Doc" Grant,MS,3.00,Solid Oak,56.00,5.50,5.50,308.00,308.00,18.48,634.48
+7530,Lucky Johnson,ID,0.00,Cedar Planks,186.00,2.20,6.05,409.20,1125.30,0.00,1534.50
+8243,Florence "Leather Doc" Grant,UT,0.00,Leather,339.00,10.00,18.15,3390.00,6152.85,0.00,9542.85
+10827,Tina "Lady" Anderson,NV,0.31,Cedar Planks,152.00,2.20,6.05,334.40,919.60,0.00,1254.00
+12675,Deborah "the Lady",CA,0.61,Beechwood,113.00,3.30,5.50,372.90,621.50,9.94,1004.34
+12978,Maureen "Cursed" Andrews,KS,0.55,Pinecones,231.00,1.50,2.66,346.50,614.46,9.61,970.57
+15439,Vanessa "Scalper" Rhodes,ND,1.38,Pebbles,154.00,0.88,4.84,135.52,745.36,8.81,889.69
+15642,Black Beck,TX,0.67,Cedar Planks,132.00,2.20,6.05,290.40,798.60,10.89,1099.89
+16245,Lena Chapman "the Bully",AR,2.20,Solid Oak,210.00,5.50,6.05,1155.00,1270.50,48.51,2474.01
+16697,Susan "Damnation" Fleming,WY,0.31,Leather,98.00,11.00,19.97,1078.00,1957.06,0.00,3035.06
+17336,Beth "Fortunate Shooter" Powell,CA,0.61,Pebbles,171.00,0.88,4.84,150.48,827.64,9.78,987.90
+17546,Jo "the Joker",IA,1.21,Packed Dirt,130.00,1.10,2.20,143.00,286.00,4.29,433.29
+17578,Ida Russell "the Rustler",OK,2.42,Packed Dirt,193.00,1.10,2.20,212.30,424.60,12.74,649.64
+17721,Vengeful Montgomery,AL,1.00,Cedar Planks,163.00,2.20,6.66,358.60,1085.58,14.44,1458.62
+19448,"Bane" Jennings,TX,0.67,Cedar Planks,245.00,2.20,6.66,539.00,1631.70,21.71,2192.41
+19464,"Scalphunter" Kennedy,MO,2.20,Brick,167.00,5.32,6.66,888.44,1112.22,40.01,2040.67
+21915,Darlene "Loner" Ford,AR,2.20,Brick,309.00,5.32,6.66,1643.88,2057.94,74.04,3775.86
+22941,Beth "Fortunate Shooter" Powell,MT,5.84,Reeds,152.00,0.91,2.42,138.32,367.84,30.37,536.53

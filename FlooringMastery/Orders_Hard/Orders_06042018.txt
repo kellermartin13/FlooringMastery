@@ -1,0 +1,19 @@
+21,Storm Squallmourner,The Glano Forest,3.00,Muck Orichalcum Of Ogres,350.00,3115.32,274.19,1090362.00,95966.50,35589.86,1221918.36
+183,Magus Felldrake,The Citadel of Cheno,5.00,Lunar Bronze,152.00,753.86,307.00,114586.72,46664.00,8062.54,169313.26
+584,Tiger Mistmidnight,The Fortress of the Lich Queen,36.35,Succubi's Evil Mindzephyr Adamant Of The Desert,145.00,1990.16,250.07,288573.20,36260.15,116940.01,441773.36
+1880,Spikebrood The Disinterred,The Forsaken Tomb of Devastation,0.00,Magicians' Legendary Poison Metal,187.00,2043.26,229.81,382089.62,42974.47,0.00,425064.09
+2451,Gravebone,The Cracked Chalice,2.29,Fog Lavaplatinum Of Life,183.00,1078.00,17.00,197274.00,3111.00,4007.70,204392.70
+3614,Burnbrood The Freezer,North Arcanist's Farthing,41.45,Ensorceled Sandmetal Of Spirits,200.00,2956.98,87.00,591396.00,17400.00,249606.36,858402.36
+6762,Scarechain The Unspeakable,Weke Tower,-0.05,Thunderbirds' Transcendent Dreamiron,197.00,2275.25,237.70,448224.25,46826.90,0.00,495051.15
+6850,"Avriel, God of Death",Archtemple District,27.76,Magic Adamant,64.00,1838.00,207.64,117632.00,13288.96,36657.87,167578.83
+7783,Bedlam Spiritraven,The Tower of Aramum,42.90,Planar Obsidian Mercury Of Wizards,249.00,2574.00,141.57,640926.00,35250.93,290756.08,966933.01
+9966,Blazefreeze The Chiller,The Warrior and Flagon,48.40,Djinni's Spectral Shadowlead Of Life,212.00,3705.90,325.62,785650.80,69031.44,410247.48,1264929.72
+11700,Metalbrood,Archring Borough,17.93,Angels' Smoke Adamant Of The Mountains,331.00,3115.57,236.50,1031253.67,78281.50,199716.33,1309251.50
+11993,Ironbrood,The Forsaken Tomb of Devastation,0.00,Angels' Adamant,142.00,1304.00,179.30,185168.00,25460.60,0.00,210628.60
+13198,Bronzespike,The Lost Crypts of Sorrows,35.87,Negative Mercury,316.00,4054.87,436.81,1281338.92,138031.96,510973.52,1930344.40
+13322,Bonescare,The Lost Crypts of Sorrows,35.87,Emerald Orichalcum,261.00,-405.76,128.90,-105903.36,33642.90,-26013.77,-98274.23
+13965,Beamsprocket The Grasping,The Greedy Wench,32.70,Spectres' Shadowy Terrorglow Adamant Of Life,284.00,5164.28,248.66,1466655.52,70619.44,507300.74,2044575.70
+15057,Sunrise Godwarlock,Minas Gilloy,43.19,Heavenly Dreamsilver Of The Night,174.00,2009.68,112.00,349684.32,19488.00,158744.10,527916.42
+17076,Valentine Lawslayer,The Citadel of Lord Greywulf,33.04,Nymphs' Luminous Rotmercury Of The Skies,103.00,292.60,207.90,30137.80,21413.70,17012.00,68563.50
+22285,Jericho Wolf,Gili's Delve,-6.73,Muck Orichalcum Of Ogres,154.00,4561.14,485.76,702415.56,74807.04,-54405.58,722817.02
+22481,Chainhorror,The Forsaken Delve of Lord Greywulf,42.90,Muck Orichalcum Of Ogres,127.00,4561.14,485.76,579264.78,61691.52,275611.21,916567.51

@@ -1,0 +1,16 @@
+736,Scarefear The Blade,Boiaburh Keep,16.00,Sapphire Mindlead,76.00,1307.71,47.00,99385.96,3572.00,16473.27,119431.23
+1301,Evilbrood,Boiaburh Keep,16.00,Mithril Of Legend,77.00,2068.00,52.07,159236.00,4009.39,26119.26,189364.65
+1501,Icechill The Frigid,The Lazy Sage,15.00,Venom Jewelmetal Of The Desert,216.00,1388.00,224.00,299808.00,48384.00,52228.80,400420.80
+1567,Cinderember,The Dungeon of Merciless Woe,38.62,Greenlead,104.00,721.00,134.97,74984.00,14036.88,34718.14,123739.02
+1816,Steelterror The Blade,Haukri's Hold,25.30,Incubi's Mirrorfog Iron Of The Ocean,122.00,4798.76,-19.59,585448.72,-2389.98,145764.68,728823.42
+4337,"Zepul, Lady of Vengeance",Peley Keep,19.78,Succubi's Evil Mindzephyr Adamant Of The Desert,265.00,1990.16,250.07,527392.40,66268.55,118732.19,712393.14
+4703,Lance Knightseraph,Grove Farthing,18.00,Trolls' Rubymercury Of The Sunset,343.00,506.00,198.00,173558.00,67914.00,43464.96,284936.96
+5264,Bolttrap,Gawold Castle,5.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas,222.00,4123.68,122.49,915456.96,27192.78,47132.49,989782.23
+5370,Gale Jackalguard,Lordsgate Farthing,37.40,Mithril Of Legend,55.00,2274.80,63.01,125114.00,3465.55,47574.43,176153.98
+7970,"Alik, Goddess of Trickery",The Tower of Aces the Accursed,13.31,Toxin Iceplatinum Of The Undead,302.00,-342.78,-53.90,-103519.56,-16277.80,-15573.66,-135371.02
+8524,Nailpiston The Grasping,The Barrow of Terrible Horror,-1.21,Foul Ice Bronze Of Life,215.00,-92.21,129.80,-19825.15,27907.00,-80.82,8001.03
+12993,"Alik, Goddess of Trickery",The Tomb of Hellish Ruin,16.94,Nymphs' Luminous Rotmercury Of The Skies,256.00,292.60,189.00,74905.60,48384.00,20959.23,144248.83
+14438,"Iran, Lord of Nightmares",Haukri's Hold,27.83,Phantasmal Tin Of The Swamps,126.00,4929.54,-7.26,621122.04,-914.76,173658.04,793865.32
+17662,Chainhorror,The Cracked Chalice,2.52,Negative Rockglitter Mercury Of Trolls,191.00,1632.29,619.42,311767.39,118309.22,12902.30,442978.91
+20091,Clash Lonedrake,Tower Farthing,27.12,Primordial False Gold,143.00,5395.80,248.60,771599.40,35549.80,217930.28,1025079.48
+23042,Spikecrank,The Lazy Sage,19.97,Incubi's Glittering Tin Of The Future,202.00,3349.54,96.64,676607.08,19521.28,139225.67,835354.03

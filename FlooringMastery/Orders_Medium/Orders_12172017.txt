@@ -1,0 +1,12 @@
+116,Susan "Damnation" Fleming,ND,1.25,Dirt,200.00,0.50,1.00,100.00,200.00,3.00,303.00
+4624,Michele Watson "the Loner",KS,0.50,Dirt,94.00,0.50,1.00,47.00,94.00,0.00,141.00
+6175,Melissa "Lonesome Stalker" Riley,IA,1.21,Pebbles,290.00,0.80,4.84,232.00,1403.60,16.36,1651.96
+8818,Helen Webb "the Dancer",TX,0.50,Pebbles,327.00,0.88,4.84,287.76,1582.68,0.00,1870.44
+9782,Diana "Mistress" Morgan,AR,2.20,Pebbles,114.00,0.88,4.84,100.32,551.76,13.04,665.12
+12822,Cathy "Wildfire" Neal,KS,0.55,Packed Dirt,206.00,1.00,1.82,206.00,374.92,5.81,586.73
+14283,Heather "Friendly Gambler" Barrett,AR,2.20,Dirt,109.00,0.50,1.00,54.50,109.00,3.27,166.77
+17624,Minnie Lawson "the Apostle",CA,0.61,Pebbles,136.00,0.88,4.84,119.68,658.24,7.78,785.70
+19252,Kathy Murphy "the Thinker",ND,1.67,Reeds,144.00,0.83,2.20,119.52,316.80,8.73,445.05
+19494,Theresa "Scalphunter" Romero,NV,0.31,Leather,155.00,11.00,19.97,1705.00,3095.35,0.00,4800.35
+19926,Elizabeth "the Bully",NM,2.93,Pinecones,359.00,1.50,2.66,538.50,954.94,44.80,1538.24
+21440,Black Beck,ID,0.00,Brick,187.00,5.32,6.66,994.84,1245.42,0.00,2240.26

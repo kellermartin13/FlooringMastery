@@ -1,0 +1,18 @@
+346,Fate Seeker,Arcanist's Farthing,3.00,Litches' Fatal Mithril Of The Past,247.00,1207.25,305.00,298190.75,75335.00,11205.77,384731.52
+1472,Blazefreeze The Chiller,The Hunter and Rose,36.73,Meteoric Dustzephyr Orichalcum,211.00,375.00,221.89,79125.00,46818.79,46599.20,172542.99
+2172,"Alik, Goddess of Trickery",Hartshill Ward,41.98,Djinni's Evil Sandobsidian Steel Of The Future,171.00,3826.00,157.07,654246.00,26858.97,286064.09,967169.06
+3042,Wheelbolt The Machine,The Grey Plains,19.97,Rainbowglitter Tin,138.00,4923.46,176.36,679437.48,24337.68,140755.03,844530.19
+5015,Boltcrank The Trapper,The Khazahol Crags,-1.97,Sphinxes' Unknown Poisongold Of The Future,227.00,3554.77,23.86,806932.79,5416.22,-16246.98,796102.03
+8502,Song Runetomb,Khali's Delve,52.71,Shadowy Adamant,254.00,618.93,478.58,157208.22,121559.32,147746.80,426514.34
+9259,Rune Rougehate,The Citadel of Tattena the Sinister,12.13,Primal Adamant,210.00,5019.08,301.29,1054006.80,63270.90,134073.32,1251351.02
+9303,Burnchill The Evil,The Archer and Scroll,39.60,Primal Adamant,45.00,5019.08,301.29,225858.60,13558.05,95766.66,335183.31
+9351,Rouge Roguemist,Lamp Borough,4.95,Shadow Steel,182.00,4677.78,465.30,851355.96,84684.60,46802.03,982842.59
+11318,Bedlam Spiritraven,Peley Keep,23.94,Phantasmal Plague Adamant,238.00,-186.03,-7.18,-44275.14,-1708.84,-11036.16,-57020.14
+11735,"Baltha, Goddess of Knowledge",Archring Borough,17.93,Pearl Mirrorice Steel Of Changelings,86.00,271.51,38.07,23349.86,3274.02,4792.30,31416.18
+14926,Zeal Bladewitch,The Dark Caverns of Woe,3.29,Grayplatinum,131.00,2506.27,306.97,328321.37,40213.07,11056.03,379590.47
+16042,Lord Mystery,Fellfen Keep,61.53,Timeiron,172.00,1596.00,251.16,274512.00,43199.52,196981.14,514692.66
+17086,Beamtrap,The Cracked Chalice,2.52,Sprites' Transcendent Mud Lead Of The South,104.00,2081.80,321.86,216507.20,33473.44,7499.42,257480.06
+18905,Beamtrap,Bifar's Deep,18.70,Djinni's Mind Fogiron,299.00,2301.02,89.56,688004.98,26778.44,135808.85,850592.27
+21842,Cinderember,Barad Cune,28.60,Violetstone Tin Of Death,226.00,2469.75,171.71,558163.50,38806.46,173121.29,770091.25
+22460,Storm Squallmourner,Lordsgate Farthing,45.25,Toxin Iceplatinum Of The Undead,176.00,-377.06,-59.29,-66362.56,-10435.04,-34558.92,-111356.52
+23160,"Gadriel, God of Resurrection",The Bastion of Sthasu the Gruesome,14.93,Incubi's Iron Of The Dawn,89.00,1200.96,424.31,106885.44,37763.59,21697.35,166346.38

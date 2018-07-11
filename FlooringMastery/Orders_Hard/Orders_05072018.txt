@@ -1,0 +1,11 @@
+4503,"Suriel, Lord of Animals",Love Keep,7.00,Planar Obsidian Mercury Of Wizards,164.00,2574.00,117.00,422136.00,19188.00,30892.68,472216.68
+6308,"Ahah, Goddess of Knowledge",The Broken Arrow,30.07,Unicorns' Fatal Magma Metal Of The Ocean,180.00,1792.04,392.70,322567.20,70686.00,117975.96,511229.16
+6564,Springcoil,Weke Tower,-0.05,Unholy Poison Copper Of The Mountains,80.00,580.91,-9.24,46472.80,-739.20,0.00,45733.60
+8976,Bedlam Spiritraven,Kada's Deep,33.00,Negative Rockglitter Mercury Of Trolls,261.00,1483.90,465.38,387297.90,121464.18,167891.49,676653.57
+9728,"Prusu, God of Love",The Forsaken Sepulcher of Sorrows,48.79,Shadow Steel,166.00,4677.78,465.30,776511.48,77239.80,418338.13,1272089.41
+10545,Icechill The Frigid,The Dread Hive of Illfang the Kobold Lord,1.33,Litches' Fatal Mithril Of The Past,148.00,1327.98,369.05,196541.04,54619.40,2511.60,253672.04
+15395,Icechill The Frigid,The Greedy Wench,32.70,Trolls' Rubymercury Of The Sunset,208.00,556.60,217.80,115772.80,45302.40,53154.82,214230.02
+16574,Scarefear The Blade,Reyny Keep,11.00,Mistgold Of Men,132.00,4080.46,53.24,538620.72,7027.68,60021.32,605669.72
+18060,"Maeglodor, God of Thieves",The Fortress of the Lich Queen,36.35,Negative Rockglitter Mercury Of Trolls,107.00,1632.29,619.42,174655.03,66277.94,86735.87,327668.84
+21220,Grave Mistseeker,The Fortress of Asmamur,-4.93,Planar Rainfate Mithril,358.00,1304.42,320.52,466982.36,114746.16,-29086.43,552642.09
+23177,Sephiroth Drakecaster,The Khazahol Crags,-2.17,Incubi's Glittering Tin Of The Future,68.00,3349.54,96.64,227768.72,6571.52,-4686.80,229653.44

@@ -1,0 +1,19 @@
+98,Magus Felldrake,The Demon and Toad,23.75,Mistgold Of Men,95.00,2787.01,44.00,264765.95,4180.00,64547.03,333492.98
+279,Slayer Claw,Pewold Keep,16.95,Mistgold Of Men,226.00,2787.01,44.00,629864.26,9944.00,108767.40,748575.66
+1986,"Gadriel, God of Resurrection",Tower Farthing,22.41,Incubi's Mirrorfog Iron Of The Ocean,187.00,4798.76,-19.59,897368.12,-3663.33,196615.05,1090319.84
+2729,Beamtrap,The Citadel of Lord Greywulf,30.04,Hell Mercury Of The East,299.00,4636.34,284.60,1386265.66,85095.40,441408.32,1912769.38
+3792,Gravebone The Unspeakable,The Wizard's House,43.58,Violetstone Tin Of Death,281.00,2245.23,156.10,630909.63,43864.10,296900.44,971674.17
+5295,"Gono, Goddess of the Earth",Haukri's Hold,25.30,Ghostly Soul Adamant,155.00,3222.96,229.53,499558.80,35577.15,133783.99,668919.94
+6553,Zeal Bladewitch,Noble's Village,27.50,Glittering Orichalcum,111.00,-144.10,360.23,-15995.10,39985.53,6717.32,30707.75
+8042,Claw Mist,The Dungeon of Dismal Terror,-3.50,Poison Adamant,60.00,1151.38,58.58,69082.80,3514.80,-2903.90,69693.70
+9164,Sunset Knightclaw,The Archer and Scroll,39.60,Primal Adamant,269.00,5019.08,301.29,1350132.52,81047.01,572471.81,2003651.34
+9660,Evilfear The Horrorific,Fellfen Keep,46.23,Goddesses' Spectral Poison Steel,193.00,3773.99,269.83,728380.07,52077.19,359010.34,1139467.60
+11689,Burnchill The Evil,The Bastion of the Lich Tyrant,43.00,Lycanthropes' Gold,286.00,4846.18,66.14,1386007.48,18916.04,604117.11,2009040.63
+12067,Terrorghoul The Unspeakable,Fellfen Keep,46.23,Incubi's Glittering Tin Of The Future,257.00,3349.54,79.86,860831.78,20524.02,405423.67,1286779.47
+12290,Rose Anchor,The Dismal Marsh,6.05,Incubi's Iron Of The Dawn,176.00,1200.96,424.31,211368.96,74678.56,17162.85,303210.37
+13958,Sunrise Godwarlock,The Cracked Chalice,2.52,Plague Tin,139.00,4767.02,342.10,662615.78,47551.90,21305.03,731472.71
+14099,Sunrise Godwarlock,The Chuallanto Jungle,40.70,Vampires' Hammer Emeraldmetal,176.00,379.45,25.84,66783.20,4547.84,29245.73,100576.77
+14186,"Ariel, God of Luck",The Lost Sanctum of Woe,3.00,Shadow Steel,271.00,5660.12,511.83,1533892.52,138705.93,50177.95,1722776.40
+17220,Sunrise Godwarlock,Shainan's Hold,23.96,Angels' Smoke Adamant Of The Mountains,235.00,3427.13,260.15,805375.55,61135.25,207962.59,1074473.39
+18740,Bronzespike,The Vaults of the Shadow Emperor,33.00,Venom Timegold Of Dwarves,246.00,3339.60,295.90,821541.60,72791.40,295129.89,1189462.89
+21393,Chillfire The Chiller,Pewold Keep,22.57,God-touched Faterainbow Orichalcum Of Spectres,246.00,370.41,35.21,91120.86,8661.66,22949.98,122732.50

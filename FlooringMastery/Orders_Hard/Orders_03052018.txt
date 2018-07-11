@@ -1,0 +1,22 @@
+176,Springpulley The Binder,The Fortress of Asmamur,-4.48,Zephyr Adamant,134.00,3840.00,102.93,514560.00,13792.62,-21134.10,507218.52
+314,Flora Amberslayer,The Demon and Toad,23.75,Unknown Fatelightning Steel Of The Glacier,242.00,1834.00,54.28,443828.00,13135.76,109671.30,566635.06
+1495,"Azah, Goddess of Fate",The Broken Arrow,30.07,Phantasmal Tin Of The Swamps,248.00,4074.00,-6.60,1010352.00,-1636.80,302614.56,1311329.76
+1664,Cult Godseeker,Shainan's Hold,19.80,Shadowhell Mithril,239.00,363.00,236.70,86757.00,56571.30,28665.66,171993.96
+2735,Sunset Knightclaw,The Grey Plains,18.15,Fog Lavaplatinum Of Life,338.00,1078.00,17.00,364364.00,5746.00,66619.80,436729.80
+3349,"Gadriel, God of Resurrection",The Broken Arrow,30.07,Ensorceled Sandmetal Of Spirits,159.00,2956.98,87.00,470159.82,13833.00,145197.85,629190.67
+4123,Burnfreeze The Cold,Citadel Ward,25.82,Zephyr Iron,191.00,2759.00,404.26,526969.00,77213.66,157087.49,761270.15
+5769,Flora Amberslayer,The Cuitamba Jungle,28.00,Djinni's Mind Fogiron,182.00,2301.02,67.29,418785.64,12246.78,120689.08,551721.50
+6557,Chainnail,Noble's Village,27.50,Unholy Poison Copper Of The Mountains,19.00,580.91,-9.24,11037.29,-175.56,3041.28,13903.01
+8501,Chainblade The Cadaverous,The Lazy Sage,19.97,Shadowy Adamant,208.00,618.93,478.58,128737.44,99544.64,45656.42,273938.50
+8523,"Lenwenye, Goddess of Travel",Gili's Delve,-5.05,Glowpearl Adamant Of Spirits,298.00,398.09,374.00,118630.82,111452.00,-11504.14,218578.68
+11145,"Azah, Goddess of Fate",Ring District,35.00,Emerald Orichalcum,48.00,-368.87,128.90,-17705.76,6187.20,-4031.50,-15550.06
+11632,Rouge Roguemist,The Broken Arrow,30.07,Thunderbirds' Transcendent Dreamiron,191.00,2275.25,237.70,434572.75,45400.70,143992.04,623965.49
+12371,Spikesnare,Archscepter Borough,3.00,Incubi's Iron Of The Dawn,246.00,1200.96,424.31,295436.16,104380.26,11994.49,411810.91
+13721,"Lenwenye, Goddess of Travel",Khali's Delve,52.71,Spectres' Shadowy Terrorglow Adamant Of Life,103.00,5164.28,248.66,531920.84,25611.98,295492.39,853025.21
+13858,Lance Knightseraph,The Cracked Chalice,2.52,Witchs' Forbidden Rockrainbow Bronze,284.00,655.60,387.20,186190.40,109964.80,8884.66,305039.86
+15177,Tarot Dawn,The Cracked Chalice,2.52,Shadow Steel,169.00,5660.12,511.83,956560.28,86499.27,31291.79,1074351.34
+15325,Maverick Wind,Noble's Village,30.25,Primordial False Gold,341.00,5395.80,248.60,1839967.80,84772.60,577422.12,2502162.52
+16331,Gravebone The Unspeakable,Haukri's Hold,27.83,Thunderbirds' Transcendent Dreamiron,113.00,2275.25,237.70,257103.25,26860.10,79509.74,363473.09
+17919,Deathspike The Terrifying,Dysley Stronghold,45.98,Goddesses' Spectral Poison Steel,111.00,4566.53,296.81,506884.83,32945.91,248322.14,788152.88
+18251,"Prusu, God of Love",Grori's Deep,66.50,Ensorceled Gold Of The Dawn,227.00,6913.92,443.21,1569459.84,100608.67,1102245.22,2772313.73
+20484,Spikecrank,Tradun Castle,41.43,Zephyr Adamant,90.00,4224.00,113.22,380160.00,10189.80,160043.42,550393.22

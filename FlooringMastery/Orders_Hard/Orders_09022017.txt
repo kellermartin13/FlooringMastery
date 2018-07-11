@@ -1,0 +1,17 @@
+478,Rouge Tombreaper,The Citadel of Cheno,5.00,Poison Adamant,350.00,298.00,406.38,104300.00,142233.00,12326.65,258859.65
+964,Cinderember,The Dungeon of Merciless Woe,38.62,Dragons' Poison Glitterflesh Steel Of The North,244.00,2790.70,216.48,680930.80,52821.12,286163.25,1019915.17
+1826,Tarot Dawn,The Forsaken Tomb of Devastation,0.00,Stone Soulsteel Of The Skies,193.00,1634.80,12.01,315516.40,2317.93,0.00,317834.33
+2787,"Iran, Lord of Nightmares",The Citadel of Lord Greywulf,30.04,Toxin Iceplatinum Of The Undead,147.00,-283.29,-49.00,-41643.63,-7203.00,-14653.99,-63500.62
+5430,Evilcoil The Machine,The Nulukkhath Spires,10.59,White Platinum,97.00,-52.59,145.00,-5101.23,14065.00,986.01,9949.78
+6423,Dawn Darkzealot,The Tower of Aces the Accursed,13.31,Timeiron,144.00,1596.00,228.33,229824.00,32879.52,34151.46,296854.98
+11255,Flameflare The Evil,Gena's Hold,2.66,God-touched Greengem Platinum,86.00,1281.72,-39.60,110227.92,-3405.60,3204.67,110026.99
+13473,Bolttrap,The Citadel of Alammius,3.50,Sphinxes' Mistsoul Bronze Of The Past,272.00,2169.81,202.07,590188.32,54963.04,25806.05,670957.41
+13846,Gale Jackalguard,Archfane District,32.87,Green Dustlightning Mercury,266.00,4255.57,35.20,1131981.62,9363.20,376643.79,1517988.61
+14093,Magus Felldrake,Dysley Stronghold,45.98,Glowpearl Adamant Of Spirits,208.00,398.09,374.00,82802.72,77792.00,73873.57,234468.29
+15281,Slayer Claw,Lamp Borough,4.95,Plague Tin,18.00,4767.02,342.10,85806.36,6157.80,4598.21,96562.37
+16352,"Penur, Lord of the Sea",Pewold Keep,22.57,Timeiron,326.00,1596.00,251.16,520296.00,81878.16,138500.06,740674.22
+18296,Maverick Wind,Archfane District,36.16,Goddesses' Spectral Poison Steel,96.00,4566.53,296.81,438386.88,28493.76,168077.03,634957.67
+20208,Spikespawn,Unicorn's Ward,14.64,Rainbowglitter Tin,310.00,5957.39,213.40,1846790.90,66154.00,286941.74,2199886.64
+20726,Emberfire,The Dark Caverns of Woe,3.29,Golems' Stonesapphire Gold Of The Glacier,121.00,4444.06,116.57,537731.26,14104.97,16555.09,568391.32
+21445,Fate Seeker,The Cuitamba Jungle,33.88,Hidden Shadowice Lead,278.00,2729.00,-62.23,758662.00,-17299.94,252063.10,993425.16
+22301,"Eumyan, Goddess of Law",The Forsaken Tomb of Devastation,0.00,Fairies' Supreme Mistsmoke Lead Of The Future,137.00,3349.50,324.73,458881.50,44488.01,0.00,503369.51

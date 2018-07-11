@@ -1,0 +1,14 @@
+1445,"Alik, Goddess of Trickery",Archtemple District,27.76,Ensorceled Sandmetal Of Spirits,184.00,2956.98,87.00,544084.32,16008.00,156825.85,716918.17
+1734,Mecharig The Living Device,Shainan's Hold,19.80,Shadowhell Mithril,257.00,363.00,236.70,93291.00,60831.90,30824.58,184947.48
+2379,"Eumyan, Goddess of Law",The Khazahol Crags,-1.97,Heavenly Dreamsilver Of The Night,169.00,1826.98,112.00,308759.62,18928.00,-6553.75,321133.87
+3014,Chainhorror,The Grey Plains,19.97,Violetdream Iron,139.00,1224.69,349.36,170231.91,48561.04,43758.59,262551.54
+3045,Magus Felldrake,The Tower of Sabiesu the Awesome,4.40,Zephyr Iron,179.00,2759.00,404.26,493861.00,72362.54,22648.94,588872.48
+3358,Tarot Dawn,The Lewd King,27.00,Negative Rockglitter Mercury Of Trolls,17.00,1349.00,423.07,22933.00,7192.19,8133.80,38258.99
+6361,Evilfear The Horrorific,The Broken Arrow,30.07,Greenlead,148.00,793.10,148.47,117378.80,21973.56,41805.71,181158.07
+7866,Shadow Tomblion,The Cuitamba Jungle,30.80,Djinni's Mind Fogiron,87.00,2301.02,74.02,200188.74,6439.74,64054.83,270683.31
+10990,Seraphim Tsunami,Lacot Stronghold,37.37,Tin Of The Tundra,211.00,2839.87,174.91,599212.57,36906.01,235363.87,871482.45
+11144,"Ahah, Goddess of Knowledge",Shainan's Hold,23.96,Primordial False Gold,105.00,5395.80,226.00,566559.00,23730.00,141669.36,731958.36
+12008,Sunrise Godwarlock,Shainan's Hold,23.96,Angels' Smoke Adamant Of The Mountains,92.00,3115.57,236.50,286632.44,21758.00,74013.71,382404.15
+15792,Emberspawn,Gili's Delve,-6.73,Unknown Fatelightning Steel Of The Glacier,221.00,2441.05,65.68,539472.05,14515.28,-38779.11,515208.22
+19924,Spikecrank,Moor Village,76.43,Foulopal Copper Of The Skies,345.00,1787.91,403.00,616828.95,139035.00,574456.60,1330320.55
+22184,Bronzespike,Tradun Castle,41.43,Ensorceled Sandmetal Of Spirits,114.00,2956.98,95.70,337095.72,10909.80,142682.26,490687.78

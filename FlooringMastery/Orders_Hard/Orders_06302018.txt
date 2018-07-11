@@ -1,0 +1,16 @@
+942,Freezebrood,The Cuitamba Jungle,28.00,White Platinum,200.00,-47.81,145.00,-9562.00,29000.00,5442.64,24880.64
+2562,Snarepiston The Mechanical,Pawic Keep,0.56,Primal Adamant,327.00,4562.80,249.00,1492035.60,81423.00,15734.59,1589193.19
+3814,Dawn Darkzealot,Citadel Ward,25.82,Phantasmal Tin Of The Swamps,110.00,4074.00,-6.60,448140.00,-726.00,116327.64,563741.64
+5588,"Melcha, Goddess of Thieves",Bergfison's Deep,36.00,Greenlead,196.00,793.10,148.47,155447.60,29100.12,66437.18,250984.90
+5779,Metalbrood,The Cuitamba Jungle,28.00,Greenlead,336.00,793.10,148.47,266481.60,49885.92,88582.91,404950.43
+14034,Nailpiston The Grasping,The Dark Caverns of Woe,3.29,Shadowhell Mithril,164.00,483.15,286.41,79236.60,46971.24,3786.24,129994.08
+15456,"Ariel, God of Luck",The Tower of Sabiesu the Awesome,5.32,Glittering Orichalcum,245.00,-158.51,360.23,-38834.95,88256.35,2471.07,51892.47
+16383,Nailpiston The Grasping,Barad Kesa,4.75,Sirens' Rockgold,307.00,-352.01,199.96,-108067.07,61387.72,-2333.97,-49013.32
+16787,Magus Felldrake,Eved Castle,5.09,Ensorceled Sandmetal Of Spirits,54.00,2956.98,95.70,159676.92,5167.80,8242.24,173086.96
+17843,"Gadriel, God of Resurrection",Archfane District,36.16,God-touched Faterainbow Orichalcum Of Spectres,232.00,370.41,32.01,85935.12,7426.32,33610.12,126971.56
+17945,"Gadriel, God of Resurrection",The Fortress of the Lich Queen,36.35,Djinni's Spectral Shadowlead Of Life,255.00,4076.49,325.62,1039504.95,83033.10,404113.70,1526651.75
+18094,Emberspawn,Grori's Deep,66.50,Undeads' Mind Orichalcum Of The Twilight,185.00,-17.00,276.00,-3145.00,51060.00,31623.90,79538.90
+18180,"Maglioneth, Lord of the Sun",Boiaburh Keep,17.60,Ensorceled Gold Of The Dawn,92.00,6913.92,443.21,636080.64,40775.32,121834.07,798690.03
+18346,Boltcrank The Trapper,North Arcanist's Farthing,55.18,Goddesses' Spectral Poison Steel,162.00,4566.53,296.81,739777.86,48083.22,433323.59,1221184.67
+20001,Spiketerror The Skeletal,The Desert of Flames,57.10,Primordial False Gold,303.00,5395.80,248.60,1634927.40,75325.80,974844.32,2685097.52
+22177,Beamtrap,The Black Barrow of Bery,-0.10,Unknowable Mindsilver,94.00,4313.65,402.60,405483.10,37844.40,0.00,443327.50

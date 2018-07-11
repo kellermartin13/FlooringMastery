@@ -1,0 +1,19 @@
+580,Lucky Johnson,MO,2.20,Reeds,360.00,0.75,2.00,270.00,720.00,19.80,1009.80
+1370,Susan "Damnation" Fleming,ND,1.25,Packed Dirt,198.00,1.00,1.50,198.00,297.00,4.95,499.95
+1486,Melissa "Lonesome Stalker" Riley,NM,2.20,Beechwood,189.00,3.00,5.00,567.00,945.00,30.24,1542.24
+1712,"Doom" McCoy,MO,2.20,Cedar Planks,138.00,2.00,5.00,276.00,690.00,19.32,985.32
+2594,"Bane" Jennings,KS,0.50,Pebbles,165.00,0.80,4.40,132.00,726.00,0.00,858.00
+2807,Darlene "Loner" Ford,AL,1.00,Beechwood,358.00,3.00,5.00,1074.00,1790.00,28.64,2892.64
+4536,Mattie Grant "the Gambler",KS,0.50,Beechwood,121.00,3.00,5.00,363.00,605.00,0.00,968.00
+4597,Amanda Hart "the Loner",KS,0.50,Pebbles,75.00,0.80,4.40,60.00,330.00,0.00,390.00
+5149,"Scalphunter" Kennedy,MO,2.20,Cedar Planks,173.00,2.00,5.50,346.00,951.50,25.95,1323.45
+6210,Elizabeth "the Bully",KS,0.50,Dirt,239.00,0.50,1.00,119.50,239.00,0.00,358.50
+7113,Cathy "Loner Demon" Murray,IA,1.21,Pinecones,49.00,1.50,2.66,73.50,130.34,2.04,205.88
+7675,Amanda Hart "the Loner",ND,1.25,Brick,126.00,4.84,6.66,609.84,839.16,14.49,1463.49
+11250,Vengeful Robertson,CA,0.55,Cedar Planks,200.00,2.20,6.05,440.00,1210.00,16.50,1666.50
+13605,Friendly Howell,AR,2.20,Cedar Planks,314.00,2.20,6.05,690.80,1899.70,51.81,2642.31
+14053,Florence "Leather Doc" Grant,MO,2.20,Pinecones,378.00,1.50,2.66,567.00,1005.48,31.45,1603.93
+14414,Amanda Hart "the Loner",IA,1.21,Solid Oak,181.00,5.50,5.50,995.50,995.50,19.91,2010.91
+18295,"Bane" Jennings,ND,1.67,Pinecones,123.00,1.50,2.66,184.50,327.18,10.23,521.91
+21405,Gladys "Locoweed" Keller,IA,1.33,Reeds,284.00,0.83,2.20,235.72,624.80,8.61,869.13
+22075,Stella "the Bully",ID,0.00,Dirt,219.00,0.55,1.00,120.45,219.00,0.00,339.45

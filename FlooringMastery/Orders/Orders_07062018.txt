@@ -1,0 +1,13 @@
+154,Lorraine "Utah" Adams,WY,0.25,Cedar Planks,209.00,2.00,5.00,418.00,1045.00,0.00,1463.00
+2285,Dorothy "the Hunter",UT,0.00,Reeds,354.00,0.75,2.00,265.50,708.00,0.00,973.50
+5138,Geraldine "Revenge" Warren,CA,0.55,Solid Oak,256.00,5.50,5.50,1408.00,1408.00,28.16,2844.16
+5631,Vengeful Robertson,UT,0.00,Leather,307.00,10.00,18.15,3070.00,5572.05,0.00,8642.05
+10606,Renee "Hellish Empress" Banks,NV,0.31,Pinecones,163.00,1.50,2.66,244.50,433.58,0.00,678.08
+13335,Beth "Fortunate Shooter" Powell,ND,1.38,Beechwood,188.00,3.30,5.50,620.40,1034.00,16.54,1670.94
+16367,Michele Watson "the Loner",MT,3.99,Pebbles,179.00,0.88,4.84,157.52,866.36,40.96,1064.84
+16691,Maureen "Cursed" Andrews,OK,2.42,Cedar Planks,192.00,2.20,6.05,422.40,1161.60,31.68,1615.68
+17054,Vengeful Robertson,MO,2.20,Packed Dirt,228.00,1.10,2.20,250.80,501.60,15.05,767.45
+17337,Joanne "Damned" Miles,AL,1.00,Cedar Planks,313.00,2.20,6.66,688.60,2084.58,27.73,2800.91
+19564,Betty "Happy Thinker" Watson,CA,0.67,Leather,162.00,11.00,19.97,1782.00,3235.14,50.17,5067.31
+19672,Cathy "Wildfire" Neal,AR,2.20,Solid Oak,333.00,5.50,6.66,1831.50,2217.78,80.99,4130.27
+21629,Kathy Murphy "the Thinker",NV,0.31,Pebbles,220.00,0.88,4.84,193.60,1064.80,0.00,1258.40

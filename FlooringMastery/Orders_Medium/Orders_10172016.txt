@@ -1,0 +1,21 @@
+1492,Amanda Hart "the Loner",AL,1.00,Leather,322.00,10.00,15.00,3220.00,4830.00,80.50,8130.50
+2231,Renee "Hellish Empress" Banks,MT,3.00,Dirt,264.00,0.50,1.00,132.00,264.00,11.88,407.88
+4505,April "Thunderbird" Dunn,MO,2.20,Leather,352.00,10.00,16.50,3520.00,5808.00,186.56,9514.56
+5211,Beth "Fortunate Shooter" Powell,MT,3.00,Beechwood,163.00,3.00,5.00,489.00,815.00,39.12,1343.12
+7429,Lena Chapman "the Bully",WY,0.31,Pinecones,224.00,1.50,2.66,336.00,595.84,0.00,931.84
+8019,Helen Webb "the Dancer",AR,2.20,Leather,16.00,10.00,18.15,160.00,290.40,9.01,459.41
+8991,Amanda Hart "the Loner",MT,3.30,Solid Oak,82.00,5.50,5.50,451.00,451.00,27.06,929.06
+10602,Minnie Lawson "the Apostle",KS,0.55,Brick,310.00,4.84,6.66,1500.40,2064.60,35.65,3600.65
+10874,"Scalphunter" Kennedy,NV,0.31,Packed Dirt,159.00,1.00,1.50,159.00,238.50,0.00,397.50
+11322,Vanessa "Scalper" Rhodes,AR,2.20,Leather,238.00,10.00,18.15,2380.00,4319.70,133.99,6833.69
+12374,Victoria "the Dancer",CA,0.61,Packed Dirt,129.00,1.00,1.65,129.00,212.85,3.42,345.27
+15263,Diana "Mistress" Morgan,IA,1.21,Reeds,189.00,0.83,2.20,156.87,415.80,5.73,578.40
+15993,Tammy Carlson "the Killer",NV,0.31,Beechwood,136.00,3.63,5.50,493.68,748.00,0.00,1241.68
+17223,Victoria "the Dancer",UT,0.00,Solid Oak,261.00,5.50,6.66,1435.50,1738.26,0.00,3173.76
+17355,Joanne "Damned" Miles,MS,3.00,Brick,149.00,5.32,6.66,792.68,992.34,53.55,1838.57
+17423,Renee "Hellish Empress" Banks,CA,0.61,Solid Oak,116.00,5.50,6.66,638.00,772.56,14.11,1424.67
+20289,Vengeful Robertson,CA,0.67,Brick,239.00,5.32,6.66,1271.48,1591.74,28.63,2891.85
+20347,Surgeon Grant,AL,1.00,Leather,267.00,11.00,19.97,2937.00,5331.99,82.69,8351.68
+20914,Deborah "the Lady",IA,1.33,Beechwood,247.00,3.63,6.05,896.61,1494.35,23.91,2414.87
+21104,Florence "Leather Doc" Grant,OK,2.66,Leather,186.00,11.00,19.97,2046.00,3714.42,172.81,5933.23
+23428,Theresa "Kid" Robinson,ND,1.67,Solid Oak,155.00,5.50,6.66,852.50,1032.30,37.70,1922.50

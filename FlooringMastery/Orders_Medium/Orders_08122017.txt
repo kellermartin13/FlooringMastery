@@ -1,0 +1,21 @@
+2572,Renee "Hellish Empress" Banks,WY,0.25,Dirt,178.00,0.50,1.00,89.00,178.00,0.00,267.00
+2837,Cathy "Loner Demon" Murray,NV,0.25,Leather,213.00,10.00,16.50,2130.00,3514.50,0.00,5644.50
+5693,Betty "Happy Thinker" Watson,MT,3.00,Packed Dirt,354.00,1.00,1.50,354.00,531.00,26.55,911.55
+6677,Julia "Bandit" Chandler,ID,0.00,Reeds,321.00,0.75,2.20,240.75,706.20,0.00,946.95
+9000,Vanessa "Scalper" Rhodes,MS,3.00,Brick,173.00,4.84,6.66,837.32,1152.18,59.68,2049.18
+9575,Heather "Friendly Gambler" Barrett,AL,1.00,Brick,94.00,4.84,6.66,454.96,626.04,10.81,1091.81
+10466,Lucky Johnson,TX,0.67,Cedar Planks,308.00,2.20,6.05,677.60,1863.40,25.41,2566.41
+10979,Ida Russell "the Rustler",UT,0.00,Brick,92.00,4.84,6.66,445.28,612.72,0.00,1058.00
+11373,"Sunrise" Miles,CA,0.61,Leather,101.00,10.00,18.15,1010.00,1833.15,28.43,2871.58
+11475,Minnie Lawson "the Apostle",OK,2.42,Pebbles,256.00,0.88,4.84,225.28,1239.04,29.29,1493.61
+12049,Julia "Bandit" Chandler,WY,0.31,Packed Dirt,191.00,1.00,1.65,191.00,315.15,0.00,506.15
+12300,Michele Watson "the Loner",OK,2.42,Beechwood,301.00,3.30,5.50,993.30,1655.50,52.98,2701.78
+12696,Theresa "Scalphunter" Romero,UT,0.00,Packed Dirt,192.00,1.00,1.82,192.00,349.44,0.00,541.44
+12727,Vengeful Montgomery,AL,1.00,Pinecones,188.00,1.50,2.66,282.00,500.08,7.82,789.90
+13151,Ida Russell "the Rustler",ND,1.38,Pinecones,302.00,1.50,2.66,453.00,803.32,12.56,1268.88
+13926,Maureen "Cursed" Andrews,NV,0.31,Leather,81.00,11.00,18.15,891.00,1470.15,0.00,2361.15
+14549,Florence "Leather Doc" Grant,KS,0.55,Leather,197.00,11.00,18.15,2167.00,3575.55,57.43,5799.98
+15732,Darlene "Loner" Ford,MO,2.20,Beechwood,155.00,3.63,5.50,562.65,852.50,28.30,1443.45
+19909,Diana "Mistress" Morgan,AL,1.00,Pinecones,199.00,1.50,2.66,298.50,529.34,8.28,836.12
+20992,Ida Russell "the Rustler",NM,2.93,Beechwood,355.00,3.63,6.05,1288.65,2147.75,103.09,3539.49
+21177,Heather "Tornado" Newman,WY,0.31,Dirt,37.00,0.55,1.00,20.35,37.00,0.00,57.35

@@ -1,0 +1,16 @@
+249,Dagger Reaper,The Demon and Toad,23.75,Muck Orichalcum Of Ogres,97.00,3115.32,274.19,302186.04,26596.43,78907.79,407690.26
+2398,"Iran, Lord of Nightmares",Pawic Keep,0.56,Heavenly Dreamsilver Of The Night,125.00,1826.98,112.00,228372.50,14000.00,2423.72,244796.22
+3425,Dawn Darkzealot,The Broken Arrow,30.07,Unknowable Mindsilver,70.00,3565.00,366.00,249550.00,25620.00,82551.00,357721.00
+4077,Ironbrood,The Pilgrim's Cup,41.93,Zephyr Iron,200.00,2759.00,404.26,551800.00,80852.00,265713.84,898365.84
+4293,Fate Seeker,The Wizard's House,43.58,Hidden Shadowice Lead,293.00,2729.00,-62.23,799597.00,-18233.39,343799.99,1125163.60
+4935,Scarefear The Blade,The Khazahol Crags,-1.97,Vampires' Hammer Emeraldmetal,187.00,379.45,25.84,70957.15,4832.08,-1515.78,74273.45
+5184,Tiger Mistmidnight,Lordsgate Farthing,37.40,Rot Silver Of The Past,292.00,3440.00,327.00,1004480.00,95484.00,406986.68,1506950.68
+5946,Harmony Angelchild,The Lazy Sage,19.97,Nymphs' Luminous Rotmercury Of The Skies,127.00,292.60,189.00,37160.20,24003.00,12232.64,73395.84
+10701,Storm Squallmourner,The Greedy Wench,32.70,Glowpearl Adamant Of Spirits,87.00,398.09,374.00,34633.83,32538.00,22166.70,89338.53
+12533,Nettool The Grasping,The Glano Forest,3.00,Toxin Iceplatinum Of The Undead,194.00,-377.06,-59.29,-73149.64,-11502.26,-2539.56,-87191.46
+13259,Mecharig The Living Device,Eved Castle,5.09,Ghostly Soul Adamant,166.00,3222.96,229.53,535011.36,38101.98,28655.67,601769.01
+13476,Rouge Roguemist,The Citadel of Alammius,3.50,Mistgold Of Men,99.00,3709.51,53.24,367241.49,5270.76,14900.49,387412.74
+17234,Rouge Roguemist,The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,138.00,398.09,374.00,54936.42,51612.00,3196.45,109744.87
+17395,"Penur, Lord of the Sea",Weke Tower,-0.07,Negative Rockglitter Mercury Of Trolls,316.00,1632.29,619.42,515803.64,195736.72,0.00,711540.36
+21109,Fate Seeker,Lordsgate Farthing,45.25,Unknowable Mindsilver,233.00,4313.65,402.60,1005080.45,93805.80,494498.81,1593385.06
+22404,Storm Seraphheart,The Forsaken Tomb of Devastation,0.00,Mana-touched Greenglitter Gold Of Giants,232.00,1420.52,514.25,329560.64,119306.00,0.00,448866.64

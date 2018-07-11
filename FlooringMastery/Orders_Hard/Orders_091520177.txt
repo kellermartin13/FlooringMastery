@@ -1,0 +1,14 @@
+881,Emberspawn,The Broken Shield,37.23,Dragons' Poison Glitterflesh Steel Of The North,332.00,2790.70,216.48,926512.40,71871.36,369401.99,1367785.75
+1071,Gravebone The Unspeakable,The Forsaken Tomb of Devastation,0.00,Imperial Fate Steel,292.00,2721.75,-37.13,794751.00,-10841.96,0.00,783909.04
+4876,Snowflame The Evil,North Grove Ward,6.60,Legendary Mithril Of The Moon,296.00,2461.00,114.40,728456.00,33862.40,53362.29,815680.69
+5070,Evilember The Firey,Gifeld Castle,6.22,Rot Silver Of The Past,166.00,3440.00,327.00,571040.00,54282.00,37519.32,662841.32
+5383,Evilcoil The Machine,The Tower of Sheshbazzu,3.30,Ghostly Soul Adamant,170.00,3222.96,229.53,547903.20,39020.10,17607.70,604531.00
+6237,Rose Anchor,The Citadel of Alammius,3.50,Muck Orichalcum Of Ogres,231.00,3115.32,301.61,719638.92,69671.91,31572.43,820883.26
+8739,Spikecrank,The Citadel of Tattena the Sinister,12.13,Angels' Smoke Adamant Of The Mountains,122.00,2832.34,215.00,345545.48,26230.00,44613.06,416388.54
+10809,Metalbrood,The Dismal Marsh,6.05,Venom Timegold Of Dwarves,188.00,3036.00,269.00,570768.00,50572.00,37280.40,658620.40
+16033,Song Runetomb,Haukri's Hold,27.83,Lycanthropes' Gold,312.00,4846.18,66.14,1512008.16,20635.68,429140.28,1961784.12
+16277,Nettool The Grasping,The Pilgrim's Cup,46.12,Meteoric Dustzephyr Orichalcum,236.00,375.00,268.49,88500.00,63363.64,69857.27,221720.91
+16600,Seraph Jester,The Drunken Thief,12.65,Fleshshock Mercury,103.00,4858.70,338.07,500446.10,34821.21,69584.75,604852.06
+16813,"Lionare, God of the Lost",Moor Village,76.43,Planar Rainfate Mithril,149.00,1185.84,320.52,176690.16,47757.48,170580.21,395027.85
+17320,Tarot Dawn,Weke Tower,-0.07,Witchs' Forbidden Rockrainbow Bronze,268.00,655.60,425.92,175700.80,114146.56,0.00,289847.36
+19723,Nettool The Grasping,Weke Tower,-0.07,Witchs' Forbidden Rockrainbow Bronze,141.00,655.60,425.92,92439.60,60054.72,0.00,152494.32

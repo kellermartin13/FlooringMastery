@@ -1,0 +1,16 @@
+713,Emberfire,Arcanist's Farthing,3.00,Poison Adamant,221.00,298.00,406.38,65858.00,89809.98,4670.04,160338.02
+4365,Seraph Jester,The Fen of the Necromancer,45.10,Sphinxes' Mistsoul Bronze Of The Past,200.00,1793.23,183.70,358646.00,36740.00,177923.70,573309.70
+4671,Rouge Tombreaper,The Archer and Scroll,39.60,Mithril Of Legend,180.00,2068.00,63.01,372240.00,11341.80,153432.72,537014.52
+6989,Sunrise Godwarlock,Dysley Stronghold,45.98,Unicorns' Evil Mithril,160.00,4802.49,312.00,768398.40,49920.00,376426.46,1194744.86
+7020,Shiverflame The Freezer,The Flying Witch,11.45,Meteoric Dustzephyr Orichalcum,104.00,375.00,244.08,39000.00,25384.32,7082.28,71466.60
+8697,"Prusu, God of Love",The Beggar and Cask,23.10,Djinni's Evil Sandobsidian Steel Of The Future,180.00,3826.00,157.07,688680.00,28272.60,164899.10,881851.70
+10363,"Addon, Lord of Death",The Dark Caverns of Woe,3.29,Sphinxes' Mistsoul Bronze Of The Past,175.00,2169.81,202.07,379716.75,35362.25,12452.37,427531.37
+11248,"Eumyan, Goddess of Law",Lacot Stronghold,37.37,Ghostly Soul Adamant,262.00,3222.96,229.53,844415.52,60136.86,334684.38,1239236.76
+11608,Flameflare The Evil,The Archer and Scroll,39.60,God-touched Greengem Platinum,158.00,1281.72,-39.60,202511.76,-6256.80,78501.98,274756.94
+11714,"Gadriel, God of Resurrection",The Bastion of the Lich Tyrant,43.00,Lycanthropes' Gold,226.00,4846.18,66.14,1095236.68,14947.64,477379.26,1587563.58
+12908,Chainhorror,The Cracked Chalice,2.52,Timeiron,123.00,1596.00,228.33,196308.00,28084.59,6731.78,231124.37
+15810,Lord Mystery,The Glano Forest,3.00,Unicorns' Fatal Magma Metal Of The Ocean,266.00,2168.36,431.97,576783.76,114904.02,20750.63,712438.41
+16524,Spiketerror The Skeletal,Boiaburh Keep,16.00,Starlight Pearldream Bronze,360.00,322.10,147.40,115956.00,53064.00,27043.20,196063.20
+17078,Terrorghoul The Unspeakable,The Temple of Merciless Necromancy,50.94,Sprites' Transcendent Mud Lead Of The South,173.00,2081.80,321.86,360151.40,55681.78,212074.92,627908.10
+20693,Evilbrood,Weke Tower,-0.07,Greenlead,348.00,959.65,179.65,333958.20,62518.20,0.00,396476.40
+21117,Spiketerror The Skeletal,The Secret Catacombs of Ulfang the Black,42.90,Devils' Falserot Silver,217.00,2220.79,182.71,481911.43,39648.07,224270.58,745830.08

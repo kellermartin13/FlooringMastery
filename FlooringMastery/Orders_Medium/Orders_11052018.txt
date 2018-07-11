@@ -1,0 +1,10 @@
+1552,Maureen "Cursed" Andrews,NV,0.25,Solid Oak,197.00,5.00,5.00,985.00,985.00,0.00,1970.00
+1811,"Doom" McCoy,NM,2.20,Leather,233.00,10.00,15.00,2330.00,3495.00,116.50,5941.50
+4587,Mabel "Vixen Cursed" King,ND,1.25,Pebbles,191.00,0.80,4.40,152.80,840.40,9.93,1003.13
+8302,Betty "Happy Thinker" Watson,NM,2.20,Packed Dirt,120.00,1.00,1.50,120.00,180.00,6.00,306.00
+10840,Vanessa "Scalper" Rhodes,KS,0.55,Reeds,120.00,0.75,2.20,90.00,264.00,3.54,357.54
+13501,Diana "Mistress" Morgan,OK,2.42,Cedar Planks,283.00,2.20,6.05,622.60,1712.15,46.70,2381.45
+15323,Helen Webb "the Dancer",NM,2.66,Pebbles,178.00,0.88,4.84,156.64,861.52,30.54,1048.70
+16160,Diana "Mistress" Morgan,AL,1.00,Leather,157.00,11.00,18.15,1727.00,2849.55,45.77,4622.32
+20256,Renee "Loco Tracker" Jordan,AL,1.00,Dirt,264.00,0.50,1.00,132.00,264.00,3.96,399.96
+21872,Melissa "Lonesome Stalker" Riley,WY,0.31,Leather,226.00,11.00,19.97,2486.00,4513.22,0.00,6999.22

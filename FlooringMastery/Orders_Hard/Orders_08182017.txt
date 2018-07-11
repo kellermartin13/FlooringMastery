@@ -1,0 +1,18 @@
+284,Steelterror The Blade,The Grey Plains,18.15,Lunar Bronze,285.00,753.86,307.00,214850.10,87495.00,54422.12,356767.22
+526,Icechill The Frigid,The Black Barrow of Bery,-0.07,Ghostly Magic Adamant,155.00,3997.01,230.90,619536.55,35789.50,0.00,655326.05
+1815,Sephiroth Drakecaster,Hartshill Ward,41.98,Angels' Adamant,181.00,1304.00,179.30,236024.00,32453.30,112760.47,381237.77
+2114,Lightning Brand,The Tomb of Hellish Ruin,14.00,Stone Soulsteel Of The Skies,149.00,1634.80,12.01,243585.20,1789.49,34352.46,279727.15
+8578,Dawn Darkzealot,The Black Barrow of Bery,-0.07,Shadowy Adamant,253.00,618.93,478.58,156589.29,121080.74,0.00,277670.03
+8614,Gravebone The Unspeakable,Gili's Delve,-5.05,Hell Mercury Of The East,253.00,4636.34,284.60,1172994.02,72003.80,-62249.89,1182747.93
+9492,Cinderember,The Secret Catacombs of Ulfang the Black,42.90,Golems' Stonesapphire Gold Of The Glacier,184.00,3672.77,105.97,675789.68,19498.48,298973.91,994262.07
+9810,Lord Mystery,North Arcanist's Farthing,45.60,Unicorns' Fatal Magma Metal Of The Ocean,236.00,1792.04,392.70,422921.44,92677.20,237175.37,752774.01
+10162,Beamtrap,The Dungeon of Dismal Terror,-3.50,Pearl Mirrorice Steel Of Changelings,350.00,271.51,38.07,95028.50,13324.50,-4334.12,104018.88
+11453,Cult Godseeker,Unicorn's Ward,14.64,Lycanthropes' Gold,111.00,4846.18,66.14,537925.98,7341.54,81790.13,627057.65
+12577,Bane Veil,Castle Village,37.51,Rot Silver Of The Past,276.00,3784.00,359.70,1044384.00,99277.20,434591.26,1578252.46
+13099,"Selik, God of Death",The Desert of Flames,51.91,Swordbronze,184.00,1485.01,447.01,273241.84,82249.84,184855.67,540347.35
+14541,"Uriel, God of Fate",The Citadel of Lord Greywulf,33.04,Phantasmal Tin Of The Swamps,126.00,4929.54,-7.26,621122.04,-914.76,204668.40,824875.68
+18806,"Gono, Goddess of the Earth",The Dark Caverns of Woe,3.29,Goddesses' Spectral Poison Steel,244.00,5023.18,296.81,1225655.92,72421.64,38942.33,1337019.89
+19614,"Eumyan, Goddess of Law",Gifeld Castle,6.22,God-touched Faterainbow Orichalcum Of Spectres,143.00,370.41,32.01,52968.63,4577.43,3452.76,60998.82
+20623,Evilfear The Horrorific,The Secret Catacombs of Ulfang the Black,42.90,Unspeakable Rotsoul Mithril Of Souls,190.00,272.80,485.85,51832.00,92311.50,61981.70,206125.20
+22278,Evilfear The Horrorific,Gawold Castle,6.05,Undeads' Mind Orichalcum Of The Twilight,167.00,-17.00,276.00,-2839.00,46092.00,2595.18,45848.18
+22696,Chainhorror,Eved Castle,5.09,Stone Soulsteel Of The Skies,79.00,1798.28,14.53,142064.12,1147.87,7160.60,150372.59

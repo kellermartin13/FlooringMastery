@@ -1,0 +1,19 @@
+80,Snowflame The Evil,Love Keep,7.00,Toxic Mistlead Of The Past,236.00,1557.54,123.69,367579.44,29190.84,27773.92,424544.20
+913,Sephiroth Drakecaster,The Shadow Downs,13.21,Muck Orichalcum Of Ogres,132.00,3115.32,274.19,411222.24,36193.08,58163.99,505579.31
+1515,Burnchill The Evil,Lacot Stronghold,30.88,Ensorceled Sandmetal Of Spirits,251.00,2956.98,87.00,742201.98,21837.00,236852.08,1000891.06
+3268,Sunset Knightclaw,The Forsaken Hive of Galima the Mighty,22.45,Evilsilver,72.00,1486.85,79.86,107053.20,5749.92,24816.69,137619.81
+3673,Snarepiston The Mechanical,The Dismal Marsh,5.00,Litches' Fatal Mithril Of The Past,216.00,1207.25,335.50,260766.00,72468.00,16661.70,349895.70
+4674,Burnfreeze The Cold,North Grove Ward,6.60,Otherworldly Mirror Orichalcum,239.00,-247.00,478.50,-59033.00,114361.50,3873.00,59201.50
+5506,"Ariel, God of Luck",The Cuitamba Jungle,28.00,Vampires' Hammer Emeraldmetal,85.00,379.45,25.84,32253.25,2196.40,9645.90,44095.55
+6949,Jericho Wolf,The Flying Witch,11.45,Unholy Poison Copper Of The Mountains,127.00,580.91,-9.24,73775.57,-1173.48,7986.23,80588.32
+7637,"Maglioneth, Lord of the Sun",The Dungeon of Dismal Terror,-3.50,Poison Adamant,173.00,1151.38,58.58,199188.74,10134.34,-8372.92,200950.16
+8124,Rouge Roguemist,Grori's Deep,49.95,Poison Adamant,152.00,1151.38,58.58,175009.76,8904.16,91956.96,275870.88
+11635,Burnfreeze The Cold,South Brightcrown Borough,42.25,Ghostly Magic Adamant,188.00,4836.38,230.90,909239.44,43409.20,400112.43,1352761.07
+13104,Valentine Lawslayer,The Cracked Chalice,2.52,Imperial Fate Steel,288.00,2993.93,-44.92,862251.84,-12936.96,25479.45,874794.33
+15235,Spikesnare,The Dark Caverns of Woe,3.29,Legendary Mithril Of The Moon,255.00,2707.10,125.84,690310.50,32089.20,21671.99,744071.69
+17238,Law Lionwatcher,Reyny Keep,11.00,Sphinxes' Mistsoul Bronze Of The Past,221.00,2169.81,222.28,479528.01,49123.88,58151.71,586803.60
+18564,Cult Godseeker,The Vaults of the Shadow Emperor,33.00,Primordial Mud Orichalcum,130.00,-469.36,85.11,-61016.80,11064.30,-16484.32,-66436.82
+19613,Storm Seraphheart,The Pirate's Pipe,17.60,Mithril Of The Tropics,193.00,4538.71,11.98,875971.03,2312.14,158090.97,1036374.14
+19672,Bane Veil,Archfane District,36.16,Mithril Of The Tropics,172.00,4538.71,11.98,780658.12,2060.56,281778.72,1064497.40
+20610,Scarefear The Blade,Weke Tower,-0.07,Phantasmal Lead,140.00,-608.27,270.02,-85157.80,37802.80,0.00,-47355.00
+21774,"Zepul, Lady of Vengeance",The Tomb of Hellish Ruin,16.94,Poison Adamant,267.00,1266.52,70.88,338160.84,18924.96,60704.59,417790.39

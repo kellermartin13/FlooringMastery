@@ -1,0 +1,19 @@
+180,Snaretool The Constructed,The Bastion of Barbos,21.29,Meteoric Mirrormuck Orichalcum Of The Forests,288.00,1962.00,168.88,565056.00,48637.44,128875.62,742569.06
+2816,Zeal Bladewitch,The Fortress of the Lich Queen,36.35,Heavenly Dreamsilver Of The Night,318.00,1826.98,112.00,580979.64,35616.00,221974.43,838570.07
+3674,Chainnail,Barad Cune,26.00,Heavenly Dreamsilver Of The Night,91.00,1826.98,112.00,166255.18,10192.00,45876.27,222323.45
+4329,Deathbrood,The Secret Shrine of the Gargoyle Count,-2.00,Vampires' Fang Emeraldsilver,256.00,2283.46,455.55,584565.76,116620.80,-14023.73,687162.83
+4410,Seraphim Tsunami,Khali's Delve,52.71,Zephyr Iron,168.00,2759.00,404.26,463512.00,67915.68,281656.67,813084.35
+4668,Jericho Wolf,Grove Farthing,18.00,Vampires' Hammer Emeraldmetal,230.00,379.45,25.84,87273.50,5943.20,16779.01,109995.71
+6728,"Prusu, God of Love",Archtemple District,27.76,Grayplatinum,46.00,2506.27,279.06,115288.42,12836.76,35875.05,164000.23
+6819,Evilbrood,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,53.00,2275.25,237.70,120588.25,12598.10,55938.27,189124.62
+7656,Burnfreeze The Cold,The Dungeon of Dismal Terror,-3.50,Djinni's Mind Fogiron,219.00,2301.02,74.02,503923.38,16210.38,-20805.35,499328.41
+8070,Seraphim Tsunami,Lordsgate Farthing,41.14,Mistgold Of Men,137.00,3065.71,48.40,420002.27,6630.80,174919.56,601552.63
+10955,Boltcrank The Trapper,Lacot Stronghold,37.37,Tin Of The Tundra,258.00,2839.87,174.91,732686.46,45126.78,287790.90,1065604.14
+12845,Maverick Wind,Reheath Stronghold,8.00,Forgotten Mithril,97.00,1104.73,316.00,107158.81,30652.00,11024.86,148835.67
+14043,Fate Seeker,The Bastion of Gothmog of Udun,54.84,Spectres' Shadowy Terrorglow Adamant Of Life,355.00,5164.28,248.66,1833319.40,88274.30,1056876.54,2978470.24
+14300,Valentine Lawslayer,The Lewd King,27.00,Pearl Mirrorice Steel Of Changelings,265.00,298.66,41.88,79144.90,11098.20,24365.64,114608.74
+14888,Claw Mist,The Forsaken Sepulcher of Sorrows,53.67,Shadow Steel,258.00,5660.12,511.83,1460310.96,132052.14,859876.07,2452239.17
+20154,Rose Anchor,The Dismal Marsh,6.66,Grayplatinum,278.00,3032.59,306.97,843060.02,85337.66,64987.84,993385.52
+22480,Lightning Brand,Gawold Castle,6.05,Yellow Mistearth Copper,189.00,5536.45,-33.15,1046389.05,-6265.35,62407.42,1102531.12
+22519,Flameflare The Evil,The Beggar and Cask,25.41,Phantasmal Lead,225.00,-669.10,270.02,-150547.50,60754.50,-22448.25,-112241.25
+23156,Emberspawn,The Bastion of Barbos,28.34,Pearl Mirrorice Steel Of Changelings,122.00,328.53,55.75,40080.66,6801.50,13127.00,60009.16

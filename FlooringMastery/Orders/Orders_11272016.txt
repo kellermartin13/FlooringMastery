@@ -1,0 +1,16 @@
+128,Diana "Mistress" Morgan,NV,0.25,Cedar Planks,166.00,2.00,5.00,332.00,830.00,0.00,1162.00
+242,Lorraine "Utah" Adams,MT,3.00,Packed Dirt,93.00,1.00,1.50,93.00,139.50,6.98,239.48
+628,Dorothy "the Hunter",NV,0.25,Brick,350.00,4.00,5.00,1400.00,1750.00,0.00,3150.00
+733,Vanessa "Scalper" Rhodes,ID,0.00,Reeds,294.00,0.75,2.00,220.50,588.00,0.00,808.50
+1887,Deborah "the Lady",UT,0.00,Dirt,188.00,0.50,1.00,94.00,188.00,0.00,282.00
+3074,Jacqueline "Riding Doc" Washington,OK,2.00,Pinecones,199.00,1.50,2.20,298.50,437.80,14.73,751.03
+6942,"Scalphunter" Kennedy,MT,3.00,Cedar Planks,247.00,2.20,6.05,543.40,1494.35,61.13,2098.88
+7549,Surgeon Grant,MT,3.30,Pebbles,328.00,0.80,4.84,262.40,1587.52,55.50,1905.42
+7866,Theresa "Scalphunter" Romero,WY,0.31,Beechwood,217.00,3.00,5.50,651.00,1193.50,0.00,1844.50
+9762,Debra "Scorpion" Lane,MS,3.00,Solid Oak,148.00,5.50,5.50,814.00,814.00,48.84,1676.84
+10851,Heather "Tornado" Newman,UT,0.00,Brick,221.00,4.84,6.66,1069.64,1471.86,0.00,2541.50
+12759,Cathy "Wildfire" Neal,AR,2.20,Dirt,211.00,0.50,1.00,105.50,211.00,6.33,322.83
+19583,Lena Chapman "the Bully",KS,0.55,Leather,355.00,11.00,19.97,3905.00,7089.35,109.94,11104.29
+21344,Beth "Fortunate Shooter" Powell,IA,1.33,Brick,236.00,5.32,6.66,1255.52,1571.76,28.27,2855.55
+22098,Vanessa "Scalper" Rhodes,WY,0.31,Dirt,200.00,0.55,1.00,110.00,200.00,0.00,310.00
+23202,Evelyn "Evil Joker" Taylor,AL,1.00,Cedar Planks,320.00,2.20,6.66,704.00,2131.20,28.35,2863.55

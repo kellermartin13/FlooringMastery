@@ -1,0 +1,18 @@
+995,Renee "Hellish Empress" Banks,MO,2.20,Beechwood,102.00,3.00,5.00,306.00,510.00,16.32,832.32
+2938,Darlene "Loner" Ford,MS,3.00,Leather,132.00,10.00,16.50,1320.00,2178.00,104.94,3602.94
+3603,Julia "Bandit" Chandler,NV,0.25,Solid Oak,307.00,5.50,5.00,1688.50,1535.00,0.00,3223.50
+4998,Tina "Lady" Anderson,OK,2.00,Dirt,197.00,0.50,1.00,98.50,197.00,5.91,301.41
+5227,Vengeful Robertson,AR,2.20,Beechwood,122.00,3.00,5.00,366.00,610.00,19.52,995.52
+5277,Susan "Damnation" Fleming,UT,0.00,Dirt,223.00,0.50,1.00,111.50,223.00,0.00,334.50
+7952,Jacqueline "Riding Doc" Washington,WY,0.31,Reeds,184.00,0.75,2.20,138.00,404.80,0.00,542.80
+9566,Surgeon Grant,UT,0.00,Pebbles,244.00,0.88,4.84,214.72,1180.96,0.00,1395.68
+11649,Vanessa "Scalper" Rhodes,UT,0.00,Dirt,224.00,0.50,1.00,112.00,224.00,0.00,336.00
+12356,Mabel "Vixen Cursed" King,OK,2.42,Dirt,241.00,0.50,1.00,120.50,241.00,7.23,368.73
+12710,Allison "Steel Gravedigger" Douglas,KS,0.55,Brick,195.00,4.84,6.66,943.80,1298.70,22.42,2264.92
+13576,"Doom" McCoy,AL,1.00,Solid Oak,168.00,5.50,5.50,924.00,924.00,18.48,1866.48
+16365,Dorothy "the Hunter",IA,1.21,Brick,71.00,5.32,6.66,377.72,472.86,8.51,859.09
+17210,Vicki "Mesa" Rhodes,NM,2.66,Reeds,268.00,0.83,2.20,222.44,589.60,24.36,836.40
+19523,Victoria "the Dancer",CA,0.67,Beechwood,133.00,3.63,6.05,482.79,804.65,12.87,1300.31
+19608,Gloria "Devil" McCoy,NM,2.93,Pinecones,215.00,1.50,2.66,322.50,571.90,26.83,921.23
+22298,Darlene "Loner" Ford,NM,2.93,Solid Oak,89.00,5.50,6.66,489.50,592.74,32.47,1114.71
+23077,Melissa "Lonesome Stalker" Riley,AL,1.00,Dirt,296.00,0.55,1.00,162.80,296.00,4.59,463.39

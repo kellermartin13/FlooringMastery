@@ -1,0 +1,19 @@
+538,Vengeful Montgomery,OK,2.00,Dirt,190.00,0.50,1.00,95.00,190.00,5.70,290.70
+1184,Vanessa "Scalper" Rhodes,OK,2.00,Cedar Planks,293.00,2.00,5.00,586.00,1465.00,41.02,2092.02
+2376,Melissa "Lonesome Stalker" Riley,IA,1.00,Beechwood,291.00,3.00,5.00,873.00,1455.00,23.28,2351.28
+2545,Wilma "Tornado" Brooks,NM,2.20,Beechwood,246.00,3.00,5.00,738.00,1230.00,39.36,2007.36
+2778,Surgeon Grant,AL,1.00,Solid Oak,144.00,5.50,5.00,792.00,720.00,15.12,1527.12
+3397,Victoria "the Dancer",IA,1.10,Beechwood,278.00,3.00,5.00,834.00,1390.00,22.24,2246.24
+4957,Mabel "Vixen Cursed" King,KS,0.50,Dirt,123.00,0.50,1.00,61.50,123.00,0.00,184.50
+5337,"Scalphunter" Kennedy,UT,0.00,Brick,250.00,4.84,6.05,1210.00,1512.50,0.00,2722.50
+5595,Diana "Mistress" Morgan,UT,0.00,Cedar Planks,139.00,2.00,5.50,278.00,764.50,0.00,1042.50
+9915,Dorothy "the Hunter",MT,3.63,Dirt,186.00,0.50,1.00,93.00,186.00,11.16,290.16
+10411,Gloria "Devil" McCoy,CA,0.55,Reeds,176.00,0.75,2.20,132.00,387.20,5.19,524.39
+10876,Darlene "Loner" Ford,MT,3.63,Packed Dirt,197.00,1.00,1.50,197.00,295.50,19.70,512.20
+11113,Marie "Raven" Chapman,MO,2.20,Beechwood,225.00,3.00,5.50,675.00,1237.50,38.25,1950.75
+11218,Michele Watson "the Loner",ID,0.00,Beechwood,265.00,3.00,5.50,795.00,1457.50,0.00,2252.50
+16196,Helen Webb "the Dancer",NV,0.31,Pebbles,177.00,0.88,4.84,155.76,856.68,0.00,1012.44
+17467,Lucky Johnson,TX,0.67,Brick,144.00,5.32,6.66,766.08,959.04,17.25,1742.37
+17953,Victoria "the Dancer",TX,0.67,Leather,145.00,11.00,19.97,1595.00,2895.65,44.91,4535.56
+19595,Theresa "Scalphunter" Romero,CA,0.67,Leather,299.00,11.00,19.97,3289.00,5971.03,92.60,9352.63
+19865,Heather "Tornado" Newman,AL,1.00,Pinecones,187.00,1.50,2.66,280.50,497.42,7.78,785.70

@@ -1,0 +1,18 @@
+3652,Ida Russell "the Rustler",ND,1.25,Leather,224.00,10.00,16.50,2240.00,3696.00,59.36,5995.36
+3699,Friendly Howell,NV,0.25,Beechwood,87.00,3.00,5.00,261.00,435.00,0.00,696.00
+7119,Geraldine "Revenge" Warren,NM,2.20,Brick,275.00,4.84,6.66,1331.00,1831.50,63.25,3225.75
+7148,"Bane" Jennings,TX,0.50,Brick,120.00,4.84,6.66,580.80,799.20,0.00,1380.00
+7858,Amanda Hart "the Loner",NV,0.31,Brick,29.00,4.84,6.66,140.36,193.14,0.00,333.50
+8635,Debra "Scorpion" Lane,ND,1.25,Cedar Planks,227.00,2.20,6.05,499.40,1373.35,18.73,1891.48
+8792,Heather "Friendly Gambler" Barrett,ND,1.25,Pebbles,251.00,0.88,4.84,220.88,1214.84,14.36,1450.08
+9090,Theresa "Scalphunter" Romero,TX,0.50,Packed Dirt,111.00,1.00,1.50,111.00,166.50,0.00,277.50
+9402,Marie "Raven" Chapman,TX,0.55,Beechwood,167.00,3.00,5.50,501.00,918.50,14.20,1433.70
+11225,Victoria "the Dancer",ID,0.00,Cedar Planks,256.00,2.20,6.05,563.20,1548.80,0.00,2112.00
+11348,Evelyn "Evil Joker" Taylor,WY,0.31,Dirt,135.00,0.50,1.00,67.50,135.00,0.00,202.50
+12343,Vanessa "Scalper" Rhodes,ID,0.00,Packed Dirt,186.00,1.00,1.65,186.00,306.90,0.00,492.90
+12931,Darlene "Loner" Ford,MT,3.63,Brick,142.00,4.84,6.66,687.28,945.72,65.32,1698.32
+13373,Melissa "Lonesome Stalker" Riley,KS,0.55,Dirt,215.00,0.50,1.00,107.50,215.00,3.22,325.72
+19827,Florence "Leather Doc" Grant,MO,2.20,Packed Dirt,173.00,1.10,2.42,190.30,418.66,12.18,621.14
+19980,Amanda Hart "the Loner",OK,2.66,Leather,346.00,11.00,19.97,3806.00,6909.62,321.47,11037.09
+22009,Florence "Leather Doc" Grant,WY,0.31,Packed Dirt,178.00,1.10,2.42,195.80,430.76,0.00,626.56
+23315,Helen Webb "the Dancer",IA,1.33,Leather,73.00,11.00,19.97,803.00,1457.81,22.61,2283.42

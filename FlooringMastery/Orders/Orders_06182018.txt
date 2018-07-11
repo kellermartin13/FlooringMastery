@@ -1,0 +1,6 @@
+424,Jo "the Joker",WY,0.25,Packed Dirt,215.00,1.00,1.50,215.00,322.50,0.00,537.50
+933,Evelyn "Evil Joker" Taylor,IA,1.00,Dirt,215.00,0.50,1.00,107.50,215.00,3.22,325.72
+9310,Deborah "the Lady",CA,0.55,Packed Dirt,184.00,1.00,1.50,184.00,276.00,4.60,464.60
+17091,Amanda Hart "the Loner",MT,3.99,Beechwood,196.00,3.63,5.50,711.48,1078.00,71.58,1861.06
+17952,Joanne "Damned" Miles,ID,0.00,Packed Dirt,63.00,1.10,2.20,69.30,138.60,0.00,207.90
+19120,Vicki "Mesa" Rhodes,ID,0.00,Beechwood,164.00,3.63,5.50,595.32,902.00,0.00,1497.32

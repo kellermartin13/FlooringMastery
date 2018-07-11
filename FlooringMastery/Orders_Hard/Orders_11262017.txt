@@ -1,0 +1,16 @@
+3160,Graveterror,The Fortress of Gama,10.16,Shadowhell Mithril,160.00,363.00,260.37,58080.00,41659.20,9973.92,109713.12
+4565,"Lenwenye, Goddess of Travel",The Barrow of Terrible Horror,-1.10,Incubi's Glittering Tin Of The Future,238.00,2516.56,72.60,598941.28,17278.80,-6162.20,610057.88
+5381,"Azah, Goddess of Fate",The Broken Arrow,30.07,Hell Mercury Of The East,210.00,4636.34,284.60,973631.40,59766.00,310019.22,1343416.62
+7357,Jericho Wolf,The Desert of Flames,47.19,Toxic Mistlead Of The Past,347.00,1557.54,136.06,540466.38,47212.82,276209.22,863888.42
+8229,"Prusu, God of Love",The Broken Arrow,30.07,Glowpearl Adamant Of Spirits,258.00,398.09,374.00,102707.22,96492.00,59759.77,258958.99
+9018,Bronzespawn,Minas Gilloy,39.26,Ensorceled Gold Of The Dawn,183.00,5713.98,402.92,1045658.34,73734.36,436563.15,1555955.85
+11297,"Penur, Lord of the Sea",Pawic Keep,0.56,Devils' Falserot Silver,305.00,1668.51,182.71,508895.55,55726.55,5646.22,570268.32
+12373,Maverick Wind,The Dismal Marsh,6.05,Sirens' Rockgold,207.00,-352.01,199.96,-72866.07,41391.72,-1888.46,-33362.81
+13205,Emberspawn,The Lost Crypts of Sorrows,35.87,Mistgold Of Men,99.00,3709.51,53.24,367241.49,5270.76,134104.41,506616.66
+14519,Snarepiston The Mechanical,The Citadel of Alammius,3.50,Legendary Mithril Of The Moon,286.00,2707.10,125.84,774230.60,35990.24,32408.83,842629.67
+15677,Harmony Angelchild,The Fortress of Asmamur,-4.93,Poison Adamant,220.00,1151.38,64.44,253303.60,14176.80,-13374.02,254106.38
+16041,Bronzespawn,Barad Kesa,4.75,Incubi's Mirrorfog Iron Of The Ocean,130.00,5806.50,-26.08,754845.00,-3390.40,37572.73,789027.33
+18193,Evilember The Firey,Archfane District,36.16,Legendary Mithril Of The Moon,250.00,2977.81,125.84,744452.50,31460.00,279328.50,1055241.00
+21925,Snaretool The Constructed,The Fortress of Akkun the Grim,-2.42,Meteoric Mirrormuck Orichalcum Of The Forests,122.00,2374.02,185.77,289630.44,22663.94,-6245.89,306048.49
+22156,Seraph Jester,The Black Barrow of Bery,-0.10,Violetstone Tin Of Death,205.00,2469.75,171.71,506298.75,35200.55,0.00,541499.30
+22891,"Addon, Lord of Death",The Desert of Flames,57.10,Djinni's Mind Fogiron,114.00,2531.12,119.21,288547.68,13589.94,172218.44,474356.06

@@ -1,0 +1,20 @@
+1654,Burnchill The Evil,Tradun Castle,31.13,Incubi's Mirrorfog Iron Of The Ocean,74.00,4798.76,-19.59,355108.24,-1449.66,109634.16,463292.74
+3150,Deathbrood,The Hunter and Rose,40.40,Rocklava Mithril Of Revenants,72.00,1818.30,13.03,130917.60,938.16,52742.30,184598.06
+3687,"Gono, Goddess of the Earth",The Dismal Marsh,5.00,Heavenly Dreamsilver Of The Night,152.00,1826.98,112.00,277700.96,17024.00,14736.25,309461.21
+4538,Evilfear The Horrorific,The Fen of the Necromancer,45.10,Sirens' Rockgold,283.00,-352.01,165.25,-99618.83,46765.75,-23783.89,-76636.97
+4939,Zeal Bladewitch,The Archer and Scroll,39.60,Trolls' Rubymercury Of The Sunset,292.00,506.00,198.00,147752.00,57816.00,82227.20,287795.20
+5231,"Ahah, Goddess of Knowledge",The Bastion of Gothmog of Udun,45.32,Magic Adamant,252.00,1838.00,188.76,463176.00,47567.52,229834.58,740578.10
+5296,Metalbrood,The Broken Arrow,30.07,Ghostly Soul Adamant,315.00,3222.96,229.53,1015232.40,72301.95,326260.30,1413794.65
+6178,Burnfreeze The Cold,The Secret Shrine of the Gargoyle Count,-2.00,Unicorns' Fatal Magma Metal Of The Ocean,259.00,1792.04,392.70,464138.36,101709.30,-11316.95,554530.71
+7714,"Azah, Goddess of Fate",Lordsgate Farthing,41.14,Violetstone Tin Of Death,353.00,2245.23,156.10,792566.19,55103.30,347544.49,1195213.98
+8318,Snarepiston The Mechanical,North Grove Ward,6.60,Goddesses' Spectral Poison Steel,226.00,3773.99,269.83,852921.74,60981.58,63973.23,977876.55
+9086,Tarot Dawn,Weke Tower,-0.05,Ghouls' Imperial Soulzephyr Mithril Of The Seas,147.00,4123.68,122.49,606180.96,18006.03,0.00,624186.99
+9543,"Gadriel, God of Resurrection",The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,332.00,-368.87,128.90,-122464.84,42794.80,2390.10,-77279.94
+10068,Zeal Bladewitch,The Chuallanto Jungle,37.00,Meteoric Dustzephyr Orichalcum,290.00,375.00,244.08,108750.00,70783.20,66427.28,245960.48
+10197,Nettool The Grasping,The Dismal Marsh,6.05,Ensorceled Gold Of The Dawn,38.00,5713.98,402.92,217131.24,15310.96,13946.53,246388.73
+11826,"Penur, Lord of the Sea",Archring Borough,17.93,Timeiron,325.00,1596.00,228.33,518700.00,74207.25,106723.30,699630.55
+12702,"Azah, Goddess of Fate",The Nulukkhath Spires,10.59,Forgotten Mithril,186.00,1104.73,316.00,205479.78,58776.00,29068.14,293323.92
+17677,"Penur, Lord of the Sea",North Arcanist's Farthing,55.18,Thunderbirds' Transcendent Dreamiron,236.00,2275.25,237.70,536959.00,56097.20,326180.91,919237.11
+18842,Seraph Jester,Reyny Keep,11.00,Fog Lavaplatinum Of Life,205.00,1078.00,18.70,220990.00,3833.50,24730.58,249554.08
+22838,Valentine Lawslayer,Boiaburh Keep,17.60,Devils' Falserot Silver,216.00,2220.79,182.71,479690.64,39465.36,93448.08,612604.08
+22936,Wheelbolt The Machine,The Desert of Flames,57.10,Magic Adamant,27.00,2021.80,228.40,54588.60,6166.80,34630.58,95385.98

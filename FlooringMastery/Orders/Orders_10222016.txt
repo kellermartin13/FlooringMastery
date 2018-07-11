@@ -1,0 +1,19 @@
+2289,"Doom" McCoy,AR,2.20,Packed Dirt,307.00,1.00,1.50,307.00,460.50,15.35,782.85
+3277,Jo "the Joker",MT,3.00,Reeds,345.00,0.75,2.00,258.75,690.00,28.46,977.21
+3841,Susan "Damnation" Fleming,ND,1.25,Brick,149.00,4.40,5.50,655.60,819.50,14.75,1489.85
+3978,Beth "Fortunate Shooter" Powell,ND,1.25,Leather,229.00,10.00,16.50,2290.00,3778.50,60.68,6129.18
+4934,Maureen "Cursed" Andrews,ID,0.00,Packed Dirt,146.00,1.00,1.50,146.00,219.00,0.00,365.00
+5382,Marie "Raven" Chapman,AR,2.20,Dirt,228.00,0.50,1.00,114.00,228.00,6.84,348.84
+6060,Marie "Raven" Chapman,IA,1.21,Leather,342.00,10.00,18.15,3420.00,6207.30,96.27,9723.57
+7637,Vanessa "Scalper" Rhodes,TX,0.50,Pebbles,269.00,0.80,4.84,215.20,1301.96,0.00,1517.16
+7825,Joanne "Damned" Miles,UT,0.00,Dirt,209.00,0.50,1.00,104.50,209.00,0.00,313.50
+9899,"Bane" Jennings,AL,1.00,Packed Dirt,181.00,1.00,1.50,181.00,271.50,4.52,457.02
+11356,"Scalphunter" Kennedy,MO,2.20,Reeds,165.00,0.75,2.20,123.75,363.00,9.74,496.49
+11429,Surgeon Grant,KS,0.55,Solid Oak,93.00,5.50,5.50,511.50,511.50,10.23,1033.23
+12704,Florence "Leather Doc" Grant,UT,0.00,Leather,183.00,11.00,18.15,2013.00,3321.45,0.00,5334.45
+12903,Amanda Hart "the Loner",IA,1.21,Leather,190.00,11.00,18.15,2090.00,3448.50,55.38,5593.88
+16321,Joanne "Damned" Miles,NV,0.31,Cedar Planks,369.00,2.20,6.05,811.80,2232.45,0.00,3044.25
+17384,Marie "Raven" Chapman,KS,0.55,Pebbles,339.00,0.88,4.84,298.32,1640.76,19.39,1958.47
+19483,Helen Webb "the Dancer",CA,0.67,Cedar Planks,100.00,2.20,6.66,220.00,666.00,8.86,894.86
+20618,Vengeful Robertson,AR,2.20,Reeds,242.00,0.83,2.20,200.86,532.40,14.67,747.93
+21061,Heather "Tornado" Newman,NM,2.93,Beechwood,205.00,3.63,6.05,744.15,1240.25,59.53,2043.93

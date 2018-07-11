@@ -1,0 +1,13 @@
+1025,Susan "Damnation" Fleming,OK,2.00,Solid Oak,306.00,5.00,5.00,1530.00,1530.00,61.20,3121.20
+4181,Vanessa "Scalper" Rhodes,MO,2.20,Beechwood,160.00,3.00,5.00,480.00,800.00,25.60,1305.60
+5312,Friendly Howell,CA,0.55,Cedar Planks,280.00,2.00,5.50,560.00,1540.00,21.00,2121.00
+8456,Mabel "Vixen Cursed" King,MO,2.20,Beechwood,326.00,3.00,5.50,978.00,1793.00,55.42,2826.42
+9357,Tammy Carlson "the Killer",WY,0.31,Pinecones,52.00,1.50,2.66,78.00,138.32,0.00,216.32
+9681,Florence "Leather Doc" Grant,OK,2.20,Brick,28.00,4.84,6.66,135.52,186.48,6.44,328.44
+10802,Susan "Damnation" Fleming,ID,0.00,Pebbles,24.00,0.88,4.84,21.12,116.16,0.00,137.28
+16873,Tina "Lady" Anderson,IA,1.21,Reeds,131.00,0.83,2.20,108.73,288.20,3.97,400.90
+17731,Vengeful Robertson,CA,0.61,Brick,266.00,5.32,6.66,1415.12,1771.56,31.87,3218.55
+19019,Vengeful Robertson,WY,0.31,Leather,225.00,11.00,19.97,2475.00,4493.25,0.00,6968.25
+21320,Florence "Leather Doc" Grant,MS,3.00,Brick,133.00,5.32,6.66,707.56,885.78,47.80,1641.14
+21346,Minnie Lawson "the Apostle",MT,5.31,Reeds,291.00,0.83,2.20,241.53,640.20,44.09,925.82
+22691,"Doom" McCoy,OK,2.93,Pebbles,196.00,0.88,5.32,172.48,1042.72,36.46,1251.66

@@ -1,0 +1,23 @@
+219,"Avriel, God of Death",Waleah Castle,0.77,Planar Obsidian Mercury Of Wizards,344.00,2574.00,117.00,885456.00,40248.00,9257.04,934961.04
+514,Burnbrood The Freezer,The Citadel of Cheno,5.00,Legendary Mithril Of The Moon,274.00,2461.00,104.00,674314.00,28496.00,35140.50,737950.50
+871,Cult Godseeker,The Dungeon of Merciless Woe,38.62,Phantasmal Lead,44.00,-457.00,245.47,-20108.00,10800.68,-3629.85,-12937.17
+4926,"Sielach, God of Fate",Tradun Castle,34.24,Trolls' Rubymercury Of The Sunset,251.00,506.00,198.00,127006.00,49698.00,60079.36,236783.36
+4952,"Penur, Lord of the Sea",Archring Borough,17.93,Negative Mercury,207.00,4054.87,361.00,839358.09,74727.00,164535.32,1078620.41
+5670,Lord Mystery,The Dungeon of Merciless Woe,38.62,Negative Rockglitter Mercury Of Trolls,141.00,1483.90,423.07,209229.90,59652.87,104864.28,373747.05
+7267,Metalghoul,The Broken Shield,37.23,Shadowy Adamant,182.00,618.93,478.58,112645.26,87101.56,73906.32,273653.14
+8082,Dawn Darkzealot,The Tower of Aces the Accursed,13.31,Violetstone Tin Of Death,334.00,2245.23,156.10,749906.82,52137.40,104265.75,906309.97
+8181,"Baltha, Goddess of Knowledge",Haukri's Hold,25.30,Planar Obsidian Mercury Of Wizards,271.00,2574.00,141.57,697554.00,38365.47,183979.87,919899.34
+8899,Rouge Tombreaper,The Pirate's Pipe,17.60,Djinni's Evil Sandobsidian Steel Of The Future,246.00,3826.00,157.07,941196.00,38639.22,176370.34,1156205.56
+9693,"Nelalwe, Lady of Fire",Fellfen Keep,46.23,Shadow Steel,140.00,4677.78,465.30,654889.20,65142.00,331214.35,1051245.55
+10533,"Uriel, God of Fate",Haukri's Hold,27.83,Yellow Mistearth Copper,197.00,4575.58,-27.40,901389.26,-5397.80,250877.61,1146869.07
+10731,Rouge Roguemist,Haukri's Hold,27.83,Venom Timegold Of Dwarves,68.00,3036.00,269.00,206448.00,18292.00,62927.20,287667.20
+11684,Gravebone The Unspeakable,South Brightcrown Borough,42.25,Magic Adamant,326.00,1838.00,228.40,599188.00,74458.40,282931.49,956577.89
+12276,Lightning Brand,The Tomb of Gothmog of Udun,-3.30,Rot Silver Of The Past,160.00,3784.00,359.70,605440.00,57552.00,-19889.76,643102.24
+14201,Flora Amberslayer,The Chuallanto Jungle,40.70,Shadow Steel,64.00,5660.12,511.83,362247.68,32757.12,161951.97,556956.77
+14571,Evilbrood,Grove Farthing,19.80,Witchs' Forbidden Rockrainbow Bronze,231.00,655.60,425.92,151443.60,98387.52,49966.22,299797.34
+15780,Mecharig The Living Device,Noble's Village,30.25,Incubi's Iron Of The Dawn,280.00,1200.96,424.31,336268.80,118806.80,136522.68,591598.28
+16064,Fate Seeker,The Bastion of Gothmog of Udun,54.84,Sirens' Rockgold,211.00,-352.01,199.96,-74274.11,42191.56,-17645.40,-49727.95
+18668,Chainblade The Cadaverous,The Demon and Toad,28.74,Nymphs' Luminous Rotmercury Of The Skies,234.00,292.60,207.90,68468.40,48648.60,33963.93,151080.93
+20357,Springpulley The Binder,Bergfison's Deep,52.71,Toxin Iceplatinum Of The Undead,259.00,-377.06,-59.29,-97658.54,-15356.11,-59897.76,-172912.41
+21652,"Baltha, Goddess of Knowledge",The Fortress of Asmamur,-4.93,God-touched Faterainbow Orichalcum Of Spectres,287.00,370.41,35.21,106307.67,10105.27,-5820.65,110592.29
+22945,Jericho Wolf,The Fen of the Necromancer,72.63,Primal Adamant,87.00,5520.99,364.56,480326.13,31716.72,373791.28,885834.13

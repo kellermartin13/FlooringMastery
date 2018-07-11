@@ -1,0 +1,12 @@
+1493,Friendly Howell,NM,2.20,Solid Oak,132.00,5.00,5.00,660.00,660.00,26.40,1346.40
+6629,Vengeful Montgomery,OK,2.20,Dirt,220.00,0.50,1.00,110.00,220.00,6.60,336.60
+7474,Ida Russell "the Rustler",MO,2.20,Solid Oak,70.00,5.50,5.50,385.00,385.00,15.40,785.40
+8845,Helen Webb "the Dancer",AL,1.00,Solid Oak,316.00,5.50,5.50,1738.00,1738.00,34.76,3510.76
+11585,April "Thunderbird" Dunn,AL,1.00,Reeds,270.00,0.75,2.20,202.50,594.00,7.96,804.46
+12514,Wilma "Tornado" Brooks,AR,2.20,Brick,303.00,4.84,6.66,1466.52,2017.98,69.69,3554.19
+14540,Vengeful Montgomery,NV,0.31,Leather,21.00,11.00,18.15,231.00,381.15,0.00,612.15
+15724,"Scalphunter" Kennedy,AR,2.20,Beechwood,214.00,3.63,5.50,776.82,1177.00,39.08,1992.90
+18690,Geraldine "Revenge" Warren,AL,1.00,Cedar Planks,325.00,2.20,6.66,715.00,2164.50,28.80,2908.30
+20391,Jo "the Joker",AR,2.20,Dirt,221.00,0.50,1.00,110.50,221.00,6.63,338.13
+20717,Florence "Leather Doc" Grant,AR,2.20,Leather,178.00,11.00,19.97,1958.00,3554.66,110.25,5622.91
+23432,Susan "Damnation" Fleming,IA,1.33,Brick,148.00,5.32,6.66,787.36,985.68,17.73,1790.77

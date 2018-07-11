@@ -1,0 +1,18 @@
+1121,Theresa "Scalphunter" Romero,MT,3.00,Beechwood,41.00,3.00,5.00,123.00,205.00,9.84,337.84
+2009,Black Beck,NM,2.20,Packed Dirt,204.00,1.00,1.50,204.00,306.00,10.20,520.20
+2962,Helen Webb "the Dancer",CA,0.55,Pinecones,144.00,1.50,2.20,216.00,316.80,5.33,538.13
+4721,Michele Watson "the Loner",ND,1.25,Brick,105.00,4.40,5.50,462.00,577.50,10.40,1049.90
+4791,Cathy "Wildfire" Neal,ND,1.25,Pinecones,98.00,1.50,2.42,147.00,237.16,3.84,388.00
+7310,Geraldine "Revenge" Warren,MS,3.00,Beechwood,89.00,3.00,5.00,267.00,445.00,21.36,733.36
+10607,Susan "Damnation" Fleming,AL,1.00,Brick,309.00,4.84,6.66,1495.56,2057.94,35.54,3589.04
+13163,"Sunrise" Miles,ID,0.00,Cedar Planks,224.00,2.20,6.05,492.80,1355.20,0.00,1848.00
+13784,Marie "Raven" Chapman,MT,3.99,Beechwood,233.00,3.63,5.50,845.79,1281.50,85.09,2212.38
+14030,Friendly Howell,MT,3.99,Cedar Planks,225.00,2.20,6.05,495.00,1361.25,74.25,1930.50
+14771,Cathy "Loner Demon" Murray,MS,3.00,Beechwood,347.00,3.63,5.50,1259.61,1908.50,95.04,3263.15
+17231,Theresa "Kid" Robinson,UT,0.00,Pinecones,263.00,1.50,2.66,394.50,699.58,0.00,1094.08
+17690,Maureen "Cursed" Andrews,OK,2.42,Solid Oak,260.00,5.50,6.66,1430.00,1731.60,63.23,3224.83
+19869,Vanessa "Scalper" Rhodes,ID,0.00,Solid Oak,290.00,5.50,6.66,1595.00,1931.40,0.00,3526.40
+20264,Joanne "Damned" Miles,UT,0.00,Reeds,198.00,0.83,2.20,164.34,435.60,0.00,599.94
+20719,Surgeon Grant,ND,1.67,Pebbles,149.00,0.88,4.84,131.12,721.16,17.05,869.33
+22503,Maureen "Cursed" Andrews,IA,1.33,Packed Dirt,290.00,1.10,2.42,319.00,701.80,10.21,1031.01
+22532,"Doom" McCoy,WY,0.34,Cedar Planks,60.00,2.20,6.66,132.00,399.60,0.00,531.60

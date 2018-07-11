@@ -1,0 +1,15 @@
+1006,Vicki "Mesa" Rhodes,CA,0.50,Reeds,254.00,0.75,2.00,190.50,508.00,0.00,698.50
+3451,Gladys "Locoweed" Keller,AR,2.20,Dirt,199.00,0.50,1.00,99.50,199.00,5.97,304.47
+4898,Florence "Leather Doc" Grant,NV,0.25,Cedar Planks,164.00,2.00,5.50,328.00,902.00,0.00,1230.00
+5512,Vanessa "Scalper" Rhodes,OK,2.20,Beechwood,205.00,3.00,5.00,615.00,1025.00,32.80,1672.80
+5667,Vanessa "Scalper" Rhodes,ID,0.00,Pinecones,152.00,1.50,2.66,228.00,404.32,0.00,632.32
+7204,Joanne "Damned" Miles,MT,3.00,Dirt,147.00,0.50,1.00,73.50,147.00,6.62,227.12
+7227,Victoria "the Dancer",OK,2.20,Brick,166.00,4.84,6.66,803.44,1105.56,38.18,1947.18
+8553,Debra "Scorpion" Lane,ND,1.25,Packed Dirt,132.00,1.00,1.50,132.00,198.00,3.30,333.30
+10534,Black Beck,MT,3.63,Beechwood,290.00,3.00,5.50,870.00,1595.00,98.60,2563.60
+12055,Mattie Grant "the Gambler",KS,0.55,Brick,117.00,4.84,6.66,566.28,779.22,13.46,1358.96
+15218,Diana "Mistress" Morgan,NM,2.66,Dirt,191.00,0.50,1.00,95.50,191.00,8.60,295.10
+15299,Cathy "Wildfire" Neal,CA,0.61,Beechwood,17.00,3.63,5.50,61.71,93.50,1.55,156.76
+18816,Gladys "Locoweed" Keller,MT,3.99,Brick,269.00,5.32,6.66,1431.08,1791.54,128.90,3351.52
+19966,Elizabeth "the Bully",ID,0.00,Cedar Planks,103.00,2.20,6.66,226.60,685.98,0.00,912.58
+20855,Cathy "Wildfire" Neal,MS,3.00,Reeds,219.00,0.83,2.20,181.77,481.80,19.91,683.48

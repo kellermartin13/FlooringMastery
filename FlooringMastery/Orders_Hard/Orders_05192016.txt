@@ -1,0 +1,13 @@
+2727,"Lionare, God of the Lost",Gili's Delve,-4.59,Heavenly Dreamsilver Of The Night,160.00,1826.98,112.00,292316.80,17920.00,-15511.84,294724.96
+2739,Ironbrood,The Fortress of the Lich Queen,36.35,Rocklava Mithril Of Revenants,111.00,1818.30,13.03,201831.30,1446.33,73179.95,276457.58
+3067,Lightning Brand,The Hunter and Rose,40.40,Thunderbirds' Transcendent Dreamiron,179.00,2068.41,237.70,370245.39,42548.30,165117.48,577911.17
+4698,Rune Rougehate,Archring Borough,17.93,Ensorceled Sandmetal Of Spirits,103.00,2956.98,87.00,304568.94,8961.00,56435.39,369965.33
+5086,"Azah, Goddess of Fate",The Bastion of Gothmog of Udun,45.32,Primordial False Gold,160.00,4459.34,226.00,713494.40,36160.00,337344.48,1086998.88
+6848,Seraph Jester,Weke Tower,-0.05,Grayplatinum,222.00,2506.27,279.06,556391.94,61951.32,0.00,618343.26
+8564,Shadow Gust,The Khazahol Crags,-1.97,Unknowable Mindsilver,112.00,3565.00,366.00,399280.00,40992.00,-8805.44,431466.56
+10515,"Melcha, Goddess of Thieves",The Demon and Toad,23.75,Tritons' Time Stoneiron Of Legend,158.00,1760.00,204.37,278080.00,32290.46,74488.91,384859.37
+11095,"Gadriel, God of Resurrection",The Fortress of the Lich Queen,36.35,Emerald Orichalcum,206.00,-368.87,128.90,-75987.22,26553.40,-17796.18,-67230.00
+11967,"Ariel, God of Luck",The Forsaken Delve of Lord Greywulf,39.00,Phantasmal Lead,157.00,-552.97,245.47,-86816.29,38538.79,-18828.22,-67105.72
+13464,Tiger Mistmidnight,The Broken Shield,37.23,Mistgold Of Men,96.00,3709.51,53.24,356112.96,5111.04,133652.88,494876.88
+14100,Song Runetomb,The Secret Shrine of the Gargoyle Count,-2.00,Phantasmal Lead,192.00,-552.97,245.47,-106170.24,47130.24,1180.80,-57859.20
+22728,Ironbrood,The Greedy Wench,43.53,Violetdream Iron,210.00,1630.07,349.36,342314.70,73365.60,182899.33,598579.63

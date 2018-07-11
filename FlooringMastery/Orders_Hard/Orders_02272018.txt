@@ -1,0 +1,19 @@
+4025,Bronzespike,Tradun Castle,31.13,Violetstone Tin Of Death,240.00,2245.23,156.10,538855.20,37464.00,178658.95,754978.15
+6526,Bronzespawn,The Dread Hive of Illfang the Kobold Lord,1.33,Zephyr Iron,311.00,2759.00,444.69,858049.00,138298.59,9963.48,1006311.07
+7221,Slayer Claw,Bergfison's Deep,39.60,Unholy Poison Copper Of The Mountains,159.00,580.91,-9.24,92364.69,-1469.16,36358.21,127253.74
+8493,Deathbrood,Haukri's Hold,25.30,Incubi's Iron Of The Dawn,362.00,1200.96,424.31,434747.52,153600.22,147086.94,735434.68
+8890,"Eumyan, Goddess of Law",The Nulukkhath Spires,10.59,Rocklava Mithril Of Revenants,255.00,1818.30,14.33,463666.50,3654.15,51405.27,518725.92
+11524,Sunset Knightclaw,The Archer and Scroll,39.60,Magic Adamant,83.00,1838.00,228.40,152554.00,18957.20,68604.48,240115.68
+12958,Cinderember,The Wizard's House,43.58,Imperial Fate Steel,46.00,2993.93,-44.92,137720.78,-2066.32,59687.96,195342.42
+13137,Magus Felldrake,The Glano Forest,3.00,Timeiron,91.00,1596.00,228.33,145236.00,20778.03,4980.42,170994.45
+14334,Rouge Roguemist,The Bastion of the Lich Tyrant,43.00,Ghostly Soul Adamant,152.00,3222.96,229.53,489889.92,34888.56,225654.75,750433.23
+15427,Flameshiver,The Tower of Sabiesu the Awesome,5.32,Djinni's Spectral Shadowlead Of Life,245.00,4076.49,325.62,998740.05,79776.90,53925.85,1132442.80
+15833,"Eumyan, Goddess of Law",Cawold Castle,24.09,Rainbowglitter Tin,168.00,5957.39,213.40,1000841.52,35851.20,248806.25,1285498.97
+17126,"Ariel, God of Luck",The Citadel of Lord Greywulf,33.04,Unspeakable Rotsoul Mithril Of Souls,175.00,248.00,441.68,43400.00,77294.00,39829.02,160523.02
+19349,Dagger Reaper,The Bastion of Barbos,28.34,Fog Lavaplatinum Of Life,150.00,1078.00,18.70,161700.00,2805.00,46061.40,210566.40
+19962,Tiger Mistmidnight,The Dismal Marsh,6.66,Timeiron,288.00,1596.00,251.16,459648.00,72334.08,37238.75,569220.83
+20101,Bolttrap,The Warrior and Flagon,53.24,Foulopal Copper Of The Skies,329.00,1787.91,403.00,588222.39,132587.00,382028.98,1102838.37
+20221,"Byzou, God of Animals",The Desert of Flames,57.10,Angels' Smoke Adamant Of The Mountains,244.00,3427.13,260.15,836219.72,63476.60,512826.90,1412523.22
+20400,Rouge Tombreaper,Bergfison's Deep,52.71,Phantasmal Lead,170.00,-608.27,270.02,-103405.90,45903.40,-30476.32,-87978.82
+21883,Spikecrank,The Fortress of Akkun the Grim,-2.42,Poison Adamant,107.00,1266.52,70.88,135517.64,7584.16,-2862.04,140239.76
+22908,"Ahah, Goddess of Knowledge",The Lost Crypts of Sorrows,35.87,Fleshshock Mercury,230.00,5879.03,338.07,1352176.90,77756.10,514775.88,1944708.88

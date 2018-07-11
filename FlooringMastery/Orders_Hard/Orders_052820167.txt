@@ -1,0 +1,20 @@
+1316,"Lionare, God of the Lost",Boiaburh Keep,16.00,Muck Orichalcum Of Ogres,200.00,3115.32,274.19,623064.00,54838.00,108464.32,786366.32
+1613,Snowflame The Evil,Gifeld Castle,6.22,Incubi's Glittering Tin Of The Future,135.00,2287.78,72.60,308850.30,9801.00,19119.08,337770.38
+4617,Boltcrank The Trapper,Tradun Castle,34.24,Sphinxes' Unknown Poisongold Of The Future,211.00,3554.77,23.86,750056.47,5034.46,256730.92,1011821.85
+4751,Evilember The Firey,The Archer and Scroll,39.60,Zephyr Adamant,294.00,4224.00,102.93,1241856.00,30261.42,508846.97,1780964.39
+6346,Springsprocket,The Citadel of Alammius,3.50,Poison Adamant,179.00,1151.38,58.58,206097.02,10485.82,8663.31,225246.15
+7657,Wind Dire,The Tower of Aces the Accursed,13.31,Meteoric Mirrormuck Orichalcum Of The Forests,198.00,2158.20,185.77,427323.60,36782.46,60333.79,524439.85
+7905,Dawn Darkzealot,The Grey Plains,19.97,Unknown Fatelightning Steel Of The Glacier,235.00,2017.40,54.28,474089.00,12755.80,97368.96,584213.76
+8627,Evilbrood,The Fortress of Gama,10.16,Goddesses' Spectral Poison Steel,284.00,3773.99,269.83,1071813.16,76631.72,114844.49,1263289.37
+11157,Bedlam Spiritraven,Shainan's Hold,23.96,Tin Of The Tundra,370.00,2839.87,174.91,1050751.90,64716.70,267712.46,1383181.06
+12432,"Maglioneth, Lord of the Sun",Archscepter Borough,3.00,God-touched Faterainbow Orichalcum Of Spectres,99.00,370.41,32.01,36670.59,3168.99,1195.19,41034.77
+12978,"Melcha, Goddess of Thieves",The Dread Hive of Illfang the Kobold Lord,1.46,Primordial Plague Mercury Of Legend,273.00,452.29,301.29,123475.17,82252.17,2057.27,207784.61
+14239,Chainblade The Cadaverous,The Chuallanto Jungle,40.70,Primordial Plague Mercury Of Legend,208.00,452.29,301.29,94076.32,62668.32,64265.30,221009.94
+14329,"Maeglodor, God of Thieves",Dysley Stronghold,45.98,Primordial False Gold,222.00,5395.80,226.00,1197867.60,50172.00,574098.22,1822137.82
+17369,Dawn Darkzealot,Lamp Borough,4.95,Fog Lavaplatinum Of Life,93.00,1078.00,18.70,100254.00,1739.10,5099.66,107092.76
+18573,Evilfear The Horrorific,Boiaburh Keep,17.60,Primordial Mud Orichalcum,100.00,-469.36,85.11,-46936.00,8511.00,-6916.50,-45341.50
+20892,Deathbrood,Eved Castle,5.09,Meteoric Dustzephyr Orichalcum,186.00,375.00,295.34,69750.00,54933.24,6234.16,130917.40
+21040,"Iran, Lord of Nightmares",The Bastion of the Lich Tyrant,52.03,Devils' Falserot Silver,332.00,2220.79,182.71,737302.28,60659.72,414940.24,1212902.24
+21123,Snarepiston The Mechanical,The Secret Catacombs of Ulfang the Black,42.90,Yellow Mistearth Copper,240.00,5536.45,-33.15,1328748.00,-7956.00,567940.56,1888732.56
+21755,Lance Knightseraph,The Wizard's House,43.58,Mana-touched Greenglitter Gold Of Giants,222.00,1420.52,514.25,315355.44,114163.50,188988.33,618507.27
+22673,Cinderflame,Grove Farthing,19.80,Magic Adamant,373.00,2021.80,228.40,754131.40,85193.20,167864.92,1007189.52

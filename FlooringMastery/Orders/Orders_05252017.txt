@@ -1,0 +1,14 @@
+2373,Cathy "Loner Demon" Murray,ID,0.00,Beechwood,85.00,3.00,5.00,255.00,425.00,0.00,680.00
+2432,Minnie Lawson "the Apostle",MT,3.00,Cedar Planks,126.00,2.00,5.50,252.00,693.00,28.35,973.35
+6073,Beth "Fortunate Shooter" Powell,AR,2.20,Beechwood,121.00,3.00,5.00,363.00,605.00,19.36,987.36
+6591,Debra "Scorpion" Lane,TX,0.50,Pinecones,273.00,1.50,2.66,409.50,726.18,0.00,1135.68
+6672,Marie "Raven" Chapman,TX,0.50,Reeds,231.00,0.75,2.20,173.25,508.20,0.00,681.45
+8172,Evelyn "Evil Joker" Taylor,UT,0.00,Cedar Planks,283.00,2.20,6.05,622.60,1712.15,0.00,2334.75
+9222,Theresa "Kid" Robinson,IA,1.21,Reeds,258.00,0.75,2.20,193.50,567.60,7.61,768.71
+10154,Renee "Loco Tracker" Jordan,TX,0.61,Cedar Planks,204.00,2.20,6.05,448.80,1234.20,16.83,1699.83
+10738,Diana "Mistress" Morgan,ID,0.00,Pebbles,101.00,0.88,4.84,88.88,488.84,0.00,577.72
+14450,Mabel "Vixen Cursed" King,ND,1.38,Pinecones,104.00,1.50,2.66,156.00,276.64,4.33,436.97
+19215,Tammy Carlson "the Killer",KS,0.55,Beechwood,252.00,3.63,5.50,914.76,1386.00,23.01,2323.77
+19645,Renee "Loco Tracker" Jordan,AR,2.20,Solid Oak,271.00,5.50,6.66,1490.50,1804.86,65.91,3361.27
+21212,Allison "Steel Gravedigger" Douglas,ND,1.67,Reeds,210.00,0.83,2.20,174.30,462.00,12.73,649.03
+22121,April "Thunderbird" Dunn,IA,1.33,Packed Dirt,221.00,1.10,2.42,243.10,534.82,7.78,785.70

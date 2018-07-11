@@ -1,0 +1,16 @@
+1936,Vicki "Mesa" Rhodes,AL,1.00,Pinecones,264.00,1.50,2.00,396.00,528.00,9.24,933.24
+4437,April "Thunderbird" Dunn,NM,2.20,Packed Dirt,174.00,1.00,1.50,174.00,261.00,8.70,443.70
+6706,Heather "Tornado" Newman,MS,3.00,Solid Oak,121.00,5.50,5.50,665.50,665.50,39.93,1370.93
+7762,"Bane" Jennings,OK,2.20,Pinecones,356.00,1.50,2.66,534.00,946.96,29.62,1510.58
+8641,Deborah "the Lady",CA,0.55,Reeds,232.00,0.75,2.20,174.00,510.40,6.84,691.24
+10516,Heather "Friendly Gambler" Barrett,TX,0.67,Reeds,306.00,0.75,2.20,229.50,673.20,9.03,911.73
+12758,"Sunrise" Miles,AR,2.20,Brick,39.00,4.84,6.66,188.76,259.74,8.97,457.47
+12922,Michele Watson "the Loner",OK,2.42,Brick,226.00,4.84,6.66,1093.84,1505.16,51.98,2650.98
+13738,Jacqueline "Riding Doc" Washington,NM,2.42,Brick,124.00,5.32,6.66,659.68,825.84,29.71,1515.23
+15875,"Scalphunter" Kennedy,ID,0.00,Pebbles,129.00,0.88,4.84,113.52,624.36,0.00,737.88
+17256,Gladys "Locoweed" Keller,AL,1.00,Leather,165.00,11.00,19.97,1815.00,3295.05,51.10,5161.15
+17379,Marie "Raven" Chapman,KS,0.55,Reeds,327.00,0.83,2.20,271.41,719.40,9.91,1000.72
+19594,"Scalphunter" Kennedy,UT,0.00,Reeds,310.00,0.83,2.20,257.30,682.00,0.00,939.30
+20013,April "Thunderbird" Dunn,NM,2.93,Reeds,234.00,0.83,2.20,194.22,514.80,21.27,730.29
+22107,Amanda Hart "the Loner",WY,0.31,Pinecones,180.00,1.50,2.66,270.00,478.80,0.00,748.80
+23330,Gloria "Devil" McCoy,TX,0.67,Solid Oak,196.00,5.50,6.66,1078.00,1305.36,23.83,2407.19

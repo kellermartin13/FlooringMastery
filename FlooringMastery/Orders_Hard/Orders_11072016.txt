@@ -1,0 +1,19 @@
+177,"Alas, Lord of Plague",The Grey Plains,18.15,Rainbowglitter Tin,299.00,4475.87,176.36,1338285.13,52731.64,250383.02,1641399.79
+350,Slayer Claw,The Dread Hive of Illfang the Kobold Lord,1.00,Succubi's Evil Mindzephyr Adamant Of The Desert,152.00,1990.16,250.07,302504.32,38010.64,3405.15,343920.11
+1255,Bronzespawn,The Shadow Downs,13.21,Primordial False Gold,212.00,4459.34,226.00,945380.08,47912.00,129127.97,1122420.05
+2362,Tarot Dawn,The Bastion of the Lich Tyrant,43.00,Fog Lavaplatinum Of Life,224.00,1078.00,17.00,241472.00,3808.00,105470.40,350750.40
+3709,Deathspike The Terrifying,The Broken Arrow,30.07,Forgotten Mithril,112.00,913.00,316.00,102256.00,35392.00,41294.40,178942.40
+5546,"Zepul, Lady of Vengeance",The Dungeon of Merciless Woe,38.62,Forgotten Mithril,155.00,913.00,316.00,141515.00,48980.00,74293.05,264788.05
+8501,"Avriel, God of Death",The Barrow of Terrible Horror,-1.21,Glowpearl Adamant Of Spirits,148.00,398.09,374.00,58917.32,55352.00,-1142.69,113126.63
+8595,Spikesnare,Tradun Castle,34.24,Unknowable Mindsilver,204.00,3565.00,366.00,727260.00,74664.00,272654.16,1074578.16
+9518,Gravebone,Fellfen Keep,46.23,Golems' Stonesapphire Gold Of The Glacier,172.00,3672.77,105.97,631716.44,18226.84,298973.91,948917.19
+9840,Burnfreeze The Cold,Fellfen Keep,46.23,Spirits' Living Wordhammer Tin Of The Trees,195.00,4777.30,26.40,931573.50,5148.00,430891.89,1367613.39
+10164,Emberspawn,The Broken Shield,37.23,Meteoric Dustzephyr Orichalcum,137.00,375.00,244.08,51375.00,33438.96,31381.17,116195.13
+13718,Blazefreeze The Chiller,The Lost Crypts of Sorrows,35.87,White Platinum,218.00,-63.64,159.50,-13873.52,34771.00,7523.09,28420.57
+13951,"Gadriel, God of Resurrection",Khali's Delve,52.71,Shadowy Adamant,166.00,618.93,526.44,102742.38,87389.04,100769.65,290901.07
+14012,Flameshiver,Lacot Stronghold,37.37,Violetstone Tin Of Death,347.00,2469.75,171.71,857003.25,59583.37,339137.05,1255723.67
+14179,"Iran, Lord of Nightmares",The Citadel of Lord Greywulf,33.04,Ghostly Soul Adamant,95.00,3222.96,229.53,306181.20,21805.35,108235.56,436222.11
+15222,Evilcoil The Machine,The Cracked Chalice,2.52,Mithril Of The Tropics,70.00,4126.10,11.98,288827.00,838.60,8689.97,298355.57
+16235,Fate Ivycaster,The Citadel of Cheno,7.33,Nymphs' Luminous Rotmercury Of The Skies,101.00,292.60,189.00,29552.60,19089.00,3404.91,52046.51
+19106,Lord Mystery,The Bastion of Barbos,28.34,Incubi's Iron Of The Dawn,304.00,1200.96,424.31,365091.84,128990.24,138342.98,632425.06
+22055,Terrorghoul The Unspeakable,The Tomb of Hellish Ruin,16.94,Violetstone Tin Of Death,295.00,2469.75,171.71,728576.25,50654.45,132469.22,911699.92

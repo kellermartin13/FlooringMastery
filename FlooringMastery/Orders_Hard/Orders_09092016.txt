@@ -1,0 +1,24 @@
+294,Emberfire,Waleah Castle,0.77,Fairies' Supreme Mistsmoke Lead Of The Future,147.00,3045.00,324.73,447615.00,47735.31,4953.50,500303.81
+794,Spikebrood The Disinterred,The Wizard's House,43.58,Foulopal Copper Of The Skies,355.00,1221.16,403.00,433511.80,143065.00,253693.79,830270.59
+1018,"Azah, Goddess of Fate",The Drunken Thief,9.50,Muck Orichalcum Of Ogres,152.00,3115.32,274.19,473528.64,41676.88,51520.55,566726.07
+1419,Seraphim Tsunami,The Hunter and Rose,36.73,Falserainbow Lead,161.00,3215.00,233.00,517615.00,37513.00,205397.36,760525.36
+1655,Rune Rougehate,Reheath Stronghold,8.00,Phantasmal Tin Of The Swamps,34.00,4074.00,-6.60,138516.00,-224.40,11063.33,149354.93
+2020,Rouge Tombreaper,The Dancing Minstrel,21.20,Planar Mudtin Of Trolls,74.00,2094.92,335.36,155024.08,24816.64,37766.55,217607.27
+6760,Shadow Gust,The Tower of the Demon Warlord,15.75,Thunderbirds' Transcendent Dreamiron,197.00,2275.25,237.70,448224.25,46826.90,79208.18,574259.33
+6926,Song Runetomb,Kada's Deep,33.00,Unicorns' Evil Mithril,288.00,4802.49,312.00,1383117.12,89856.00,486081.13,1959054.25
+8048,Law Lionwatcher,Barad Kesa,4.32,Heavenly Dreamsilver Of The Night,260.00,2009.68,112.00,522516.80,29120.00,22065.47,573702.27
+8108,Terrorghoul The Unspeakable,The Cuitamba Jungle,30.80,Planar Obsidian Mercury Of Wizards,71.00,2574.00,141.57,182754.00,10051.47,59769.70,252575.17
+8819,"Alas, Lord of Plague",Unicorn's Ward,14.64,Ensorceled Gold Of The Dawn,239.00,5713.98,402.92,1365641.22,96297.88,219290.86,1681229.96
+9902,Magus Felldrake,The Dungeon of Dismal Terror,-3.50,Djinni's Spectral Shadowlead Of Life,108.00,3705.90,325.62,400237.20,35166.96,-17416.17,417987.99
+10492,Snarepiston The Mechanical,The Greedy Wench,32.70,Litches' Fatal Mithril Of The Past,216.00,1327.98,369.05,286843.68,79714.80,120964.30,487522.78
+10677,Rune Rougehate,Barad Cune,28.60,Hell Mercury Of The East,351.00,4636.34,313.06,1627355.34,109884.06,503799.43,2241038.83
+11855,Fate Seeker,The Barrow of Malefic Ages,17.91,Pearl Mirrorice Steel Of Changelings,242.00,271.51,38.07,65705.42,9212.94,13485.30,88403.66
+13554,Song Runetomb,The Lost Crypts of Sorrows,35.87,Mistgold Of Men,128.00,3709.51,53.24,474817.28,6814.72,173387.52,655019.52
+13742,Gale Jackalguard,The Greedy Wench,32.70,Green Dustlightning Mercury,254.00,4255.57,35.20,1080914.78,8940.80,359652.34,1449507.92
+15246,Emberfire,The Greedy Wench,32.70,Plague Tin,171.00,4767.02,342.10,815160.42,58499.10,288307.64,1161967.16
+16250,Boltcrank The Trapper,The Bastion of Gothmog of Udun,54.84,Otherworldly Mirror Orichalcum,250.00,-298.87,526.35,-74717.50,131587.50,31278.50,88148.50
+17317,Spikerivet,The Grey Plains,19.97,Thunderbirds' Transcendent Dreamiron,274.00,2275.25,237.70,623418.50,65129.80,137709.66,826257.96
+17615,Nailpiston The Grasping,Lamp Borough,4.95,Negative Rockglitter Mercury Of Trolls,320.00,1632.29,619.42,522332.80,198214.40,36027.36,756574.56
+18419,"Lionare, God of the Lost",North Arcanist's Farthing,55.18,Litches' Fatal Mithril Of The Past,286.00,1460.78,405.96,417783.08,116104.56,293638.20,827525.84
+18427,Rouge Tombreaper,Dysley Stronghold,45.98,Phantasmal Plague Adamant,363.00,-204.63,-7.18,-74280.69,-2606.34,-35368.03,-112255.06
+21386,Spikesnare,Unicorn's Ward,14.64,Hidden Shadowice Lead,313.00,2729.00,-62.23,854177.00,-19477.99,125204.85,959903.86

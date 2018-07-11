@@ -1,0 +1,14 @@
+2493,Gravebone,Boiaburh Keep,16.00,Heavenly Dreamsilver Of The Night,279.00,1826.98,112.00,509727.42,31248.00,86556.07,627531.49
+3815,"Avriel, God of Death",Citadel Ward,25.82,Spirits' Living Wordhammer Tin Of The Trees,266.00,4343.00,26.40,1155238.00,7022.40,302187.70,1464448.10
+4187,Sunrise Godwarlock,Barad Cune,26.00,Spirits' Living Wordhammer Tin Of The Trees,161.00,4343.00,26.40,699223.00,4250.40,182903.08,886376.48
+6384,"Uriel, God of Fate",Grove Farthing,18.00,Timeiron,57.00,1596.00,228.33,90972.00,13014.81,18717.63,122704.44
+8825,Springpulley The Binder,The Pirate's Pipe,17.60,Djinni's Evil Sandobsidian Steel Of The Future,184.00,3826.00,157.07,703984.00,28900.88,131919.28,864804.16
+11245,Seraphim Tsunami,Ring District,35.00,Tin Of The Tundra,315.00,2839.87,174.91,894559.05,55096.65,332379.50,1282035.20
+11802,Spiketerror The Skeletal,The Broken Arrow,30.07,Litches' Fatal Mithril Of The Past,224.00,1327.98,369.05,297467.52,82667.20,114040.42,494175.14
+12357,"Gadriel, God of Resurrection",The Tomb of Gothmog of Udun,-3.30,Transcendent Gold,146.00,-193.60,282.17,-28265.60,41196.82,-387.94,12543.28
+13472,Icechill The Frigid,The Warrior and Flagon,53.24,Sapphire Mindlead,270.00,1307.71,47.00,353081.70,12690.00,193859.00,559630.70
+17652,"Prusu, God of Love",Reyny Keep,11.00,Fog Lavaplatinum Of Life,306.00,1078.00,18.70,329868.00,5722.20,36914.92,372505.12
+18169,"Iran, Lord of Nightmares",The Hunter and Rose,44.44,Phantasmal Plague Adamant,101.00,-204.63,-7.18,-20667.63,-725.18,-9412.84,-30805.65
+19991,Gravebone The Unspeakable,The Tomb of Hellish Ruin,16.94,Foulopal Copper Of The Skies,173.00,1787.91,403.00,309308.43,69719.00,64434.66,443462.09
+21202,Icechill The Frigid,Unicorn's Ward,14.64,Sphinxes' Opalpearl Platinum Of Legend,175.00,5805.82,429.89,1016018.50,75230.75,163687.39,1254936.64
+21689,Storm Seraphheart,The Lazy Sage,19.97,Golems' Stonesapphire Gold Of The Glacier,233.00,4444.06,128.23,1035465.98,29877.59,213068.71,1278412.28

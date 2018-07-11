@@ -1,0 +1,12 @@
+2936,"Ariel, God of Luck",Hafeld Keep,29.00,Rocklava Mithril Of Revenants,181.00,1818.30,13.03,329112.30,2358.43,96126.51,427597.24
+3862,"Sielach, God of Fate",Citadel Ward,25.82,Lycanthropes' Gold,306.00,4846.18,66.14,1482931.08,20238.84,390824.18,1893994.10
+4500,Chainhorror,Kewold Stronghold,8.87,Sphinxes' Mistsoul Bronze Of The Past,367.00,1793.23,183.70,658115.41,67417.90,65298.00,790831.31
+5425,Burnchill The Evil,The Tower of Aramum,39.00,Primordial False Gold,85.00,4459.34,226.00,379043.90,19210.00,155319.02,553572.92
+7277,"Alik, Goddess of Trickery",The Lazy Sage,19.97,Golems' Stonesapphire Gold Of The Glacier,110.00,3672.77,105.97,404004.70,11656.70,83132.28,498793.68
+8337,Seraph Jester,Lacot Stronghold,33.97,Glowpearl Adamant Of Spirits,88.00,398.09,374.00,35031.92,32912.00,23100.93,91044.85
+8841,Flora Amberslayer,Unicorn's Ward,14.64,Phantasmal Smokezephyr Mercury Of Men,124.00,-383.77,75.90,-47587.48,9411.60,-5726.38,-43902.26
+15178,"Zepul, Lady of Vengeance",Shainan's Hold,23.96,Grayplatinum,130.00,2506.27,306.97,325815.10,39906.10,87773.09,453494.29
+19411,Sephiroth Drakecaster,The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,168.00,5023.18,296.81,843894.24,49864.08,160876.50,1054634.82
+19764,Rune Rougehate,Haukri's Hold,27.83,Witchs' Forbidden Rockrainbow Bronze,305.00,655.60,425.92,199958.00,129905.60,92361.81,422225.41
+22562,Dawn Darkzealot,The Fortress of the Lich Queen,36.35,Devils' Falserot Silver,242.00,2220.79,182.71,537431.18,44215.82,209392.92,791039.92
+22730,"Ingwenel, God of War",The Desert of Flames,57.10,Violetdream Iron,283.00,1630.07,349.36,461309.81,98868.88,319301.85,879480.54

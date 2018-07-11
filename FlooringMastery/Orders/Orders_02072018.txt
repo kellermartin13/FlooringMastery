@@ -1,0 +1,13 @@
+3175,Stella "the Bully",AL,1.00,Beechwood,151.00,3.00,5.00,453.00,755.00,12.08,1220.08
+4460,"Sunrise" Miles,MS,3.00,Reeds,222.00,0.75,2.20,166.50,488.40,19.65,674.55
+6310,Minnie Lawson "the Apostle",UT,0.00,Packed Dirt,164.00,1.00,1.50,164.00,246.00,0.00,410.00
+9557,Mattie Grant "the Gambler",KS,0.50,Brick,236.00,4.84,6.66,1142.24,1571.76,0.00,2714.00
+11213,Tina "Lady" Anderson,CA,0.55,Solid Oak,145.00,5.50,5.50,797.50,797.50,15.95,1610.95
+11654,Victoria "the Dancer",TX,0.67,Dirt,181.00,0.50,1.00,90.50,181.00,2.72,274.22
+12221,Cathy "Loner Demon" Murray,ND,1.38,Solid Oak,311.00,5.50,5.50,1710.50,1710.50,34.21,3455.21
+12643,Lorraine "Utah" Adams,KS,0.55,Pebbles,189.00,0.88,4.84,166.32,914.76,10.81,1091.89
+16116,Maureen "Cursed" Andrews,AL,1.00,Beechwood,114.00,3.63,5.50,413.82,627.00,10.41,1051.23
+17145,Betty "Happy Thinker" Watson,UT,0.00,Packed Dirt,213.00,1.10,2.20,234.30,468.60,0.00,702.90
+17850,Lena Chapman "the Bully",MT,3.99,Solid Oak,100.00,5.50,6.66,550.00,666.00,48.64,1264.64
+19777,Geraldine "Revenge" Warren,ND,1.67,Cedar Planks,173.00,2.20,6.66,380.60,1152.18,30.66,1563.44
+22632,Beth "Fortunate Shooter" Powell,OK,2.93,Packed Dirt,204.00,1.10,2.42,224.40,493.68,21.54,739.62

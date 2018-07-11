@@ -1,0 +1,22 @@
+1291,Beamsprocket The Grasping,Boiaburh Keep,16.00,Yellow Mistearth Copper,151.00,4159.62,-27.40,628102.62,-4137.40,99834.44,723799.66
+1331,Harmony Angelchild,Boiaburh Keep,16.00,Phantasmal Lead,159.00,-457.00,245.47,-72663.00,39029.73,-5381.32,-39014.59
+1812,Chainblade The Cadaverous,Tower Farthing,22.41,Stone Soulsteel Of The Skies,219.00,1634.80,12.01,358021.20,2630.19,79343.31,439994.70
+1908,Dawn Darkzealot,The Tomb of Hellish Ruin,14.00,Planar Mudtin Of Trolls,71.00,2094.92,335.36,148739.32,23810.56,24156.98,196706.86
+2233,Icechill The Frigid,The Chuallanto Jungle,37.00,Angels' Adamant,230.00,1304.00,179.30,299920.00,41239.00,126228.83,467387.83
+2726,"Ariel, God of Luck",Boiaburh Keep,16.00,Unholy Poison Copper Of The Mountains,101.00,528.10,-9.24,53338.10,-933.24,8384.78,60789.64
+3057,"Alik, Goddess of Trickery",The Fortress of Gama,10.16,Fog Lavaplatinum Of Life,220.00,1078.00,17.00,237160.00,3740.00,24090.00,264990.00
+3374,Grave Mistseeker,Reheath Stronghold,8.00,Heavenly Dreamsilver Of The Night,198.00,1826.98,112.00,361742.04,22176.00,30713.44,414631.48
+4306,Flora Amberslayer,Khali's Delve,52.71,Incubi's Glittering Tin Of The Future,174.00,2516.56,72.60,437881.44,12632.40,238772.34,689286.18
+4671,Song Runetomb,The Scoundrel and Flask,-4.58,Yellow Mistearth Copper,361.00,4575.58,-27.40,1651784.38,-9891.40,-82094.65,1559798.33
+5098,Shadow Tomblion,Ring District,35.00,Primordial Plague Mercury Of Legend,255.00,339.81,273.90,86651.55,69844.50,54773.62,211269.67
+6208,Shadow Gust,The Lazy Sage,19.97,Warlocks' Timerot Mithril,321.00,2917.07,112.00,936379.47,35952.00,194466.29,1166797.76
+9253,"Nelalwe, Lady of Fire",The Archer and Scroll,39.60,Rocklava Mithril Of Revenants,176.00,1818.30,14.33,320020.80,2522.08,129017.15,451560.03
+9447,Burnfreeze The Cold,Fellfen Keep,46.23,Shadow Steel,195.00,4677.78,465.30,912167.10,90733.50,461334.28,1464234.88
+9617,Scarechain The Unspeakable,The Forsaken Sepulcher of Sorrows,48.79,Spectres' Shadowy Terrorglow Adamant Of Life,185.00,4694.80,205.50,868538.00,38017.50,444212.20,1350767.70
+14748,Bronzespawn,Archfane District,32.87,Legendary Mithril Of The Moon,112.00,2707.10,125.84,303195.20,14094.08,104705.46,421994.74
+15782,Rune Rougehate,The Greedy Wench,32.70,Rainbowglitter Tin,179.00,5957.39,213.40,1066372.81,38198.60,364508.57,1469079.98
+15851,Snaretool The Constructed,The Fortress of Asmamur,-4.93,God-touched Faterainbow Orichalcum Of Spectres,214.00,370.41,32.01,79267.74,6850.14,-4305.89,81811.99
+16894,Nettool The Grasping,The Forsaken Tomb of Devastation,0.00,Planar Rainfate Mithril,175.00,1185.84,320.52,207522.00,56091.00,0.00,263613.00
+17453,"Lenwenye, Goddess of Travel",Reyny Keep,11.00,Shadowy Adamant,55.00,618.93,526.44,34041.15,28954.20,6929.49,69924.84
+17729,Clash Lonedrake,North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,104.00,2169.81,222.28,225660.24,23117.12,136827.55,385604.91
+23123,Lance Knightseraph,The Bastion of Barbos,28.34,Ensorceled Gold Of The Dawn,261.00,6913.92,443.21,1804533.12,115677.81,537659.06,2457869.99

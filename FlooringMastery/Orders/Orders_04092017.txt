@@ -1,0 +1,12 @@
+1840,Heather "Tornado" Newman,KS,0.50,Cedar Planks,49.00,2.00,5.00,98.00,245.00,0.00,343.00
+2581,Victoria "the Dancer",AR,2.20,Cedar Planks,290.00,2.00,5.50,580.00,1595.00,43.50,2218.50
+4088,Deborah "the Lady",MO,2.20,Pinecones,227.00,1.50,2.42,340.50,549.34,17.80,907.64
+5304,Lena Chapman "the Bully",ID,0.00,Leather,142.00,10.00,18.15,1420.00,2577.30,0.00,3997.30
+5648,Marie "Raven" Chapman,KS,0.50,Dirt,216.00,0.50,1.00,108.00,216.00,0.00,324.00
+8396,Victoria "the Dancer",NM,2.20,Brick,101.00,4.84,6.66,488.84,672.66,23.23,1184.73
+9770,Vicki "Mesa" Rhodes,WY,0.31,Dirt,211.00,0.50,1.00,105.50,211.00,0.00,316.50
+10034,Cathy "Loner Demon" Murray,AR,2.20,Solid Oak,227.00,5.50,5.50,1248.50,1248.50,49.94,2546.94
+10632,Florence "Leather Doc" Grant,AR,2.20,Beechwood,230.00,3.00,5.50,690.00,1265.00,39.10,1994.10
+15827,Heather "Tornado" Newman,ND,1.38,Solid Oak,185.00,5.50,6.05,1017.50,1119.25,21.37,2158.12
+19049,Elizabeth "the Bully",NV,0.31,Pinecones,104.00,1.50,2.66,156.00,276.64,0.00,432.64
+23155,"Bane" Jennings,AL,1.00,Dirt,306.00,0.55,1.00,168.30,306.00,4.74,479.04

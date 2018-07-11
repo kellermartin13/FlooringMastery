@@ -1,0 +1,11 @@
+136,Vicki "Mesa" Rhodes,ID,0.00,Beechwood,184.00,3.00,5.00,552.00,920.00,0.00,1472.00
+185,"Scalphunter" Kennedy,WY,0.25,Solid Oak,156.00,5.00,5.00,780.00,780.00,0.00,1560.00
+2024,Friendly Howell,MT,3.00,Leather,100.00,10.00,16.50,1000.00,1650.00,79.50,2729.50
+2280,Friendly Howell,UT,0.00,Pebbles,38.00,0.80,4.40,30.40,167.20,0.00,197.60
+4866,Maureen "Cursed" Andrews,WY,0.31,Leather,198.00,10.00,18.15,1980.00,3593.70,0.00,5573.70
+9376,April "Thunderbird" Dunn,AL,1.00,Packed Dirt,148.00,1.00,1.50,148.00,222.00,3.70,373.70
+13256,Wilma "Tornado" Brooks,ND,1.38,Reeds,61.00,0.75,2.20,45.75,134.20,1.80,181.75
+17649,Elizabeth "the Bully",KS,0.55,Dirt,259.00,0.50,1.00,129.50,259.00,3.88,392.38
+20545,Betty "Happy Thinker" Watson,MT,4.83,Packed Dirt,80.00,1.10,2.42,88.00,193.60,14.08,295.68
+21268,Amanda Hart "the Loner",CA,0.67,Pebbles,236.00,0.88,4.84,207.68,1142.24,13.50,1363.42
+21840,Helen Webb "the Dancer",AR,2.20,Brick,165.00,5.32,6.66,877.80,1098.90,39.53,2016.23

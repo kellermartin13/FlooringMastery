@@ -1,0 +1,15 @@
+874,Wheelbolt The Machine,Boiaburh Keep,16.00,Sapphire Mindlead,218.00,1307.71,47.00,285080.78,10246.00,47252.28,342579.06
+1103,Chainblade The Cadaverous,The Drunken Thief,9.50,Primordial Mud Orichalcum,128.00,-387.90,77.37,-49651.20,9903.36,-3974.78,-43722.62
+2544,"Ariel, God of Luck",The Bastion of the Lich Tyrant,43.00,Forgotten Mithril,343.00,913.00,316.00,313159.00,108388.00,181265.21,602812.21
+3800,Fate Ivycaster,Barad Cune,26.00,Lycanthropes' Gold,225.00,4846.18,66.14,1090390.50,14881.50,287370.72,1392642.72
+4905,Gale Jackalguard,The Khazahol Crags,-1.97,Trolls' Rubymercury Of The Sunset,178.00,506.00,198.00,90068.00,35244.00,-2506.24,122805.76
+6344,Song Runetomb,The Dark Caverns of Woe,3.29,Primal Adamant,124.00,4562.80,273.90,565787.20,33963.60,17992.52,617743.32
+7525,"Prusu, God of Love",The Forsaken Delve of Lord Greywulf,39.00,Toxic Mistlead Of The Past,155.00,1557.54,136.06,241418.70,21089.30,102378.12,364886.12
+9247,Terrorghoul The Unspeakable,The Fen of the Necromancer,54.57,Primal Adamant,237.00,5019.08,301.29,1189521.96,71405.73,693510.23,1954437.92
+10759,Jericho Wolf,The Khazahol Crags,-1.97,Phantasmal Tin Of The Swamps,143.00,4074.00,-6.60,582582.00,-943.80,-11632.76,570005.44
+12524,Bedlam Spiritraven,The Citadel of Alammius,3.50,Rot Silver Of The Past,241.00,3784.00,359.70,911944.00,86687.70,39945.27,1038576.97
+15823,Lance Knightseraph,Cawold Castle,24.09,Primordial False Gold,320.00,5395.80,248.60,1726656.00,79552.00,433489.92,2239697.92
+15994,Blazefreeze The Chiller,The Lost Sanctum of Woe,3.30,Lycanthropes' Gold,212.00,4846.18,66.14,1027390.16,14021.68,31242.36,1072654.20
+18055,Beamsprocket The Grasping,Lamp Borough,4.95,Undeads' Mind Orichalcum Of The Twilight,212.00,-17.00,276.00,-3604.00,58512.00,2745.40,57653.40
+18764,Spikecrank,The Tomb of Hellish Ruin,16.94,Nymphs' Luminous Rotmercury Of The Skies,318.00,292.60,207.90,93046.80,66112.20,27057.03,186216.03
+22909,Mecharig The Living Device,The Desert of Flames,57.10,Swordbronze,214.00,1485.01,540.88,317792.14,115748.32,247118.06,680658.52

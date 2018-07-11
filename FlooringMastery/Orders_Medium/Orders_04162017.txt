@@ -1,0 +1,15 @@
+1396,Mattie Grant "the Gambler",AR,2.20,Cedar Planks,169.00,2.00,5.00,338.00,845.00,23.66,1206.66
+1822,Marie "Raven" Chapman,NM,2.20,Reeds,268.00,0.75,2.00,201.00,536.00,14.74,751.74
+5982,Stella "the Bully",WY,0.31,Pinecones,286.00,1.50,2.66,429.00,760.76,0.00,1189.76
+6144,"Scalphunter" Kennedy,NM,2.20,Brick,277.00,4.84,6.66,1340.68,1844.82,63.71,3249.21
+6422,Black Beck,ND,1.25,Solid Oak,201.00,5.50,5.50,1105.50,1105.50,22.11,2233.11
+6779,Darlene "Loner" Ford,AL,1.00,Beechwood,214.00,3.00,5.00,642.00,1070.00,17.12,1729.12
+7082,Geraldine "Revenge" Warren,KS,0.50,Brick,93.00,4.84,6.66,450.12,619.38,0.00,1069.50
+7784,Minnie Lawson "the Apostle",MS,3.00,Reeds,213.00,0.75,2.20,159.75,468.60,18.85,647.20
+8342,Jacqueline "Riding Doc" Washington,NM,2.20,Brick,248.00,4.84,6.66,1200.32,1651.68,57.04,2909.04
+8584,"Scalphunter" Kennedy,WY,0.31,Packed Dirt,124.00,1.00,1.50,124.00,186.00,0.00,310.00
+9882,Stella "the Bully",NM,2.20,Beechwood,50.00,3.00,5.50,150.00,275.00,8.50,433.50
+12980,Helen Webb "the Dancer",KS,0.55,Pebbles,76.00,0.88,4.84,66.88,367.84,4.35,439.07
+19242,Lucky Johnson,KS,0.55,Brick,47.00,5.32,6.66,250.04,313.02,5.63,568.69
+19344,Elizabeth "the Bully",KS,0.55,Solid Oak,99.00,5.50,6.66,544.50,659.34,12.04,1215.88
+21365,Vicki "Mesa" Rhodes,ND,1.67,Reeds,138.00,0.83,2.20,114.54,303.60,8.36,426.50

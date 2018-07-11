@@ -1,0 +1,15 @@
+42,Bedlam Spiritraven,The Demon and Toad,23.75,Green Dustlightning Mercury,291.00,3517.00,32.00,1023447.00,9312.00,247862.16,1280621.16
+807,"Gadriel, God of Resurrection",Lamp Borough,4.95,Primordial False Gold,149.00,4459.34,226.00,664441.66,33674.00,34905.78,733021.44
+1856,"Melcha, Goddess of Thieves",Haukri's Hold,25.30,Spirits' Living Wordhammer Tin Of The Trees,174.00,4343.00,26.40,755682.00,4593.60,190068.90,950344.50
+3039,Metalbrood,The Bastion of the Vampire Duke,19.28,Rocklava Mithril Of Revenants,60.00,1818.30,13.03,109098.00,781.80,20877.16,130756.96
+4364,Bolttrap,The Wizard's House,43.58,Succubi's Evil Mindzephyr Adamant Of The Desert,165.00,1990.16,250.07,328376.40,41261.55,162640.70,532278.65
+4533,Evilember The Firey,Love Keep,7.00,Phantasmal Lead,196.00,-457.00,245.47,-89572.00,48112.12,-2902.19,-44362.07
+9000,Sunrise Godwarlock,The Fen of the Necromancer,54.57,Foul Ice Bronze Of Life,150.00,-92.21,129.80,-13831.50,19470.00,3101.18,8739.68
+10466,Seraphim Tsunami,The Greedy Wench,32.70,Tritons' Time Stoneiron Of Legend,338.00,1760.00,204.37,594880.00,69077.06,219105.83,883062.89
+11052,"Ariel, God of Luck",Gena's Hold,2.66,Phantasmal Plague Adamant,207.00,-186.03,-7.18,-38508.21,-1486.26,-1199.83,-41194.30
+11644,Flameflare The Evil,The Citadel of Cheno,7.33,Thunderbirds' Transcendent Dreamiron,76.00,2275.25,237.70,172919.00,18065.20,13368.89,204353.09
+12670,"Melcha, Goddess of Thieves",Gawold Castle,6.05,Mind Lead,116.00,2844.70,309.10,329985.20,35855.60,21950.45,387791.25
+13549,Grave Mistseeker,The Warrior and Flagon,53.24,Muck Orichalcum Of Ogres,275.00,3426.85,364.95,942383.75,100361.25,552654.85,1595399.85
+19563,Lightning Brand,Hafeld Keep,46.71,Sirens' Rockgold,287.00,-352.01,199.96,-101026.87,57388.52,-20510.02,-64148.37
+19601,Cult Godseeker,The Pirate's Pipe,17.60,Toxic Mistlead Of The Past,234.00,1557.54,164.64,364464.36,38525.76,72538.22,475528.34
+22016,Jericho Wolf,The Tomb of Hellish Ruin,16.94,Phantasmal Lead,34.00,-669.10,270.02,-22749.40,9180.68,-2306.68,-15875.40

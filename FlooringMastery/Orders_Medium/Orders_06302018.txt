@@ -1,0 +1,25 @@
+2156,Lucky Johnson,ND,1.25,Pinecones,172.00,1.50,2.00,258.00,344.00,6.02,608.02
+2433,Vengeful Robertson,ND,1.25,Packed Dirt,117.00,1.00,1.50,117.00,175.50,2.92,295.42
+2648,Mabel "Vixen Cursed" King,KS,0.50,Cedar Planks,227.00,2.00,5.50,454.00,1248.50,0.00,1702.50
+5890,Darlene "Loner" Ford,ID,0.00,Leather,124.00,10.00,18.15,1240.00,2250.60,0.00,3490.60
+6250,Friendly Howell,ID,0.00,Dirt,278.00,0.50,1.00,139.00,278.00,0.00,417.00
+8012,Diana "Mistress" Morgan,ID,0.00,Leather,151.00,10.00,18.15,1510.00,2740.65,0.00,4250.65
+8064,Lena Chapman "the Bully",AL,1.00,Beechwood,135.00,3.00,5.50,405.00,742.50,11.48,1158.98
+10655,Mabel "Vixen Cursed" King,UT,0.00,Pebbles,232.00,0.88,4.84,204.16,1122.88,0.00,1327.04
+10768,Renee "Loco Tracker" Jordan,AL,1.00,Brick,74.00,4.84,6.66,358.16,492.84,8.51,859.51
+11141,Betty "Happy Thinker" Watson,AR,2.20,Dirt,260.00,0.50,1.00,130.00,260.00,7.80,397.80
+11269,Dorothy "the Hunter",MS,3.00,Reeds,277.00,0.75,2.20,207.75,609.40,24.51,841.66
+11627,Vicki "Mesa" Rhodes,IA,1.21,Pinecones,224.00,1.50,2.66,336.00,595.84,9.32,941.16
+12020,Darlene "Loner" Ford,MO,2.20,Leather,278.00,10.00,18.15,2780.00,5045.70,156.51,7982.21
+14208,Lucky Johnson,KS,0.55,Leather,88.00,11.00,18.15,968.00,1597.20,25.65,2590.85
+15343,Jacqueline "Riding Doc" Washington,AR,2.20,Solid Oak,208.00,5.50,5.50,1144.00,1144.00,45.76,2333.76
+15466,Elizabeth "the Bully",MO,2.20,Pebbles,171.00,0.88,4.84,150.48,827.64,19.56,997.68
+15867,Ida Russell "the Rustler",TX,0.67,Cedar Planks,325.00,2.20,6.05,715.00,1966.25,26.81,2708.06
+17783,Vanessa "Scalper" Rhodes,NM,2.93,Reeds,62.00,0.83,2.20,51.46,136.40,5.64,193.50
+18233,Helen Webb "the Dancer",KS,0.55,Dirt,149.00,0.50,1.00,74.50,149.00,2.24,225.74
+19949,Evelyn "Evil Joker" Taylor,WY,0.31,Brick,175.00,5.32,6.66,931.00,1165.50,0.00,2096.50
+20377,Mabel "Vixen Cursed" King,MO,2.20,Solid Oak,122.00,5.50,6.66,671.00,812.52,29.67,1513.19
+21942,Lorraine "Utah" Adams,OK,2.93,Solid Oak,194.00,5.50,6.66,1067.00,1292.04,70.77,2429.81
+22390,Cynthia "the Vixen",KS,0.55,Packed Dirt,285.00,1.10,2.42,313.50,689.70,10.03,1013.23
+22485,Florence "Leather Doc" Grant,WY,0.34,Dirt,63.00,0.55,1.00,34.65,63.00,0.00,97.65
+23169,Vengeful Montgomery,MO,2.20,Brick,240.00,5.32,6.66,1276.80,1598.40,57.50,2932.70

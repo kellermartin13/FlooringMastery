@@ -1,0 +1,17 @@
+1707,Law Lionwatcher,The Pirate's Pipe,16.00,Incubi's Glittering Tin Of The Future,144.00,2287.78,72.60,329440.32,10454.40,54383.16,394277.88
+2173,Tarot Dawn,The Forsaken Tomb of Devastation,0.00,Spirits' Living Wordhammer Tin Of The Trees,176.00,4343.00,26.40,764368.00,4646.40,0.00,769014.40
+2450,Snowflame The Evil,The Bastion of Barbos,21.29,Toxin Iceplatinum Of The Undead,111.00,-283.29,-49.00,-31445.19,-5439.00,-7745.68,-44629.87
+5746,Ironbrood,Unicorn's Ward,13.31,Djinni's Mind Fogiron,224.00,2301.02,67.29,515428.48,15072.96,68965.19,599466.63
+7186,Metalbrood,Barad Kesa,4.32,Hell Mercury Of The East,190.00,4636.34,284.60,880904.60,54074.00,37399.14,972377.74
+9916,"Gono, Goddess of the Earth",The Tomb of Hellish Ruin,16.94,Ensorceled Gold Of The Dawn,196.00,5713.98,402.92,1119940.08,78972.32,203815.11,1402727.51
+10354,Storm Squallmourner,The Nulukkhath Spires,10.59,Djinni's Spectral Shadowlead Of Life,229.00,3705.90,325.62,848651.10,74566.98,101553.99,1024772.07
+11320,"Lionare, God of the Lost",Eved Castle,5.09,Tin Of The Tundra,188.00,2839.87,174.91,533895.56,32883.08,28338.93,595117.57
+11657,Clash Lonedrake,The Citadel of Cheno,7.33,Ghostly Magic Adamant,190.00,4836.38,230.90,918912.20,43871.00,67394.82,1030178.02
+11679,Springsprocket,Unicorn's Ward,14.64,Litches' Fatal Mithril Of The Past,50.00,1327.98,369.05,66399.00,18452.50,12727.72,97579.22
+12033,Evilfear The Horrorific,The Chuallanto Jungle,37.00,Ghostly Magic Adamant,159.00,4836.38,230.90,768984.42,36713.10,298108.08,1103805.60
+12880,Flora Amberslayer,The Glano Forest,3.00,Primordial Plague Mercury Of Legend,261.00,452.29,301.29,118047.69,78636.69,5900.53,202584.91
+15058,Tarot Dawn,The Cracked Chalice,2.52,Heavenly Dreamsilver Of The Night,241.00,2009.68,112.00,484332.88,26992.00,15339.75,526664.63
+15538,Spikecrank,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,225.00,4076.49,325.62,917210.25,73264.50,49523.74,1039998.49
+17032,Fate Seeker,The Cracked Chalice,2.52,Primordial Mud Orichalcum,300.00,-469.36,85.11,-140808.00,25533.00,-3458.25,-118733.25
+18864,Steelterror The Blade,Archfane District,36.16,Starlight Pearldream Bronze,98.00,322.10,147.40,31565.80,14445.20,16563.96,62574.96
+19729,"Gadriel, God of Resurrection",Fellfen Keep,61.53,Mithril Of The Tropics,354.00,4538.71,11.98,1606703.34,4240.92,998785.44,2609729.70

@@ -1,0 +1,21 @@
+156,Terrorghoul The Unspeakable,Love Keep,7.00,Rainbowglitter Tin,226.00,4475.87,176.36,1011546.62,39857.36,73598.28,1125002.26
+1782,Flameflare The Evil,Hartshill Ward,41.98,Stone Soulsteel Of The Skies,200.00,1634.80,12.01,326960.00,2402.00,138332.04,467694.04
+2208,Bonescare,The Dancing Minstrel,21.20,Angels' Adamant,184.00,1304.00,179.30,239936.00,32991.20,57314.71,330241.91
+3397,Nailpiston The Grasping,The Broken Arrow,30.07,Unknowable Mindsilver,348.00,3565.00,366.00,1240620.00,127368.00,410396.40,1778384.40
+3873,Law Lionwatcher,Gifeld Castle,6.22,Spirits' Living Wordhammer Tin Of The Trees,95.00,4343.00,26.40,412585.00,2508.00,24905.58,439998.58
+5830,"Sielach, God of Fate",Unicorn's Ward,13.31,Mithril Of The Tropics,325.00,3751.00,9.00,1219075.00,2925.00,158860.00,1380860.00
+8638,Bonescare,The Barrow of Terrible Horror,-1.21,Ensorceled Gold Of The Dawn,325.00,5713.98,402.92,1857043.50,130949.00,-19879.92,1968112.58
+8691,Ironbrood,The Lazy Sage,19.97,Primordial Mud Orichalcum,278.00,-387.90,77.37,-107836.20,21508.86,-17265.47,-103592.81
+8954,Graveterror,The Beggar and Cask,23.10,Foul Ice Bronze Of Life,177.00,-92.21,129.80,-16321.17,22974.60,1530.29,8183.72
+10584,Dawn Darkzealot,The Dread Hive of Illfang the Kobold Lord,1.33,Tritons' Time Stoneiron Of Legend,177.00,1760.00,204.37,311520.00,36173.49,3476.93,351170.42
+11462,Snarepiston The Mechanical,The Broken Arrow,30.07,Thunderbirds' Transcendent Dreamiron,205.00,2275.25,237.70,466426.25,48728.50,154546.42,669701.17
+12882,Shadow Gust,Gawold Castle,6.05,Mistgold Of Men,192.00,3372.28,53.24,647477.76,10222.08,39461.99,697161.83
+14602,Snowflame The Evil,Barad Kesa,4.75,Witchs' Forbidden Rockrainbow Bronze,120.00,655.60,425.92,78672.00,51110.40,6489.12,136271.52
+15257,Nailpiston The Grasping,Gifeld Castle,6.22,Trolls' Rubymercury Of The Sunset,259.00,556.60,217.80,144159.40,56410.20,12034.18,212603.78
+15421,Burnfreeze The Cold,Barad Kesa,4.75,Sphinxes' Unknown Poisongold Of The Future,262.00,3910.25,23.86,1024485.50,6251.32,51536.84,1082273.66
+15610,Evilbrood,Noble's Village,30.25,Unknown Fatelightning Steel Of The Glacier,334.00,2441.05,65.68,815310.70,21937.12,251174.35,1088422.17
+18299,Metalbrood,Dysley Stronghold,45.98,Negative Rockglitter Mercury Of Trolls,197.00,1632.29,619.42,321561.13,122025.74,204049.96,647636.83
+20376,Emberspawn,Barad Kesa,5.23,Undeads' Mind Orichalcum Of The Twilight,318.00,-17.00,276.00,-5406.00,87768.00,4118.10,86480.10
+21691,Deathspike The Terrifying,The Fortress of Asmamur,-4.93,Phantasmal Tin Of The Swamps,212.00,5964.74,-7.99,1264524.88,-1693.88,-63141.55,1199689.45
+21832,"Zepul, Lady of Vengeance",The Tomb of Hellish Ruin,16.94,Forgotten Mithril,216.00,1215.20,347.60,262483.20,75081.60,57386.02,394950.82
+23121,"Lenwenye, Goddess of Travel",The Bastion of Sthasu the Gruesome,14.93,Djinni's Spectral Shadowlead Of Life,156.00,4484.14,394.00,699525.84,61464.00,114148.48,875138.32

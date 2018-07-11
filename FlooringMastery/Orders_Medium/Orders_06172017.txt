@@ -1,0 +1,22 @@
+1336,Dorothy "the Hunter",OK,2.00,Pinecones,219.00,1.50,2.00,328.50,438.00,15.33,781.83
+2260,Dorothy "the Hunter",MT,3.00,Brick,232.00,4.00,5.00,928.00,1160.00,62.64,2150.64
+3236,Theresa "Kid" Robinson,CA,0.55,Cedar Planks,268.00,2.00,5.50,536.00,1474.00,20.10,2030.10
+5964,Theresa "Scalphunter" Romero,TX,0.50,Cedar Planks,262.00,2.00,5.50,524.00,1441.00,0.00,1965.00
+6111,Kathy Murphy "the Thinker",AR,2.20,Solid Oak,199.00,5.50,5.50,1094.50,1094.50,43.78,2232.78
+7846,Cynthia "the Vixen",CA,0.55,Packed Dirt,304.00,1.00,1.50,304.00,456.00,7.60,767.60
+8852,Lorraine "Utah" Adams,NV,0.31,Pebbles,156.00,0.88,4.84,137.28,755.04,0.00,892.32
+9155,Jo "the Joker",ND,1.25,Beechwood,203.00,3.00,5.50,609.00,1116.50,17.26,1742.76
+9862,Elizabeth "the Bully",CA,0.55,Brick,153.00,4.84,6.66,740.52,1018.98,17.60,1777.10
+11271,Renee "Hellish Empress" Banks,MO,2.20,Pinecones,224.00,1.50,2.66,336.00,595.84,18.64,950.48
+12811,Amanda Hart "the Loner",NM,2.42,Pinecones,256.00,1.50,2.66,384.00,680.96,21.30,1086.26
+15658,Renee "Hellish Empress" Banks,TX,0.67,Solid Oak,268.00,5.50,6.05,1474.00,1621.40,30.95,3126.35
+15905,"Bane" Jennings,NV,0.31,Solid Oak,58.00,5.50,6.05,319.00,350.90,0.00,669.90
+19691,Dorothy "the Hunter",NV,0.31,Beechwood,325.00,3.63,6.05,1179.75,1966.25,0.00,3146.00
+20120,Susan "Damnation" Fleming,WY,0.31,Brick,336.00,5.32,6.66,1787.52,2237.76,0.00,4025.28
+20409,Tina "Lady" Anderson,MS,3.00,Packed Dirt,216.00,1.10,2.42,237.60,522.72,22.81,783.13
+21741,Cathy "Loner Demon" Murray,AL,1.00,Beechwood,102.00,3.63,6.05,370.26,617.10,9.87,997.23
+21976,Susan "Damnation" Fleming,NV,0.31,Reeds,209.00,0.83,2.20,173.47,459.80,0.00,633.27
+22096,"Doom" McCoy,OK,2.93,Brick,266.00,5.32,6.66,1415.12,1771.56,95.60,3282.28
+23119,Lorraine "Utah" Adams,AL,1.00,Dirt,324.00,0.55,1.00,178.20,324.00,5.02,507.22
+23161,Lucky Johnson,MO,2.20,Leather,150.00,11.00,19.97,1650.00,2995.50,92.91,4738.41
+23307,Michele Watson "the Loner",KS,0.55,Cedar Planks,252.00,2.20,6.66,554.40,1678.32,22.33,2255.05

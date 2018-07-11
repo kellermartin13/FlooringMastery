@@ -1,0 +1,20 @@
+953,"Uriel, God of Fate",Boiaburh Keep,16.00,Rainbowglitter Tin,96.00,4475.87,176.36,429683.52,16930.56,71458.25,518072.33
+1399,Blazefreeze The Chiller,Reheath Stronghold,8.00,Incubi's Mirrorfog Iron Of The Ocean,254.00,4798.76,-19.59,1218885.04,-4975.86,97112.73,1311021.91
+1521,Spiketerror The Skeletal,The Beggar and Cask,21.00,Ensorceled Sandmetal Of Spirits,344.00,2956.98,87.00,1017201.12,29928.00,219897.12,1267026.24
+1566,Shiverflame The Freezer,The Hunter and Rose,36.73,Green Dustlightning Mercury,206.00,3517.00,32.00,724502.00,6592.00,270504.78,1001598.78
+1736,Song Runetomb,Gifeld Castle,6.22,Falserainbow Lead,196.00,3215.00,233.00,630140.00,45668.00,40548.48,716356.48
+2192,Flora Amberslayer,Hartshill Ward,41.98,Incubi's Mirrorfog Iron Of The Ocean,211.00,4798.76,-19.59,1012538.36,-4133.49,423530.05,1431934.92
+2360,Lightning Brand,Gili's Delve,-4.59,Unholy Poison Copper Of The Mountains,201.00,528.10,-9.24,106148.10,-1857.24,-5214.54,99076.32
+2855,Jericho Wolf,The Tower of Sabiesu the Awesome,4.40,Vampires' Hammer Emeraldmetal,230.00,344.95,25.84,79338.50,5943.20,3411.27,88692.97
+4722,Nettool The Grasping,Archring Borough,17.93,Legendary Mithril Of The Moon,43.00,2461.00,114.40,105823.00,4919.20,19933.60,130675.80
+5119,Fate Seeker,The Pirate's Pipe,17.60,Mithril Of Legend,334.00,2274.80,63.01,759783.20,21045.34,140549.14,921377.68
+5837,"Maglioneth, Lord of the Sun",Unicorn's Ward,13.31,Negative Rockglitter Mercury Of Trolls,313.00,1483.90,423.07,464460.70,132420.91,77594.61,674476.22
+6460,"Uriel, God of Fate",The Tower of the Demon Warlord,15.75,Glittering Orichalcum,119.00,-144.10,360.23,-17147.90,42867.37,4115.12,29834.59
+10366,Magus Felldrake,The Forsaken Sepulcher of Sorrows,48.79,Sphinxes' Mistsoul Bronze Of The Past,276.00,2169.81,202.07,598867.56,55771.32,320773.05,975411.93
+11726,Flora Amberslayer,Archring Borough,17.93,Meteoric Dustzephyr Orichalcum,213.00,375.00,268.49,79875.00,57188.37,24671.41,161734.78
+12486,Bolttrap,The Tomb of Gothmog of Udun,-3.30,Toxin Iceplatinum Of The Undead,132.00,-377.06,-59.29,-49771.92,-7826.28,1727.95,-55870.25
+13548,Rune Rougehate,The Warrior and Flagon,53.24,Muck Orichalcum Of Ogres,335.00,3426.85,364.95,1147994.75,122258.25,673234.09,1943487.09
+16887,Graveterror,Love Keep,9.32,Ghostly Magic Adamant,121.00,4836.38,230.90,585201.98,27938.90,55182.68,668323.56
+18795,"Nelalwe, Lady of Fire",The Forsaken Sepulcher of Sorrows,53.67,Starlight Pearldream Bronze,263.00,322.10,147.40,84712.30,38766.20,66678.39,190156.89
+21507,Dagger Reaper,Eved Castle,5.09,Planar Rainfate Mithril,162.00,1304.42,320.52,211316.04,51924.24,13162.01,276402.29
+22330,Rune Rougehate,Bifar's Deep,18.70,Undeads' Mind Orichalcum Of The Twilight,112.00,-17.00,276.00,-1904.00,30912.00,5511.52,34519.52

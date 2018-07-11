@@ -1,0 +1,16 @@
+1855,Rose Anchor,Barad Cune,26.00,Angels' Adamant,192.00,1304.00,179.30,250368.00,34425.60,74046.34,358839.94
+2856,"Suriel, Lord of Animals",Tradun Castle,31.13,Mithril Of The Tropics,203.00,3751.00,9.00,761453.00,1827.00,236616.80,999896.80
+3329,Shadow Gust,Barad Cune,26.00,Unknowable Mindsilver,202.00,3565.00,366.00,720130.00,73932.00,206456.12,1000518.12
+3678,Tarot Dawn,The Temple of Merciless Necromancy,50.94,Mistgold Of Men,69.00,3065.71,44.00,211533.99,3036.00,109430.69,324000.68
+6443,Seraphim Tsunami,South Brightcrown Borough,42.25,Grayplatinum,298.00,2506.27,279.06,746868.46,83159.88,348611.90,1178640.24
+8307,Metalghoul,Khali's Delve,52.71,Incubi's Iron Of The Dawn,169.00,1200.96,424.31,202962.24,71708.39,145575.43,420246.06
+10059,Law Lionwatcher,The Bloody Wand,12.00,Magicians' Legendary Poison Metal,232.00,2247.59,229.81,521440.88,53315.92,68970.82,643727.62
+11049,Jericho Wolf,Fellfen Keep,46.23,Phantasmal Plague Adamant,89.00,-186.03,-7.18,-16556.67,-639.02,-7910.02,-25105.71
+11680,Snaretool The Constructed,Archring Borough,17.93,Icy Shock Silver,226.00,1482.98,407.00,335153.48,91982.00,76884.39,504019.87
+12916,Terrorghoul The Unspeakable,The Fortress of Gama,10.16,Phantasmal Smokezephyr Mercury Of Men,280.00,-464.37,75.90,-130023.60,21252.00,-10877.16,-119648.76
+13118,Lord Mystery,Reheath Stronghold,8.00,Imperial Fate Steel,60.00,2993.93,-44.92,179635.80,-2695.20,14155.25,191095.85
+16251,Law Lionwatcher,The Vaults of the Shadow Emperor,33.00,Thunderbirds' Transcendent Dreamiron,185.00,2275.25,237.70,420921.25,43974.50,153415.60,618311.35
+18915,"Finarfin, God of Protection",The Forsaken Delve of Lord Greywulf,42.90,Mistgold Of Men,371.00,4488.51,53.24,1665237.21,19752.04,724545.38,2409534.63
+19992,Shadow Tomblion,Weke Tower,-0.07,Timeiron,218.00,1596.00,251.16,347928.00,54752.88,0.00,402680.88
+20327,Flameshiver,Tradun Castle,41.43,Greenlead,146.00,959.65,179.65,140108.90,26228.90,68198.50,234536.30
+21544,Seraphim Tsunami,The Lazy Sage,19.97,Golems' Stonesapphire Gold Of The Glacier,131.00,4444.06,128.23,582171.86,16798.13,119794.00,718763.99

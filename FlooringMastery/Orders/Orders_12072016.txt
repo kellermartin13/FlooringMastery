@@ -1,0 +1,15 @@
+1454,Melissa "Lonesome Stalker" Riley,MT,3.00,Beechwood,169.00,3.00,5.00,507.00,845.00,40.56,1392.56
+8813,Heather "Tornado" Newman,ND,1.25,Leather,105.00,10.00,18.15,1050.00,1905.75,29.56,2985.31
+10291,Julia "Bandit" Chandler,AL,1.00,Beechwood,104.00,3.00,5.50,312.00,572.00,8.84,892.84
+11926,Betty "Happy Thinker" Watson,AR,2.20,Brick,137.00,4.84,6.66,663.08,912.42,31.51,1607.01
+13104,"Doom" McCoy,UT,0.00,Pebbles,214.00,0.88,4.84,188.32,1035.76,0.00,1224.08
+13158,Beth "Fortunate Shooter" Powell,AL,1.00,Reeds,200.00,0.75,2.20,150.00,440.00,5.90,595.90
+14034,Lucky Johnson,WY,0.31,Pinecones,235.00,1.50,2.66,352.50,625.10,0.00,977.60
+14665,Cathy "Wildfire" Neal,MS,3.00,Leather,216.00,11.00,18.15,2376.00,3920.40,188.89,6485.29
+17066,Joanne "Damned" Miles,KS,0.55,Reeds,118.00,0.83,2.20,97.94,259.60,3.58,361.12
+17288,Evelyn "Evil Joker" Taylor,TX,0.67,Cedar Planks,75.00,2.20,6.66,165.00,499.50,6.64,671.14
+18748,Vengeful Robertson,ID,0.00,Reeds,249.00,0.83,2.20,206.67,547.80,0.00,754.47
+22053,Gloria "Devil" McCoy,IA,1.33,Pinecones,174.00,1.50,2.66,261.00,462.84,7.24,731.08
+22219,Tina "Lady" Anderson,IA,1.33,Packed Dirt,165.00,1.10,2.42,181.50,399.30,5.81,586.61
+22398,Heather "Tornado" Newman,IA,1.33,Pebbles,216.00,0.88,4.84,190.08,1045.44,12.36,1247.88
+22633,Ida Russell "the Rustler",KS,0.55,Brick,294.00,5.32,6.66,1564.08,1958.04,35.22,3557.34

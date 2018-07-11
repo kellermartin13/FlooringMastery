@@ -1,0 +1,13 @@
+673,Chainnail,Barad Kesa,4.32,Ghostly Magic Adamant,107.00,3997.01,230.90,427680.07,24706.30,18095.45,470481.82
+816,Lance Knightseraph,The Barrow of Malefic Ages,17.91,Mithril Of Legend,330.00,2068.00,52.07,682440.00,17183.10,125932.16,825555.26
+1714,"Addon, Lord of Death",Gifeld Castle,6.22,Starlight Pearldream Bronze,125.00,242.00,134.00,30250.00,16750.00,2820.00,49820.00
+6067,"Ahah, Goddess of Knowledge",The Pirate's Pipe,17.60,Trolls' Mist Poisonplatinum Of The Twilight,78.00,516.17,394.90,40261.26,30802.20,12791.42,83854.88
+7716,"Penur, Lord of the Sea",The Tower of Aramum,42.90,Poison Adamant,214.00,1151.38,58.58,246395.32,12536.12,111340.52,370271.96
+9046,Maverick Wind,The Nulukkhath Spires,10.59,Djinni's Evil Sandobsidian Steel Of The Future,276.00,3826.00,157.07,1055976.00,43351.32,120926.01,1220253.33
+10406,"Melcha, Goddess of Thieves",The Dark Caverns of Woe,3.29,Sphinxes' Mistsoul Bronze Of The Past,206.00,2169.81,202.07,446980.86,41626.42,14658.22,503265.50
+11743,Chainhorror,Unicorn's Ward,14.64,Ghostly Magic Adamant,282.00,4836.38,230.90,1363859.16,65113.80,214345.94,1643318.90
+14604,Burnchill The Evil,Archscepter Borough,3.30,Unicorns' Evil Mithril,290.00,4802.49,377.52,1392722.10,109480.80,45066.09,1547268.99
+15567,"Iran, Lord of Nightmares",The Desert of Flames,51.91,Trolls' Rubymercury Of The Sunset,212.00,556.60,217.80,117999.20,46173.60,85369.86,249542.66
+19565,Storm Squallmourner,The Temple of Merciless Necromancy,50.94,Ghostly Soul Adamant,259.00,3222.96,229.53,834746.64,59448.27,456039.40,1350234.31
+21762,"Suriel, Lord of Animals",The Fortress of Akkun the Grim,-2.42,Poison Adamant,224.00,1266.52,70.88,283700.48,15877.12,-5991.55,293586.05
+22230,"Zepul, Lady of Vengeance",Bifar's Deep,18.70,Magicians' Legendary Poison Metal,379.00,2991.55,252.79,1133797.45,95807.41,233624.92,1463229.78

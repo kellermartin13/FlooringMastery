@@ -1,0 +1,18 @@
+1399,Surgeon Grant,TX,0.50,Pebbles,257.00,0.80,4.40,205.60,1130.80,0.00,1336.40
+5367,Cynthia "the Vixen",ID,0.00,Cedar Planks,104.00,2.00,5.50,208.00,572.00,0.00,780.00
+6592,Geraldine "Revenge" Warren,MT,3.00,Beechwood,337.00,3.00,5.00,1011.00,1685.00,80.88,2776.88
+7349,Diana "Mistress" Morgan,NV,0.28,Packed Dirt,72.00,1.00,1.50,72.00,108.00,0.00,180.00
+7646,Wilma "Tornado" Brooks,WY,0.31,Packed Dirt,276.00,1.00,1.50,276.00,414.00,0.00,690.00
+8809,Gloria "Devil" McCoy,AL,1.00,Cedar Planks,112.00,2.20,6.05,246.40,677.60,9.24,933.24
+8907,Lorraine "Utah" Adams,KS,0.50,Solid Oak,175.00,5.50,5.50,962.50,962.50,0.00,1925.00
+12848,Diana "Mistress" Morgan,ND,1.38,Cedar Planks,319.00,2.20,6.05,701.80,1929.95,26.32,2658.07
+14523,Beth "Fortunate Shooter" Powell,OK,2.42,Leather,179.00,11.00,18.15,1969.00,3248.85,104.36,5322.21
+17312,Maureen "Cursed" Andrews,NV,0.31,Packed Dirt,191.00,1.10,2.20,210.10,420.20,0.00,630.30
+18608,Stella "the Bully",MO,2.20,Beechwood,170.00,3.63,5.50,617.10,935.00,31.04,1583.14
+19178,Tammy Carlson "the Killer",UT,0.00,Packed Dirt,126.00,1.10,2.20,138.60,277.20,0.00,415.80
+19918,Allison "Steel Gravedigger" Douglas,AR,2.20,Reeds,216.00,0.83,2.20,179.28,475.20,13.09,667.57
+21187,Cathy "Loner Demon" Murray,ID,0.00,Reeds,98.00,0.83,2.20,81.34,215.60,0.00,296.94
+21850,Mabel "Vixen Cursed" King,ID,0.00,Brick,298.00,5.32,6.66,1585.36,1984.68,0.00,3570.04
+21954,Geraldine "Revenge" Warren,NM,2.93,Leather,297.00,11.00,19.97,3267.00,5931.09,275.94,9474.03
+22314,Tina "Lady" Anderson,MS,3.00,Beechwood,188.00,3.63,6.05,682.44,1137.40,54.60,1874.44
+22630,Cathy "Wildfire" Neal,ID,0.00,Pebbles,257.00,0.88,5.32,226.16,1367.24,0.00,1593.40

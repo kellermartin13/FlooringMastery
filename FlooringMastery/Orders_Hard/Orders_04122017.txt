@@ -1,0 +1,19 @@
+155,"Ahah, Goddess of Knowledge",The Demon and Toad,23.75,Meteoric Mirrormuck Orichalcum Of The Forests,153.00,1962.00,168.88,300186.00,25838.64,78245.91,404270.55
+1195,"Uriel, God of Fate",Lamp Borough,4.95,Mithril Of Legend,276.00,2068.00,52.07,570768.00,14371.32,29256.97,614396.29
+3232,"Eumyan, Goddess of Law",The Broken Arrow,30.07,Starlight Pearldream Bronze,226.00,266.20,134.00,60161.20,30284.00,27133.56,117578.76
+3496,Claw Mist,Reheath Stronghold,8.00,Heavenly Dreamsilver Of The Night,127.00,1826.98,112.00,232026.46,14224.00,19700.04,265950.50
+3628,"Lionare, God of the Lost",The Bastion of the Lich Tyrant,43.00,Forgotten Mithril,175.00,913.00,316.00,159775.00,55300.00,92482.25,307557.25
+4810,Bane Veil,The Khazahol Crags,-1.97,Zephyr Adamant,320.00,4224.00,102.93,1351680.00,32937.60,-27692.35,1356925.25
+7522,"Lionare, God of the Lost",Pawic Keep,0.56,Phantasmal Tin Of The Swamps,133.00,4074.00,-6.60,541842.00,-877.80,5409.64,546373.84
+11309,"Byzou, God of Animals",Gili's Delve,-5.56,Devils' Falserot Silver,312.00,1668.51,182.71,520575.12,57005.52,-34654.84,542925.80
+11942,Dagger Reaper,The Barrow of Malefic Ages,17.91,Thunderbirds' Transcendent Dreamiron,234.00,2275.25,237.70,532408.50,55621.80,105845.45,693875.75
+12036,Jericho Wolf,The Bastion of the Lich Tyrant,43.00,Heavenly Dreamsilver Of The Night,245.00,2009.68,112.00,492371.60,27440.00,223518.99,743330.59
+12372,"Eumyan, Goddess of Law",The Tomb of Gothmog of Udun,-3.30,Unknown Fatelightning Steel Of The Glacier,303.00,2441.05,59.71,739638.15,18092.13,-22731.91,734998.37
+13902,Snarepiston The Mechanical,The Cracked Chalice,2.52,Shadowhell Mithril,250.00,483.15,286.41,120787.50,71602.50,5771.70,198161.70
+13939,Metalghoul,Gili's Delve,-6.73,Violetstone Tin Of Death,255.00,2469.75,171.71,629786.25,43786.05,-47150.06,626422.24
+17534,"Gono, Goddess of the Earth",The Cracked Chalice,2.52,Glowpearl Adamant Of Spirits,230.00,398.09,374.00,91560.70,86020.00,5327.42,182908.12
+19041,Tarot Dawn,The Barrow of Malefic Ages,19.70,Incubi's Iron Of The Dawn,113.00,1200.96,424.31,135708.48,47947.03,36731.10,220386.61
+19066,Rouge Tombreaper,The Secret Shrine of the Gargoyle Count,-2.00,Mana-touched Greenglitter Gold Of Giants,68.00,1291.38,514.25,87813.84,34969.00,-2455.66,120327.18
+19960,"Maeglodor, God of Thieves",Unicorn's Ward,14.64,Planar Rainfate Mithril,310.00,1185.84,320.52,367610.40,99361.20,70045.74,537017.34
+20999,Snaretool The Constructed,The Black Barrow of Bery,-0.10,Planar Obsidian Mercury Of Wizards,248.00,2831.40,155.73,702187.20,38621.04,0.00,740808.24
+21881,Valentine Lawslayer,The Black Barrow of Bery,-0.10,Trolls' Rubymercury Of The Sunset,68.00,740.84,239.58,50377.12,16291.44,0.00,66668.56

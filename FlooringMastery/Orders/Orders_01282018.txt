@@ -1,0 +1,24 @@
+4017,Jo "the Joker",OK,2.00,Dirt,218.00,0.50,1.00,109.00,218.00,6.54,333.54
+6870,Susan "Damnation" Fleming,UT,0.00,Pinecones,142.00,1.50,2.66,213.00,377.72,0.00,590.72
+7521,"Scalphunter" Kennedy,MO,2.20,Solid Oak,246.00,5.50,5.50,1353.00,1353.00,54.12,2760.12
+8520,Helen Webb "the Dancer",MO,2.20,Reeds,159.00,0.75,2.20,119.25,349.80,9.38,478.43
+8761,Jacqueline "Riding Doc" Washington,WY,0.31,Leather,193.00,10.00,18.15,1930.00,3502.95,0.00,5432.95
+9226,Allison "Steel Gravedigger" Douglas,TX,0.50,Packed Dirt,190.00,1.00,1.50,190.00,285.00,0.00,475.00
+9648,Allison "Steel Gravedigger" Douglas,CA,0.55,Dirt,92.00,0.50,1.00,46.00,92.00,1.38,139.38
+10902,Vicki "Mesa" Rhodes,MT,3.63,Leather,137.00,10.00,18.15,1370.00,2486.55,154.26,4010.81
+12192,Heather "Tornado" Newman,OK,2.42,Brick,200.00,4.84,6.66,968.00,1332.00,46.00,2346.00
+12926,Michele Watson "the Loner",NM,2.42,Pinecones,166.00,1.50,2.66,249.00,441.56,13.81,704.37
+13391,Gladys "Locoweed" Keller,OK,2.42,Beechwood,274.00,3.30,5.50,904.20,1507.00,48.22,2459.42
+13481,Victoria "the Dancer",UT,0.00,Pinecones,141.00,1.50,2.66,211.50,375.06,0.00,586.56
+14243,Darlene "Loner" Ford,MO,2.20,Brick,253.00,5.32,6.66,1345.96,1684.98,60.62,3091.56
+14401,Marie "Raven" Chapman,ND,1.38,Packed Dirt,163.00,1.10,2.00,179.30,326.00,5.05,510.35
+16118,Julia "Bandit" Chandler,MS,3.00,Cedar Planks,292.00,2.20,6.05,642.40,1766.60,72.27,2481.27
+17665,Vengeful Robertson,MS,3.00,Dirt,274.00,0.50,1.00,137.00,274.00,12.33,423.33
+17734,Maureen "Cursed" Andrews,WY,0.31,Reeds,232.00,0.83,2.20,192.56,510.40,0.00,702.96
+18388,Elizabeth "the Bully",UT,0.00,Dirt,58.00,0.50,1.00,29.00,58.00,0.00,87.00
+19303,Vengeful Montgomery,AL,1.00,Pinecones,257.00,1.50,2.66,385.50,683.62,10.69,1079.81
+19950,Vengeful Robertson,UT,0.00,Pebbles,142.00,0.88,4.84,124.96,687.28,0.00,812.24
+20054,Geraldine "Revenge" Warren,ID,0.00,Brick,246.00,5.32,6.66,1308.72,1638.36,0.00,2947.08
+21385,Melissa "Lonesome Stalker" Riley,WY,0.31,Packed Dirt,118.00,1.10,2.42,129.80,285.56,0.00,415.36
+21683,Heather "Friendly Gambler" Barrett,NV,0.31,Reeds,146.00,0.83,2.20,121.18,321.20,0.00,442.38
+23354,Cathy "Wildfire" Neal,TX,0.67,Brick,210.00,5.32,6.66,1117.20,1398.60,25.16,2540.96

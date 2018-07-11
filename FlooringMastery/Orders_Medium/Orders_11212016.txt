@@ -1,0 +1,17 @@
+92,Kathy Murphy "the Thinker",AR,2.20,Solid Oak,257.00,5.00,5.00,1285.00,1285.00,51.40,2621.40
+1857,Jo "the Joker",MO,2.20,Dirt,117.00,0.50,1.00,58.50,117.00,3.51,179.01
+2749,Vengeful Robertson,KS,0.50,Leather,369.00,10.00,16.50,3690.00,6088.50,0.00,9778.50
+3043,Theresa "Scalphunter" Romero,WY,0.28,Beechwood,193.00,3.00,5.00,579.00,965.00,0.00,1544.00
+3929,Mattie Grant "the Gambler",AR,2.20,Brick,184.00,4.40,5.50,809.60,1012.00,36.43,1858.03
+6895,Vengeful Montgomery,NM,2.20,Reeds,83.00,0.75,2.20,62.25,182.60,4.90,249.75
+9322,Maureen "Cursed" Andrews,AL,1.00,Beechwood,240.00,3.00,5.50,720.00,1320.00,20.40,2060.40
+9364,Gloria "Devil" McCoy,AR,2.20,Cedar Planks,129.00,2.20,6.05,283.80,780.45,21.28,1085.53
+11759,Vengeful Montgomery,NV,0.31,Beechwood,261.00,3.00,5.50,783.00,1435.50,0.00,2218.50
+11991,Diana "Mistress" Morgan,AR,2.20,Dirt,262.00,0.50,1.00,131.00,262.00,7.86,400.86
+13877,Julia "Bandit" Chandler,OK,2.42,Reeds,242.00,0.75,2.20,181.50,532.40,14.28,728.18
+13900,Elizabeth "the Bully",NV,0.31,Cedar Planks,170.00,2.20,6.05,374.00,1028.50,0.00,1402.50
+18763,Cathy "Wildfire" Neal,CA,0.61,Cedar Planks,145.00,2.20,6.66,319.00,965.70,12.85,1297.55
+20370,Gladys "Locoweed" Keller,MO,2.20,Solid Oak,176.00,5.50,6.66,968.00,1172.16,42.80,2182.96
+21255,Renee "Hellish Empress" Banks,WY,0.31,Reeds,222.00,0.83,2.20,184.26,488.40,0.00,672.66
+22084,Evelyn "Evil Joker" Taylor,AL,1.00,Cedar Planks,138.00,2.20,6.66,303.60,919.08,12.23,1234.91
+23516,"Bane" Jennings,ID,0.00,Packed Dirt,287.00,1.10,2.42,315.70,694.54,0.00,1010.24

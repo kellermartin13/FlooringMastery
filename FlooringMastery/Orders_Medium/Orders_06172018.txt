@@ -1,0 +1,17 @@
+208,Maureen "Cursed" Andrews,MT,3.00,Beechwood,220.00,3.00,5.00,660.00,1100.00,52.80,1812.80
+610,Melissa "Lonesome Stalker" Riley,UT,0.00,Brick,320.00,4.00,5.00,1280.00,1600.00,0.00,2880.00
+1701,Darlene "Loner" Ford,WY,0.25,Dirt,214.00,0.50,1.00,107.00,214.00,0.00,321.00
+2422,Michele Watson "the Loner",KS,0.50,Dirt,291.00,0.50,1.00,145.50,291.00,0.00,436.50
+3426,Melissa "Lonesome Stalker" Riley,TX,0.50,Brick,106.00,4.00,5.50,424.00,583.00,0.00,1007.00
+4238,Vicki "Mesa" Rhodes,AR,2.20,Leather,156.00,10.00,16.50,1560.00,2574.00,82.68,4216.68
+7727,Theresa "Scalphunter" Romero,CA,0.55,Leather,133.00,10.00,18.15,1330.00,2413.95,37.44,3781.39
+8046,Theresa "Scalphunter" Romero,AR,2.20,Solid Oak,200.00,5.50,5.50,1100.00,1100.00,44.00,2244.00
+10201,Vengeful Montgomery,TX,0.61,Dirt,91.00,0.50,1.00,45.50,91.00,1.36,137.86
+10810,Susan "Damnation" Fleming,IA,1.21,Reeds,188.00,0.75,2.20,141.00,413.60,5.55,560.15
+13434,Vengeful Montgomery,AL,1.00,Solid Oak,103.00,5.50,5.50,566.50,566.50,11.33,1144.33
+13848,Amanda Hart "the Loner",KS,0.55,Solid Oak,252.00,5.50,5.50,1386.00,1386.00,27.72,2799.72
+15170,Vengeful Montgomery,UT,0.00,Cedar Planks,230.00,2.20,6.05,506.00,1391.50,0.00,1897.50
+15995,Geraldine "Revenge" Warren,MO,2.20,Reeds,173.00,0.83,2.20,143.59,380.60,10.48,534.67
+16980,Mattie Grant "the Gambler",NM,2.66,Beechwood,203.00,3.63,5.50,736.89,1116.50,55.60,1908.99
+17735,Jacqueline "Riding Doc" Washington,NM,2.93,Packed Dirt,310.00,1.10,2.20,341.00,682.00,30.69,1053.69
+22837,Gladys "Locoweed" Keller,AR,2.20,Pinecones,360.00,1.50,2.93,540.00,1054.80,31.90,1626.70

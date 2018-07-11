@@ -1,0 +1,15 @@
+211,Geraldine "Revenge" Warren,MT,3.00,Pebbles,228.00,0.80,4.00,182.40,912.00,32.83,1127.23
+425,Marie "Raven" Chapman,AR,2.20,Solid Oak,268.00,5.00,5.00,1340.00,1340.00,53.60,2733.60
+896,Renee "Loco Tracker" Jordan,ND,1.25,Pebbles,81.00,0.80,4.00,64.80,324.00,3.89,392.69
+1804,Gloria "Devil" McCoy,CA,0.50,Brick,171.00,4.00,5.00,684.00,855.00,0.00,1539.00
+3723,Debra "Scorpion" Lane,CA,0.55,Pebbles,198.00,0.80,4.40,158.40,871.20,10.30,1039.90
+3832,Cathy "Wildfire" Neal,AR,2.20,Leather,211.00,10.00,16.50,2110.00,3481.50,111.83,5703.33
+4170,Jo "the Joker",KS,0.50,Reeds,143.00,0.75,2.00,107.25,286.00,0.00,393.25
+5533,Maureen "Cursed" Andrews,WY,0.31,Pinecones,323.00,1.50,2.66,484.50,859.18,0.00,1343.68
+10304,Betty "Happy Thinker" Watson,ND,1.25,Dirt,266.00,0.50,1.00,133.00,266.00,3.99,402.99
+15723,Jo "the Joker",AR,2.20,Leather,101.00,11.00,18.15,1111.00,1833.15,58.88,3003.03
+16915,Theresa "Kid" Robinson,ND,1.38,Beechwood,219.00,3.63,5.50,794.97,1204.50,19.99,2019.46
+19085,Wilma "Tornado" Brooks,MT,3.99,Cedar Planks,371.00,2.20,6.66,816.20,2470.86,131.48,3418.54
+20845,Tammy Carlson "the Killer",IA,1.33,Cedar Planks,144.00,2.20,6.66,316.80,959.04,12.76,1288.60
+20871,Amanda Hart "the Loner",IA,1.33,Beechwood,291.00,3.63,6.05,1056.33,1760.55,28.17,2845.05
+22206,Mabel "Vixen Cursed" King,OK,2.93,Pebbles,121.00,0.88,4.84,106.48,585.64,20.76,712.88

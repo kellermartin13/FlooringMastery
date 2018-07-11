@@ -1,0 +1,10 @@
+142,Fate Ivycaster,The Fortress of Asmamur,-4.48,Unknown Fatelightning Steel Of The Glacier,266.00,1834.00,54.28,487844.00,14438.48,-20091.30,482191.18
+677,Sunrise Godwarlock,The Black Barrow of Bery,-0.07,Succubi's Evil Mindzephyr Adamant Of The Desert,309.00,1990.16,250.07,614959.44,77271.63,0.00,692231.07
+12551,Chainhorror,The Glano Forest,3.00,Incubi's Glittering Tin Of The Future,203.00,3349.54,79.86,679956.62,16211.58,20885.05,717053.25
+13109,Burnbrood The Freezer,Archtemple District,27.76,Primordial Plague Mercury Of Legend,254.00,452.29,301.29,114881.66,76527.66,53594.61,245003.93
+14067,Maverick Wind,The Lewd King,27.00,Shadow Steel,193.00,5660.12,511.83,1092403.16,98783.19,321620.31,1512806.66
+14190,"Suriel, Lord of Animals",The Chuallanto Jungle,40.70,Phantasmal Lead,256.00,-552.97,245.47,-141560.32,62840.32,-32275.20,-110995.20
+14521,"Sielach, God of Fate",Archscepter Borough,3.30,Ensorceled Sandmetal Of Spirits,279.00,2956.98,95.70,824997.42,26700.30,25550.93,877248.65
+16303,"Lionare, God of the Lost",Barad Kesa,4.75,Sirens' Rockgold,91.00,-352.01,199.96,-32032.91,18196.36,-691.83,-14528.38
+19377,Gravebone,Castle Village,49.93,Ghostly Soul Adamant,191.00,3222.96,229.53,615585.36,43840.23,329712.80,989138.39
+20264,Law Lionwatcher,The Dismal Marsh,6.66,Grayplatinum,307.00,3032.59,306.97,931005.13,94239.79,71767.14,1097012.06

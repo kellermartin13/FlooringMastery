@@ -1,0 +1,15 @@
+766,Emberfire,The Broken Shield,37.23,Foulopal Copper Of The Skies,157.00,1221.16,403.00,191722.12,63271.00,94347.45,349340.57
+1326,Cult Godseeker,The Barrow of Malefic Ages,17.91,Primordial False Gold,328.00,4459.34,226.00,1462663.52,74128.00,276622.47,1813413.99
+2145,"Gadriel, God of Resurrection",The Chuallanto Jungle,37.00,Angels' Adamant,353.00,1304.00,179.30,460312.00,63292.90,193733.81,717338.71
+3180,Deathspike The Terrifying,The Hunter and Rose,40.40,Swordbronze,197.00,1350.01,447.01,265951.97,88060.97,141605.18,495618.12
+4555,"Melcha, Goddess of Thieves",The Wizard's House,43.58,Incubi's Glittering Tin Of The Future,280.00,2516.56,72.60,704636.80,20328.00,318984.51,1043949.31
+8373,Dawn Darkzealot,Cawold Castle,24.09,Primordial Mud Orichalcum,292.00,-387.90,77.37,-113266.80,22592.04,-21761.94,-112436.70
+8540,Beamsprocket The Grasping,Lacot Stronghold,33.97,Glowpearl Adamant Of Spirits,305.00,398.09,374.00,121417.45,114070.00,80065.73,315553.18
+11357,"Uriel, God of Fate",The Dungeon of Merciless Woe,38.62,Ghostly Soul Adamant,304.00,3222.96,229.53,979779.84,69777.12,409327.21,1458884.17
+12821,Emberfire,The Grey Plains,19.97,Mistgold Of Men,272.00,3372.28,53.24,917260.16,14481.28,186348.29,1118089.73
+13195,Valentine Lawslayer,The Citadel of Alammius,3.50,Mithril Of Legend,76.00,2274.80,63.01,172884.80,4788.76,7106.94,184780.50
+13360,Blazefreeze The Chiller,Arcanist's Farthing,3.00,Emerald Orichalcum,147.00,-405.76,128.90,-59646.72,18948.30,-1220.95,-41919.37
+14710,"Avriel, God of Death",The Archer and Scroll,39.60,Unicorns' Evil Mithril,364.00,4802.49,377.52,1748106.36,137417.28,754209.46,2639733.10
+19802,Nailpiston The Grasping,The Temple of Merciless Necromancy,50.94,Ghostly Soul Adamant,359.00,3222.96,229.53,1157042.64,82401.27,632116.39,1871560.30
+20478,Rouge Tombreaper,The Forsaken Tomb of Devastation,0.00,Phantasmal Lead,207.00,-608.27,270.02,-125911.89,55894.14,0.00,-70017.75
+22867,Beamsprocket The Grasping,Grori's Deep,66.50,Falserainbow Lead,129.00,3215.00,256.30,414735.00,33062.70,295546.48,743344.18

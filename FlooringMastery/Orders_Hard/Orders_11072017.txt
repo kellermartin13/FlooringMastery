@@ -1,0 +1,17 @@
+3512,Wind Dire,The Bastion of the Lich Tyrant,43.00,Mistgold Of Men,176.00,3065.71,44.00,539564.96,7744.00,235342.85,782651.81
+4171,Claw Mist,The Lost Sanctum of Woe,3.00,Glittering Orichalcum,130.00,-131.00,360.23,-17030.00,46829.90,894.00,30693.90
+4776,"Lionare, God of the Lost",Archring Borough,17.93,Thunderbirds' Transcendent Dreamiron,265.00,2275.25,237.70,602941.25,62990.50,119867.72,785799.47
+7337,Emberfire,The Forsaken Hive of Galima the Mighty,24.70,Shadowy Adamant,202.00,618.93,478.58,125023.86,96673.16,55424.26,277121.28
+7746,"Alik, Goddess of Trickery",Grori's Deep,49.95,Shadowy Adamant,251.00,618.93,478.58,155351.43,120123.58,137737.50,413212.51
+7836,Steelterror The Blade,Grori's Deep,49.95,Meteoric Mirrormuck Orichalcum Of The Forests,275.00,2158.20,185.77,593505.00,51086.75,322295.88,966887.63
+9737,Lord Mystery,Haukri's Hold,25.30,Goddesses' Spectral Poison Steel,100.00,3773.99,269.83,377399.00,26983.00,101095.50,505477.50
+10224,"Maeglodor, God of Thieves",The Nulukkhath Spires,10.59,Shadowy Adamant,134.00,618.93,478.58,82936.62,64129.72,16177.30,163243.64
+10833,"Addon, Lord of Death",The Fortress of Gama,10.16,Sirens' Rockgold,196.00,-352.01,199.96,-68993.96,39192.16,-2980.18,-32781.98
+12987,"Gono, Goddess of the Earth",The Cracked Chalice,2.52,Forgotten Mithril,37.00,1104.73,316.00,40875.01,11692.00,1577.01,54144.02
+13709,Chainnail,The Broken Shield,37.23,Muck Orichalcum Of Ogres,244.00,3426.85,364.95,836151.40,89047.80,342323.70,1267522.90
+14313,Flameflare The Evil,The Chuallanto Jungle,40.70,Sprites' Transcendent Mud Lead Of The South,161.00,2081.80,321.86,335169.80,51819.46,158665.60,545654.86
+14714,Shadow Gust,The Archer and Blade,9.90,Unknown Fatelightning Steel Of The Glacier,69.00,2441.05,65.68,168432.45,4531.92,17296.44,190260.81
+17638,Shadow Gust,Lamp Borough,4.95,Glowpearl Adamant Of Spirits,75.00,398.09,374.00,29856.75,28050.00,2895.34,60802.09
+18237,Terrorghoul The Unspeakable,The Fortress of the Lich Queen,36.35,Ensorceled Gold Of The Dawn,79.00,6913.92,443.21,546199.68,35013.59,209236.78,790450.05
+18582,Boltcrank The Trapper,The Tower of Aces the Accursed,13.31,Devils' Falserot Silver,186.00,2220.79,182.71,413066.94,33984.06,58116.63,505167.63
+22729,Lord Mystery,Boiaburh Keep,17.60,Violetdream Iron,230.00,1630.07,349.36,374916.10,80352.80,81948.40,537217.30

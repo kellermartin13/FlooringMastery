@@ -1,0 +1,18 @@
+631,Claw Mist,The Citadel of Cheno,5.00,Venom Jewelmetal Of The Desert,207.00,1388.00,224.00,287316.00,46368.00,16684.20,350368.20
+634,Shiverflame The Freezer,The Fortress of the Lich Queen,36.35,Legendary Mithril Of The Moon,276.00,2461.00,104.00,679236.00,28704.00,254858.40,962798.40
+780,Lance Knightseraph,The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,192.00,4159.62,-27.40,798647.04,-5260.80,0.00,793386.24
+1039,"Melcha, Goddess of Thieves",The Wizard's House,43.58,Foulopal Copper Of The Skies,210.00,1221.16,403.00,256443.60,84630.00,150072.38,491145.98
+1453,Beamtrap,Reheath Stronghold,8.00,Grayplatinum,199.00,2071.30,279.06,412188.70,55532.94,37417.73,505139.37
+2534,Beamsprocket The Grasping,The Grey Plains,18.15,Toxin Iceplatinum Of The Undead,319.00,-283.29,-49.00,-90369.51,-15631.00,-19080.09,-125080.60
+4433,Emberspawn,Love Keep,7.00,Djinni's Mind Fogiron,21.00,2301.02,67.29,48321.42,1413.09,3481.42,53215.93
+11301,"Maglioneth, Lord of the Sun",The Dungeon of Merciless Woe,38.62,Unspeakable Rotsoul Mithril Of Souls,116.00,248.00,401.53,28768.00,46577.48,29384.74,104730.22
+11396,Blazefreeze The Chiller,The Tower of Aces the Accursed,13.31,Mana-touched Greenglitter Gold Of Giants,180.00,1173.98,467.50,211316.40,84150.00,38410.63,333877.03
+12056,Slayer Claw,The Forsaken Tomb of Devastation,0.00,Phantasmal Lead,263.00,-552.97,245.47,-145431.11,64558.61,0.00,-80872.50
+12145,Tarot Dawn,The Bastion of the Lich Tyrant,43.00,Phantasmal Lead,222.00,-552.97,245.47,-122759.34,54494.34,-29353.95,-97618.95
+13443,Rune Rougehate,The Pilgrim's Cup,46.12,Ghostly Soul Adamant,168.00,3222.96,229.53,541457.28,38561.04,266808.43,846826.75
+17175,Gravebone,The Tower of Aces the Accursed,13.31,Foul Ice Bronze Of Life,232.00,-101.43,142.78,-23531.76,33124.96,1247.12,10840.32
+18187,Lance Knightseraph,Boiaburh Keep,17.60,Negative Rockglitter Mercury Of Trolls,135.00,1632.29,619.42,220359.15,83621.70,54716.55,358697.40
+19152,Fate Seeker,Reyny Keep,11.00,Mind Lead,237.00,3442.09,374.01,815775.33,88640.37,99485.73,1003901.43
+19422,Fate Seeker,The Khazahol Crags,-2.17,Planar Mudtin Of Trolls,157.00,3067.17,405.79,481545.69,63709.03,-10905.09,534349.63
+20037,Rouge Roguemist,The Tomb of Gothmog of Udun,-3.30,Angels' Smoke Adamant Of The Mountains,120.00,3427.13,260.15,411255.60,31218.00,-13274.21,429199.39
+21392,Grave Mistseeker,The Bastion of Sthasu the Gruesome,14.93,Planar Rainfate Mithril,236.00,1304.42,320.52,307843.12,75642.72,57522.88,441008.72

@@ -1,0 +1,19 @@
+1439,Tarot Dawn,The Dungeon of Merciless Woe,38.62,Incubi's Mirrorfog Iron Of The Ocean,364.00,4798.76,-19.59,1746748.64,-7130.76,678450.97,2418068.85
+3142,Boltcrank The Trapper,The Archer and Blade,9.00,Zephyr Iron,182.00,2759.00,404.26,502138.00,73575.32,51814.20,627527.52
+10068,Wheelbolt The Machine,The Dismal Marsh,6.05,Meteoric Dustzephyr Orichalcum,216.00,375.00,244.08,81000.00,52721.28,8023.28,141744.56
+11417,Shadow Tomblion,Fellfen Keep,46.23,Emerald Orichalcum,230.00,-368.87,128.90,-84840.10,29647.00,-25388.83,-80581.93
+12185,"Finarfin, God of Protection",The Pirate's Pipe,17.60,Golems' Stonesapphire Gold Of The Glacier,251.00,3672.77,105.97,921865.27,26598.47,170723.47,1119187.21
+12503,Spiketerror The Skeletal,The Glano Forest,3.00,Incubi's Iron Of The Dawn,157.00,1200.96,424.31,188550.72,66616.67,7655.02,262822.41
+12816,Magus Felldrake,The Grey Plains,19.97,Timeiron,147.00,1596.00,228.33,234612.00,33564.51,53635.30,321811.81
+13260,"Selik, God of Death",Eved Castle,5.09,Sapphire Mindlead,209.00,1307.71,47.00,273311.39,9823.00,14156.72,297291.11
+13497,Blazeflare The Cremator,Arcanist's Farthing,3.00,Sphinxes' Mistsoul Bronze Of The Past,238.00,2169.81,202.07,516414.78,48092.66,16935.22,581442.66
+13812,Terrorghoul The Unspeakable,The Bastion of Gothmog of Udun,54.84,Spectres' Shadowy Terrorglow Adamant Of Life,119.00,5164.28,248.66,614549.32,29590.54,354276.92,998416.78
+13865,Law Lionwatcher,The Cracked Chalice,2.52,Violetstone Tin Of Death,176.00,2469.75,171.71,434676.00,30220.96,13946.91,478843.87
+14145,Flameflare The Evil,Pewold Keep,20.52,Sprites' Transcendent Mud Lead Of The South,247.00,2081.80,321.86,514204.60,79499.42,124677.84,718381.86
+16947,"Melcha, Goddess of Thieves",The Cracked Chalice,2.52,Unholy Poison Copper Of The Mountains,46.00,702.90,-10.16,32333.40,-467.36,955.98,32822.02
+17039,"Lenwenye, Goddess of Travel",The Tower of Aces the Accursed,13.31,Shadowy Adamant,245.00,618.93,526.44,151637.85,128977.80,36480.03,317095.68
+19292,"Lenwenye, Goddess of Travel",The Drunken Thief,12.65,Violetdream Iron,244.00,1347.16,349.36,328707.04,85243.84,53813.61,467764.49
+19846,Shadow Tomblion,The Dismal Marsh,6.66,Timeiron,66.00,1596.00,251.16,105336.00,16576.56,8533.88,130446.44
+20928,"Maglioneth, Lord of the Sun",The Secret Catacombs of Ulfang the Black,42.90,Planar Obsidian Mercury Of Wizards,129.00,2831.40,155.73,365250.60,20089.17,165696.10,551035.87
+21259,Rouge Tombreaper,The Lazy Sage,19.97,God-touched Faterainbow Orichalcum Of Spectres,206.00,370.41,35.21,76304.46,7253.26,16711.54,100269.26
+22255,Sunrise Godwarlock,Gawold Castle,6.05,Foul Ice Bronze Of Life,181.00,-101.43,157.06,-18358.83,28427.86,604.14,10673.17

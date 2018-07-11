@@ -1,0 +1,15 @@
+237,Claw Mist,The Citadel of Cheno,5.00,Incubi's Iron Of The Dawn,141.00,1091.78,385.74,153940.98,54389.34,10416.52,218746.84
+533,"Iran, Lord of Nightmares",Gifeld Castle,5.65,Ghostly Magic Adamant,282.00,3997.01,230.90,1127156.82,65113.80,71536.24,1263806.86
+3362,Sunrise Godwarlock,The Forsaken Hive of Galima the Mighty,22.45,Yellow Mistearth Copper,324.00,4575.58,-27.40,1482487.92,-8877.60,324194.27,1797804.59
+5245,Shiverflame The Freezer,The Black Barrow of Zago the Possessed,28.00,Primordial False Gold,141.00,4459.34,226.00,628766.94,31866.00,184977.22,845610.16
+9223,"Ingwenel, God of War",The Archer and Scroll,39.60,Angels' Smoke Adamant Of The Mountains,280.00,2832.34,215.00,793055.20,60200.00,341302.08,1194557.28
+10544,"Baltha, Goddess of Knowledge",The Citadel of Lord Greywulf,33.04,Hell Mercury Of The East,58.00,4636.34,313.06,268907.72,18157.48,94731.52,381796.72
+11143,Cinderflame,Shainan's Hold,23.96,God-touched Greengem Platinum,230.00,1281.72,-39.60,294795.60,-9108.00,68565.02,354252.62
+11886,Harmony Angelchild,The Archer and Scroll,39.60,Timeiron,144.00,1596.00,228.33,229824.00,32879.52,105081.41,367784.93
+13043,Rouge Tombreaper,The Dread Hive of Illfang the Kobold Lord,1.46,Mind Lead,141.00,2844.70,309.10,401102.70,43583.10,4446.86,449132.66
+13463,Jericho Wolf,Castle Village,41.26,Toxic Mistlead Of The Past,137.00,1557.54,136.06,213382.98,18640.22,95129.51,327152.71
+16700,Snarepiston The Mechanical,Gena's Hold,2.66,Mistgold Of Men,227.00,4080.46,53.24,926264.42,12085.48,28150.50,966500.40
+18829,Sephiroth Drakecaster,The Tomb of Hellish Ruin,16.94,Ensorceled Sandmetal Of Spirits,128.00,2956.98,95.70,378493.44,12249.60,66426.32,457169.36
+19014,"Ingwenel, God of War",The Drunken Thief,12.65,Violetdream Iron,110.00,1347.16,349.36,148187.60,38429.60,24260.24,210877.44
+19464,Bedlam Spiritraven,Gifeld Castle,6.22,Toxic Mistlead Of The Past,356.00,1557.54,164.64,554484.24,58611.84,36785.76,649881.84
+19811,Fate Seeker,The Dungeon of Merciless Woe,42.48,Toxic Mistlead Of The Past,346.00,1557.54,164.64,538908.84,56965.44,250267.20,846141.48

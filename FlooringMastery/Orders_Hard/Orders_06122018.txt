@@ -1,0 +1,18 @@
+365,Grave Mistseeker,The Fortress of the Lich Queen,36.35,Trolls' Mist Poisonplatinum Of The Twilight,27.00,516.17,394.90,13936.59,10662.30,8855.60,33454.49
+1228,Spikecrank,The Citadel of Alammius,3.18,Phantasmal Lead,207.00,-457.00,245.47,-94599.00,50812.29,-1313.60,-45100.31
+2508,Fate Seeker,The Bastion of the Lich Tyrant,43.00,Greenlead,337.00,721.00,134.97,242977.00,45484.89,124038.61,412500.50
+3840,Flora Amberslayer,Tradun Castle,31.13,Lycanthropes' Gold,137.00,4846.18,66.14,663926.66,9061.18,208626.23,881614.07
+4914,Metalghoul,The Tower of Sabiesu the Awesome,4.40,Mithril Of Legend,130.00,2068.00,63.01,268840.00,8191.30,11081.25,288112.55
+7725,"Ingwenel, God of War",Lordsgate Farthing,41.14,Heavenly Dreamsilver Of The Night,239.00,2009.68,112.00,480313.52,26768.00,207903.42,714984.94
+10480,Claw Mist,The Dread Hive of Illfang the Kobold Lord,1.33,Hell Mercury Of The East,278.00,4636.34,313.06,1288902.52,87030.68,13759.33,1389692.53
+11977,Blazefreeze The Chiller,Lordsgate Farthing,41.14,White Platinum,211.00,-52.59,159.50,-11096.49,33654.50,9248.78,31806.79
+12579,"Melcha, Goddess of Thieves",The Dismal Marsh,6.05,Transcendent Gold,231.00,-193.60,282.17,-44721.60,65181.27,1227.58,21687.25
+13165,Bane Veil,The Lost Crypts of Sorrows,35.87,Sapphire Mindlead,245.00,1307.71,47.00,320388.95,11515.00,119485.42,451389.37
+14735,"Alas, Lord of Plague",Grove Farthing,19.80,Unicorns' Evil Mithril,166.00,4802.49,377.52,797213.34,62668.32,171976.33,1031857.99
+16065,Slayer Claw,Gili's Delve,-6.73,Sirens' Rockgold,301.00,-352.01,199.96,-105955.01,60187.96,3203.69,-42563.36
+17282,Tarot Dawn,Weke Tower,-0.07,Glowpearl Adamant Of Spirits,276.00,398.09,374.00,109872.84,103224.00,0.00,213096.84
+19357,"Maeglodor, God of Thieves",Castle Village,49.93,Planar Mudtin Of Trolls,129.00,3067.17,405.79,395664.93,52346.91,224005.92,672017.76
+20219,Metalbrood,The Bloody Wand,15.97,Foulopal Copper Of The Skies,279.00,1787.91,403.00,498826.89,112437.00,97802.22,709066.11
+20314,Ironbrood,The Black Barrow of Bery,-0.10,Unspeakable Rotsoul Mithril Of Souls,139.00,272.80,485.85,37919.20,67533.15,0.00,105452.35
+20689,Dawn Darkzealot,The Black Barrow of Bery,-0.10,Greenlead,173.00,959.65,179.65,166019.45,31079.45,0.00,197098.90
+20835,Evilfear The Horrorific,The Hunter and Rose,44.44,Sapphire Mindlead,294.00,1307.71,51.70,384466.74,15199.80,175853.28,575519.82

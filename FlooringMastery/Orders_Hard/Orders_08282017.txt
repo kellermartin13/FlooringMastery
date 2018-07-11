@@ -1,0 +1,25 @@
+1376,Spikebrood The Disinterred,The Pirate's Pipe,16.00,Greenlead,130.00,721.00,134.97,93730.00,17546.10,17804.18,129080.28
+1873,Fate Seeker,Hartshill Ward,41.98,Violetdream Iron,373.00,1224.69,349.36,456809.37,130311.28,246590.67,833711.32
+1887,Rune Rougehate,Haukri's Hold,25.30,Stone Soulsteel Of The Skies,221.00,1634.80,12.01,361290.80,2654.21,90986.25,454931.26
+2706,Lightning Brand,The Cracked Chalice,2.29,Mana-touched Greenglitter Gold Of Giants,122.00,1173.98,425.00,143225.56,51850.00,3901.51,198977.07
+4510,Gravebone The Unspeakable,The Wizard's House,43.58,Foul Ice Bronze Of Life,222.00,-92.21,129.80,-20470.62,28815.60,3671.79,12016.77
+7224,Bedlam Spiritraven,Mahyrst Keep,25.14,Spectres' Shadowy Terrorglow Adamant Of Life,312.00,4694.80,205.50,1464777.60,64116.00,382223.40,1911117.00
+8000,Magus Felldrake,Grori's Deep,49.95,Meteoric Mirrormuck Orichalcum Of The Forests,255.00,2158.20,185.77,550341.00,47371.35,298856.18,896568.53
+9470,Clash Lonedrake,The Secret Catacombs of Ulfang the Black,42.90,Unicorns' Fatal Magma Metal Of The Ocean,133.00,1792.04,392.70,238341.32,52229.10,124945.28,415515.70
+9659,Chainblade The Cadaverous,North Arcanist's Farthing,45.60,Spectres' Shadowy Terrorglow Adamant Of Life,219.00,4694.80,205.50,1028161.20,45004.50,493656.22,1566821.92
+9998,"Gadriel, God of Resurrection",The Broken Shield,37.23,Djinni's Spectral Shadowlead Of Life,127.00,3705.90,325.62,470649.30,41353.74,189441.12,701444.16
+10595,Zeal Bladewitch,Haukri's Hold,27.83,Shadow Steel,64.00,4677.78,465.30,299377.92,29779.20,92163.99,421321.11
+12893,Flameshiver,The Grey Plains,19.97,Phantasmal Lead,169.00,-552.97,245.47,-93451.93,41484.43,-10393.50,-62361.00
+14146,Flora Amberslayer,The Bastion of the Lich Tyrant,43.00,Sprites' Transcendent Mud Lead Of The South,234.00,2081.80,321.86,487141.20,75315.24,241856.27,804312.71
+15348,Shadow Tomblion,Gili's Delve,-6.73,Djinni's Spectral Shadowlead Of Life,59.00,4076.49,325.62,240512.91,19211.58,-18180.71,241543.78
+15719,"Suriel, Lord of Animals",Gifeld Castle,6.22,Sphinxes' Unknown Poisongold Of The Future,328.00,3910.25,23.86,1282562.00,7826.08,77423.28,1367811.36
+15845,Bolttrap,The Glano Forest,3.00,Unknown Fatelightning Steel Of The Glacier,195.00,2441.05,65.68,476004.75,12807.60,14664.37,503476.72
+17097,Shadow Gust,The Cracked Chalice,2.52,Sprites' Transcendent Mud Lead Of The South,93.00,2081.80,321.86,193607.40,29932.98,6706.21,230246.59
+17565,Valentine Lawslayer,The Citadel of Alammius,3.85,Hidden Shadowice Lead,303.00,2729.00,-62.23,826887.00,-18855.69,32321.25,840352.56
+17829,Blazefreeze The Chiller,Dysley Stronghold,45.98,Trolls' Mist Poisonplatinum Of The Twilight,196.00,567.79,434.39,111286.84,85140.44,90356.55,286783.83
+18190,Bronzespawn,The Nulukkhath Spires,11.65,Poison Adamant,191.00,1266.52,64.44,241905.32,12308.04,30505.60,284718.96
+18283,Evilember The Firey,Dysley Stronghold,45.98,Phantasmal Plague Adamant,303.00,-204.63,-7.18,-62002.89,-2175.54,-29522.08,-93700.51
+20958,Lord Mystery,The Hunter and Rose,44.44,Fairies' Supreme Mistsmoke Lead Of The Future,127.00,3349.50,324.73,425386.50,41240.71,205315.97,671943.18
+21070,Dawn Darkzealot,Eved Castle,5.09,Planar Obsidian Mercury Of Wizards,356.00,2831.40,155.73,1007978.40,55439.88,53170.91,1116589.19
+21248,Springpulley The Binder,Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,183.00,370.41,35.21,67785.03,6443.43,19299.40,93527.86
+22321,Snarepiston The Mechanical,The Forsaken Delve of Lord Greywulf,42.90,Magicians' Legendary Poison Metal,322.00,2991.55,252.79,963279.10,81398.38,449211.32,1493888.80

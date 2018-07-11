@@ -1,0 +1,13 @@
+2857,Slayer Claw,Tradun Castle,31.13,Mithril Of The Tropics,289.00,3751.00,9.00,1084039.00,2601.00,336858.40,1423498.40
+3370,Maverick Wind,The Flying Witch,11.45,Ensorceled Sandmetal Of Spirits,306.00,2956.98,87.00,904835.88,26622.00,102460.37,1033918.25
+4040,Emberspawn,The Hunter and Rose,40.40,Spirits' Living Wordhammer Tin Of The Trees,269.00,4343.00,26.40,1168267.00,7101.60,470147.44,1645516.04
+5375,"Suriel, Lord of Animals",Ring District,35.00,Hell Mercury Of The East,293.00,4636.34,284.60,1358447.62,83387.80,504642.40,1946477.82
+6600,"Prusu, God of Love",Grove Farthing,18.00,Thunderbirds' Transcendent Dreamiron,228.00,2275.25,237.70,518757.00,54195.60,103131.47,676084.07
+7765,Clash Lonedrake,Barad Kesa,4.32,Heavenly Dreamsilver Of The Night,23.00,2009.68,112.00,46222.64,2576.00,1951.95,50750.59
+8418,Freezebrood,The Bastion of the Lich Tyrant,43.00,Planar Obsidian Mercury Of Wizards,133.00,2574.00,141.57,342342.00,18828.81,155303.45,516474.26
+8768,Lord Mystery,The Bastion of the Vampire Duke,19.28,Phantasmal Smokezephyr Mercury Of Men,200.00,-383.77,75.90,-76754.00,15180.00,-11699.06,-73273.06
+11994,Sephiroth Drakecaster,Gena's Hold,2.66,Litches' Fatal Mithril Of The Past,61.00,1327.98,369.05,81006.78,22512.05,3105.56,106624.39
+14791,Bane Veil,The Tower of Aramum,42.90,Unknown Fatelightning Steel Of The Glacier,196.00,2441.05,65.68,478445.80,12873.28,211267.20,702586.28
+16035,"Suriel, Lord of Animals",Fellfen Keep,61.53,God-touched Faterainbow Orichalcum Of Spectres,216.00,370.41,32.01,80008.56,6914.16,53892.09,140814.81
+16153,"Nelalwe, Lady of Fire",The Pilgrim's Cup,46.12,Thunderbirds' Transcendent Dreamiron,147.00,2275.25,237.70,334461.75,34941.90,169925.68,539329.33
+20575,"Nelalwe, Lady of Fire",North Arcanist's Farthing,55.18,Greenlead,30.00,959.65,179.65,28789.50,5389.50,18798.45,52977.45

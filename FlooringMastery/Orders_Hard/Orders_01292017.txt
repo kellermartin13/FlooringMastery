@@ -1,0 +1,14 @@
+1099,Dagger Reaper,The Cuitamba Jungle,28.00,Primordial False Gold,171.00,4459.34,226.00,762547.14,38646.00,224334.08,1025527.22
+1378,Wind Dire,Shainan's Hold,19.80,Phantasmal Plague Adamant,259.00,-186.03,-6.53,-48181.77,-1691.27,-9974.61,-59847.65
+2044,Maverick Wind,The Dancing Minstrel,21.20,Spirits' Living Wordhammer Tin Of The Trees,263.00,4343.00,26.40,1142209.00,6943.20,241321.96,1390474.16
+5429,Spikecrank,Bergfison's Deep,36.00,Vampires' Hammer Emeraldmetal,250.00,379.45,25.84,94862.50,6460.00,36476.10,137798.60
+6398,Wheelspawn,Noble's Village,27.50,Timeiron,162.00,1596.00,228.33,258552.00,36989.46,82751.61,378293.07
+7016,Nettool The Grasping,The Lost Crypts of Sorrows,35.87,Djinni's Mind Fogiron,356.00,2301.02,74.02,819163.12,26351.12,304385.13,1149899.37
+8378,"Gono, Goddess of the Earth",Grori's Deep,49.95,Primordial Mud Orichalcum,129.00,-387.90,77.37,-50039.10,9980.73,-20029.18,-60087.55
+10714,Spikerivet,The Citadel of Lord Greywulf,33.04,Stone Soulsteel Of The Skies,69.00,1798.28,13.21,124081.32,911.49,41247.63,166240.44
+11277,Rose Anchor,Ring District,35.00,Ghostly Soul Adamant,36.00,3222.96,229.53,116026.56,8263.08,43501.37,167791.01
+12691,Bane Veil,Archtemple District,27.76,Primordial Plague Mercury Of Legend,20.00,452.29,301.29,9045.80,6025.80,4220.05,19291.65
+13461,Bolttrap,The Pilgrim's Cup,46.12,Sphinxes' Mistsoul Bronze Of The Past,227.00,2169.81,202.07,492546.87,45869.89,247671.71,786088.47
+14694,Nettool The Grasping,The Archer and Scroll,39.60,Swordbronze,328.00,1485.01,447.01,487083.28,146619.28,253481.02,887183.58
+19216,Blazeflare The Cremator,The Citadel of Tattena the Sinister,13.34,Ghostly Soul Adamant,214.00,3222.96,229.53,689713.44,49119.42,96048.27,834881.13
+19259,Boltcrank The Trapper,The Citadel of Tattena the Sinister,13.34,Mind Lead,350.00,3442.09,374.01,1204731.50,130903.50,173632.55,1509267.55

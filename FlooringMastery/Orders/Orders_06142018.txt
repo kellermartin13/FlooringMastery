@@ -1,0 +1,11 @@
+897,Florence "Leather Doc" Grant,OK,2.00,Leather,47.00,10.00,15.00,470.00,705.00,23.50,1198.50
+3482,Ida Russell "the Rustler",NV,0.25,Pinecones,188.00,1.50,2.20,282.00,413.60,0.00,695.60
+4401,Jo "the Joker",ND,1.25,Reeds,124.00,0.75,2.20,93.00,272.80,3.66,369.46
+7284,Vicki "Mesa" Rhodes,NM,2.20,Reeds,178.00,0.75,2.20,133.50,391.60,10.50,535.60
+7627,Vengeful Robertson,KS,0.50,Dirt,276.00,0.50,1.00,138.00,276.00,0.00,414.00
+8381,Tammy Carlson "the Killer",ID,0.00,Beechwood,112.00,3.00,5.50,336.00,616.00,0.00,952.00
+8823,Susan "Damnation" Fleming,AR,2.20,Beechwood,145.00,3.00,5.50,435.00,797.50,24.65,1257.15
+11812,Amanda Hart "the Loner",UT,0.00,Dirt,142.00,0.50,1.00,71.00,142.00,0.00,213.00
+16444,Evelyn "Evil Joker" Taylor,IA,1.21,Brick,197.00,5.32,6.66,1048.04,1312.02,23.60,2383.66
+21150,Lorraine "Utah" Adams,CA,0.67,Beechwood,219.00,3.63,6.05,794.97,1324.95,21.20,2141.12
+21714,Joanne "Damned" Miles,UT,0.00,Leather,222.00,11.00,19.97,2442.00,4433.34,0.00,6875.34

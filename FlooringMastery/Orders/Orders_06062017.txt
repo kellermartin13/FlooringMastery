@@ -1,0 +1,18 @@
+1373,Maureen "Cursed" Andrews,WY,0.25,Pebbles,259.00,0.80,4.40,207.20,1139.60,0.00,1346.80
+7681,Wilma "Tornado" Brooks,NM,2.20,Packed Dirt,236.00,1.00,1.50,236.00,354.00,11.80,601.80
+9366,Beth "Fortunate Shooter" Powell,ID,0.00,Reeds,164.00,0.75,2.20,123.00,360.80,0.00,483.80
+10625,Beth "Fortunate Shooter" Powell,KS,0.55,Pebbles,278.00,0.88,4.84,244.64,1345.52,15.90,1606.06
+12852,Elizabeth "the Bully",CA,0.61,Solid Oak,83.00,5.50,5.50,456.50,456.50,9.13,922.13
+12971,Vicki "Mesa" Rhodes,NV,0.31,Beechwood,149.00,3.30,5.50,491.70,819.50,0.00,1311.20
+16386,Cathy "Wildfire" Neal,MS,3.00,Beechwood,322.00,3.63,5.50,1168.86,1771.00,88.20,3028.06
+16407,Cynthia "the Vixen",AL,1.00,Leather,153.00,11.00,19.97,1683.00,3055.41,47.38,4785.79
+17340,Maureen "Cursed" Andrews,TX,0.67,Beechwood,78.00,3.63,5.50,283.14,429.00,7.12,719.26
+18031,Gladys "Locoweed" Keller,IA,1.21,Reeds,99.00,0.83,2.20,82.17,217.80,3.00,302.97
+18139,Victoria "the Dancer",MT,3.99,Reeds,247.00,0.83,2.20,205.01,543.40,29.94,778.35
+18157,Dorothy "the Hunter",AR,2.20,Dirt,203.00,0.50,1.00,101.50,203.00,6.09,310.59
+18770,Gladys "Locoweed" Keller,ND,1.67,Pinecones,310.00,1.50,2.66,465.00,824.60,25.79,1315.39
+19682,Vengeful Montgomery,OK,2.42,Beechwood,217.00,3.63,6.05,787.71,1312.85,42.01,2142.57
+19751,April "Thunderbird" Dunn,OK,2.42,Leather,292.00,11.00,19.97,3212.00,5831.24,180.86,9224.10
+20539,Lorraine "Utah" Adams,IA,1.33,Brick,278.00,5.32,6.66,1478.96,1851.48,33.30,3363.74
+20909,Vengeful Montgomery,KS,0.55,Pebbles,250.00,0.88,4.84,220.00,1210.00,14.30,1444.30
+21848,Julia "Bandit" Chandler,AR,2.20,Packed Dirt,145.00,1.10,2.42,159.50,350.90,10.21,520.61

@@ -1,0 +1,15 @@
+504,Maureen "Cursed" Andrews,MT,3.00,Packed Dirt,251.00,1.00,1.50,251.00,376.50,18.82,646.32
+1291,April "Thunderbird" Dunn,AR,2.20,Pinecones,330.00,1.50,2.00,495.00,660.00,23.10,1178.10
+1400,Victoria "the Dancer",UT,0.00,Solid Oak,312.00,5.00,5.00,1560.00,1560.00,0.00,3120.00
+1676,Gloria "Devil" McCoy,KS,0.50,Brick,283.00,4.00,5.00,1132.00,1415.00,0.00,2547.00
+4535,Ida Russell "the Rustler",AL,1.00,Brick,104.00,4.40,5.50,457.60,572.00,10.30,1039.90
+4878,"Doom" McCoy,WY,0.31,Pebbles,249.00,0.80,4.40,199.20,1095.60,0.00,1294.80
+6865,Debra "Scorpion" Lane,MT,3.00,Beechwood,157.00,3.00,5.00,471.00,785.00,37.68,1293.68
+8310,Jacqueline "Riding Doc" Washington,WY,0.31,Brick,190.00,4.84,6.66,919.60,1265.40,0.00,2185.00
+10196,Heather "Tornado" Newman,KS,0.55,Pebbles,302.00,0.88,4.84,265.76,1461.68,17.27,1744.71
+16826,Vengeful Robertson,TX,0.67,Reeds,177.00,0.83,2.20,146.91,389.40,5.36,541.67
+16944,Lucky Johnson,AR,2.20,Beechwood,153.00,3.63,5.50,555.39,841.50,27.94,1424.83
+17111,Joanne "Damned" Miles,AR,2.20,Pinecones,77.00,1.50,2.66,115.50,204.82,6.41,326.73
+19005,Jo "the Joker",ND,1.67,Cedar Planks,197.00,2.20,6.66,433.40,1312.02,34.91,1780.33
+22240,Allison "Steel Gravedigger" Douglas,ID,0.00,Cedar Planks,275.00,2.20,6.66,605.00,1831.50,0.00,2436.50
+22720,Deborah "the Lady",TX,0.67,Solid Oak,307.00,5.50,6.66,1688.50,2044.62,37.33,3770.45

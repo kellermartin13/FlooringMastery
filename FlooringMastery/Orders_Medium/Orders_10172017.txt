@@ -1,0 +1,14 @@
+2235,Cathy "Loner Demon" Murray,IA,1.00,Pebbles,382.00,0.80,4.40,305.60,1680.80,19.86,2006.26
+6637,Evelyn "Evil Joker" Taylor,NM,2.20,Pebbles,126.00,0.80,4.84,100.80,609.84,14.21,724.85
+6696,Tammy Carlson "the Killer",MO,2.20,Pebbles,252.00,0.80,4.84,201.60,1219.68,28.43,1449.71
+8115,Heather "Tornado" Newman,MS,3.00,Dirt,327.00,0.50,1.00,163.50,327.00,14.72,505.22
+9744,Cynthia "the Vixen",AL,1.00,Cedar Planks,157.00,2.20,6.05,345.40,949.85,12.95,1308.20
+10191,Deborah "the Lady",UT,0.00,Cedar Planks,230.00,2.20,6.05,506.00,1391.50,0.00,1897.50
+10822,Vengeful Robertson,KS,0.55,Solid Oak,320.00,5.50,5.50,1760.00,1760.00,35.20,3555.20
+11730,Susan "Damnation" Fleming,AL,1.00,Dirt,132.00,0.50,1.00,66.00,132.00,1.98,199.98
+11928,Susan "Damnation" Fleming,ID,0.00,Brick,346.00,4.84,6.66,1674.64,2304.36,0.00,3979.00
+20354,"Scalphunter" Kennedy,MT,4.39,Packed Dirt,159.00,1.10,2.42,174.90,384.78,22.39,582.07
+21695,Dorothy "the Hunter",MT,5.31,Dirt,263.00,0.55,1.00,144.65,263.00,20.38,428.03
+22281,Tammy Carlson "the Killer",MS,3.00,Beechwood,200.00,3.63,6.05,726.00,1210.00,58.08,1994.08
+22316,Theresa "Scalphunter" Romero,MT,5.84,Pebbles,128.00,0.88,4.84,112.64,619.52,43.93,776.09
+22644,Diana "Mistress" Morgan,CA,0.67,Leather,87.00,11.00,19.97,957.00,1737.39,26.94,2721.33

@@ -1,0 +1,17 @@
+1440,Evilember The Firey,The Tomb of Hellish Ruin,14.00,Ensorceled Sandmetal Of Spirits,266.00,2956.98,87.00,786556.68,23142.00,113357.82,923056.50
+1869,Sunset Knightclaw,The Dancing Minstrel,21.20,Stone Soulsteel Of The Skies,100.00,1634.80,12.01,163480.00,1201.00,34583.01,199264.01
+1999,Freezebrood,Tower Farthing,22.41,Magicians' Legendary Poison Metal,196.00,2043.26,229.81,400478.96,45042.76,98014.78,543536.50
+2251,Lance Knightseraph,The Tomb of Hellish Ruin,14.00,Planar Mudtin Of Trolls,264.00,2094.92,335.36,553058.88,88535.04,89823.15,731417.07
+3522,Springsprocket,Gawold Castle,5.00,Evilsilver,171.00,1486.85,79.86,254251.35,13656.06,13395.37,281302.78
+3640,Bedlam Spiritraven,The Forsaken Hive of Galima the Mighty,22.45,Mistgold Of Men,277.00,3065.71,44.00,849201.67,12188.00,189505.73,1050895.40
+5309,"Selik, God of Death",The Warrior and Flagon,48.40,Primordial Plague Mercury Of Legend,212.00,339.81,273.90,72039.72,58066.80,62451.13,192557.65
+9634,Evilember The Firey,Tower Farthing,27.12,Ghostly Magic Adamant,237.00,4836.38,230.90,1146222.06,54723.30,324255.25,1525200.61
+9756,Metalghoul,Lamp Borough,4.95,Spirits' Living Wordhammer Tin Of The Trees,45.00,4777.30,26.40,214978.50,1188.00,10808.32,226974.82
+10929,Emberspawn,The Dungeon of Merciless Woe,38.62,Tin Of The Tundra,122.00,2839.87,174.91,346464.14,21339.02,143443.23,511246.39
+11885,Spiketerror The Skeletal,The Broken Arrow,30.07,Lycanthropes' Gold,163.00,4846.18,66.14,789927.34,10780.82,240212.45,1040920.61
+12442,"Selik, God of Death",Castle Village,37.51,Toxin Iceplatinum Of The Undead,257.00,-377.06,-59.29,-96904.42,-15237.53,-42613.94,-154755.89
+13222,"Gadriel, God of Resurrection",The Warrior and Flagon,53.24,Sapphire Mindlead,149.00,1307.71,47.00,194848.79,7003.00,106981.45,308833.24
+15112,Fate Seeker,The Dark Caverns of Woe,3.29,Heavenly Dreamsilver Of The Night,168.00,2009.68,112.00,337626.24,18816.00,10693.27,367135.51
+16111,Valentine Lawslayer,Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,137.00,370.41,32.01,50746.17,4385.37,14334.20,69465.74
+19679,"Ingwenel, God of War",The Pirate's Pipe,17.60,Ghostly Soul Adamant,332.00,3222.96,229.53,1070022.72,76203.96,206320.80,1352547.48
+20008,Blazefreeze The Chiller,The Desert of Flames,57.10,Djinni's Mind Fogiron,315.00,2531.12,98.52,797302.80,31033.80,472151.86,1300488.46

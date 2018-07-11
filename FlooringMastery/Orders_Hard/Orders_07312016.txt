@@ -1,0 +1,19 @@
+971,"Uriel, God of Fate",The Barrow of Malefic Ages,17.91,Sapphire Mindlead,99.00,1307.71,47.00,129463.29,4653.00,24140.93,158257.22
+1494,Zeal Bladewitch,The Pirate's Pipe,16.00,Unicorns' Fatal Magma Metal Of The Ocean,279.00,1792.04,357.00,499979.16,99603.00,95933.15,695515.31
+2135,Rune Rougehate,The Dancing Minstrel,21.20,Magicians' Legendary Poison Metal,1.00,2043.26,229.81,2043.26,229.81,477.34,2750.41
+3548,"Prusu, God of Love",The Flying Witch,11.45,Negative Rockglitter Mercury Of Trolls,299.00,1349.00,423.07,403351.00,126497.93,58283.38,588132.31
+4651,Deathspike The Terrifying,Archring Borough,17.93,Mithril Of Legend,295.00,2068.00,63.01,610060.00,18587.95,113156.63,741804.58
+5021,Spiketerror The Skeletal,The Scoundrel and Flask,-4.58,Otherworldly Mirror Orichalcum,137.00,-247.00,478.50,-33839.00,65554.50,-1585.78,30129.72
+6031,Bolttrap,The Secret Shrine of the Gargoyle Count,-2.00,Glowpearl Adamant Of Spirits,96.00,361.90,374.00,34742.40,35904.00,-1412.93,69233.47
+11952,Rouge Roguemist,The Forsaken Tomb of Devastation,0.00,Fairies' Supreme Mistsmoke Lead Of The Future,355.00,3349.50,324.73,1189072.50,115279.15,0.00,1304351.65
+13269,Bedlam Spiritraven,The Citadel of Alammius,3.50,Sapphire Mindlead,317.00,1307.71,47.00,414544.07,14899.00,17177.72,446620.79
+14813,Maverick Wind,The Citadel of Lord Greywulf,33.04,Phantasmal Tin Of The Swamps,271.00,4929.54,-7.26,1335905.34,-1967.46,440199.50,1774137.38
+14844,Lightning Brand,Grori's Deep,60.45,Ghostly Soul Adamant,169.00,3222.96,229.53,544680.24,38790.57,350082.49,933553.30
+15866,Chainhorror,Lamp Borough,4.95,Incubi's Iron Of The Dawn,122.00,1200.96,424.31,146517.12,51765.82,9914.15,208197.09
+16199,"Alik, Goddess of Trickery",The Pilgrim's Cup,46.12,Sirens' Rockgold,341.00,-352.01,199.96,-120035.41,68186.36,-23850.56,-75699.61
+16966,Magus Felldrake,The Cracked Chalice,2.52,Succubi's Evil Mindzephyr Adamant Of The Desert,301.00,2189.18,250.07,658943.18,75271.07,22026.43,756240.68
+17186,Spikerivet,Khali's Delve,52.71,Incubi's Glittering Tin Of The Future,172.00,3349.54,87.85,576120.88,15110.20,313352.47,904583.55
+17206,Wind Dire,Lamp Borough,4.95,Fog Lavaplatinum Of Life,134.00,1078.00,18.70,144452.00,2505.80,7347.89,154305.69
+18565,Lance Knightseraph,Mahyrst Keep,30.42,Primal Adamant,111.00,5520.99,331.42,612829.89,36787.62,194885.25,844502.76
+21408,Emberspawn,The Cuitamba Jungle,33.88,Sphinxes' Opalpearl Platinum Of Legend,45.00,5805.82,429.89,261261.90,19345.05,95406.36,376013.31
+22229,Song Runetomb,Gili's Delve,-6.73,Yellow Mistearth Copper,75.00,5536.45,-33.15,415233.75,-2486.25,-28892.32,383855.18

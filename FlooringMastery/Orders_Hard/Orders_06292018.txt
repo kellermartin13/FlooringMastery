@@ -1,0 +1,14 @@
+2377,Cinderflame,The Bastion of the Lich Tyrant,43.00,Primal Adamant,191.00,4562.80,249.00,871494.80,47559.00,395193.13,1314246.93
+6047,Spikespawn,Kada's Deep,33.00,Pearl Mirrorice Steel Of Changelings,211.00,271.51,38.07,57288.61,8032.77,21556.06,86877.44
+9128,"Ahah, Goddess of Knowledge",The Beggar and Cask,23.10,White Platinum,220.00,-52.59,145.00,-11569.80,31900.00,4675.95,25006.15
+9200,Maverick Wind,The Nulukkhath Spires,10.59,Djinni's Evil Sandobsidian Steel Of The Future,149.00,3826.00,157.07,570074.00,23403.43,65282.52,658759.95
+10033,Rouge Roguemist,The Tomb of Hellish Ruin,16.94,Djinni's Spectral Shadowlead Of Life,129.00,3705.90,325.62,478061.10,42004.98,88411.23,608477.31
+10568,"Ariel, God of Luck",The Dismal Marsh,6.05,Glowpearl Adamant Of Spirits,251.00,398.09,374.00,99920.59,93874.00,11627.68,205422.27
+11382,Seraphim Tsunami,Shainan's Hold,23.96,Heavenly Dreamsilver Of The Night,271.00,2009.68,112.00,544623.28,30352.00,137994.07,712969.35
+12157,Shadow Gust,Shainan's Hold,23.96,Phantasmal Smokezephyr Mercury Of Men,54.00,-422.15,75.90,-22796.10,4098.60,-4487.40,-23184.90
+13245,Storm Seraphheart,The Lost Crypts of Sorrows,35.87,Muck Orichalcum Of Ogres,203.00,3426.85,364.95,695650.55,74084.85,277104.74,1046840.14
+13517,Blazefreeze The Chiller,Eved Castle,5.09,Negative Mercury,193.00,4054.87,436.81,782589.91,84304.33,43344.71,910238.95
+14013,Cult Godseeker,Grove Farthing,19.80,Shadowhell Mithril,216.00,483.15,286.41,104360.40,61864.56,33244.99,199469.95
+15212,Flora Amberslayer,The Cracked Chalice,2.52,Lunar Bronze,296.00,753.86,337.70,223142.56,99959.20,9693.05,332794.81
+20945,"Melcha, Goddess of Thieves",Eved Castle,5.09,Djinni's Evil Sandobsidian Steel Of The Future,200.00,4208.60,172.78,841720.00,34556.00,43813.80,920089.80
+22028,Beamsprocket The Grasping,The Beggar and Cask,25.41,Sprites' Transcendent Mud Lead Of The South,216.00,2081.80,321.86,449668.80,69521.76,129797.64,648988.20

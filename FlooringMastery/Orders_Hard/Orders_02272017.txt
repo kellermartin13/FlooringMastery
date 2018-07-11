@@ -1,0 +1,24 @@
+712,Evilember The Firey,Arcanist's Farthing,3.00,Legendary Mithril Of The Moon,223.00,2461.00,104.00,548803.00,23192.00,17159.85,589154.85
+1308,Freezebrood,The Barrow of Malefic Ages,17.91,White Platinum,187.00,-47.81,145.00,-8940.47,27115.00,3271.42,21445.95
+2269,Clash Lonedrake,The Dancing Minstrel,21.20,Spirits' Living Wordhammer Tin Of The Trees,209.00,4343.00,26.40,907687.00,5517.60,191772.97,1104977.57
+2872,Evilcoil The Machine,Kada's Deep,30.00,Violetdream Iron,218.00,1224.69,349.36,266982.42,76160.48,102942.87,446085.77
+3436,Tarot Dawn,The Tower of Sabiesu the Awesome,4.40,Planar Mudtin Of Trolls,292.00,2304.41,335.36,672887.72,97925.12,30832.51,801645.35
+4049,Mecharig The Living Device,Grori's Deep,45.41,Ensorceled Sandmetal Of Spirits,185.00,2956.98,87.00,547041.30,16095.00,253411.34,816547.64
+4360,Storm Squallmourner,The Wizard's House,43.58,Sphinxes' Mistsoul Bronze Of The Past,195.00,1793.23,183.70,349679.85,35821.50,169620.59,555121.94
+4569,Shadow Tomblion,Love Keep,7.00,Vampires' Fang Emeraldsilver,68.00,2283.46,455.55,155275.28,30977.40,13037.69,199290.37
+4831,Emberspawn,Archring Borough,17.93,Sphinxes' Unknown Poisongold Of The Future,366.00,3554.77,23.86,1301045.82,8732.76,235760.14,1545538.72
+6699,Rouge Tombreaper,Grove Farthing,18.00,Magic Adamant,262.00,1838.00,207.64,481556.00,54401.68,96472.38,632430.06
+6970,Springpulley The Binder,Mahyrst Keep,25.14,Hell Mercury Of The East,182.00,4636.34,284.60,843813.88,51797.20,223902.77,1119513.85
+8803,Jericho Wolf,The Bastion of the Vampire Duke,19.28,Foul Ice Bronze Of Life,240.00,-92.21,129.80,-22130.40,31152.00,1714.10,10735.70
+11809,Shadow Gust,The Barrow of Malefic Ages,17.91,Unicorns' Fatal Magma Metal Of The Ocean,59.00,1971.24,392.70,116303.16,23169.30,25105.04,164577.50
+11904,"Melcha, Goddess of Thieves",The Barrow of Malefic Ages,17.91,Meteoric Dustzephyr Orichalcum,213.00,375.00,268.49,79875.00,57188.37,24671.41,161734.78
+13592,Scarefear The Blade,The Warrior and Flagon,53.24,Ghostly Soul Adamant,134.00,3222.96,229.53,431876.64,30757.02,245195.84,707829.50
+14192,Zeal Bladewitch,The Citadel of Lord Greywulf,33.04,Pearl Mirrorice Steel Of Changelings,314.00,298.66,41.88,93779.24,13150.32,35286.75,142216.31
+15525,Nettool The Grasping,The Fortress of Asmamur,-4.93,Unicorns' Fatal Magma Metal Of The Ocean,159.00,2168.36,431.97,344769.24,68683.23,-20672.62,392779.85
+15526,Springcoil,The Glano Forest,3.00,Unspeakable Rotsoul Mithril Of Souls,237.00,248.00,401.53,58776.00,95162.61,4618.16,158556.77
+17712,Dawn Darkzealot,The Citadel of Alammius,3.85,Witchs' Forbidden Rockrainbow Bronze,345.00,655.60,425.92,226182.00,146942.40,14924.98,388049.38
+18016,"Alik, Goddess of Trickery",Dysley Stronghold,45.98,God-touched Faterainbow Orichalcum Of Spectres,288.00,370.41,32.01,106678.08,9218.88,53312.60,169209.56
+18793,Song Runetomb,The Demon and Toad,28.74,Starlight Pearldream Bronze,249.00,322.10,147.40,80202.90,36702.60,33902.60,150808.10
+19994,Burnchill The Evil,Boiaburh Keep,17.60,Rainbowglitter Tin,145.00,5957.39,213.40,863821.55,30943.00,161057.62,1055822.17
+20263,Cinderflame,Weke Tower,-0.07,Grayplatinum,216.00,3032.59,306.97,655039.44,66305.52,0.00,721344.96
+23249,Harmony Angelchild,Bergfison's Deep,57.98,Unknowable Mindsilver,245.00,4313.65,402.60,1056844.25,98637.00,670179.12,1825660.37

@@ -1,0 +1,18 @@
+67,Seraphim Tsunami,Pewold Keep,16.95,Incubi's Iron Of The Dawn,202.00,1091.78,385.74,220539.56,77919.48,50738.04,349197.08
+123,Springsprocket,Gena's Hold,2.00,Planar Obsidian Mercury Of Wizards,185.00,2574.00,117.00,476190.00,21645.00,9956.70,507791.70
+595,Cult Godseeker,The Citadel of Cheno,5.00,Trolls' Mist Poisonplatinum Of The Twilight,116.00,516.17,394.90,59875.72,45808.40,5284.21,110968.33
+1046,Gale Jackalguard,Lamp Borough,4.95,Muck Orichalcum Of Ogres,167.00,3115.32,274.19,520258.44,45789.73,28302.41,594350.58
+1650,Song Runetomb,The Lazy Sage,15.00,Ensorceled Sandmetal Of Spirits,258.00,2956.98,87.00,762900.84,22446.00,117802.03,903148.87
+2654,Seraphim Tsunami,The Grey Plains,18.15,Negative Mercury,214.00,4054.87,361.00,867742.18,77254.00,170099.31,1115095.49
+2915,Burnbrood The Freezer,The Desert of Flames,39.00,Swordbronze,266.00,1350.01,447.01,359102.66,118904.66,186422.85,664430.17
+4156,Song Runetomb,Barad Cune,26.00,Spirits' Living Wordhammer Tin Of The Trees,178.00,4343.00,26.40,773054.00,4699.20,202215.83,979969.03
+5456,Tarot Dawn,The Cuitamba Jungle,28.00,Negative Rockglitter Mercury Of Trolls,183.00,1483.90,423.07,271553.70,77421.81,97713.14,446688.65
+6881,"Ariel, God of Luck",Barad Kesa,4.32,Djinni's Mind Fogiron,98.00,2301.02,74.02,225499.96,7253.96,9310.16,242064.08
+8301,"Eumyan, Goddess of Law",The Broken Arrow,30.07,Djinni's Spectral Shadowlead Of Life,242.00,3705.90,296.02,896827.80,71636.84,290539.39,1259004.03
+8467,Bedlam Spiritraven,Lacot Stronghold,33.97,Planar Obsidian Mercury Of Wizards,296.00,2574.00,141.57,761904.00,41904.72,273294.96,1077103.68
+8787,"Maglioneth, Lord of the Sun",The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,296.00,3773.99,269.83,1117101.04,79869.68,215454.73,1412425.45
+9886,"Alas, Lord of Plague",The Bloody Wand,12.00,Ensorceled Gold Of The Dawn,347.00,5713.98,402.92,1982751.06,139813.24,254707.72,2377272.02
+11220,Sunset Knightclaw,Lacot Stronghold,37.37,Emerald Orichalcum,223.00,-368.87,128.90,-82258.01,28744.70,-19799.92,-73313.23
+15189,"Maglioneth, Lord of the Sun",The Forsaken Sepulcher of Sorrows,53.67,Grayplatinum,175.00,2506.27,306.97,438597.25,53719.75,265851.18,758168.18
+16921,Dawn Darkzealot,The Temple of Merciless Necromancy,50.94,Djinni's Evil Sandobsidian Steel Of The Future,166.00,4208.60,172.78,698627.60,28681.48,370927.63,1098236.71
+18481,"Ingwenel, God of War",The Lewd King,32.67,Mana-touched Greenglitter Gold Of Giants,147.00,1291.38,514.25,189832.86,75594.75,87591.11,353018.72

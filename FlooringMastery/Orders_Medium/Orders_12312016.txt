@@ -1,0 +1,17 @@
+88,Darlene "Loner" Ford,IA,1.00,Solid Oak,82.00,5.00,5.00,410.00,410.00,8.20,828.20
+2978,Heather "Friendly Gambler" Barrett,CA,0.55,Solid Oak,69.00,5.50,5.00,379.50,345.00,7.24,731.74
+3137,Tina "Lady" Anderson,KS,0.50,Pebbles,127.00,0.80,4.40,101.60,558.80,0.00,660.40
+3270,Joanne "Damned" Miles,NM,2.20,Pinecones,127.00,1.50,2.20,190.50,279.40,9.40,479.30
+4742,Wilma "Tornado" Brooks,WY,0.31,Reeds,184.00,0.75,2.20,138.00,404.80,0.00,542.80
+7081,Jacqueline "Riding Doc" Washington,AR,2.20,Beechwood,110.00,3.00,5.00,330.00,550.00,17.60,897.60
+7818,Elizabeth "the Bully",TX,0.50,Cedar Planks,143.00,2.20,6.05,314.60,865.15,0.00,1179.75
+8519,Dorothy "the Hunter",IA,1.21,Brick,249.00,4.84,6.66,1205.16,1658.34,28.64,2892.14
+9855,Gladys "Locoweed" Keller,TX,0.55,Reeds,176.00,0.75,2.20,132.00,387.20,5.19,524.39
+11296,Cathy "Loner Demon" Murray,ID,0.00,Cedar Planks,167.00,2.20,6.05,367.40,1010.35,0.00,1377.75
+14196,Deborah "the Lady",WY,0.31,Brick,141.00,5.32,6.66,750.12,939.06,0.00,1689.18
+15116,Tammy Carlson "the Killer",MT,3.99,Beechwood,213.00,3.63,5.50,773.19,1171.50,77.79,2022.48
+17051,Elizabeth "the Bully",AL,1.00,Cedar Planks,229.00,2.20,6.05,503.80,1385.45,18.89,1908.14
+18240,Dorothy "the Hunter",NM,2.93,Packed Dirt,256.00,1.10,2.20,281.60,563.20,25.34,870.14
+19390,Vengeful Montgomery,ID,0.00,Reeds,293.00,0.83,2.20,243.19,644.60,0.00,887.79
+22892,Gloria "Devil" McCoy,OK,2.93,Leather,270.00,11.00,19.97,2970.00,5391.90,250.86,8612.76
+22987,Gloria "Devil" McCoy,AR,2.20,Packed Dirt,90.00,1.10,2.42,99.00,217.80,6.34,323.14

@@ -1,0 +1,20 @@
+2676,Jacqueline "Riding Doc" Washington,ND,1.25,Dirt,77.00,0.50,1.00,38.50,77.00,1.16,116.66
+7196,Dorothy "the Hunter",NM,2.20,Beechwood,58.00,3.00,5.00,174.00,290.00,9.28,473.28
+7563,Dorothy "the Hunter",UT,0.00,Packed Dirt,142.00,1.00,1.50,142.00,213.00,0.00,355.00
+9050,Jo "the Joker",IA,1.21,Brick,219.00,4.84,6.66,1059.96,1458.54,25.18,2543.68
+9796,Cathy "Wildfire" Neal,NM,2.20,Pinecones,201.00,1.50,2.66,301.50,534.66,16.72,852.88
+10093,Jacqueline "Riding Doc" Washington,NV,0.31,Leather,326.00,10.00,18.15,3260.00,5916.90,0.00,9176.90
+10192,Cathy "Wildfire" Neal,MO,2.20,Brick,218.00,4.84,6.66,1055.12,1451.88,50.14,2557.14
+11612,Lena Chapman "the Bully",CA,0.61,Cedar Planks,344.00,2.20,6.05,756.80,2081.20,28.38,2866.38
+12005,Julia "Bandit" Chandler,UT,0.00,Packed Dirt,207.00,1.00,1.65,207.00,341.55,0.00,548.55
+12756,Stella "the Bully",NM,2.42,Brick,281.00,4.84,6.66,1360.04,1871.46,64.63,3296.13
+14776,Darlene "Loner" Ford,MO,2.20,Leather,267.00,11.00,18.15,2937.00,4846.05,155.66,7938.71
+15500,"Scalphunter" Kennedy,MT,3.99,Leather,299.00,11.00,18.15,3289.00,5426.85,348.63,9064.48
+15649,Geraldine "Revenge" Warren,AL,1.00,Pebbles,278.00,0.88,4.84,244.64,1345.52,15.90,1606.06
+18378,Surgeon Grant,AL,1.00,Pinecones,147.00,1.50,2.66,220.50,391.02,6.12,617.64
+19456,"Scalphunter" Kennedy,CA,0.67,Cedar Planks,188.00,2.20,6.66,413.60,1252.08,16.66,1682.34
+19739,Gladys "Locoweed" Keller,AR,2.20,Reeds,124.00,0.83,2.20,102.92,272.80,7.51,383.23
+20037,Theresa "Scalphunter" Romero,ND,1.67,Dirt,203.00,0.50,1.00,101.50,203.00,6.09,310.59
+20331,Ida Russell "the Rustler",NV,0.31,Solid Oak,107.00,5.50,6.66,588.50,712.62,0.00,1301.12
+22159,Amanda Hart "the Loner",MT,5.84,Solid Oak,233.00,5.50,6.66,1281.50,1551.78,170.00,3003.28
+23471,Darlene "Loner" Ford,OK,2.93,Brick,79.00,5.32,6.66,420.28,526.14,28.39,974.81

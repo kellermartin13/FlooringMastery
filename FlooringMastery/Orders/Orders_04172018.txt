@@ -1,0 +1,16 @@
+2714,Florence "Leather Doc" Grant,WY,0.28,Beechwood,78.00,3.00,5.00,234.00,390.00,0.00,624.00
+3673,Beth "Fortunate Shooter" Powell,UT,0.00,Leather,139.00,10.00,16.50,1390.00,2293.50,0.00,3683.50
+9035,Heather "Tornado" Newman,KS,0.50,Beechwood,204.00,3.00,5.50,612.00,1122.00,0.00,1734.00
+10404,Renee "Loco Tracker" Jordan,AL,1.00,Leather,222.00,10.00,18.15,2220.00,4029.30,62.49,6311.79
+11384,Mabel "Vixen Cursed" King,IA,1.21,Cedar Planks,332.00,2.20,6.05,730.40,2008.60,27.39,2766.39
+11458,"Scalphunter" Kennedy,AR,2.20,Brick,248.00,4.84,6.66,1200.32,1651.68,57.04,2909.04
+11981,Theresa "Scalphunter" Romero,MS,3.00,Leather,194.00,10.00,18.15,1940.00,3521.10,163.83,5624.93
+12743,Debra "Scorpion" Lane,WY,0.31,Brick,155.00,4.84,6.66,750.20,1032.30,0.00,1782.50
+12898,Cathy "Loner Demon" Murray,NV,0.31,Solid Oak,361.00,5.50,5.50,1985.50,1985.50,0.00,3971.00
+13194,Vicki "Mesa" Rhodes,UT,0.00,Pinecones,321.00,1.50,2.66,481.50,853.86,0.00,1335.36
+14950,Cynthia "the Vixen",MS,3.00,Pebbles,267.00,0.88,4.84,234.96,1292.28,45.82,1573.06
+18073,Cynthia "the Vixen",CA,0.61,Beechwood,149.00,3.63,5.50,540.87,819.50,13.60,1373.97
+18986,Ida Russell "the Rustler",NV,0.31,Reeds,210.00,0.83,2.20,174.30,462.00,0.00,636.30
+19514,Theresa "Kid" Robinson,AR,2.20,Packed Dirt,293.00,1.10,2.42,322.30,709.06,20.63,1051.99
+20536,Victoria "the Dancer",NM,2.93,Packed Dirt,29.00,1.10,2.42,31.90,70.18,3.06,105.14
+22760,Cathy "Loner Demon" Murray,ID,0.00,Reeds,274.00,0.91,2.42,249.34,663.08,0.00,912.42

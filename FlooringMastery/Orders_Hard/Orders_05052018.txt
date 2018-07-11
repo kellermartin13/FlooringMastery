@@ -1,0 +1,16 @@
+65,"Melcha, Goddess of Thieves",The Grey Plains,18.15,Green Dustlightning Mercury,181.00,3517.00,32.00,636577.00,5792.00,115626.42,757995.42
+269,Sunrise Godwarlock,Waleah Castle,0.77,Magicians' Legendary Poison Metal,100.00,2043.26,208.92,204326.00,20892.00,2252.18,227470.18
+507,Tarot Dawn,Arcanist's Farthing,3.00,Succubi's Evil Mindzephyr Adamant Of The Desert,83.00,1990.16,250.07,165183.28,20755.81,5578.17,191517.26
+751,Law Lionwatcher,Reyny Keep,11.00,Foulopal Copper Of The Skies,168.00,1221.16,403.00,205154.88,67704.00,30014.48,302873.36
+5243,"Nelalwe, Lady of Fire",Unicorn's Ward,13.31,Ensorceled Sandmetal Of Spirits,215.00,2956.98,87.00,635750.70,18705.00,85079.24,739534.94
+9252,"Ingwenel, God of War",Moor Village,57.42,Ensorceled Gold Of The Dawn,162.00,5713.98,402.92,925664.76,65273.04,564834.55,1555772.35
+9894,Freezebrood,The Nulukkhath Spires,10.59,Ensorceled Gold Of The Dawn,247.00,5713.98,402.92,1411353.06,99521.24,166196.17,1677070.47
+12250,"Gono, Goddess of the Earth",The Tomb of Gothmog of Udun,-3.30,Transcendent Gold,97.00,-193.60,282.17,-18779.20,27370.49,-257.74,8333.55
+12510,Wheelbolt The Machine,The Glano Forest,3.00,Rot Silver Of The Past,256.00,3784.00,359.70,968704.00,92083.20,31823.62,1092610.82
+12746,"Azah, Goddess of Fate",The Nulukkhath Spires,10.59,Phantasmal Lead,188.00,-552.97,245.47,-103958.36,46148.36,-6359.10,-64169.10
+16462,Snarepiston The Mechanical,The Forsaken Tomb of Devastation,0.00,Ensorceled Sandmetal Of Spirits,267.00,2956.98,95.70,789513.66,25551.90,0.00,815065.56
+17015,Rouge Tombreaper,The Temple of Merciless Necromancy,50.94,Nymphs' Luminous Rotmercury Of The Skies,66.00,292.60,207.90,19311.60,13721.40,16846.83,49879.83
+18069,Scarechain The Unspeakable,The Hunter and Rose,44.44,God-touched Faterainbow Orichalcum Of Spectres,152.00,370.41,32.01,56302.32,4865.52,26913.85,88081.69
+19721,Chainblade The Cadaverous,Fellfen Keep,61.53,Planar Mudtin Of Trolls,267.00,3067.17,405.79,818934.39,108345.93,574913.80,1502194.12
+20622,Freezebrood,Weke Tower,-0.07,Greenlead,87.00,959.65,179.65,83489.55,15629.55,0.00,99119.10
+21699,"Ariel, God of Luck",Peley Keep,26.33,Planar Rainfate Mithril,225.00,1304.42,320.52,293494.50,72117.00,95058.99,460670.49

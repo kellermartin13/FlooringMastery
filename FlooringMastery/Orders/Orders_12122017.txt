@@ -1,0 +1,18 @@
+159,"Sunrise" Miles,TX,0.50,Beechwood,141.00,3.00,5.00,423.00,705.00,0.00,1128.00
+3520,Theresa "Kid" Robinson,MS,3.00,Cedar Planks,136.00,2.00,5.50,272.00,748.00,30.60,1050.60
+4252,Julia "Bandit" Chandler,ND,1.25,Leather,94.00,10.00,16.50,940.00,1551.00,24.91,2515.91
+4313,Wilma "Tornado" Brooks,MO,2.20,Pebbles,8.00,0.80,4.40,6.40,35.20,0.83,42.43
+7514,Beth "Fortunate Shooter" Powell,WY,0.31,Packed Dirt,174.00,1.00,1.50,174.00,261.00,0.00,435.00
+8098,Heather "Friendly Gambler" Barrett,IA,1.21,Packed Dirt,300.00,1.00,1.50,300.00,450.00,7.50,757.50
+8161,Wilma "Tornado" Brooks,CA,0.55,Pebbles,333.00,0.80,4.84,266.40,1611.72,18.78,1896.90
+8221,Joanne "Damned" Miles,IA,1.21,Packed Dirt,196.00,1.00,1.50,196.00,294.00,4.90,494.90
+9933,Heather "Tornado" Newman,AR,2.20,Pebbles,177.00,0.88,4.84,155.76,856.68,20.25,1032.69
+11054,Cathy "Loner Demon" Murray,IA,1.21,Packed Dirt,141.00,1.00,1.50,141.00,211.50,3.52,356.02
+11459,Ida Russell "the Rustler",ID,0.00,Reeds,330.00,0.75,2.20,247.50,726.00,0.00,973.50
+11897,Gloria "Devil" McCoy,AL,1.00,Leather,255.00,10.00,18.15,2550.00,4628.25,71.78,7250.03
+15121,Betty "Happy Thinker" Watson,MS,3.00,Solid Oak,202.00,5.50,5.50,1111.00,1111.00,66.66,2288.66
+15288,Mattie Grant "the Gambler",CA,0.61,Brick,103.00,5.32,6.66,547.96,685.98,12.34,1246.28
+18611,Stella "the Bully",NV,0.31,Leather,219.00,11.00,19.97,2409.00,4373.43,0.00,6782.43
+19198,Gladys "Locoweed" Keller,AR,2.20,Pebbles,73.00,0.88,4.84,64.24,353.32,8.35,425.91
+20333,Evelyn "Evil Joker" Taylor,TX,0.67,Pebbles,225.00,0.88,4.84,198.00,1089.00,12.87,1299.87
+21290,Allison "Steel Gravedigger" Douglas,AL,1.00,Solid Oak,239.00,5.50,6.66,1314.50,1591.74,29.06,2935.30

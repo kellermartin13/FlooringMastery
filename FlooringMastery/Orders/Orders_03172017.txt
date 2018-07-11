@@ -1,0 +1,18 @@
+1427,Beth "Fortunate Shooter" Powell,NV,0.25,Leather,157.00,10.00,15.00,1570.00,2355.00,0.00,3925.00
+1497,Darlene "Loner" Ford,MS,3.00,Packed Dirt,142.00,1.00,1.50,142.00,213.00,10.65,365.65
+3203,Black Beck,NV,0.25,Solid Oak,85.00,5.50,5.00,467.50,425.00,0.00,892.50
+3394,Renee "Loco Tracker" Jordan,AR,2.20,Dirt,60.00,0.50,1.00,30.00,60.00,1.80,91.80
+4474,Darlene "Loner" Ford,OK,2.00,Packed Dirt,237.00,1.00,1.50,237.00,355.50,11.85,604.35
+4941,Cynthia "the Vixen",NV,0.25,Reeds,169.00,0.75,2.20,126.75,371.80,0.00,498.55
+8482,Tammy Carlson "the Killer",AL,1.00,Leather,301.00,10.00,18.15,3010.00,5463.15,84.73,8557.88
+8762,Renee "Loco Tracker" Jordan,UT,0.00,Packed Dirt,183.00,1.00,1.50,183.00,274.50,0.00,457.50
+9371,Lorraine "Utah" Adams,CA,0.55,Cedar Planks,336.00,2.20,6.05,739.20,2032.80,27.72,2799.72
+9917,Melissa "Lonesome Stalker" Riley,OK,2.20,Beechwood,59.00,3.00,5.50,177.00,324.50,10.03,511.53
+10435,Maureen "Cursed" Andrews,ND,1.25,Solid Oak,89.00,5.50,5.50,489.50,489.50,9.79,988.79
+12062,Mattie Grant "the Gambler",ID,0.00,Solid Oak,169.00,5.50,5.50,929.50,929.50,0.00,1859.00
+13000,Mabel "Vixen Cursed" King,CA,0.61,Packed Dirt,239.00,1.00,1.82,239.00,434.98,6.74,680.72
+13021,Beth "Fortunate Shooter" Powell,OK,2.42,Cedar Planks,229.00,2.20,6.05,503.80,1385.45,37.78,1927.03
+15966,Marie "Raven" Chapman,KS,0.55,Beechwood,277.00,3.63,5.50,1005.51,1523.50,25.29,2554.30
+16206,Renee "Loco Tracker" Jordan,MT,3.99,Brick,135.00,5.32,6.66,718.20,899.10,64.69,1681.99
+18391,Geraldine "Revenge" Warren,MS,3.00,Reeds,152.00,0.83,2.20,126.16,334.40,13.82,474.38
+19171,Florence "Leather Doc" Grant,WY,0.31,Dirt,183.00,0.50,1.00,91.50,183.00,0.00,274.50

@@ -1,0 +1,17 @@
+1463,Rune Rougehate,The Hunter and Rose,36.73,Falserainbow Lead,230.00,3215.00,233.00,739450.00,53590.00,293424.80,1086464.80
+2165,Sunrise Godwarlock,The Chuallanto Jungle,37.00,Spirits' Living Wordhammer Tin Of The Trees,98.00,4343.00,26.40,425614.00,2587.20,158434.44,586635.64
+2196,Tarot Dawn,The Dancing Minstrel,21.20,Incubi's Mirrorfog Iron Of The Ocean,131.00,4798.76,-19.59,628637.56,-2566.29,131474.97,757546.24
+5974,Lightning Brand,The Bastion of the Lich Tyrant,43.00,God-touched Greengem Platinum,317.00,1281.72,-36.00,406305.24,-11412.00,169804.09,564697.33
+7724,Fate Ivycaster,The Dungeon of Dismal Terror,-3.50,Shadowy Adamant,245.00,618.93,478.58,151637.85,117252.10,-10755.60,258134.35
+10547,"Avriel, God of Death",The Citadel of Lord Greywulf,33.04,Shadow Steel,243.00,4677.78,465.30,1136700.54,113067.90,412423.59,1662192.03
+10736,Spikecrank,Haukri's Hold,27.83,Yellow Mistearth Copper,79.00,4575.58,-27.40,361470.82,-2164.60,100605.74,459911.96
+10757,Song Runetomb,Barad Cune,28.60,Hell Mercury Of The East,122.00,4636.34,313.06,565633.48,38193.32,175109.77,778936.57
+11486,Snaretool The Constructed,South Brightcrown Borough,42.25,Magic Adamant,350.00,1838.00,228.40,643300.00,79940.00,303760.80,1027000.80
+12202,Flameflare The Evil,Bifar's Deep,18.70,Djinni's Spectral Shadowlead Of Life,127.00,3705.90,325.62,470649.30,41353.74,97280.58,609283.62
+12329,Beamtrap,The Dismal Marsh,6.05,God-touched Faterainbow Orichalcum Of Spectres,226.00,370.41,32.01,83712.66,7234.26,5456.82,96403.74
+13015,Snarepiston The Mechanical,The Desert of Flames,51.91,Mistgold Of Men,243.00,3372.28,53.24,819464.04,12937.32,432848.71,1265250.07
+14974,"Ahah, Goddess of Knowledge",The Forsaken Sepulcher of Sorrows,53.67,Mithril Of The Tropics,131.00,4126.10,11.98,540519.10,1569.38,292727.78,834816.26
+15297,Fate Seeker,Noble's Village,30.25,Sphinxes' Unknown Poisongold Of The Future,210.00,3910.25,23.86,821152.50,5010.60,247848.93,1074012.03
+16743,Bronzespike,The Broken Arrow,36.39,Ensorceled Gold Of The Dawn,141.00,6913.92,402.92,974862.72,56811.72,371402.80,1403077.24
+17419,Nailpiston The Grasping,Weke Tower,-0.07,Sphinxes' Mistsoul Bronze Of The Past,186.00,2169.81,222.28,403584.66,41344.08,0.00,444928.74
+19365,Emberspawn,The Temple of Merciless Necromancy,50.94,Ghostly Soul Adamant,186.00,3222.96,229.53,599470.56,42692.58,327503.20,969666.34

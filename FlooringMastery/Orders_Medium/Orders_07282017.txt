@@ -1,0 +1,22 @@
+309,Vanessa "Scalper" Rhodes,ND,1.25,Beechwood,93.00,3.00,5.00,279.00,465.00,7.44,751.44
+707,Renee "Loco Tracker" Jordan,ND,1.25,Beechwood,36.00,3.00,5.00,108.00,180.00,2.88,290.88
+1455,Helen Webb "the Dancer",ND,1.25,Pebbles,274.00,0.80,4.40,219.20,1205.60,14.25,1439.05
+2099,Renee "Hellish Empress" Banks,KS,0.50,Beechwood,252.00,3.00,5.00,756.00,1260.00,0.00,2016.00
+3722,Amanda Hart "the Loner",MO,2.20,Pebbles,175.00,0.80,4.40,140.00,770.00,18.20,928.20
+4750,Mattie Grant "the Gambler",MT,3.00,Brick,131.00,4.40,5.50,576.40,720.50,38.91,1335.81
+5048,"Bane" Jennings,ND,1.25,Leather,170.00,10.00,18.15,1700.00,3085.50,47.86,4833.36
+8335,"Doom" McCoy,OK,2.20,Reeds,157.00,0.75,2.20,117.75,345.40,9.26,472.41
+9097,Renee "Hellish Empress" Banks,AR,2.20,Reeds,270.00,0.75,2.20,202.50,594.00,15.93,812.43
+11841,Gloria "Devil" McCoy,UT,0.00,Cedar Planks,263.00,2.20,6.05,578.60,1591.15,0.00,2169.75
+13636,"Doom" McCoy,ID,0.00,Pebbles,132.00,0.88,4.84,116.16,638.88,0.00,755.04
+14875,Maureen "Cursed" Andrews,IA,1.21,Reeds,18.00,0.75,2.20,13.50,39.60,0.53,53.63
+14995,Melissa "Lonesome Stalker" Riley,TX,0.67,Reeds,177.00,0.83,2.20,146.91,389.40,5.36,541.67
+17533,April "Thunderbird" Dunn,MO,2.20,Brick,244.00,5.32,6.66,1298.08,1625.04,58.46,2981.58
+19132,Florence "Leather Doc" Grant,ID,0.00,Leather,105.00,11.00,19.97,1155.00,2096.85,0.00,3251.85
+19983,Amanda Hart "the Loner",WY,0.31,Reeds,3.00,0.83,2.20,2.49,6.60,0.00,9.09
+21459,Betty "Happy Thinker" Watson,AL,1.00,Solid Oak,324.00,5.50,6.66,1782.00,2157.84,39.40,3979.24
+22419,Friendly Howell,AR,2.20,Pebbles,208.00,0.88,4.84,183.04,1006.72,23.80,1213.56
+23004,Mabel "Vixen Cursed" King,ID,0.00,Pinecones,261.00,1.50,2.93,391.50,764.73,0.00,1156.23
+23265,Maureen "Cursed" Andrews,NM,2.93,Beechwood,119.00,3.63,6.05,431.97,719.95,34.56,1186.48
+23301,April "Thunderbird" Dunn,KS,0.55,Packed Dirt,104.00,1.10,2.42,114.40,251.68,3.66,369.74
+23470,Cynthia "the Vixen",AR,2.20,Pebbles,257.00,0.88,5.32,226.16,1367.24,31.87,1625.27

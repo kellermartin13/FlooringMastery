@@ -1,0 +1,19 @@
+75,Julia "Bandit" Chandler,WY,0.25,Solid Oak,153.00,5.00,5.00,765.00,765.00,0.00,1530.00
+304,Minnie Lawson "the Apostle",WY,0.25,Reeds,186.00,0.75,2.00,139.50,372.00,0.00,511.50
+6621,Beth "Fortunate Shooter" Powell,MT,3.00,Dirt,78.00,0.50,1.00,39.00,78.00,3.51,120.51
+7311,Darlene "Loner" Ford,UT,0.00,Reeds,385.00,0.75,2.20,288.75,847.00,0.00,1135.75
+7639,Maureen "Cursed" Andrews,AR,2.20,Beechwood,33.00,3.00,5.00,99.00,165.00,5.28,269.28
+9745,Amanda Hart "the Loner",ID,0.00,Reeds,86.00,0.75,2.20,64.50,189.20,0.00,253.70
+12250,Geraldine "Revenge" Warren,WY,0.31,Solid Oak,73.00,5.50,5.50,401.50,401.50,0.00,803.00
+14966,Diana "Mistress" Morgan,NM,2.42,Reeds,201.00,0.75,2.20,150.75,442.20,11.86,604.81
+15557,Mabel "Vixen Cursed" King,NV,0.31,Solid Oak,116.00,5.50,5.50,638.00,638.00,0.00,1276.00
+15972,Tina "Lady" Anderson,WY,0.31,Reeds,253.00,0.83,2.20,209.99,556.60,0.00,766.59
+17108,Victoria "the Dancer",NV,0.31,Beechwood,105.00,3.63,5.50,381.15,577.50,0.00,958.65
+17335,Marie "Raven" Chapman,WY,0.31,Solid Oak,292.00,5.50,6.66,1606.00,1944.72,0.00,3550.72
+17820,Ida Russell "the Rustler",TX,0.67,Brick,207.00,5.32,6.66,1101.24,1378.62,24.80,2504.66
+17847,Cynthia "the Vixen",AR,2.20,Pebbles,195.00,0.88,4.84,171.60,943.80,22.31,1137.71
+17878,Darlene "Loner" Ford,OK,2.42,Leather,327.00,11.00,19.97,3597.00,6530.19,202.54,10329.73
+18450,Jo "the Joker",MS,3.00,Pebbles,301.00,0.88,4.84,264.88,1456.84,51.65,1773.37
+19227,"Scalphunter" Kennedy,AR,2.20,Beechwood,253.00,3.63,5.50,918.39,1391.50,46.20,2356.09
+20837,"Scalphunter" Kennedy,NV,0.31,Reeds,78.00,0.83,2.20,64.74,171.60,0.00,236.34
+20929,Helen Webb "the Dancer",TX,0.67,Beechwood,148.00,3.63,6.05,537.24,895.40,14.33,1446.97

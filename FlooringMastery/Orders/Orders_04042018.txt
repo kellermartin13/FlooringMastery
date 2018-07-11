@@ -1,0 +1,12 @@
+488,Vanessa "Scalper" Rhodes,MT,3.00,Cedar Planks,238.00,2.00,5.00,476.00,1190.00,49.98,1715.98
+2939,April "Thunderbird" Dunn,AR,2.20,Leather,199.00,10.00,16.50,1990.00,3283.50,105.47,5378.97
+4672,Betty "Happy Thinker" Watson,AR,2.20,Solid Oak,256.00,5.50,5.50,1408.00,1408.00,56.32,2872.32
+9586,Melissa "Lonesome Stalker" Riley,IA,1.21,Packed Dirt,201.00,1.00,1.50,201.00,301.50,5.02,507.52
+9859,Renee "Hellish Empress" Banks,CA,0.55,Pebbles,81.00,0.88,4.84,71.28,392.04,4.63,467.95
+12143,Elizabeth "the Bully",UT,0.00,Dirt,74.00,0.50,1.00,37.00,74.00,0.00,111.00
+13382,Surgeon Grant,CA,0.61,Brick,74.00,5.32,6.66,393.68,492.84,8.87,895.39
+14884,Tina "Lady" Anderson,AR,2.20,Cedar Planks,285.00,2.20,6.05,627.00,1724.25,47.02,2398.27
+15978,Julia "Bandit" Chandler,MS,3.00,Cedar Planks,215.00,2.20,6.05,473.00,1300.75,53.21,1826.96
+16374,Wilma "Tornado" Brooks,NM,2.66,Pebbles,64.00,0.88,4.84,56.32,309.76,10.98,377.06
+19119,Victoria "the Dancer",MT,3.99,Reeds,191.00,0.83,2.20,158.53,420.20,23.15,601.88
+23429,Surgeon Grant,MO,2.20,Pebbles,163.00,0.88,5.32,143.44,867.16,20.21,1030.81

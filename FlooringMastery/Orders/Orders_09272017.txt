@@ -1,0 +1,17 @@
+1145,Mattie Grant "the Gambler",ND,1.25,Pinecones,204.00,1.50,2.00,306.00,408.00,7.14,721.14
+1927,Tina "Lady" Anderson,CA,0.50,Brick,325.00,4.00,5.00,1300.00,1625.00,0.00,2925.00
+2614,Florence "Leather Doc" Grant,OK,2.00,Packed Dirt,207.00,1.00,1.50,207.00,310.50,10.35,527.85
+2760,Lena Chapman "the Bully",KS,0.50,Pebbles,330.00,0.80,4.40,264.00,1452.00,0.00,1716.00
+3884,Betty "Happy Thinker" Watson,MO,2.20,Dirt,218.00,0.50,1.00,109.00,218.00,6.54,333.54
+5411,Cynthia "the Vixen",ID,0.00,Pinecones,150.00,1.50,2.42,225.00,363.00,0.00,588.00
+5981,Heather "Friendly Gambler" Barrett,WY,0.31,Solid Oak,256.00,5.50,5.50,1408.00,1408.00,0.00,2816.00
+6545,"Sunrise" Miles,CA,0.55,Cedar Planks,215.00,2.20,6.05,473.00,1300.75,17.74,1791.49
+8296,Evelyn "Evil Joker" Taylor,ID,0.00,Solid Oak,178.00,5.50,5.50,979.00,979.00,0.00,1958.00
+12921,Ida Russell "the Rustler",TX,0.67,Beechwood,161.00,3.30,5.50,531.30,885.50,14.17,1430.97
+13400,Wilma "Tornado" Brooks,MO,2.20,Pebbles,81.00,0.88,4.84,71.28,392.04,9.27,472.59
+16246,Lucky Johnson,MS,3.00,Dirt,166.00,0.50,1.00,83.00,166.00,7.47,256.47
+16573,Theresa "Scalphunter" Romero,IA,1.21,Brick,290.00,5.32,6.66,1542.80,1931.40,34.74,3508.94
+19473,Deborah "the Lady",MT,3.99,Leather,279.00,11.00,19.97,3069.00,5571.63,345.63,8986.26
+19750,Melissa "Lonesome Stalker" Riley,OK,2.42,Leather,118.00,11.00,19.97,1298.00,2356.46,73.09,3727.55
+20025,Wilma "Tornado" Brooks,ND,1.67,Packed Dirt,379.00,1.10,2.42,416.90,917.18,26.68,1360.76
+23413,Geraldine "Revenge" Warren,AR,2.20,Pinecones,16.00,1.50,2.93,24.00,46.88,1.42,72.30

@@ -1,0 +1,13 @@
+1176,Snowflame The Evil,The Drunken Thief,9.50,Rainbowglitter Tin,161.00,4475.87,176.36,720615.07,28393.96,74900.90,823909.93
+3961,Tarot Dawn,The Archer and Scroll,39.60,Yellow Mistearth Copper,208.00,4575.58,-27.40,951720.64,-5699.20,378408.58,1324430.02
+12838,Lord Mystery,The Glano Forest,3.00,Nymphs' Luminous Rotmercury Of The Skies,311.00,292.60,189.00,90998.60,58779.00,4493.33,154270.93
+15239,Evilfear The Horrorific,Shainan's Hold,23.96,Legendary Mithril Of The Moon,117.00,2707.10,125.84,316730.70,14723.28,79548.96,411002.94
+16568,Dawn Darkzealot,The Fortress of Gama,10.16,Fleshshock Mercury,26.00,4858.70,338.07,126326.20,8789.82,13511.60,148627.62
+17453,Spikesnare,The Grey Plains,19.97,Witchs' Forbidden Rockrainbow Bronze,207.00,655.60,425.92,135709.20,88165.44,44774.93,268649.57
+17524,Rouge Roguemist,Lamp Borough,4.95,Angels' Smoke Adamant Of The Mountains,255.00,3427.13,260.15,873918.15,66338.25,47012.82,987269.22
+17676,"Uriel, God of Fate",Lamp Borough,4.95,Grayplatinum,223.00,2506.27,306.97,558898.21,68454.31,31367.63,658720.15
+18454,Dagger Reaper,Haukri's Hold,27.83,Primordial Mud Orichalcum,183.00,-469.36,85.11,-85892.88,15575.13,-19688.97,-90006.72
+18505,"Azah, Goddess of Fate",South Brightcrown Borough,42.25,Mana-touched Greenglitter Gold Of Giants,123.00,1291.38,514.25,158839.74,63252.75,93278.85,315371.34
+19867,"Maglioneth, Lord of the Sun",The Desert of Flames,57.10,Angels' Smoke Adamant Of The Mountains,189.00,3427.13,260.15,647727.57,49168.35,397230.67,1094126.59
+20368,Rouge Roguemist,Grori's Deep,66.50,Golems' Stonesapphire Gold Of The Glacier,268.00,4444.06,116.57,1191008.08,31240.76,806684.23,2028933.07
+20692,Maverick Wind,Barad Kesa,5.23,Phantasmal Tin Of The Swamps,262.00,5964.74,-7.99,1562761.88,-2093.38,78033.42,1638701.92

@@ -1,0 +1,17 @@
+262,Diana "Mistress" Morgan,AR,2.20,Dirt,196.00,0.50,1.00,98.00,196.00,5.88,299.88
+286,Geraldine "Revenge" Warren,ND,1.25,Pebbles,127.00,0.80,4.00,101.60,508.00,6.10,615.70
+1226,Lena Chapman "the Bully",UT,0.00,Reeds,47.00,0.75,2.00,35.25,94.00,0.00,129.25
+2497,Theresa "Scalphunter" Romero,MS,3.00,Dirt,150.00,0.50,1.00,75.00,150.00,6.75,231.75
+4015,Mattie Grant "the Gambler",UT,0.00,Cedar Planks,135.00,2.00,5.50,270.00,742.50,0.00,1012.50
+4972,Kathy Murphy "the Thinker",MS,3.00,Brick,53.00,4.84,6.05,256.52,320.65,17.32,594.49
+5004,Victoria "the Dancer",AR,2.20,Packed Dirt,123.00,1.00,1.50,123.00,184.50,6.15,313.65
+7816,Melissa "Lonesome Stalker" Riley,IA,1.21,Solid Oak,37.00,5.50,5.50,203.50,203.50,4.07,411.07
+9191,Gladys "Locoweed" Keller,AL,1.00,Pinecones,2.00,1.50,2.66,3.00,5.32,0.08,8.40
+9423,Wilma "Tornado" Brooks,NV,0.31,Beechwood,237.00,3.00,5.50,711.00,1303.50,0.00,2014.50
+9817,Gladys "Locoweed" Keller,MT,3.63,Beechwood,257.00,3.00,5.50,771.00,1413.50,87.38,2271.88
+10073,Victoria "the Dancer",MO,2.20,Pebbles,260.00,0.88,4.84,228.80,1258.40,29.74,1516.94
+10515,Debra "Scorpion" Lane,UT,0.00,Leather,96.00,10.00,18.15,960.00,1742.40,0.00,2702.40
+10837,Tammy Carlson "the Killer",MO,2.20,Leather,200.00,10.00,18.15,2000.00,3630.00,112.60,5742.60
+14496,Deborah "the Lady",MT,3.99,Packed Dirt,190.00,1.10,2.20,209.00,418.00,25.08,652.08
+15055,Evelyn "Evil Joker" Taylor,AR,2.20,Solid Oak,125.00,5.50,5.50,687.50,687.50,27.50,1402.50
+17879,Darlene "Loner" Ford,KS,0.55,Packed Dirt,282.00,1.10,2.20,310.20,620.40,9.31,939.91

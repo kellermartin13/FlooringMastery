@@ -1,0 +1,12 @@
+3409,Joanne "Damned" Miles,TX,0.50,Packed Dirt,195.00,1.00,1.50,195.00,292.50,0.00,487.50
+3553,Vengeful Robertson,MT,3.00,Leather,81.00,10.00,16.50,810.00,1336.50,64.40,2210.90
+5868,Black Beck,AL,1.00,Packed Dirt,40.00,1.00,1.50,40.00,60.00,1.00,101.00
+7087,Melissa "Lonesome Stalker" Riley,WY,0.31,Brick,283.00,4.84,6.66,1369.72,1884.78,0.00,3254.50
+10001,Minnie Lawson "the Apostle",AR,2.20,Packed Dirt,226.00,1.00,1.50,226.00,339.00,11.30,576.30
+11103,Michele Watson "the Loner",IA,1.21,Dirt,217.00,0.50,1.00,108.50,217.00,3.26,328.76
+12835,Darlene "Loner" Ford,AL,1.00,Pebbles,243.00,0.88,4.84,213.84,1176.12,13.90,1403.86
+13663,Dorothy "the Hunter",WY,0.31,Brick,234.00,5.32,6.66,1244.88,1558.44,0.00,2803.32
+15506,Joanne "Damned" Miles,TX,0.67,Brick,297.00,5.32,6.66,1580.04,1978.02,35.58,3593.64
+17543,Joanne "Damned" Miles,NM,2.66,Pinecones,72.00,1.50,2.66,108.00,191.52,8.99,308.51
+19505,Lucky Johnson,OK,2.42,Solid Oak,192.00,5.50,6.66,1056.00,1278.72,46.69,2381.41
+19659,Diana "Mistress" Morgan,NM,2.93,Beechwood,103.00,3.63,6.05,373.89,623.15,29.91,1026.95

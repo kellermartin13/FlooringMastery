@@ -1,0 +1,17 @@
+1380,"Scalphunter" Kennedy,NM,2.20,Dirt,164.00,0.50,1.00,82.00,164.00,4.92,250.92
+5134,Diana "Mistress" Morgan,AL,1.00,Pinecones,241.00,1.50,2.42,361.50,583.22,9.45,954.17
+5972,Lena Chapman "the Bully",TX,0.50,Pebbles,209.00,0.80,4.40,167.20,919.60,0.00,1086.80
+6149,Vanessa "Scalper" Rhodes,MT,3.00,Packed Dirt,115.00,1.00,1.50,115.00,172.50,8.62,296.12
+8213,Ida Russell "the Rustler",MO,2.20,Brick,202.00,4.84,6.66,977.68,1345.32,46.46,2369.46
+8485,Gladys "Locoweed" Keller,AR,2.20,Solid Oak,250.00,5.50,5.50,1375.00,1375.00,55.00,2805.00
+9951,Tammy Carlson "the Killer",NV,0.31,Reeds,295.00,0.75,2.20,221.25,649.00,0.00,870.25
+10181,Florence "Leather Doc" Grant,ND,1.25,Dirt,223.00,0.50,1.00,111.50,223.00,3.34,337.84
+11707,Melissa "Lonesome Stalker" Riley,UT,0.00,Dirt,77.00,0.50,1.00,38.50,77.00,0.00,115.50
+11859,"Bane" Jennings,MT,3.63,Cedar Planks,300.00,2.20,6.05,660.00,1815.00,99.00,2574.00
+14529,Kathy Murphy "the Thinker",NM,2.42,Brick,163.00,5.32,6.66,867.16,1085.58,39.05,1991.79
+14794,Evelyn "Evil Joker" Taylor,NM,2.42,Reeds,372.00,0.75,2.20,279.00,818.40,21.95,1119.35
+14817,Gladys "Locoweed" Keller,NV,0.31,Pinecones,198.00,1.50,2.66,297.00,526.68,0.00,823.68
+14960,Kathy Murphy "the Thinker",AL,1.00,Leather,391.00,11.00,18.15,4301.00,7096.65,113.98,11511.63
+18071,Beth "Fortunate Shooter" Powell,NV,0.31,Leather,173.00,11.00,19.97,1903.00,3454.81,0.00,5357.81
+19581,Vengeful Montgomery,MS,3.00,Leather,113.00,11.00,19.97,1243.00,2256.61,104.99,3604.60
+22512,April "Thunderbird" Dunn,CA,0.67,Leather,343.00,11.00,19.97,3773.00,6849.71,106.23,10728.94

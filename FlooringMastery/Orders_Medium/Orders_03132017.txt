@@ -1,0 +1,13 @@
+4575,"Sunrise" Miles,KS,0.50,Pebbles,293.00,0.80,4.40,234.40,1289.20,0.00,1523.60
+4596,Vengeful Robertson,ND,1.25,Packed Dirt,194.00,1.00,1.50,194.00,291.00,4.85,489.85
+4753,Michele Watson "the Loner",OK,2.00,Brick,208.00,4.40,5.50,915.20,1144.00,41.18,2100.38
+7450,Elizabeth "the Bully",MT,3.30,Pinecones,225.00,1.50,2.66,337.50,598.50,28.08,964.08
+10294,Gladys "Locoweed" Keller,MT,3.63,Packed Dirt,366.00,1.00,1.50,366.00,549.00,36.60,951.60
+13700,Victoria "the Dancer",CA,0.61,Leather,296.00,11.00,18.15,3256.00,5372.40,86.28,8714.68
+13883,Betty "Happy Thinker" Watson,ID,0.00,Beechwood,167.00,3.63,5.50,606.21,918.50,0.00,1524.71
+15024,Melissa "Lonesome Stalker" Riley,AR,2.20,Pebbles,285.00,0.88,4.84,250.80,1379.40,32.60,1662.80
+15355,Betty "Happy Thinker" Watson,OK,2.42,Solid Oak,206.00,5.50,5.50,1133.00,1133.00,45.32,2311.32
+15813,Diana "Mistress" Morgan,MT,3.99,Leather,79.00,11.00,18.15,869.00,1433.85,92.11,2394.96
+15967,Lena Chapman "the Bully",ND,1.38,Solid Oak,268.00,5.50,6.05,1474.00,1621.40,30.95,3126.35
+17422,Wilma "Tornado" Brooks,TX,0.67,Pebbles,186.00,0.88,4.84,163.68,900.24,10.64,1074.56
+21386,"Sunrise" Miles,ND,1.67,Beechwood,258.00,3.63,6.05,936.54,1560.90,49.95,2547.39

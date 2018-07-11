@@ -1,0 +1,23 @@
+195,"Lionare, God of the Lost",The Glano Forest,3.00,Toxic Mistlead Of The Past,233.00,1557.54,123.69,362906.82,28819.77,11751.80,403478.39
+784,Deathspike The Terrifying,The Wizard's House,43.58,Sapphire Mindlead,89.00,1307.71,47.00,116386.19,4183.00,53050.44,173619.63
+1098,Metalbrood,Lamp Borough,4.95,Phantasmal Lead,76.00,-457.00,245.47,-34732.00,18655.72,-803.81,-16880.09
+1397,Rune Rougehate,The Tower of Aces the Accursed,12.10,Meteoric Dustzephyr Orichalcum,75.00,375.00,221.89,28125.00,16641.75,5372.01,50138.76
+2738,Rouge Tombreaper,Gili's Delve,-4.59,Negative Mercury,106.00,4054.87,361.00,429816.22,38266.00,-23404.11,444678.11
+6733,Nettool The Grasping,Archtemple District,27.76,Primal Adamant,288.00,4562.80,273.90,1314086.40,78883.20,390031.49,1783001.09
+7184,Sunrise Godwarlock,Kada's Deep,33.00,Hidden Shadowice Lead,329.00,2729.00,-62.23,897841.00,-20473.67,289531.22,1166898.55
+8538,Snarepiston The Mechanical,Lacot Stronghold,33.97,Goddesses' Spectral Poison Steel,268.00,3773.99,269.83,1011429.32,72314.44,368472.88,1452216.64
+9033,Burnbrood The Freezer,Kada's Deep,33.00,Angels' Smoke Adamant Of The Mountains,183.00,2832.34,215.00,518318.22,39345.00,184028.86,741692.08
+9167,Bonescare,The Fen of the Necromancer,54.57,Negative Rockglitter Mercury Of Trolls,174.00,1483.90,465.38,258198.60,80976.12,186546.10,525720.82
+9575,Cult Godseeker,The Secret Catacombs of Ulfang the Black,42.90,Shadow Steel,168.00,4677.78,465.30,785867.04,78170.40,371536.10,1235573.54
+13562,Harmony Angelchild,The Broken Shield,37.23,Ghostly Soul Adamant,203.00,3222.96,229.53,654260.88,46594.59,259316.52,960171.99
+13982,"Lionare, God of the Lost",The Greedy Wench,32.70,Shadowhell Mithril,331.00,483.15,286.41,159922.65,94801.71,84059.04,338783.40
+15097,Zeal Bladewitch,The Fortress of the Lich Queen,36.35,Shadow Steel,225.00,5660.12,511.83,1273527.00,115161.75,499927.95,1888616.70
+17581,"Ariel, God of Luck",North Arcanist's Farthing,55.18,Sphinxes' Opalpearl Platinum Of Legend,259.00,5805.82,390.81,1503707.38,101219.79,882709.94,2487637.11
+18513,"Alik, Goddess of Trickery",The Glano Forest,3.00,Hidden Shadowice Lead,192.00,2729.00,-62.23,523968.00,-11948.16,15360.60,527380.44
+18535,Sephiroth Drakecaster,The Bastion of Barbos,28.34,Ensorceled Sandmetal Of Spirits,144.00,2956.98,95.70,425805.12,13780.80,123084.06,562669.98
+19868,Lord Mystery,Tower Farthing,27.12,Pearl Mirrorice Steel Of Changelings,213.00,328.53,46.07,69976.89,9812.91,21543.25,101333.05
+20737,Gravebone The Unspeakable,Waleah Castle,0.85,Unknowable Mindsilver,173.00,4313.65,402.60,746261.45,69649.80,8159.11,824070.36
+20811,"Prusu, God of Love",The Forsaken Hive of Galima the Mighty,29.89,Meteoric Dustzephyr Orichalcum,301.00,375.00,295.34,112875.00,88897.34,60531.70,262304.04
+22142,Flameshiver,Lamp Borough,4.95,Sprites' Transcendent Mud Lead Of The South,346.00,2081.80,321.86,720302.80,111363.56,41583.32,873249.68
+22489,"Addon, Lord of Death",The Cuitamba Jungle,33.88,Undeads' Mind Orichalcum Of The Twilight,162.00,-17.00,276.00,-2754.00,44712.00,14265.72,56223.72
+23142,Nailpiston The Grasping,The Lazy Sage,19.97,Mithril Of The Tropics,177.00,4992.58,11.98,883686.66,2120.46,177161.42,1062968.54

@@ -1,0 +1,14 @@
+453,Betty "Happy Thinker" Watson,IA,1.00,Dirt,276.00,0.50,1.00,138.00,276.00,4.14,418.14
+2586,Minnie Lawson "the Apostle",NM,2.20,Pebbles,183.00,0.80,4.40,146.40,805.20,19.03,970.63
+2830,Gladys "Locoweed" Keller,MO,2.20,Pinecones,178.00,1.50,2.20,267.00,391.60,13.17,671.77
+3604,Helen Webb "the Dancer",NV,0.25,Cedar Planks,115.00,2.00,5.50,230.00,632.50,0.00,862.50
+6013,Jacqueline "Riding Doc" Washington,KS,0.50,Reeds,360.00,0.75,2.20,270.00,792.00,0.00,1062.00
+6582,Friendly Howell,TX,0.50,Dirt,137.00,0.50,1.00,68.50,137.00,0.00,205.50
+8174,Jacqueline "Riding Doc" Washington,OK,2.20,Cedar Planks,209.00,2.20,6.05,459.80,1264.45,34.48,1758.73
+8176,Evelyn "Evil Joker" Taylor,ID,0.00,Leather,147.00,10.00,18.15,1470.00,2668.05,0.00,4138.05
+9890,Mattie Grant "the Gambler",MS,3.00,Pinecones,269.00,1.50,2.66,403.50,715.54,33.57,1152.61
+10429,Vengeful Robertson,WY,0.31,Packed Dirt,180.00,1.00,1.50,180.00,270.00,0.00,450.00
+18128,Victoria "the Dancer",UT,0.00,Brick,176.00,5.32,6.66,936.32,1172.16,0.00,2108.48
+18319,Helen Webb "the Dancer",KS,0.55,Packed Dirt,118.00,1.10,2.20,129.80,259.60,3.89,393.29
+22397,Florence "Leather Doc" Grant,IA,1.33,Brick,139.00,5.32,6.66,739.48,925.74,16.65,1681.87
+23041,"Bane" Jennings,UT,0.00,Leather,324.00,11.00,19.97,3564.00,6470.28,0.00,10034.28

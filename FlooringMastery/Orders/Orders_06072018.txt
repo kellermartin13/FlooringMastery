@@ -1,0 +1,20 @@
+495,April "Thunderbird" Dunn,AR,2.20,Leather,110.00,10.00,15.00,1100.00,1650.00,55.00,2805.00
+549,Cathy "Loner Demon" Murray,CA,0.50,Beechwood,298.00,3.00,5.00,894.00,1490.00,0.00,2384.00
+3509,Gloria "Devil" McCoy,IA,1.10,Beechwood,269.00,3.00,5.00,807.00,1345.00,21.52,2173.52
+5315,Helen Webb "the Dancer",ND,1.25,Pinecones,169.00,1.50,2.42,253.50,408.98,6.62,669.10
+7319,Helen Webb "the Dancer",WY,0.31,Beechwood,160.00,3.00,5.00,480.00,800.00,0.00,1280.00
+7622,Beth "Fortunate Shooter" Powell,UT,0.00,Dirt,202.00,0.50,1.00,101.00,202.00,0.00,303.00
+9061,Heather "Friendly Gambler" Barrett,CA,0.55,Pebbles,151.00,0.88,4.84,132.88,730.84,8.64,872.36
+9554,Tina "Lady" Anderson,NV,0.31,Beechwood,53.00,3.00,5.50,159.00,291.50,0.00,450.50
+9875,Theresa "Kid" Robinson,IA,1.21,Dirt,202.00,0.50,1.00,101.00,202.00,3.03,306.03
+10476,Surgeon Grant,CA,0.55,Dirt,252.00,0.50,1.00,126.00,252.00,3.78,381.78
+11314,Elizabeth "the Bully",OK,2.42,Pinecones,272.00,1.50,2.66,408.00,723.52,22.63,1154.15
+11414,Elizabeth "the Bully",ND,1.38,Leather,210.00,10.00,18.15,2100.00,3811.50,59.12,5970.62
+11868,Amanda Hart "the Loner",AR,2.20,Packed Dirt,67.00,1.00,1.65,67.00,110.55,3.55,181.10
+13691,Vicki "Mesa" Rhodes,UT,0.00,Brick,257.00,5.32,6.66,1367.24,1711.62,0.00,3078.86
+15733,Elizabeth "the Bully",ID,0.00,Reeds,123.00,0.83,2.20,102.09,270.60,0.00,372.69
+16914,Gloria "Devil" McCoy,KS,0.55,Reeds,229.00,0.83,2.20,190.07,503.80,6.94,700.81
+17412,Victoria "the Dancer",TX,0.67,Reeds,93.00,0.83,2.20,77.19,204.60,2.82,284.61
+21069,Vanessa "Scalper" Rhodes,TX,0.67,Reeds,201.00,0.83,2.20,166.83,442.20,6.09,615.12
+23402,Vengeful Montgomery,IA,1.33,Pebbles,163.00,0.88,5.32,143.44,867.16,10.11,1020.71
+23430,Friendly Howell,KS,0.55,Reeds,216.00,0.91,2.42,196.56,522.72,7.19,726.47

@@ -1,0 +1,18 @@
+1136,"Lenwenye, Goddess of Travel",The Forsaken Tomb of Devastation,0.00,Yellow Mistearth Copper,130.00,4159.62,-27.40,540750.60,-3562.00,0.00,537188.60
+1551,Evilember The Firey,The Beggar and Cask,21.00,Phantasmal Tin Of The Swamps,113.00,4074.00,-6.60,460362.00,-745.80,96519.40,556135.60
+1954,"Maglioneth, Lord of the Sun",Tower Farthing,22.41,Stone Soulsteel Of The Skies,151.00,1634.80,12.01,246854.80,1813.51,54707.03,303375.34
+4420,Lord Mystery,The Pilgrim's Cup,41.93,Vampires' Fang Emeraldsilver,222.00,2283.46,455.55,506928.12,101132.10,255385.29,863445.51
+4913,Lance Knightseraph,North Grove Ward,6.60,Primordial Mud Orichalcum,246.00,-387.90,77.37,-95423.40,19033.02,-5347.33,-81737.71
+5194,Rouge Tombreaper,Gawold Castle,5.00,Ghostly Soul Adamant,301.00,3222.96,229.53,970110.96,69088.53,51959.97,1091159.46
+12346,Wheelbolt The Machine,The Citadel of Alammius,3.50,Rot Silver Of The Past,121.00,3784.00,359.70,457864.00,43523.70,20055.51,521443.21
+12644,Spikerivet,Lordsgate Farthing,45.25,Swordbronze,333.00,1485.01,447.01,494508.33,148854.33,289513.20,932875.86
+13960,Dawn Darkzealot,The Dark Caverns of Woe,3.29,Violetstone Tin Of Death,311.00,2469.75,171.71,768092.25,53401.81,24644.82,846138.88
+16898,Icechill The Frigid,Love Keep,9.32,Mistgold Of Men,353.00,4080.46,53.24,1440402.38,18793.72,131327.65,1590523.75
+16915,Spikespawn,The Flying Witch,12.60,Imperial Fate Steel,214.00,2993.93,-59.79,640701.02,-12795.06,81627.77,709533.73
+18205,Snowflame The Evil,North Arcanist's Farthing,55.18,Negative Rockglitter Mercury Of Trolls,190.00,1632.29,619.42,310135.10,117689.80,235303.70,663128.60
+18302,Spikespawn,Grori's Deep,66.50,Poison Adamant,210.00,1266.52,64.44,265969.20,13532.40,184471.06,463972.66
+19184,Emberspawn,The Forsaken Delve of Lord Greywulf,42.90,Ghostly Soul Adamant,342.00,3222.96,229.53,1102252.32,78499.26,507723.18,1688474.76
+20492,Chainhorror,Weke Tower,-0.07,Undeads' Mind Orichalcum Of The Twilight,333.00,-17.00,276.00,-5661.00,91908.00,0.00,86247.00
+20805,Fate Seeker,Waleah Castle,0.85,Angels' Adamant,120.00,1434.40,197.23,172128.00,23667.60,1957.96,197753.56
+21900,Snarepiston The Mechanical,The Tower of the Demon Warlord,20.97,Ensorceled Sandmetal Of Spirits,90.00,2956.98,95.70,266128.20,8613.00,57695.65,332436.85
+22407,Scarechain The Unspeakable,The Forsaken Delve of Lord Greywulf,42.90,Magicians' Legendary Poison Metal,150.00,2991.55,252.79,448732.50,37918.50,209259.93,695910.93

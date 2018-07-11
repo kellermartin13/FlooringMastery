@@ -1,0 +1,8 @@
+5031,Elizabeth "the Bully",AL,1.00,Beechwood,92.00,3.00,5.00,276.00,460.00,7.36,743.36
+6948,Kathy Murphy "the Thinker",WY,0.31,Reeds,302.00,0.75,2.20,226.50,664.40,0.00,890.90
+8034,Jo "the Joker",ND,1.25,Solid Oak,232.00,5.50,5.50,1276.00,1276.00,25.52,2577.52
+8155,Black Beck,UT,0.00,Pinecones,196.00,1.50,2.66,294.00,521.36,0.00,815.36
+11024,Vengeful Robertson,ND,1.25,Packed Dirt,141.00,1.00,1.50,141.00,211.50,3.52,356.02
+15960,Betty "Happy Thinker" Watson,NV,0.31,Reeds,396.00,0.83,2.20,328.68,871.20,0.00,1199.88
+16306,Theresa "Scalphunter" Romero,WY,0.31,Packed Dirt,206.00,1.10,2.20,226.60,453.20,0.00,679.80
+19157,Elizabeth "the Bully",OK,2.42,Cedar Planks,234.00,2.20,6.66,514.80,1558.44,41.46,2114.70

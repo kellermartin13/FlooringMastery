@@ -1,0 +1,24 @@
+485,Spikesnare,Gifeld Castle,5.65,Nymphs' Luminous Rotmercury Of The Skies,372.00,266.00,189.00,98952.00,70308.00,10155.60,179415.60
+548,Jericho Wolf,Tradun Castle,31.13,Succubi's Evil Mindzephyr Adamant Of The Desert,209.00,1990.16,250.07,415943.44,52264.63,145144.50,613352.57
+902,Sephiroth Drakecaster,The Barrow of Malefic Ages,17.91,Mithril Of Legend,199.00,2068.00,52.07,411532.00,10361.93,75940.91,497834.84
+1970,"Selik, God of Death",Hartshill Ward,41.98,Spirits' Living Wordhammer Tin Of The Trees,93.00,4343.00,26.40,403899.00,2455.20,170668.76,577022.96
+2430,Burnfreeze The Cold,The Citadel of Lord Greywulf,30.04,Mana-touched Greenglitter Gold Of Giants,172.00,1173.98,425.00,201924.56,73100.00,82507.37,357531.93
+3196,"Ahah, Goddess of Knowledge",The Hunter and Rose,40.40,Swordbronze,319.00,1350.01,447.01,430653.19,142596.19,229299.75,802549.13
+4707,Tiger Mistmidnight,The Demon and Toad,23.75,Legendary Mithril Of The Moon,184.00,2461.00,114.40,452824.00,21049.60,113729.66,587603.26
+4784,Cinderflame,The Scoundrel and Flask,-4.58,Meteoric Mirrormuck Orichalcum Of The Forests,194.00,1962.00,185.77,380628.00,36039.38,-20833.37,395834.01
+4873,Song Runetomb,Grove Farthing,18.00,Negative Mercury,231.00,4054.87,361.00,936674.97,83391.00,183611.87,1203677.84
+5406,Shiverflame The Freezer,The Tower of Sheshbazzu,3.30,Primordial False Gold,58.00,4459.34,226.00,258641.72,13108.00,8152.49,279902.21
+6276,Storm Seraphheart,Kada's Deep,33.00,Trolls' Mist Poisonplatinum Of The Twilight,189.00,516.17,394.90,97556.13,74636.10,56823.44,229015.67
+6725,"Lionare, God of the Lost",Archtemple District,27.76,Magic Adamant,229.00,1838.00,207.64,420902.00,47549.56,131166.44,599618.00
+7346,"Uriel, God of Fate",The Forsaken Delve of Lord Greywulf,39.00,Phantasmal Tin Of The Swamps,115.00,4074.00,-6.60,468510.00,-759.00,182422.89,650173.89
+7562,Zeal Bladewitch,The Broken Shield,37.23,Fleshshock Mercury,121.00,4417.00,279.40,534457.00,33807.40,210257.83,778522.23
+8050,Steelterror The Blade,Minas Gilloy,39.26,Mithril Of Legend,185.00,2274.80,63.01,420838.00,11656.85,168672.99,601167.84
+9479,Song Runetomb,The Pirate's Pipe,17.60,Golems' Stonesapphire Gold Of The Glacier,112.00,3672.77,105.97,411350.24,11868.64,76179.40,499398.28
+12679,Clash Lonedrake,The Cracked Chalice,2.52,Swordbronze,181.00,1485.01,447.01,268786.81,80908.81,10490.87,360186.49
+12775,Sunrise Godwarlock,The Nulukkhath Spires,10.59,Phantasmal Smokezephyr Mercury Of Men,306.00,-464.37,75.90,-142097.22,23225.40,-13075.90,-131947.72
+12998,Tiger Mistmidnight,The Cracked Chalice,2.52,Mistgold Of Men,334.00,3372.28,53.24,1126341.52,17782.16,34323.71,1178447.39
+16053,Chainnail,Haukri's Hold,27.83,Lycanthropes' Gold,308.00,4846.18,66.14,1492623.44,20371.12,423638.48,1936633.04
+16536,Seraphim Tsunami,The Broken Arrow,36.39,Ensorceled Gold Of The Dawn,335.00,6913.92,402.92,2316163.20,134978.20,882410.90,3333552.30
+17616,"Melcha, Goddess of Thieves",The Cracked Chalice,2.52,Hidden Shadowice Lead,87.00,2729.00,-62.23,237423.00,-5414.01,6960.27,238969.26
+20390,Icechill The Frigid,The Broken Shield,40.95,Golems' Stonesapphire Gold Of The Glacier,204.00,4444.06,116.57,906588.24,23780.28,381451.09,1311819.61
+20793,"Iran, Lord of Nightmares",Archtemple District,27.76,Yellow Mistearth Copper,223.00,5536.45,-33.15,1234628.35,-7392.45,343626.05,1570861.95

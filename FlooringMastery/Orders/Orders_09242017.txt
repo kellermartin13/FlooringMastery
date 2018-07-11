@@ -1,0 +1,15 @@
+1561,Jacqueline "Riding Doc" Washington,CA,0.50,Cedar Planks,259.00,2.00,5.00,518.00,1295.00,0.00,1813.00
+2212,Cathy "Wildfire" Neal,UT,0.00,Pebbles,154.00,0.80,4.40,123.20,677.60,0.00,800.80
+3505,Beth "Fortunate Shooter" Powell,IA,1.10,Brick,291.00,4.00,5.50,1164.00,1600.50,27.64,2792.14
+4737,Julia "Bandit" Chandler,KS,0.50,Packed Dirt,140.00,1.00,1.50,140.00,210.00,0.00,350.00
+8908,Julia "Bandit" Chandler,MS,3.00,Cedar Planks,82.00,2.20,6.05,180.40,496.10,20.30,696.80
+10946,Lena Chapman "the Bully",WY,0.31,Reeds,137.00,0.75,2.20,102.75,301.40,0.00,404.15
+12950,Heather "Tornado" Newman,MT,3.63,Pebbles,309.00,0.88,4.84,271.92,1495.56,70.70,1838.18
+14575,Darlene "Loner" Ford,TX,0.67,Packed Dirt,359.00,1.10,2.20,394.90,789.80,11.85,1196.55
+14881,Geraldine "Revenge" Warren,UT,0.00,Brick,178.00,5.32,6.66,946.96,1185.48,0.00,2132.44
+15511,Gladys "Locoweed" Keller,ND,1.38,Packed Dirt,247.00,1.10,2.20,271.70,543.40,8.15,823.25
+16883,Amanda Hart "the Loner",NM,2.66,Leather,197.00,11.00,19.97,2167.00,3934.09,183.03,6284.12
+18658,Theresa "Scalphunter" Romero,NM,2.93,Solid Oak,350.00,5.50,6.66,1925.00,2331.00,127.68,4383.68
+21908,Julia "Bandit" Chandler,NM,2.93,Solid Oak,351.00,5.50,6.66,1930.50,2337.66,128.04,4396.20
+22462,Jacqueline "Riding Doc" Washington,MO,2.20,Pinecones,229.00,1.50,2.66,343.50,609.14,19.05,971.69
+23066,Allison "Steel Gravedigger" Douglas,CA,0.67,Leather,259.00,11.00,19.97,2849.00,5172.23,80.21,8101.44

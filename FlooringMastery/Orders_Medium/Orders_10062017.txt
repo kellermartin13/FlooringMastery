@@ -1,0 +1,10 @@
+4065,Vengeful Montgomery,NV,0.25,Leather,355.00,10.00,16.50,3550.00,5857.50,0.00,9407.50
+5412,Heather "Friendly Gambler" Barrett,TX,0.50,Reeds,122.00,0.75,2.20,91.50,268.40,0.00,359.90
+5913,"Bane" Jennings,AL,1.00,Packed Dirt,283.00,1.00,1.50,283.00,424.50,7.08,714.58
+6211,Black Beck,TX,0.50,Cedar Planks,335.00,2.20,5.50,737.00,1842.50,0.00,2579.50
+7037,Betty "Happy Thinker" Watson,KS,0.50,Brick,185.00,4.84,6.66,895.40,1232.10,0.00,2127.50
+8990,Tammy Carlson "the Killer",MS,3.00,Pinecones,203.00,1.50,2.66,304.50,539.98,25.33,869.81
+15232,Evelyn "Evil Joker" Taylor,NM,2.66,Brick,167.00,5.32,6.66,888.44,1112.22,60.02,2060.68
+17257,"Bane" Jennings,OK,2.42,Leather,230.00,11.00,19.97,2530.00,4593.10,142.46,7265.56
+18606,Kathy Murphy "the Thinker",UT,0.00,Packed Dirt,217.00,1.10,2.20,238.70,477.40,0.00,716.10
+22758,Renee "Hellish Empress" Banks,CA,0.67,Solid Oak,137.00,5.50,6.66,753.50,912.42,16.66,1682.58

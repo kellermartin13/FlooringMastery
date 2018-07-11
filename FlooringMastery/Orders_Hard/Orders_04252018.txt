@@ -1,0 +1,15 @@
+2883,Deathspike The Terrifying,The Desert of Flames,39.00,Rainbowglitter Tin,317.00,4923.46,176.36,1560736.82,55906.12,630490.75,2247133.69
+3875,Rouge Roguemist,The Secret Shrine of the Gargoyle Count,-2.00,Yellow Mistearth Copper,131.00,4575.58,-27.40,599400.98,-3589.40,-11916.23,583895.35
+5502,Evilember The Firey,The Nulukkhath Spires,10.59,Mistgold Of Men,207.00,3065.71,44.00,634601.97,9108.00,70808.10,714518.07
+7755,Claw Mist,The Dungeon of Dismal Terror,-3.50,Mistgold Of Men,161.00,3065.71,48.40,493579.31,7792.40,-20054.87,481316.84
+8652,Terrorghoul The Unspeakable,Khali's Delve,52.71,Primordial Mud Orichalcum,178.00,-387.90,77.37,-69046.20,13771.86,-29295.40,-84569.74
+8865,Gravebone The Unspeakable,Minas Gilloy,39.26,Violetstone Tin Of Death,89.00,2245.23,156.10,199825.47,13892.90,83350.16,297068.53
+9878,Beamtrap,The Broken Shield,37.23,Sphinxes' Mistsoul Bronze Of The Past,142.00,2169.81,202.07,308113.02,28693.94,124618.58,461425.54
+10138,Seraphim Tsunami,The Nulukkhath Spires,10.59,Ensorceled Gold Of The Dawn,301.00,5713.98,402.92,1719907.98,121278.92,202530.56,2043717.46
+10770,Jericho Wolf,The Khazahol Crags,-1.97,Icy Shock Silver,232.00,1482.98,407.00,344051.36,94424.00,-8769.51,429705.85
+10853,Storm Squallmourner,The Fortress of the Lich Queen,36.35,Tin Of The Tundra,89.00,2839.87,174.91,252748.43,15566.99,96593.55,364908.97
+12812,Cinderember,Reheath Stronghold,8.00,Sapphire Mindlead,76.00,1307.71,47.00,99385.96,3572.00,8236.64,111194.60
+13172,Springsprocket,The Lost Crypts of Sorrows,35.87,Emerald Orichalcum,80.00,-405.76,128.90,-32460.80,10312.00,-7973.57,-30122.37
+16405,Rune Rougehate,The Bastion of Gothmog of Udun,54.84,Sirens' Rockgold,138.00,-352.01,199.96,-48577.38,27594.48,-11540.60,-32523.50
+16779,Spikebrood The Disinterred,The Broken Arrow,36.39,Ensorceled Sandmetal Of Spirits,181.00,2956.98,95.70,535213.38,17321.70,198912.63,751447.71
+21451,Scarefear The Blade,The Warrior and Flagon,53.24,God-touched Faterainbow Orichalcum Of Spectres,135.00,370.41,35.21,50005.35,4753.35,29022.11,83780.81

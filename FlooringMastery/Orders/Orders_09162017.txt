@@ -1,0 +1,19 @@
+1023,Black Beck,MS,3.00,Pinecones,325.00,1.50,2.00,487.50,650.00,34.12,1171.62
+1565,Lena Chapman "the Bully",MS,3.00,Reeds,298.00,0.75,2.00,223.50,596.00,24.58,844.08
+2920,Helen Webb "the Dancer",NV,0.25,Packed Dirt,268.00,1.00,1.50,268.00,402.00,0.00,670.00
+6702,Beth "Fortunate Shooter" Powell,IA,1.21,Leather,289.00,10.00,18.15,2890.00,5245.35,81.35,8216.70
+6715,Mattie Grant "the Gambler",ID,0.00,Dirt,197.00,0.50,1.00,98.50,197.00,0.00,295.50
+7337,Geraldine "Revenge" Warren,UT,0.00,Brick,328.00,4.84,6.66,1587.52,2184.48,0.00,3772.00
+7765,Minnie Lawson "the Apostle",NV,0.31,Reeds,196.00,0.75,2.20,147.00,431.20,0.00,578.20
+8627,Lena Chapman "the Bully",IA,1.21,Packed Dirt,131.00,1.00,1.50,131.00,196.50,3.28,330.78
+9400,Kathy Murphy "the Thinker",ND,1.25,Cedar Planks,353.00,2.20,6.05,776.60,2135.65,29.12,2941.37
+9690,Maureen "Cursed" Andrews,NV,0.31,Solid Oak,129.00,5.50,5.50,709.50,709.50,0.00,1419.00
+9761,Heather "Tornado" Newman,MS,3.00,Pebbles,168.00,0.88,4.84,147.84,813.12,28.83,989.79
+13761,April "Thunderbird" Dunn,NV,0.31,Packed Dirt,293.00,1.00,2.00,293.00,586.00,0.00,879.00
+16858,Darlene "Loner" Ford,KS,0.55,Dirt,100.00,0.50,1.00,50.00,100.00,1.50,151.50
+19841,"Doom" McCoy,UT,0.00,Packed Dirt,201.00,1.10,2.42,221.10,486.42,0.00,707.52
+20353,Debra "Scorpion" Lane,CA,0.67,Leather,210.00,11.00,19.97,2310.00,4193.70,65.04,6568.74
+20646,Elizabeth "the Bully",IA,1.33,Beechwood,251.00,3.63,6.05,911.13,1518.55,24.30,2453.98
+21398,Ida Russell "the Rustler",KS,0.55,Cedar Planks,336.00,2.20,6.66,739.20,2237.76,29.77,3006.73
+22719,Geraldine "Revenge" Warren,AL,1.00,Packed Dirt,216.00,1.10,2.42,237.60,522.72,7.60,767.92
+23042,Tammy Carlson "the Killer",MS,3.00,Packed Dirt,144.00,1.10,2.42,158.40,348.48,15.21,522.09

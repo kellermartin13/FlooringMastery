@@ -1,0 +1,16 @@
+1373,Vicki "Mesa" Rhodes,UT,0.00,Packed Dirt,176.00,1.00,1.50,176.00,264.00,0.00,440.00
+1968,Surgeon Grant,NV,0.25,Reeds,90.00,0.75,2.00,67.50,180.00,0.00,247.50
+2949,Cynthia "the Vixen",ND,1.25,Beechwood,193.00,3.00,5.00,579.00,965.00,15.44,1559.44
+3757,Diana "Mistress" Morgan,ID,0.00,Pinecones,29.00,1.50,2.20,43.50,63.80,0.00,107.30
+5786,Melissa "Lonesome Stalker" Riley,MS,3.00,Pebbles,275.00,0.80,4.40,220.00,1210.00,42.90,1472.90
+7922,Vicki "Mesa" Rhodes,NM,2.20,Dirt,322.00,0.50,1.00,161.00,322.00,9.66,492.66
+8156,Stella "the Bully",IA,1.21,Pebbles,127.00,0.80,4.84,101.60,614.68,7.16,723.44
+8826,Vengeful Robertson,CA,0.55,Reeds,159.00,0.75,2.20,119.25,349.80,4.69,473.74
+9387,Evelyn "Evil Joker" Taylor,MO,2.20,Brick,176.00,4.84,6.66,851.84,1172.16,40.48,2064.48
+10870,Beth "Fortunate Shooter" Powell,ID,0.00,Packed Dirt,175.00,1.00,1.50,175.00,262.50,0.00,437.50
+15183,Lorraine "Utah" Adams,IA,1.21,Pinecones,345.00,1.50,2.66,517.50,917.70,14.35,1449.55
+16612,Renee "Hellish Empress" Banks,CA,0.61,Beechwood,205.00,3.63,5.50,744.15,1127.50,18.72,1890.37
+18581,Deborah "the Lady",MO,2.20,Solid Oak,251.00,5.50,6.66,1380.50,1671.66,61.04,3113.20
+20473,Betty "Happy Thinker" Watson,UT,0.00,Reeds,204.00,0.83,2.20,169.32,448.80,0.00,618.12
+20497,"Scalphunter" Kennedy,AL,1.00,Pebbles,121.00,0.88,4.84,106.48,585.64,6.92,699.04
+21666,Vicki "Mesa" Rhodes,TX,0.67,Beechwood,115.00,3.63,6.05,417.45,695.75,11.13,1124.33

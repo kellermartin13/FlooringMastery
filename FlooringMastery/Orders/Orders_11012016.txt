@@ -1,0 +1,20 @@
+969,Gladys "Locoweed" Keller,ID,0.00,Pinecones,241.00,1.50,2.00,361.50,482.00,0.00,843.50
+2020,Gloria "Devil" McCoy,IA,1.00,Packed Dirt,286.00,1.00,1.50,286.00,429.00,7.15,722.15
+2957,Jo "the Joker",IA,1.00,Cedar Planks,74.00,2.00,5.50,148.00,407.00,5.55,560.55
+4505,Helen Webb "the Dancer",TX,0.50,Pebbles,284.00,0.80,4.40,227.20,1249.60,0.00,1476.80
+6071,Heather "Friendly Gambler" Barrett,TX,0.50,Cedar Planks,159.00,2.20,5.50,349.80,874.50,0.00,1224.30
+7630,Theresa "Kid" Robinson,WY,0.31,Beechwood,149.00,3.00,5.00,447.00,745.00,0.00,1192.00
+7907,Tammy Carlson "the Killer",UT,0.00,Beechwood,225.00,3.00,5.50,675.00,1237.50,0.00,1912.50
+8572,Elizabeth "the Bully",UT,0.00,Pebbles,192.00,0.88,4.84,168.96,929.28,0.00,1098.24
+8776,Minnie Lawson "the Apostle",ID,0.00,Solid Oak,287.00,5.50,5.50,1578.50,1578.50,0.00,3157.00
+8934,Gloria "Devil" McCoy,KS,0.50,Solid Oak,248.00,5.50,5.50,1364.00,1364.00,0.00,2728.00
+11028,Helen Webb "the Dancer",UT,0.00,Leather,178.00,10.00,18.15,1780.00,3230.70,0.00,5010.70
+13809,Mabel "Vixen Cursed" King,NM,2.42,Dirt,219.00,0.50,1.00,109.50,219.00,6.57,335.07
+14940,Mabel "Vixen Cursed" King,CA,0.61,Cedar Planks,108.00,2.20,6.05,237.60,653.40,8.91,899.91
+15254,Ida Russell "the Rustler",IA,1.21,Beechwood,138.00,3.63,5.50,500.94,759.00,12.60,1272.54
+17204,Melissa "Lonesome Stalker" Riley,WY,0.31,Brick,249.00,5.32,6.66,1324.68,1658.34,0.00,2983.02
+17222,Julia "Bandit" Chandler,MT,3.99,Pinecones,287.00,1.50,2.66,430.50,763.42,47.76,1241.68
+17612,Surgeon Grant,OK,2.42,Pebbles,277.00,0.88,4.84,243.76,1340.68,31.69,1616.13
+19237,Beth "Fortunate Shooter" Powell,UT,0.00,Pebbles,235.00,0.88,4.84,206.80,1137.40,0.00,1344.20
+19584,Maureen "Cursed" Andrews,NV,0.31,Brick,92.00,5.32,6.66,489.44,612.72,0.00,1102.16
+21679,Friendly Howell,MS,3.00,Beechwood,38.00,3.63,6.05,137.94,229.90,11.04,378.88

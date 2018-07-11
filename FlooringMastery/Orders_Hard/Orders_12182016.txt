@@ -1,0 +1,17 @@
+2096,Wind Dire,The Tomb of Hellish Ruin,14.00,Magicians' Legendary Poison Metal,104.00,2043.26,229.81,212499.04,23900.24,33095.90,269495.18
+2186,Lightning Brand,The Chuallanto Jungle,37.00,Spirits' Living Wordhammer Tin Of The Trees,264.00,4343.00,26.40,1146552.00,6969.60,426802.99,1580324.59
+2188,"Nelalwe, Lady of Fire",Tower Farthing,22.41,Magicians' Legendary Poison Metal,99.00,2043.26,229.81,202282.74,22751.19,49507.46,274541.39
+2324,Shiverflame The Freezer,The Cracked Chalice,2.29,Toxin Iceplatinum Of The Undead,222.00,-283.29,-49.00,-62890.38,-10878.00,-1475.37,-75243.75
+2356,"Ingwenel, God of War",The Fortress of the Lich Queen,36.35,Fog Lavaplatinum Of Life,68.00,1078.00,17.00,73304.00,1156.00,26805.60,101265.60
+2522,"Melcha, Goddess of Thieves",The Cracked Chalice,2.29,Rocklava Mithril Of Revenants,60.00,1818.30,13.03,109098.00,781.80,2197.60,112077.40
+4421,Nettool The Grasping,The Fen of the Necromancer,45.10,Ensorceled Gold Of The Dawn,244.00,4293.00,366.29,1047492.00,89374.76,511590.04,1648456.80
+7245,"Finarfin, God of Protection",Bergfison's Deep,39.60,Poison Adamant,283.00,1151.38,58.58,325840.54,16578.14,136967.47,479386.15
+8528,Bane Veil,The Fortress of Gama,10.16,Goddesses' Spectral Poison Steel,172.00,3773.99,269.83,649126.28,46410.76,69553.70,765090.74
+10491,"Prusu, God of Love",The Dread Hive of Illfang the Kobold Lord,1.33,Phantasmal Tin Of The Swamps,21.00,4074.00,-6.60,85554.00,-138.60,854.15,86269.55
+11044,Metalghoul,The Hunter and Rose,40.40,Green Dustlightning Mercury,178.00,3517.00,35.20,626026.00,6265.60,252916.64,885208.24
+11330,Tarot Dawn,The Hunter and Rose,40.40,Green Dustlightning Mercury,288.00,3517.00,35.20,1012896.00,10137.60,409213.44,1432247.04
+17651,"Uriel, God of Fate",Reyny Keep,11.00,Meteoric Mirrormuck Orichalcum Of The Forests,202.00,2374.02,185.77,479552.04,37525.54,56878.53,573956.11
+17985,"Penur, Lord of the Sea",The Fortress of the Lich Queen,36.35,Litches' Fatal Mithril Of The Past,150.00,1460.78,405.96,219117.00,60894.00,100803.96,380814.96
+18732,Blazefreeze The Chiller,The Bastion of Barbos,28.34,Sphinxes' Opalpearl Platinum Of Legend,29.00,5805.82,390.81,168368.78,11333.49,50316.64,230018.91
+18934,Boltcrank The Trapper,The Barrow of Malefic Ages,19.70,Incubi's Iron Of The Dawn,192.00,1200.96,424.31,230584.32,81467.52,62410.37,374462.21
+20845,Springcoil,South Brightcrown Borough,42.25,Djinni's Evil Sandobsidian Steel Of The Future,117.00,4208.60,172.78,492406.20,20215.26,215301.01,727922.47

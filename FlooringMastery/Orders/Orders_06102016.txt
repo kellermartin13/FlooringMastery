@@ -1,0 +1,19 @@
+257,Heather "Friendly Gambler" Barrett,KS,0.50,Solid Oak,240.00,5.00,5.00,1200.00,1200.00,0.00,2400.00
+2047,Lucky Johnson,KS,0.50,Pebbles,235.00,0.80,4.40,188.00,1034.00,0.00,1222.00
+2314,Renee "Hellish Empress" Banks,MT,3.00,Pinecones,296.00,1.50,2.20,444.00,651.20,32.86,1128.06
+4675,Heather "Tornado" Newman,WY,0.31,Pebbles,237.00,0.80,4.40,189.60,1042.80,0.00,1232.40
+6116,Debra "Scorpion" Lane,NM,2.20,Solid Oak,313.00,5.50,5.50,1721.50,1721.50,68.86,3511.86
+9112,Geraldine "Revenge" Warren,AL,1.00,Dirt,55.00,0.50,1.00,27.50,55.00,0.82,83.32
+9872,Heather "Tornado" Newman,CA,0.55,Pinecones,339.00,1.50,2.66,508.50,901.74,14.10,1424.34
+12099,Ida Russell "the Rustler",MO,2.20,Dirt,284.00,0.50,1.00,142.00,284.00,8.52,434.52
+12293,Elizabeth "the Bully",NM,2.42,Packed Dirt,204.00,1.00,1.65,204.00,336.60,10.81,551.41
+13221,Joanne "Damned" Miles,MO,2.20,Reeds,134.00,0.75,2.20,100.50,294.80,7.91,403.21
+13889,Deborah "the Lady",NV,0.31,Dirt,116.00,0.50,1.00,58.00,116.00,0.00,174.00
+14013,Mattie Grant "the Gambler",NV,0.31,Pebbles,210.00,0.88,4.84,184.80,1016.40,0.00,1201.20
+14242,Darlene "Loner" Ford,CA,0.61,Brick,369.00,5.32,6.66,1963.08,2457.54,44.21,4464.83
+15110,Victoria "the Dancer",ND,1.38,Pinecones,245.00,1.50,2.66,367.50,651.70,10.19,1029.39
+15357,Maureen "Cursed" Andrews,ID,0.00,Dirt,189.00,0.50,1.00,94.50,189.00,0.00,283.50
+16334,Gladys "Locoweed" Keller,KS,0.55,Packed Dirt,117.00,1.10,2.20,128.70,257.40,3.86,389.96
+21846,Lena Chapman "the Bully",MO,2.20,Beechwood,179.00,3.63,6.05,649.77,1082.95,34.65,1767.37
+22019,Joanne "Damned" Miles,TX,0.67,Packed Dirt,208.00,1.10,2.42,228.80,503.36,7.32,739.48
+22236,Renee "Hellish Empress" Banks,MT,5.84,Beechwood,163.00,3.63,6.05,591.69,986.15,94.67,1672.51

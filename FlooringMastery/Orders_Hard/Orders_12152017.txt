@@ -1,0 +1,19 @@
+360,"Gadriel, God of Resurrection",The Fen of the Necromancer,41.00,Nymphs' Luminous Rotmercury Of The Skies,140.00,266.00,189.00,37240.00,26460.00,26117.00,89817.00
+873,Bronzespike,The Barrow of Malefic Ages,17.91,Primordial Mud Orichalcum,264.00,-387.90,77.37,-102405.60,20425.68,-14756.39,-96736.31
+1339,"Ingwenel, God of War",The Forsaken Tomb of Devastation,0.00,Dragons' Poison Glitterflesh Steel Of The North,140.00,2790.70,216.48,390698.00,30307.20,0.00,421005.20
+4441,"Ariel, God of Luck",Citadel Ward,28.40,Djinni's Mind Fogiron,22.00,2301.02,67.29,50622.44,1480.38,14588.79,66691.61
+5707,"Iran, Lord of Nightmares",The Nulukkhath Spires,10.59,Forgotten Mithril,191.00,913.00,316.00,174383.00,60356.00,25821.29,260560.29
+6624,Clash Lonedrake,The Dread Hive of Illfang the Kobold Lord,1.33,Timeiron,207.00,1596.00,228.33,330372.00,47264.31,3776.36,381412.67
+6684,"Byzou, God of Animals",The Tower of the Demon Warlord,15.75,Foul Ice Bronze Of Life,291.00,-92.21,129.80,-26833.11,37771.80,1750.19,12688.88
+9502,"Prusu, God of Love",The Pirate's Pipe,17.60,Spectres' Shadowy Terrorglow Adamant Of Life,310.00,4694.80,205.50,1455388.00,63705.00,273436.74,1792529.74
+10269,Rouge Tombreaper,The Tomb of Hellish Ruin,16.94,Ensorceled Gold Of The Dawn,124.00,5713.98,402.92,708533.52,49962.08,128944.25,887439.85
+11808,"Prusu, God of Love",Archring Borough,17.93,Magic Adamant,173.00,1838.00,228.40,317974.00,39513.20,64347.70,421834.90
+11983,Song Runetomb,Shainan's Hold,23.96,White Platinum,221.00,-52.59,159.50,-11622.39,35249.50,5670.51,29297.62
+14912,Spikebrood The Disinterred,The Forsaken Sepulcher of Sorrows,53.67,Grayplatinum,184.00,2506.27,306.97,461153.68,56482.48,279523.53,797159.69
+15110,Dawn Darkzealot,The Greedy Wench,32.70,Violetdream Iron,187.00,1224.69,349.36,229017.03,65330.32,97134.63,391481.98
+15377,Spikerivet,The Desert of Flames,51.91,Primordial False Gold,188.00,5395.80,248.60,1014410.40,46736.80,551796.54,1612943.74
+16481,Bane Veil,Gena's Hold,2.66,Shadowhell Mithril,89.00,483.15,315.05,43000.35,28039.45,2131.19,73170.99
+17319,"Iran, Lord of Nightmares",North Arcanist's Farthing,55.18,Hidden Shadowice Lead,256.00,2729.00,-62.23,698624.00,-15930.88,375481.22,1058174.34
+20584,Steelterror The Blade,Bergfison's Deep,52.71,Greenlead,335.00,959.65,179.65,321482.75,60182.75,202282.72,583948.22
+21796,Beamtrap,The Grey Plains,21.97,Sphinxes' Unknown Poisongold Of The Future,181.00,4301.28,23.86,778531.68,4318.66,172227.07,955077.41
+22877,"Baltha, Goddess of Knowledge",The Desert of Flames,57.10,Magic Adamant,183.00,2021.80,228.40,369989.40,41797.20,234718.36,646504.96

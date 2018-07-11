@@ -1,0 +1,17 @@
+2969,Friendly Howell,AL,1.00,Reeds,204.00,0.75,2.00,153.00,408.00,5.61,566.61
+6344,Cathy "Loner Demon" Murray,KS,0.50,Cedar Planks,201.00,2.20,5.50,442.20,1105.50,0.00,1547.70
+7184,Tammy Carlson "the Killer",UT,0.00,Dirt,260.00,0.50,1.00,130.00,260.00,0.00,390.00
+7228,Theresa "Scalphunter" Romero,AL,1.00,Brick,203.00,4.84,6.66,982.52,1351.98,23.34,2357.84
+7859,Melissa "Lonesome Stalker" Riley,NV,0.31,Packed Dirt,96.00,1.00,1.50,96.00,144.00,0.00,240.00
+11298,Black Beck,UT,0.00,Solid Oak,163.00,5.50,5.50,896.50,896.50,0.00,1793.00
+13720,Julia "Bandit" Chandler,OK,2.42,Solid Oak,212.00,5.50,5.50,1166.00,1166.00,46.64,2378.64
+14080,Ida Russell "the Rustler",AR,2.20,Brick,104.00,5.32,6.66,553.28,692.64,24.92,1270.84
+15311,Mabel "Vixen Cursed" King,MS,3.00,Pebbles,211.00,0.88,4.84,185.68,1021.24,36.21,1243.13
+15569,Gloria "Devil" McCoy,IA,1.21,Solid Oak,334.00,5.50,5.50,1837.00,1837.00,36.74,3710.74
+17302,Marie "Raven" Chapman,OK,2.42,Leather,138.00,11.00,19.97,1518.00,2755.86,85.48,4359.34
+17469,Heather "Tornado" Newman,OK,2.42,Packed Dirt,148.00,1.10,2.20,162.80,325.60,9.77,498.17
+19849,Renee "Hellish Empress" Banks,NV,0.31,Pebbles,314.00,0.88,4.84,276.32,1519.76,0.00,1796.08
+20052,Cathy "Loner Demon" Murray,MS,3.00,Brick,231.00,5.32,6.66,1228.92,1538.46,83.02,2850.40
+20176,Renee "Hellish Empress" Banks,IA,1.33,Beechwood,117.00,3.63,6.05,424.71,707.85,11.33,1143.89
+21503,Vengeful Montgomery,NV,0.31,Cedar Planks,180.00,2.20,6.66,396.00,1198.80,0.00,1594.80
+22720,Minnie Lawson "the Apostle",KS,0.55,Cedar Planks,231.00,2.20,6.66,508.20,1538.46,20.47,2067.13

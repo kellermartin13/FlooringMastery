@@ -1,0 +1,17 @@
+1506,Mattie Grant "the Gambler",ND,1.25,Pinecones,176.00,1.50,2.00,264.00,352.00,6.16,622.16
+2146,Vicki "Mesa" Rhodes,AR,2.20,Dirt,297.00,0.50,1.00,148.50,297.00,8.91,454.41
+2423,Susan "Damnation" Fleming,AR,2.20,Pebbles,135.00,0.80,4.40,108.00,594.00,14.04,716.04
+6909,Jo "the Joker",IA,1.21,Pebbles,196.00,0.80,4.84,156.80,948.64,11.05,1116.49
+7237,Minnie Lawson "the Apostle",AL,1.00,Dirt,157.00,0.50,1.00,78.50,157.00,2.36,237.86
+9682,Elizabeth "the Bully",OK,2.20,Pinecones,226.00,1.50,2.66,339.00,601.16,18.80,958.96
+10513,Vengeful Robertson,WY,0.31,Solid Oak,102.00,5.50,5.50,561.00,561.00,0.00,1122.00
+12925,Helen Webb "the Dancer",WY,0.31,Pinecones,106.00,1.50,2.66,159.00,281.96,0.00,440.96
+13067,Marie "Raven" Chapman,KS,0.55,Brick,122.00,4.84,6.66,590.48,812.52,14.03,1417.03
+14633,Amanda Hart "the Loner",ND,1.38,Brick,196.00,5.32,6.66,1042.72,1305.36,23.48,2371.56
+16954,Surgeon Grant,NV,0.31,Pebbles,213.00,0.88,4.84,187.44,1030.92,0.00,1218.36
+17294,Mabel "Vixen Cursed" King,NV,0.31,Dirt,155.00,0.50,1.00,77.50,155.00,0.00,232.50
+18212,Melissa "Lonesome Stalker" Riley,NM,2.93,Cedar Planks,165.00,2.20,6.66,363.00,1098.90,43.86,1505.76
+20102,Renee "Loco Tracker" Jordan,MT,4.39,Solid Oak,215.00,5.50,6.66,1182.50,1431.90,104.58,2718.98
+20384,Susan "Damnation" Fleming,MS,3.00,Pinecones,234.00,1.50,2.66,351.00,622.44,29.20,1002.64
+21250,Allison "Steel Gravedigger" Douglas,AR,2.20,Dirt,95.00,0.55,1.00,52.25,95.00,2.94,150.19
+21711,Victoria "the Dancer",ND,1.67,Reeds,224.00,0.83,2.20,185.92,492.80,13.57,692.29

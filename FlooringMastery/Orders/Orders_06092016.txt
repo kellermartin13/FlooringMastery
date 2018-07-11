@@ -1,0 +1,17 @@
+2999,Gloria "Devil" McCoy,AL,1.00,Beechwood,279.00,3.00,5.00,837.00,1395.00,22.32,2254.32
+3101,"Sunrise" Miles,AR,2.20,Cedar Planks,108.00,2.00,5.50,216.00,594.00,16.20,826.20
+3517,Gladys "Locoweed" Keller,AR,2.20,Packed Dirt,120.00,1.00,1.50,120.00,180.00,6.00,306.00
+4203,Mattie Grant "the Gambler",NV,0.25,Dirt,274.00,0.50,1.00,137.00,274.00,0.00,411.00
+4448,Jacqueline "Riding Doc" Washington,KS,0.50,Packed Dirt,362.00,1.00,1.50,362.00,543.00,0.00,905.00
+6145,Susan "Damnation" Fleming,TX,0.50,Dirt,187.00,0.50,1.00,93.50,187.00,0.00,280.50
+8052,Helen Webb "the Dancer",AL,1.00,Solid Oak,389.00,5.50,5.50,2139.50,2139.50,42.79,4321.79
+8650,"Doom" McCoy,UT,0.00,Cedar Planks,113.00,2.20,6.05,248.60,683.65,0.00,932.25
+8802,Michele Watson "the Loner",ID,0.00,Solid Oak,247.00,5.50,5.50,1358.50,1358.50,0.00,2717.00
+8912,Jacqueline "Riding Doc" Washington,KS,0.50,Pebbles,248.00,0.88,4.84,218.24,1200.32,0.00,1418.56
+9118,Susan "Damnation" Fleming,OK,2.20,Beechwood,132.00,3.00,5.50,396.00,726.00,22.44,1144.44
+9406,Amanda Hart "the Loner",MS,3.00,Reeds,230.00,0.75,2.20,172.50,506.00,20.36,698.86
+11415,Diana "Mistress" Morgan,NM,2.20,Beechwood,169.00,3.00,5.50,507.00,929.50,28.73,1465.23
+11647,Jo "the Joker",MT,3.63,Pebbles,249.00,0.88,4.84,219.12,1205.16,56.97,1481.25
+16113,Kathy Murphy "the Thinker",OK,2.42,Solid Oak,89.00,5.50,6.05,489.50,538.45,20.56,1048.51
+16548,Betty "Happy Thinker" Watson,MO,2.20,Solid Oak,305.00,5.50,6.05,1677.50,1845.25,70.46,3593.21
+20691,Allison "Steel Gravedigger" Douglas,MO,2.20,Leather,133.00,11.00,19.97,1463.00,2656.01,82.38,4201.39

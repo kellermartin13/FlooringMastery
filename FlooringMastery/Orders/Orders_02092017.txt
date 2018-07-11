@@ -1,0 +1,24 @@
+1716,Heather "Tornado" Newman,AL,1.00,Dirt,215.00,0.50,1.00,107.50,215.00,3.22,325.72
+1915,Evelyn "Evil Joker" Taylor,MO,2.20,Packed Dirt,138.00,1.00,1.50,138.00,207.00,6.90,351.90
+3665,"Bane" Jennings,MT,3.00,Dirt,100.00,0.50,1.00,50.00,100.00,4.50,154.50
+4247,Victoria "the Dancer",MT,3.00,Leather,147.00,10.00,16.50,1470.00,2425.50,116.86,4012.36
+4885,"Scalphunter" Kennedy,CA,0.55,Dirt,133.00,0.50,1.00,66.50,133.00,2.00,201.50
+4986,Susan "Damnation" Fleming,MO,2.20,Reeds,358.00,0.75,2.20,268.50,787.60,21.12,1077.22
+5441,Lucky Johnson,AL,1.00,Pinecones,255.00,1.50,2.42,382.50,617.10,10.00,1009.60
+5482,Diana "Mistress" Morgan,OK,2.00,Beechwood,274.00,3.00,5.00,822.00,1370.00,43.84,2235.84
+6193,Renee "Hellish Empress" Banks,CA,0.55,Solid Oak,279.00,5.50,5.50,1534.50,1534.50,30.69,3099.69
+6527,Mattie Grant "the Gambler",MT,3.00,Beechwood,277.00,3.00,5.00,831.00,1385.00,66.48,2282.48
+7666,Lena Chapman "the Bully",OK,2.20,Leather,165.00,10.00,18.15,1650.00,2994.75,92.90,4737.65
+10618,Allison "Steel Gravedigger" Douglas,MT,3.63,Dirt,189.00,0.50,1.00,94.50,189.00,11.34,294.84
+11798,Jo "the Joker",IA,1.21,Brick,198.00,4.84,6.66,958.32,1318.68,22.77,2299.77
+12666,Maureen "Cursed" Andrews,OK,2.42,Solid Oak,363.00,5.50,5.50,1996.50,1996.50,79.86,4072.86
+13057,Minnie Lawson "the Apostle",NV,0.31,Solid Oak,183.00,5.50,5.50,1006.50,1006.50,0.00,2013.00
+13145,Helen Webb "the Dancer",IA,1.21,Leather,183.00,11.00,18.15,2013.00,3321.45,53.34,5387.79
+13912,Minnie Lawson "the Apostle",IA,1.21,Cedar Planks,248.00,2.20,6.05,545.60,1500.40,20.46,2066.46
+15994,"Scalphunter" Kennedy,UT,0.00,Leather,224.00,11.00,18.15,2464.00,4065.60,0.00,6529.60
+16056,Dorothy "the Hunter",NV,0.31,Leather,37.00,11.00,18.15,407.00,671.55,0.00,1078.55
+17983,Theresa "Scalphunter" Romero,NM,2.93,Cedar Planks,183.00,2.20,6.66,402.60,1218.78,48.64,1670.02
+19481,Diana "Mistress" Morgan,ND,1.67,Pinecones,184.00,1.50,2.66,276.00,489.44,15.31,780.75
+21154,Beth "Fortunate Shooter" Powell,WY,0.31,Packed Dirt,236.00,1.10,2.42,259.60,571.12,0.00,830.72
+21684,"Scalphunter" Kennedy,NM,2.93,Cedar Planks,325.00,2.20,6.66,715.00,2164.50,86.38,2965.88
+22139,Heather "Friendly Gambler" Barrett,MO,2.20,Dirt,186.00,0.55,1.00,102.30,186.00,5.77,294.07

@@ -1,0 +1,22 @@
+1717,"Gadriel, God of Resurrection",The Hunter and Rose,36.73,Greenlead,123.00,721.00,134.97,88683.00,16601.31,38955.19,144239.50
+1930,Evilcoil The Machine,The Forsaken Tomb of Devastation,0.00,Planar Mudtin Of Trolls,198.00,2094.92,335.36,414794.16,66401.28,0.00,481195.44
+2035,Terrorghoul The Unspeakable,The Chuallanto Jungle,37.00,Angels' Adamant,273.00,1304.00,179.30,355992.00,48948.90,149828.13,554769.03
+3124,Dagger Reaper,The Fortress of Gama,10.16,Violetdream Iron,56.00,1224.69,349.36,68582.64,19564.16,8814.68,96961.48
+3408,Burnchill The Evil,The Forsaken Hive of Galima the Mighty,22.45,Heavenly Dreamsilver Of The Night,132.00,1826.98,112.00,241161.36,14784.00,56307.98,312253.34
+6157,Rouge Tombreaper,The Archer and Blade,9.00,Trolls' Mist Poisonplatinum Of The Twilight,253.00,516.17,394.90,130591.01,99909.70,20745.06,251245.77
+6880,"Eumyan, Goddess of Law",The Lost Crypts of Sorrows,35.87,Spectres' Shadowy Terrorglow Adamant Of Life,265.00,4694.80,205.50,1244122.00,54457.50,467488.62,1766068.12
+7072,Shadow Tomblion,Mahyrst Keep,25.14,Unholy Poison Copper Of The Mountains,140.00,580.91,-9.24,81327.40,-1293.60,20008.45,100042.25
+8449,Rune Rougehate,The Wizard's House,43.58,Hell Mercury Of The East,167.00,4636.34,284.60,774268.78,47528.20,361590.67,1183387.65
+8464,"Gono, Goddess of the Earth",The Broken Arrow,30.07,Incubi's Iron Of The Dawn,203.00,1200.96,424.31,243794.88,86134.93,98978.94,428908.75
+11403,Boltcrank The Trapper,Eved Castle,5.09,God-touched Greengem Platinum,160.00,1281.72,-39.60,205075.20,-6336.00,9936.96,208676.16
+12815,Rune Rougehate,The Glano Forest,3.00,Imperial Fate Steel,216.00,2993.93,-44.92,646688.88,-9702.72,19109.58,656095.74
+13553,Wheelspawn,The Pilgrim's Cup,46.12,Mistgold Of Men,320.00,3709.51,53.24,1187043.20,17036.80,553876.80,1757956.80
+14770,Cult Godseeker,Haukri's Hold,27.83,Swordbronze,166.00,1485.01,447.01,246511.66,74203.66,89800.29,410515.61
+15314,Icechill The Frigid,The Tower of Sabiesu the Awesome,5.32,Sphinxes' Unknown Poisongold Of The Future,165.00,3910.25,23.86,645191.25,3936.90,32456.41,681584.56
+15405,Sephiroth Drakecaster,Gifeld Castle,6.22,Primordial False Gold,184.00,5395.80,248.60,992827.20,45742.40,62314.18,1100883.78
+15756,Gravebone The Unspeakable,The Desert of Flames,51.91,Poison Adamant,266.00,1151.38,64.44,306267.08,17141.04,168172.22,491580.34
+15764,Rouge Roguemist,Lamp Borough,4.95,Plague Tin,363.00,4767.02,342.10,1730428.26,124182.30,92730.53,1947341.09
+16052,"Gadriel, God of Resurrection",Peley Keep,26.33,Meteoric Dustzephyr Orichalcum,117.00,375.00,268.49,43875.00,31413.33,19574.97,94863.30
+18529,"Finarfin, God of Protection",The Demon and Toad,28.74,Sirens' Rockgold,236.00,-352.01,199.96,-83074.36,47190.56,-10406.30,-46290.10
+19343,Claw Mist,Bifar's Deep,18.70,Venom Timegold Of Dwarves,205.00,3339.60,295.90,684618.00,60659.50,141602.72,886880.22
+22436,Nailpiston The Grasping,The Lewd King,32.67,Muck Orichalcum Of Ogres,129.00,4561.14,485.76,588387.06,62663.04,214846.53,865896.63

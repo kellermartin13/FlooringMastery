@@ -1,0 +1,24 @@
+348,Storm Seraphheart,The Citadel of Cheno,5.00,Legendary Mithril Of The Moon,224.00,2461.00,104.00,551264.00,23296.00,28728.00,603288.00
+1313,Fate Ivycaster,The Cuitamba Jungle,28.00,Primordial Mud Orichalcum,171.00,-387.90,77.37,-66330.90,13230.27,-14868.18,-67968.81
+2164,"Iran, Lord of Nightmares",Tower Farthing,22.41,Stone Soulsteel Of The Skies,176.00,1634.80,12.01,287724.80,2113.76,63764.48,353603.04
+3047,"Melcha, Goddess of Thieves",The Grey Plains,19.97,Swordbronze,124.00,1350.01,447.01,167401.24,55429.24,44566.10,267396.58
+3847,"Maglioneth, Lord of the Sun",Gifeld Castle,6.22,Incubi's Iron Of The Dawn,321.00,1200.96,385.74,385508.16,123822.54,30559.84,539890.54
+4231,Springsprocket,Citadel Ward,25.82,Violetstone Tin Of Death,21.00,2245.23,156.10,47149.83,3278.10,13111.26,63539.19
+5479,Lance Knightseraph,The Dungeon of Merciless Woe,38.62,Mithril Of The Tropics,284.00,3751.00,9.00,1065284.00,2556.00,416457.60,1484297.60
+6608,"Alik, Goddess of Trickery",Noble's Village,27.50,Foul Ice Bronze Of Life,100.00,-92.21,129.80,-9221.00,12980.00,1052.52,4811.52
+7680,Sunrise Godwarlock,The Dungeon of Dismal Terror,-3.50,Meteoric Mirrormuck Orichalcum Of The Forests,240.00,2158.20,185.77,517968.00,44584.80,-22502.11,540050.69
+8265,Storm Seraphheart,Tradun Castle,34.24,Negative Rockglitter Mercury Of Trolls,306.00,1483.90,423.07,454073.40,129459.42,198401.16,781933.98
+8459,Spikebrood The Disinterred,Minas Gilloy,39.26,Planar Obsidian Mercury Of Wizards,351.00,2574.00,141.57,903474.00,49691.07,371734.38,1324899.45
+9557,Shiverflame The Freezer,The Pirate's Pipe,17.60,Spirits' Living Wordhammer Tin Of The Trees,330.00,4777.30,26.40,1576509.00,8712.00,285339.78,1870560.78
+12253,Dagger Reaper,The Citadel of Alammius,3.50,Transcendent Gold,253.00,-193.60,282.17,-48980.80,71389.01,896.33,23304.54
+13901,Ironbrood,Archfane District,32.87,Ghostly Soul Adamant,180.00,3222.96,229.53,580132.80,41315.40,205077.91,826526.11
+14087,Flameflare The Evil,The Citadel of Lord Greywulf,33.04,Zephyr Iron,260.00,3034.90,444.69,789074.00,115619.40,298548.82,1203242.22
+14875,Ironbrood,The Cuitamba Jungle,30.80,Violetdream Iron,91.00,1224.69,349.36,111446.79,31791.76,44403.95,187642.50
+15214,Storm Squallmourner,Grori's Deep,60.45,Lunar Bronze,263.00,753.86,337.70,198265.18,88815.10,172248.17,459328.45
+15270,Slayer Claw,The Fortress of Asmamur,-4.93,Primordial False Gold,287.00,5395.80,248.60,1548594.60,71348.20,-80997.14,1538945.66
+15716,"Gono, Goddess of the Earth",Gili's Delve,-6.73,Rainbowglitter Tin,74.00,5957.39,213.40,440846.86,15791.60,-31964.69,424673.77
+17752,Cinderember,The Grey Plains,19.97,Hidden Shadowice Lead,181.00,2729.00,-62.23,493949.00,-11263.63,96537.07,579222.44
+18454,Storm Squallmourner,The Forsaken Sepulcher of Sorrows,53.67,Starlight Pearldream Bronze,186.00,322.10,147.40,59910.60,27416.40,47156.58,134483.58
+18518,Wheelspawn,The Tower of Aces the Accursed,13.31,Ensorceled Sandmetal Of Spirits,318.00,2956.98,95.70,940319.64,30432.60,126197.79,1096950.03
+22016,Burnbrood The Freezer,The Secret Shrine of the Gargoyle Count,-2.00,Toxic Mistlead Of The Past,275.00,1557.54,181.10,428323.50,49802.50,-9562.52,468563.48
+22694,Storm Seraphheart,Grori's Deep,66.50,Djinni's Evil Sandobsidian Steel Of The Future,195.00,4208.60,172.78,820677.00,33692.10,563883.61,1418252.71

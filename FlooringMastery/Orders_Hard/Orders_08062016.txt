@@ -1,0 +1,16 @@
+941,"Ahah, Goddess of Knowledge",Reyny Keep,11.00,Muck Orichalcum Of Ogres,304.00,3115.32,274.19,947057.28,83353.76,113345.21,1143756.25
+4641,Burnchill The Evil,North Grove Ward,6.60,Devils' Falserot Silver,161.00,1668.51,182.71,268630.11,29416.31,20863.25,318909.67
+5328,"Azah, Goddess of Fate",The Fortress of the Lich Queen,36.35,Rot Silver Of The Past,195.00,3440.00,327.00,670800.00,63765.00,264443.40,999008.40
+7955,Evilember The Firey,Minas Gilloy,39.26,Heavenly Dreamsilver Of The Night,376.00,2009.68,112.00,755639.68,42112.00,311123.16,1108874.84
+9992,Flameflare The Evil,The Warrior and Flagon,48.40,Djinni's Spectral Shadowlead Of Life,240.00,3705.90,325.62,889416.00,78148.80,464431.10,1431995.90
+10704,Shiverflame The Freezer,Barad Cune,28.60,Shadowhell Mithril,61.00,439.23,286.41,26793.03,17471.01,12836.57,57100.61
+11104,Sunrise Godwarlock,Unicorn's Ward,14.64,Unspeakable Rotsoul Mithril Of Souls,185.00,248.00,401.53,45880.00,74283.05,18024.46,138187.51
+12409,Valentine Lawslayer,Castle Village,37.51,Spectres' Shadowy Terrorglow Adamant Of Life,333.00,5164.28,226.05,1719705.24,75274.65,682092.36,2477072.25
+12817,Flameshiver,The Hunter and Rose,40.40,Phantasmal Smokezephyr Mercury Of Men,223.00,-464.37,75.90,-103554.51,16925.70,-34651.52,-121280.33
+14092,Rouge Roguemist,The Secret Shrine of the Gargoyle Count,-2.00,Primordial Plague Mercury Of Legend,211.00,452.29,301.29,95433.19,63572.19,-3180.11,155825.27
+14155,Mecharig The Living Device,Arcanist's Farthing,3.00,Glowpearl Adamant Of Spirits,238.00,398.09,374.00,94745.42,89012.00,5512.72,189270.14
+17507,Springpulley The Binder,North Arcanist's Farthing,55.18,Meteoric Mirrormuck Orichalcum Of The Forests,225.00,2374.02,185.77,534154.50,41798.25,316774.01,892726.76
+18832,Rouge Roguemist,South Brightcrown Borough,42.25,Ensorceled Sandmetal Of Spirits,352.00,2956.98,95.70,1040856.96,33686.40,451308.21,1525851.57
+19787,Clash Lonedrake,Castle Village,49.93,Toxic Mistlead Of The Past,275.00,1557.54,164.64,428323.50,45276.00,236799.75,710399.25
+20660,Magus Felldrake,The Secret Catacombs of Ulfang the Black,42.90,Golems' Stonesapphire Gold Of The Glacier,117.00,4444.06,116.57,519955.02,13638.69,229445.30,763039.01
+22704,Burnchill The Evil,The Cuitamba Jungle,33.88,Swordbronze,173.00,1485.01,540.88,256906.73,93572.24,119162.85,469641.82

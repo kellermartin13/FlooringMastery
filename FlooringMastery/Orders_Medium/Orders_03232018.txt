@@ -1,0 +1,13 @@
+3041,Amanda Hart "the Loner",IA,1.00,Packed Dirt,208.00,1.00,1.50,208.00,312.00,5.20,525.20
+5458,Heather "Friendly Gambler" Barrett,NV,0.25,Pinecones,195.00,1.50,2.42,292.50,471.90,0.00,764.40
+6515,Stella "the Bully",MS,3.00,Leather,73.00,10.00,18.15,730.00,1324.95,61.65,2116.60
+7279,Ida Russell "the Rustler",MS,3.00,Dirt,330.00,0.50,1.00,165.00,330.00,14.85,509.85
+8980,"Sunrise" Miles,NV,0.31,Leather,266.00,10.00,18.15,2660.00,4827.90,0.00,7487.90
+9816,Heather "Tornado" Newman,MO,2.20,Pebbles,234.00,0.88,4.84,205.92,1132.56,26.77,1365.25
+10124,Vengeful Robertson,OK,2.20,Beechwood,242.00,3.00,5.50,726.00,1331.00,41.14,2098.14
+11386,Ida Russell "the Rustler",NV,0.31,Beechwood,104.00,3.00,5.50,312.00,572.00,0.00,884.00
+16546,Susan "Damnation" Fleming,CA,0.61,Cedar Planks,176.00,2.20,6.05,387.20,1064.80,14.52,1466.52
+17684,Lucky Johnson,IA,1.21,Beechwood,233.00,3.63,5.50,845.79,1281.50,21.27,2148.56
+22231,Julia "Bandit" Chandler,WY,0.31,Packed Dirt,277.00,1.10,2.42,304.70,670.34,0.00,975.04
+22759,Dorothy "the Hunter",KS,0.55,Pinecones,215.00,1.50,2.93,322.50,629.95,9.52,961.97
+23043,Betty "Happy Thinker" Watson,ND,1.67,Beechwood,191.00,3.63,6.05,693.33,1155.55,36.98,1885.86

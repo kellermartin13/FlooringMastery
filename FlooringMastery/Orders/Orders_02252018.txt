@@ -1,0 +1,20 @@
+183,Allison "Steel Gravedigger" Douglas,IA,1.00,Pinecones,135.00,1.50,2.00,202.50,270.00,4.72,477.22
+3258,Theresa "Kid" Robinson,OK,2.00,Solid Oak,213.00,5.50,5.00,1171.50,1065.00,44.73,2281.23
+3523,"Doom" McCoy,OK,2.00,Cedar Planks,124.00,2.00,5.50,248.00,682.00,18.60,948.60
+4939,Vengeful Robertson,UT,0.00,Brick,284.00,4.84,6.05,1374.56,1718.20,0.00,3092.76
+5370,Diana "Mistress" Morgan,MO,2.20,Dirt,224.00,0.50,1.00,112.00,224.00,6.72,342.72
+5953,Geraldine "Revenge" Warren,MT,3.00,Pebbles,156.00,0.80,4.40,124.80,686.40,24.34,835.54
+6155,Wilma "Tornado" Brooks,WY,0.31,Cedar Planks,312.00,2.20,5.50,686.40,1716.00,0.00,2402.40
+6727,Julia "Bandit" Chandler,MT,3.00,Pinecones,135.00,1.50,2.66,202.50,359.10,16.85,578.45
+9462,Kathy Murphy "the Thinker",OK,2.20,Pinecones,40.00,1.50,2.66,60.00,106.40,3.33,169.73
+10107,Susan "Damnation" Fleming,ID,0.00,Beechwood,92.00,3.00,5.50,276.00,506.00,0.00,782.00
+10146,"Doom" McCoy,MS,3.00,Pebbles,112.00,0.88,4.84,98.56,542.08,19.22,659.86
+10314,Darlene "Loner" Ford,MT,3.63,Reeds,271.00,0.75,2.20,203.25,596.20,31.98,831.43
+10679,Theresa "Kid" Robinson,ID,0.00,Solid Oak,237.00,5.50,5.50,1303.50,1303.50,0.00,2607.00
+11134,Mattie Grant "the Gambler",OK,2.42,Reeds,93.00,0.75,2.20,69.75,204.60,5.49,279.84
+12063,Michele Watson "the Loner",AR,2.20,Brick,157.00,4.84,6.66,759.88,1045.62,36.11,1841.61
+16174,Renee "Hellish Empress" Banks,AL,1.00,Pebbles,386.00,0.88,4.84,339.68,1868.24,22.08,2230.00
+16228,Surgeon Grant,ID,0.00,Solid Oak,267.00,5.50,6.05,1468.50,1615.35,0.00,3083.85
+17311,Lucky Johnson,IA,1.21,Packed Dirt,166.00,1.10,2.20,182.60,365.20,5.48,553.28
+19216,Cynthia "the Vixen",NV,0.31,Brick,57.00,5.32,6.66,303.24,379.62,0.00,682.86
+22858,Beth "Fortunate Shooter" Powell,KS,0.55,Solid Oak,193.00,5.50,6.66,1061.50,1285.38,23.47,2370.35

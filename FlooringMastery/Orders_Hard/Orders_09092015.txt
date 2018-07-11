@@ -1,0 +1,19 @@
+1057,"Gadriel, God of Resurrection",The Dungeon of Merciless Woe,38.62,Hidden Shadowice Lead,143.00,2729.00,-46.75,390247.00,-6685.25,149589.08,533150.83
+2276,Sephiroth Drakecaster,The Dancing Minstrel,21.20,Angels' Adamant,244.00,1304.00,179.30,318176.00,43749.20,76004.29,437929.49
+2739,Chainhorror,The Dismal Marsh,5.00,Toxin Iceplatinum Of The Undead,194.00,-283.29,-49.00,-54958.26,-9506.00,-3223.21,-67687.47
+5271,Rouge Roguemist,The Pirate's Pipe,17.60,Primordial False Gold,239.00,4459.34,226.00,1065782.26,54014.00,201563.33,1321359.59
+5836,Shadow Tomblion,Boiaburh Keep,16.00,Djinni's Mind Fogiron,163.00,2301.02,67.29,375066.26,10968.27,61765.52,447800.05
+7358,Graveterror,The Forsaken Delve of Lord Greywulf,39.00,Angels' Adamant,251.00,1304.00,179.30,327304.00,45004.30,145200.24,517508.54
+9642,Chainhorror,North Arcanist's Farthing,45.60,Goddesses' Spectral Poison Steel,163.00,3773.99,269.83,615160.37,43982.29,303205.62,962348.28
+10631,Rose Anchor,Haukri's Hold,27.83,Glowpearl Adamant Of Spirits,267.00,398.09,374.00,106290.03,99858.00,57721.45,263869.48
+13139,Fate Seeker,The Grey Plains,19.97,Timeiron,267.00,1596.00,228.33,426132.00,60964.11,97419.22,584515.33
+13186,Emberspawn,Castle Village,41.26,Muck Orichalcum Of Ogres,182.00,3426.85,364.95,623686.70,66420.90,282944.12,973051.72
+13888,"Prusu, God of Love",The Cracked Chalice,2.52,Violetstone Tin Of Death,228.00,2469.75,171.71,563103.00,39149.88,18067.59,620320.47
+14122,Jericho Wolf,The Bastion of the Lich Tyrant,43.00,Emerald Orichalcum,145.00,-405.76,128.90,-58835.20,18690.50,-17262.22,-57406.92
+14248,Emberfire,Dysley Stronghold,45.98,Ghostly Soul Adamant,206.00,3222.96,229.53,663929.76,47283.18,327157.95,1038370.89
+14415,Flora Amberslayer,The Tower of Aramum,42.90,Unknown Fatelightning Steel Of The Glacier,192.00,2441.05,65.68,468681.60,12610.56,206955.63,688247.79
+15657,Gale Jackalguard,Cawold Castle,24.09,Poison Adamant,343.00,1151.38,64.44,394923.34,22102.92,100086.30,517112.56
+15802,Evilcoil The Machine,Cawold Castle,24.09,Primordial False Gold,363.00,5395.80,248.60,1958675.40,90241.80,491740.13,2540657.33
+16706,Chainnail,The Broken Arrow,36.39,Planar Rainfate Mithril,136.00,1185.84,320.52,161274.24,43590.72,73751.39,278616.35
+17957,Slayer Claw,Dysley Stronghold,45.98,Undeads' Mind Orichalcum Of The Twilight,252.00,-17.00,276.00,-4284.00,69552.00,30023.28,95291.28
+20402,Burnchill The Evil,Bergfison's Deep,52.71,Zephyr Adamant,355.00,4224.00,113.22,1499520.00,40193.10,816047.94,2355761.04

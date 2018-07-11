@@ -1,0 +1,21 @@
+346,Melissa "Lonesome Stalker" Riley,NM,2.00,Pinecones,137.00,1.50,2.00,205.50,274.00,9.59,489.09
+979,Black Beck,AL,1.00,Dirt,209.00,0.50,1.00,104.50,209.00,3.14,316.64
+1517,"Doom" McCoy,KS,0.50,Solid Oak,247.00,5.00,5.00,1235.00,1235.00,0.00,2470.00
+1522,Gloria "Devil" McCoy,NM,2.20,Solid Oak,150.00,5.00,5.00,750.00,750.00,30.00,1530.00
+1978,Tina "Lady" Anderson,NM,2.20,Packed Dirt,171.00,1.00,1.50,171.00,256.50,8.55,436.05
+4651,Michele Watson "the Loner",ID,0.00,Pebbles,134.00,0.80,4.40,107.20,589.60,0.00,696.80
+6216,Lena Chapman "the Bully",AR,2.20,Pebbles,328.00,0.80,4.84,262.40,1587.52,37.00,1886.92
+7788,Renee "Loco Tracker" Jordan,AR,2.20,Solid Oak,210.00,5.50,5.50,1155.00,1155.00,46.20,2356.20
+7876,Gladys "Locoweed" Keller,OK,2.20,Reeds,125.00,0.75,2.20,93.75,275.00,7.38,376.13
+8068,April "Thunderbird" Dunn,MO,2.20,Reeds,201.00,0.75,2.20,150.75,442.20,11.86,604.81
+8782,Vanessa "Scalper" Rhodes,AR,2.20,Reeds,23.00,0.75,2.20,17.25,50.60,1.36,69.21
+10936,Kathy Murphy "the Thinker",NV,0.31,Brick,367.00,4.84,6.66,1776.28,2444.22,0.00,4220.50
+12431,"Scalphunter" Kennedy,MO,2.20,Beechwood,53.00,3.30,5.50,174.90,291.50,9.33,475.73
+12460,Victoria "the Dancer",AR,2.20,Pinecones,99.00,1.50,2.66,148.50,263.34,8.24,420.08
+16953,Friendly Howell,OK,2.42,Reeds,179.00,0.83,2.20,148.57,393.80,10.85,553.22
+17143,Jo "the Joker",KS,0.55,Leather,212.00,11.00,19.97,2332.00,4233.64,65.66,6631.30
+17221,Helen Webb "the Dancer",KS,0.55,Leather,254.00,11.00,19.97,2794.00,5072.38,78.66,7945.04
+17449,Heather "Tornado" Newman,AL,1.00,Beechwood,187.00,3.63,5.50,678.81,1028.50,17.07,1724.38
+18630,Debra "Scorpion" Lane,ID,0.00,Packed Dirt,280.00,1.10,2.20,308.00,616.00,0.00,924.00
+19264,Cathy "Loner Demon" Murray,KS,0.55,Cedar Planks,40.00,2.20,6.66,88.00,266.40,3.54,357.94
+20958,Gloria "Devil" McCoy,KS,0.55,Solid Oak,180.00,5.50,6.66,990.00,1198.80,21.89,2210.69

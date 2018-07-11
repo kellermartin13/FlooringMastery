@@ -1,0 +1,11 @@
+4749,April "Thunderbird" Dunn,IA,1.10,Cedar Planks,298.00,2.00,5.50,596.00,1639.00,22.35,2257.35
+5165,Renee "Loco Tracker" Jordan,MT,3.00,Beechwood,189.00,3.00,5.00,567.00,945.00,45.36,1557.36
+5211,Deborah "the Lady",WY,0.31,Dirt,49.00,0.50,1.00,24.50,49.00,0.00,73.50
+6354,Lena Chapman "the Bully",OK,2.20,Solid Oak,212.00,5.50,5.50,1166.00,1166.00,46.64,2378.64
+6657,Melissa "Lonesome Stalker" Riley,MS,3.00,Pebbles,67.00,0.80,4.84,53.60,324.28,11.34,389.22
+8554,Tammy Carlson "the Killer",NM,2.20,Packed Dirt,244.00,1.00,1.50,244.00,366.00,12.20,622.20
+11584,Cathy "Wildfire" Neal,MO,2.20,Brick,210.00,4.84,6.66,1016.40,1398.60,48.30,2463.30
+12279,Wilma "Tornado" Brooks,MO,2.20,Beechwood,218.00,3.30,5.50,719.40,1199.00,38.37,1956.77
+12936,Darlene "Loner" Ford,MO,2.20,Pinecones,289.00,1.50,2.66,433.50,768.74,24.04,1226.28
+17073,Cathy "Wildfire" Neal,ND,1.38,Pinecones,372.00,1.50,2.66,558.00,989.52,15.48,1563.00
+19927,Heather "Friendly Gambler" Barrett,ID,0.00,Brick,155.00,5.32,6.66,824.60,1032.30,0.00,1856.90

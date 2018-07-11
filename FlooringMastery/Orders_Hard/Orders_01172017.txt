@@ -1,0 +1,26 @@
+1325,Sunset Knightclaw,The Cuitamba Jungle,28.00,Sapphire Mindlead,239.00,1307.71,47.00,312542.69,11233.00,90657.19,414432.88
+2801,Tarot Dawn,Boiaburh Keep,16.00,Mana-touched Greenglitter Gold Of Giants,95.00,1173.98,425.00,111528.10,40375.00,24304.50,176207.60
+4325,Song Runetomb,The Wizard's House,43.58,Planar Obsidian Mercury Of Wizards,331.00,2574.00,117.00,851994.00,38727.00,391917.24,1282638.24
+4697,Evilfear The Horrorific,Archring Borough,17.93,Negative Mercury,225.00,4054.87,361.00,912345.75,81225.00,178842.74,1172413.49
+5196,Seraphim Tsunami,The Fortress of the Lich Queen,36.35,Primordial Plague Mercury Of Legend,65.00,339.81,273.90,22087.65,17803.50,14360.81,54251.96
+5470,"Baltha, Goddess of Knowledge",The Archer and Blade,9.00,Stone Soulsteel Of The Skies,298.00,1798.28,13.21,535887.44,3936.58,48584.16,588408.18
+5681,Emberfire,The Vaults of the Shadow Emperor,30.00,Mistgold Of Men,60.00,3065.71,44.00,183942.60,2640.00,55974.78,242557.38
+5824,Deathspike The Terrifying,The Cuitamba Jungle,28.00,Negative Rockglitter Mercury Of Trolls,171.00,1483.90,423.07,253746.90,72344.97,91305.72,417397.59
+6078,Lightning Brand,The Cuitamba Jungle,28.00,God-touched Greengem Platinum,303.00,1281.72,-36.00,388361.16,-10908.00,105686.88,483140.04
+6902,"Alik, Goddess of Trickery",The Forsaken Delve of Lord Greywulf,39.00,Djinni's Mind Fogiron,154.00,2301.02,74.02,354357.08,11399.08,142644.90,508401.06
+7041,Graveterror,Barad Kesa,4.32,Meteoric Dustzephyr Orichalcum,247.00,375.00,244.08,92625.00,60287.76,6116.51,159029.27
+8299,Shadow Gust,Cawold Castle,24.09,Primordial Mud Orichalcum,205.00,-387.90,77.37,-79519.50,15860.85,-15278.08,-78936.73
+12251,Law Lionwatcher,The Citadel of Alammius,3.50,Incubi's Glittering Tin Of The Future,57.00,3349.54,79.86,190923.78,4552.02,7819.03,203294.83
+14300,Emberspawn,The Secret Shrine of the Gargoyle Count,-2.00,Shadow Steel,294.00,5660.12,511.83,1664075.28,150478.02,-36291.07,1778262.23
+14500,Gale Jackalguard,The Archer and Scroll,39.60,Ensorceled Sandmetal Of Spirits,234.00,2956.98,95.70,691933.32,22393.80,285730.85,1000057.97
+15180,Blazefreeze The Chiller,The Pilgrim's Cup,46.12,Mithril Of The Tropics,274.00,4126.10,11.98,1130551.40,3282.52,521563.60,1655397.52
+15247,Sephiroth Drakecaster,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,214.00,4076.49,325.62,872368.86,69682.68,47102.58,989154.12
+18015,Claw Mist,Lamp Borough,4.95,Negative Rockglitter Mercury Of Trolls,115.00,1632.29,619.42,187713.35,71233.30,12947.33,271893.98
+18298,Sunrise Godwarlock,The Nulukkhath Spires,11.65,God-touched Faterainbow Orichalcum Of Spectres,219.00,370.41,32.01,81119.79,7010.19,10575.60,98705.58
+18555,Evilfear The Horrorific,Haukri's Hold,27.83,Primordial Mud Orichalcum,322.00,-469.36,85.11,-151133.92,27405.42,-34643.98,-158372.48
+18771,Sunrise Godwarlock,The Glano Forest,3.00,Sirens' Rockgold,157.00,-352.01,199.96,-55265.57,31393.72,-716.16,-24588.01
+19567,Lord Mystery,Archfane District,36.16,Ghostly Soul Adamant,137.00,3222.96,229.53,441545.52,31445.61,170276.81,643267.94
+19981,Evilember The Firey,Weke Tower,-0.07,Foulopal Copper Of The Skies,393.00,1787.91,403.00,702648.63,158379.00,0.00,861027.63
+21969,Evilbrood,The Tower of the Demon Warlord,20.97,Meteoric Mirrormuck Orichalcum Of The Forests,203.00,2374.02,185.77,481926.06,37711.31,109123.85,628761.22
+22943,Rune Rougehate,The Lost Crypts of Sorrows,35.87,Magic Adamant,194.00,2021.80,228.40,392229.20,44309.60,157153.97,593692.77
+23161,Flameflare The Evil,The Bastion of Sthasu the Gruesome,14.93,Pearl Mirrorice Steel Of Changelings,215.00,328.53,55.75,70633.95,11986.25,12393.03,95013.23

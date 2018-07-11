@@ -1,0 +1,14 @@
+4875,Gravebone,The Demon and Toad,23.75,Primordial Mud Orichalcum,214.00,-387.90,77.37,-83010.60,16557.18,-15948.82,-82402.24
+5226,Song Runetomb,Barad Cune,26.00,Sphinxes' Mistsoul Bronze Of The Past,235.00,1972.55,183.70,463549.25,43169.50,131746.88,638465.63
+8327,Tarot Dawn,The Forsaken Tomb of Devastation,0.00,Shadowy Adamant,315.00,618.93,478.58,194962.95,150752.70,0.00,345715.65
+8681,Magus Felldrake,Haukri's Hold,25.30,Goddesses' Spectral Poison Steel,178.00,3773.99,269.83,671770.22,48029.74,179949.99,899749.95
+10136,"Alas, Lord of Plague",The Tomb of Hellish Ruin,16.94,Djinni's Spectral Shadowlead Of Life,130.00,3705.90,325.62,481767.00,42330.60,89096.59,613194.19
+12537,Magus Felldrake,The Citadel of Alammius,3.50,Thunderbirds' Transcendent Dreamiron,220.00,2275.25,237.70,500555.00,52294.00,22113.96,574962.96
+13464,Lightning Brand,The Pilgrim's Cup,46.12,Muck Orichalcum Of Ogres,196.00,3426.85,364.95,671662.60,71530.20,341868.69,1085061.49
+14998,Burnbrood The Freezer,Gena's Hold,2.66,Ghostly Soul Adamant,376.00,3222.96,229.53,1211832.96,86303.28,38944.09,1337080.33
+15363,Rouge Tombreaper,The Desert of Flames,51.91,God-touched Faterainbow Orichalcum Of Spectres,31.00,370.41,32.01,11482.71,992.31,6487.01,18962.03
+18602,Lance Knightseraph,The Tower of Aces the Accursed,13.31,Goddesses' Spectral Poison Steel,244.00,5023.18,296.81,1225655.92,72421.64,168750.08,1466827.64
+20186,Spikespawn,Tower Farthing,27.12,Foulopal Copper Of The Skies,186.00,1787.91,403.00,332551.26,74958.00,110027.50,517536.76
+20986,Burnbrood The Freezer,The Bastion of the Lich Tyrant,52.03,Tritons' Time Stoneiron Of Legend,203.00,2129.60,224.81,432308.80,45636.43,248531.52,726476.75
+22557,Spikesnare,Grori's Deep,66.50,Violetdream Iron,25.00,1630.07,349.36,40751.75,8734.00,32660.60,82146.35
+22858,"Iran, Lord of Nightmares",The Lost Sanctum of Woe,3.30,Magic Adamant,189.00,2021.80,228.40,382120.20,43167.60,12758.63,438046.43

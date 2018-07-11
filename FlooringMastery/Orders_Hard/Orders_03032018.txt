@@ -1,0 +1,15 @@
+33,"Baltha, Goddess of Knowledge",Gena's Hold,2.00,Toxic Mistlead Of The Past,304.00,1557.54,123.69,473492.16,37601.76,10221.88,521315.80
+5673,Beamtrap,Barad Kesa,4.32,Negative Rockglitter Mercury Of Trolls,265.00,1483.90,423.07,393233.50,112113.55,20213.88,525560.93
+6343,"Nelalwe, Lady of Fire",The Pirate's Pipe,17.60,Glowpearl Adamant Of Spirits,317.00,361.90,374.00,114722.30,118558.00,41990.45,275270.75
+6487,"Lionare, God of the Lost",South Brightcrown Borough,42.25,Unholy Poison Copper Of The Mountains,174.00,580.91,-9.24,101078.34,-1607.76,41777.64,141248.22
+6785,Chillfire The Chiller,The Tower of Aces the Accursed,13.31,Foul Ice Bronze Of Life,175.00,-92.21,129.80,-16136.75,22715.00,855.17,7433.42
+8838,Springcoil,The Nulukkhath Spires,10.59,Foul Ice Bronze Of Life,287.00,-92.21,129.80,-26464.27,37252.60,1186.72,11975.05
+12116,Rouge Roguemist,The Black Barrow of Bery,-0.07,Magicians' Legendary Poison Metal,182.00,2719.59,229.81,494965.38,41825.42,0.00,536790.80
+14066,Metalghoul,Lacot Stronghold,37.37,Spectres' Shadowy Terrorglow Adamant Of Life,188.00,5164.28,248.66,970884.64,46748.08,376524.11,1394156.83
+14769,Evilcoil The Machine,Grove Farthing,19.80,Legendary Mithril Of The Moon,301.00,2707.10,125.84,814837.10,37877.84,170542.99,1023257.93
+15885,Freezebrood,The Fortress of Asmamur,-4.93,Shadowy Adamant,41.00,618.93,526.44,25376.13,21584.04,-2348.01,44612.16
+15920,Rouge Roguemist,Gili's Delve,-6.73,Toxin Iceplatinum Of The Undead,313.00,-377.06,-59.29,-118019.78,-18557.77,9560.43,-127017.12
+17000,Scarechain The Unspeakable,Arcanist's Farthing,3.30,Magicians' Legendary Poison Metal,197.00,2719.59,252.79,535759.23,49799.63,17566.77,603125.63
+21579,Metalghoul,Pawic Keep,0.62,Angels' Smoke Adamant Of The Mountains,238.00,3427.13,260.15,815656.94,61915.70,8775.73,886348.37
+22277,Cult Godseeker,Gawold Castle,6.05,Foul Ice Bronze Of Life,138.00,-101.43,157.06,-13997.34,21674.28,460.62,8137.56
+23227,Chainnail,The Beggar and Cask,25.41,Mithril Of The Tropics,231.00,4992.58,11.98,1153285.98,2767.38,289013.34,1445066.70

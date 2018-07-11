@@ -1,0 +1,14 @@
+105,Lorraine "Utah" Adams,WY,0.25,Packed Dirt,58.00,1.00,1.50,58.00,87.00,0.00,145.00
+3170,Gladys "Locoweed" Keller,MT,3.00,Dirt,158.00,0.50,1.00,79.00,158.00,7.11,244.11
+3236,Florence "Leather Doc" Grant,NM,2.20,Solid Oak,155.00,5.50,5.00,852.50,775.00,32.55,1660.05
+9904,Helen Webb "the Dancer",TX,0.55,Packed Dirt,187.00,1.00,1.50,187.00,280.50,4.68,472.18
+10759,Helen Webb "the Dancer",MT,3.63,Pinecones,206.00,1.50,2.66,309.00,547.96,34.28,891.24
+12623,Debra "Scorpion" Lane,OK,2.42,Pinecones,256.00,1.50,2.66,384.00,680.96,21.30,1086.26
+13593,Cynthia "the Vixen",ND,1.38,Pinecones,187.00,1.50,2.66,280.50,497.42,7.78,785.70
+17600,Friendly Howell,MT,3.99,Pinecones,211.00,1.50,2.66,316.50,561.26,35.11,912.87
+17867,Cathy "Loner Demon" Murray,OK,2.42,Packed Dirt,186.00,1.10,2.20,204.60,409.20,12.28,626.08
+19806,Gladys "Locoweed" Keller,KS,0.55,Dirt,122.00,0.50,1.00,61.00,122.00,1.83,184.83
+19895,Darlene "Loner" Ford,NM,2.93,Solid Oak,131.00,5.50,6.66,720.50,872.46,47.79,1640.75
+20586,"Bane" Jennings,KS,0.55,Leather,281.00,11.00,19.97,3091.00,5611.57,87.03,8789.60
+21188,"Doom" McCoy,CA,0.67,Brick,294.00,5.32,6.66,1564.08,1958.04,35.22,3557.34
+22458,Debra "Scorpion" Lane,AR,2.20,Reeds,378.00,0.83,2.20,313.74,831.60,22.91,1168.25

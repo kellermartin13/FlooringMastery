@@ -1,0 +1,14 @@
+228,April "Thunderbird" Dunn,NM,2.00,Leather,205.00,10.00,15.00,2050.00,3075.00,102.50,5227.50
+507,Tina "Lady" Anderson,TX,0.50,Leather,286.00,10.00,15.00,2860.00,4290.00,0.00,7150.00
+951,"Bane" Jennings,TX,0.50,Brick,245.00,4.00,5.00,980.00,1225.00,0.00,2205.00
+3387,Evelyn "Evil Joker" Taylor,AL,1.00,Beechwood,239.00,3.00,5.00,717.00,1195.00,19.12,1931.12
+6072,Theresa "Scalphunter" Romero,AL,1.00,Solid Oak,301.00,5.50,5.50,1655.50,1655.50,33.11,3344.11
+11764,Lena Chapman "the Bully",AL,1.00,Reeds,232.00,0.75,2.20,174.00,510.40,6.84,691.24
+12799,Melissa "Lonesome Stalker" Riley,MO,2.20,Solid Oak,248.00,5.50,5.50,1364.00,1364.00,54.56,2782.56
+14271,Wilma "Tornado" Brooks,UT,0.00,Leather,228.00,11.00,18.15,2508.00,4138.20,0.00,6646.20
+15078,Evelyn "Evil Joker" Taylor,UT,0.00,Pinecones,136.00,1.50,2.66,204.00,361.76,0.00,565.76
+16112,Susan "Damnation" Fleming,TX,0.67,Beechwood,60.00,3.63,5.50,217.80,330.00,5.48,553.28
+17913,Darlene "Loner" Ford,AR,2.20,Pebbles,176.00,0.88,4.84,154.88,851.84,20.13,1026.85
+18403,Theresa "Kid" Robinson,ND,1.67,Solid Oak,100.00,5.50,6.66,550.00,666.00,24.32,1240.32
+18435,Heather "Tornado" Newman,MS,3.00,Dirt,74.00,0.50,1.00,37.00,74.00,3.33,114.33
+21928,Stella "the Bully",CA,0.67,Cedar Planks,135.00,2.20,6.66,297.00,899.10,11.96,1208.06

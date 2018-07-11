@@ -1,0 +1,14 @@
+629,Snarepiston The Mechanical,The Black Barrow of Bery,-0.07,Trolls' Mist Poisonplatinum Of The Twilight,271.00,516.17,394.90,139882.07,107017.90,0.00,246899.97
+1261,Magus Felldrake,The Cuitamba Jungle,28.00,Sapphire Mindlead,220.00,1307.71,47.00,287696.20,10340.00,83450.14,381486.34
+8632,Steelterror The Blade,The Black Barrow of Bery,-0.07,Djinni's Spectral Shadowlead Of Life,228.00,3705.90,296.02,844945.20,67492.56,0.00,912437.76
+9045,"Avriel, God of Death",The Archer and Scroll,39.60,Primordial Plague Mercury Of Legend,141.00,452.29,301.29,63772.89,42481.89,42501.91,148756.69
+15615,Burnchill The Evil,Gifeld Castle,6.22,Unspeakable Rotsoul Mithril Of Souls,243.00,248.00,401.53,60264.00,97571.79,9470.15,167305.94
+16095,Evilfear The Horrorific,The Pilgrim's Cup,46.12,Thunderbirds' Transcendent Dreamiron,263.00,2275.25,237.70,598390.75,62515.10,304016.69,964922.54
+17346,Dawn Darkzealot,Lamp Borough,4.95,Sphinxes' Mistsoul Bronze Of The Past,269.00,2169.81,222.28,583678.89,59793.32,32173.61,675645.82
+17484,Clash Lonedrake,Weke Tower,-0.07,Sphinxes' Mistsoul Bronze Of The Past,174.00,2169.81,222.28,377546.94,38676.72,0.00,416223.66
+18308,Scarefear The Blade,Grori's Deep,66.50,Poison Adamant,294.00,1266.52,64.44,372356.88,18945.36,258259.48,649561.72
+18654,Steelterror The Blade,The Forsaken Sepulcher of Sorrows,53.67,Goddesses' Spectral Poison Steel,228.00,5023.18,296.81,1145285.04,67672.68,654997.17,1867954.89
+19502,Tarot Dawn,Archfane District,36.16,Witchs' Forbidden Rockrainbow Bronze,99.00,655.60,425.92,64904.40,42166.08,38545.37,145615.85
+20621,Blazefreeze The Chiller,The Broken Shield,40.95,Golems' Stonesapphire Gold Of The Glacier,183.00,4444.06,116.57,813262.98,21332.31,342184.07,1176779.36
+21930,Tarot Dawn,The Fortress of Akkun the Grim,-2.42,Otherworldly Truesoul Orichalcum Of The East,163.00,1061.78,392.65,173070.14,64001.95,-4741.44,232330.65
+22441,Emberspawn,Cawold Castle,29.15,Ensorceled Gold Of The Dawn,84.00,6913.92,443.21,580769.28,37229.64,179219.69,797218.61

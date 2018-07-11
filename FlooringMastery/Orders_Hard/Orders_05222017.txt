@@ -1,0 +1,20 @@
+1685,Cult Godseeker,Shainan's Hold,19.80,Incubi's Mirrorfog Iron Of The Ocean,261.00,4798.76,-19.59,1252476.36,-5112.99,249472.67,1496836.04
+2990,Shiverflame The Freezer,The Desert of Flames,39.00,Shadowhell Mithril,165.00,363.00,260.37,59895.00,42961.05,40113.86,142969.91
+4513,Dawn Darkzealot,The Wizard's House,43.58,Pearl Mirrorice Steel Of Changelings,338.00,271.51,34.61,91770.38,11698.18,45526.17,148994.73
+5376,Shadow Gust,The Tower of Aramum,39.00,Magic Adamant,208.00,1838.00,188.76,382304.00,39262.08,164410.77,585976.85
+6578,Song Runetomb,The Dread Hive of Illfang the Kobold Lord,1.33,Unholy Poison Copper Of The Mountains,126.00,580.91,-9.24,73194.66,-1164.24,720.30,72750.72
+6729,Graveterror,The Tower of the Demon Warlord,15.75,Primal Adamant,295.00,4562.80,273.90,1346026.00,80800.50,228292.24,1655118.74
+8020,"Iran, Lord of Nightmares",Minas Gilloy,39.26,Swordbronze,16.00,1350.01,447.01,21600.16,7152.16,11213.40,39965.72
+8855,Rune Rougehate,Gawold Castle,5.50,Rocklava Mithril Of Revenants,209.00,1818.30,14.33,380024.70,2994.97,22981.18,406000.85
+10058,Song Runetomb,The Citadel of Lord Greywulf,33.04,Ensorceled Gold Of The Dawn,112.00,5713.98,402.92,639965.76,45127.04,226080.62,911173.42
+10557,Magus Felldrake,Haukri's Hold,27.83,Witchs' Forbidden Rockrainbow Bronze,182.00,596.00,387.20,108472.00,70470.40,50103.87,229046.27
+11715,Rouge Roguemist,The Bastion of the Lich Tyrant,43.00,Ghostly Magic Adamant,141.00,4836.38,230.90,681929.58,32556.90,307229.19,1021715.67
+11979,Rouge Tombreaper,Ring District,35.00,Heavenly Dreamsilver Of The Night,139.00,2009.68,112.00,279345.52,15568.00,103219.73,398133.25
+12166,"Eumyan, Goddess of Law",The Black Barrow of Bery,-0.07,Phantasmal Lead,58.00,-552.97,245.47,-32072.26,14237.26,0.00,-17835.00
+14631,"Penur, Lord of the Sea",Barad Kesa,4.75,Phantasmal Tin Of The Swamps,265.00,4929.54,-7.26,1306328.10,-1923.90,65220.21,1369624.41
+16571,Lightning Brand,The Drunken Thief,12.65,Mistgold Of Men,207.00,4080.46,53.24,844655.22,11020.68,111237.87,966913.77
+16605,Shadow Gust,Moor Village,76.43,Ensorceled Gold Of The Dawn,61.00,6913.92,402.92,421749.12,24578.12,339208.70,785535.94
+19570,Lightning Brand,Gifeld Castle,6.22,Planar Mudtin Of Trolls,288.00,3067.17,405.79,883344.96,116867.52,60012.75,1060225.23
+20391,Flameflare The Evil,The Broken Shield,40.95,Phantasmal Tin Of The Swamps,289.00,5964.74,-7.99,1723809.86,-2309.11,705815.31,2427316.06
+21093,Shadow Gust,The Bastion of the Lich Tyrant,52.03,Djinni's Evil Sandobsidian Steel Of The Future,265.00,4208.60,172.78,1115279.00,45786.70,603754.16,1764819.86
+21940,Snarepiston The Mechanical,The Tower of the Demon Warlord,20.97,Forgotten Mithril,238.00,1215.20,347.60,289217.60,82728.80,78108.74,450055.14

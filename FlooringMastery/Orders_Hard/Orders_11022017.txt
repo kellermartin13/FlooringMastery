@@ -1,0 +1,19 @@
+458,Bronzespike,Gifeld Castle,5.65,Litches' Fatal Mithril Of The Past,148.00,1207.25,305.00,178673.00,45140.00,13428.78,237241.78
+1129,Cinderember,The Forsaken Tomb of Devastation,0.00,White Platinum,242.00,-47.81,145.00,-11570.02,35090.00,0.00,23519.98
+1211,Ironbrood,The Shadow Downs,13.21,White Platinum,182.00,-47.81,145.00,-8701.42,26390.00,2299.52,19988.10
+2309,Evilfear The Horrorific,The Citadel of Lord Greywulf,30.04,Negative Mercury,205.00,4054.87,361.00,831248.35,74005.00,271576.00,1176829.35
+3559,"Addon, Lord of Death",The Temple of Merciless Necromancy,50.94,Negative Rockglitter Mercury Of Trolls,120.00,1349.00,423.07,161880.00,50768.40,108450.68,321099.08
+3567,"Azah, Goddess of Fate",The Lewd King,27.00,Ensorceled Sandmetal Of Spirits,200.00,2956.98,87.00,591396.00,17400.00,164374.92,773170.92
+6585,Freezebrood,The Dread Hive of Illfang the Kobold Lord,1.33,Magic Adamant,184.00,1838.00,207.64,338192.00,38205.76,3763.98,380161.74
+9352,Wheelspawn,Unicorn's Ward,14.64,Shadow Steel,232.00,4677.78,465.30,1085244.96,107949.60,178979.18,1372173.74
+11384,"Finarfin, God of Protection",The Dungeon of Dismal Terror,-3.50,Primordial False Gold,236.00,5395.80,226.00,1273408.80,53336.00,-53069.79,1273675.01
+11443,Seraphim Tsunami,The Broken Arrow,30.07,Ghostly Magic Adamant,145.00,4836.38,230.90,701275.10,33480.50,220426.68,955182.28
+12119,Seraphim Tsunami,Bifar's Deep,18.70,Heavenly Dreamsilver Of The Night,158.00,2009.68,112.00,317529.44,17696.00,63692.83,398918.27
+15393,Cinderember,Lamp Borough,4.95,Djinni's Spectral Shadowlead Of Life,257.00,4076.49,325.62,1047657.93,83684.34,56567.11,1187909.38
+15987,Cult Godseeker,Pewold Keep,22.57,Otherworldly Mirror Orichalcum,233.00,-298.87,526.35,-69636.71,122639.55,12190.65,65193.49
+17567,Steelterror The Blade,The Grey Plains,19.97,Sphinxes' Mistsoul Bronze Of The Past,214.00,2169.81,222.28,464339.34,47567.92,102381.45,614288.71
+19532,Sunset Knightclaw,Noble's Village,33.28,Ghostly Soul Adamant,116.00,3222.96,229.53,373863.36,26625.48,132161.32,532650.16
+19834,Fate Ivycaster,The Tomb of Gothmog of Udun,-3.30,Djinni's Mind Fogiron,168.00,2531.12,98.52,425228.16,16551.36,-13253.39,428526.13
+20594,Storm Seraphheart,The Warrior and Flagon,53.24,Unspeakable Rotsoul Mithril Of Souls,231.00,272.80,485.85,63016.80,112231.35,92881.52,268129.67
+20698,Lord Mystery,Barad Cune,28.60,Zephyr Adamant,266.00,4224.00,113.22,1123584.00,30116.52,334573.15,1488273.67
+23248,Spikebrood The Disinterred,The Beggar and Cask,25.41,Djinni's Spectral Shadowlead Of Life,212.00,4484.14,394.00,950637.68,83528.00,258541.42,1292707.10

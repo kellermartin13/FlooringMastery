@@ -1,0 +1,16 @@
+1179,Valentine Lawslayer,Lamp Borough,4.95,Mithril Of Legend,257.00,2068.00,52.07,531476.00,13381.99,27242.90,572100.89
+1737,Seraph Jester,Archtemple District,27.76,Venom Jewelmetal Of The Desert,274.00,1388.00,224.00,380312.00,61376.00,123672.64,565360.64
+8228,Chillfire The Chiller,The Forsaken Tomb of Devastation,0.00,Incubi's Iron Of The Dawn,309.00,1200.96,424.31,371096.64,131111.79,0.00,502208.43
+8610,Deathbrood,The Black Barrow of Bery,-0.07,Primordial Mud Orichalcum,47.00,-387.90,77.37,-18231.30,3636.39,0.00,-14594.91
+10011,Bedlam Spiritraven,The Dark Caverns of Woe,3.29,Pearl Mirrorice Steel Of Changelings,108.00,271.51,38.07,29323.08,4111.56,1003.04,34437.68
+10013,Beamsprocket The Grasping,The Broken Shield,37.23,Pearl Mirrorice Steel Of Changelings,190.00,271.51,38.07,51586.90,7233.30,21763.47,80583.67
+11695,Rouge Roguemist,South Brightcrown Borough,42.25,Magic Adamant,210.00,1838.00,228.40,385980.00,47964.00,182256.48,616200.48
+12587,Tarot Dawn,The Nulukkhath Spires,10.59,Primordial Plague Mercury Of Legend,157.00,452.29,301.29,71009.53,47302.53,13014.33,131326.39
+14333,Claw Mist,The Bastion of the Lich Tyrant,43.00,Sprites' Transcendent Mud Lead Of The South,173.00,2081.80,321.86,360151.40,55681.78,178808.27,594641.45
+16485,"Gadriel, God of Resurrection",Gena's Hold,2.66,Fleshshock Mercury,189.00,4858.70,338.07,918294.30,63895.23,29465.69,1011655.22
+17614,Flameflare The Evil,The Grey Plains,19.97,Sphinxes' Opalpearl Platinum Of Legend,194.00,5805.82,390.81,1126329.08,75817.14,240429.24,1442575.46
+18536,Bronzespawn,The Demon and Toad,28.74,Primordial Plague Mercury Of Legend,274.00,497.52,301.29,136320.48,82553.46,63473.44,282347.38
+19451,Rouge Roguemist,Noble's Village,33.28,Witchs' Forbidden Rockrainbow Bronze,241.00,655.60,425.92,157999.60,102646.72,86013.29,346659.61
+19478,Flora Amberslayer,Haukri's Hold,27.83,Goddesses' Spectral Poison Steel,93.00,5023.18,296.81,467155.74,27603.33,138532.54,633291.61
+19503,"Alas, Lord of Plague",Noble's Village,33.28,God-touched Faterainbow Orichalcum Of Spectres,356.00,370.41,32.01,131865.96,11395.56,47276.30,190537.82
+19913,"Alik, Goddess of Trickery",Tower Farthing,27.12,Rainbowglitter Tin,370.00,5957.39,213.40,2204234.30,78958.00,616461.92,2899654.22

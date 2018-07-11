@@ -1,0 +1,7 @@
+3015,Jericho Wolf,The Desert of Flames,39.00,Phantasmal Tin Of The Swamps,202.00,4074.00,-6.60,822948.00,-1333.20,320429.77,1142044.57
+3703,"Byzou, God of Animals",Pawic Keep,0.56,Starlight Pearldream Bronze,315.00,266.20,134.00,83853.00,42210.00,1260.63,127323.63
+3970,Springpulley The Binder,Tradun Castle,31.13,Plague Tin,190.00,4333.65,342.10,823393.50,64999.00,275401.68,1163794.18
+7991,Rouge Roguemist,Barad Kesa,4.32,Toxin Iceplatinum Of The Undead,200.00,-342.78,-53.90,-68556.00,-10780.00,-3173.44,-82509.44
+15414,Sephiroth Drakecaster,The Greedy Wench,32.70,Sphinxes' Unknown Poisongold Of The Future,163.00,3910.25,23.86,637370.75,3889.18,211615.78,852875.71
+16032,Sephiroth Drakecaster,The Lost Sanctum of Woe,3.30,Meteoric Dustzephyr Orichalcum,296.00,375.00,268.49,111000.00,79473.04,5714.19,196187.23
+21177,Lance Knightseraph,The Bastion of Sthasu the Gruesome,14.93,Hidden Shadowice Lead,268.00,2729.00,-62.23,731372.00,-16677.64,107204.15,821898.51

@@ -1,0 +1,20 @@
+2838,"Scalphunter" Kennedy,AR,2.20,Brick,142.00,4.00,5.50,568.00,781.00,26.98,1375.98
+4637,Beth "Fortunate Shooter" Powell,CA,0.55,Cedar Planks,304.00,2.00,5.50,608.00,1672.00,22.80,2302.80
+6130,Kathy Murphy "the Thinker",IA,1.21,Leather,208.00,10.00,18.15,2080.00,3775.20,58.55,5913.75
+9205,Renee "Loco Tracker" Jordan,MO,2.20,Cedar Planks,275.00,2.20,6.05,605.00,1663.75,45.38,2314.13
+9759,Darlene "Loner" Ford,CA,0.55,Dirt,248.00,0.50,1.00,124.00,248.00,3.72,375.72
+10019,Cathy "Loner Demon" Murray,AL,1.00,Solid Oak,226.00,5.50,5.50,1243.00,1243.00,24.86,2510.86
+10187,Dorothy "the Hunter",MS,3.00,Leather,209.00,10.00,18.15,2090.00,3793.35,176.50,6059.85
+11680,Amanda Hart "the Loner",NV,0.31,Solid Oak,232.00,5.50,5.50,1276.00,1276.00,0.00,2552.00
+14236,Melissa "Lonesome Stalker" Riley,MS,3.00,Beechwood,183.00,3.63,5.50,664.29,1006.50,50.12,1720.91
+15552,Surgeon Grant,NM,2.66,Dirt,300.00,0.50,1.00,150.00,300.00,13.50,463.50
+16338,Debra "Scorpion" Lane,TX,0.67,Packed Dirt,237.00,1.10,2.20,260.70,521.40,7.82,789.92
+16486,Evelyn "Evil Joker" Taylor,UT,0.00,Beechwood,317.00,3.63,5.50,1150.71,1743.50,0.00,2894.21
+17106,Julia "Bandit" Chandler,MO,2.20,Dirt,179.00,0.50,1.00,89.50,179.00,5.37,273.87
+18009,Beth "Fortunate Shooter" Powell,NV,0.31,Reeds,190.00,0.83,2.20,157.70,418.00,0.00,575.70
+18177,Tammy Carlson "the Killer",MT,3.99,Cedar Planks,182.00,2.20,6.66,400.40,1212.12,64.50,1677.02
+18326,Amanda Hart "the Loner",AR,2.20,Leather,197.00,11.00,19.97,2167.00,3934.09,122.02,6223.11
+20479,Theresa "Kid" Robinson,KS,0.55,Packed Dirt,186.00,1.10,2.42,204.60,450.12,6.55,661.27
+20585,Julia "Bandit" Chandler,AL,1.00,Reeds,247.00,0.83,2.20,205.01,543.40,7.48,755.89
+20784,"Doom" McCoy,IA,1.33,Brick,109.00,5.32,6.66,579.88,725.94,13.06,1318.88
+21100,Mattie Grant "the Gambler",UT,0.00,Pinecones,333.00,1.50,2.66,499.50,885.78,0.00,1385.28

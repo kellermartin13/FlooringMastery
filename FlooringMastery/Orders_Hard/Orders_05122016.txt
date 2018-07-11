@@ -1,0 +1,17 @@
+1007,Ironbrood,The Citadel of Alammius,3.18,Yellow Mistearth Copper,198.00,4159.62,-27.40,823604.76,-5425.20,24545.39,842724.95
+1177,Grave Mistseeker,The Cuitamba Jungle,28.00,Phantasmal Lead,188.00,-457.00,245.47,-85916.00,46148.36,-11134.94,-50902.58
+2037,Cult Godseeker,The Dancing Minstrel,21.20,Incubi's Mirrorfog Iron Of The Ocean,211.00,4798.76,-19.59,1012538.36,-4133.49,211765.02,1220169.89
+2244,Graveterror,The Chuallanto Jungle,37.00,Stone Soulsteel Of The Skies,76.00,1634.80,12.01,124244.80,912.76,46308.30,171465.86
+3952,Beamsprocket The Grasping,The Archer and Scroll,39.60,Spirits' Living Wordhammer Tin Of The Trees,331.00,4343.00,26.40,1437533.00,8738.40,578508.56,2024779.96
+4653,Flora Amberslayer,The Tower of Sabiesu the Awesome,4.40,Legendary Mithril Of The Moon,228.00,2461.00,114.40,561108.00,26083.20,23487.65,610678.85
+5718,Emberspawn,Unicorn's Ward,13.31,Angels' Adamant,157.00,1304.00,179.30,204728.00,28150.10,30274.15,263152.25
+9052,Rouge Roguemist,The Fen of the Necromancer,54.57,Goddesses' Spectral Poison Steel,211.00,3773.99,269.83,796311.89,56934.13,469285.31,1322531.33
+9318,"Avriel, God of Death",Unicorn's Ward,14.64,Golems' Stonesapphire Gold Of The Glacier,239.00,3672.77,105.97,877792.03,25326.83,135467.83,1038586.69
+9446,"Baltha, Goddess of Knowledge",Lamp Borough,4.95,Golems' Stonesapphire Gold Of The Glacier,122.00,3672.77,105.97,448077.94,12928.34,23050.31,484056.59
+13978,"Ingwenel, God of War",The Cracked Chalice,2.52,Plague Tin,195.00,4767.02,342.10,929568.90,66709.50,29888.35,1026166.75
+15188,Metalbrood,Minas Gilloy,43.19,Shadow Steel,230.00,5660.12,511.83,1301827.60,117720.90,610405.86,2029954.36
+16151,Bedlam Spiritraven,Peley Keep,26.33,Nymphs' Luminous Rotmercury Of The Skies,134.00,292.60,189.00,39208.40,25326.00,16778.94,81313.34
+18999,Mecharig The Living Device,The Secret Shrine of the Gargoyle Count,-2.00,Ghostly Soul Adamant,199.00,3222.96,229.53,641369.04,45676.47,-13740.91,673304.60
+19323,"Maeglodor, God of Thieves",The Forsaken Delve of Lord Greywulf,42.90,Djinni's Mind Fogiron,304.00,2301.02,89.56,699510.08,27226.24,312496.62,1039232.94
+19361,Snowflame The Evil,Haukri's Hold,27.83,Goddesses' Spectral Poison Steel,226.00,5023.18,296.81,1135238.68,67079.06,336648.97,1538966.71
+20990,Storm Squallmourner,Eved Castle,5.09,Negative Rockglitter Mercury Of Trolls,278.00,1795.52,681.36,499154.56,189418.08,34428.63,723001.27

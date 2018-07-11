@@ -1,0 +1,16 @@
+1789,Deathspike The Terrifying,Barad Cune,26.00,Violetdream Iron,161.00,1224.69,349.36,197175.09,56246.96,65889.73,319311.78
+1989,Grave Mistseeker,The Chuallanto Jungle,37.00,Poison Adamant,240.00,298.00,406.38,71520.00,97531.20,62548.94,231600.14
+2358,Burnfreeze The Cold,The Nulukkhath Spires,9.63,Rocklava Mithril Of Revenants,106.00,1818.30,13.03,192739.80,1381.18,19412.10,213533.08
+2663,Wind Dire,Boiaburh Keep,16.00,Hell Mercury Of The East,213.00,4636.34,284.60,987540.42,60619.80,167705.64,1215865.86
+7614,Chainhorror,The Desert of Flames,47.19,Toxic Mistlead Of The Past,268.00,1557.54,136.06,417420.72,36464.08,213325.86,667210.66
+7827,Spikebrood The Disinterred,The Dungeon of Dismal Terror,-3.50,Heavenly Dreamsilver Of The Night,153.00,2009.68,112.00,307481.04,17136.00,-12984.68,311632.36
+8294,Jericho Wolf,Lacot Stronghold,33.97,Shadowy Adamant,161.00,618.93,478.58,99647.73,77051.38,60077.70,236776.81
+9661,"Finarfin, God of Protection",The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,226.00,-368.87,128.90,-83364.62,29131.40,1627.00,-52606.22
+12343,Song Runetomb,The Dismal Marsh,6.05,Spectres' Shadowy Terrorglow Adamant Of Life,208.00,5164.28,226.05,1074170.24,47018.40,67271.32,1188459.96
+12789,Claw Mist,The Hunter and Rose,40.40,Sapphire Mindlead,161.00,1307.71,47.00,210541.31,7567.00,87243.32,305351.63
+16779,Nettool The Grasping,Eved Castle,5.09,Mistgold Of Men,104.00,4080.46,53.24,424367.84,5536.96,21495.24,451400.04
+16899,Sephiroth Drakecaster,The Flying Witch,12.60,Zephyr Iron,30.00,3034.90,444.69,91047.00,13340.70,13570.40,117958.10
+17145,Chillfire The Chiller,Lacot Stronghold,45.22,Incubi's Glittering Tin Of The Future,243.00,3349.54,87.85,813938.22,21347.55,375878.60,1211164.37
+17694,Chillfire The Chiller,Weke Tower,-0.07,Negative Rockglitter Mercury Of Trolls,64.00,1632.29,619.42,104466.56,39642.88,0.00,144109.44
+18061,Bane Veil,The Nulukkhath Spires,11.65,Djinni's Spectral Shadowlead Of Life,281.00,4076.49,325.62,1145493.69,91499.22,148439.15,1385432.06
+20007,Tarot Dawn,Weke Tower,-0.07,Incubi's Iron Of The Dawn,259.00,1200.96,424.31,311048.64,109896.29,0.00,420944.93

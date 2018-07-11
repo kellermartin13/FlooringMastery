@@ -1,0 +1,20 @@
+530,Dorothy "the Hunter",IA,1.00,Pinecones,163.00,1.50,2.00,244.50,326.00,5.70,576.20
+2286,"Bane" Jennings,UT,0.00,Cedar Planks,237.00,2.00,5.50,474.00,1303.50,0.00,1777.50
+2958,Cathy "Wildfire" Neal,MS,3.00,Beechwood,217.00,3.00,5.00,651.00,1085.00,52.08,1788.08
+3825,Susan "Damnation" Fleming,WY,0.31,Solid Oak,120.00,5.50,5.00,660.00,600.00,0.00,1260.00
+8530,Victoria "the Dancer",MS,3.00,Leather,107.00,10.00,18.15,1070.00,1942.05,90.36,3102.41
+9186,Jo "the Joker",UT,0.00,Packed Dirt,91.00,1.00,1.50,91.00,136.50,0.00,227.50
+9485,Allison "Steel Gravedigger" Douglas,KS,0.50,Leather,222.00,10.00,18.15,2220.00,4029.30,0.00,6249.30
+9866,Mabel "Vixen Cursed" King,ID,0.00,Leather,160.00,10.00,18.15,1600.00,2904.00,0.00,4504.00
+11761,Lena Chapman "the Bully",MT,3.63,Solid Oak,180.00,5.50,5.50,990.00,990.00,79.20,2059.20
+14677,Helen Webb "the Dancer",KS,0.55,Reeds,207.00,0.75,2.20,155.25,455.40,6.11,616.76
+14751,Florence "Leather Doc" Grant,UT,0.00,Beechwood,188.00,3.63,5.50,682.44,1034.00,0.00,1716.44
+14898,Allison "Steel Gravedigger" Douglas,MO,2.20,Pebbles,184.00,0.88,4.84,161.92,890.56,21.05,1073.53
+15951,Cathy "Loner Demon" Murray,KS,0.55,Pebbles,285.00,0.88,4.84,250.80,1379.40,16.30,1646.50
+16186,Stella "the Bully",NM,2.66,Dirt,199.00,0.50,1.00,99.50,199.00,8.96,307.46
+17164,Marie "Raven" Chapman,MO,2.20,Packed Dirt,17.00,1.10,2.20,18.70,37.40,1.12,57.22
+17473,Darlene "Loner" Ford,MS,3.00,Dirt,298.00,0.50,1.00,149.00,298.00,13.41,460.41
+17532,Ida Russell "the Rustler",ID,0.00,Beechwood,7.00,3.63,5.50,25.41,38.50,0.00,63.91
+18057,Friendly Howell,TX,0.67,Brick,176.00,5.32,6.66,936.32,1172.16,21.08,2129.56
+18557,Elizabeth "the Bully",MS,3.00,Cedar Planks,370.00,2.20,6.66,814.00,2464.20,98.35,3376.55
+18744,Deborah "the Lady",CA,0.61,Pebbles,343.00,0.88,4.84,301.84,1660.12,19.62,1981.58

@@ -1,0 +1,10 @@
+2605,Mattie Grant "the Gambler",ID,0.00,Dirt,202.00,0.50,1.00,101.00,202.00,0.00,303.00
+3949,Susan "Damnation" Fleming,CA,0.55,Solid Oak,181.00,5.50,5.00,995.50,905.00,19.00,1919.50
+4336,Susan "Damnation" Fleming,AL,1.00,Reeds,223.00,0.75,2.20,167.25,490.60,6.58,664.43
+7817,Beth "Fortunate Shooter" Powell,MT,3.30,Cedar Planks,315.00,2.20,6.05,693.00,1905.75,77.96,2676.71
+8189,Ida Russell "the Rustler",NV,0.31,Brick,250.00,4.84,6.66,1210.00,1665.00,0.00,2875.00
+9891,Beth "Fortunate Shooter" Powell,AL,1.00,Reeds,221.00,0.75,2.20,165.75,486.20,6.52,658.47
+11526,Heather "Friendly Gambler" Barrett,ID,0.00,Dirt,187.00,0.50,1.00,93.50,187.00,0.00,280.50
+11964,Darlene "Loner" Ford,TX,0.67,Brick,34.00,4.84,6.66,164.56,226.44,3.91,394.91
+12853,Tammy Carlson "the Killer",OK,2.42,Beechwood,268.00,3.30,5.50,884.40,1474.00,47.17,2405.57
+20183,Susan "Damnation" Fleming,ID,0.00,Packed Dirt,231.00,1.10,2.42,254.10,559.02,0.00,813.12

@@ -1,0 +1,25 @@
+63,Mattie Grant "the Gambler",CA,0.50,Pinecones,141.00,1.50,2.00,211.50,282.00,0.00,493.50
+740,Lorraine "Utah" Adams,AR,2.20,Dirt,87.00,0.50,1.00,43.50,87.00,2.61,133.11
+972,Renee "Hellish Empress" Banks,NV,0.25,Reeds,326.00,0.75,2.00,244.50,652.00,0.00,896.50
+2536,Heather "Tornado" Newman,NV,0.25,Pebbles,267.00,0.80,4.40,213.60,1174.80,0.00,1388.40
+2647,Mabel "Vixen Cursed" King,AR,2.20,Leather,164.00,10.00,16.50,1640.00,2706.00,86.92,4432.92
+2908,Vengeful Robertson,IA,1.00,Dirt,149.00,0.50,1.00,74.50,149.00,2.24,225.74
+3483,Tina "Lady" Anderson,ND,1.25,Pebbles,263.00,0.80,4.40,210.40,1157.20,13.68,1381.28
+4731,Joanne "Damned" Miles,WY,0.31,Packed Dirt,129.00,1.00,1.50,129.00,193.50,0.00,322.50
+6297,Heather "Friendly Gambler" Barrett,IA,1.21,Dirt,364.00,0.50,1.00,182.00,364.00,5.46,551.46
+6627,Lorraine "Utah" Adams,NV,0.28,Pinecones,103.00,1.50,2.66,154.50,273.98,0.00,428.48
+7263,Heather "Tornado" Newman,NV,0.28,Solid Oak,312.00,5.50,5.50,1716.00,1716.00,0.00,3432.00
+10062,Ida Russell "the Rustler",MO,2.20,Brick,345.00,4.84,6.66,1669.80,2297.70,79.35,4046.85
+10693,Vengeful Montgomery,MS,3.00,Beechwood,102.00,3.00,5.50,306.00,561.00,26.01,893.01
+10763,Lena Chapman "the Bully",IA,1.21,Pinecones,219.00,1.50,2.66,328.50,582.54,9.11,920.15
+11729,Kathy Murphy "the Thinker",CA,0.61,Reeds,101.00,0.75,2.20,75.75,222.20,2.98,300.93
+13967,Elizabeth "the Bully",MT,3.99,Packed Dirt,145.00,1.00,2.00,145.00,290.00,17.40,452.40
+14883,Cathy "Loner Demon" Murray,AR,2.20,Cedar Planks,272.00,2.20,6.05,598.40,1645.60,44.88,2288.88
+16423,Debra "Scorpion" Lane,WY,0.31,Packed Dirt,57.00,1.10,2.20,62.70,125.40,0.00,188.10
+17274,Vengeful Montgomery,KS,0.55,Pebbles,215.00,0.88,4.84,189.20,1040.60,12.30,1242.10
+17570,Betty "Happy Thinker" Watson,MO,2.20,Solid Oak,206.00,5.50,6.66,1133.00,1371.96,50.10,2555.06
+18897,Michele Watson "the Loner",AL,1.00,Leather,318.00,11.00,19.97,3498.00,6350.46,98.48,9946.94
+19135,Cathy "Loner Demon" Murray,MT,3.99,Leather,199.00,11.00,19.97,2189.00,3974.03,246.52,6409.55
+20341,Betty "Happy Thinker" Watson,TX,0.67,Pinecones,262.00,1.50,2.66,393.00,696.92,10.90,1100.82
+20834,Theresa "Kid" Robinson,ID,0.00,Solid Oak,110.00,5.50,6.66,605.00,732.60,0.00,1337.60
+22850,Vengeful Robertson,UT,0.00,Cedar Planks,263.00,2.20,6.66,578.60,1751.58,0.00,2330.18

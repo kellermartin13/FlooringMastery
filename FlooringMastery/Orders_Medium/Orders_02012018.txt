@@ -1,0 +1,21 @@
+423,Florence "Leather Doc" Grant,AL,1.00,Solid Oak,181.00,5.00,5.00,905.00,905.00,18.10,1828.10
+1224,Jo "the Joker",AL,1.00,Beechwood,47.00,3.00,5.00,141.00,235.00,3.76,379.76
+3184,Minnie Lawson "the Apostle",KS,0.50,Packed Dirt,280.00,1.00,1.50,280.00,420.00,0.00,700.00
+3635,Allison "Steel Gravedigger" Douglas,CA,0.55,Cedar Planks,309.00,2.00,5.50,618.00,1699.50,23.18,2340.68
+4665,"Bane" Jennings,NM,2.20,Packed Dirt,247.00,1.00,1.50,247.00,370.50,12.35,629.85
+7338,Black Beck,ND,1.25,Leather,118.00,10.00,18.15,1180.00,2141.70,33.22,3354.92
+8891,Cathy "Loner Demon" Murray,ND,1.25,Dirt,238.00,0.50,1.00,119.00,238.00,3.57,360.57
+8932,Elizabeth "the Bully",UT,0.00,Brick,199.00,4.84,6.66,963.16,1325.34,0.00,2288.50
+13543,Vengeful Montgomery,ID,0.00,Pinecones,101.00,1.50,2.66,151.50,268.66,0.00,420.16
+13618,Ida Russell "the Rustler",WY,0.31,Pinecones,98.00,1.50,2.66,147.00,260.68,0.00,407.68
+13786,Lorraine "Utah" Adams,TX,0.67,Beechwood,163.00,3.63,5.50,591.69,896.50,14.88,1503.07
+13831,Lucky Johnson,AL,1.00,Solid Oak,185.00,5.50,5.50,1017.50,1017.50,20.35,2055.35
+14284,Mabel "Vixen Cursed" King,IA,1.21,Dirt,263.00,0.50,1.00,131.50,263.00,3.94,398.44
+14480,Ida Russell "the Rustler",UT,0.00,Solid Oak,201.00,5.50,5.50,1105.50,1105.50,0.00,2211.00
+15933,Vengeful Montgomery,OK,2.42,Pinecones,113.00,1.50,2.66,169.50,300.58,9.40,479.48
+16270,Florence "Leather Doc" Grant,ID,0.00,Pinecones,225.00,1.50,2.66,337.50,598.50,0.00,936.00
+16739,Geraldine "Revenge" Warren,IA,1.21,Pinecones,154.00,1.50,2.66,231.00,409.64,6.41,647.05
+16874,Evelyn "Evil Joker" Taylor,MT,3.99,Brick,22.00,5.32,6.66,117.04,146.52,10.54,274.10
+18175,Wilma "Tornado" Brooks,UT,0.00,Pebbles,79.00,0.88,4.84,69.52,382.36,0.00,451.88
+18479,Renee "Loco Tracker" Jordan,MT,3.99,Solid Oak,65.00,5.50,6.66,357.50,432.90,31.62,822.02
+23063,Vicki "Mesa" Rhodes,TX,0.67,Cedar Planks,283.00,2.20,6.66,622.60,1884.78,25.07,2532.45

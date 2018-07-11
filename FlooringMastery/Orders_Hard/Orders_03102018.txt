@@ -1,0 +1,20 @@
+2992,Sunrise Godwarlock,The Tower of Sabiesu the Awesome,4.40,Thunderbirds' Transcendent Dreamiron,244.00,2068.41,237.70,504692.04,57998.80,22507.63,585198.47
+3286,"Iran, Lord of Nightmares",Gawold Castle,5.00,Litches' Fatal Mithril Of The Past,267.00,1207.25,335.50,322335.75,89578.50,20595.71,432509.96
+4303,Song Runetomb,The Pilgrim's Cup,41.93,Otherworldly Mirror Orichalcum,282.00,-247.00,478.50,-69654.00,134937.00,27418.86,92701.86
+4734,Blazefreeze The Chiller,The Demon and Toad,23.75,Trolls' Rubymercury Of The Sunset,208.00,506.00,198.00,105248.00,41184.00,35143.68,181575.68
+8007,Chainnail,Grori's Deep,49.95,Poison Adamant,212.00,1151.38,58.58,244092.56,12418.96,128255.76,384767.28
+8285,Metalbrood,The Wizard's House,43.58,Shadowy Adamant,190.00,618.93,478.58,117596.70,90930.20,91751.84,300278.74
+9156,"Ingwenel, God of War",The Dancing Minstrel,21.20,Djinni's Evil Sandobsidian Steel Of The Future,231.00,3826.00,157.07,883806.00,36283.17,193218.73,1113307.90
+10703,"Byzou, God of Animals",The Dread Hive of Illfang the Kobold Lord,1.33,Stone Soulsteel Of The Skies,247.00,1798.28,13.21,444175.16,3262.87,4474.38,451912.41
+11765,Tarot Dawn,The Citadel of Cheno,7.33,Litches' Fatal Mithril Of The Past,81.00,1327.98,369.05,107566.38,29893.05,9622.16,147081.59
+14486,"Melcha, Goddess of Thieves",Archscepter Borough,3.30,Unknown Fatelightning Steel Of The Glacier,378.00,2441.05,65.68,922716.90,24827.04,28426.32,975970.26
+15230,"Ingwenel, God of War",The Cuitamba Jungle,30.80,Muck Orichalcum Of Ogres,324.00,3769.54,401.45,1221330.96,130069.80,418934.24,1770335.00
+15642,Rouge Roguemist,Noble's Village,30.25,Trolls' Rubymercury Of The Sunset,78.00,556.60,217.80,43414.80,16988.40,18120.96,78524.16
+16554,Wheelbolt The Machine,The Citadel of Cheno,7.33,Ensorceled Sandmetal Of Spirits,218.00,2956.98,95.70,644621.64,20862.60,46583.90,712068.14
+17410,Gravebone,The Cracked Chalice,2.52,Sphinxes' Mistsoul Bronze Of The Past,255.00,2169.81,222.28,553301.55,56681.40,18299.49,628282.44
+17485,Fate Seeker,The Citadel of Alammius,3.85,Sphinxes' Mistsoul Bronze Of The Past,154.00,2169.81,222.28,334150.74,34231.12,14735.27,383117.13
+17795,Emberspawn,North Arcanist's Farthing,55.18,Sphinxes' Mistsoul Bronze Of The Past,155.00,2169.81,222.28,336320.55,34453.40,203925.67,574699.62
+18266,Mecharig The Living Device,Archfane District,36.16,Rocklava Mithril Of Revenants,241.00,2200.14,14.33,530233.74,3453.53,192127.42,725814.69
+18470,Beamsprocket The Grasping,The Tomb of Hellish Ruin,16.94,Hidden Shadowice Lead,177.00,2729.00,-62.23,483033.00,-11014.71,80243.11,552261.40
+19660,Bolttrap,The Pirate's Pipe,17.60,Toxic Mistlead Of The Past,102.00,1557.54,164.64,158869.08,16793.28,31619.22,207281.58
+22653,Emberspawn,Boiaburh Keep,17.60,Primal Adamant,193.00,5520.99,364.56,1065551.07,70360.08,204464.01,1340375.16

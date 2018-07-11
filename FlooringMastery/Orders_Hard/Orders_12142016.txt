@@ -1,0 +1,17 @@
+6,Metalbrood,Pewold Keep,16.95,Venom Timegold Of Dwarves,124.00,3036.00,269.00,376464.00,33356.00,69669.40,479489.40
+726,Shadow Gust,The Forsaken Tomb of Devastation,0.00,Sapphire Mindlead,338.00,1307.71,47.00,442005.98,15886.00,0.00,457891.98
+2653,Claw Mist,Gili's Delve,-4.59,Rocklava Mithril Of Revenants,126.00,1818.30,13.03,229105.80,1641.78,-11537.38,219210.20
+4790,Ironbrood,North Grove Ward,6.60,Trolls' Rubymercury Of The Sunset,148.00,506.00,198.00,74888.00,29304.00,7293.44,111485.44
+4832,Flora Amberslayer,The Archer and Scroll,39.60,Vampires' Hammer Emeraldmetal,294.00,379.45,25.84,111558.30,7596.96,47662.10,166817.36
+5504,"Azah, Goddess of Fate",Boiaburh Keep,16.00,Vampires' Hammer Emeraldmetal,314.00,379.45,25.84,119147.30,8113.76,20361.77,147622.83
+6395,Claw Mist,South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,80.00,2275.25,237.70,182020.00,19016.00,84435.12,285471.12
+7931,Mecharig The Living Device,The Tower of Aces the Accursed,13.31,Unknown Fatelightning Steel Of The Glacier,267.00,2017.40,54.28,538645.80,14492.76,71908.01,625046.57
+9973,Sunrise Godwarlock,The Tomb of Hellish Ruin,16.94,Pearl Mirrorice Steel Of Changelings,234.00,271.51,38.07,63533.34,8908.38,12315.09,84756.81
+10363,Boltcrank The Trapper,The Forsaken Sepulcher of Sorrows,48.79,Sphinxes' Mistsoul Bronze Of The Past,214.00,2169.81,202.07,464339.34,43242.98,248715.34,756297.66
+10748,Metalbrood,The Dismal Marsh,6.05,Venom Timegold Of Dwarves,35.00,3036.00,269.00,106260.00,9415.00,6940.50,122615.50
+10836,Claw Mist,The Black Barrow of Bery,-0.07,Emerald Orichalcum,146.00,-368.87,128.90,-53855.02,18819.40,0.00,-35035.62
+10911,"Avriel, God of Death",Ring District,35.00,Unspeakable Rotsoul Mithril Of Souls,150.00,248.00,401.53,37200.00,60229.50,34100.32,131529.82
+13525,Nettool The Grasping,The Broken Shield,37.23,Sapphire Mindlead,265.00,1307.71,47.00,346543.15,12455.00,132829.32,491827.47
+14792,Dagger Reaper,The Tower of Sabiesu the Awesome,5.32,Unknown Fatelightning Steel Of The Glacier,198.00,2441.05,65.68,483327.90,13004.64,24816.63,521149.17
+16103,Sephiroth Drakecaster,Haukri's Hold,27.83,Incubi's Mirrorfog Iron Of The Ocean,115.00,5806.50,-26.08,667747.50,-2999.20,186129.52,850877.82
+16546,Claw Mist,Boiaburh Keep,16.00,Shadowhell Mithril,270.00,483.15,315.05,130450.50,85063.50,34482.24,249996.24

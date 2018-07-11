@@ -1,0 +1,19 @@
+462,"Alas, Lord of Plague",Shainan's Hold,18.00,Venom Jewelmetal Of The Desert,299.00,1388.00,224.00,415012.00,66976.00,86757.84,568745.84
+1291,Lord Mystery,The Shadow Downs,13.21,Dragons' Poison Glitterflesh Steel Of The North,158.00,2790.70,216.48,440930.60,34203.84,61767.48,536901.92
+1582,Springpulley The Binder,The Dungeon of Merciless Woe,38.62,Grayplatinum,99.00,2071.30,279.06,205058.70,27626.94,90747.40,323433.04
+2225,"Nelalwe, Lady of Fire",The Dancing Minstrel,21.20,Angels' Adamant,205.00,1304.00,179.30,267320.00,36756.50,63856.06,367932.56
+3203,Lord Mystery,The Archer and Blade,9.00,Phantasmal Smokezephyr Mercury Of Men,136.00,-317.16,69.00,-43133.76,9384.00,-3037.48,-36787.24
+3816,Jericho Wolf,Barad Kesa,4.32,Ensorceled Sandmetal Of Spirits,154.00,2956.98,87.00,455374.92,13398.00,18750.92,487523.84
+4792,Fate Seeker,The Demon and Toad,23.75,Negative Mercury,81.00,4054.87,361.00,328444.47,29241.00,85844.51,443529.98
+7518,Bronzespawn,The Dancing Minstrel,21.20,Golems' Stonesapphire Gold Of The Glacier,182.00,3672.77,105.97,668444.14,19286.54,144423.44,832154.12
+8999,"Maglioneth, Lord of the Sun",Kada's Deep,33.00,Foul Ice Bronze Of Life,84.00,-92.21,129.80,-7745.64,10903.20,1041.99,4199.55
+10150,Rouge Roguemist,The Bloody Wand,12.00,Magicians' Legendary Poison Metal,360.00,2247.59,229.81,809132.40,82731.60,107023.68,998887.68
+13887,Shiverflame The Freezer,The Greedy Wench,32.70,Shadowhell Mithril,350.00,483.15,286.41,169102.50,100243.50,88884.18,358230.18
+14202,Ironbrood,The Desert of Flames,51.91,Primordial Plague Mercury Of Legend,131.00,452.29,301.29,59249.99,39468.99,51333.87,150052.85
+15698,Bonescare,The Fortress of Asmamur,-4.93,God-touched Faterainbow Orichalcum Of Spectres,72.00,370.41,32.01,26669.52,2304.72,-1448.71,27525.53
+17728,"Sielach, God of Fate",Shainan's Hold,23.96,Sphinxes' Opalpearl Platinum Of Legend,272.00,5805.82,390.81,1579183.04,106300.32,404516.01,2089999.37
+18944,Zeal Bladewitch,Bifar's Deep,18.70,Venom Timegold Of Dwarves,200.00,3339.60,295.90,667920.00,59180.00,138149.00,865249.00
+19199,Bronzespike,Archfane District,36.16,Mana-touched Greenglitter Gold Of Giants,68.00,1291.38,514.25,87813.84,34969.00,44201.82,166984.66
+20164,Flameshiver,The Tomb of Gothmog of Udun,-3.30,Rainbowglitter Tin,47.00,5957.39,213.40,279997.33,10029.80,-8700.81,281326.32
+20428,"Lionare, God of the Lost",Bergfison's Deep,52.71,Undeads' Mind Orichalcum Of The Twilight,327.00,-17.00,276.00,-5559.00,90252.00,44887.29,129580.29
+21632,Tarot Dawn,The Fortress of Asmamur,-4.93,Golems' Stonesapphire Gold Of The Glacier,170.00,4444.06,128.23,755490.20,21799.10,-38864.46,738424.84

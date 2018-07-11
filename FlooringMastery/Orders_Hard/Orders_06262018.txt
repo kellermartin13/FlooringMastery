@@ -1,0 +1,12 @@
+2357,Bedlam Spiritraven,The Bastion of the Lich Tyrant,43.00,Mana-touched Greenglitter Gold Of Giants,116.00,1173.98,425.00,136181.68,49300.00,79757.12,265238.80
+3664,Beamtrap,Lacot Stronghold,30.88,Heavenly Dreamsilver Of The Night,221.00,1826.98,112.00,403762.58,24752.00,132839.52,561354.10
+4578,Wheelspawn,Khali's Delve,52.71,Phantasmal Lead,67.00,-457.00,245.47,-30619.00,16446.49,-7511.43,-21683.94
+9304,"Addon, Lord of Death",The Dancing Minstrel,21.20,Ensorceled Gold Of The Dawn,270.00,5713.98,402.92,1542774.60,108788.40,346828.23,1998391.23
+11804,Springpulley The Binder,The Citadel of Cheno,7.33,Timeiron,223.00,1596.00,228.33,355908.00,50917.59,28477.79,435303.38
+11898,Deathspike The Terrifying,Archring Borough,17.93,Thunderbirds' Transcendent Dreamiron,199.00,2275.25,237.70,452774.75,47302.30,90013.87,590090.92
+12146,Spikesnare,The Wizard's House,43.58,Unicorns' Evil Mithril,300.00,4802.49,312.00,1440747.00,93600.00,675112.68,2209459.68
+13041,Spikesnare,The Nulukkhath Spires,10.59,Sapphire Mindlead,173.00,1307.71,47.00,226233.83,8131.00,25780.13,260144.96
+13059,Shiverflame The Freezer,The Dread Hive of Illfang the Kobold Lord,1.46,Forgotten Mithril,204.00,1104.73,316.00,225364.92,64464.00,2898.29,292727.21
+16323,Fate Seeker,Peley Keep,26.33,Toxin Iceplatinum Of The Undead,228.00,-377.06,-59.29,-85969.68,-13518.12,-25866.83,-125354.63
+17266,Bronzespawn,Lamp Borough,4.95,Glowpearl Adamant Of Spirits,99.00,398.09,374.00,39410.91,37026.00,3821.85,80258.76
+22847,Rouge Tombreaper,Grori's Deep,66.50,Falserainbow Lead,251.00,3215.00,256.30,806965.00,64331.30,575055.56,1446351.86

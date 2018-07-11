@@ -1,0 +1,13 @@
+522,Dagger Reaper,The Bastion of Gothmog of Udun,37.45,Nymphs' Luminous Rotmercury Of The Skies,214.00,266.00,189.00,56924.00,40446.00,36026.90,133396.90
+2982,Rose Anchor,The Fortress of Gama,10.16,Phantasmal Tin Of The Swamps,288.00,4074.00,-6.60,1173312.00,-1900.80,117141.12,1288552.32
+5045,"Addon, Lord of Death",The Chuallanto Jungle,37.00,Unicorns' Fatal Magma Metal Of The Ocean,158.00,1792.04,392.70,283142.32,62046.60,127719.90,472908.82
+6473,Gale Jackalguard,Archtemple District,27.76,Unholy Poison Copper Of The Mountains,296.00,580.91,-9.24,171949.36,-2735.04,47380.01,216594.33
+6853,Tiger Mistmidnight,Noble's Village,27.50,Timeiron,217.00,1596.00,228.33,346332.00,49547.61,110846.29,506725.90
+9491,"Addon, Lord of Death",Unicorn's Ward,14.64,Emerald Orichalcum,313.00,-368.87,128.90,-115456.31,40345.70,-11266.59,-86377.20
+10540,Rose Anchor,The Citadel of Lord Greywulf,33.04,Succubi's Evil Mindzephyr Adamant Of The Desert,331.00,2189.18,250.07,724618.58,82773.17,266439.28,1073831.03
+14587,Bedlam Spiritraven,Archscepter Borough,3.30,Phantasmal Tin Of The Swamps,192.00,4929.54,-7.26,946471.68,-1393.92,28352.33,973430.09
+15772,Snowflame The Evil,The Tower of Sabiesu the Awesome,5.32,Plague Tin,166.00,4767.02,342.10,791325.32,56788.60,42405.70,890519.62
+16882,Bane Veil,The Drunken Thief,12.65,Planar Rainfate Mithril,285.00,1185.84,320.52,337964.40,91348.20,55810.64,485123.24
+20634,Flameshiver,North Arcanist's Farthing,55.18,Toxin Iceplatinum Of The Undead,138.00,-377.06,-59.29,-52034.28,-8182.02,-33118.96,-93335.26
+21073,Sephiroth Drakecaster,The Secret Catacombs of Ulfang the Black,42.90,Meteoric Dustzephyr Orichalcum,11.00,375.00,295.34,4125.00,3248.74,3170.71,10544.45
+21626,"Baltha, Goddess of Knowledge",Unicorn's Ward,14.64,Golems' Stonesapphire Gold Of The Glacier,64.00,4444.06,128.23,284419.84,8206.72,43893.98,336520.54

@@ -1,0 +1,14 @@
+525,Evelyn "Evil Joker" Taylor,MT,3.00,Pinecones,362.00,1.50,2.00,543.00,724.00,38.01,1305.01
+2150,"Bane" Jennings,NM,2.20,Leather,198.00,10.00,16.50,1980.00,3267.00,104.94,5351.94
+4333,Evelyn "Evil Joker" Taylor,TX,0.50,Packed Dirt,114.00,1.00,1.50,114.00,171.00,0.00,285.00
+5716,Joanne "Damned" Miles,OK,2.20,Solid Oak,314.00,5.50,5.50,1727.00,1727.00,69.08,3523.08
+10018,Beth "Fortunate Shooter" Powell,MS,3.00,Beechwood,114.00,3.00,5.50,342.00,627.00,29.07,998.07
+10041,Amanda Hart "the Loner",OK,2.20,Solid Oak,304.00,5.50,5.50,1672.00,1672.00,66.88,3410.88
+10233,Kathy Murphy "the Thinker",TX,0.61,Solid Oak,136.00,5.50,5.50,748.00,748.00,14.96,1510.96
+12156,April "Thunderbird" Dunn,MT,3.63,Reeds,208.00,0.75,2.20,156.00,457.60,24.54,638.14
+12873,Amanda Hart "the Loner",MO,2.20,Pebbles,231.00,0.88,4.84,203.28,1118.04,26.43,1347.75
+13322,"Doom" McCoy,UT,0.00,Brick,301.00,5.32,6.66,1601.32,2004.66,0.00,3605.98
+15198,"Bane" Jennings,MT,3.99,Cedar Planks,237.00,2.20,6.05,521.40,1433.85,78.21,2033.46
+16446,Maureen "Cursed" Andrews,MT,3.99,Packed Dirt,122.00,1.10,2.20,134.20,268.40,16.10,418.70
+20716,Jacqueline "Riding Doc" Washington,AL,1.00,Pinecones,182.00,1.50,2.66,273.00,484.12,7.57,764.69
+22561,Vengeful Montgomery,WY,0.34,Packed Dirt,274.00,1.10,2.42,301.40,663.08,0.00,964.48

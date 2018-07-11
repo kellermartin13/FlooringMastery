@@ -1,0 +1,11 @@
+479,Harmony Angelchild,The Dismal Marsh,5.00,Trolls' Mist Poisonplatinum Of The Twilight,185.00,516.17,394.90,95491.45,73056.50,8427.40,176975.35
+1633,Song Runetomb,Gifeld Castle,6.22,Incubi's Glittering Tin Of The Future,78.00,2287.78,72.60,178446.84,5662.80,11046.58,195156.22
+3309,Harmony Angelchild,The Shadow Downs,13.21,Evilsilver,58.00,1486.85,79.86,86237.30,4631.88,11812.99,102682.17
+4027,Flora Amberslayer,Grori's Deep,45.41,Glittering Orichalcum,101.00,-131.00,360.23,-13231.00,36383.23,10418.50,33570.73
+6309,Sunset Knightclaw,The Lost Sanctum of Woe,3.00,God-touched Greengem Platinum,244.00,1281.72,-36.00,312739.68,-8784.00,9118.67,313074.35
+7582,Snarepiston The Mechanical,The Forsaken Hive of Galima the Mighty,24.70,Unknown Fatelightning Steel Of The Glacier,81.00,2017.40,54.28,163409.40,4396.68,41951.52,209757.60
+8514,Rouge Roguemist,Cawold Castle,24.09,Goddesses' Spectral Poison Steel,283.00,3773.99,269.83,1068039.17,76361.89,274656.25,1419057.31
+11787,Metalbrood,The Bastion of the Lich Tyrant,43.00,Thunderbirds' Transcendent Dreamiron,168.00,2275.25,237.70,382242.00,39933.60,181535.51,603711.11
+12127,Law Lionwatcher,The Chuallanto Jungle,37.00,White Platinum,50.00,-52.59,159.50,-2629.50,7975.00,1977.84,7323.34
+12523,Shiverflame The Freezer,Castle Village,37.51,Incubi's Glittering Tin Of The Future,172.00,3349.54,79.86,576120.88,13735.92,224145.58,814002.38
+15618,Slayer Claw,The Glano Forest,3.00,Plague Tin,103.00,4767.02,342.10,491003.06,35236.30,15787.18,542026.54

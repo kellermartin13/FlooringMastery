@@ -1,0 +1,17 @@
+1545,Mabel "Vixen Cursed" King,TX,0.50,Leather,165.00,10.00,15.00,1650.00,2475.00,0.00,4125.00
+1768,Mabel "Vixen Cursed" King,NV,0.25,Reeds,117.00,0.75,2.00,87.75,234.00,0.00,321.75
+1776,Joanne "Damned" Miles,AL,1.00,Beechwood,241.00,3.00,5.00,723.00,1205.00,19.28,1947.28
+2688,Surgeon Grant,UT,0.00,Dirt,144.00,0.50,1.00,72.00,144.00,0.00,216.00
+4096,Mabel "Vixen Cursed" King,OK,2.00,Packed Dirt,324.00,1.00,1.50,324.00,486.00,16.20,826.20
+7367,Minnie Lawson "the Apostle",MO,2.20,Packed Dirt,294.00,1.00,1.50,294.00,441.00,14.70,749.70
+10218,Minnie Lawson "the Apostle",MT,3.63,Packed Dirt,356.00,1.00,1.50,356.00,534.00,35.60,925.60
+11522,Theresa "Kid" Robinson,CA,0.61,Pinecones,120.00,1.50,2.66,180.00,319.20,4.99,504.19
+11846,Vengeful Montgomery,KS,0.55,Pinecones,141.00,1.50,2.66,211.50,375.06,5.87,592.43
+12548,Jacqueline "Riding Doc" Washington,UT,0.00,Reeds,242.00,0.75,2.20,181.50,532.40,0.00,713.90
+13137,Surgeon Grant,WY,0.31,Beechwood,320.00,3.30,5.50,1056.00,1760.00,0.00,2816.00
+13253,Heather "Tornado" Newman,AL,1.00,Beechwood,305.00,3.30,5.50,1006.50,1677.50,26.84,2710.84
+13401,Friendly Howell,MO,2.20,Leather,147.00,11.00,18.15,1617.00,2668.05,85.70,4370.75
+14114,Gloria "Devil" McCoy,AR,2.20,Brick,278.00,5.32,6.66,1478.96,1851.48,66.61,3397.05
+16810,Vanessa "Scalper" Rhodes,ID,0.00,Beechwood,196.00,3.63,5.50,711.48,1078.00,0.00,1789.48
+22041,Vengeful Montgomery,CA,0.67,Packed Dirt,121.00,1.10,2.42,133.10,292.82,4.26,430.18
+22054,Tammy Carlson "the Killer",TX,0.67,Dirt,203.00,0.55,1.00,111.65,203.00,3.15,317.80

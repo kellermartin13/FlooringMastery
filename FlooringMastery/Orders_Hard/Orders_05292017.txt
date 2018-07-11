@@ -1,0 +1,15 @@
+270,Deathspike The Terrifying,The Fortress of Asmamur,-4.48,Incubi's Iron Of The Dawn,179.00,1091.78,385.74,195428.62,69047.46,-10579.04,253897.04
+2239,Deathspike The Terrifying,The Tomb of Hellish Ruin,14.00,Violetdream Iron,184.00,1224.69,349.36,225342.96,64282.24,40547.53,330172.73
+3378,"Avriel, God of Death",The Tower of Sabiesu the Awesome,4.40,Planar Mudtin Of Trolls,165.00,2304.41,335.36,380227.65,55334.40,17422.48,452984.53
+5672,Clash Lonedrake,The Cuitamba Jungle,28.00,Vampires' Hammer Emeraldmetal,182.00,379.45,25.84,69059.90,4702.88,20653.58,94416.36
+9853,Lord Mystery,Haukri's Hold,25.30,Emerald Orichalcum,182.00,-368.87,128.90,-67134.34,23459.80,-10918.64,-54593.18
+10259,"Addon, Lord of Death",The Dismal Marsh,6.05,Ensorceled Gold Of The Dawn,136.00,5713.98,402.92,777101.28,54797.12,49913.90,881812.30
+10393,"Alas, Lord of Plague",The Nulukkhath Spires,10.59,Sphinxes' Mistsoul Bronze Of The Past,351.00,2169.81,202.07,761603.31,70926.57,91578.29,924108.17
+12318,"Prusu, God of Love",The Glano Forest,3.00,Sirens' Rockgold,279.00,-352.01,199.96,-98210.79,55788.84,-1272.66,-43694.61
+12591,Rouge Tombreaper,The Fortress of Gama,10.16,Phantasmal Smokezephyr Mercury Of Men,123.00,-464.37,75.90,-57117.51,9335.70,-4778.18,-52559.99
+13446,Tarot Dawn,The Citadel of Alammius,3.50,Mistgold Of Men,92.00,3709.51,53.24,341274.92,4898.08,13846.92,360019.92
+14365,Chillfire The Chiller,Arcanist's Farthing,3.00,Ensorceled Sandmetal Of Spirits,295.00,2956.98,95.70,872309.10,28231.50,27016.22,927556.82
+14594,Metalbrood,The Citadel of Lord Greywulf,33.04,Unknown Fatelightning Steel Of The Glacier,179.00,2441.05,65.68,436947.95,11756.72,148072.54,596777.21
+16892,Fate Seeker,Reyny Keep,11.00,Forgotten Mithril,267.00,1104.73,347.60,294962.91,92809.20,42654.93,430427.04
+18604,Chillfire The Chiller,Boiaburh Keep,17.60,Primal Adamant,353.00,5520.99,331.42,1948909.47,116991.26,371862.13,2437762.86
+19325,"Uriel, God of Fate",Hafeld Keep,46.71,Unspeakable Rotsoul Mithril Of Souls,195.00,248.00,485.85,48360.00,94740.75,67257.35,210358.10

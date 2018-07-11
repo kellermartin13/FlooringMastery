@@ -1,0 +1,13 @@
+403,Lorraine "Utah" Adams,ID,0.00,Brick,108.00,4.00,5.00,432.00,540.00,0.00,972.00
+1559,"Scalphunter" Kennedy,MS,3.00,Dirt,180.00,0.50,1.00,90.00,180.00,8.10,278.10
+5355,Lena Chapman "the Bully",IA,1.21,Cedar Planks,271.00,2.00,5.50,542.00,1490.50,20.32,2052.82
+6099,Vengeful Robertson,AL,1.00,Pinecones,103.00,1.50,2.66,154.50,273.98,4.28,432.76
+6444,Black Beck,ND,1.25,Beechwood,159.00,3.00,5.00,477.00,795.00,12.72,1284.72
+6466,Theresa "Kid" Robinson,MO,2.20,Pebbles,168.00,0.80,4.84,134.40,813.12,18.95,966.47
+6539,Renee "Hellish Empress" Banks,KS,0.50,Brick,204.00,4.84,6.66,987.36,1358.64,0.00,2346.00
+9041,Marie "Raven" Chapman,AR,2.20,Packed Dirt,78.00,1.00,1.50,78.00,117.00,3.90,198.90
+11403,Ida Russell "the Rustler",CA,0.61,Pebbles,205.00,0.88,4.84,180.40,992.20,11.73,1184.33
+18251,Heather "Tornado" Newman,AR,2.20,Pinecones,220.00,1.50,2.66,330.00,585.20,18.30,933.50
+18292,Marie "Raven" Chapman,KS,0.55,Pebbles,248.00,0.88,4.84,218.24,1200.32,14.19,1432.75
+18875,Surgeon Grant,AR,2.20,Dirt,176.00,0.50,1.00,88.00,176.00,5.28,269.28
+19432,Victoria "the Dancer",AR,2.20,Packed Dirt,201.00,1.10,2.42,221.10,486.42,14.15,721.67

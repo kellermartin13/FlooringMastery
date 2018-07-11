@@ -1,0 +1,12 @@
+1251,"Melcha, Goddess of Thieves",Reyny Keep,11.00,Mithril Of Legend,366.00,2068.00,52.07,756888.00,19057.62,85354.02,861299.64
+1835,Snowflame The Evil,Haukri's Hold,25.30,Incubi's Mirrorfog Iron Of The Ocean,260.00,4798.76,-19.59,1247677.60,-5093.40,310646.05,1553230.25
+1867,Terrorghoul The Unspeakable,The Dancing Minstrel,21.20,Planar Mudtin Of Trolls,162.00,2094.92,335.36,339377.04,54328.32,82678.13,476383.49
+9205,Shadow Gust,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,137.00,3773.99,269.83,517036.63,36966.71,83100.50,637103.84
+9675,Gale Jackalguard,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,188.00,3773.99,269.83,709510.12,50728.04,114035.72,874273.88
+11379,Lance Knightseraph,Peley Keep,23.94,Sapphire Mindlead,236.00,1307.71,47.00,308619.56,11092.00,76730.77,396442.33
+12007,Metalbrood,The Greedy Wench,32.70,Angels' Adamant,285.00,1304.00,179.30,371640.00,51100.50,139504.36,562244.86
+13818,Tarot Dawn,The Bastion of Gothmog of Udun,54.84,Spectres' Shadowy Terrorglow Adamant Of Life,272.00,5164.28,248.66,1404684.16,67635.52,809775.82,2282095.50
+20325,Spikebrood The Disinterred,Barad Cune,28.60,Phantasmal Tin Of The Swamps,65.00,5964.74,-7.99,387708.10,-519.35,112284.74,499473.49
+21128,Magus Felldrake,The Forsaken Hive of Galima the Mighty,29.89,Angels' Adamant,221.00,1434.40,197.23,317002.40,43587.83,108177.07,468767.30
+21160,Burnfreeze The Cold,The Fortress of Asmamur,-4.93,Planar Rainfate Mithril,336.00,1304.42,320.52,438285.12,107694.72,-27298.99,518680.85
+21179,Shadow Tomblion,Peley Keep,26.33,Phantasmal Tin Of The Swamps,162.00,5964.74,-7.99,966287.88,-1294.38,250898.31,1215891.81

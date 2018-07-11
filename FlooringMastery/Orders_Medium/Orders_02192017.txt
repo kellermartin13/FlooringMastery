@@ -1,0 +1,23 @@
+2143,Victoria "the Dancer",NV,0.25,Dirt,191.00,0.50,1.00,95.50,191.00,0.00,286.50
+3969,Diana "Mistress" Morgan,MT,3.00,Cedar Planks,200.00,2.00,5.50,400.00,1100.00,45.00,1545.00
+4841,Stella "the Bully",MS,3.00,Solid Oak,353.00,5.50,5.50,1941.50,1941.50,116.49,3999.49
+5703,Theresa "Scalphunter" Romero,CA,0.55,Leather,175.00,10.00,18.15,1750.00,3176.25,49.26,4975.51
+5777,Darlene "Loner" Ford,TX,0.50,Cedar Planks,136.00,2.00,5.50,272.00,748.00,0.00,1020.00
+5778,Heather "Friendly Gambler" Barrett,UT,0.00,Reeds,114.00,0.75,2.20,85.50,250.80,0.00,336.30
+8387,Stella "the Bully",MO,2.20,Pebbles,196.00,0.88,4.84,172.48,948.64,22.42,1143.54
+8651,Renee "Hellish Empress" Banks,MO,2.20,Brick,223.00,4.84,6.66,1079.32,1485.18,51.29,2615.79
+10886,Minnie Lawson "the Apostle",OK,2.42,Leather,230.00,10.00,18.15,2300.00,4174.50,129.49,6603.99
+12599,Kathy Murphy "the Thinker",ID,0.00,Solid Oak,144.00,5.50,5.50,792.00,792.00,0.00,1584.00
+13329,Evelyn "Evil Joker" Taylor,MT,3.63,Leather,62.00,11.00,18.15,682.00,1125.30,72.29,1879.59
+13425,Minnie Lawson "the Apostle",TX,0.67,Dirt,165.00,0.50,1.00,82.50,165.00,2.48,249.98
+13999,Gladys "Locoweed" Keller,AL,1.00,Solid Oak,317.00,5.50,5.50,1743.50,1743.50,34.87,3521.87
+14874,Debra "Scorpion" Lane,AR,2.20,Pebbles,316.00,0.88,4.84,278.08,1529.44,36.15,1843.67
+14897,Mattie Grant "the Gambler",AL,1.00,Packed Dirt,212.00,1.10,2.20,233.20,466.40,7.00,706.60
+15099,Renee "Loco Tracker" Jordan,CA,0.61,Packed Dirt,194.00,1.10,2.20,213.40,426.80,6.40,646.60
+15757,Cathy "Loner Demon" Murray,IA,1.21,Beechwood,192.00,3.63,5.50,696.96,1056.00,17.53,1770.49
+17767,Theresa "Scalphunter" Romero,IA,1.21,Packed Dirt,268.00,1.10,2.20,294.80,589.60,8.84,893.24
+19260,Mattie Grant "the Gambler",NV,0.31,Cedar Planks,338.00,2.20,6.66,743.60,2251.08,0.00,2994.68
+20263,"Scalphunter" Kennedy,TX,0.67,Cedar Planks,81.00,2.20,6.66,178.20,539.46,7.18,724.84
+20725,Lorraine "Utah" Adams,AL,1.00,Beechwood,294.00,3.63,6.05,1067.22,1778.70,28.46,2874.38
+21693,Vengeful Montgomery,WY,0.31,Dirt,207.00,0.55,1.00,113.85,207.00,0.00,320.85
+22851,Tina "Lady" Anderson,MT,5.84,Brick,100.00,5.32,6.66,532.00,666.00,71.88,1269.88

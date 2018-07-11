@@ -1,0 +1,14 @@
+1175,Wheelbolt The Machine,The Forsaken Tomb of Devastation,0.00,Primordial False Gold,145.00,4459.34,226.00,646604.30,32770.00,0.00,679374.30
+7381,Clash Lonedrake,The Dancing Minstrel,21.20,Zephyr Adamant,322.00,4224.00,102.93,1360128.00,33143.46,292587.01,1685858.47
+7849,Law Lionwatcher,The Dungeon of Dismal Terror,-3.50,Fairies' Supreme Mistsmoke Lead Of The Future,228.00,3349.50,324.73,763686.00,74038.44,-33508.98,804215.46
+8428,Evilfear The Horrorific,Khali's Delve,52.71,Negative Rockglitter Mercury Of Trolls,49.00,1483.90,423.07,72711.10,20730.43,49524.01,142965.54
+10989,Song Runetomb,Shainan's Hold,23.96,Phantasmal Plague Adamant,231.00,-186.03,-7.18,-42972.93,-1658.58,-10711.56,-55343.07
+12969,Gravebone The Unspeakable,The Fortress of Gama,10.16,Primordial Plague Mercury Of Legend,212.00,452.29,301.29,95885.48,63873.48,15975.90,175734.86
+13138,Claw Mist,The Glano Forest,3.00,Phantasmal Lead,289.00,-552.97,245.47,-159808.33,70940.83,-2666.02,-91533.52
+13405,Dawn Darkzealot,The Citadel of Alammius,3.50,Meteoric Dustzephyr Orichalcum,290.00,375.00,268.49,108750.00,77862.10,7464.48,194076.58
+16327,Emberspawn,Peley Keep,26.33,God-touched Faterainbow Orichalcum Of Spectres,160.00,370.41,32.01,59265.60,5121.60,16740.67,81127.87
+17828,Lance Knightseraph,Grori's Deep,66.50,Djinni's Spectral Shadowlead Of Life,66.00,4076.49,325.62,269048.34,21490.92,191755.91,482295.17
+18631,Rouge Roguemist,Haukri's Hold,27.83,Starlight Pearldream Bronze,230.00,322.10,147.40,74083.00,33902.00,30235.80,138220.80
+20427,Cult Godseeker,Grori's Deep,66.50,Zephyr Adamant,211.00,4224.00,113.22,891264.00,23889.42,604001.26,1519154.68
+20738,Bronzespike,The Bastion of the Lich Tyrant,52.03,Planar Obsidian Mercury Of Wizards,107.00,2831.40,155.73,302959.80,16663.11,166203.91,485826.82
+20959,Fate Ivycaster,The Hunter and Rose,44.44,Tritons' Time Stoneiron Of Legend,235.00,2129.60,224.81,500456.00,52830.35,243445.99,796732.34

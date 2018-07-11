@@ -1,0 +1,18 @@
+1408,"Maglioneth, Lord of the Sun",Gifeld Castle,6.22,Incubi's Iron Of The Dawn,185.00,1200.96,385.74,222177.60,71361.90,17612.37,311151.87
+1600,Nettool The Grasping,The Pilgrim's Cup,41.93,Phantasmal Plague Adamant,233.00,-186.03,-6.53,-43344.99,-1521.49,-18843.92,-63710.40
+2085,"Eumyan, Goddess of Law",Tower Farthing,22.41,Angels' Adamant,166.00,1304.00,179.30,216464.00,29763.80,54170.12,300397.92
+2464,"Addon, Lord of Death",The Khazahol Crags,-1.97,Phantasmal Smokezephyr Mercury Of Men,196.00,-317.16,69.00,-62163.36,13524.00,972.79,-47666.57
+3467,Metalbrood,Lacot Stronghold,30.88,Forgotten Mithril,197.00,913.00,316.00,179861.00,62252.00,75055.03,317168.03
+3470,Magus Felldrake,The Broken Arrow,30.07,Forgotten Mithril,261.00,913.00,316.00,238293.00,82476.00,96230.70,416999.70
+4782,Seraphim Tsunami,The Khazahol Crags,-1.97,Meteoric Mirrormuck Orichalcum Of The Forests,311.00,1962.00,185.77,610182.00,57774.47,-13359.13,654597.34
+4978,Flora Amberslayer,The Archer and Scroll,39.60,Venom Timegold Of Dwarves,191.00,3036.00,269.00,579876.00,51379.00,252502.00,883757.00
+6680,Cult Godseeker,Archtemple District,27.76,Thunderbirds' Transcendent Dreamiron,252.00,2275.25,237.70,573363.00,59900.40,177313.75,810577.15
+8095,Fate Seeker,Barad Kesa,4.32,Meteoric Mirrormuck Orichalcum Of The Forests,122.00,2158.20,185.77,263300.40,22663.94,11438.57,297402.91
+9187,Maverick Wind,Unicorn's Ward,14.64,White Platinum,212.00,-52.59,145.00,-11149.08,30740.00,2938.64,22529.56
+11436,Nailpiston The Grasping,South Brightcrown Borough,42.25,God-touched Greengem Platinum,266.00,1281.72,-39.60,340937.52,-10533.60,138769.65,469173.57
+12374,Flameshiver,The Citadel of Alammius,3.50,Vampires' Fang Emeraldsilver,357.00,2762.99,455.55,986387.43,162631.35,45960.75,1194979.53
+13004,"Zepul, Lady of Vengeance",Lordsgate Farthing,45.25,Imperial Fate Steel,320.00,2993.93,-44.92,958057.60,-14374.40,424657.44,1368340.64
+15049,Shadow Gust,Minas Gilloy,43.19,Violetdream Iron,63.00,1224.69,349.36,77155.47,22009.68,42641.01,141806.16
+16617,Cinderflame,The Drunken Thief,12.65,Ensorceled Gold Of The Dawn,177.00,6913.92,402.92,1223763.84,71316.84,168360.49,1463441.17
+19876,Sunrise Godwarlock,Grori's Deep,66.50,Primordial False Gold,290.00,5395.80,248.60,1564782.00,72094.00,1080338.16,2717214.16
+20200,Dawn Darkzealot,The Fen of the Necromancer,72.63,Pearl Mirrorice Steel Of Changelings,107.00,328.53,46.07,35152.71,4929.49,29260.01,69342.21

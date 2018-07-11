@@ -1,0 +1,9 @@
+4891,Jericho Wolf,The Tower of Sabiesu the Awesome,4.40,Primordial Mud Orichalcum,82.00,-387.90,77.37,-31807.80,6344.34,-1018.54,-26482.00
+5744,Evilbrood,Unicorn's Ward,13.31,Greenlead,219.00,793.10,148.47,173688.90,32514.93,26806.50,233010.33
+6161,Storm Seraphheart,The Archer and Blade,9.00,Nymphs' Luminous Rotmercury Of The Skies,170.00,292.60,189.00,49742.00,32130.00,7368.48,89240.48
+16351,Chainblade The Cadaverous,The Bastion of Gothmog of Udun,54.84,God-touched Faterainbow Orichalcum Of Spectres,165.00,370.41,32.01,61117.65,5281.65,36519.62,102918.92
+18316,Steelterror The Blade,The Fortress of the Lich Queen,36.35,Djinni's Spectral Shadowlead Of Life,332.00,4076.49,325.62,1353394.68,108105.84,526140.19,1987640.71
+20298,Flameshiver,The Tomb of Hellish Ruin,16.94,Incubi's Iron Of The Dawn,292.00,1200.96,424.31,350680.32,123898.52,80678.40,555257.24
+21505,Chainblade The Cadaverous,The Bastion of Sthasu the Gruesome,14.93,Phantasmal Tin Of The Swamps,264.00,5964.74,-7.99,1574691.36,-2109.36,235887.30,1808469.30
+22172,Snarepiston The Mechanical,The Beggar and Cask,25.41,Starlight Pearldream Bronze,113.00,354.31,147.40,40037.03,16656.20,14173.31,70866.54
+22541,Freezebrood,Grori's Deep,66.50,Incubi's Glittering Tin Of The Future,222.00,3349.54,96.64,743597.88,21454.08,504934.29,1269986.25

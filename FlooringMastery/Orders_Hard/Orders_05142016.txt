@@ -1,0 +1,14 @@
+2113,Deathbrood,The Dancing Minstrel,21.20,Violetdream Iron,336.00,1224.69,349.36,411495.84,117384.96,111064.97,639945.77
+3386,Scarefear The Blade,The Lewd King,27.00,Heavenly Dreamsilver Of The Night,300.00,1826.98,112.00,548094.00,33600.00,157057.38,738751.38
+4028,Emberfire,The Secret Shrine of the Gargoyle Count,-2.00,Plague Tin,180.00,4333.65,342.10,780057.00,61578.00,-16832.70,824802.30
+6683,"Baltha, Goddess of Knowledge",Weke Tower,-0.05,Foul Ice Bronze Of Life,127.00,-92.21,129.80,-11710.67,16484.60,0.00,4773.93
+6704,Cinderember,Grove Farthing,18.00,Thunderbirds' Transcendent Dreamiron,34.00,2275.25,237.70,77358.50,8081.80,15379.25,100819.55
+9082,Ironbrood,Minas Gilloy,39.26,Angels' Smoke Adamant Of The Mountains,124.00,2832.34,215.00,351210.16,26660.00,147369.36,525239.52
+13634,"Gono, Goddess of the Earth",The Lost Crypts of Sorrows,35.87,Toxic Mistlead Of The Past,312.00,1557.54,136.06,485952.48,42450.72,190225.15,718628.35
+15200,"Alik, Goddess of Trickery",The Tower of Aces the Accursed,13.31,Grayplatinum,24.00,2506.27,306.97,60150.48,7367.28,8777.31,76295.07
+16119,Sunrise Godwarlock,Gili's Delve,-6.73,Incubi's Mirrorfog Iron Of The Ocean,126.00,5806.50,-26.08,731619.00,-3286.08,-50983.30,677349.62
+18470,Evilbrood,The Forsaken Sepulcher of Sorrows,53.67,Nymphs' Luminous Rotmercury Of The Skies,258.00,292.60,207.90,75490.80,53638.20,69729.66,198858.66
+19055,"Gono, Goddess of the Earth",The Pilgrim's Cup,46.12,Ghostly Soul Adamant,167.00,3222.96,229.53,538234.32,38331.51,265220.28,841786.11
+20509,"Lionare, God of the Lost",The Dark Caverns of Woe,3.29,Golems' Stonesapphire Gold Of The Glacier,172.00,4444.06,116.57,764378.32,20050.04,23532.85,807961.21
+21374,"Avriel, God of Death",The Warrior and Flagon,53.24,Hidden Shadowice Lead,218.00,2729.00,-62.23,594922.00,-13566.14,308118.61,889474.47
+21970,Gravebone,Tradun Castle,41.43,Mana-touched Greenglitter Gold Of Giants,123.00,1420.52,514.25,174723.96,63252.75,97570.45,335547.16

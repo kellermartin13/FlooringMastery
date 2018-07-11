@@ -1,0 +1,19 @@
+1475,Scarefear The Blade,Lacot Stronghold,30.88,Starlight Pearldream Bronze,223.00,242.00,134.00,53966.00,29882.00,25992.88,109840.88
+1896,Maverick Wind,The Chuallanto Jungle,37.00,Stone Soulsteel Of The Skies,208.00,1634.80,12.01,340038.40,2498.08,126738.50,469274.98
+2189,Ironbrood,The Tomb of Hellish Ruin,14.00,Violetdream Iron,293.00,1224.69,349.36,358834.17,102362.48,64567.53,525764.18
+2253,Lance Knightseraph,Barad Cune,26.00,Stone Soulsteel Of The Skies,307.00,1634.80,12.01,501883.60,3687.07,131448.37,637019.04
+2308,Maverick Wind,Boiaburh Keep,16.00,Mana-touched Greenglitter Gold Of Giants,373.00,1173.98,425.00,437894.54,158525.00,95427.13,691846.67
+5829,Graveterror,The Archer and Blade,9.00,Djinni's Mind Fogiron,330.00,2301.02,67.29,759336.60,22205.70,70338.81,851881.11
+6164,Rune Rougehate,The Archer and Blade,9.00,Warlocks' Timerot Mithril,320.00,2917.07,112.00,933462.40,35840.00,87237.22,1056539.62
+6612,Chainhorror,Weke Tower,-0.05,Magic Adamant,106.00,1838.00,207.64,194828.00,22009.84,0.00,216837.84
+10143,Rouge Roguemist,The Chuallanto Jungle,37.00,Pearl Mirrorice Steel Of Changelings,176.00,271.51,38.07,47785.76,6700.32,20159.85,74645.93
+10885,Gravebone The Unspeakable,The Fortress of the Lich Queen,36.35,Devils' Falserot Silver,125.00,1668.51,182.71,208563.75,22838.75,83304.90,314707.40
+14455,Flameshiver,Barad Kesa,4.75,Ensorceled Sandmetal Of Spirits,181.00,2956.98,95.70,535213.38,17321.70,27626.75,580161.83
+16155,Steelterror The Blade,The Pilgrim's Cup,46.12,Otherworldly Mirror Orichalcum,53.00,-298.87,526.35,-15840.11,27896.55,5545.96,17602.40
+16278,Bane Veil,Fellfen Keep,61.53,Lycanthropes' Gold,231.00,4846.18,66.14,1119467.58,15278.34,703542.47,1838288.39
+16320,Spiketerror The Skeletal,Pewold Keep,22.57,Otherworldly Mirror Orichalcum,223.00,-298.87,526.35,-66648.01,117376.05,11667.45,62395.49
+16811,Springpulley The Binder,Love Keep,9.32,Ghostly Magic Adamant,123.00,4836.38,230.90,594874.74,28400.70,56094.79,679370.23
+16916,Song Runetomb,Lacot Stronghold,45.22,Magicians' Legendary Poison Metal,193.00,2719.59,252.79,524880.87,48788.47,258151.20,831820.54
+19722,"Melcha, Goddess of Thieves",The Pirate's Pipe,17.60,Sirens' Rockgold,73.00,-352.01,199.96,-25696.73,14597.08,-1997.94,-13097.59
+20239,Gravebone The Unspeakable,Weke Tower,-0.07,Pearl Mirrorice Steel Of Changelings,191.00,328.53,46.07,62749.23,8799.37,0.00,71548.60
+22768,Jericho Wolf,The Desert of Flames,57.10,Thunderbirds' Transcendent Dreamiron,132.00,2275.25,237.70,300333.00,31376.40,189074.36,520783.76

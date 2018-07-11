@@ -1,0 +1,19 @@
+537,"Penur, Lord of the Sea",Tradun Castle,31.13,Nymphs' Luminous Rotmercury Of The Skies,145.00,266.00,189.00,38570.00,27405.00,20452.25,86427.25
+1371,Fate Ivycaster,Lacot Stronghold,30.88,Phantasmal Tin Of The Swamps,209.00,4074.00,-6.60,851466.00,-1379.40,263526.85,1113613.45
+1746,Rune Rougehate,Reheath Stronghold,8.00,Incubi's Mirrorfog Iron Of The Ocean,108.00,4798.76,-19.59,518266.08,-2115.72,41292.03,557442.39
+3371,"Azah, Goddess of Fate",The Temple of Merciless Necromancy,50.94,Evilsilver,243.00,1486.85,79.86,361304.55,19405.98,194162.37,574872.90
+6799,Rouge Tombreaper,South Brightcrown Borough,42.25,Unholy Poison Copper Of The Mountains,172.00,580.91,-9.24,99916.52,-1589.28,41297.44,139624.68
+8702,Emberspawn,Kada's Deep,33.00,Violetstone Tin Of Death,337.00,2245.23,156.10,756642.51,52605.70,267051.91,1076300.12
+10026,Springsprocket,The Warrior and Flagon,48.40,Mithril Of Legend,339.00,2274.80,63.01,771157.20,21360.39,380408.44,1172926.03
+10285,Rouge Tombreaper,The Chuallanto Jungle,37.00,Djinni's Spectral Shadowlead Of Life,296.00,3705.90,325.62,1096946.40,96383.52,441532.07,1634861.99
+10420,Fate Seeker,The Dark Caverns of Woe,3.29,Pearl Mirrorice Steel Of Changelings,222.00,271.51,38.07,60275.22,8451.54,2061.80,70788.56
+10758,"Byzou, God of Animals",The Greedy Wench,32.70,Shadow Steel,274.00,4677.78,465.30,1281711.72,127492.20,465037.29,1874241.21
+11805,Tarot Dawn,The Archer and Scroll,39.60,Thunderbirds' Transcendent Dreamiron,168.00,2275.25,237.70,382242.00,39933.60,168870.24,591045.84
+11980,Flora Amberslayer,Ring District,35.00,Angels' Adamant,326.00,1304.00,179.30,425104.00,58451.80,169244.53,652800.33
+13156,"Sielach, God of Fate",The Citadel of Alammius,3.50,Muck Orichalcum Of Ogres,133.00,3426.85,364.95,455771.05,48538.35,20172.38,524481.78
+17938,Springsprocket,Lamp Borough,4.95,Phantasmal Plague Adamant,268.00,-204.63,-7.18,-54840.84,-1924.24,-2838.25,-59603.33
+18990,Lightning Brand,The Barrow of Malefic Ages,19.70,Ghostly Soul Adamant,184.00,3222.96,229.53,593024.64,42233.52,127051.63,762309.79
+20148,Shiverflame The Freezer,Tower Farthing,27.12,Timeiron,122.00,1596.00,251.16,194712.00,30641.52,60845.45,286198.97
+21745,"Nelalwe, Lady of Fire",The Wizard's House,43.58,Trolls' Rubymercury Of The Sunset,245.00,740.84,239.58,181505.80,58697.10,105689.28,345892.18
+22950,Bane Veil,The Greedy Wench,43.53,Djinni's Evil Sandobsidian Steel Of The Future,104.00,4208.60,172.78,437694.40,17969.12,200491.95,656155.47
+23238,Shadow Tomblion,Hafeld Keep,46.71,Yellow Mistearth Copper,38.00,6090.10,-33.15,231423.80,-1259.70,108177.13,338341.23

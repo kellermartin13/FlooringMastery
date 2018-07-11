@@ -1,0 +1,11 @@
+3630,Seraphim Tsunami,The Dismal Marsh,5.00,Forgotten Mithril,300.00,913.00,316.00,273900.00,94800.00,18435.00,387135.00
+4501,Sephiroth Drakecaster,The Secret Shrine of the Gargoyle Count,-2.00,Vampires' Fang Emeraldsilver,31.00,2283.46,455.55,70787.26,14122.05,-1698.19,83211.12
+7491,Scarefear The Blade,The Forsaken Hive of Galima the Mighty,24.70,Fleshshock Mercury,153.00,4417.00,279.40,675801.00,42748.20,179637.30,898186.50
+9231,Burnbrood The Freezer,Kada's Deep,33.00,Violetstone Tin Of Death,348.00,2245.23,156.10,781340.04,54322.80,275768.74,1111431.58
+13185,"Lenwenye, Goddess of Travel",Castle Village,41.26,Negative Mercury,369.00,4054.87,436.81,1496247.03,161182.89,679546.27,2336976.19
+14106,Rune Rougehate,Lamp Borough,4.95,Shadow Steel,296.00,5660.12,511.83,1675395.52,151501.68,91344.86,1918242.06
+15457,Law Lionwatcher,The Fortress of Asmamur,-4.93,Plague Tin,117.00,4767.02,342.10,557741.34,40025.70,-29888.35,567878.69
+16545,Lightning Brand,Gena's Hold,2.66,Ghostly Magic Adamant,124.00,4836.38,230.90,599711.12,28631.60,18850.28,647193.00
+17144,Chainhorror,Castle Village,45.39,Succubi's Evil Mindzephyr Adamant Of The Desert,143.00,2189.18,250.07,313052.74,35760.01,156965.74,505778.49
+20167,Snarepiston The Mechanical,Tower Farthing,27.12,Incubi's Iron Of The Dawn,47.00,1200.96,424.31,56445.12,19942.57,20624.68,97012.37
+22342,Valentine Lawslayer,Waleah Castle,0.85,Foul Ice Bronze Of Life,221.00,-101.43,157.06,-22416.03,34710.26,122.94,12417.17

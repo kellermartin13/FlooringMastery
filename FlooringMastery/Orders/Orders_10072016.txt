@@ -1,0 +1,14 @@
+3853,Susan "Damnation" Fleming,UT,0.00,Leather,211.00,10.00,16.50,2110.00,3481.50,0.00,5591.50
+4435,Helen Webb "the Dancer",MT,3.00,Beechwood,204.00,3.00,5.00,612.00,1020.00,48.96,1680.96
+7849,Dorothy "the Hunter",MO,2.20,Reeds,122.00,0.75,2.20,91.50,268.40,7.20,367.10
+8288,Cynthia "the Vixen",MS,3.00,Reeds,60.00,0.75,2.20,45.00,132.00,5.31,182.31
+9501,Vengeful Montgomery,AL,1.00,Pinecones,356.00,1.50,2.66,534.00,946.96,14.81,1495.77
+10467,Lorraine "Utah" Adams,NM,2.20,Solid Oak,187.00,5.50,5.50,1028.50,1028.50,41.14,2098.14
+10716,Elizabeth "the Bully",TX,0.67,Solid Oak,299.00,5.50,5.50,1644.50,1644.50,32.89,3321.89
+13667,"Bane" Jennings,CA,0.61,Dirt,327.00,0.50,1.00,163.50,327.00,4.90,495.40
+13755,Mabel "Vixen Cursed" King,AR,2.20,Dirt,142.00,0.50,1.00,71.00,142.00,4.26,217.26
+14565,Marie "Raven" Chapman,MS,3.00,Cedar Planks,195.00,2.20,6.05,429.00,1179.75,48.26,1657.01
+16595,Jacqueline "Riding Doc" Washington,WY,0.31,Leather,103.00,11.00,19.97,1133.00,2056.91,0.00,3189.91
+21027,Dorothy "the Hunter",ND,1.67,Brick,122.00,5.32,6.66,649.04,812.52,29.23,1490.79
+21347,Cathy "Wildfire" Neal,CA,0.67,Pebbles,203.00,0.88,4.84,178.64,982.52,11.61,1172.77
+23529,Susan "Damnation" Fleming,ND,1.67,Cedar Planks,171.00,2.20,6.66,376.20,1138.86,30.30,1545.36

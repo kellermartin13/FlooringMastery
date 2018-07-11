@@ -1,0 +1,14 @@
+4217,"Lenwenye, Goddess of Travel",Tradun Castle,31.13,Sapphire Mindlead,131.00,1307.71,47.00,171310.01,6157.00,55014.77,232481.78
+4624,"Ahah, Goddess of Knowledge",Archring Borough,17.93,Yellow Mistearth Copper,40.00,4575.58,-27.40,183023.20,-1096.00,32746.90,214674.10
+5202,Sunrise Godwarlock,The Broken Arrow,30.07,Magic Adamant,113.00,1838.00,188.76,207694.00,21329.88,68707.16,297731.04
+6162,Sunrise Godwarlock,The Tower of Aramum,39.00,Tritons' Time Stoneiron Of Legend,107.00,1760.00,168.90,188320.00,18072.30,80493.00,286885.30
+6251,Spiketerror The Skeletal,The Broken Arrow,30.07,Icy Shock Silver,172.00,1348.16,407.00,231883.52,70004.00,90566.26,392453.78
+6371,Wind Dire,The Tower of Aramum,39.00,God-touched Greengem Platinum,158.00,1281.72,-36.00,202511.76,-5688.00,76761.27,273585.03
+10056,"Melcha, Goddess of Thieves",The Dungeon of Dismal Terror,-3.50,Djinni's Spectral Shadowlead Of Life,46.00,3705.90,325.62,170471.40,14978.52,-7418.00,178031.92
+11010,Harmony Angelchild,Lacot Stronghold,37.37,Tin Of The Tundra,191.00,2839.87,174.91,542415.17,33407.81,213054.50,788877.48
+12026,Cult Godseeker,Gena's Hold,2.66,Shadowy Adamant,220.00,618.93,526.44,136164.60,115816.80,7559.44,259540.84
+13320,Law Lionwatcher,The Citadel of Alammius,3.50,Sapphire Mindlead,158.00,1307.71,47.00,206618.18,7426.00,8561.77,222605.95
+14539,"Eumyan, Goddess of Law",The Archer and Blade,9.90,Swordbronze,37.00,1485.01,447.01,54945.37,16539.37,7148.47,78633.21
+16391,Bedlam Spiritraven,Haukri's Hold,27.83,Lycanthropes' Gold,320.00,4846.18,66.14,1550777.60,21164.80,440143.87,2012086.27
+17827,Deathbrood,The Hunter and Rose,44.44,Legendary Mithril Of The Moon,248.00,2977.81,125.84,738496.88,31208.32,338670.29,1108375.49
+19198,Flameflare The Evil,The Barrow of Malefic Ages,19.70,Mind Lead,262.00,3442.09,374.01,901827.58,97990.62,199963.64,1199781.84

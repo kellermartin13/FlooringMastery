@@ -1,0 +1,23 @@
+918,Renee "Loco Tracker" Jordan,MO,2.20,Packed Dirt,156.00,1.00,1.50,156.00,234.00,7.80,397.80
+1099,Black Beck,ID,0.00,Pebbles,147.00,0.80,4.40,117.60,646.80,0.00,764.40
+3801,Ida Russell "the Rustler",ND,1.25,Pinecones,189.00,1.50,2.42,283.50,457.38,7.41,748.29
+3885,Geraldine "Revenge" Warren,NV,0.25,Cedar Planks,147.00,2.00,5.50,294.00,808.50,0.00,1102.50
+7083,Ida Russell "the Rustler",ND,1.25,Cedar Planks,145.00,2.20,6.05,319.00,877.25,11.96,1208.21
+7582,"Bane" Jennings,MO,2.20,Packed Dirt,287.00,1.00,1.50,287.00,430.50,14.35,731.85
+9212,Joanne "Damned" Miles,ND,1.25,Solid Oak,125.00,5.50,5.50,687.50,687.50,13.75,1388.75
+10683,Maureen "Cursed" Andrews,OK,2.42,Brick,126.00,4.84,6.66,609.84,839.16,28.98,1477.98
+11723,Gladys "Locoweed" Keller,MS,3.00,Pinecones,158.00,1.50,2.66,237.00,420.28,19.72,677.00
+11727,Gladys "Locoweed" Keller,ID,0.00,Cedar Planks,154.00,2.20,6.05,338.80,931.70,0.00,1270.50
+13001,Beth "Fortunate Shooter" Powell,ID,0.00,Reeds,140.00,0.75,2.20,105.00,308.00,0.00,413.00
+13875,"Scalphunter" Kennedy,UT,0.00,Cedar Planks,177.00,2.20,6.05,389.40,1070.85,0.00,1460.25
+14927,Kathy Murphy "the Thinker",UT,0.00,Solid Oak,317.00,5.50,5.50,1743.50,1743.50,0.00,3487.00
+15758,Cynthia "the Vixen",NM,2.66,Packed Dirt,93.00,1.10,2.20,102.30,204.60,9.21,316.11
+15783,Friendly Howell,CA,0.61,Pinecones,196.00,1.50,2.66,294.00,521.36,8.15,823.51
+16893,Florence "Leather Doc" Grant,ID,0.00,Beechwood,114.00,3.63,5.50,413.82,627.00,0.00,1040.82
+17500,Betty "Happy Thinker" Watson,MO,2.20,Cedar Planks,227.00,2.20,6.66,499.40,1511.82,40.22,2051.44
+17560,Surgeon Grant,IA,1.21,Pinecones,22.00,1.50,2.66,33.00,58.52,0.92,92.44
+20929,Cynthia "the Vixen",NV,0.31,Packed Dirt,55.00,1.10,2.42,60.50,133.10,0.00,193.60
+21993,Jo "the Joker",MO,2.20,Reeds,143.00,0.83,2.20,118.69,314.60,8.67,441.96
+21995,Cynthia "the Vixen",AR,2.20,Pinecones,142.00,1.50,2.66,213.00,377.72,11.81,602.53
+23051,Cathy "Wildfire" Neal,NM,2.93,Reeds,347.00,0.91,2.42,315.77,839.74,34.67,1190.18
+23177,Wilma "Tornado" Brooks,IA,1.33,Leather,377.00,11.00,19.97,4147.00,7528.69,116.76,11792.45

@@ -1,0 +1,13 @@
+3549,Zeal Bladewitch,The Shadow Downs,13.21,Unknowable Mindsilver,205.00,3565.00,366.00,730825.00,75030.00,104761.15,910616.15
+6629,Magus Felldrake,The Tower of Aces the Accursed,13.31,Zephyr Iron,158.00,2759.00,444.69,435922.00,70261.02,65803.79,571986.81
+6985,"Selik, God of Death",The Demon and Toad,23.75,Angels' Smoke Adamant Of The Mountains,229.00,2832.34,215.00,648605.86,49235.00,167481.81,865322.67
+7592,"Ahah, Goddess of Knowledge",Pawic Keep,0.56,Fleshshock Mercury,46.00,4417.00,279.40,203182.00,12852.40,2160.34,218194.74
+8833,Harmony Angelchild,The Archer and Scroll,39.60,Ensorceled Gold Of The Dawn,58.00,5713.98,402.92,331410.84,23369.36,141912.08,496692.28
+10012,"Eumyan, Goddess of Law",The Dismal Marsh,6.05,Shadowy Adamant,260.00,618.93,478.58,160921.80,124430.80,17121.16,302473.76
+11627,Snarepiston The Mechanical,The Archer and Scroll,39.60,God-touched Greengem Platinum,120.00,1281.72,-39.60,153806.40,-4752.00,59621.76,208676.16
+13720,"Maglioneth, Lord of the Sun",The Greedy Wench,32.70,Ghostly Soul Adamant,369.00,3222.96,229.53,1189272.24,84696.57,420409.71,1694378.52
+14477,Shadow Gust,Haukri's Hold,27.83,Legendary Mithril Of The Moon,203.00,2707.10,125.84,549541.30,25545.52,161024.31,736111.13
+15603,"Ingwenel, God of War",Gili's Delve,-6.73,God-touched Faterainbow Orichalcum Of Spectres,219.00,370.41,32.01,81119.79,7010.19,-6169.10,81960.88
+17012,Magus Felldrake,The Cracked Chalice,2.52,Foul Ice Bronze Of Life,152.00,-101.43,142.78,-15417.36,21702.56,188.56,6473.76
+21157,Zeal Bladewitch,The Warrior and Flagon,53.24,Phantasmal Tin Of The Swamps,213.00,5964.74,-7.99,1270489.62,-1701.87,672457.51,1941245.26
+22068,Emberfire,Barad Cune,28.60,Forgotten Mithril,346.00,1215.20,347.60,420459.20,120269.60,156811.35,697540.15

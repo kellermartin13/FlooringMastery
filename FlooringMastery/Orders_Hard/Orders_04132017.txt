@@ -1,0 +1,23 @@
+212,Icechill The Frigid,The Fortress of Asmamur,-4.48,Unicorns' Evil Mithril,235.00,3969.00,312.00,932715.00,73320.00,-40241.40,965793.60
+1388,"Lionare, God of the Lost",Archtemple District,27.76,Ensorceled Sandmetal Of Spirits,281.00,2956.98,87.00,830911.38,24447.00,239500.35,1094858.73
+2625,Bronzespike,Boiaburh Keep,16.00,Ghostly Soul Adamant,296.00,2929.96,189.69,867268.16,56148.24,147746.62,1071163.02
+3558,Claw Mist,The Tower of Sabiesu the Awesome,4.40,Planar Mudtin Of Trolls,229.00,2304.41,335.36,527709.89,76797.44,24180.29,628687.62
+5833,Lord Mystery,The Nulukkhath Spires,10.59,Angels' Adamant,124.00,1304.00,179.30,161696.00,22233.20,20232.21,204161.41
+6902,Bedlam Spiritraven,The Flying Witch,11.45,Unholy Poison Copper Of The Mountains,271.00,580.91,-9.24,157426.61,-2504.04,17041.48,171964.05
+8732,Gravebone,The Nulukkhath Spires,10.59,Goddesses' Spectral Poison Steel,178.00,3773.99,269.83,671770.22,48029.74,79178.00,798977.96
+8983,Rune Rougehate,The Fen of the Necromancer,54.57,Ghouls' Imperial Soulzephyr Mithril Of The Seas,243.00,4123.68,122.49,1002054.24,29765.07,567500.62,1599319.93
+9826,Cinderflame,Lamp Borough,4.95,Spectres' Shadowy Terrorglow Adamant Of Life,251.00,4694.80,205.50,1178394.80,51580.50,61498.76,1291474.06
+10091,"Melcha, Goddess of Thieves",The Chuallanto Jungle,37.00,Meteoric Dustzephyr Orichalcum,201.00,375.00,244.08,75375.00,49060.08,46040.98,170476.06
+10503,Zeal Bladewitch,The Shadow Downs,13.21,Hell Mercury Of The East,248.00,4636.34,313.06,1149812.32,77638.88,159568.66,1387019.86
+11180,Jericho Wolf,The Forsaken Sepulcher of Sorrows,48.79,Ghostly Soul Adamant,370.00,3222.96,229.53,1192495.20,84926.10,625936.44,1903357.74
+12686,Cinderflame,The Glano Forest,3.00,Phantasmal Lead,286.00,-552.97,245.47,-158149.42,70204.42,-2638.35,-90583.35
+14008,Flora Amberslayer,Grove Farthing,19.80,Sphinxes' Mistsoul Bronze Of The Past,163.00,2169.81,202.07,353679.03,32937.41,77323.29,463939.73
+17151,Spikerivet,The Citadel of Lord Greywulf,33.04,Venom Jewelmetal Of The Desert,385.00,1388.00,298.14,534380.00,114783.90,214224.09,863387.99
+18394,"Sielach, God of Fate",The Hunter and Rose,44.44,Undeads' Mind Orichalcum Of The Twilight,94.00,-17.00,276.00,-1598.00,25944.00,10712.24,35058.24
+19060,Scarefear The Blade,The Pilgrim's Cup,46.12,Dragons' Poison Glitterflesh Steel Of The North,160.00,2790.70,288.13,446512.00,46100.80,226601.89,719214.69
+19824,"Maglioneth, Lord of the Sun",The Tomb of Hellish Ruin,16.94,Pearl Mirrorice Steel Of Changelings,216.00,328.53,46.07,70962.48,9951.12,13755.31,94668.91
+20251,Seraph Jester,The Warrior and Flagon,53.24,Unicorns' Evil Mithril,230.00,4802.49,377.52,1104572.70,86829.60,631443.22,1822845.52
+20541,"Gadriel, God of Resurrection",The Secret Catacombs of Ulfang the Black,42.90,Sphinxes' Opalpearl Platinum Of Legend,172.00,5805.82,390.81,998601.04,67219.32,458302.75,1524123.11
+20948,Wind Dire,The Hunter and Rose,44.44,Djinni's Evil Sandobsidian Steel Of The Future,157.00,4208.60,172.78,660750.20,27126.46,302665.73,990542.39
+21231,Metalbrood,Peley Keep,26.33,Phantasmal Tin Of The Swamps,107.00,5964.74,-7.99,638227.18,-854.93,165716.78,803089.03
+22963,Tarot Dawn,Hafeld Keep,46.71,Incubi's Glittering Tin Of The Future,249.00,3349.54,96.64,834035.46,24063.36,403306.45,1261405.27

@@ -1,0 +1,18 @@
+2636,Shadow Gust,The Cracked Chalice,2.29,Rocklava Mithril Of Revenants,178.00,1818.30,13.03,323657.40,2319.34,6519.53,332496.27
+3024,Rune Rougehate,The Hunter and Rose,40.40,Swordbronze,279.00,1350.01,447.01,376652.79,124715.79,200547.43,701916.01
+4250,Evilbrood,The Pilgrim's Cup,41.93,Negative Rockglitter Mercury Of Trolls,186.00,1483.90,423.07,276005.40,78691.02,148972.50,503668.92
+4591,"Uriel, God of Fate",Boiaburh Keep,16.00,Negative Rockglitter Mercury Of Trolls,101.00,1483.90,423.07,149873.90,42730.07,30816.64,223420.61
+6455,Flora Amberslayer,The Dread Hive of Illfang the Kobold Lord,1.33,Foul Ice Bronze Of Life,131.00,-92.21,129.80,-12079.51,17003.80,49.24,4973.53
+7826,Terrorghoul The Unspeakable,Lordsgate Farthing,41.14,Violetstone Tin Of Death,170.00,2245.23,156.10,381689.10,26537.00,167372.70,575598.80
+8019,Shadow Gust,The Cuitamba Jungle,30.80,Toxin Iceplatinum Of The Undead,151.00,-342.78,-53.90,-51759.78,-8138.90,-18568.59,-78467.27
+8516,Valentine Lawslayer,Haukri's Hold,25.30,Glowpearl Adamant Of Spirits,170.00,398.09,374.00,67675.30,63580.00,32813.82,164069.12
+10375,Cult Godseeker,The Nulukkhath Spires,10.59,Pearl Mirrorice Steel Of Changelings,249.00,271.51,38.07,67605.99,9479.43,8479.40,85564.82
+12661,Chainnail,The Fortress of Gama,10.16,Forgotten Mithril,117.00,1104.73,316.00,129253.41,36972.00,16622.54,182847.95
+14144,Spikesnare,The Chuallanto Jungle,40.70,Sprites' Transcendent Mud Lead Of The South,287.00,2081.80,321.86,597476.60,92373.82,282838.67,972689.09
+15558,Seraphim Tsunami,Cawold Castle,24.09,Incubi's Iron Of The Dawn,78.00,1200.96,424.31,93674.88,33096.18,30425.05,157196.11
+18494,Rose Anchor,The Lewd King,32.67,Hidden Shadowice Lead,262.00,2729.00,-62.23,714998.00,-16304.26,230568.93,929262.67
+19341,Seraphim Tsunami,The Forsaken Delve of Lord Greywulf,42.90,Tin Of The Tundra,291.00,3436.25,174.91,999948.75,50898.81,451864.45,1502712.01
+19540,Rouge Tombreaper,Weke Tower,-0.07,Sirens' Rockgold,363.00,-352.01,199.96,-127779.63,72585.48,0.00,-55194.15
+20060,Sephiroth Drakecaster,Moor Village,76.43,Planar Rainfate Mithril,331.00,1185.84,320.52,392513.04,106092.12,378939.92,877545.08
+21252,Spikecrank,Unicorn's Ward,14.64,Phantasmal Tin Of The Swamps,187.00,5964.74,-7.99,1115406.38,-1494.13,167086.84,1280999.09
+21328,Evilfear The Horrorific,The Lazy Sage,19.97,Phantasmal Tin Of The Swamps,132.00,5964.74,-7.99,787345.68,-1054.68,157258.20,943549.20

@@ -1,0 +1,17 @@
+2680,Debra "Scorpion" Lane,AR,2.20,Brick,249.00,4.00,5.50,996.00,1369.50,47.31,2412.81
+2697,Elizabeth "the Bully",MS,3.00,Packed Dirt,191.00,1.00,1.50,191.00,286.50,14.32,491.82
+3762,Lucky Johnson,OK,2.00,Packed Dirt,173.00,1.00,1.50,173.00,259.50,8.65,441.15
+6267,"Bane" Jennings,ND,1.25,Packed Dirt,159.00,1.00,1.50,159.00,238.50,3.98,401.48
+7079,Tina "Lady" Anderson,AL,1.00,Solid Oak,284.00,5.50,5.50,1562.00,1562.00,31.24,3155.24
+10874,Vengeful Robertson,ND,1.25,Packed Dirt,193.00,1.00,1.50,193.00,289.50,4.82,487.32
+11824,Vengeful Robertson,NV,0.31,Brick,131.00,4.84,6.66,634.04,872.46,0.00,1506.50
+13244,Michele Watson "the Loner",WY,0.31,Pinecones,259.00,1.50,2.66,388.50,688.94,0.00,1077.44
+14990,Darlene "Loner" Ford,ND,1.38,Cedar Planks,162.00,2.20,6.05,356.40,980.10,13.36,1349.86
+15686,Vengeful Montgomery,MS,3.00,Brick,278.00,5.32,6.66,1478.96,1851.48,99.91,3430.35
+17503,"Bane" Jennings,MO,2.20,Brick,95.00,5.32,6.66,505.40,632.70,22.76,1160.86
+17915,Julia "Bandit" Chandler,CA,0.61,Brick,312.00,5.32,6.66,1659.84,2077.92,37.38,3775.14
+17991,Heather "Tornado" Newman,MT,3.99,Leather,263.00,11.00,19.97,2893.00,5252.11,325.80,8470.91
+19919,Lena Chapman "the Bully",MO,2.20,Packed Dirt,371.00,1.10,2.42,408.10,897.82,26.12,1332.04
+20857,Tina "Lady" Anderson,MO,2.20,Pinecones,100.00,1.50,2.66,150.00,266.00,8.32,424.32
+22050,Geraldine "Revenge" Warren,CA,0.67,Leather,49.00,11.00,19.97,539.00,978.53,15.18,1532.71
+23231,Allison "Steel Gravedigger" Douglas,IA,1.33,Beechwood,163.00,3.63,6.05,591.69,986.15,15.78,1593.62

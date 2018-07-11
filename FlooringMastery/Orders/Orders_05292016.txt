@@ -1,0 +1,9 @@
+85,Julia "Bandit" Chandler,IA,1.00,Solid Oak,27.00,5.00,5.00,135.00,135.00,2.70,272.70
+4177,Mattie Grant "the Gambler",IA,1.10,Leather,237.00,10.00,16.50,2370.00,3910.50,62.80,6343.30
+4760,Florence "Leather Doc" Grant,UT,0.00,Pinecones,211.00,1.50,2.42,316.50,510.62,0.00,827.12
+5316,Theresa "Kid" Robinson,UT,0.00,Solid Oak,368.00,5.50,5.50,2024.00,2024.00,0.00,4048.00
+10959,Renee "Hellish Empress" Banks,WY,0.31,Leather,109.00,10.00,18.15,1090.00,1978.35,0.00,3068.35
+12709,Jo "the Joker",TX,0.67,Pinecones,198.00,1.50,2.66,297.00,526.68,8.24,831.92
+12834,Florence "Leather Doc" Grant,NM,2.42,Solid Oak,150.00,5.50,5.50,825.00,825.00,33.00,1683.00
+14709,Black Beck,AL,1.00,Reeds,122.00,0.75,2.20,91.50,268.40,3.60,363.50
+20273,Beth "Fortunate Shooter" Powell,MS,3.00,Pinecones,245.00,1.50,2.66,367.50,651.70,30.58,1049.78

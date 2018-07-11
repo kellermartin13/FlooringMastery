@@ -1,0 +1,26 @@
+831,Victoria "the Dancer",AL,1.00,Pebbles,192.00,0.80,4.00,153.60,768.00,9.22,930.82
+1266,Joanne "Damned" Miles,IA,1.00,Packed Dirt,212.00,1.00,1.50,212.00,318.00,5.30,535.30
+4740,Gloria "Devil" McCoy,AR,2.20,Packed Dirt,93.00,1.00,1.50,93.00,139.50,4.65,237.15
+8744,Beth "Fortunate Shooter" Powell,MO,2.20,Beechwood,200.00,3.00,5.50,600.00,1100.00,34.00,1734.00
+9552,Minnie Lawson "the Apostle",CA,0.55,Pinecones,266.00,1.50,2.66,399.00,707.56,11.07,1117.63
+9846,Geraldine "Revenge" Warren,CA,0.55,Reeds,321.00,0.75,2.20,240.75,706.20,9.47,956.42
+10030,Allison "Steel Gravedigger" Douglas,AL,1.00,Beechwood,205.00,3.00,5.50,615.00,1127.50,17.42,1759.92
+10532,Dorothy "the Hunter",MS,3.00,Reeds,273.00,0.75,2.20,204.75,600.60,24.16,829.51
+11023,Jo "the Joker",ID,0.00,Dirt,303.00,0.50,1.00,151.50,303.00,0.00,454.50
+11980,Gladys "Locoweed" Keller,AL,1.00,Beechwood,223.00,3.30,5.50,735.90,1226.50,19.62,1982.02
+13010,Helen Webb "the Dancer",NV,0.31,Cedar Planks,237.00,2.20,6.05,521.40,1433.85,0.00,1955.25
+13020,Heather "Friendly Gambler" Barrett,IA,1.21,Reeds,260.00,0.75,2.20,195.00,572.00,7.67,774.67
+14855,Amanda Hart "the Loner",IA,1.21,Reeds,176.00,0.75,2.20,132.00,387.20,5.19,524.39
+15662,Black Beck,OK,2.42,Dirt,316.00,0.50,1.00,158.00,316.00,9.48,483.48
+15829,Mattie Grant "the Gambler",OK,2.42,Packed Dirt,203.00,1.10,2.20,223.30,446.60,13.40,683.30
+15877,Lorraine "Utah" Adams,CA,0.61,Brick,203.00,5.32,6.66,1079.96,1351.98,24.32,2456.26
+16156,Evelyn "Evil Joker" Taylor,MT,3.99,Beechwood,291.00,3.63,5.50,1056.33,1600.50,106.27,2763.10
+16220,"Sunrise" Miles,MT,3.99,Pebbles,220.00,0.88,4.84,193.60,1064.80,50.34,1308.74
+18556,Mabel "Vixen Cursed" King,ID,0.00,Dirt,176.00,0.50,1.00,88.00,176.00,0.00,264.00
+18776,Beth "Fortunate Shooter" Powell,AL,1.00,Brick,154.00,5.32,6.66,819.28,1025.64,18.45,1863.37
+19517,Renee "Hellish Empress" Banks,KS,0.55,Reeds,141.00,0.83,2.20,117.03,310.20,4.27,431.50
+20239,Mattie Grant "the Gambler",KS,0.55,Pebbles,136.00,0.88,4.84,119.68,658.24,7.78,785.70
+22087,Deborah "the Lady",UT,0.00,Pinecones,214.00,1.50,2.66,321.00,569.24,0.00,890.24
+22370,Vengeful Montgomery,MS,3.00,Pinecones,372.00,1.50,2.66,558.00,989.52,46.43,1593.95
+22778,Theresa "Kid" Robinson,MO,2.20,Reeds,103.00,0.91,2.42,93.73,249.26,6.86,349.85
+23371,Julia "Bandit" Chandler,WY,0.34,Packed Dirt,309.00,1.10,2.42,339.90,747.78,0.00,1087.68

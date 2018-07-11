@@ -1,0 +1,18 @@
+202,Lance Knightseraph,The Bastion of Barbos,21.29,Green Dustlightning Mercury,203.00,3517.00,32.00,713951.00,6496.00,151293.87,871740.87
+1290,Harmony Angelchild,The Dungeon of Merciless Woe,38.62,Sapphire Mindlead,196.00,1307.71,47.00,256311.16,9212.00,103554.03,369077.19
+1449,Shadow Gust,Reheath Stronghold,8.00,Incubi's Glittering Tin Of The Future,323.00,2287.78,72.60,738952.94,23449.80,60992.22,823394.96
+9102,Metalbrood,The Archer and Scroll,39.60,Primordial Plague Mercury Of Legend,13.00,452.29,301.29,5879.77,3916.77,3918.62,13715.16
+9788,Storm Seraphheart,The Tomb of Gothmog of Udun,-3.00,Spirits' Living Wordhammer Tin Of The Trees,254.00,4777.30,26.40,1213434.20,6705.60,-36604.19,1183535.61
+9928,"Ariel, God of Luck",The Bloody Wand,12.00,Shadowy Adamant,346.00,618.93,478.58,214149.78,165588.68,45568.62,425307.08
+13330,"Iran, Lord of Nightmares",The Lost Crypts of Sorrows,35.87,Mithril Of Legend,278.00,2274.80,63.01,632394.40,17516.78,233968.02,883879.20
+15718,Emberspawn,Lamp Borough,4.95,Unknown Fatelightning Steel Of The Glacier,148.00,2441.05,65.68,361275.40,9720.64,18549.80,389545.84
+15985,Jericho Wolf,Gili's Delve,-6.73,Nymphs' Luminous Rotmercury Of The Skies,344.00,292.60,189.00,100654.40,65016.00,-11596.93,154073.47
+16224,Bolttrap,The Vaults of the Shadow Emperor,33.00,Nymphs' Luminous Rotmercury Of The Skies,217.00,292.60,189.00,63494.20,41013.00,34487.38,138994.58
+19617,Seraphim Tsunami,Archfane District,36.16,Emerald Orichalcum,362.00,-405.76,128.90,-146885.12,46661.80,-36080.40,-136303.72
+19661,Bronzespike,North Grove Ward,7.99,Witchs' Forbidden Rockrainbow Bronze,272.00,655.60,425.92,178323.20,115850.24,23533.88,317707.32
+20018,Sunrise Godwarlock,The Tomb of Hellish Ruin,16.94,Planar Rainfate Mithril,157.00,1185.84,320.52,186176.88,50321.64,40204.75,276703.27
+20210,Nettool The Grasping,Grori's Deep,66.50,Grayplatinum,112.00,3032.59,306.97,339650.08,34380.64,246860.28,620891.00
+20348,Burnfreeze The Cold,The Warrior and Flagon,53.24,Sphinxes' Opalpearl Platinum Of Legend,332.00,5805.82,390.81,1927532.24,129748.92,1090359.01,3147640.17
+21055,"Maglioneth, Lord of the Sun",The Bastion of the Lich Tyrant,52.03,Planar Obsidian Mercury Of Wizards,327.00,2831.40,155.73,925867.80,50923.71,507931.59,1484723.10
+22106,Song Runetomb,The Secret Shrine of the Gargoyle Count,-2.00,Otherworldly Truesoul Orichalcum Of The East,183.00,1061.78,392.65,194305.74,71854.95,-5323.21,260837.48
+22157,Emberfire,The Fortress of Akkun the Grim,-2.42,Meteoric Mirrormuck Orichalcum Of The Forests,229.00,2374.02,185.77,543650.58,42541.33,-11723.84,574468.07

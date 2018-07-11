@@ -1,0 +1,14 @@
+853,Lightning Brand,Lamp Borough,4.95,Hidden Shadowice Lead,100.00,2729.00,-46.75,272900.00,-4675.00,13411.25,281636.25
+1398,Tarot Dawn,Shainan's Hold,19.80,Greenlead,197.00,721.00,134.97,142037.00,26589.09,33725.22,202351.31
+2283,Cult Godseeker,The Forsaken Tomb of Devastation,0.00,Planar Mudtin Of Trolls,226.00,2094.92,335.36,473451.92,75791.36,0.00,549243.28
+6108,Seraphim Tsunami,The Cracked Chalice,2.29,Glowpearl Adamant Of Spirits,251.00,361.90,374.00,90836.90,93874.00,3694.22,188405.12
+7920,Zeal Bladewitch,The Dungeon of Dismal Terror,-3.50,Meteoric Mirrormuck Orichalcum Of The Forests,253.00,2158.20,185.77,546024.60,46999.81,-23720.98,569303.43
+12135,Nailpiston The Grasping,The Wizard's House,43.58,Toxic Mistlead Of The Past,104.00,1557.54,136.06,161984.16,14150.24,77499.14,253633.54
+12929,Magus Felldrake,Archtemple District,27.76,Nymphs' Luminous Rotmercury Of The Skies,68.00,292.60,189.00,19896.80,12852.00,9169.66,41918.46
+13647,Chillfire The Chiller,The Broken Shield,37.23,Toxic Mistlead Of The Past,101.00,1557.54,136.06,157311.54,13742.06,63289.83,234343.43
+14896,Boltcrank The Trapper,The Shadow Downs,13.21,Primordial Mud Orichalcum,82.00,-387.90,85.11,-31807.80,6979.02,-3227.74,-28056.52
+16036,Tiger Mistmidnight,The Citadel of Cheno,7.33,Incubi's Mirrorfog Iron Of The Ocean,367.00,5806.50,-26.08,2130985.50,-9571.36,148498.99,2269913.13
+16293,Springsprocket,The Bastion of Gothmog of Udun,54.84,Toxin Iceplatinum Of The Undead,253.00,-377.06,-59.29,-95396.18,-15000.37,-60718.10,-171114.65
+17970,Deathspike The Terrifying,Grori's Deep,66.50,Trolls' Mist Poisonplatinum Of The Twilight,170.00,567.79,434.39,96524.30,73846.30,112444.60,282815.20
+23070,Chainhorror,The Beggar and Cask,25.41,Planar Rainfate Mithril,104.00,1304.42,320.52,135659.68,33334.08,42248.44,211242.20
+23219,Nailpiston The Grasping,Hafeld Keep,46.71,Planar Rainfate Mithril,192.00,1304.42,320.52,250448.64,61539.84,146634.59,458623.07

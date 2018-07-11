@@ -1,0 +1,17 @@
+1420,Chainnail,The Beggar and Cask,21.00,Phantasmal Tin Of The Swamps,308.00,4074.00,-6.60,1254792.00,-2032.80,263079.43,1515838.63
+3921,Lightning Brand,Barad Cune,26.00,Spirits' Living Wordhammer Tin Of The Trees,21.00,4343.00,26.40,91203.00,554.40,23856.92,115614.32
+4715,"Eumyan, Goddess of Law",The Scoundrel and Flask,-4.58,Otherworldly Mirror Orichalcum,153.00,-247.00,478.50,-37791.00,73210.50,-1770.98,33648.52
+8946,"Avriel, God of Death",The Bastion of the Vampire Duke,19.28,Phantasmal Smokezephyr Mercury Of Men,160.00,-383.77,75.90,-61403.20,12144.00,-9359.25,-58618.45
+11313,"Finarfin, God of Protection",The Forsaken Sepulcher of Sorrows,48.79,Heavenly Dreamsilver Of The Night,183.00,2009.68,112.00,367771.44,20496.00,190251.05,578518.49
+11658,"Ahah, Goddess of Knowledge",Unicorn's Ward,14.64,Litches' Fatal Mithril Of The Past,73.00,1327.98,369.05,96942.54,26940.65,18582.48,142465.67
+12275,"Zepul, Lady of Vengeance",The Tomb of Gothmog of Udun,-3.30,Incubi's Iron Of The Dawn,128.00,1200.96,424.31,153722.88,54311.68,-6241.04,201793.52
+12404,Deathspike The Terrifying,Archscepter Borough,3.00,Transcendent Gold,192.00,-193.60,282.17,-37171.20,54176.64,510.16,17515.60
+15388,Spikebrood The Disinterred,The Glano Forest,3.00,Shadowy Adamant,282.00,618.93,526.44,174538.26,148456.08,9689.83,332684.17
+15429,"Alas, Lord of Plague",Noble's Village,30.25,God-touched Faterainbow Orichalcum Of Spectres,72.00,370.41,32.01,26669.52,2304.72,8692.27,37666.51
+15902,"Gadriel, God of Resurrection",Lamp Borough,4.95,Plague Tin,77.00,4767.02,342.10,367060.54,26341.70,19670.11,413072.35
+17088,Rose Anchor,The Tower of Aces the Accursed,13.31,Shadowy Adamant,239.00,618.93,526.44,147924.27,125819.16,35586.65,309330.08
+17354,Song Runetomb,Shainan's Hold,23.96,Glowpearl Adamant Of Spirits,154.00,398.09,374.00,61305.86,57596.00,28536.45,147438.31
+17695,Nettool The Grasping,Shainan's Hold,23.96,Glowpearl Adamant Of Spirits,176.00,398.09,374.00,70063.84,65824.00,32613.08,168500.92
+18943,Shadow Gust,The Bastion of Barbos,28.34,Starlight Pearldream Bronze,97.00,322.10,147.40,31243.70,14297.80,12751.62,58293.12
+21216,"Ariel, God of Luck",The Bastion of Sthasu the Gruesome,14.93,Planar Rainfate Mithril,309.00,1304.42,320.52,403065.78,99040.68,75315.97,577422.43
+21861,Scarefear The Blade,Tradun Castle,41.43,Toxic Mistlead Of The Past,329.00,1557.54,181.10,512430.66,59581.90,234525.15,806537.71

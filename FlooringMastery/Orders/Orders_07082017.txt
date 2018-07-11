@@ -1,0 +1,15 @@
+2870,"Bane" Jennings,MO,2.20,Pebbles,267.00,0.80,4.40,213.60,1174.80,27.77,1416.17
+3438,Elizabeth "the Bully",AL,1.00,Reeds,150.00,0.75,2.00,112.50,300.00,4.12,416.62
+3664,Betty "Happy Thinker" Watson,ND,1.25,Dirt,232.00,0.50,1.00,116.00,232.00,3.48,351.48
+4629,Marie "Raven" Chapman,AR,2.20,Pinecones,185.00,1.50,2.42,277.50,447.70,14.50,739.70
+7295,Elizabeth "the Bully",IA,1.21,Reeds,360.00,0.75,2.20,270.00,792.00,10.62,1072.62
+7797,Elizabeth "the Bully",CA,0.55,Pinecones,312.00,1.50,2.66,468.00,829.92,12.98,1310.90
+9166,Wilma "Tornado" Brooks,MS,3.00,Brick,238.00,4.84,6.66,1151.92,1585.08,82.11,2819.11
+12351,Cathy "Loner Demon" Murray,MS,3.00,Packed Dirt,169.00,1.00,1.65,169.00,278.85,13.44,461.29
+13515,Susan "Damnation" Fleming,NV,0.31,Leather,163.00,11.00,18.15,1793.00,2958.45,0.00,4751.45
+18374,Mabel "Vixen Cursed" King,MS,3.00,Cedar Planks,227.00,2.20,6.66,499.40,1511.82,60.34,2071.56
+19084,Heather "Tornado" Newman,NM,2.93,Pinecones,239.00,1.50,2.66,358.50,635.74,29.83,1024.07
+21034,Renee "Hellish Empress" Banks,WY,0.31,Cedar Planks,194.00,2.20,6.66,426.80,1292.04,0.00,1718.84
+22177,Friendly Howell,CA,0.67,Dirt,120.00,0.55,1.00,66.00,120.00,1.86,187.86
+23229,Beth "Fortunate Shooter" Powell,KS,0.55,Reeds,228.00,0.91,2.42,207.48,551.76,7.59,766.83
+23394,Maureen "Cursed" Andrews,AR,2.20,Reeds,61.00,0.91,2.42,55.51,147.62,4.06,207.19

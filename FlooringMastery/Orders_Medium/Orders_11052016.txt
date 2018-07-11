@@ -1,0 +1,18 @@
+4867,Dorothy "the Hunter",TX,0.50,Pinecones,248.00,1.50,2.42,372.00,600.16,0.00,972.16
+5206,Theresa "Kid" Robinson,CA,0.55,Pinecones,159.00,1.50,2.42,238.50,384.78,6.23,629.51
+5938,Victoria "the Dancer",AL,1.00,Dirt,66.00,0.50,1.00,33.00,66.00,0.99,99.99
+6199,Minnie Lawson "the Apostle",TX,0.50,Brick,118.00,4.84,6.66,571.12,785.88,0.00,1357.00
+6644,Minnie Lawson "the Apostle",MO,2.20,Pebbles,123.00,0.80,4.84,98.40,595.32,13.87,707.59
+6837,Julia "Bandit" Chandler,NM,2.20,Brick,292.00,4.84,6.66,1413.28,1944.72,67.16,3425.16
+7400,"Doom" McCoy,NV,0.28,Leather,320.00,10.00,18.15,3200.00,5808.00,0.00,9008.00
+7705,Renee "Loco Tracker" Jordan,NM,2.20,Dirt,159.00,0.50,1.00,79.50,159.00,4.77,243.27
+9297,Ida Russell "the Rustler",AL,1.00,Reeds,244.00,0.75,2.20,183.00,536.80,7.20,727.00
+10830,Cynthia "the Vixen",ND,1.25,Dirt,190.00,0.50,1.00,95.00,190.00,2.85,287.85
+11495,Renee "Hellish Empress" Banks,MS,3.00,Cedar Planks,317.00,2.20,6.05,697.40,1917.85,78.46,2693.71
+11797,Susan "Damnation" Fleming,IA,1.21,Brick,364.00,4.84,6.66,1761.76,2424.24,41.86,4227.86
+14059,Mattie Grant "the Gambler",TX,0.67,Reeds,272.00,0.75,2.20,204.00,598.40,8.02,810.42
+14434,Theresa "Scalphunter" Romero,MT,3.99,Dirt,313.00,0.50,1.00,156.50,313.00,18.78,488.28
+16838,Stella "the Bully",MS,3.00,Pebbles,84.00,0.88,4.84,73.92,406.56,14.41,494.89
+17982,Vanessa "Scalper" Rhodes,NV,0.31,Pebbles,237.00,0.88,4.84,208.56,1147.08,0.00,1355.64
+18261,Deborah "the Lady",MO,2.20,Beechwood,88.00,3.63,5.50,319.44,484.00,16.07,819.51
+18907,"Bane" Jennings,KS,0.55,Beechwood,147.00,3.63,5.50,533.61,808.50,13.42,1355.53

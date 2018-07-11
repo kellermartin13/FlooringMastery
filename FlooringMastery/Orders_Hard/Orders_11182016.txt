@@ -1,0 +1,22 @@
+313,Scarefear The Blade,The Glano Forest,3.00,Magicians' Legendary Poison Metal,207.00,2043.26,208.92,422954.82,43246.44,13986.04,480187.30
+817,Scarechain The Unspeakable,The Barrow of Malefic Ages,17.91,Primordial False Gold,178.00,4459.34,226.00,793762.52,40228.00,150118.29,984108.81
+2355,Nailpiston The Grasping,The Bastion of the Lich Tyrant,43.00,Greenlead,272.00,721.00,134.97,196112.00,36711.84,100114.25,332938.09
+3758,"Maglioneth, Lord of the Sun",Grori's Deep,45.41,Hidden Shadowice Lead,275.00,2729.00,-56.57,750475.00,-15556.75,330713.21,1065631.46
+4785,"Alas, Lord of Plague",North Grove Ward,6.60,Zephyr Adamant,23.00,4224.00,102.93,97152.00,2367.39,6966.36,106485.75
+6552,Rune Rougehate,Noble's Village,27.50,Emerald Orichalcum,260.00,-368.87,128.90,-95906.20,33514.00,-17469.82,-79862.02
+7404,Chillfire The Chiller,The Forsaken Delve of Lord Greywulf,39.00,Golems' Stonesapphire Gold Of The Glacier,76.00,3672.77,105.97,279130.52,8053.72,112001.85,399186.09
+9600,Fate Seeker,The Pirate's Pipe,17.60,Spirits' Living Wordhammer Tin Of The Trees,168.00,4777.30,26.40,802586.40,4435.20,145263.89,952285.49
+10347,Cinderflame,The Bloody Wand,12.00,Djinni's Spectral Shadowlead Of Life,288.00,3705.90,325.62,1067299.20,93778.56,139329.33,1300407.09
+14204,Jericho Wolf,Dysley Stronghold,45.98,Zephyr Iron,217.00,3034.90,444.69,658573.30,96497.73,347332.67,1102403.70
+14897,Seraphim Tsunami,Shainan's Hold,23.96,Grayplatinum,307.00,2506.27,306.97,769424.89,94239.79,207279.52,1070944.20
+15241,"Sielach, God of Fate",The Greedy Wench,32.70,Muck Orichalcum Of Ogres,272.00,3769.54,401.45,1025314.88,109194.40,374388.06,1508897.34
+16164,"Eumyan, Goddess of Law",The Citadel of Cheno,7.33,Sirens' Rockgold,322.00,-352.01,199.96,-113347.22,64387.12,-3427.21,-52387.31
+16253,Lance Knightseraph,Pewold Keep,22.57,Incubi's Mirrorfog Iron Of The Ocean,185.00,5806.50,-26.08,1074202.50,-4824.80,245956.87,1315334.57
+17986,Burnbrood The Freezer,North Arcanist's Farthing,55.18,Goddesses' Spectral Poison Steel,147.00,4566.53,296.81,671279.91,43631.07,393201.04,1108112.02
+19561,Nailpiston The Grasping,The Dungeon of Merciless Woe,42.48,God-touched Faterainbow Orichalcum Of Spectres,268.00,370.41,32.01,99269.88,8578.68,45296.40,153144.96
+20166,Cult Godseeker,Unicorn's Ward,14.64,Angels' Smoke Adamant Of The Mountains,139.00,3427.13,260.15,476371.07,36160.85,76879.79,589411.71
+20453,Rouge Tombreaper,Barad Cune,28.60,Phantasmal Tin Of The Swamps,101.00,5964.74,-7.99,602438.74,-806.99,174473.21,776104.96
+20551,Dawn Darkzealot,The Dark Caverns of Woe,3.29,Sphinxes' Opalpearl Platinum Of Legend,111.00,5805.82,390.81,644446.02,43379.91,20634.78,708460.71
+21546,Nailpiston The Grasping,The Lazy Sage,19.97,Angels' Smoke Adamant Of The Mountains,81.00,3427.13,260.15,277597.53,21072.15,59733.94,358403.62
+22101,"Avriel, God of Death",The Secret Shrine of the Gargoyle Count,-2.00,Starlight Pearldream Bronze,216.00,354.31,147.40,76530.96,31838.40,-2167.39,106201.97
+22357,Lord Mystery,Tradun Castle,45.57,Yellow Mistearth Copper,166.00,5536.45,-33.15,919050.70,-5502.90,420231.99,1333779.79

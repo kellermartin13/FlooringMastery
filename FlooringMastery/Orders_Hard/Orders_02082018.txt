@@ -1,0 +1,19 @@
+1145,Spikesnare,Boiaburh Keep,16.00,Foulopal Copper Of The Skies,252.00,1221.16,403.00,307732.32,101556.00,65486.13,474774.45
+1530,Cult Godseeker,The Tomb of Hellish Ruin,14.00,Phantasmal Plague Adamant,200.00,-186.03,-6.53,-37206.00,-1306.00,-5391.68,-43903.68
+1605,Flora Amberslayer,Tradun Castle,31.13,Shadowhell Mithril,262.00,363.00,236.70,95106.00,62015.40,48707.63,205829.03
+2155,"Gono, Goddess of the Earth",The Tomb of Hellish Ruin,14.00,Spirits' Living Wordhammer Tin Of The Trees,180.00,4343.00,26.40,781740.00,4752.00,110108.88,896600.88
+2628,"Eumyan, Goddess of Law",Boiaburh Keep,16.00,Unholy Poison Copper Of The Mountains,122.00,528.10,-9.24,64428.20,-1127.28,10128.15,73429.07
+4138,Snaretool The Constructed,The Archer and Scroll,39.60,Grayplatinum,174.00,2278.43,279.06,396446.82,48556.44,178001.30,623004.56
+7480,"Alas, Lord of Plague",The Forsaken Delve of Lord Greywulf,39.00,Toxic Mistlead Of The Past,307.00,1557.54,136.06,478164.78,41770.42,202774.73,722709.93
+9687,Burnfreeze The Cold,The Tomb of Gothmog of Udun,-3.00,Emerald Orichalcum,234.00,-368.87,128.90,-86315.58,30162.60,1684.59,-54468.39
+12047,Clash Lonedrake,Reheath Stronghold,8.00,Shadowy Adamant,210.00,618.93,526.44,129975.30,110552.40,19242.22,259769.92
+13144,Shadow Tomblion,The Wizard's House,43.58,Primordial Plague Mercury Of Legend,86.00,452.29,301.29,38896.94,25910.94,28515.47,93323.35
+13318,Evilember The Firey,The Citadel of Alammius,3.50,Meteoric Dustzephyr Orichalcum,245.00,375.00,268.49,91875.00,65780.05,6306.20,163961.25
+13912,"Lionare, God of the Lost",Lacot Stronghold,37.37,Ghostly Soul Adamant,196.00,3222.96,229.53,631700.16,44987.88,250374.57,927062.61
+14484,Grave Mistseeker,Archfane District,32.87,Witchs' Forbidden Rockrainbow Bronze,99.00,655.60,425.92,64904.40,42166.08,35333.26,142403.74
+16102,Lord Mystery,The Vaults of the Shadow Emperor,33.00,Incubi's Mirrorfog Iron Of The Ocean,341.00,5806.50,-26.08,1980016.50,-8893.28,650470.66,2621593.88
+17067,Bronzespike,Lacot Stronghold,45.22,Djinni's Evil Sandobsidian Steel Of The Future,318.00,4208.60,172.78,1338334.80,54944.04,626975.48,2020254.32
+20038,"Maglioneth, Lord of the Sun",The Bastion of Gothmog of Udun,54.84,Primordial False Gold,339.00,5395.80,248.60,1829176.20,84275.40,1052398.38,2965849.98
+20315,Snowflame The Evil,The Broken Shield,40.95,Toxin Iceplatinum Of The Undead,237.00,-377.06,-59.29,-89363.22,-14051.73,-42400.13,-145815.08
+20401,Chainhorror,The Secret Catacombs of Ulfang the Black,42.90,Greenlead,239.00,959.65,179.65,229356.35,42936.35,117085.86,389378.56
+21377,Lance Knightseraph,The Lazy Sage,19.97,Planar Rainfate Mithril,193.00,1304.42,320.52,251753.06,61860.36,62722.68,376336.10

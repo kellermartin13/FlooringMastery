@@ -1,0 +1,31 @@
+127,Darlene "Loner" Ford,MS,3.00,Leather,147.00,10.00,15.00,1470.00,2205.00,110.25,3785.25
+3800,Elizabeth "the Bully",TX,0.50,Leather,172.00,10.00,16.50,1720.00,2838.00,0.00,4558.00
+4914,Marie "Raven" Chapman,IA,1.10,Solid Oak,253.00,5.50,5.50,1391.50,1391.50,27.83,2810.83
+5278,Cathy "Loner Demon" Murray,WY,0.31,Dirt,245.00,0.50,1.00,122.50,245.00,0.00,367.50
+6394,Geraldine "Revenge" Warren,UT,0.00,Cedar Planks,192.00,2.20,5.50,422.40,1056.00,0.00,1478.40
+6497,Vanessa "Scalper" Rhodes,AR,2.20,Cedar Planks,300.00,2.20,6.05,660.00,1815.00,49.50,2524.50
+6928,Beth "Fortunate Shooter" Powell,IA,1.21,Cedar Planks,287.00,2.20,6.05,631.40,1736.35,23.68,2391.43
+7000,Amanda Hart "the Loner",ID,0.00,Pinecones,144.00,1.50,2.66,216.00,383.04,0.00,599.04
+7303,Maureen "Cursed" Andrews,TX,0.50,Dirt,344.00,0.50,1.00,172.00,344.00,0.00,516.00
+8415,"Sunrise" Miles,MT,3.30,Pinecones,370.00,1.50,2.66,555.00,984.20,46.18,1585.38
+8807,Cathy "Wildfire" Neal,CA,0.55,Beechwood,300.00,3.00,5.50,900.00,1650.00,25.50,2575.50
+8942,Florence "Leather Doc" Grant,AR,2.20,Cedar Planks,210.00,2.20,6.05,462.00,1270.50,34.65,1767.15
+9178,Allison "Steel Gravedigger" Douglas,AL,1.00,Cedar Planks,316.00,2.20,6.05,695.20,1911.80,26.07,2633.07
+9370,Jacqueline "Riding Doc" Washington,MS,3.00,Pebbles,211.00,0.88,4.84,185.68,1021.24,36.21,1243.13
+15695,Darlene "Loner" Ford,NM,2.66,Leather,182.00,11.00,18.15,2002.00,3303.30,159.16,5464.46
+15732,Dorothy "the Hunter",IA,1.21,Dirt,81.00,0.50,1.00,40.50,81.00,1.22,122.72
+16172,Heather "Friendly Gambler" Barrett,IA,1.21,Dirt,271.00,0.50,1.00,135.50,271.00,4.06,410.56
+16649,Beth "Fortunate Shooter" Powell,ID,0.00,Beechwood,173.00,3.63,5.50,627.99,951.50,0.00,1579.49
+16910,Kathy Murphy "the Thinker",AL,1.00,Pebbles,92.00,0.88,4.84,80.96,445.28,5.26,531.50
+17706,Gladys "Locoweed" Keller,AL,1.00,Beechwood,125.00,3.63,5.50,453.75,687.50,11.41,1152.66
+18014,Amanda Hart "the Loner",WY,0.31,Pebbles,234.00,0.88,4.84,205.92,1132.56,0.00,1338.48
+18142,Vengeful Robertson,MO,2.20,Packed Dirt,256.00,1.10,2.20,281.60,563.20,16.90,861.70
+18874,Vanessa "Scalper" Rhodes,TX,0.67,Solid Oak,245.00,5.50,6.66,1347.50,1631.70,29.79,3008.99
+19542,Tina "Lady" Anderson,UT,0.00,Leather,338.00,11.00,19.97,3718.00,6749.86,0.00,10467.86
+19692,Lorraine "Utah" Adams,NV,0.31,Dirt,200.00,0.50,1.00,100.00,200.00,0.00,300.00
+20383,Helen Webb "the Dancer",MO,2.20,Brick,291.00,5.32,6.66,1548.12,1938.06,69.72,3555.90
+20445,"Bane" Jennings,MS,3.00,Packed Dirt,336.00,1.10,2.42,369.60,813.12,35.48,1218.20
+20773,Diana "Mistress" Morgan,NM,2.93,Reeds,250.00,0.83,2.20,207.50,550.00,22.72,780.22
+20825,Elizabeth "the Bully",MS,3.00,Packed Dirt,192.00,1.10,2.42,211.20,464.64,20.28,696.12
+21878,Darlene "Loner" Ford,MT,5.84,Leather,131.00,11.00,19.97,1441.00,2616.07,243.42,4300.49
+22852,Amanda Hart "the Loner",OK,2.93,Packed Dirt,247.00,1.10,2.42,271.70,597.74,26.08,895.52

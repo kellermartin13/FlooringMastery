@@ -1,0 +1,16 @@
+2090,Maureen "Cursed" Andrews,NM,2.20,Leather,209.00,10.00,16.50,2090.00,3448.50,110.77,5649.27
+2876,Michele Watson "the Loner",NV,0.25,Solid Oak,227.00,5.50,5.00,1248.50,1135.00,0.00,2383.50
+4500,Joanne "Damned" Miles,TX,0.50,Reeds,171.00,0.75,2.20,128.25,376.20,0.00,504.45
+6382,Helen Webb "the Dancer",ND,1.25,Cedar Planks,309.00,2.20,5.50,679.80,1699.50,23.79,2403.09
+6772,Renee "Loco Tracker" Jordan,KS,0.50,Solid Oak,235.00,5.50,5.50,1292.50,1292.50,0.00,2585.00
+9429,Theresa "Scalphunter" Romero,CA,0.55,Cedar Planks,204.00,2.20,6.05,448.80,1234.20,16.83,1699.83
+11116,Cathy "Wildfire" Neal,NM,2.20,Pinecones,171.00,1.50,2.66,256.50,454.86,14.23,725.59
+14161,Geraldine "Revenge" Warren,MT,3.99,Packed Dirt,246.00,1.10,2.00,270.60,492.00,30.50,793.10
+15192,Lena Chapman "the Bully",UT,0.00,Leather,344.00,11.00,18.15,3784.00,6243.60,0.00,10027.60
+16506,Gloria "Devil" McCoy,NV,0.31,Solid Oak,203.00,5.50,6.05,1116.50,1228.15,0.00,2344.65
+17513,Diana "Mistress" Morgan,AL,1.00,Dirt,81.00,0.50,1.00,40.50,81.00,1.22,122.72
+17664,"Scalphunter" Kennedy,UT,0.00,Dirt,271.00,0.50,1.00,135.50,271.00,0.00,406.50
+18396,Susan "Damnation" Fleming,NV,0.31,Dirt,139.00,0.50,1.00,69.50,139.00,0.00,208.50
+19185,Elizabeth "the Bully",MO,2.20,Reeds,44.00,0.83,2.20,36.52,96.80,2.67,135.99
+21086,Vanessa "Scalper" Rhodes,UT,0.00,Pinecones,254.00,1.50,2.66,381.00,675.64,0.00,1056.64
+22545,Helen Webb "the Dancer",TX,0.67,Pebbles,270.00,0.88,5.32,237.60,1436.40,16.74,1690.74

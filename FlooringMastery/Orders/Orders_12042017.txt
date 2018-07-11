@@ -1,0 +1,19 @@
+2487,Cathy "Loner Demon" Murray,AL,1.00,Solid Oak,218.00,5.50,5.00,1199.00,1090.00,22.89,2311.89
+4415,Tammy Carlson "the Killer",MT,3.00,Cedar Planks,173.00,2.00,5.50,346.00,951.50,38.92,1336.42
+4656,Betty "Happy Thinker" Watson,KS,0.50,Solid Oak,151.00,5.50,5.50,830.50,830.50,0.00,1661.00
+5752,Betty "Happy Thinker" Watson,NV,0.25,Pebbles,104.00,0.80,4.40,83.20,457.60,0.00,540.80
+7492,Beth "Fortunate Shooter" Powell,TX,0.50,Beechwood,273.00,3.00,5.00,819.00,1365.00,0.00,2184.00
+8943,Vicki "Mesa" Rhodes,TX,0.50,Pinecones,116.00,1.50,2.66,174.00,308.56,0.00,482.56
+8947,Deborah "the Lady",CA,0.55,Dirt,226.00,0.50,1.00,113.00,226.00,3.39,342.39
+10025,Vanessa "Scalper" Rhodes,NM,2.20,Cedar Planks,190.00,2.20,6.05,418.00,1149.50,31.35,1598.85
+12580,Kathy Murphy "the Thinker",UT,0.00,Brick,247.00,4.84,6.66,1195.48,1645.02,0.00,2840.50
+13893,Lena Chapman "the Bully",MT,3.99,Brick,257.00,5.32,6.66,1367.24,1711.62,123.15,3202.01
+15194,Friendly Howell,KS,0.55,Solid Oak,207.00,5.50,5.50,1138.50,1138.50,22.77,2299.77
+15818,Jo "the Joker",AL,1.00,Brick,194.00,5.32,6.66,1032.08,1292.04,23.24,2347.36
+15952,Beth "Fortunate Shooter" Powell,MS,3.00,Reeds,81.00,0.83,2.20,67.23,178.20,7.36,252.79
+16004,April "Thunderbird" Dunn,AL,1.00,Cedar Planks,202.00,2.20,6.05,444.40,1222.10,16.66,1683.16
+17025,Jacqueline "Riding Doc" Washington,UT,0.00,Pebbles,110.00,0.88,4.84,96.80,532.40,0.00,629.20
+17855,Stella "the Bully",OK,2.42,Leather,293.00,11.00,19.97,3223.00,5851.21,181.48,9255.69
+21435,Friendly Howell,NV,0.31,Pebbles,218.00,0.88,4.84,191.84,1055.12,0.00,1246.96
+21536,Jo "the Joker",MO,2.20,Solid Oak,120.00,5.50,6.66,660.00,799.20,29.18,1488.38
+23084,Heather "Tornado" Newman,MT,5.84,Cedar Planks,146.00,2.20,6.66,321.20,972.36,77.61,1371.17

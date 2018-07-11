@@ -1,0 +1,20 @@
+750,"Scalphunter" Kennedy,CA,0.50,Brick,255.00,4.00,5.00,1020.00,1275.00,0.00,2295.00
+1535,Betty "Happy Thinker" Watson,AR,2.20,Packed Dirt,203.00,1.00,1.50,203.00,304.50,10.15,517.65
+1635,Ida Russell "the Rustler",AL,1.00,Brick,131.00,4.00,5.00,524.00,655.00,11.79,1190.79
+1764,Theresa "Kid" Robinson,CA,0.50,Packed Dirt,258.00,1.00,1.50,258.00,387.00,0.00,645.00
+4101,Florence "Leather Doc" Grant,MO,2.20,Brick,110.00,4.40,5.50,484.00,605.00,21.78,1110.78
+7441,Amanda Hart "the Loner",IA,1.21,Reeds,333.00,0.75,2.20,249.75,732.60,9.82,992.17
+9032,Elizabeth "the Bully",OK,2.20,Pebbles,215.00,0.88,4.84,189.20,1040.60,24.60,1254.40
+9579,Betty "Happy Thinker" Watson,NM,2.20,Cedar Planks,324.00,2.20,6.05,712.80,1960.20,53.46,2726.46
+11374,Lorraine "Utah" Adams,AL,1.00,Dirt,150.00,0.50,1.00,75.00,150.00,2.25,227.25
+12201,Victoria "the Dancer",ND,1.38,Pebbles,345.00,0.88,4.84,303.60,1669.80,19.73,1993.13
+12957,Jo "the Joker",NM,2.42,Pinecones,124.00,1.50,2.66,186.00,329.84,10.32,526.16
+13268,Cynthia "the Vixen",AR,2.20,Leather,178.00,11.00,18.15,1958.00,3230.70,103.77,5292.47
+13855,Wilma "Tornado" Brooks,CA,0.61,Pebbles,250.00,0.88,4.84,220.00,1210.00,14.30,1444.30
+15097,Dorothy "the Hunter",AL,1.00,Leather,163.00,11.00,18.15,1793.00,2958.45,47.51,4798.96
+15298,Diana "Mistress" Morgan,CA,0.61,Beechwood,366.00,3.63,5.50,1328.58,2013.00,33.42,3375.00
+17653,Mattie Grant "the Gambler",IA,1.21,Pinecones,271.00,1.50,2.66,406.50,720.86,11.27,1138.63
+18076,Betty "Happy Thinker" Watson,ID,0.00,Brick,88.00,5.32,6.66,468.16,586.08,0.00,1054.24
+19287,April "Thunderbird" Dunn,MT,3.99,Leather,258.00,11.00,19.97,2838.00,5152.26,319.61,8309.87
+21535,Geraldine "Revenge" Warren,TX,0.67,Cedar Planks,275.00,2.20,6.66,605.00,1831.50,24.36,2460.86
+21949,Allison "Steel Gravedigger" Douglas,IA,1.33,Leather,158.00,11.00,19.97,1738.00,3155.26,48.93,4942.19

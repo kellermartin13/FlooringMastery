@@ -1,0 +1,20 @@
+84,Black Beck,WY,0.25,Leather,112.00,10.00,15.00,1120.00,1680.00,0.00,2800.00
+170,Evelyn "Evil Joker" Taylor,KS,0.50,Leather,114.00,10.00,15.00,1140.00,1710.00,0.00,2850.00
+1221,Renee "Loco Tracker" Jordan,OK,2.00,Packed Dirt,64.00,1.00,1.50,64.00,96.00,3.20,163.20
+1292,Tammy Carlson "the Killer",KS,0.50,Leather,196.00,10.00,15.00,1960.00,2940.00,0.00,4900.00
+2629,Cynthia "the Vixen",UT,0.00,Leather,118.00,10.00,16.50,1180.00,1947.00,0.00,3127.00
+4674,Maureen "Cursed" Andrews,IA,1.10,Pinecones,165.00,1.50,2.42,247.50,399.30,6.47,653.27
+9487,Maureen "Cursed" Andrews,NM,2.20,Pinecones,30.00,1.50,2.66,45.00,79.80,2.50,127.30
+11008,Vanessa "Scalper" Rhodes,MO,2.20,Leather,180.00,10.00,18.15,1800.00,3267.00,101.34,5168.34
+12915,Helen Webb "the Dancer",NM,2.42,Beechwood,89.00,3.30,5.50,293.70,489.50,15.66,798.86
+13785,Vanessa "Scalper" Rhodes,MO,2.20,Beechwood,116.00,3.63,5.50,421.08,638.00,21.18,1080.26
+14793,April "Thunderbird" Dunn,AR,2.20,Leather,202.00,11.00,18.15,2222.00,3666.30,117.77,6006.07
+16808,Renee "Loco Tracker" Jordan,MT,3.99,Pinecones,227.00,1.50,2.66,340.50,603.82,37.77,982.09
+17211,Theresa "Scalphunter" Romero,MO,2.20,Solid Oak,218.00,5.50,6.05,1199.00,1318.90,50.36,2568.26
+17763,Wilma "Tornado" Brooks,AR,2.20,Leather,235.00,11.00,19.97,2585.00,4692.95,145.56,7423.51
+18855,"Doom" McCoy,AR,2.20,Pinecones,128.00,1.50,2.66,192.00,340.48,10.65,543.13
+19475,Marie "Raven" Chapman,MO,2.20,Pebbles,148.00,0.88,4.84,130.24,716.32,16.93,863.49
+19618,Melissa "Lonesome Stalker" Riley,NV,0.31,Dirt,187.00,0.50,1.00,93.50,187.00,0.00,280.50
+20695,Cynthia "the Vixen",MS,3.00,Cedar Planks,194.00,2.20,6.66,426.80,1292.04,51.57,1770.41
+22939,Beth "Fortunate Shooter" Powell,UT,0.00,Pebbles,77.00,0.88,5.32,67.76,409.64,0.00,477.40
+23039,Wilma "Tornado" Brooks,IA,1.33,Beechwood,271.00,3.63,6.05,983.73,1639.55,26.23,2649.51

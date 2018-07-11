@@ -1,0 +1,19 @@
+1413,Diana "Mistress" Morgan,ID,0.00,Dirt,75.00,0.50,1.00,37.50,75.00,0.00,112.50
+1468,Lucky Johnson,OK,2.00,Leather,287.00,10.00,15.00,2870.00,4305.00,143.50,7318.50
+3543,Allison "Steel Gravedigger" Douglas,OK,2.00,Beechwood,245.00,3.00,5.00,735.00,1225.00,39.20,1999.20
+6131,Marie "Raven" Chapman,AL,1.00,Beechwood,154.00,3.00,5.00,462.00,770.00,12.32,1244.32
+6642,"Sunrise" Miles,ND,1.25,Beechwood,206.00,3.00,5.00,618.00,1030.00,16.48,1664.48
+7459,Cathy "Loner Demon" Murray,KS,0.50,Pinecones,267.00,1.50,2.66,400.50,710.22,0.00,1110.72
+8058,Michele Watson "the Loner",WY,0.31,Leather,160.00,10.00,18.15,1600.00,2904.00,0.00,4504.00
+8211,Victoria "the Dancer",MS,3.00,Pinecones,224.00,1.50,2.66,336.00,595.84,27.96,959.80
+8824,Tammy Carlson "the Killer",OK,2.20,Dirt,112.00,0.50,1.00,56.00,112.00,3.36,171.36
+11204,Joanne "Damned" Miles,MO,2.20,Pinecones,233.00,1.50,2.66,349.50,619.78,19.39,988.67
+12645,Dorothy "the Hunter",UT,0.00,Cedar Planks,183.00,2.20,6.05,402.60,1107.15,0.00,1509.75
+14217,Michele Watson "the Loner",WY,0.31,Beechwood,41.00,3.63,5.50,148.83,225.50,0.00,374.33
+15510,Tina "Lady" Anderson,ID,0.00,Reeds,223.00,0.83,2.20,185.09,490.60,0.00,675.69
+15631,Diana "Mistress" Morgan,WY,0.31,Packed Dirt,120.00,1.10,2.20,132.00,264.00,0.00,396.00
+17225,Helen Webb "the Dancer",AL,1.00,Cedar Planks,283.00,2.20,6.66,622.60,1884.78,25.07,2532.45
+19064,Renee "Hellish Empress" Banks,IA,1.33,Dirt,242.00,0.50,1.00,121.00,242.00,3.63,366.63
+19437,Helen Webb "the Dancer",TX,0.67,Brick,63.00,5.32,6.66,335.16,419.58,7.55,762.29
+19653,Cynthia "the Vixen",AR,2.20,Pinecones,124.00,1.50,2.66,186.00,329.84,10.32,526.16
+21876,Beth "Fortunate Shooter" Powell,ND,1.67,Pebbles,166.00,0.88,4.84,146.08,803.44,18.99,968.51

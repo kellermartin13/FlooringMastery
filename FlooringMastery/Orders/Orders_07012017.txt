@@ -1,0 +1,15 @@
+805,Joanne "Damned" Miles,AR,2.20,Packed Dirt,203.00,1.00,1.50,203.00,304.50,10.15,517.65
+1374,Wilma "Tornado" Brooks,MO,2.20,Leather,190.00,10.00,15.00,1900.00,2850.00,95.00,4845.00
+1577,Victoria "the Dancer",NV,0.25,Reeds,205.00,0.75,2.00,153.75,410.00,0.00,563.75
+2182,Diana "Mistress" Morgan,NM,2.20,Packed Dirt,216.00,1.00,1.50,216.00,324.00,10.80,550.80
+6418,Stella "the Bully",UT,0.00,Dirt,176.00,0.50,1.00,88.00,176.00,0.00,264.00
+10604,Surgeon Grant,OK,2.42,Pinecones,281.00,1.50,2.66,421.50,747.46,23.38,1192.34
+11578,Joanne "Damned" Miles,MT,3.63,Pinecones,256.00,1.50,2.66,384.00,680.96,42.60,1107.56
+13181,Vengeful Montgomery,CA,0.61,Cedar Planks,349.00,2.20,6.05,767.80,2111.45,28.79,2908.04
+14762,Mabel "Vixen Cursed" King,MO,2.20,Reeds,154.00,0.75,2.20,115.50,338.80,9.09,463.39
+15056,Vanessa "Scalper" Rhodes,IA,1.21,Solid Oak,235.00,5.50,5.50,1292.50,1292.50,25.85,2610.85
+15677,Diana "Mistress" Morgan,AL,1.00,Cedar Planks,213.00,2.20,6.05,468.60,1288.65,17.57,1774.82
+16611,April "Thunderbird" Dunn,MO,2.20,Packed Dirt,322.00,1.10,2.20,354.20,708.40,21.25,1083.85
+17622,Vengeful Robertson,KS,0.55,Beechwood,140.00,3.63,5.50,508.20,770.00,12.78,1290.98
+18284,Dorothy "the Hunter",ID,0.00,Beechwood,200.00,3.63,5.50,726.00,1100.00,0.00,1826.00
+23420,Theresa "Scalphunter" Romero,IA,1.33,Packed Dirt,56.00,1.10,2.42,61.60,135.52,1.97,199.09

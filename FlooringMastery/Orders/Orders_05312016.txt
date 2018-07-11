@@ -1,0 +1,15 @@
+662,Amanda Hart "the Loner",CA,0.50,Beechwood,165.00,3.00,5.00,495.00,825.00,0.00,1320.00
+1280,Gladys "Locoweed" Keller,AR,2.20,Cedar Planks,56.00,2.00,5.00,112.00,280.00,7.84,399.84
+1395,Dorothy "the Hunter",ID,0.00,Cedar Planks,191.00,2.00,5.00,382.00,955.00,0.00,1337.00
+2001,Geraldine "Revenge" Warren,NM,2.20,Solid Oak,180.00,5.00,5.00,900.00,900.00,36.00,1836.00
+3055,Tina "Lady" Anderson,KS,0.50,Beechwood,182.00,3.00,5.00,546.00,910.00,0.00,1456.00
+3144,Amanda Hart "the Loner",NV,0.25,Reeds,124.00,0.75,2.00,93.00,248.00,0.00,341.00
+5440,Julia "Bandit" Chandler,ND,1.25,Leather,70.00,10.00,18.15,700.00,1270.50,19.70,1990.20
+6753,Evelyn "Evil Joker" Taylor,ND,1.25,Cedar Planks,193.00,2.20,6.05,424.60,1167.65,15.92,1608.17
+9960,Cynthia "the Vixen",MS,3.00,Beechwood,351.00,3.00,5.50,1053.00,1930.50,89.50,3073.00
+15459,Heather "Friendly Gambler" Barrett,MT,3.99,Cedar Planks,138.00,2.20,6.05,303.60,834.90,45.54,1184.04
+15534,Tammy Carlson "the Killer",AR,2.20,Dirt,303.00,0.50,1.00,151.50,303.00,9.09,463.59
+17548,Florence "Leather Doc" Grant,NV,0.31,Packed Dirt,321.00,1.10,2.20,353.10,706.20,0.00,1059.30
+17712,Vicki "Mesa" Rhodes,OK,2.42,Solid Oak,157.00,5.50,6.66,863.50,1045.62,38.18,1947.30
+19673,Tammy Carlson "the Killer",CA,0.67,Cedar Planks,307.00,2.20,6.66,675.40,2044.62,27.20,2747.22
+20495,"Doom" McCoy,TX,0.67,Cedar Planks,340.00,2.20,6.66,748.00,2264.40,30.12,3042.52

@@ -1,0 +1,17 @@
+2531,Snarepiston The Mechanical,The Nulukkhath Spires,9.63,Ghostly Soul Adamant,235.00,2929.96,189.69,688540.60,44577.15,73311.78,806429.53
+2664,Wheelbolt The Machine,The Grey Plains,18.15,Negative Mercury,184.00,4054.87,361.00,746096.08,66424.00,146253.61,958773.69
+4541,Metalbrood,Kewold Stronghold,8.87,Planar Obsidian Mercury Of Wizards,105.00,2574.00,117.00,270270.00,12285.00,25429.95,307984.95
+6028,Chainblade The Cadaverous,The Broken Arrow,30.07,Muck Orichalcum Of Ogres,193.00,3115.32,301.61,601256.76,58210.73,197840.25,857307.74
+7498,Scarechain The Unspeakable,The Desert of Flames,47.19,Golems' Stonesapphire Gold Of The Glacier,117.00,3672.77,105.97,429714.09,12398.49,207792.91,649905.49
+9940,Dawn Darkzealot,The Forsaken Sepulcher of Sorrows,48.79,Magicians' Legendary Poison Metal,108.00,2247.59,229.81,242739.72,24819.48,131104.01,398663.21
+10543,Rouge Tombreaper,The Dread Hive of Illfang the Kobold Lord,1.33,Stone Soulsteel Of The Skies,245.00,1798.28,13.21,440578.60,3236.45,4438.15,448253.20
+10886,Steelterror The Blade,The Black Barrow of Bery,-0.07,Unspeakable Rotsoul Mithril Of Souls,262.00,248.00,401.53,64976.00,105200.86,0.00,170176.86
+11794,Tiger Mistmidnight,The Broken Arrow,30.07,Timeiron,140.00,1596.00,228.33,223440.00,31966.20,76621.86,332028.06
+13136,"Zepul, Lady of Vengeance",South Brightcrown Borough,42.25,Swordbronze,153.00,1485.01,447.01,227206.53,68392.53,124151.61,419750.67
+13475,Gale Jackalguard,Eved Castle,5.09,Muck Orichalcum Of Ogres,156.00,3426.85,364.95,534588.60,56932.20,29576.04,621096.84
+14349,Rune Rougehate,Gili's Delve,-6.73,Zephyr Iron,151.00,3034.90,444.69,458269.90,67148.19,-36779.27,488638.82
+14694,Maverick Wind,The Archer and Blade,9.90,Unknown Fatelightning Steel Of The Glacier,297.00,2441.05,65.68,724991.85,19506.96,74449.88,818948.69
+14933,Steelterror The Blade,Grori's Deep,60.45,Violetdream Iron,55.00,1224.69,349.36,67357.95,19214.80,51943.65,138516.40
+17890,Sephiroth Drakecaster,Archfane District,36.16,Litches' Fatal Mithril Of The Past,244.00,1460.78,405.96,356430.32,99054.24,163974.44,619459.00
+19222,Cult Godseeker,The Citadel of Tattena the Sinister,13.34,Starlight Pearldream Bronze,290.00,322.10,147.40,93409.00,42746.00,17700.15,153855.15
+20190,"Eumyan, Goddess of Law",Boiaburh Keep,17.60,Unicorns' Evil Mithril,145.00,4802.49,377.52,696361.05,54740.40,135198.26,886299.71

@@ -1,0 +1,22 @@
+1209,Minnie Lawson "the Apostle",KS,0.50,Pebbles,324.00,0.80,4.40,259.20,1425.60,0.00,1684.80
+1442,Deborah "the Lady",NV,0.25,Dirt,69.00,0.50,1.00,34.50,69.00,0.00,103.50
+3018,Diana "Mistress" Morgan,ND,1.25,Packed Dirt,181.00,1.00,1.50,181.00,271.50,4.52,457.02
+3335,Vicki "Mesa" Rhodes,NV,0.25,Solid Oak,202.00,5.50,5.00,1111.00,1010.00,0.00,2121.00
+4032,Vengeful Montgomery,MT,3.00,Packed Dirt,146.00,1.00,1.50,146.00,219.00,10.95,375.95
+4936,Helen Webb "the Dancer",NM,2.20,Solid Oak,248.00,5.50,5.50,1364.00,1364.00,54.56,2782.56
+6087,Black Beck,ND,1.25,Solid Oak,62.00,5.50,5.50,341.00,341.00,6.82,688.82
+7320,Vicki "Mesa" Rhodes,UT,0.00,Reeds,294.00,0.75,2.20,220.50,646.80,0.00,867.30
+7617,Helen Webb "the Dancer",KS,0.50,Cedar Planks,184.00,2.20,6.05,404.80,1113.20,0.00,1518.00
+8771,Gladys "Locoweed" Keller,NM,2.20,Reeds,207.00,0.75,2.20,155.25,455.40,12.21,622.86
+10002,Vanessa "Scalper" Rhodes,MO,2.20,Pinecones,198.00,1.50,2.66,297.00,526.68,16.47,840.15
+10204,Cathy "Wildfire" Neal,OK,2.20,Cedar Planks,164.00,2.20,6.05,360.80,992.20,27.06,1380.06
+10960,Susan "Damnation" Fleming,CA,0.55,Reeds,279.00,0.75,2.20,209.25,613.80,8.23,831.28
+11842,Allison "Steel Gravedigger" Douglas,TX,0.67,Reeds,230.00,0.75,2.20,172.50,506.00,6.78,685.28
+15492,Vicki "Mesa" Rhodes,OK,2.42,Pinecones,201.00,1.50,2.66,301.50,534.66,16.72,852.88
+16619,Lucky Johnson,MO,2.20,Dirt,247.00,0.50,1.00,123.50,247.00,7.41,377.91
+17328,Deborah "the Lady",ND,1.52,Reeds,187.00,0.83,2.20,155.21,411.40,11.33,577.94
+17722,Jacqueline "Riding Doc" Washington,OK,2.42,Brick,197.00,5.32,6.66,1048.04,1312.02,47.20,2407.26
+17818,Mabel "Vixen Cursed" King,MS,3.00,Reeds,131.00,0.83,2.20,108.73,288.20,11.91,408.84
+18795,Jacqueline "Riding Doc" Washington,NM,2.93,Beechwood,171.00,3.63,5.50,620.73,940.50,46.84,1608.07
+21270,Vicki "Mesa" Rhodes,MO,2.20,Leather,208.00,11.00,19.97,2288.00,4153.76,128.84,6570.60
+22602,Beth "Fortunate Shooter" Powell,KS,0.55,Dirt,266.00,0.55,1.00,146.30,266.00,4.12,416.42

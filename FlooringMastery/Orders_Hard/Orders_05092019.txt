@@ -1,0 +1,14 @@
+1423,Chillfire The Chiller,The Broken Arrow,30.07,Unknowable Mindsilver,34.00,3565.00,366.00,121210.00,12444.00,40096.20,173750.20
+1756,Bonescare,The Tomb of Hellish Ruin,14.00,Unknowable Mindsilver,221.00,3565.00,366.00,787865.00,80886.00,121625.14,990376.14
+4369,Clash Lonedrake,Boiaburh Keep,16.00,Foul Ice Bronze Of Life,265.00,-92.21,129.80,-24435.65,34397.00,1593.82,11555.17
+7034,Chainblade The Cadaverous,Dysley Stronghold,45.98,Spectres' Shadowy Terrorglow Adamant Of Life,86.00,4694.80,205.50,403752.80,17673.00,193855.87,615281.67
+7682,Clash Lonedrake,Grori's Deep,49.95,Mithril Of Legend,201.00,2274.80,63.01,457234.80,12665.01,234949.90,704849.71
+7727,Dawn Darkzealot,Grori's Deep,49.95,Toxin Iceplatinum Of The Undead,284.00,-342.78,-53.90,-97349.52,-15307.60,-56328.56,-168985.68
+9547,Wind Dire,The Tomb of Gothmog of Udun,-3.00,Goddesses' Spectral Poison Steel,99.00,3773.99,269.83,373625.01,26713.17,-12010.15,388328.03
+9908,Maverick Wind,The Dark Caverns of Woe,3.29,Ensorceled Gold Of The Dawn,66.00,5713.98,402.92,377122.68,26592.72,12111.46,415826.86
+10301,"Sielach, God of Fate",The Citadel of Lord Greywulf,33.04,Pearl Mirrorice Steel Of Changelings,292.00,271.51,38.07,79280.92,11116.44,29831.13,120228.49
+10987,"Iran, Lord of Nightmares",Unicorn's Ward,14.64,Unspeakable Rotsoul Mithril Of Souls,183.00,248.00,401.53,45384.00,73479.99,17829.60,136693.59
+11451,Metalbrood,The Citadel of Cheno,7.33,Icy Shock Silver,284.00,1482.98,407.00,421166.32,115588.00,37572.80,574327.12
+14620,Emberspawn,Archfane District,32.87,Legendary Mithril Of The Moon,22.00,2707.10,125.84,59556.20,2768.48,20567.14,82891.82
+15636,Seraphim Tsunami,The Greedy Wench,32.70,Rainbowglitter Tin,59.00,5957.39,213.40,351486.01,12590.60,120145.28,484221.89
+16231,Sunrise Godwarlock,Barad Kesa,4.75,Otherworldly Mirror Orichalcum,205.00,-298.87,526.35,-61268.35,107901.75,2331.67,48965.07

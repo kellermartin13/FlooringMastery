@@ -1,0 +1,21 @@
+656,Heather "Tornado" Newman,ND,1.25,Pinecones,62.00,1.50,2.00,93.00,124.00,2.17,219.17
+2517,April "Thunderbird" Dunn,WY,0.25,Pinecones,307.00,1.50,2.20,460.50,675.40,0.00,1135.90
+2795,Darlene "Loner" Ford,CA,0.55,Pinecones,238.00,1.50,2.20,357.00,523.60,8.81,889.41
+2937,Stella "the Bully",NV,0.25,Leather,352.00,10.00,16.50,3520.00,5808.00,0.00,9328.00
+3279,Renee "Hellish Empress" Banks,AL,1.00,Packed Dirt,207.00,1.00,1.50,207.00,310.50,5.18,522.68
+3427,Lucky Johnson,AR,2.20,Dirt,299.00,0.50,1.00,149.50,299.00,8.97,457.47
+4423,Betty "Happy Thinker" Watson,KS,0.50,Pinecones,289.00,1.50,2.42,433.50,699.38,0.00,1132.88
+4545,Debra "Scorpion" Lane,ND,1.25,Cedar Planks,224.00,2.00,5.50,448.00,1232.00,16.80,1696.80
+5010,"Bane" Jennings,CA,0.55,Leather,251.00,10.00,18.15,2510.00,4555.65,70.66,7136.31
+5751,Renee "Hellish Empress" Banks,ID,0.00,Beechwood,288.00,3.00,5.00,864.00,1440.00,0.00,2304.00
+5957,Tina "Lady" Anderson,ND,1.25,Solid Oak,251.00,5.50,5.50,1380.50,1380.50,27.61,2788.61
+7964,Jacqueline "Riding Doc" Washington,KS,0.50,Solid Oak,90.00,5.50,5.50,495.00,495.00,0.00,990.00
+8357,Gloria "Devil" McCoy,NV,0.31,Pinecones,344.00,1.50,2.66,516.00,915.04,0.00,1431.04
+12211,"Bane" Jennings,NV,0.31,Dirt,124.00,0.50,1.00,62.00,124.00,0.00,186.00
+13746,Theresa "Scalphunter" Romero,TX,0.67,Pebbles,95.00,0.88,4.84,83.60,459.80,5.43,548.83
+14561,Vengeful Robertson,NV,0.31,Solid Oak,86.00,5.50,5.50,473.00,473.00,0.00,946.00
+16084,Evelyn "Evil Joker" Taylor,IA,1.21,Pebbles,158.00,0.88,4.84,139.04,764.72,9.04,912.80
+16677,Mattie Grant "the Gambler",AR,2.20,Reeds,199.00,0.83,2.20,165.17,437.80,12.06,615.03
+19710,Jacqueline "Riding Doc" Washington,AL,1.00,Leather,198.00,11.00,19.97,2178.00,3954.06,61.32,6193.38
+21821,Geraldine "Revenge" Warren,MS,3.00,Pebbles,181.00,0.88,4.84,159.28,876.04,31.06,1066.38
+23156,Vengeful Montgomery,AR,2.20,Beechwood,121.00,3.63,6.05,439.23,732.05,23.43,1194.71

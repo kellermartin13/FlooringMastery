@@ -1,0 +1,14 @@
+1861,Dawn Darkzealot,Tower Farthing,22.41,Poison Adamant,103.00,298.00,406.38,30694.00,41857.14,15961.25,88512.39
+2269,Shiverflame The Freezer,Tower Farthing,22.41,Planar Mudtin Of Trolls,114.00,2094.92,335.36,238820.88,38231.04,60951.42,338003.34
+
+3939,"Iran, Lord of Nightmares",The Wizard's House,43.58,Glittering Orichalcum,45.00,-131.00,360.23,-5895.00,16210.35,4538.75,14854.10
+4033,"Prusu, God of Love",Ring District,35.00,Tritons' Time Stoneiron Of Legend,140.00,1760.00,168.90,246400.00,23646.00,94516.10,364562.10
+6750,Lightning Brand,The Tower of the Demon Warlord,15.75,Magic Adamant,42.00,1838.00,207.64,77196.00,8720.88,13746.70,99663.58
+8710,"Ariel, God of Luck",Unicorn's Ward,14.64,Ensorceled Gold Of The Dawn,284.00,5713.98,402.92,1622770.32,114429.28,260579.94,1997779.54
+11791,Sephiroth Drakecaster,The Barrow of Malefic Ages,17.91,Timeiron,290.00,1596.00,228.33,462840.00,66215.70,95230.03,624285.73
+13268,"Maeglodor, God of Thieves",The Lost Crypts of Sorrows,35.87,Ghostly Soul Adamant,315.00,3222.96,229.53,1015232.40,72301.95,391512.37,1479046.72
+15158,"Lionare, God of the Lost",The Forsaken Sepulcher of Sorrows,53.67,Mithril Of The Tropics,255.00,4126.10,11.98,1052155.50,3054.90,569813.62,1625024.02
+17085,Rose Anchor,The Cracked Chalice,2.52,Imperial Fate Steel,357.00,2993.93,-59.79,1068833.01,-21345.03,31424.64,1078912.62
+18374,Emberspawn,The Nulukkhath Spires,11.65,Goddesses' Spectral Poison Steel,108.00,4566.53,296.81,493185.24,32055.48,63028.89,588269.61
+19944,Bane Veil,The Bastion of Gothmog of Udun,54.84,Angels' Smoke Adamant Of The Mountains,239.00,3427.13,260.15,819084.07,62175.85,484692.96,1365952.88
+22965,Emberspawn,Bergfison's Deep,57.98,Yellow Mistearth Copper,248.00,6090.10,-33.15,1510344.80,-8221.20,871231.69,2373355.29

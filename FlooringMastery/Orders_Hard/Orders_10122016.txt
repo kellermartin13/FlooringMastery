@@ -1,0 +1,26 @@
+2692,Bane Veil,The Bastion of the Lich Tyrant,43.00,Phantasmal Smokezephyr Mercury Of Men,294.00,-317.16,69.00,-93245.04,20286.00,-31372.39,-104331.43
+3544,Boltcrank The Trapper,Gawold Castle,5.00,Litches' Fatal Mithril Of The Past,220.00,1207.25,335.50,265595.00,73810.00,16970.25,356375.25
+5211,Deathbrood,The Tower of Sheshbazzu,3.30,Primordial False Gold,43.00,4459.34,226.00,191751.62,9718.00,6044.09,207513.71
+5538,Storm Squallmourner,The Archer and Blade,9.00,Forgotten Mithril,127.00,913.00,316.00,115951.00,40132.00,14047.47,170130.47
+6396,Steelterror The Blade,Noble's Village,27.50,Zephyr Iron,213.00,2759.00,444.69,587667.00,94718.97,191068.07,873454.04
+8854,Seraph Jester,The Pirate's Pipe,17.60,Goddesses' Spectral Poison Steel,232.00,3773.99,269.83,875565.68,62600.56,168869.92,1107036.16
+10730,Springpulley The Binder,The Dread Hive of Illfang the Kobold Lord,1.33,Phantasmal Tin Of The Swamps,342.00,4074.00,-6.60,1393308.00,-2257.20,13910.51,1404961.31
+10735,Snaretool The Constructed,The Greedy Wench,32.70,Tritons' Time Stoneiron Of Legend,106.00,1760.00,204.37,186560.00,21663.22,68713.66,276936.88
+11021,Storm Squallmourner,Pawic Keep,0.56,Ghostly Soul Adamant,200.00,3222.96,229.53,644592.00,45906.00,6904.98,697402.98
+11532,Rouge Roguemist,The Broken Arrow,30.07,God-touched Greengem Platinum,231.00,1281.72,-39.60,296077.32,-9147.60,86078.92,373008.64
+13251,Deathspike The Terrifying,Castle Village,41.26,Toxic Mistlead Of The Past,60.00,1557.54,136.06,93452.40,8163.60,41662.56,143278.56
+13923,Flameflare The Evil,Khali's Delve,52.71,Plague Tin,177.00,4767.02,342.10,843762.54,60551.70,479286.55,1383600.79
+14622,Emberspawn,The Tower of Sabiesu the Awesome,5.32,Unicorns' Evil Mithril,298.00,4802.49,377.52,1431142.02,112500.96,77182.15,1620825.13
+14780,Fate Seeker,The Tower of Aramum,42.90,Phantasmal Tin Of The Swamps,93.00,4929.54,-7.26,458447.22,-675.18,196841.98,654614.02
+14961,Scarechain The Unspeakable,The Cuitamba Jungle,30.80,Legendary Mithril Of The Moon,333.00,2707.10,125.84,901464.30,41904.72,292444.40,1235813.42
+15540,Gravebone,Gifeld Castle,6.22,God-touched Faterainbow Orichalcum Of Spectres,209.00,370.41,32.01,77415.69,6690.09,5046.35,89152.13
+17128,Jericho Wolf,Khali's Delve,52.71,Stone Soulsteel Of The Skies,40.00,1798.28,14.53,71931.20,581.20,38431.57,110943.97
+17196,"Melcha, Goddess of Thieves",The Grey Plains,19.97,Angels' Smoke Adamant Of The Mountains,83.00,3427.13,260.15,284451.79,21592.45,61208.85,367253.09
+17644,Flora Amberslayer,The Cracked Chalice,2.52,Grayplatinum,116.00,2506.27,306.97,290727.32,35608.52,9790.08,336125.92
+18142,Chillfire The Chiller,Boiaburh Keep,17.60,Phantasmal Plague Adamant,300.00,-204.63,-7.18,-61389.00,-2154.00,-11437.74,-74980.74
+18975,"Zepul, Lady of Vengeance",The Barrow of Malefic Ages,19.70,Mana-touched Greenglitter Gold Of Giants,125.00,1291.38,514.25,161422.50,64281.25,45140.75,270844.50
+20676,Chainnail,The Broken Shield,40.95,Zephyr Adamant,81.00,4224.00,113.22,342144.00,9170.82,144039.08,495353.90
+21506,Cinderflame,The Cuitamba Jungle,33.88,Planar Rainfate Mithril,357.00,1304.42,320.52,465677.94,114425.64,197235.22,777338.80
+22022,Harmony Angelchild,The Beggar and Cask,25.41,Mana-touched Greenglitter Gold Of Giants,317.00,1420.52,514.25,450304.84,163017.25,153330.52,766652.61
+22081,Graveterror,Barad Kesa,5.23,Starlight Pearldream Bronze,191.00,354.31,147.40,67673.21,28153.40,4791.33,100617.94
+22980,"Ahah, Goddess of Knowledge",The Secret Shrine of the Gargoyle Count,-2.00,Timeiron,373.00,1596.00,276.28,595308.00,103052.44,-13967.21,684393.23

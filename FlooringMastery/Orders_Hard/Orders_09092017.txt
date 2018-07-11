@@ -1,0 +1,20 @@
+1996,"Melcha, Goddess of Thieves",Barad Cune,26.00,Angels' Adamant,195.00,1304.00,179.30,254280.00,34963.50,75203.31,364446.81
+2287,"Zepul, Lady of Vengeance",The Chuallanto Jungle,37.00,Violetdream Iron,172.00,1224.69,349.36,210646.68,60089.92,100172.54,370909.14
+2405,Magus Felldrake,The Grey Plains,18.15,Hell Mercury Of The East,151.00,4636.34,284.60,700087.34,42974.60,133751.15,876813.09
+3116,Cult Godseeker,Tradun Castle,31.13,Shadowhell Mithril,280.00,363.00,260.37,101640.00,72903.60,54108.52,228652.12
+3227,Clash Lonedrake,Gawold Castle,5.00,Ensorceled Sandmetal Of Spirits,224.00,2956.98,87.00,662363.52,19488.00,34092.58,715944.10
+4846,Rose Anchor,Grove Farthing,18.00,Legendary Mithril Of The Moon,102.00,2461.00,114.40,251022.00,11668.80,47284.34,309975.14
+5786,"Ariel, God of Luck",The Vaults of the Shadow Emperor,30.00,Vampires' Hammer Emeraldmetal,320.00,379.45,25.84,121424.00,8268.80,38907.84,168600.64
+6692,Harmony Angelchild,The Dread Hive of Illfang the Kobold Lord,1.33,Unholy Poison Copper Of The Mountains,282.00,580.91,-9.24,163816.62,-2605.68,1612.11,162823.05
+7842,Lance Knightseraph,The Dungeon of Dismal Terror,-3.50,Venom Timegold Of Dwarves,231.00,3036.00,269.00,701316.00,62139.00,-30538.20,732916.80
+8091,Blazefreeze The Chiller,The Dungeon of Dismal Terror,-3.50,Djinni's Mind Fogiron,226.00,2301.02,74.02,520030.52,16728.52,-21470.36,515288.68
+9887,Burnbrood The Freezer,The Dismal Marsh,6.05,Shadowy Adamant,227.00,618.93,478.58,140497.11,108637.66,14948.09,264082.86
+11338,Bedlam Spiritraven,The Tower of Aces the Accursed,13.31,Unspeakable Rotsoul Mithril Of Souls,213.00,248.00,401.53,52824.00,85525.89,17985.49,156335.38
+13361,"Suriel, Lord of Animals",Eved Castle,5.09,Muck Orichalcum Of Ogres,109.00,3426.85,364.95,373526.65,39779.55,20665.31,433971.51
+16324,Maverick Wind,Haukri's Hold,27.83,Thunderbirds' Transcendent Dreamiron,204.00,2275.25,237.70,464151.00,48490.80,143539.70,656181.50
+18295,Bronzespawn,Archfane District,36.16,Goddesses' Spectral Poison Steel,315.00,4566.53,296.81,1438456.95,93495.15,551502.76,2083454.86
+19015,Chainblade The Cadaverous,The Barrow of Malefic Ages,19.70,Venom Timegold Of Dwarves,211.00,3339.60,295.90,704655.60,62434.90,153418.10,920508.60
+21094,Blazeflare The Cremator,The Black Barrow of Bery,-0.10,Planar Obsidian Mercury Of Wizards,141.00,2831.40,155.73,399227.40,21957.93,0.00,421185.33
+21116,Chainblade The Cadaverous,The Bastion of the Lich Tyrant,52.03,Planar Obsidian Mercury Of Wizards,215.00,2831.40,155.73,608751.00,33481.95,333961.13,976194.08
+23129,Grave Mistseeker,Barad Kesa,5.23,Ensorceled Gold Of The Dawn,123.00,6913.92,443.21,850412.16,54514.83,45246.35,950173.34
+23209,Grave Mistseeker,The Bastion of Barbos,28.34,Planar Rainfate Mithril,155.00,1304.42,320.52,202185.10,49680.60,70522.40,322388.10

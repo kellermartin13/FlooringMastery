@@ -1,0 +1,14 @@
+223,Surgeon Grant,WY,0.25,Leather,52.00,10.00,15.00,520.00,780.00,0.00,1300.00
+829,Evelyn "Evil Joker" Taylor,OK,2.00,Pebbles,129.00,0.80,4.00,103.20,516.00,12.38,631.58
+1051,Kathy Murphy "the Thinker",NM,2.20,Beechwood,136.00,3.00,5.00,408.00,680.00,21.76,1109.76
+1958,Cathy "Loner Demon" Murray,NM,2.20,Dirt,202.00,0.50,1.00,101.00,202.00,6.06,309.06
+7574,Surgeon Grant,CA,0.55,Packed Dirt,195.00,1.00,1.50,195.00,292.50,4.88,492.38
+7703,April "Thunderbird" Dunn,ND,1.25,Dirt,174.00,0.50,1.00,87.00,174.00,2.61,263.61
+11477,Evelyn "Evil Joker" Taylor,UT,0.00,Beechwood,248.00,3.00,5.50,744.00,1364.00,0.00,2108.00
+14446,Geraldine "Revenge" Warren,MT,3.99,Solid Oak,225.00,5.50,5.50,1237.50,1237.50,99.00,2574.00
+14759,Cathy "Loner Demon" Murray,TX,0.67,Beechwood,213.00,3.63,5.50,773.19,1171.50,19.45,1964.14
+15342,Darlene "Loner" Ford,NV,0.31,Cedar Planks,220.00,2.20,6.05,484.00,1331.00,0.00,1815.00
+15459,Cathy "Wildfire" Neal,UT,0.00,Reeds,47.00,0.83,2.20,39.01,103.40,0.00,142.41
+19011,Renee "Hellish Empress" Banks,CA,0.67,Brick,193.00,5.32,6.66,1026.76,1285.38,23.12,2335.26
+20519,Deborah "the Lady",OK,2.66,Beechwood,72.00,3.63,6.05,261.36,435.60,20.91,717.87
+21082,Marie "Raven" Chapman,TX,0.67,Packed Dirt,182.00,1.10,2.42,200.20,440.44,6.41,647.05

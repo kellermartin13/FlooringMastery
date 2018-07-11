@@ -1,0 +1,21 @@
+2269,Wilma "Tornado" Brooks,KS,0.50,Pinecones,244.00,1.50,2.00,366.00,488.00,0.00,854.00
+3278,Geraldine "Revenge" Warren,MS,3.00,Cedar Planks,306.00,2.00,5.50,612.00,1683.00,68.85,2363.85
+4276,Cynthia "the Vixen",MT,3.00,Beechwood,147.00,3.00,5.00,441.00,735.00,35.28,1211.28
+4414,Lorraine "Utah" Adams,KS,0.50,Reeds,95.00,0.75,2.20,71.25,209.00,0.00,280.25
+4570,Tammy Carlson "the Killer",AR,2.20,Cedar Planks,325.00,2.00,5.50,650.00,1787.50,48.75,2486.25
+4780,Julia "Bandit" Chandler,CA,0.55,Reeds,51.00,0.75,2.20,38.25,112.20,1.50,151.95
+4938,Deborah "the Lady",MT,3.00,Beechwood,252.00,3.00,5.00,756.00,1260.00,60.48,2076.48
+5050,Heather "Tornado" Newman,MO,2.20,Leather,273.00,10.00,18.15,2730.00,4954.95,153.70,7838.65
+6095,Jo "the Joker",IA,1.21,Cedar Planks,221.00,2.20,5.50,486.20,1215.50,17.02,1718.72
+9528,Victoria "the Dancer",MS,3.00,Packed Dirt,262.00,1.00,1.50,262.00,393.00,19.65,674.65
+10459,Jacqueline "Riding Doc" Washington,NM,2.20,Brick,199.00,4.84,6.66,963.16,1325.34,45.77,2334.27
+12034,Black Beck,NM,2.42,Reeds,232.00,0.75,2.20,174.00,510.40,13.69,698.09
+12317,Maureen "Cursed" Andrews,OK,2.42,Beechwood,194.00,3.30,5.50,640.20,1067.00,34.14,1741.34
+12741,Debra "Scorpion" Lane,MS,3.00,Pebbles,97.00,0.88,4.84,85.36,469.48,16.65,571.49
+12889,Helen Webb "the Dancer",CA,0.61,Solid Oak,174.00,5.50,5.50,957.00,957.00,19.14,1933.14
+14582,Melissa "Lonesome Stalker" Riley,OK,2.42,Beechwood,176.00,3.63,5.50,638.88,968.00,32.14,1639.02
+14624,Jacqueline "Riding Doc" Washington,ND,1.38,Brick,145.00,5.32,6.66,771.40,965.70,17.37,1754.47
+16462,Lena Chapman "the Bully",OK,2.42,Beechwood,247.00,3.63,5.50,896.61,1358.50,45.10,2300.21
+21269,Gladys "Locoweed" Keller,AR,2.20,Dirt,184.00,0.55,1.00,101.20,184.00,5.70,290.90
+22339,Mattie Grant "the Gambler",MO,2.20,Packed Dirt,209.00,1.10,2.42,229.90,505.78,14.71,750.39
+23064,Friendly Howell,AL,1.00,Pinecones,172.00,1.50,2.93,258.00,503.96,7.62,769.58

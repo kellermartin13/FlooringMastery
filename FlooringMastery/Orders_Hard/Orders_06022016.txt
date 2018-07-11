@@ -1,0 +1,14 @@
+218,Claw Mist,Waleah Castle,0.77,Planar Mudtin Of Trolls,152.00,2094.92,335.36,318427.84,50974.72,3694.03,373096.59
+691,Wind Dire,The Temple of Merciless Necromancy,42.10,Litches' Fatal Mithril Of The Past,183.00,1207.25,305.00,220926.75,55815.00,116231.54,392973.29
+3624,Jericho Wolf,Gawold Castle,5.00,Mistgold Of Men,352.00,3065.71,44.00,1079129.92,15488.00,54730.90,1149348.82
+4251,Spikespawn,Khali's Delve,52.71,Ensorceled Gold Of The Dawn,274.00,4293.00,366.29,1176282.00,100363.46,676622.09,1953267.55
+5251,Gale Jackalguard,The Black Barrow of Zago the Possessed,28.00,Primordial False Gold,250.00,4459.34,226.00,1114835.00,56500.00,327973.80,1499308.80
+9644,"Uriel, God of Fate",The Tomb of Gothmog of Udun,-3.00,Spectres' Shadowy Terrorglow Adamant Of Life,57.00,4694.80,205.50,267603.60,11713.50,-8379.51,270937.59
+9991,Song Runetomb,The Warrior and Flagon,48.40,Shadowy Adamant,200.00,618.93,478.58,123786.00,95716.00,105360.96,324862.96
+11643,"Nelalwe, Lady of Fire",The Citadel of Cheno,7.33,Icy Shock Silver,156.00,1482.98,407.00,231344.88,63492.00,20638.58,315475.46
+12422,Valentine Lawslayer,Archscepter Borough,3.00,Transcendent Gold,308.00,-193.60,282.17,-59628.80,86908.36,818.39,28097.95
+14524,"Ariel, God of Luck",The Beggar and Cask,25.41,Swordbronze,179.00,1485.01,447.01,265816.79,80014.79,86457.90,432289.48
+16053,Sunrise Godwarlock,Fellfen Keep,61.53,Thunderbirds' Transcendent Dreamiron,135.00,2275.25,237.70,307158.75,32089.50,210333.92,549582.17
+16967,Cinderember,The Flying Witch,12.60,Sprites' Transcendent Mud Lead Of The South,226.00,2081.80,321.86,470486.80,72740.36,70619.53,613846.69
+17506,Spikebrood The Disinterred,Lamp Borough,4.95,Glowpearl Adamant Of Spirits,137.00,398.09,374.00,54538.33,51238.00,5288.82,111065.15
+17855,"Ariel, God of Luck",Boiaburh Keep,17.60,Legendary Mithril Of The Moon,200.00,2977.81,125.84,595562.00,25168.00,111731.40,732461.40

@@ -1,0 +1,12 @@
+1333,Helen Webb "the Dancer",MT,3.00,Dirt,126.00,0.50,1.00,63.00,126.00,5.67,194.67
+4311,Theresa "Kid" Robinson,KS,0.50,Solid Oak,336.00,5.50,5.00,1848.00,1680.00,0.00,3528.00
+4412,Vengeful Robertson,NV,0.25,Packed Dirt,105.00,1.00,1.50,105.00,157.50,0.00,262.50
+7107,Renee "Hellish Empress" Banks,OK,2.20,Beechwood,34.00,3.00,5.00,102.00,170.00,5.44,277.44
+13618,Maureen "Cursed" Andrews,IA,1.21,Reeds,220.00,0.75,2.20,165.00,484.00,6.49,655.49
+14218,Gladys "Locoweed" Keller,NV,0.31,Packed Dirt,175.00,1.10,2.00,192.50,350.00,0.00,542.50
+15269,Deborah "the Lady",ID,0.00,Dirt,234.00,0.50,1.00,117.00,234.00,0.00,351.00
+15465,Cynthia "the Vixen",AR,2.20,Pinecones,77.00,1.50,2.66,115.50,204.82,6.41,326.73
+16792,Deborah "the Lady",MS,3.00,Pinecones,268.00,1.50,2.66,402.00,712.88,33.45,1148.33
+20752,Vengeful Robertson,UT,0.00,Pebbles,159.00,0.88,4.84,139.92,769.56,0.00,909.48
+21847,Renee "Hellish Empress" Banks,CA,0.67,Leather,205.00,11.00,19.97,2255.00,4093.85,63.49,6412.34
+22915,Ida Russell "the Rustler",KS,0.55,Dirt,39.00,0.55,1.00,21.45,39.00,0.60,61.05

@@ -1,0 +1,22 @@
+292,Nailpiston The Grasping,Waleah Castle,0.77,Shadowhell Mithril,194.00,363.00,215.18,70422.00,41744.92,1121.67,113288.59
+2800,Bane Veil,Pawic Keep,0.56,Negative Mercury,250.00,4054.87,361.00,1013717.50,90250.00,11039.68,1115007.18
+4708,Wind Dire,Grove Farthing,18.00,Mithril Of Legend,188.00,2068.00,63.01,388784.00,11845.88,72113.38,472743.26
+5107,Jericho Wolf,The Chuallanto Jungle,37.00,Mithril Of Legend,129.00,2274.80,63.01,293449.20,8128.29,111583.67,413161.16
+6950,Lance Knightseraph,Bergfison's Deep,39.60,Unicorns' Evil Mithril,274.00,4802.49,312.00,1315882.26,85488.00,560548.10,1961918.36
+7015,"Gadriel, God of Resurrection",The Lost Crypts of Sorrows,35.87,Otherworldly Mirror Orichalcum,184.00,-247.00,478.50,-45448.00,88044.00,15334.56,57930.56
+8149,Bolttrap,The Tower of Aramum,42.90,Venom Timegold Of Dwarves,110.00,3036.00,269.00,333960.00,29590.00,156326.50,519876.50
+8523,Bedlam Spiritraven,The Black Barrow of Bery,-0.07,Foul Ice Bronze Of Life,298.00,-92.21,129.80,-27478.58,38680.40,0.00,11201.82
+8716,Evilfear The Horrorific,The Dancing Minstrel,21.20,Rocklava Mithril Of Revenants,188.00,1818.30,14.33,341840.40,2694.04,72352.23,416886.67
+8786,Tarot Dawn,The Fen of the Necromancer,54.57,Goddesses' Spectral Poison Steel,82.00,3773.99,269.83,309467.18,22126.06,182376.28,513969.52
+9035,"Maeglodor, God of Thieves",The Archer and Scroll,39.60,Primal Adamant,199.00,5019.08,301.29,998796.92,59956.71,423501.45,1482255.08
+10453,"Zepul, Lady of Vengeance",The Greedy Wench,32.70,Yellow Mistearth Copper,319.00,4575.58,-27.40,1459610.02,-8740.60,478786.91,1929656.33
+12235,Springsprocket,The Glano Forest,3.00,Spectres' Shadowy Terrorglow Adamant Of Life,101.00,5164.28,226.05,521592.28,22831.05,16332.70,560756.03
+12300,Fate Ivycaster,The Citadel of Alammius,3.50,Unknown Fatelightning Steel Of The Glacier,181.00,2441.05,59.71,441830.05,10807.51,18105.50,470743.06
+14174,"Ariel, God of Luck",The Secret Shrine of the Gargoyle Count,-2.00,Phantasmal Lead,11.00,-552.97,245.47,-6082.67,2700.17,67.65,-3314.85
+14839,Tiger Mistmidnight,The Shadow Downs,13.21,Mithril Of The Tropics,363.00,4126.10,11.98,1497774.30,4348.74,195276.00,1697399.04
+20187,Deathbrood,Unicorn's Ward,14.64,Primordial False Gold,32.00,5395.80,248.60,172665.60,7955.20,27093.12,207713.92
+20412,Rose Anchor,Weke Tower,-0.07,Zephyr Adamant,337.00,4224.00,113.22,1423488.00,38155.14,0.00,1461643.14
+22162,Burnchill The Evil,The Fortress of Akkun the Grim,-2.42,Sprites' Transcendent Mud Lead Of The South,207.00,2081.80,321.86,430932.60,66625.02,-9951.15,487606.47
+22948,"Alas, Lord of Plague",The Desert of Flames,57.10,Icy Shock Silver,209.00,1631.28,595.89,340937.52,124541.01,265322.76,730801.29
+23101,"Suriel, Lord of Animals",Barad Kesa,5.23,Mithril Of The Tropics,264.00,4992.58,11.98,1318041.12,3162.72,66060.19,1387264.03
+23220,Storm Seraphheart,The Lazy Sage,19.97,Incubi's Glittering Tin Of The Future,224.00,3349.54,96.64,750296.96,21647.36,154388.86,926333.18

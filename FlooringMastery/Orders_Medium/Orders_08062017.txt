@@ -1,0 +1,15 @@
+1314,Renee "Hellish Empress" Banks,MS,3.00,Reeds,154.00,0.75,2.00,115.50,308.00,12.70,436.20
+2196,Darlene "Loner" Ford,AL,1.00,Solid Oak,379.00,5.00,5.00,1895.00,1895.00,37.90,3827.90
+4335,Tammy Carlson "the Killer",AL,1.00,Beechwood,50.00,3.00,5.00,150.00,250.00,4.00,404.00
+5084,Geraldine "Revenge" Warren,ID,0.00,Packed Dirt,78.00,1.00,1.50,78.00,117.00,0.00,195.00
+5330,Amanda Hart "the Loner",OK,2.00,Leather,336.00,10.00,18.15,3360.00,6098.40,189.17,9647.57
+7995,Cathy "Wildfire" Neal,CA,0.55,Brick,141.00,4.84,6.66,682.44,939.06,16.22,1637.72
+10475,Evelyn "Evil Joker" Taylor,TX,0.67,Reeds,352.00,0.75,2.20,264.00,774.40,10.38,1048.78
+11849,Jacqueline "Riding Doc" Washington,MT,3.63,Beechwood,115.00,3.30,5.50,379.50,632.50,40.48,1052.48
+13514,Renee "Loco Tracker" Jordan,ND,1.38,Reeds,99.00,0.75,2.20,74.25,217.80,2.92,294.97
+17643,Susan "Damnation" Fleming,NM,2.93,Pinecones,282.00,1.50,2.66,423.00,750.12,35.19,1208.31
+18285,Tammy Carlson "the Killer",WY,0.31,Brick,88.00,5.32,6.66,468.16,586.08,0.00,1054.24
+18609,Minnie Lawson "the Apostle",AL,1.00,Packed Dirt,140.00,1.10,2.20,154.00,308.00,4.62,466.62
+21319,Vengeful Montgomery,IA,1.33,Pinecones,221.00,1.50,2.66,331.50,587.86,9.19,928.55
+22289,Heather "Friendly Gambler" Barrett,UT,0.00,Brick,382.00,5.32,6.66,2032.24,2544.12,0.00,4576.36
+23020,Elizabeth "the Bully",MT,5.84,Brick,293.00,5.32,6.66,1558.76,1951.38,210.61,3720.75

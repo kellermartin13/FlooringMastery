@@ -1,0 +1,15 @@
+6133,Tiger Mistmidnight,The Lazy Sage,19.97,Icy Shock Silver,355.00,1348.16,407.00,478596.80,144485.00,124616.36,747698.16
+9555,Sunrise Godwarlock,North Arcanist's Farthing,45.60,Ghostly Magic Adamant,200.00,4836.38,230.90,967276.00,46180.00,466189.76,1479645.76
+10179,Ironbrood,The Bloody Wand,12.00,Ensorceled Gold Of The Dawn,154.00,5713.98,402.92,879952.92,62049.68,113040.31,1055042.91
+12701,Jericho Wolf,The Desert of Flames,51.91,Phantasmal Lead,152.00,-552.97,245.47,-84051.44,37311.44,-24304.80,-71044.80
+13127,Shadow Gust,South Brightcrown Borough,42.25,Timeiron,122.00,1596.00,228.33,194712.00,27856.26,93478.67,316046.93
+14187,Cult Godseeker,Lamp Borough,4.95,Primordial Plague Mercury Of Legend,133.00,452.29,301.29,60154.57,40071.57,5011.31,105237.45
+16497,Wind Dire,Lacot Stronghold,45.22,Forgotten Mithril,179.00,1104.73,347.60,197746.67,62220.40,116985.18,376952.25
+17325,Shadow Gust,The Citadel of Alammius,3.85,Meteoric Mirrormuck Orichalcum Of The Forests,187.00,2374.02,185.77,443941.74,34738.99,19147.23,497827.96
+17468,Spikesnare,The Citadel of Alammius,3.85,Thunderbirds' Transcendent Dreamiron,208.00,2275.25,237.70,473252.00,49441.60,20907.74,543601.34
+19051,Evilbrood,The Secret Shrine of the Gargoyle Count,-2.00,Tin Of The Tundra,124.00,3436.25,174.91,426095.00,21688.84,-8955.68,438828.16
+19786,Law Lionwatcher,The Khazahol Crags,-2.17,Toxic Mistlead Of The Past,212.00,1557.54,164.64,330198.48,34903.68,-7302.04,357800.12
+20445,Fate Ivycaster,Weke Tower,-0.07,Greenlead,156.00,959.65,179.65,149705.40,28025.40,0.00,177730.80
+21477,Emberspawn,Eved Castle,5.09,Sphinxes' Opalpearl Platinum Of Legend,228.00,5805.82,429.89,1323726.96,98014.92,71087.09,1492828.97
+21610,"Ahah, Goddess of Knowledge",The Fortress of Asmamur,-4.93,God-touched Faterainbow Orichalcum Of Spectres,140.00,370.41,35.21,51857.40,4929.40,-2839.34,53947.46
+23113,Law Lionwatcher,Bergfison's Deep,57.98,Djinni's Spectral Shadowlead Of Life,89.00,4484.14,394.00,399088.46,35066.00,251809.59,685964.05

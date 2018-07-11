@@ -1,0 +1,8 @@
+5875,Blazeflare The Cremator,The Dungeon of Merciless Woe,38.62,Vampires' Hammer Emeraldmetal,198.00,379.45,25.84,75131.10,5116.32,31296.49,111543.91
+7824,Flameshiver,Grori's Deep,49.95,Violetstone Tin Of Death,78.00,2245.23,156.10,175127.94,12175.80,93651.87,280955.61
+9845,Flameshiver,Tower Farthing,27.12,Unicorns' Fatal Magma Metal Of The Ocean,245.00,1792.04,392.70,439049.80,96211.50,144520.55,679781.85
+10996,"Melcha, Goddess of Thieves",Unicorn's Ward,14.64,Tin Of The Tundra,338.00,2839.87,174.91,959876.06,59119.58,152849.35,1171844.99
+13485,"Melcha, Goddess of Thieves",The Pilgrim's Cup,46.12,Meteoric Dustzephyr Orichalcum,87.00,375.00,268.49,32625.00,23358.63,25752.47,81736.10
+17272,Storm Squallmourner,Reyny Keep,11.00,Grayplatinum,265.00,2506.27,306.97,664161.55,81347.05,82005.95,827514.55
+17777,Fate Seeker,The Grey Plains,19.97,Meteoric Mirrormuck Orichalcum Of The Forests,117.00,2374.02,185.77,277760.34,21735.09,59899.09,359394.52
+20774,"Finarfin, God of Protection",Waleah Castle,0.85,Fairies' Supreme Mistsmoke Lead Of The Future,293.00,3349.50,324.73,981403.50,95145.89,10765.49,1087314.88

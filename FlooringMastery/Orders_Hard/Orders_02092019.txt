@@ -1,0 +1,12 @@
+410,Gravebone The Unspeakable,Barad Kesa,4.32,Nymphs' Luminous Rotmercury Of The Skies,282.00,266.00,189.00,75012.00,53298.00,5132.40,133442.40
+3100,Flora Amberslayer,The Hunter and Rose,40.40,Fog Lavaplatinum Of Life,176.00,1078.00,17.00,189728.00,2992.00,77088.00,269808.00
+4326,"Lenwenye, Goddess of Travel",Fellfen Keep,42.03,Foul Ice Bronze Of Life,348.00,-92.21,129.80,-32089.08,45170.40,5494.15,18575.47
+4956,Fate Seeker,The Archer and Scroll,39.60,Ensorceled Sandmetal Of Spirits,197.00,2956.98,87.00,582525.06,17139.00,239865.62,839529.68
+5610,Snaretool The Constructed,The Archer and Blade,9.00,Djinni's Mind Fogiron,205.00,2301.02,67.29,471709.10,13794.45,43695.32,529198.87
+6126,Emberfire,The Cuitamba Jungle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,169.00,3349.50,324.73,566065.50,54879.37,173864.56,794809.43
+6200,Seraphim Tsunami,The Archer and Blade,9.00,Warlocks' Timerot Mithril,330.00,2917.07,112.00,962633.10,36960.00,89963.38,1089556.48
+13034,Evilfear The Horrorific,The Cracked Chalice,2.52,Timeiron,280.00,1596.00,228.33,446880.00,63932.40,15324.37,526136.77
+14941,Terrorghoul The Unspeakable,The Pilgrim's Cup,46.12,Muck Orichalcum Of Ogres,244.00,3769.54,401.45,919767.76,97953.80,468151.92,1485873.48
+20269,"Alas, Lord of Plague",The Bastion of Gothmog of Udun,54.84,Unicorns' Evil Mithril,203.00,4802.49,377.52,974905.47,76636.56,578348.12,1629890.15
+22248,Deathspike The Terrifying,Palace Farthing,47.64,Foul Ice Bronze Of Life,266.00,-101.43,157.06,-26980.38,41777.96,7102.84,21900.42
+22744,Scarefear The Blade,Citadel Ward,37.80,Swordbronze,310.00,1485.01,540.88,460353.10,167672.80,238649.84,866675.74

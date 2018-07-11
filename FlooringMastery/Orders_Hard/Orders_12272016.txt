@@ -1,0 +1,20 @@
+1327,"Gadriel, God of Resurrection",The Forsaken Tomb of Devastation,0.00,Primordial Mud Orichalcum,183.00,-387.90,77.37,-70985.70,14158.71,0.00,-56826.99
+1662,Wheelbolt The Machine,Lacot Stronghold,30.88,Unknowable Mindsilver,342.00,3565.00,366.00,1219230.00,125172.00,416764.62,1761166.62
+1844,"Alas, Lord of Plague",The Chuallanto Jungle,37.00,Planar Mudtin Of Trolls,226.00,2094.92,335.36,473451.92,75791.36,203220.01,752463.29
+2647,Chainblade The Cadaverous,The Fortress of the Lich Queen,36.35,Fog Lavaplatinum Of Life,297.00,1078.00,17.00,320166.00,5049.00,117077.40,442292.40
+2721,"Maeglodor, God of Thieves",The Bastion of the Lich Tyrant,43.00,Toxin Iceplatinum Of The Undead,77.00,-283.29,-49.00,-21813.33,-3773.00,-11002.12,-36588.45
+4076,Fate Seeker,The Pilgrim's Cup,41.93,Hidden Shadowice Lead,168.00,2729.00,-56.57,458472.00,-9503.76,188566.66,637534.90
+4993,Maverick Wind,The Demon and Toad,23.75,Yellow Mistearth Copper,172.00,4575.58,-27.40,786999.76,-4712.80,187748.87,970035.83
+5587,Ironbrood,The Dungeon of Merciless Woe,38.62,Mithril Of The Tropics,77.00,3751.00,9.00,288827.00,693.00,112912.80,402432.80
+7695,Flameshiver,The Tower of Aces the Accursed,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,280.00,3349.50,324.73,937860.00,90924.40,133741.97,1162526.37
+8661,Emberspawn,Minas Gilloy,39.26,Djinni's Spectral Shadowlead Of Life,253.00,3705.90,296.02,937592.70,74893.06,394869.45,1407355.21
+10864,Ironbrood,The Hunter and Rose,40.40,Tin Of The Tundra,182.00,2839.87,174.91,516856.34,31833.62,219475.98,768165.94
+11658,Icechill The Frigid,The Barrow of Malefic Ages,17.91,Phantasmal Tin Of The Swamps,135.00,4074.00,-6.60,549990.00,-891.00,98837.82,647936.82
+13511,Steelterror The Blade,The Pilgrim's Cup,46.12,Ghostly Soul Adamant,54.00,3222.96,229.53,174039.84,12394.62,85759.85,272194.31
+13959,Dawn Darkzealot,Archfane District,32.87,Violetstone Tin Of Death,268.00,2469.75,171.71,661893.00,46018.28,233610.72,941522.00
+14172,Rose Anchor,The Secret Shrine of the Gargoyle Count,-2.00,Primordial Plague Mercury Of Legend,250.00,452.29,301.29,113072.50,75322.50,-3767.90,184627.10
+15962,Snarepiston The Mechanical,Peley Keep,26.33,Sirens' Rockgold,304.00,-352.01,199.96,-107011.04,60787.84,-12018.03,-58241.23
+17142,Sunrise Godwarlock,The Flying Witch,12.60,Shadowy Adamant,146.00,618.93,526.44,90363.78,76860.24,21739.12,188963.14
+17909,Lord Mystery,Dysley Stronghold,45.98,Undeads' Mind Orichalcum Of The Twilight,198.00,-17.00,276.00,-3366.00,54648.00,23589.72,74871.72
+20613,Valentine Lawslayer,North Arcanist's Farthing,55.18,Undeads' Mind Orichalcum Of The Twilight,143.00,-17.00,276.00,-2431.00,39468.00,20370.35,57407.35
+22832,Emberspawn,The Fen of the Necromancer,72.63,Thunderbirds' Transcendent Dreamiron,262.00,2275.25,237.70,596115.50,62277.40,480626.82,1139019.72

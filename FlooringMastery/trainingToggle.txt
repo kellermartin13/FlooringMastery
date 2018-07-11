@@ -1,0 +1,2 @@
+On the following line, write "TRAINING" for training mode, or write "PROD" to enable saving.
+TRAINING

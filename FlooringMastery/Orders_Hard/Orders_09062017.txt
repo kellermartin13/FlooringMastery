@@ -1,0 +1,19 @@
+171,Cinderflame,Pewold Keep,16.95,Evilsilver,285.00,1351.68,66.00,385228.80,18810.00,68686.60,472725.40
+2299,Zeal Bladewitch,Pawic Keep,0.56,Hell Mercury Of The East,183.00,4636.34,284.60,848450.22,52081.80,9005.32,909537.34
+2454,Burnchill The Evil,The Fortress of the Lich Queen,36.35,Ghostly Soul Adamant,249.00,2929.96,189.69,729560.04,47232.81,279645.43,1056438.28
+4045,Tarot Dawn,The Secret Shrine of the Gargoyle Count,-2.00,Yellow Mistearth Copper,196.00,4575.58,-27.40,896813.68,-5370.40,-17828.87,873614.41
+4136,"Gadriel, God of Resurrection",The Hunter and Rose,40.40,Violetstone Tin Of Death,235.00,2245.23,156.10,527629.05,36683.50,225725.02,790037.57
+4164,Scarechain The Unspeakable,The Secret Shrine of the Gargoyle Count,-2.00,Tritons' Time Stoneiron Of Legend,270.00,1760.00,168.90,475200.00,45603.00,-10416.06,510386.94
+5287,Storm Squallmourner,Arcanist's Farthing,3.00,Hell Mercury Of The East,225.00,4636.34,284.60,1043176.50,64035.00,33216.34,1140427.84
+6982,Bonescare,The Forsaken Delve of Lord Greywulf,39.00,Meteoric Dustzephyr Orichalcum,182.00,375.00,244.08,68250.00,44422.56,43942.30,156614.86
+8076,Rouge Roguemist,The Grey Plains,19.97,Violetstone Tin Of Death,107.00,2245.23,156.10,240239.61,16702.70,51388.46,308330.77
+10392,Rouge Tombreaper,The Citadel of Lord Greywulf,33.04,Shadowy Adamant,237.00,618.93,478.58,146686.41,113423.46,85836.26,345946.13
+10435,Sunset Knightclaw,The Dread Hive of Illfang the Kobold Lord,1.33,Witchs' Forbidden Rockrainbow Bronze,130.00,596.00,387.20,77480.00,50336.00,1278.16,129094.16
+10484,"Alas, Lord of Plague",The Fortress of Gama,10.16,Witchs' Forbidden Rockrainbow Bronze,87.00,596.00,387.20,51852.00,33686.40,8553.84,94092.24
+11099,Sunset Knightclaw,Dysley Stronghold,45.98,Primordial False Gold,345.00,5395.80,226.00,1861551.00,77970.00,892179.66,2831700.66
+13916,Springcoil,The Bastion of Gothmog of Udun,54.84,Green Dustlightning Mercury,179.00,4255.57,35.20,761747.03,6300.80,422426.31,1190474.14
+14897,Bedlam Spiritraven,Gena's Hold,2.66,Legendary Mithril Of The Moon,206.00,2707.10,125.84,557662.60,25923.04,17507.57,601093.21
+20596,Claw Mist,The Dark Caverns of Woe,3.29,Greenlead,147.00,959.65,179.65,141068.55,26408.55,5024.31,172501.41
+21315,Fate Seeker,The Bastion of Sthasu the Gruesome,14.93,God-touched Faterainbow Orichalcum Of Spectres,106.00,370.41,35.21,39263.46,3732.26,6449.36,49445.08
+22683,Lightning Brand,The Fortress of the Lich Queen,36.35,Magic Adamant,50.00,2021.80,228.40,101090.00,11420.00,40503.60,153013.60
+22686,Jericho Wolf,The Demon and Toad,31.61,Magic Adamant,305.00,2021.80,228.40,616649.00,69662.00,219619.52,905930.52

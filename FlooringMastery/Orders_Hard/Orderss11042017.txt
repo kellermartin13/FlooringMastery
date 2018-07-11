@@ -1,0 +1,14 @@
+1931,Seraphim Tsunami,The Chuallanto Jungle,37.00,Violetdream Iron,209.00,1224.69,349.36,255960.21,73016.24,121721.29,450697.74
+3717,"Alas, Lord of Plague",Reheath Stronghold,8.00,Evilsilver,178.00,1486.85,79.86,264659.30,14215.08,22309.95,301184.33
+4865,"Gadriel, God of Resurrection",The Scoundrel and Flask,-4.58,Trolls' Rubymercury Of The Sunset,265.00,506.00,198.00,134090.00,52470.00,-9328.00,177232.00
+5513,"Ingwenel, God of War",The Nulukkhath Spires,10.59,Djinni's Mind Fogiron,91.00,2301.02,67.29,209392.82,6123.39,23706.78,239222.99
+6912,"Iran, Lord of Nightmares",The Demon and Toad,23.75,Angels' Smoke Adamant Of The Mountains,74.00,2832.34,215.00,209593.16,15910.00,54120.76,279623.92
+11184,Ironbrood,Unicorn's Ward,14.64,Primordial False Gold,298.00,5395.80,226.00,1607948.40,67348.00,251294.46,1926590.86
+12835,Fate Ivycaster,The Desert of Flames,51.91,Mistgold Of Men,209.00,3372.28,53.24,704806.52,11127.16,372285.51,1088219.19
+13155,Sunrise Godwarlock,The Lost Crypts of Sorrows,35.87,Emerald Orichalcum,182.00,-405.76,128.90,-73848.32,23459.80,-18139.87,-68528.39
+13643,"Uriel, God of Fate",Eved Castle,5.09,Meteoric Dustzephyr Orichalcum,227.00,375.00,268.49,85125.00,60947.23,7303.61,153375.84
+16557,Bedlam Spiritraven,The Broken Arrow,36.39,Ensorceled Sandmetal Of Spirits,248.00,2956.98,95.70,733331.04,23733.60,272543.27,1029607.91
+16846,Cult Godseeker,The Broken Arrow,36.39,Fleshshock Mercury,91.00,4858.70,338.07,442141.70,30764.37,170246.19,643152.26
+18293,Tiger Mistmidnight,The Nulukkhath Spires,11.65,Djinni's Spectral Shadowlead Of Life,139.00,4076.49,325.62,566632.11,45261.18,73427.19,685320.48
+20625,Storm Seraphheart,The Dark Caverns of Woe,3.29,Golems' Stonesapphire Gold Of The Glacier,31.00,4444.06,116.57,137765.86,3613.67,4241.39,145620.92
+21517,Shadow Tomblion,Pewold Keep,22.57,Phantasmal Tin Of The Swamps,174.00,5964.74,-7.99,1037864.76,-1390.26,238389.14,1274863.64

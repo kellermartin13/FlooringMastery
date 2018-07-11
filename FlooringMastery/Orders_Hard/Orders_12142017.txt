@@ -1,0 +1,11 @@
+1264,"Alas, Lord of Plague",The Drunken Thief,9.50,Rainbowglitter Tin,337.00,4475.87,176.36,1508368.19,59433.32,156780.15,1724581.66
+1730,"Azah, Goddess of Fate",Shainan's Hold,19.80,Trolls' Mist Poisonplatinum Of The Twilight,91.00,516.17,394.90,46971.47,35935.90,16581.47,99488.84
+5152,Sephiroth Drakecaster,Arcanist's Farthing,3.00,Primordial Plague Mercury Of Legend,125.00,339.81,273.90,42476.25,34237.50,2301.41,79015.16
+6636,Lance Knightseraph,The Tower of Aces the Accursed,13.31,Unholy Poison Copper Of The Mountains,124.00,580.91,-9.24,72032.84,-1145.76,9215.32,80102.40
+8025,Rose Anchor,The Dungeon of Dismal Terror,-3.50,Planar Obsidian Mercury Of Wizards,207.00,2574.00,141.57,532818.00,29304.99,-22484.92,539638.07
+9295,Blazeflare The Cremator,Minas Gilloy,39.26,Negative Rockglitter Mercury Of Trolls,46.00,1483.90,465.38,68259.40,21407.48,34970.08,124636.96
+12292,"Gadriel, God of Resurrection",The Dismal Marsh,6.05,Incubi's Iron Of The Dawn,173.00,1200.96,424.31,207766.08,73405.63,16870.30,298042.01
+12787,Chainnail,The Glano Forest,3.00,Imperial Fate Steel,321.00,2993.93,-44.92,961051.53,-14419.32,28398.97,975031.18
+14552,Bane Veil,The Archer and Scroll,39.60,Unknown Fatelightning Steel Of The Glacier,226.00,2441.05,65.68,551677.30,14843.68,226608.39,793129.37
+15552,Storm Seraphheart,Barad Kesa,4.75,Incubi's Iron Of The Dawn,156.00,1200.96,424.31,187349.76,66192.36,12677.11,266219.23
+16266,Springcoil,Barad Kesa,4.75,Nymphs' Luminous Rotmercury Of The Skies,204.00,292.60,189.00,59690.40,38556.00,4912.32,103158.72

@@ -1,0 +1,14 @@
+469,Michele Watson "the Loner",TX,0.50,Pebbles,162.00,0.80,4.00,129.60,648.00,0.00,777.60
+4016,Ida Russell "the Rustler",KS,0.50,Cedar Planks,272.00,2.00,5.50,544.00,1496.00,0.00,2040.00
+4116,"Doom" McCoy,TX,0.50,Dirt,336.00,0.50,1.00,168.00,336.00,0.00,504.00
+4903,Jo "the Joker",IA,1.10,Pebbles,288.00,0.80,4.40,230.40,1267.20,14.98,1512.58
+6598,Deborah "the Lady",TX,0.50,Pebbles,214.00,0.80,4.84,171.20,1035.76,0.00,1206.96
+7780,Beth "Fortunate Shooter" Powell,KS,0.50,Pebbles,224.00,0.80,4.84,179.20,1084.16,0.00,1263.36
+8076,Black Beck,CA,0.55,Cedar Planks,29.00,2.20,6.05,63.80,175.45,2.39,241.64
+8328,Ida Russell "the Rustler",NM,2.20,Leather,112.00,10.00,18.15,1120.00,2032.80,63.06,3215.86
+13432,Gloria "Devil" McCoy,CA,0.61,Beechwood,241.00,3.30,5.50,795.30,1325.50,21.21,2142.01
+19006,Deborah "the Lady",MS,3.00,Solid Oak,164.00,5.50,6.66,902.00,1092.24,59.83,2054.07
+20491,Joanne "Damned" Miles,MS,3.00,Reeds,227.00,0.83,2.20,188.41,499.40,20.63,708.44
+20647,Theresa "Kid" Robinson,KS,0.55,Pebbles,139.00,0.88,4.84,122.32,672.76,7.95,803.03
+22721,Maureen "Cursed" Andrews,WY,0.34,Packed Dirt,275.00,1.10,2.42,302.50,665.50,0.00,968.00
+23194,Dorothy "the Hunter",CA,0.67,Packed Dirt,104.00,1.10,2.42,114.40,251.68,3.66,369.74

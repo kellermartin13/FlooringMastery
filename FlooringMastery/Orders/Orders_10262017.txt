@@ -1,0 +1,17 @@
+89,Marie "Raven" Chapman,MT,3.00,Solid Oak,258.00,5.00,5.00,1290.00,1290.00,77.40,2657.40
+1007,Jacqueline "Riding Doc" Washington,MT,3.00,Cedar Planks,305.00,2.00,5.00,610.00,1525.00,64.05,2199.05
+2189,April "Thunderbird" Dunn,OK,2.00,Pebbles,359.00,0.80,4.40,287.20,1579.60,37.34,1904.14
+2883,Theresa "Kid" Robinson,NM,2.20,Pinecones,182.00,1.50,2.20,273.00,400.40,13.47,686.87
+3271,Evelyn "Evil Joker" Taylor,MO,2.20,Beechwood,330.00,3.00,5.00,990.00,1650.00,52.80,2692.80
+3789,Diana "Mistress" Morgan,CA,0.55,Pinecones,158.00,1.50,2.20,237.00,347.60,5.85,590.45
+3957,Darlene "Loner" Ford,MT,3.00,Beechwood,278.00,3.00,5.00,834.00,1390.00,66.72,2290.72
+7030,Gladys "Locoweed" Keller,NV,0.28,Solid Oak,146.00,5.50,5.50,803.00,803.00,0.00,1606.00
+8954,Susan "Damnation" Fleming,ID,0.00,Packed Dirt,92.00,1.00,1.50,92.00,138.00,0.00,230.00
+10943,Susan "Damnation" Fleming,MT,3.63,Brick,259.00,4.84,6.66,1253.56,1724.94,119.14,3097.64
+13073,Diana "Mistress" Morgan,MO,2.20,Cedar Planks,362.00,2.20,6.05,796.40,2190.10,59.73,3046.23
+13098,Ida Russell "the Rustler",KS,0.55,Brick,316.00,4.84,6.66,1529.44,2104.56,36.34,3670.34
+13172,Marie "Raven" Chapman,TX,0.67,Leather,133.00,11.00,18.15,1463.00,2413.95,38.77,3915.72
+14266,Theresa "Kid" Robinson,NM,2.42,Dirt,204.00,0.50,1.00,102.00,204.00,6.12,312.12
+18845,Jacqueline "Riding Doc" Washington,IA,1.33,Solid Oak,207.00,5.50,6.66,1138.50,1378.62,25.17,2542.29
+22744,Jo "the Joker",TX,0.67,Reeds,321.00,0.91,2.42,292.11,776.82,10.69,1079.62
+22916,Michele Watson "the Loner",NM,2.93,Leather,174.00,11.00,19.97,1914.00,3474.78,161.66,5550.44

@@ -1,0 +1,22 @@
+767,Shadow Gust,The Citadel of Alammius,3.18,Yellow Mistearth Copper,227.00,4159.62,-27.40,944233.74,-6219.80,28140.42,966154.36
+1017,Sephiroth Drakecaster,The Forsaken Tomb of Devastation,0.00,White Platinum,272.00,-47.81,145.00,-13004.32,39440.00,0.00,26435.68
+2007,Sephiroth Drakecaster,The Chuallanto Jungle,37.00,Spirits' Living Wordhammer Tin Of The Trees,149.00,4343.00,26.40,647107.00,3933.60,240885.02,891925.62
+2072,Tiger Mistmidnight,Tower Farthing,22.41,Magicians' Legendary Poison Metal,203.00,2043.26,229.81,414781.78,46651.43,101515.31,562948.52
+4642,Lightning Brand,The Khazahol Crags,-1.97,Meteoric Mirrormuck Orichalcum Of The Forests,161.00,1962.00,185.77,315882.00,29908.97,-6915.82,338875.15
+4980,Spikesnare,The Archer and Scroll,39.60,Legendary Mithril Of The Moon,299.00,2461.00,114.40,735839.00,34205.60,308017.84,1078062.44
+4989,Rune Rougehate,Grove Farthing,18.00,Sphinxes' Unknown Poisongold Of The Future,72.00,3554.77,23.86,255943.44,1717.92,46379.04,304040.40
+5511,Song Runetomb,Unicorn's Ward,13.31,Mithril Of The Tropics,292.00,3751.00,9.00,1095292.00,2628.00,142729.60,1240649.60
+5995,Song Runetomb,The Secret Shrine of the Gargoyle Count,-2.00,Fairies' Supreme Mistsmoke Lead Of The Future,283.00,3349.50,324.73,947908.50,91898.59,-20796.14,1019010.95
+6414,"Alas, Lord of Plague",South Brightcrown Borough,42.25,Thunderbirds' Transcendent Dreamiron,149.00,2275.25,237.70,339012.25,35417.30,157260.41,531689.96
+7314,Chainnail,Palace Farthing,43.31,Meteoric Dustzephyr Orichalcum,187.00,375.00,244.08,70125.00,45642.96,49780.22,165548.18
+9645,Blazefreeze The Chiller,North Arcanist's Farthing,45.60,Spirits' Living Wordhammer Tin Of The Trees,240.00,4777.30,26.40,1146552.00,6336.00,530328.48,1683216.48
+10015,Valentine Lawslayer,The Bloody Wand,12.00,Ensorceled Gold Of The Dawn,227.00,5713.98,402.92,1297073.46,91462.84,166624.36,1555160.66
+11222,"Baltha, Goddess of Knowledge",The Hunter and Rose,40.40,Sapphire Mindlead,216.00,1307.71,47.00,282465.36,10152.00,117046.94,409664.30
+11860,"Suriel, Lord of Animals",The Archer and Scroll,39.60,God-touched Greengem Platinum,332.00,1281.72,-39.60,425531.04,-13147.20,164953.54,577337.38
+12151,Seraphim Tsunami,Fellfen Keep,46.23,Angels' Adamant,339.00,1304.00,179.30,442056.00,60782.70,231305.80,734144.50
+16380,Spikespawn,The Vaults of the Shadow Emperor,33.00,Incubi's Mirrorfog Iron Of The Ocean,134.00,5806.50,-26.08,778071.00,-3494.72,255610.17,1030186.45
+16746,Rouge Tombreaper,Lacot Stronghold,45.22,Fleshshock Mercury,182.00,4858.70,338.07,884283.40,61528.74,425615.46,1371427.60
+20633,Fate Seeker,The Dark Caverns of Woe,3.29,Toxin Iceplatinum Of The Undead,138.00,-377.06,-59.29,-52034.28,-8182.02,-1806.49,-62022.79
+21787,Blazeflare The Cremator,The Tower of the Demon Warlord,20.97,Unknowable Mindsilver,262.00,4313.65,402.60,1130176.30,105481.20,259488.08,1495145.58
+21998,Maverick Wind,The Wizard's House,43.58,Toxic Mistlead Of The Past,314.00,1557.54,181.10,489067.56,56865.40,240210.50,786143.46
+22103,Beamsprocket The Grasping,Tradun Castle,41.43,Forgotten Mithril,176.00,1215.20,347.60,213875.20,61177.60,112771.65,387824.45

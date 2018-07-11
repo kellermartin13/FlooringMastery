@@ -1,0 +1,21 @@
+1727,Lightning Brand,The Dungeon of Merciless Woe,38.62,Foul Ice Bronze Of Life,308.00,-92.21,129.80,-28400.68,39978.40,4515.31,16093.03
+1767,Clash Lonedrake,The Tomb of Hellish Ruin,14.00,Venom Jewelmetal Of The Desert,157.00,1388.00,224.00,217916.00,35168.00,35431.76,288515.76
+2799,Magus Felldrake,The Dismal Marsh,5.00,Rocklava Mithril Of Revenants,191.00,1818.30,13.03,347295.30,2488.73,17489.20,367273.23
+3285,Snowflame The Evil,The Lewd King,27.00,Forgotten Mithril,243.00,913.00,316.00,221859.00,76788.00,80634.69,379281.69
+5565,"Alas, Lord of Plague",The Cuitamba Jungle,28.00,Ensorceled Sandmetal Of Spirits,175.00,2956.98,87.00,517471.50,15225.00,149155.02,681851.52
+6672,Boltcrank The Trapper,The Dread Hive of Illfang the Kobold Lord,1.33,Emerald Orichalcum,210.00,-368.87,128.90,-77462.70,27069.00,-503.94,-50897.64
+7426,Seraph Jester,The Lazy Sage,19.97,Toxic Mistlead Of The Past,357.00,1557.54,136.06,556041.78,48573.42,120923.04,725538.24
+7861,Fate Seeker,The Dungeon of Dismal Terror,-3.50,Swordbronze,255.00,1350.01,447.01,344252.55,113987.55,-18329.60,439910.50
+8430,Burnchill The Evil,Cawold Castle,24.09,Hell Mercury Of The East,346.00,4636.34,284.60,1604173.64,98471.60,408634.86,2111280.10
+8446,Spikesnare,Gili's Delve,-5.05,Planar Obsidian Mercury Of Wizards,70.00,2574.00,141.57,180180.00,9909.90,-9504.50,180585.40
+8683,"Ahah, Goddess of Knowledge",The Black Barrow of Bery,-0.07,Hell Mercury Of The East,166.00,4636.34,284.60,769632.44,47243.60,0.00,816876.04
+10237,Seraphim Tsunami,The Dungeon of Dismal Terror,-3.50,Meteoric Dustzephyr Orichalcum,168.00,375.00,244.08,63000.00,41005.44,-4160.22,99845.22
+11329,Lightning Brand,The Hunter and Rose,40.40,Phantasmal Plague Adamant,87.00,-186.03,-7.18,-16184.61,-624.66,-6723.71,-23532.98
+11491,Lord Mystery,The Bastion of the Lich Tyrant,43.00,Ghostly Magic Adamant,234.00,4836.38,230.90,1131712.92,54030.60,509869.71,1695613.23
+12482,Emberfire,The Glano Forest,3.00,Vampires' Fang Emeraldsilver,250.00,2762.99,455.55,690747.50,113887.50,24139.05,828774.05
+14046,Snowflame The Evil,Waleah Castle,0.77,Spectres' Shadowy Terrorglow Adamant Of Life,378.00,5164.28,248.66,1952097.84,93993.48,20460.91,2066552.23
+14575,Magus Felldrake,The Archer and Scroll,39.60,Legendary Mithril Of The Moon,283.00,2707.10,125.84,766109.30,35612.72,320688.81,1122410.83
+14727,Boltcrank The Trapper,Barad Kesa,4.75,Swordbronze,88.00,1485.01,447.01,130680.88,39336.88,8500.89,178518.65
+15760,Blazefreeze The Chiller,Cawold Castle,24.09,Primordial False Gold,145.00,5395.80,248.60,782391.00,36047.00,196425.12,1014863.12
+18689,Tarot Dawn,The Bastion of Barbos,28.34,Starlight Pearldream Bronze,304.00,322.10,147.40,97918.40,44809.60,39963.84,182691.84
+20755,"Baltha, Goddess of Knowledge",Lordsgate Farthing,45.25,Devils' Falserot Silver,332.00,2220.79,182.71,737302.28,60659.72,359082.90,1157044.90

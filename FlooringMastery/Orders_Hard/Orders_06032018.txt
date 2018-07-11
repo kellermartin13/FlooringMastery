@@ -1,0 +1,12 @@
+1687,Wheelbolt The Machine,Gifeld Castle,6.22,Trolls' Mist Poisonplatinum Of The Twilight,25.00,516.17,394.90,12904.25,9872.50,1366.60,24143.35
+2442,Seraphim Tsunami,The Fortress of the Lich Queen,36.35,Toxin Iceplatinum Of The Undead,247.00,-283.29,-49.00,-69972.63,-12103.00,-29547.23,-111622.86
+3870,"Alik, Goddess of Trickery",Grori's Deep,45.41,Zephyr Iron,111.00,2759.00,404.26,306249.00,44872.86,158004.84,509126.70
+7209,Jericho Wolf,The Bastion of Barbos,23.42,Ghostly Soul Adamant,120.00,3222.96,229.53,386755.20,27543.60,95288.72,509587.52
+10961,Ironbrood,The Black Barrow of Bery,-0.07,Unspeakable Rotsoul Mithril Of Souls,153.00,248.00,401.53,37944.00,61434.09,0.00,99378.09
+14902,Valentine Lawslayer,Shainan's Hold,23.96,Heavenly Dreamsilver Of The Night,214.00,2009.68,112.00,430071.52,23968.00,108969.48,563009.00
+16601,Tiger Mistmidnight,Gena's Hold,2.66,Ensorceled Sandmetal Of Spirits,197.00,2956.98,95.70,582525.06,18852.90,18041.34,619419.30
+18567,Rune Rougehate,The Dark Caverns of Woe,3.29,Sphinxes' Opalpearl Platinum Of Legend,60.00,5805.82,390.81,348349.20,23448.60,11153.93,382951.73
+18986,Lance Knightseraph,The Barrow of Malefic Ages,19.70,Tin Of The Tundra,156.00,3436.25,174.91,536055.00,27285.96,112668.19,676009.15
+21057,Zeal Bladewitch,Eved Castle,5.09,Djinni's Evil Sandobsidian Steel Of The Future,186.00,4208.60,172.78,782799.60,32137.08,40746.83,855683.51
+22820,Cinderflame,The Lost Sanctum of Woe,3.30,Incubi's Glittering Tin Of The Future,360.00,3349.54,96.64,1205834.40,34790.40,37218.74,1277843.54
+23003,"Sielach, God of Fate",The Fortress of Akkun the Grim,-2.42,Ensorceled Gold Of The Dawn,231.00,6913.92,443.21,1597115.52,102381.51,-33989.94,1665507.09

@@ -1,0 +1,14 @@
+1225,"Alik, Goddess of Trickery",The Forsaken Tomb of Devastation,0.00,Sapphire Mindlead,213.00,1307.71,47.00,278542.23,10011.00,0.00,288553.23
+2958,Beamsprocket The Grasping,The Bastion of the Vampire Duke,19.28,Fog Lavaplatinum Of Life,219.00,1078.00,17.00,236082.00,3723.00,45562.95,285367.95
+5945,Springsprocket,The Lost Sanctum of Woe,3.00,Icy Shock Silver,214.00,1348.16,407.00,288506.24,87098.00,11268.13,386872.37
+8884,Bedlam Spiritraven,The Fen of the Necromancer,54.57,Primal Adamant,274.00,5019.08,301.29,1375227.92,82553.46,801779.76,2259561.14
+10038,Bedlam Spiritraven,The Bloody Wand,12.00,Shadowy Adamant,289.00,618.93,478.58,178870.77,138309.62,38061.65,355242.04
+12371,Deathspike The Terrifying,Castle Village,37.51,God-touched Faterainbow Orichalcum Of Spectres,322.00,370.41,32.01,119272.02,10307.22,49240.11,178819.35
+12687,Spikecrank,Reheath Stronghold,8.00,Forgotten Mithril,108.00,1104.73,316.00,119310.84,34128.00,12275.11,165713.95
+13023,"Ahah, Goddess of Knowledge",The Nulukkhath Spires,10.59,Sapphire Mindlead,176.00,1307.71,47.00,230156.96,8272.00,26227.19,264656.15
+14065,Wind Dire,Tradun Castle,37.66,Green Dustlightning Mercury,338.00,4255.57,35.20,1438382.66,11897.60,551106.50,2001386.76
+16814,Lightning Brand,Gena's Hold,2.66,Shadowhell Mithril,245.00,483.15,315.05,118371.75,77187.25,5866.77,201425.77
+19161,Bronzespike,The Citadel of Tattena the Sinister,13.34,Fog Lavaplatinum Of Life,70.00,1078.00,18.70,75460.00,1309.00,9979.97,86748.97
+19224,"Uriel, God of Fate",The Barrow of Malefic Ages,19.70,Phantasmal Smokezephyr Mercury Of Men,144.00,-510.81,75.90,-73556.64,10929.60,-12525.41,-75152.45
+21960,Mecharig The Living Device,The Secret Shrine of the Gargoyle Count,-2.00,Otherworldly Truesoul Orichalcum Of The East,362.00,1061.78,392.65,384364.36,142139.30,-10530.07,515973.59
+22623,Rouge Roguemist,Citadel Ward,37.80,Hidden Shadowice Lead,316.00,2729.00,-62.23,862364.00,-19664.68,320225.74,1162925.06

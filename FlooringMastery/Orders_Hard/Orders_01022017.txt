@@ -1,0 +1,15 @@
+1085,Lord Mystery,The Broken Shield,37.23,Imperial Fate Steel,98.00,2721.75,-37.13,266731.50,-3638.74,97344.32,360437.08
+1909,Jericho Wolf,The Forsaken Tomb of Devastation,0.00,Djinni's Evil Sandobsidian Steel Of The Future,172.00,3826.00,157.07,658072.00,27016.04,0.00,685088.04
+3778,"Gadriel, God of Resurrection",The Secret Shrine of the Gargoyle Count,-2.00,Foulopal Copper Of The Skies,213.00,1221.16,403.00,260107.08,85839.00,-6918.92,339027.16
+4907,Claw Mist,The Tower of Sabiesu the Awesome,4.40,Negative Mercury,203.00,4054.87,361.00,823138.61,73283.00,35856.86,932278.47
+5121,Rouge Roguemist,Ring District,35.00,Sphinxes' Mistsoul Bronze Of The Past,272.00,1972.55,183.70,536533.60,49966.40,205275.00,791775.00
+5519,"Gadriel, God of Resurrection",Barad Kesa,4.32,Mithril Of The Tropics,56.00,3751.00,9.00,210056.00,504.00,8422.40,218982.40
+6030,Sephiroth Drakecaster,The Cuitamba Jungle,28.00,Glowpearl Adamant Of Spirits,256.00,361.90,374.00,92646.40,95744.00,52749.31,241139.71
+6987,Burnbrood The Freezer,The Lost Crypts of Sorrows,35.87,Meteoric Dustzephyr Orichalcum,239.00,375.00,244.08,89625.00,58335.12,53265.64,201225.76
+10325,"Zepul, Lady of Vengeance",The Broken Shield,37.23,Djinni's Spectral Shadowlead Of Life,219.00,3705.90,325.62,811592.10,71310.78,326674.07,1209576.95
+11356,Harmony Angelchild,Dysley Stronghold,45.98,Sapphire Mindlead,109.00,1307.71,47.00,142540.39,5123.00,67925.16,215588.55
+16055,Chainblade The Cadaverous,Peley Keep,26.33,Meteoric Dustzephyr Orichalcum,284.00,375.00,268.49,106500.00,76251.16,47515.30,230266.46
+17124,Valentine Lawslayer,The Citadel of Lord Greywulf,33.04,Unholy Poison Copper Of The Mountains,138.00,702.90,-10.16,97000.20,-1402.08,31547.38,127145.50
+17737,Deathspike The Terrifying,Lamp Borough,4.95,Sphinxes' Mistsoul Bronze Of The Past,276.00,2169.81,222.28,598867.56,61349.28,33010.84,693227.68
+22098,Law Lionwatcher,The Black Barrow of Bery,-0.10,Phantasmal Lead,224.00,-669.10,270.02,-149878.40,60484.48,0.00,-89393.92
+23250,"Eumyan, Goddess of Law",Kewold Stronghold,10.74,Timeiron,345.00,1596.00,276.28,550620.00,95316.60,71053.03,716989.63

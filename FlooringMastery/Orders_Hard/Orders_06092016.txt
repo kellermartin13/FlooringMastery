@@ -1,0 +1,16 @@
+379,Nettool The Grasping,,,,,,394.90,113041.23,86483.10,,
+846,"Uriel, God of Fate",The Shadow Downs,13.21,White Platinum,89.00,-47.81,145.00,-4255.09,12905.00,1124.49,9774.40
+4149,Spikerivet,Barad Kesa,4.32,Hidden Shadowice Lead,182.00,2729.00,-56.57,496678.00,-10295.74,19455.29,505837.55
+5260,Claw Mist,Lordsgate Farthing,37.40,Primordial Plague Mercury Of Legend,311.00,339.81,273.90,105680.91,85182.90,70619.61,261483.42
+5271,"Eumyan, Goddess of Law",Haukri's Hold,25.30,Sphinxes' Mistsoul Bronze Of The Past,296.00,1972.55,183.70,583874.80,54375.20,159562.50,797812.50
+5805,Spikecrank,The Dungeon of Merciless Woe,38.62,Ensorceled Sandmetal Of Spirits,167.00,2956.98,87.00,493815.66,14529.00,198254.42,706599.08
+7919,Rune Rougehate,Minas Gilloy,39.26,Meteoric Mirrormuck Orichalcum Of The Forests,211.00,2158.20,185.77,455380.20,39197.47,192885.29,687462.96
+8383,"Lionare, God of the Lost",The Wizard's House,43.58,Planar Obsidian Mercury Of Wizards,99.00,2574.00,141.57,254826.00,14015.43,118290.23,387131.66
+10986,"Ahah, Goddess of Knowledge",Gena's Hold,2.66,Sapphire Mindlead,117.00,1307.71,47.00,153002.07,5499.00,4755.03,163256.10
+11490,Emberfire,Archring Borough,17.93,Pearl Mirrorice Steel Of Changelings,134.00,271.51,38.07,36382.34,5101.38,7467.07,48950.79
+12511,"Gadriel, God of Resurrection",Archscepter Borough,3.00,God-touched Faterainbow Orichalcum Of Spectres,242.00,370.41,32.01,89639.22,7746.42,2921.57,100307.21
+15314,Clash Lonedrake,The Greedy Wench,32.70,Sphinxes' Unknown Poisongold Of The Future,201.00,3910.25,23.86,785960.25,4795.86,260949.52,1051705.63
+18854,Tarot Dawn,Hafeld Keep,46.71,Mistgold Of Men,234.00,4488.51,53.24,1050311.34,12458.16,499501.66,1562271.16
+19181,Gravebone,The Barrow of Malefic Ages,19.70,Mind Lead,178.00,3442.09,374.01,612692.02,66573.78,135853.16,815118.96
+21421,"Zepul, Lady of Vengeance",The Lazy Sage,19.97,God-touched Faterainbow Orichalcum Of Spectres,167.00,370.41,35.21,61858.47,5880.07,13547.71,81286.25
+23186,Fate Seeker,Bergfison's Deep,57.98,Djinni's Spectral Shadowlead Of Life,288.00,4484.14,394.00,1291432.32,113472.00,814844.51,2219748.83

@@ -1,0 +1,24 @@
+777,Betty "Happy Thinker" Watson,AR,2.20,Solid Oak,40.00,5.00,5.00,200.00,200.00,8.00,408.00
+2530,Diana "Mistress" Morgan,NV,0.25,Leather,95.00,10.00,16.50,950.00,1567.50,0.00,2517.50
+2963,Gladys "Locoweed" Keller,MO,2.20,Dirt,157.00,0.50,1.00,78.50,157.00,4.71,240.21
+5429,Florence "Leather Doc" Grant,NV,0.25,Packed Dirt,337.00,1.00,1.50,337.00,505.50,0.00,842.50
+6184,Jo "the Joker",NV,0.25,Pinecones,206.00,1.50,2.66,309.00,547.96,0.00,856.96
+6498,Beth "Fortunate Shooter" Powell,NM,2.20,Brick,167.00,4.84,6.66,808.28,1112.22,38.41,1958.91
+6589,Renee "Hellish Empress" Banks,OK,2.20,Cedar Planks,91.00,2.20,6.05,200.20,550.55,15.02,765.77
+8183,Mabel "Vixen Cursed" King,NM,2.20,Dirt,190.00,0.50,1.00,95.00,190.00,5.70,290.70
+8526,Stella "the Bully",KS,0.50,Solid Oak,211.00,5.50,5.50,1160.50,1160.50,0.00,2321.00
+9175,Ida Russell "the Rustler",AR,2.20,Brick,173.00,4.84,6.66,837.32,1152.18,39.79,2029.29
+9461,Dorothy "the Hunter",KS,0.50,Reeds,210.00,0.75,2.20,157.50,462.00,0.00,619.50
+9659,Betty "Happy Thinker" Watson,NV,0.31,Pinecones,173.00,1.50,2.66,259.50,460.18,0.00,719.68
+10692,Debra "Scorpion" Lane,MT,3.63,Cedar Planks,216.00,2.20,6.05,475.20,1306.80,71.28,1853.28
+11299,Darlene "Loner" Ford,UT,0.00,Reeds,189.00,0.75,2.20,141.75,415.80,0.00,557.55
+13148,April "Thunderbird" Dunn,WY,0.31,Pinecones,146.00,1.50,2.66,219.00,388.36,0.00,607.36
+13977,"Scalphunter" Kennedy,IA,1.21,Brick,184.00,5.32,6.66,978.88,1225.44,22.04,2226.36
+14615,Maureen "Cursed" Andrews,UT,0.00,Reeds,188.00,0.75,2.20,141.00,413.60,0.00,554.60
+15181,Mattie Grant "the Gambler",TX,0.67,Cedar Planks,175.00,2.20,6.05,385.00,1058.75,14.44,1458.19
+16678,Deborah "the Lady",ND,1.38,Packed Dirt,194.00,1.10,2.20,213.40,426.80,6.40,646.60
+18682,Lucky Johnson,MO,2.20,Leather,113.00,11.00,19.97,1243.00,2256.61,69.99,3569.60
+18798,Cathy "Wildfire" Neal,OK,2.42,Leather,291.00,11.00,19.97,3201.00,5811.27,180.25,9192.52
+19220,Julia "Bandit" Chandler,MO,2.20,Beechwood,127.00,3.63,5.50,461.01,698.50,23.19,1182.70
+21341,Mattie Grant "the Gambler",AL,1.00,Pinecones,106.00,1.50,2.66,159.00,281.96,4.41,445.37
+23057,Vicki "Mesa" Rhodes,MT,5.84,Pinecones,325.00,1.50,2.93,487.50,952.25,86.38,1526.13

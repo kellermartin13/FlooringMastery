@@ -1,0 +1,24 @@
+800,Gladys "Locoweed" Keller,KS,0.50,Pebbles,165.00,0.80,4.00,132.00,660.00,0.00,792.00
+2125,Surgeon Grant,ID,0.00,Leather,324.00,10.00,16.50,3240.00,5346.00,0.00,8586.00
+2358,Wilma "Tornado" Brooks,OK,2.00,Leather,284.00,10.00,16.50,2840.00,4686.00,150.52,7676.52
+2395,Cathy "Loner Demon" Murray,UT,0.00,Pinecones,95.00,1.50,2.20,142.50,209.00,0.00,351.50
+4170,Cynthia "the Vixen",AL,1.00,Leather,249.00,10.00,16.50,2490.00,4108.50,65.98,6664.48
+4849,Beth "Fortunate Shooter" Powell,IA,1.10,Cedar Planks,178.00,2.00,5.50,356.00,979.00,13.35,1348.35
+6554,"Sunrise" Miles,UT,0.00,Beechwood,264.00,3.00,5.00,792.00,1320.00,0.00,2112.00
+6716,Debra "Scorpion" Lane,NV,0.28,Beechwood,302.00,3.00,5.00,906.00,1510.00,0.00,2416.00
+6919,"Sunrise" Miles,MO,2.20,Pinecones,95.00,1.50,2.66,142.50,252.70,7.90,403.10
+7258,Amanda Hart "the Loner",KS,0.50,Dirt,227.00,0.50,1.00,113.50,227.00,0.00,340.50
+7286,Deborah "the Lady",UT,0.00,Pebbles,136.00,0.80,4.84,108.80,658.24,0.00,767.04
+10381,Melissa "Lonesome Stalker" Riley,NM,2.20,Pinecones,207.00,1.50,2.66,310.50,550.62,17.22,878.34
+13288,Beth "Fortunate Shooter" Powell,WY,0.31,Solid Oak,309.00,5.50,5.50,1699.50,1699.50,0.00,3399.00
+14931,Susan "Damnation" Fleming,CA,0.61,Packed Dirt,275.00,1.10,2.20,302.50,605.00,9.08,916.58
+15070,Cynthia "the Vixen",IA,1.21,Solid Oak,121.00,5.50,5.50,665.50,665.50,13.31,1344.31
+15613,Mattie Grant "the Gambler",UT,0.00,Dirt,53.00,0.50,1.00,26.50,53.00,0.00,79.50
+15627,Cathy "Loner Demon" Murray,MO,2.20,Dirt,114.00,0.50,1.00,57.00,114.00,3.42,174.42
+18570,Dorothy "the Hunter",NM,2.93,Beechwood,246.00,3.63,5.50,892.98,1353.00,67.38,2313.36
+19659,Renee "Loco Tracker" Jordan,NV,0.31,Packed Dirt,23.00,1.10,2.42,25.30,55.66,0.00,80.96
+20062,Cathy "Loner Demon" Murray,ID,0.00,Reeds,330.00,0.83,2.20,273.90,726.00,0.00,999.90
+21298,Cathy "Wildfire" Neal,AL,1.00,Pebbles,136.00,0.88,4.84,119.68,658.24,7.78,785.70
+21625,Heather "Friendly Gambler" Barrett,NV,0.31,Dirt,124.00,0.55,1.00,68.20,124.00,0.00,192.20
+22001,Theresa "Kid" Robinson,IA,1.33,Leather,241.00,11.00,19.97,2651.00,4812.77,74.64,7538.41
+22849,Renee "Loco Tracker" Jordan,ID,0.00,Pinecones,307.00,1.50,2.93,460.50,899.51,0.00,1360.01

@@ -1,0 +1,24 @@
+1865,Vanessa "Scalper" Rhodes,ND,1.25,Packed Dirt,224.00,1.00,1.50,224.00,336.00,5.60,565.60
+2104,Joanne "Damned" Miles,NV,0.25,Dirt,161.00,0.50,1.00,80.50,161.00,0.00,241.50
+2337,Helen Webb "the Dancer",UT,0.00,Reeds,124.00,0.75,2.00,93.00,248.00,0.00,341.00
+3493,Black Beck,AL,1.00,Dirt,278.00,0.50,1.00,139.00,278.00,4.17,421.17
+3632,Black Beck,MS,3.00,Reeds,313.00,0.75,2.00,234.75,626.00,25.82,886.57
+4473,Surgeon Grant,NM,2.20,Reeds,252.00,0.75,2.20,189.00,554.40,14.87,758.27
+4959,Cathy "Loner Demon" Murray,OK,2.00,Brick,70.00,4.84,6.05,338.80,423.50,15.25,777.55
+6837,Lena Chapman "the Bully",MS,3.00,Leather,238.00,10.00,18.15,2380.00,4319.70,200.99,6900.69
+8756,Evelyn "Evil Joker" Taylor,AL,1.00,Leather,144.00,10.00,18.15,1440.00,2613.60,40.54,4094.14
+10562,Theresa "Kid" Robinson,AL,1.00,Brick,53.00,4.84,6.66,256.52,352.98,6.10,615.60
+11952,Jacqueline "Riding Doc" Washington,WY,0.31,Dirt,197.00,0.50,1.00,98.50,197.00,0.00,295.50
+12179,Vengeful Montgomery,TX,0.67,Pinecones,372.00,1.50,2.66,558.00,989.52,15.48,1563.00
+13472,Heather "Tornado" Newman,WY,0.31,Solid Oak,229.00,5.50,5.50,1259.50,1259.50,0.00,2519.00
+13693,Jacqueline "Riding Doc" Washington,AR,2.20,Pinecones,149.00,1.50,2.66,223.50,396.34,12.40,632.24
+14702,Vicki "Mesa" Rhodes,NM,2.42,Brick,88.00,5.32,6.66,468.16,586.08,21.08,1075.32
+15016,Vengeful Montgomery,MO,2.20,Leather,253.00,11.00,18.15,2783.00,4591.95,147.50,7522.45
+15057,Beth "Fortunate Shooter" Powell,NM,2.66,Packed Dirt,212.00,1.10,2.20,233.20,466.40,20.99,720.59
+17679,Debra "Scorpion" Lane,NV,0.31,Brick,182.00,5.32,6.66,968.24,1212.12,0.00,2180.36
+18478,April "Thunderbird" Dunn,UT,0.00,Brick,245.00,5.32,6.66,1303.40,1631.70,0.00,2935.10
+18827,Wilma "Tornado" Brooks,ND,1.67,Pebbles,116.00,0.88,4.84,102.08,561.44,13.27,676.79
+19652,Debra "Scorpion" Lane,MT,3.99,Beechwood,184.00,3.63,6.05,667.92,1113.20,71.24,1852.36
+19695,Tammy Carlson "the Killer",OK,2.42,Reeds,374.00,0.83,2.20,310.42,822.80,22.66,1155.88
+21264,Joanne "Damned" Miles,KS,0.55,Brick,277.00,5.32,6.66,1473.64,1844.82,33.18,3351.64
+21866,Diana "Mistress" Morgan,NM,2.93,Brick,250.00,5.32,6.66,1330.00,1665.00,89.85,3084.85

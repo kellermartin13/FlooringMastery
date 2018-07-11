@@ -1,0 +1,18 @@
+3186,Kathy Murphy "the Thinker",MO,2.20,Dirt,163.00,0.50,1.00,81.50,163.00,4.89,249.39
+3649,Beth "Fortunate Shooter" Powell,CA,0.55,Beechwood,275.00,3.00,5.00,825.00,1375.00,22.00,2222.00
+4232,Joanne "Damned" Miles,WY,0.31,Leather,129.00,10.00,16.50,1290.00,2128.50,0.00,3418.50
+4715,April "Thunderbird" Dunn,MT,3.00,Reeds,191.00,0.75,2.20,143.25,420.20,16.90,580.35
+6275,Tina "Lady" Anderson,AR,2.20,Cedar Planks,246.00,2.20,5.50,541.20,1353.00,37.88,1932.08
+7440,Black Beck,AL,1.00,Dirt,112.00,0.50,1.00,56.00,112.00,1.68,169.68
+8794,April "Thunderbird" Dunn,KS,0.50,Packed Dirt,109.00,1.00,1.50,109.00,163.50,0.00,272.50
+9649,Vengeful Montgomery,TX,0.55,Dirt,95.00,0.50,1.00,47.50,95.00,1.42,143.92
+11193,"Sunrise" Miles,NM,2.20,Packed Dirt,187.00,1.00,1.50,187.00,280.50,9.35,476.85
+11583,Betty "Happy Thinker" Watson,IA,1.21,Solid Oak,154.00,5.50,5.50,847.00,847.00,16.94,1710.94
+14147,Allison "Steel Gravedigger" Douglas,MS,3.00,Brick,214.00,5.32,6.66,1138.48,1425.24,76.91,2640.63
+14215,Joanne "Damned" Miles,ND,1.38,Pinecones,150.00,1.50,2.66,225.00,399.00,6.24,630.24
+16582,Debra "Scorpion" Lane,ID,0.00,Brick,102.00,5.32,6.66,542.64,679.32,0.00,1221.96
+17383,Julia "Bandit" Chandler,TX,0.67,Leather,128.00,11.00,19.97,1408.00,2556.16,39.64,4003.80
+17413,"Sunrise" Miles,KS,0.55,Leather,33.00,11.00,19.97,363.00,659.01,10.22,1032.23
+18876,Heather "Friendly Gambler" Barrett,IA,1.33,Reeds,283.00,0.83,2.20,234.89,622.60,8.57,866.06
+19082,Friendly Howell,WY,0.31,Packed Dirt,367.00,1.10,2.20,403.70,807.40,0.00,1211.10
+21516,"Sunrise" Miles,NM,2.93,Packed Dirt,179.00,1.10,2.42,196.90,433.18,18.90,648.98

@@ -1,0 +1,19 @@
+2026,Blazeflare The Cremator,The Tomb of Hellish Ruin,14.00,Violetdream Iron,213.00,1224.69,349.36,260858.97,74413.68,46938.17,382210.82
+2429,Bedlam Spiritraven,Boiaburh Keep,16.00,Rocklava Mithril Of Revenants,232.00,1818.30,13.03,421845.60,3022.96,67978.97,492847.53
+2532,Bolttrap,The Bastion of the Lich Tyrant,43.00,Rocklava Mithril Of Revenants,159.00,1818.30,13.03,289109.70,2071.77,125208.03,416389.50
+5408,Emberfire,The Black Barrow of Zago the Possessed,28.00,Primordial False Gold,361.00,4459.34,226.00,1609821.74,81586.00,473594.17,2165001.91
+5481,"Gadriel, God of Resurrection",The Cuitamba Jungle,28.00,Stone Soulsteel Of The Skies,121.00,1798.28,13.21,217591.88,1598.41,61373.28,280563.57
+5574,Storm Seraphheart,Unicorn's Ward,13.31,Ensorceled Sandmetal Of Spirits,196.00,2956.98,87.00,579568.08,17052.00,77560.61,674180.69
+6693,Chainnail,The Dread Hive of Illfang the Kobold Lord,1.33,Zephyr Iron,170.00,2759.00,444.69,469030.00,75597.30,5446.27,550073.57
+7522,"Ingwenel, God of War",The Lazy Sage,19.97,Unknown Fatelightning Steel Of The Glacier,159.00,2017.40,54.28,320766.60,8630.52,65879.42,395276.54
+7643,Ironbrood,The Cuitamba Jungle,30.80,Mistgold Of Men,134.00,3065.71,48.40,410805.14,6485.60,129360.13,546650.87
+8662,Fate Seeker,Gili's Delve,-5.05,Shadowy Adamant,191.00,618.93,478.58,118215.63,91408.78,-10481.22,199143.19
+9401,Evilember The Firey,Haukri's Hold,25.30,Emerald Orichalcum,219.00,-368.87,128.90,-80782.53,28229.10,-13138.36,-65691.79
+9769,Shadow Gust,The Forsaken Sepulcher of Sorrows,48.79,Golems' Stonesapphire Gold Of The Glacier,311.00,3672.77,105.97,1142231.47,32956.67,575842.19,1751030.33
+12896,Cult Godseeker,The Grey Plains,19.97,Forgotten Mithril,184.00,1104.73,316.00,203270.32,58144.00,52282.86,313697.18
+13566,Wheelbolt The Machine,The Warrior and Flagon,53.24,Negative Mercury,194.00,4054.87,436.81,786644.78,84741.14,461834.54,1333220.46
+17672,"Ingwenel, God of War",The Grey Plains,19.97,Thunderbirds' Transcendent Dreamiron,385.00,2275.25,237.70,875971.25,91514.50,193497.15,1160982.90
+18186,Mecharig The Living Device,Boiaburh Keep,17.60,Litches' Fatal Mithril Of The Past,188.00,1460.78,405.96,274626.64,76320.48,63170.48,414117.60
+19518,Evilbrood,Fellfen Keep,61.53,Planar Mudtin Of Trolls,259.00,3067.17,405.79,794397.03,105099.61,557687.92,1457184.56
+21516,Rouge Roguemist,The Lazy Sage,19.97,Angels' Smoke Adamant Of The Mountains,324.00,3427.13,260.15,1110390.12,84288.60,238935.74,1433614.46
+22234,Gravebone The Unspeakable,Bifar's Deep,18.70,Ensorceled Gold Of The Dawn,38.00,6913.92,443.21,262728.96,16841.98,53118.48,332689.42

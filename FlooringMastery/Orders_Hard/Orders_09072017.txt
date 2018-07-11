@@ -1,0 +1,14 @@
+1182,Beamtrap,The Barrow of Malefic Ages,17.91,White Platinum,133.00,-47.81,145.00,-6358.73,19285.00,2326.73,15253.00
+1551,"Lenwenye, Goddess of Travel",Lacot Stronghold,30.88,Unicorns' Fatal Magma Metal Of The Ocean,261.00,1792.04,357.00,467722.44,93177.00,173878.83,734778.27
+2111,Jericho Wolf,Tower Farthing,22.41,Djinni's Evil Sandobsidian Steel Of The Future,246.00,3826.00,157.07,941196.00,38639.22,215563.75,1195398.97
+5440,Lance Knightseraph,Unicorn's Ward,13.31,Djinni's Mind Fogiron,228.00,2301.02,67.29,524632.56,15342.12,70196.71,610171.39
+7084,"Nelalwe, Lady of Fire",The Forsaken Delve of Lord Greywulf,39.00,Poison Adamant,235.00,1151.38,58.58,270574.30,13766.30,110892.83,395233.43
+8430,Chillfire The Chiller,Minas Gilloy,39.26,Hell Mercury Of The East,393.00,4636.34,284.60,1822081.62,111847.80,754232.47,2688161.89
+10441,Flora Amberslayer,The Citadel of Lord Greywulf,33.04,Stone Soulsteel Of The Skies,117.00,1798.28,13.21,210398.76,1545.57,69941.63,281885.96
+13913,Cult Godseeker,Tradun Castle,37.66,Plague Tin,139.00,4767.02,342.10,662615.78,47551.90,269863.72,980031.40
+14507,Shadow Tomblion,The Citadel of Lord Greywulf,33.04,Ensorceled Sandmetal Of Spirits,102.00,2956.98,95.70,301611.96,9761.40,102753.21,414126.57
+17095,Bronzespike,The Cracked Chalice,2.52,Unholy Poison Copper Of The Mountains,141.00,702.90,-10.16,99108.90,-1432.56,2930.29,100606.63
+17363,Rouge Tombreaper,Lamp Borough,4.95,Glowpearl Adamant Of Spirits,261.00,398.09,374.00,103901.49,97614.00,10075.77,211591.26
+19169,"Ingwenel, God of War",The Drunken Thief,12.65,Unspeakable Rotsoul Mithril Of Souls,158.00,248.00,485.85,39184.00,76764.30,15073.28,131021.58
+20820,Song Runetomb,The Hunter and Rose,44.44,Devils' Falserot Silver,110.00,2220.79,182.71,244286.90,20098.10,116329.40,380714.40
+22413,Sephiroth Drakecaster,Gili's Delve,-6.73,Fairies' Supreme Mistsmoke Lead Of The Future,187.00,3349.50,324.73,626356.50,60724.51,-48095.67,638985.34

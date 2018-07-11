@@ -1,0 +1,13 @@
+2111,Heather "Friendly Gambler" Barrett,OK,2.00,Pinecones,147.00,1.50,2.00,220.50,294.00,10.29,524.79
+3045,Darlene "Loner" Ford,MO,2.20,Reeds,310.00,0.75,2.00,232.50,620.00,17.05,869.55
+3360,Gloria "Devil" McCoy,UT,0.00,Pinecones,122.00,1.50,2.20,183.00,268.40,0.00,451.40
+3680,Theresa "Kid" Robinson,ND,1.25,Cedar Planks,247.00,2.00,5.50,494.00,1358.50,18.52,1871.02
+4202,"Sunrise" Miles,MT,3.00,Beechwood,194.00,3.00,5.00,582.00,970.00,46.56,1598.56
+5302,Amanda Hart "the Loner",ID,0.00,Brick,263.00,4.84,6.05,1272.92,1591.15,0.00,2864.07
+5356,Allison "Steel Gravedigger" Douglas,MT,3.00,Pinecones,227.00,1.50,2.42,340.50,549.34,26.70,916.54
+6342,Renee "Loco Tracker" Jordan,MS,3.00,Solid Oak,291.00,5.50,5.50,1600.50,1600.50,96.03,3297.03
+10627,"Doom" McCoy,OK,2.42,Packed Dirt,204.00,1.00,1.50,204.00,306.00,10.20,520.20
+20596,Darlene "Loner" Ford,KS,0.55,Solid Oak,179.00,5.50,6.66,984.50,1192.14,21.77,2198.41
+20690,Heather "Friendly Gambler" Barrett,UT,0.00,Leather,339.00,11.00,19.97,3729.00,6769.83,0.00,10498.83
+21762,Renee "Loco Tracker" Jordan,ID,0.00,Leather,189.00,11.00,19.97,2079.00,3774.33,0.00,5853.33
+22557,Susan "Damnation" Fleming,MS,3.00,Solid Oak,173.00,5.50,6.66,951.50,1152.18,63.11,2166.79

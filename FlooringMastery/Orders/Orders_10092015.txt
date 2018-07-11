@@ -1,0 +1,19 @@
+613,Cynthia "the Vixen",NM,2.20,Beechwood,201.00,3.00,5.00,603.00,1005.00,32.16,1640.16
+627,"Bane" Jennings,IA,1.00,Reeds,265.00,0.75,2.00,198.75,530.00,7.29,736.04
+1705,Julia "Bandit" Chandler,ID,0.00,Reeds,312.00,0.75,2.00,234.00,624.00,0.00,858.00
+3868,Melissa "Lonesome Stalker" Riley,OK,2.00,Leather,336.00,10.00,16.50,3360.00,5544.00,178.08,9082.08
+4000,Allison "Steel Gravedigger" Douglas,AL,1.00,Beechwood,213.00,3.00,5.00,639.00,1065.00,17.04,1721.04
+6733,Surgeon Grant,ID,0.00,Pebbles,202.00,0.80,4.84,161.60,977.68,0.00,1139.28
+6947,Florence "Leather Doc" Grant,ND,1.25,Pebbles,189.00,0.80,4.84,151.20,914.76,10.66,1076.62
+7020,Joanne "Damned" Miles,MT,3.00,Dirt,252.00,0.50,1.00,126.00,252.00,11.34,389.34
+7054,Vanessa "Scalper" Rhodes,WY,0.31,Beechwood,289.00,3.00,5.00,867.00,1445.00,0.00,2312.00
+8835,"Sunrise" Miles,NV,0.31,Solid Oak,301.00,5.50,5.50,1655.50,1655.50,0.00,3311.00
+9401,Amanda Hart "the Loner",AL,1.00,Cedar Planks,222.00,2.20,6.05,488.40,1343.10,18.32,1849.82
+11297,Tammy Carlson "the Killer",AR,2.20,Dirt,219.00,0.50,1.00,109.50,219.00,6.57,335.07
+14393,Lucky Johnson,NV,0.31,Reeds,99.00,0.75,2.20,74.25,217.80,0.00,292.05
+14640,Tina "Lady" Anderson,KS,0.55,Packed Dirt,97.00,1.10,2.20,106.70,213.40,3.20,323.30
+14983,Michele Watson "the Loner",IA,1.21,Solid Oak,129.00,5.50,5.50,709.50,709.50,14.19,1433.19
+15571,Kathy Murphy "the Thinker",CA,0.61,Reeds,236.00,0.83,2.20,195.88,519.20,7.15,722.23
+15979,Maureen "Cursed" Andrews,NV,0.31,Beechwood,346.00,3.63,5.50,1255.98,1903.00,0.00,3158.98
+18495,Tammy Carlson "the Killer",MO,2.20,Beechwood,268.00,3.63,5.50,972.84,1474.00,48.94,2495.78
+23267,Friendly Howell,NV,0.31,Brick,262.00,5.32,6.66,1393.84,1744.92,0.00,3138.76

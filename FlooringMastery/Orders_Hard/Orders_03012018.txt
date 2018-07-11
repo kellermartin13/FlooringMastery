@@ -1,0 +1,22 @@
+787,Cult Godseeker,The Wizard's House,43.58,Hidden Shadowice Lead,204.00,2729.00,-46.75,556716.00,-9537.00,240758.76,787937.76
+1899,Lance Knightseraph,Hartshill Ward,41.98,Stone Soulsteel Of The Skies,252.00,1634.80,12.01,411969.60,3026.52,174298.37,589294.49
+3818,Burnbrood The Freezer,The Hunter and Rose,40.40,Foulopal Copper Of The Skies,293.00,1221.16,403.00,357799.88,118079.00,190351.55,666230.43
+4516,Emberspawn,The Barrow of Terrible Horror,-1.10,Sphinxes' Mistsoul Bronze Of The Past,89.00,1793.23,183.70,159597.47,16349.30,-1759.47,174187.30
+4890,Mecharig The Living Device,The Tower of Sabiesu the Awesome,4.40,Negative Mercury,192.00,4054.87,361.00,778535.04,69312.00,33913.88,881760.92
+7872,"Ariel, God of Luck",Grori's Deep,49.95,Venom Timegold Of Dwarves,206.00,3036.00,269.00,625416.00,55414.00,340415.00,1021245.00
+7880,Fate Seeker,Barad Kesa,4.32,Fairies' Supreme Mistsmoke Lead Of The Future,274.00,3349.50,324.73,917763.00,88976.02,40269.56,1047008.58
+10614,Song Runetomb,The Citadel of Lord Greywulf,33.04,Magicians' Legendary Poison Metal,241.00,2472.35,229.81,595836.35,55384.21,214902.78,866123.34
+11082,Deathbrood,Shainan's Hold,23.96,Sapphire Mindlead,364.00,1307.71,47.00,476006.44,17108.00,118347.47,611461.91
+11340,Dawn Darkzealot,Eved Castle,5.09,Tin Of The Tundra,167.00,2839.87,174.91,474258.29,29209.97,25173.41,528641.67
+11830,Seraphim Tsunami,Archring Borough,17.93,Ghostly Magic Adamant,240.00,4836.38,230.90,1160731.20,55416.00,218906.50,1435053.70
+11831,Song Runetomb,Unicorn's Ward,14.64,Meteoric Dustzephyr Orichalcum,197.00,375.00,268.49,73875.00,52892.53,19015.13,145782.66
+13739,Snowflame The Evil,The Cracked Chalice,2.52,Spectres' Shadowy Terrorglow Adamant Of Life,166.00,5164.28,248.66,857270.48,41277.56,26956.44,925504.48
+14231,Snowflame The Evil,The Citadel of Lord Greywulf,33.04,Emerald Orichalcum,155.00,-405.76,128.90,-62892.80,19979.50,-14161.39,-57074.69
+16573,Bronzespawn,The Fortress of Gama,10.16,Ghostly Magic Adamant,81.00,4836.38,230.90,391746.78,18702.90,41044.97,451494.65
+16863,Beamsprocket The Grasping,The Drunken Thief,12.65,Ensorceled Gold Of The Dawn,72.00,6913.92,402.92,497802.24,29010.24,68485.62,595298.10
+16948,Jericho Wolf,The Temple of Merciless Necromancy,50.94,Primordial Mud Orichalcum,88.00,-469.36,85.11,-41303.68,7489.68,-17245.14,-51059.14
+17499,Rouge Tombreaper,Lamp Borough,4.95,Hidden Shadowice Lead,96.00,2729.00,-62.23,261984.00,-5974.08,12800.50,268810.42
+17736,Graveterror,North Arcanist's Farthing,55.18,Thunderbirds' Transcendent Dreamiron,282.00,2275.25,237.70,641620.50,67031.40,389758.54,1098410.44
+21249,Graveterror,Eved Castle,5.09,Phantasmal Tin Of The Swamps,190.00,5964.74,-7.99,1133300.60,-1518.10,56589.12,1188371.62
+22155,Bronzespike,The Tower of the Demon Warlord,20.97,Meteoric Mirrormuck Orichalcum Of The Forests,262.00,2374.02,185.77,621993.24,48671.74,140839.65,811504.63
+23123,Springpulley The Binder,The Lazy Sage,19.97,Incubi's Iron Of The Dawn,325.00,1200.96,424.31,390312.00,137900.75,105642.55,633855.30

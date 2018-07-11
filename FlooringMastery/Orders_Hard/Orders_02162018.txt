@@ -1,0 +1,17 @@
+940,Snarepiston The Mechanical,The Citadel of Alammius,3.18,Sapphire Mindlead,197.00,1307.71,47.00,257618.87,9259.00,8006.34,274884.21
+2797,Spikerivet,The Bastion of Barbos,21.29,Forgotten Mithril,60.00,913.00,316.00,54780.00,18960.00,15485.40,89225.40
+3814,Maverick Wind,The Pilgrim's Cup,41.93,Glittering Orichalcum,188.00,-131.00,360.23,-24628.00,67723.24,18100.00,61195.24
+5246,Snaretool The Constructed,Arcanist's Farthing,3.00,Primordial Plague Mercury Of Legend,170.00,339.81,273.90,57767.70,46563.00,3129.92,107460.62
+7483,Springcoil,Tradun Castle,34.24,Phantasmal Tin Of The Swamps,65.00,4074.00,-6.60,264810.00,-429.00,89889.54,354270.54
+7640,Wind Dire,Grori's Deep,49.95,Shadowy Adamant,344.00,618.93,478.58,212911.92,164631.52,188771.72,566315.16
+10108,Chainhorror,The Dark Caverns of Woe,3.29,Sphinxes' Mistsoul Bronze Of The Past,237.00,2169.81,202.07,514244.97,47890.59,16864.07,578999.63
+10632,"Ingwenel, God of War",The Fortress of Gama,10.16,Shadow Steel,221.00,4677.78,465.30,1033789.38,102831.30,113662.07,1250282.75
+10786,"Ariel, God of Luck",The Khazahol Crags,-1.97,Stone Soulsteel Of The Skies,234.00,1798.28,13.21,420797.52,3091.14,-8477.77,415410.89
+11535,Bronzespike,The Archer and Scroll,39.60,Icy Shock Silver,292.00,1482.98,407.00,433030.16,118844.00,220749.66,772623.82
+12117,Chillfire The Chiller,The Tomb of Hellish Ruin,16.94,Toxic Mistlead Of The Past,42.00,1557.54,136.06,65416.68,5714.52,12092.30,83223.50
+13956,Cinderflame,The Bastion of Gothmog of Udun,54.84,Shadowhell Mithril,295.00,483.15,286.41,142529.25,84490.95,124861.11,351881.31
+15392,Emberspawn,Barad Kesa,4.75,Incubi's Iron Of The Dawn,128.00,1200.96,424.31,153722.88,54311.68,10401.73,218436.29
+15673,Claw Mist,The Glano Forest,3.00,Glittering Orichalcum,26.00,-158.51,360.23,-4121.26,9365.98,157.34,5402.06
+17213,Storm Seraphheart,North Arcanist's Farthing,55.18,Meteoric Mirrormuck Orichalcum Of The Forests,253.00,2374.02,185.77,600627.06,46999.81,356194.78,1003821.65
+19822,Emberspawn,Gifeld Castle,6.22,Witchs' Forbidden Rockrainbow Bronze,78.00,655.60,425.92,51136.80,33221.76,5061.51,89420.07
+21919,Jericho Wolf,Barad Kesa,5.23,Otherworldly Truesoul Orichalcum Of The East,165.00,1061.78,392.65,175193.70,64787.25,11999.05,251980.00

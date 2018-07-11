@@ -1,0 +1,15 @@
+76,Fate Ivycaster,Love Keep,7.00,Rainbowglitter Tin,162.00,4475.87,176.36,725090.94,28570.32,52756.29,806417.55
+1419,"Selik, God of Death",Shainan's Hold,19.80,Incubi's Iron Of The Dawn,154.00,1200.96,385.74,184947.84,59403.96,48870.36,293222.16
+4057,"Finarfin, God of Protection",The Pilgrim's Cup,41.93,Hidden Shadowice Lead,138.00,2729.00,-56.57,376602.00,-7806.66,154894.04,523689.38
+9720,Rune Rougehate,The Forsaken Sepulcher of Sorrows,48.79,Spectres' Shadowy Terrorglow Adamant Of Life,336.00,4694.80,205.50,1577452.80,69048.00,806785.39,2453286.19
+10454,Valentine Lawslayer,Haukri's Hold,27.83,Tritons' Time Stoneiron Of Legend,115.00,1760.00,204.37,202400.00,23502.55,63252.71,289155.26
+13981,"Gono, Goddess of the Earth",The Dark Caverns of Woe,3.29,Spectres' Shadowy Terrorglow Adamant Of Life,319.00,5164.28,248.66,1647405.32,79322.54,51801.84,1778529.70
+15032,Claw Mist,Gena's Hold,2.66,Violetdream Iron,188.00,1224.69,349.36,230241.72,65679.68,8877.64,304799.04
+15535,Springsprocket,Cawold Castle,24.09,Unspeakable Rotsoul Mithril Of Souls,194.00,248.00,401.53,48112.00,77896.82,30242.12,156250.94
+15815,Shadow Gust,The Tower of Sabiesu the Awesome,5.32,Shadowy Adamant,159.00,618.93,526.44,98409.87,83703.96,9105.69,191219.52
+16983,"Ingwenel, God of War",The Cracked Chalice,2.52,Venom Jewelmetal Of The Desert,146.00,1388.00,298.14,202648.00,43528.44,7385.29,253561.73
+18113,Freezebrood,The Nulukkhath Spires,11.65,Poison Adamant,202.00,1266.52,64.44,255837.04,13016.88,32262.47,301116.39
+20694,Fate Seeker,Bergfison's Deep,52.71,Unspeakable Rotsoul Mithril Of Souls,247.00,272.80,485.85,67381.60,120004.95,99314.87,286701.42
+21346,"Maeglodor, God of Thieves",Pewold Keep,22.57,Angels' Smoke Adamant Of The Mountains,249.00,3427.13,260.15,853355.37,64777.35,211170.53,1129303.25
+22922,Springcoil,Boiaburh Keep,17.60,Devils' Falserot Silver,362.00,2220.79,182.71,803925.98,66141.02,156612.06,1026679.06
+23092,Evilcoil The Machine,Barad Kesa,5.23,White Platinum,248.00,-63.64,193.00,-15782.72,47864.00,1604.06,33685.34

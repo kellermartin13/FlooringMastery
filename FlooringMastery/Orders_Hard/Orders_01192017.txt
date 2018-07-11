@@ -1,0 +1,19 @@
+260,Springpulley The Binder,Pewold Keep,16.95,Zephyr Adamant,344.00,3840.00,102.93,1320960.00,35407.92,230582.55,1586950.47
+5048,Jericho Wolf,The Black Barrow of Zago the Possessed,28.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas,131.00,4123.68,122.49,540202.08,16046.19,155749.52,711997.79
+6453,Dagger Reaper,The Dread Hive of Illfang the Kobold Lord,1.33,Zephyr Iron,137.00,2759.00,444.69,377983.00,60922.53,4389.06,443294.59
+7363,Sunrise Godwarlock,The Forsaken Hive of Galima the Mighty,24.70,Fleshshock Mercury,221.00,4417.00,279.40,976157.00,61747.40,259476.10,1297380.50
+9139,"Gono, Goddess of the Earth",Unicorn's Ward,14.64,Ghouls' Imperial Soulzephyr Mithril Of The Seas,264.00,4123.68,122.49,1088651.52,32337.36,168148.33,1289137.21
+9667,Seraphim Tsunami,Unicorn's Ward,14.64,Goddesses' Spectral Poison Steel,354.00,3773.99,269.83,1335992.46,95519.82,214726.84,1646239.12
+10883,Bonescare,The Black Barrow of Bery,-0.07,Mana-touched Greenglitter Gold Of Giants,71.00,1173.98,467.50,83352.58,33192.50,0.00,116545.08
+11707,Cinderflame,South Brightcrown Borough,42.25,Magic Adamant,228.00,1838.00,228.40,419064.00,52075.20,197878.46,669017.66
+12406,Burnfreeze The Cold,The Glano Forest,3.00,Vampires' Fang Emeraldsilver,159.00,2762.99,455.55,439315.41,72432.45,15352.44,527100.30
+13434,Graveterror,The Citadel of Alammius,3.50,Meteoric Dustzephyr Orichalcum,249.00,375.00,268.49,93375.00,66854.01,6409.16,166638.17
+13861,Song Runetomb,Lacot Stronghold,37.37,Shadowy Adamant,21.00,618.93,526.44,12997.53,11055.24,8899.52,32952.29
+14530,Burnbrood The Freezer,Archscepter Borough,3.30,Ensorceled Sandmetal Of Spirits,139.00,2956.98,95.70,411020.22,13302.30,12729.68,437052.20
+14768,Song Runetomb,The Tower of Aramum,42.90,Ensorceled Sandmetal Of Spirits,45.00,2956.98,95.70,133064.10,4306.50,59069.36,196439.96
+15197,Emberspawn,The Shadow Downs,13.21,Mithril Of The Tropics,189.00,4126.10,11.98,779832.90,2264.22,101672.63,883769.75
+15639,Shadow Gust,Noble's Village,30.25,Unknown Fatelightning Steel Of The Glacier,238.00,2441.05,65.68,580969.90,15631.84,178980.52,775582.26
+17143,Steelterror The Blade,The Cracked Chalice,2.52,Venom Jewelmetal Of The Desert,122.00,1388.00,298.14,169336.00,36373.08,6171.27,211880.35
+19470,Bolttrap,The Khazahol Crags,-2.17,Mithril Of The Tropics,268.00,4538.71,11.98,1216374.28,3210.64,-24391.70,1195193.22
+20614,Flora Amberslayer,Grori's Deep,66.50,Unspeakable Rotsoul Mithril Of Souls,80.00,272.80,485.85,21824.00,38868.00,40056.72,100748.72
+23167,Bedlam Spiritraven,Bergfison's Deep,57.98,Mithril Of The Tropics,257.00,4992.58,11.98,1283093.06,3078.86,745979.71,2032151.63

@@ -1,0 +1,16 @@
+1253,Jo "the Joker",ND,1.25,Pinecones,217.00,1.50,2.00,325.50,434.00,7.60,767.10
+1563,Theresa "Kid" Robinson,OK,2.00,Pebbles,137.00,0.80,4.40,109.60,602.80,14.25,726.65
+1924,Gladys "Locoweed" Keller,AR,2.20,Pebbles,176.00,0.80,4.40,140.80,774.40,18.30,933.50
+4354,Michele Watson "the Loner",AR,2.20,Solid Oak,189.00,5.50,5.50,1039.50,1039.50,41.58,2120.58
+5802,Ida Russell "the Rustler",AL,1.00,Brick,251.00,4.84,6.66,1214.84,1671.66,28.86,2915.36
+6601,Maureen "Cursed" Andrews,AR,2.20,Packed Dirt,6.00,1.00,1.50,6.00,9.00,0.30,15.30
+7477,Tina "Lady" Anderson,UT,0.00,Cedar Planks,231.00,2.20,6.05,508.20,1397.55,0.00,1905.75
+7778,Kathy Murphy "the Thinker",UT,0.00,Pinecones,199.00,1.50,2.66,298.50,529.34,0.00,827.84
+9173,Vanessa "Scalper" Rhodes,AR,2.20,Pinecones,225.00,1.50,2.66,337.50,598.50,18.72,954.72
+12284,Helen Webb "the Dancer",ID,0.00,Pinecones,160.00,1.50,2.66,240.00,425.60,0.00,665.60
+12844,Kathy Murphy "the Thinker",TX,0.67,Solid Oak,229.00,5.50,5.50,1259.50,1259.50,25.19,2544.19
+14659,Debra "Scorpion" Lane,NV,0.31,Dirt,99.00,0.50,1.00,49.50,99.00,0.00,148.50
+15045,Melissa "Lonesome Stalker" Riley,NM,2.66,Cedar Planks,166.00,2.20,6.05,365.20,1004.30,41.08,1410.58
+16576,Heather "Friendly Gambler" Barrett,KS,0.55,Pinecones,256.00,1.50,2.66,384.00,680.96,10.65,1075.61
+20235,Betty "Happy Thinker" Watson,UT,0.00,Pinecones,236.00,1.50,2.66,354.00,627.76,0.00,981.76
+23356,"Doom" McCoy,KS,0.55,Brick,228.00,5.32,6.66,1212.96,1518.48,27.31,2758.75

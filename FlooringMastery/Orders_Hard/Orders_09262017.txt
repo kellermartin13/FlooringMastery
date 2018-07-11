@@ -1,0 +1,16 @@
+1237,Snarepiston The Mechanical,The Wizard's House,43.58,Muck Orichalcum Of Ogres,283.00,3115.32,274.19,881635.56,77595.77,422061.79,1381293.12
+3841,Boltcrank The Trapper,Citadel Ward,25.82,Violetstone Tin Of Death,320.00,2245.23,156.10,718473.60,49952.00,199790.66,968216.26
+4173,Jericho Wolf,Grori's Deep,45.41,Incubi's Iron Of The Dawn,97.00,1200.96,385.74,116493.12,37416.78,69259.46,223169.36
+5051,"Selik, God of Death",The Fortress of the Lich Queen,36.35,Primordial False Gold,183.00,4459.34,226.00,816059.22,41358.00,308670.20,1166087.42
+6784,Storm Squallmourner,South Brightcrown Borough,42.25,Timeiron,279.00,1596.00,228.33,445284.00,63704.07,213774.99,722763.06
+6971,Rouge Tombreaper,The Demon and Toad,23.75,Meteoric Dustzephyr Orichalcum,233.00,375.00,244.08,87375.00,56870.64,34618.95,178864.59
+8179,Tiger Mistmidnight,Khali's Delve,52.71,Negative Rockglitter Mercury Of Trolls,233.00,1483.90,423.07,345748.70,98575.31,235491.73,679815.74
+8643,"Gono, Goddess of the Earth",The Fortress of Gama,10.16,Negative Rockglitter Mercury Of Trolls,89.00,1483.90,423.07,132067.10,37653.23,16972.03,186692.36
+9154,Dawn Darkzealot,Gawold Castle,5.50,Rocklava Mithril Of Revenants,289.00,1818.30,14.33,525488.70,4141.37,31777.80,561407.87
+9215,Metalbrood,Kada's Deep,33.00,Violetstone Tin Of Death,158.00,2245.23,156.10,354746.34,24663.80,125205.35,504615.49
+10778,Storm Seraphheart,The Khazahol Crags,-1.97,Glowpearl Adamant Of Spirits,32.00,398.09,374.00,12738.88,11968.00,-494.14,24212.74
+13407,Springpulley The Binder,Castle Village,41.26,Emerald Orichalcum,93.00,-405.76,128.90,-37735.68,11987.70,-10556.67,-36304.65
+16053,Rouge Roguemist,Fellfen Keep,61.53,Nymphs' Luminous Rotmercury Of The Skies,142.00,292.60,189.00,41549.20,26838.00,42400.06,110787.26
+16522,Spikespawn,Gena's Hold,2.66,Fleshshock Mercury,88.00,4858.70,338.07,427565.60,29750.16,13719.47,471035.23
+16642,"Ingwenel, God of War",The Broken Arrow,36.39,Ghostly Magic Adamant,155.00,4836.38,230.90,749638.90,35789.50,282754.22,1068182.62
+17856,"Prusu, God of Love",Boiaburh Keep,17.60,God-touched Faterainbow Orichalcum Of Spectres,339.00,370.41,32.01,125568.99,10851.39,24555.67,160976.05

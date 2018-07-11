@@ -1,0 +1,22 @@
+2617,Snaretool The Constructed,Gili's Delve,-4.59,Phantasmal Smokezephyr Mercury Of Men,161.00,-317.16,69.00,-51062.76,11109.00,1997.69,-37956.07
+2686,Bedlam Spiritraven,The Cracked Chalice,2.29,Rocklava Mithril Of Revenants,152.00,1818.30,13.03,276381.60,1980.56,5567.24,283929.40
+2979,Shadow Tomblion,Hafeld Keep,29.00,Phantasmal Tin Of The Swamps,159.00,4074.00,-6.60,647766.00,-1049.40,187547.81,834264.41
+3006,"Baltha, Goddess of Knowledge",Kada's Deep,30.00,Fog Lavaplatinum Of Life,72.00,1078.00,17.00,77616.00,1224.00,23652.00,102492.00
+3179,"Maeglodor, God of Thieves",The Archer and Blade,9.00,Zephyr Iron,88.00,2759.00,404.26,242792.00,35574.88,25053.02,303419.90
+3646,Maverick Wind,The Lewd King,27.00,Planar Mudtin Of Trolls,15.00,2304.41,335.36,34566.15,5030.40,10691.07,50287.62
+5515,"Prusu, God of Love",The Dungeon of Merciless Woe,38.62,Ensorceled Sandmetal Of Spirits,177.00,2956.98,87.00,523385.46,15399.00,210125.94,748910.40
+5991,Dawn Darkzealot,The Broken Arrow,30.07,Fairies' Supreme Mistsmoke Lead Of The Future,205.00,3349.50,324.73,686647.50,66569.65,225965.14,979182.29
+6562,Springsprocket,The Tower of Aces the Accursed,13.31,Timeiron,160.00,1596.00,228.33,255360.00,36532.80,37946.06,329838.86
+7130,Chainblade The Cadaverous,Bergfison's Deep,39.60,Negative Rockglitter Mercury Of Trolls,355.00,1483.90,423.07,526784.50,150189.85,270789.74,947764.09
+7185,Slayer Claw,Dysley Stronghold,45.98,Unholy Poison Copper Of The Mountains,210.00,580.91,-9.24,121991.10,-1940.40,55223.32,175274.02
+9758,Scarefear The Blade,The Forsaken Sepulcher of Sorrows,48.79,Spirits' Living Wordhammer Tin Of The Trees,95.00,4777.30,26.40,453843.50,2508.00,223612.24,679963.74
+11183,Emberspawn,Ring District,35.00,Phantasmal Plague Adamant,254.00,-186.03,-7.18,-47251.62,-1823.72,-17176.37,-66251.71
+11205,Seraphim Tsunami,Gili's Delve,-5.56,Tin Of The Tundra,223.00,2839.87,174.91,633291.01,39004.93,-40337.76,631958.18
+11585,Shadow Tomblion,The Archer and Scroll,39.60,God-touched Greengem Platinum,174.00,1281.72,-39.60,223019.28,-6890.40,86451.55,302580.43
+15640,Rune Rougehate,Gili's Delve,-6.73,Plague Tin,55.00,4767.02,342.10,262186.10,18815.50,-19670.11,261331.49
+16526,Seraphim Tsunami,The Drunken Thief,12.65,Shadowhell Mithril,184.00,483.15,315.05,88899.60,57969.20,19092.94,165961.74
+18073,Wind Dire,Boiaburh Keep,17.60,Negative Rockglitter Mercury Of Trolls,189.00,1632.29,619.42,308502.81,117070.38,76603.17,502176.36
+18184,Boltcrank The Trapper,Dysley Stronghold,45.98,Poison Adamant,190.00,1266.52,64.44,240638.80,12243.60,116325.90,369208.30
+18954,Burnfreeze The Cold,Reyny Keep,11.00,Grayplatinum,92.00,3032.59,306.97,278998.28,28241.24,33796.35,341035.87
+21058,Shiverflame The Freezer,Waleah Castle,0.85,Unknowable Mindsilver,356.00,4313.65,402.60,1535659.40,143325.60,16789.85,1695774.85
+23025,Beamsprocket The Grasping,Pawic Keep,0.62,Pearl Mirrorice Steel Of Changelings,325.00,328.53,55.75,106772.25,18118.75,1248.91,126139.91
